@@ -1,0 +1,113 @@
+link,Subject,id,author
+017138.html,R-alpha: eigen(),17138,Peter Dalgaard BSA
+017143.html,R-alpha: Re: contr.helmert: bug (??) don't have the SAME problem,17143,Peter Dalgaard BSA
+017145.html,"R-alpha: cbind/memory-bug, (was Re: contr.helmert bug)",17145,Peter Dalgaard BSA
+017180.html,R-alpha: A Couple of Queries,17180,Peter Dalgaard BSA
+017192.html,R-alpha: Eigenvalue Computation Query,17192,Peter Dalgaard BSA
+017201.html,R-alpha: planned update of ctest,17201,Peter Dalgaard BSA
+017220.html,R-alpha: S-help  (and  S-help-to-R-help),17220,Peter Dalgaard BSA
+017223.html,R-alpha: R-beta: regex,17223,Peter Dalgaard BSA
+017242.html,"R-alpha: signif( small , d) gives NA",17242,Peter Dalgaard BSA
+017139.html,R-alpha: ==NULL,17139,Robert Gentleman
+017182.html,R-alpha: XDR,17182,Robert Gentleman
+017236.html,R-alpha: cat,17236,Robert Gentleman
+017186.html,R-alpha: A Couple of Queries,17186,Paul Gilbert
+017206.html,R-alpha: Eigenvalue Computation Query,17206,Paul Gilbert
+017159.html,R-alpha: Hypergeometric Distribution,17159,Kurt Hornik
+017167.html,R-alpha: Hypergeometric Distribution,17167,Kurt Hornik
+017168.html,R-alpha: Re: R-beta: ls.print,17168,Kurt Hornik
+017170.html,R-alpha: R-0.49 patch 2,17170,Kurt Hornik
+017175.html,R-alpha: Revised Patch 2,17175,Kurt Hornik
+017185.html,R-alpha: A Couple of Queries,17185,Kurt Hornik
+017189.html,R-alpha: small doc bug,17189,Kurt Hornik
+017190.html,R-alpha: Eigenvalue Computation Query,17190,Kurt Hornik
+017193.html,R-alpha: Re unified shell script,17193,Kurt Hornik
+017196.html,R-alpha: S_alloc,17196,Kurt Hornik
+017198.html,R-alpha: planned update of ctest,17198,Kurt Hornik
+017199.html,R-alpha: elementary statistics,17199,Kurt Hornik
+017200.html,No subject,17200,Kurt Hornik
+017203.html,R-alpha: factors ...,17203,Kurt Hornik
+017204.html,R-alpha: iris,17204,Kurt Hornik
+017212.html,R-alpha: iris,17212,Kurt Hornik
+017213.html,No subject,17213,Kurt Hornik
+017219.html,R-alpha: S-help  (and  S-help-to-R-help),17219,Kurt Hornik
+017226.html,R-alpha: S-help  (and  S-help-to-R-help),17226,Kurt Hornik
+017227.html,R-alpha: apropos() available,17227,Kurt Hornik
+017229.html,No subject,17229,Kurt Hornik
+017234.html,R-alpha: generic write(),17234,Kurt Hornik
+017244.html,R-alpha: cat,17244,Kurt Hornik
+017146.html,R-alpha: Equations in Plots,17146,Ross Ihaka
+017147.html,R-alpha: Memory errors and cbind,17147,Ross Ihaka
+017150.html,R-alpha: Equations in Plots,17150,Ross Ihaka
+017151.html,R-alpha: machine-independent .Rdata,17151,Ross Ihaka
+017158.html,R-alpha: Hypergeometric Distribution,17158,Ross Ihaka
+017164.html,R-alpha: Hypergeometric Distribution,17164,Ross Ihaka
+017165.html,R-alpha: XDR and Portable Data,17165,Ross Ihaka
+017166.html,R-alpha: R-0.49 Patch 2,17166,Ross Ihaka
+017171.html,R-alpha: Patch2,17171,Ross Ihaka
+017173.html,R-alpha: Revised Patch 2,17173,Ross Ihaka
+017179.html,R-alpha: A Couple of Queries,17179,Ross Ihaka
+017183.html,R-alpha: A Couple of Queries,17183,Ross Ihaka
+017184.html,R-alpha: A Quick Way to Kill S ...,17184,Ross Ihaka
+017187.html,R-alpha: Eigenvalue Computation Query,17187,Ross Ihaka
+017210.html,R-alpha: factors ...,17210,Ross Ihaka
+017211.html,R-alpha: iris,17211,Ross Ihaka
+017224.html,R-alpha: missing warning message,17224,Ross Ihaka
+017225.html,R-alpha: S-help  (and  S-help-to-R-help),17225,Ross Ihaka
+017232.html,R-alpha: R-beta: regex,17232,Ross Ihaka
+017233.html,R-alpha: var() and missing,17233,Ross Ihaka
+017235.html,R-alpha: generic write(),17235,Ross Ihaka
+017237.html,R-alpha: Re:  Re(1i) = 2.4976e-307,17237,Ross Ihaka
+017238.html,R-alpha: R-beta: regex,17238,Ross Ihaka
+017239.html,R-alpha: var() and missing,17239,Ross Ihaka
+017245.html,R-alpha: 1:n is not integer,17245,Ross Ihaka
+017246.html,R-alpha: 1:n is not integer,17246,Ross Ihaka
+017154.html,"R-alpha: plot, axis &amp; log",17154,Arne Kovac
+017155.html,R-alpha: Another error in axis,17155,Arne Kovac
+017157.html,R-alpha: Logarithmic scales,17157,Arne Kovac
+017191.html,R-alpha: Eigenvalue Computation Query,17191,Friedrich Leisch
+017215.html,R-alpha: missing warning message,17215,Friedrich Leisch
+017137.html,R-alpha: ==NULL,17137,Thomas Lumley
+017144.html,R-alpha: Re: contr.helmert bug,17144,Thomas Lumley
+017148.html,R-alpha: Equations in Plots,17148,Thomas Lumley
+017156.html,R-alpha: r-beta: lm.influence,17156,Thomas Lumley
+017172.html,R-alpha: batch mode.,17172,Thomas Lumley
+017174.html,R-alpha: batch mode,17174,Thomas Lumley
+017177.html,R-alpha: stop() in batch mode.,17177,Thomas Lumley
+017181.html,R-alpha: A Couple of Queries,17181,Thomas Lumley
+017207.html,R-alpha: factors ...,17207,Thomas Lumley
+017209.html,"R-alpha: Plot: Title above 'mfrow=c(2,2)' ??",17209,Thomas Lumley
+017218.html,R-alpha: S-help  (and  S-help-to-R-help),17218,Thomas Lumley
+017221.html,R-alpha: R-beta: regex,17221,Thomas Lumley
+017230.html,R-alpha: R-beta: regex,17230,Thomas Lumley
+017231.html,R-alpha: var() and missing,17231,Thomas Lumley
+017136.html,R-alpha: ==NULL,17136,Martin Maechler
+017140.html,R-alpha: ==NULL,17140,Martin Maechler
+017142.html,R-alpha: contr.helmert: bug (??) don't have the SAME problem,17142,Martin Maechler
+017152.html,R-alpha: R-0.49 / S-plus: &quot;default argument evaluation&quot; bugs and woes,17152,Martin Maechler
+017160.html,R-alpha: Logarithmic scales -- patch to 'legend',17160,Martin Maechler
+017161.html,R-alpha: fixing dhyper.c: another less important typo,17161,Martin Maechler
+017162.html,R-alpha: oops -- 2nd patch to 'legend',17162,Martin Maechler
+017163.html,R-alpha: ISO-latin-1 characters in strings -- print.default &amp; PARSE(?) problems,17163,Martin Maechler
+017169.html,R-alpha: Re: R-beta: ls.print,17169,Martin Maechler
+017176.html,R-alpha: batch mode. -- okay for me,17176,Martin Maechler
+017178.html,R-alpha: stop() in batch mode [yes;  was not in  0.16.1],17178,Martin Maechler
+017194.html,"R-alpha: print 'problems': print(2^30, digits=12); comments at start of function()",17194,Martin Maechler
+017195.html,R-alpha: rep(.) and aperm(.)  lose names(.) and dimnames(.)  -- Patch,17195,Martin Maechler
+017202.html,"R-alpha: plot.default(.) : (too?) many  &quot;...&quot;  ---  plot(.., lab =c(10,10,7)) fails",17202,Martin Maechler
+017205.html,"R-alpha: plot(1); axis(1, at=10) &gt;&gt;&gt; Seg.fault  -- and a patch",17205,Martin Maechler
+017208.html,"R-alpha: Plot: Title above 'mfrow=c(2,2)' ??",17208,Martin Maechler
+017214.html,R-alpha: S-help  (and  S-help-to-R-help),17214,Martin Maechler
+017216.html,R-alpha: options(..) vs.  .Options  //  Re(1i) = 2.4976e-307,17216,Martin Maechler
+017217.html,R-alpha: Re:  Re(1i) = 2.4976e-307,17217,Martin Maechler
+017228.html,R-alpha: Re: S-help -- Ultimate doc.== source : $SPLUS/cmd/help.tr &amp; help.nr,17228,Martin Maechler
+017240.html,R-alpha: 1:n is not integer,17240,Martin Maechler
+017241.html,"R-alpha: signif( small , d) gives NA",17241,Martin Maechler
+017243.html,R-alpha: patch for formatC(..char.vector..),17243,Martin Maechler
+017247.html,R-alpha: bug report  and patch  for   rep(.),17247,Martin Maechler
+017149.html,R-alpha: machine-independent .Rdata,17149,Luke Tierney
+017153.html,R-alpha: R-0.49 / S-plus: &quot;default argument evaluation&quot; bugs and woes,17153,Luke Tierney
+017188.html,R-alpha: A Couple of Queries,17188,Luke Tierney
+017197.html,R-alpha: S_alloc,17197,Luke Tierney
+017222.html,R-alpha: options(..) vs.  .Options  //  Re(1i) = 2.4976e-307,17222,Luke Tierney
+017141.html,R-alpha: abline not recognized coef member of list,17141,Nobuhiro Yasutomi

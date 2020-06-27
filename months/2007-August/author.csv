@@ -1,0 +1,260 @@
+link,Subject,id,author
+046680.html,[Rd] aesthetics of do.call,46680,Vincent Carey 525-2265
+046642.html,[Rd] R 2.5.1.,46642,Edo Airoldi
+046565.html,[Rd] Inconsistency in current release version,46565,"Austin, Matt"
+046651.html,[Rd] call R function in c++ program,46651,Guillaume B.
+046513.html,[Rd] Compiling R for the Sony Playstation 3?,46513,Douglas Bates
+046521.html,[Rd] Compiling R for the Sony Playstation 3?,46521,Douglas Bates
+046522.html,[Rd] Compiling R for the Sony Playstation 3?,46522,Douglas Bates
+046524.html,[Rd] Compiling R for the Sony Playstation 3?,46524,Douglas Bates
+046597.html,[Rd] errors in loading packages (PR#9839),46597,Ken Beath
+046643.html,[Rd] R 2.5.1.,46643,Ken Beath
+046611.html,[Rd] hasNA() / anyNA()?,46611,Henrik Bengtsson
+046635.html,[Rd] Change of compiler for Windows build of R,46635,Henrik Bengtsson
+046722.html,[Rd] Suggestion: Making attach() and detach() generic,46722,Henrik Bengtsson
+046735.html,[Rd] Suggestion: Add simpleExit condition,46735,Henrik Bengtsson
+046744.html,[Rd] R CMD check: Error in function (env) : could not find function	&quot;finalize&quot;,46744,Henrik Bengtsson
+046749.html,[Rd] R CMD check: Error in function (env) : could not find	function &quot;finalize&quot;,46749,Henrik Bengtsson
+046753.html,[Rd] R CMD check recursive copy of tests/,46753,Henrik Bengtsson
+046758.html,[Rd] R CMD check recursive copy of tests/,46758,Henrik Bengtsson
+046760.html,[Rd] suggesting \alias* for Rd files (in particular for S4	method documentation),46760,Henrik Bengtsson
+046767.html,[Rd] Consistency of serialize(): please enlighten me,46767,Henrik Bengtsson
+046768.html,[Rd] Consistency of serialize(): please enlighten me,46768,Henrik Bengtsson
+046737.html,[Rd] [OT] How many useRs?,46737,Charles C. Berry
+046512.html,[Rd] the amazing prof. ripley ...,46512,Ben Bolker
+046560.html,[Rd] fortune() candidate?,46560,Ben Bolker
+046618.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers bug in stats4::mle],46618,Ben Bolker
+046629.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers	bug in stats4::mle],46629,Ben Bolker
+046630.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46630,Ben Bolker
+046638.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers bug in stats4::mle],46638,Ben Bolker
+046688.html,[Rd] buglet (?) in de.restore(),46688,Ben Bolker
+046685.html,[Rd] compiling R under cygwin,46685,M. Edward (Ed) Borasky
+046691.html,[Rd] compiling R under cygwin,46691,M. Edward (Ed) Borasky
+046736.html,[Rd] [OT] How many useRs?,46736,Andy Bunn
+046738.html,[Rd] [OT] How many useRs?,46738,Andy Bunn
+046612.html,[Rd] hasNA() / anyNA()?,46612,Michael Cassin
+046646.html,[Rd] Advice on parsing / overriding function calls,46646,Michael Cassin
+046649.html,[Rd] Advice on parsing / overriding function calls,46649,Michael Cassin
+046656.html,[Rd] Advice on parsing / overriding function calls,46656,Michael Cassin
+046529.html,[Rd] Optimization in R,46529,Andrew Clausen
+046531.html,[Rd] Optimization in R,46531,Andrew Clausen
+046532.html,[Rd] Optimization in R,46532,Andrew Clausen
+046543.html,[Rd] Optimization in R,46543,Andrew Clausen
+046568.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46568,Andrew Clausen
+046718.html,[Rd] config error during 2.5.1 compile,46718,Evan Cooch
+046719.html,[Rd] config error during 2.5.1 compile,46719,Evan Cooch
+046720.html,[Rd] config error during 2.5.1 compile,46720,Evan Cooch
+046713.html,[Rd] RData File Specification?,46713,"Cook, Ian"
+046723.html,[Rd] RData File Specification?,46723,"Cook, Ian"
+046640.html,[Rd] package dependencies,46640,Zhenhuan Cui
+046631.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers bug in stats4::mle],46631,Peter Dalgaard
+046636.html,[Rd] Change of compiler for Windows build of R,46636,Peter Dalgaard
+046639.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers bug in stats4::mle],46639,Peter Dalgaard
+046761.html,[Rd] R 2.5.1 scheduled for October 3,46761,Peter Dalgaard
+046770.html,[Rd]  ****R 2.6.0**** scheduled for October 3,46770,Peter Dalgaard
+046526.html,[Rd] Compiling R for the Sony Playstation 3?,46526,Marcus G. Daniels
+046702.html,[Rd] compiling R under cygwin,46702,Latchezar (Lucho) Dimitrov
+046704.html,[Rd] compiling R under cygwin,46704,Latchezar (Lucho) Dimitrov
+046706.html,[Rd] compiling R under cygwin,46706,Latchezar (Lucho) Dimitrov
+046708.html,[Rd] compiling R under cygwin,46708,Latchezar (Lucho) Dimitrov
+046717.html,[Rd] compiling R under cygwin,46717,Latchezar (Lucho) Dimitrov
+046739.html,[Rd] [OT] How many useRs?,46739,Dirk Eddelbuettel
+046516.html,[Rd] Wish/RFC: ReadConsoleEx,46516,Byron Ellis
+046606.html,[Rd] Convert multiple C strings into an R character vector,46606,Byron Ellis
+046608.html,[Rd] Convert multiple C strings into an R character vector,46608,Byron Ellis
+046644.html,[Rd] methods and try() [R-devel],46644,Byron Ellis
+046655.html,[Rd] methods and try() [R-devel],46655,Byron Ellis
+046658.html,[Rd] methods and try() [R-devel],46658,Byron Ellis
+046660.html,[Rd] methods and try() [R-devel],46660,Byron Ellis
+046751.html,[Rd] Modifying R_CheckStack for a speed increase,46751,Byron Ellis
+046763.html,[Rd] Plans for multithreading?,46763,D. R. Evans
+046601.html,[Rd] Convert multiple C strings into an R character vector,46601,Seth Falcon
+046641.html,[Rd] package dependencies,46641,Seth Falcon
+046665.html,[Rd] Overriding S4 methods in an installed package,46665,Seth Falcon
+046666.html,[Rd] [R] Suspected memory leak with R v.2.5.x and large	matrices with dimnames set,46666,Seth Falcon
+046727.html,[Rd] .Call and to reclaim the memory by allocVector,46727,Seth Falcon
+046745.html,[Rd] R CMD check: Error in function (env) : could not find	function &quot;finalize&quot;,46745,Seth Falcon
+046764.html,[Rd] R CMD check recursive copy of tests/,46764,Seth Falcon
+046589.html,[Rd] SWF animation method,46589,Romain Francois
+046711.html,[Rd] .Call and to reclaim the memory by allocVector,46711,Yongchao Ge
+046726.html,[Rd] .Call and to reclaim the memory by allocVector,46726,Yongchao Ge
+046746.html,[Rd] .Call and to reclaim the memory by allocVector,46746,Yongchao Ge
+046740.html,[Rd] Typo in regex help page,46740,Gregor Gorjanc
+046535.html,[Rd] Optimization in R,46535,Gabor Grothendieck
+046537.html,[Rd] Optimization in R,46537,Gabor Grothendieck
+046540.html,[Rd] Optimization in R,46540,Gabor Grothendieck
+046544.html,[Rd] Optimization in R,46544,Gabor Grothendieck
+046661.html,[Rd] expand.grid fails on zero dims,46661,Gabor Grothendieck
+046687.html,[Rd] compiling R under cygwin,46687,Gabor Grothendieck
+046703.html,[Rd] compiling R under cygwin,46703,Gabor Grothendieck
+046705.html,[Rd] compiling R under cygwin,46705,Gabor Grothendieck
+046588.html,[Rd] SWF animation method,46588, (Ted Harding)
+046627.html,[Rd] hasNA() / anyNA()?,46627,Tim Hesterberg
+046616.html,[Rd] hasNA() / anyNA()?,46616,Kurt Hornik
+046590.html,[Rd] SWF animation method,46590,"Kuhn, Max"
+046586.html,[Rd] SWF animation method,46586,Mike Lawrence
+046591.html,[Rd] SWF animation method,46591,Mike Lawrence
+046566.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R package,46566,Hin-Tak Leung
+046569.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46569,Hin-Tak Leung
+046575.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46575,Hin-Tak Leung
+046593.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS	in	R	package,46593,Hin-Tak Leung
+046610.html,[Rd] Convert multiple C strings into an R character vector,46610,Hin-Tak Leung
+046650.html,[Rd] Advice on parsing / overriding function calls,46650,Hin-Tak Leung
+046721.html,[Rd] RData File Specification?,46721,Hin-Tak Leung
+046728.html,[Rd] RData File Specification?,46728,Hin-Tak Leung
+046533.html,[Rd]  Optimization in R,46533,Nicholas Lewin-Koh
+046539.html,[Rd]  Optimization in R,46539,Nicholas Lewin-Koh
+046559.html,[Rd] Makefile for embedding OpenBUGS in R package,46559,Uwe Ligges
+046584.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in	R	package,46584,Uwe Ligges
+046604.html,[Rd] errors in loading packages (PR#9839),46604,Uwe Ligges
+046633.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46633,Uwe Ligges
+046557.html,[Rd] Optimization in R,46557,Thomas Lumley
+046517.html,[Rd] rm error on Windows after R CMD INSTALL,46517,James W. MacDonald
+046757.html,[Rd] suggesting \alias* for Rd files (in particular for S4 method documentation),46757,James W. MacDonald
+046645.html,[Rd] package dependencies,46645,Martin Maechler
+046693.html,[Rd] paste() with NAs ..  change worth persuing?,46693,Martin Maechler
+046710.html,[Rd] paste() with NAs ..  change worth persuing?,46710,Martin Maechler
+046754.html,[Rd] R CMD check recursive copy of tests/,46754,Martin Maechler
+046664.html,[Rd] Overriding S4 methods in an installed package,46664,Allen McIntosh
+046667.html,[Rd] Overriding S4 methods in an installed package,46667,Allen McIntosh
+046670.html,[Rd] Overriding S4 methods in an installed package,46670,Allen McIntosh
+046577.html,[Rd] Embedded nuls in strings,46577,Steven McKinney
+046750.html,[Rd] Modifying R_CheckStack for a speed increase,46750,Stephen Milborrow
+046542.html,[Rd] Optimization in R,46542,Manuel Morales
+046545.html,[Rd] Optimization in R,46545,Manuel Morales
+046594.html,[Rd] Feature request: wrapper to gsl multiroot,46594,Manuel Morales
+046756.html,[Rd] suggesting \alias* for Rd files (in particular for S4 method	documentation),46756,Martin Morgan
+046766.html,[Rd] locales and readLines,46766,Martin Morgan
+046530.html,[Rd] Optimization in R,46530,Duncan Murdoch
+046534.html,[Rd] Optimization in R,46534,Duncan Murdoch
+046536.html,[Rd] Optimization in R,46536,Duncan Murdoch
+046538.html,[Rd] Optimization in R,46538,Duncan Murdoch
+046541.html,[Rd] Optimization in R,46541,Duncan Murdoch
+046549.html,[Rd] trivial typos R-admin,46549,Duncan Murdoch
+046550.html,[Rd] trivial typo R-lang,46550,Duncan Murdoch
+046567.html,[Rd] Inconsistency in current release version,46567,Duncan Murdoch
+046573.html,[Rd] Optimization in R,46573,Duncan Murdoch
+046578.html,[Rd] Embedded nuls in strings,46578,Duncan Murdoch
+046580.html,[Rd] Embedded nuls in strings,46580,Duncan Murdoch
+046582.html,[Rd] Embedded nuls in strings,46582,Duncan Murdoch
+046634.html,[Rd] Change of compiler for Windows build of R,46634,Duncan Murdoch
+046668.html,[Rd] Overriding S4 methods in an installed package,46668,Duncan Murdoch
+046674.html,[Rd] Installing dependent packages,46674,Duncan Murdoch
+046675.html,[Rd] Installing dependent packages,46675,Duncan Murdoch
+046683.html,[Rd] compiling R under cygwin,46683,Duncan Murdoch
+046686.html,[Rd] compiling R under cygwin,46686,Duncan Murdoch
+046694.html,[Rd] paste() with NAs ..  change worth persuing?,46694,Duncan Murdoch
+046707.html,[Rd] compiling R under cygwin,46707,Duncan Murdoch
+046716.html,[Rd] RData File Specification?,46716,Paul Murrell
+046697.html,[Rd] indexing and regression testing,46697,&quot;Jens Oehlschl&#228;gel&quot;
+046699.html,[Rd] paste() with NAs ..  change worth persuing?,46699,Jari Oksanen
+046576.html,[Rd] Embedded nuls in strings,46576,Herve Pages
+046579.html,[Rd] Embedded nuls in strings,46579,Herve Pages
+046581.html,[Rd] Embedded nuls in strings,46581,Herve Pages
+046617.html,[Rd] Compilation error with R-devel_2007-08-12.tar.gz snapshot,46617,Herve Pages
+046619.html,[Rd] Compilation error with R-devel_2007-08-12.tar.gz snapshot,46619,Herve Pages
+046662.html,[Rd] Hedge Fund Job Opening,46662,Franklin Parlamis
+046730.html,[Rd] silent option in nested calls to try(),46730,Thomas Petzoldt
+046732.html,[Rd] silent option in nested calls to try(),46732,Thomas Petzoldt
+046762.html,[Rd] comment() and ls() / ls.str(),46762,Fran&#231;ois Pinard
+046743.html,[Rd] subcripts on data frames (PR#9885),46743,Tony Plate
+046546.html,[Rd] Optimization in R,46546,Christophe Pouzat
+046572.html,[Rd] Automatic implementation of &quot;trivial&quot; constraints in	optimization,46572,Christophe Pouzat
+046518.html,[Rd] Package portability issues,46518,Prof Brian Ripley
+046528.html,[Rd] O(?) access time for rownames/colnames/named dimensions,46528,Prof Brian Ripley
+046556.html,[Rd] Makefile for embedding OpenBUGS in R package,46556,Prof Brian Ripley
+046564.html,[Rd] Makefile for embedding OpenBUGS in R package,46564,Prof Brian Ripley
+046571.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46571,Prof Brian Ripley
+046585.html,[Rd] Use of __FUNCTION__ and__PRETTY_FUNCTION__ is not portable,46585,Prof Brian Ripley
+046620.html,[Rd] Change of compiler for Windows build of R,46620,Prof Brian Ripley
+046626.html,[Rd] hasNA() / anyNA()?,46626,Prof Brian Ripley
+046637.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers bug in stats4::mle],46637,Prof Brian Ripley
+046654.html,[Rd] Advice on parsing / overriding function calls,46654,Prof Brian Ripley
+046673.html,[Rd] Installing dependent packages,46673,Prof Brian Ripley
+046684.html,[Rd] compiling R under cygwin,46684,Prof Brian Ripley
+046689.html,[Rd] compiling R under cygwin,46689,Prof Brian Ripley
+046696.html,[Rd] compiling R under cygwin,46696,Prof Brian Ripley
+046709.html,[Rd] compiling R under cygwin,46709,Prof Brian Ripley
+046715.html,[Rd] .Call and to reclaim the memory by allocVector,46715,Prof Brian Ripley
+046729.html,[Rd] RData File Specification?,46729,Prof Brian Ripley
+046748.html,[Rd] NA and NaN in function identical,46748,Prof Brian Ripley
+046752.html,[Rd] R CMD check: Error in function (env) : could not find function &quot;finalize&quot;,46752,Prof Brian Ripley
+046765.html,[Rd] Plans for multithreading?,46765,Prof Brian Ripley
+046681.html,[Rd] compiling R under cygwin,46681,Denham Robert
+046695.html,[Rd] compiling R under cygwin,46695,Denham Robert
+046519.html,[Rd] the amazing prof. ripley ...,46519,Barry Rowlingson
+046525.html,[Rd] Compiling R for the Sony Playstation 3?,46525,Barry Rowlingson
+046553.html,[Rd] Optimization in R,46553,Petr Savicky
+046554.html,[Rd] Optimization in R,46554,Petr Savicky
+046562.html,[Rd] Optimization in R,46562,Petr Savicky
+046583.html,[Rd] sweep sanity checking?,46583,Petr Savicky
+046628.html,[Rd] [Fwd: behavior of L-BFGS-B with trivial function triggers	bug in stats4::mle],46628,Petr Savicky
+046700.html,[Rd] paste() with NAs ..  change worth persuing?,46700,Petr Savicky
+046747.html,[Rd] NA and NaN in function identical,46747,Petr Savicky
+046514.html,[Rd] Compiling R for the Sony Playstation 3?,46514,Marc Schwartz
+046625.html,[Rd] hasNA() / anyNA()?,46625,Marc Schwartz
+046520.html,[Rd] correct Rd markup for \value{},46520,Gavin Simpson
+046755.html,[Rd] suggesting \alias* for Rd files (in particular for S4	method	documentation),46755,Oleg Sklyar
+046759.html,[Rd] suggesting \alias* for Rd files (in particular for	S4	method documentation),46759,Oleg Sklyar
+046561.html,[Rd] Compiling R for the Sony Playstation 3?,46561,Greg Snow
+046647.html,[Rd] methods and try() [R-devel],46647,Luke Tierney
+046657.html,[Rd] methods and try() [R-devel],46657,Luke Tierney
+046659.html,[Rd] methods and try() [R-devel],46659,Luke Tierney
+046669.html,[Rd] [R] Suspected memory leak with R v.2.5.x and large matrices with dimnames set,46669,Luke Tierney
+046731.html,[Rd] silent option in nested calls to try(),46731,Luke Tierney
+046734.html,[Rd] silent option in nested calls to try(),46734,Luke Tierney
+046692.html,[Rd] sweep sanity checking?,46692,"Turner, Heather"
+046603.html,[Rd] suggestion with ambiguous object component replacement,46603,Benjamin Tyner
+046624.html,[Rd] hasNA() / anyNA()?,46624,Benjamin Tyner
+046653.html,[Rd] Advice on parsing / overriding function calls,46653,Simon Urbanek
+046724.html,[Rd] RData File Specification?,46724,Simon Urbanek
+046725.html,[Rd] RData File Specification?,46725,Simon Urbanek
+046547.html,[Rd] trivial typos R-admin,46547,Tobias Verbeke
+046548.html,[Rd] trivial typo R-lang,46548,Tobias Verbeke
+046555.html,[Rd] Makefile for embedding OpenBUGS in R package,46555,Tobias Verbeke
+046558.html,[Rd] Makefile for embedding OpenBUGS in R package,46558,Tobias Verbeke
+046563.html,[Rd] Makefile for embedding OpenBUGS in R package,46563,Tobias Verbeke
+046592.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS	in	R	package,46592,Tobias Verbeke
+046622.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46622,Tobias Verbeke
+046632.html,[Rd] Sligthly OT Re: Makefile for embedding OpenBUGS in R	package,46632,Tobias Verbeke
+046676.html,[Rd] [R] Suspected memory leak with R v.2.5.x and large matrices with dimnames set,46676,Peter Waltman
+046598.html,[Rd] errors in loading packages (PR#9839),46598,Gregory Warnes
+046599.html,[Rd] Manipulating R objects in C++,46599,Jonathan Zhou
+046600.html,[Rd] Convert multiple C strings into an R character vector,46600,Jonathan Zhou
+046605.html,[Rd] Convert multiple C strings into an R character vector,46605,Jonathan Zhou
+046605.html,[Rd] Convert multiple C strings into an R character vector,46605,Jonathan Zhou
+046607.html,[Rd] Convert multiple C strings into an R character vector,46607,Jonathan Zhou
+046712.html,[Rd] missing --vanilla option in INSTALL (PR#9877),46712,prokaj at cs.elte.hu
+046733.html,[Rd] fix for broken largefile seek() on 32-bit linux (PR#9883),46733,jbrzusto at fastmail.fm
+046663.html,[Rd] match.arg bug or documentation error (PR#9859),46663,gunter.berton at gene.com
+046682.html,[Rd] aesthetics of do.call,46682,deepayan.sarkar at gmail.com
+046614.html,[Rd] Mistake in ISOLatin7.enc file (PR#9845),46614,zemlys at gmail.com
+046609.html,[Rd] available.packages (PR#9841),46609,zivan.karaman at gmail.com
+046690.html,[Rd] available.packages (PR#9841),46690,zivan.karaman at gmail.com
+046742.html,[Rd] subcripts on data frames (PR#9885),46742,m.crawley at imperial.ac.uk
+046615.html,[Rd] Change in grep functionality causes Rd_db to fail silently	(PR#9846),46615,m.pacey at lancaster.ac.uk
+046698.html,[Rd] nls fails with large numbers of variables (PR#9873),46698,h.y.wong at leeds.ac.uk
+046596.html,[Rd] errors in loading packages (PR#9839),46596,peterwickham at mac.com
+046527.html,[Rd] O(?) access time for rownames/colnames/named dimensions,46527,mfrumin
+046769.html,[Rd] compiling R-devel,46769,apjaworski at mmm.com
+046515.html,[Rd] Bug in TAB handling for Win32 Rterm and Rgui (PR#9820),46515,whorfin at pixar.com
+046587.html,[Rd] SWF animation method,46587,bryan rasmussen
+046623.html,[Rd] PR#9848,46623,ripley at stats.ox.ac.uk
+046671.html,[Rd] available.packages (PR#9841),46671,ripley at stats.ox.ac.uk
+046679.html,[Rd] system() fails with fc.exe (PR#9868),46679,ripley at stats.ox.ac.uk
+046701.html,[Rd] nls fails with large numbers of variables (PR#9873),46701,ripley at stats.ox.ac.uk
+046714.html,[Rd] missing --vanilla option in INSTALL (PR#9877),46714,ripley at stats.ox.ac.uk
+046741.html,[Rd] fix for broken largefile seek() on 32-bit linux (PR#9883),46741,ripley at stats.ox.ac.uk
+046523.html,[Rd] Compiling R for the Sony Playstation 3?,46523,elw at stderr.org
+046551.html,[Rd] Compiling R for the Sony Playstation 3?,46551,elw at stderr.org
+046552.html,[Rd] Compiling R for the Sony Playstation 3?,46552,elw at stderr.org
+046652.html,[Rd] Advice on parsing / overriding function calls,46652,elw at stderr.org
+046613.html,[Rd] Non-administrator can't install packages (PR#9848),46613,russell-lenth at uiowa.edu
+046621.html,[Rd] PR#9848,46621,russell-lenth at uiowa.edu
+046595.html,[Rd] Bug in coef&lt;-.varIdent method (nlme package) (PR#9831),46595,agalecki at umich.edu
+046677.html,[Rd] Assertion failure in -[RDeviceView lockFocus] (PR#9867),46677,towil at var.fgov.be
+046678.html,[Rd] system() fails with fc.exe (PR#9868),46678,joehl at web.de
+046570.html,[Rd] Optimization in R,46570,hadley wickham
+046574.html,[Rd] Optimization in R,46574,hadley wickham
+046648.html,[Rd] Advice on parsing / overriding function calls,46648,hadley wickham
+046672.html,[Rd] Installing dependent packages,46672,hadley wickham

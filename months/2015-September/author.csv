@@ -1,0 +1,134 @@
+link,Subject,id,author
+071700.html,[Rd] Has the changelog for R-devel and R-patched moved?,71700,Avraham Adler
+071705.html,[Rd] Has the changelog for R-devel and R-patched moved?,71705,Avraham Adler
+071766.html,[Rd] R-devel_2015-09-14 throws an error in reg-packages test,71766,Avraham Adler
+071712.html,[Rd] mclapply memory leak?,71712,Gabriel Becker
+071825.html,[Rd] making object.size() more meaningful on environments?,71825,Gabriel Becker
+071799.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71799,Skye Bender-deMoll
+071801.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71801,Skye Bender-deMoll
+071821.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71821,Skye Bender-deMoll
+071780.html,[Rd] Long vectors: Missing values and R_xlen_t?,71780,Henrik Bengtsson
+071785.html,[Rd] Long vectors: Missing values and R_xlen_t?,71785,Henrik Bengtsson
+071798.html,[Rd] Rscript --args -e &lt;cmd&gt; / R --vanilla --slave --args -e &lt;cmd&gt; opens an interactive R session,71798,Henrik Bengtsson
+071831.html,[Rd] Error possibly related with environments/namespace,71831,Roger Bivand
+071778.html,[Rd] is R syntax closed?,71778,Ben Bolker
+071779.html,[Rd] summary(lmList) issues,71779,Ben Bolker
+071745.html,[Rd] Using IDs to suppress specific messages and warnings,71745,Richard Cotton
+071746.html,[Rd] Proposed change in file.exists() to tolerate Windows,71746,Richard Cotton
+071748.html,[Rd] Using IDs to suppress specific messages and warnings,71748,Richard Cotton
+071793.html,[Rd] Differences in printing UTF-8 strings to stdout vs. stderr	under Windows,71793,Richard Cotton
+071702.html,[Rd] R doesn't compile on FreeBSD 10.2,71702,Davor Cubranic
+071709.html,[Rd] R doesn't compile on FreeBSD 10.2,71709,Davor Cubranic
+071770.html,[Rd] names treatment in optim(),71770,Christophe Dutang
+071807.html,[Rd] Hidden files problem in R CMD check,71807,Dirk Eddelbuettel
+071809.html,[Rd] Hidden files problem in R CMD check,71809,Dirk Eddelbuettel
+071803.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71803,Stefan Evert
+071768.html,"[Rd] RSiteSearch, sos, rdocumentation.org, ...?",71768,Spencer Graves
+071710.html,[Rd] mclapply memory leak?,71710,Toby Hocking
+071715.html,[Rd] mclapply memory leak?,71715,Toby Hocking
+071719.html,[Rd] mclapply memory leak?,71719,Toby Hocking
+071722.html,[Rd] No new daily R-devel tarball since r69202?,71722,Rainer Hurling
+071726.html,[Rd] No new daily R-devel tarball since r69202?,71726,Rainer Hurling
+071733.html,[Rd] No new daily R-devel tarball since r69202?,71733,Rainer Hurling
+071742.html,[Rd] Profiling function that contains both C++ and Fortran Code,71742,Julian Karch
+071721.html,[Rd] getting a vector of unown size,71721,Marcelo Kittlein
+071743.html,[Rd] Build R with MKL and ICC,71743,Nathan Kurz
+071744.html,[Rd] sample.int() algorithms,71744,Nathan Kurz
+071822.html,[Rd] Build R with MKL and ICC,71822,Nathan Kurz
+071802.html,[Rd] grDevice in R HEAD been broken for 6 weeks.,71802,Hin-Tak Leung
+071776.html,[Rd] is R syntax closed?,71776,Mark van der Loo
+071736.html,[Rd] No new daily R-devel tarball since r69202?,71736,Martin Maechler
+071769.html,[Rd] R-devel_2015-09-14 throws an error in reg-packages test,71769,Martin Maechler
+071797.html,[Rd] Should as.complex(NaN) -&gt; NA?,71797,Martin Maechler
+071818.html,[Rd] Error possibly related with environments/namespace,71818,Frederico Mestre
+071717.html,[Rd] Build R with MKL and ICC,71717,Bj&#248;rn-Helge Mevik
+071734.html,[Rd] Build R with MKL and ICC,71734,Bj&#248;rn-Helge Mevik
+071816.html,[Rd] Link R with Tcl 8.6 on Windows,71816,Karim Mezhoud
+071703.html,[Rd] Has the changelog for R-devel and R-patched moved?,71703,Duncan Murdoch
+071708.html,[Rd] Has the changelog for R-devel and R-patched moved?,71708,Duncan Murdoch
+071749.html,[Rd] Using IDs to suppress specific messages and warnings,71749,Duncan Murdoch
+071753.html,"[Rd] rgl/webGL complains about Javascript, even in recent online docs?",71753,Duncan Murdoch
+071754.html,"[Rd] rgl/webGL complains about Javascript, even in recent online docs?",71754,Duncan Murdoch
+071756.html,"[Rd] rgl/webGL complains about Javascript, even in recent online docs?",71756,Duncan Murdoch
+071758.html,"[Rd] rgl/webGL complains about Javascript, even in recent online docs?",71758,Duncan Murdoch
+071762.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on windows,71762,Duncan Murdoch
+071783.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71783,Duncan Murdoch
+071788.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71788,Duncan Murdoch
+071791.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71791,Duncan Murdoch
+071792.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71792,Duncan Murdoch
+071795.html,[Rd] Differences in printing UTF-8 strings to stdout vs. stderr under Windows,71795,Duncan Murdoch
+071796.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71796,Duncan Murdoch
+071819.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71819,Duncan Murdoch
+071823.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71823,Duncan Murdoch
+071829.html,[Rd] grDevice in R HEAD been broken for 6 weeks.,71829,Paul Murrell
+071777.html,[Rd] New version of the R parser in pqR,71777,Radford Neal
+071781.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using	install.packages,71781,Vinh Nguyen
+071782.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using	install.packages,71782,Vinh Nguyen
+071790.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using	install.packages,71790,Vinh Nguyen
+071794.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using	install.packages,71794,Vinh Nguyen
+071728.html,[Rd] Default location where packages are stored under Windows,71728,Jeroen Ooms
+071759.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on windows,71759,Jeroen Ooms
+071763.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on	windows,71763,Jeroen Ooms
+071764.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on	windows,71764,Jeroen Ooms
+071767.html,[Rd] R-devel_2015-09-14 throws an error in reg-packages test,71767,Jeroen Ooms
+071786.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71786,Herv&#233; Pag&#232;s
+071787.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71787,Herv&#233; Pag&#232;s
+071789.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using install.packages,71789,Herv&#233; Pag&#232;s
+071824.html,[Rd] making object.size() more meaningful on environments?,71824,Herv&#233; Pag&#232;s
+071827.html,[Rd] making object.size() more meaningful on environments?,71827,Herv&#233; Pag&#232;s
+071828.html,[Rd] making object.size() more meaningful on environments?,71828,Herv&#233; Pag&#232;s
+071730.html,[Rd] Support for high DPI 4K screens,71730,Brian G. Peterson
+071720.html,[Rd] Build R with MKL and ICC,71720,Martyn Plummer
+071735.html,[Rd] Build R with MKL and ICC,71735,Martyn Plummer
+071699.html,[Rd] R doesn't compile on FreeBSD 10.2,71699,Prof Brian Ripley
+071706.html,[Rd] R doesn't compile on FreeBSD 10.2,71706,Prof Brian Ripley
+071740.html,[Rd] Build R form source - manuals,71740,Prof Brian Ripley
+071752.html,"[Rd] rgl/webGL complains about Javascript,	even in recent online docs?",71752,Dominick Samperi
+071755.html,"[Rd] rgl/webGL complains about Javascript,	even in recent online docs?",71755,Dominick Samperi
+071757.html,"[Rd] rgl/webGL complains about Javascript,	even in recent online docs?",71757,Dominick Samperi
+071773.html,[Rd] Test Post,71773,Marc Schwartz
+071774.html,[Rd] Test Post,71774,Marc Schwartz
+071800.html,[Rd] issues with dev.new avoiding RStudio plot device on unix?,71800,Ott Toomet
+071775.html,[Rd] is R syntax closed?,71775,Piotr Turski
+071716.html,[Rd] mclapply memory leak?,71716,Simon Urbanek
+071760.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on	windows,71760,Simon Urbanek
+071784.html,[Rd] Long vectors: Missing values and R_xlen_t?,71784,Simon Urbanek
+071805.html,[Rd] Hidden files problem in R CMD check,71805,Simon Urbanek
+071813.html,[Rd] Hidden files problem in R CMD check,71813,Simon Urbanek
+071815.html,[Rd] Link R with Tcl 8.6 on Windows,71815,Adrian Waddell
+071817.html,[Rd] Link R with Tcl 8.6 on Windows,71817,Adrian Waddell
+071725.html,[Rd] Support for high DPI 4K screens,71725,Tom Wenseleers
+071727.html,[Rd] Default location where packages are stored under Windows,71727,Tom Wenseleers
+071729.html,[Rd] Default location where packages are stored under Windows,71729,Tom Wenseleers
+071732.html,[Rd] Support for high DPI 4K screens,71732,Tom Wenseleers
+071714.html,[Rd] R.home() on windows with localised program files path name,71714,Hadley Wickham
+071751.html,[Rd] Printing buglet for latin1 encoded strings,71751,Hadley Wickham
+071826.html,[Rd] making object.size() more meaningful on environments?,71826,Hadley Wickham
+071811.html,[Rd] Hidden files problem in R CMD check,71811,David Winsemius
+071812.html,[Rd] Hidden files problem in R CMD check,71812,Ista Zahn
+071701.html,[Rd] lazy loading in SparkR,71701,T&#243;th Zolt&#225;n
+071804.html,[Rd] Hidden files problem in R CMD check,71804,cstrato
+071806.html,[Rd] Hidden files problem in R CMD check,71806,cstrato
+071808.html,[Rd] Hidden files problem in R CMD check,71808,cstrato
+071810.html,[Rd] Hidden files problem in R CMD check,71810,cstrato
+071814.html,[Rd] Hidden files problem in R CMD check,71814,cstrato
+071704.html,[Rd] Has the changelog for R-devel and R-patched moved?,71704,peter dalgaard
+071707.html,[Rd] Has the changelog for R-devel and R-patched moved?,71707,peter dalgaard
+071723.html,[Rd] No new daily R-devel tarball since r69202?,71723,peter dalgaard
+071731.html,[Rd] No new daily R-devel tarball since r69202?,71731,peter dalgaard
+071711.html,[Rd] Build R with MKL and ICC,71711,arnaud gaboury
+071713.html,[Rd] Build R with MKL and ICC,71713,arnaud gaboury
+071718.html,[Rd] Build R with MKL and ICC,71718,arnaud gaboury
+071724.html,[Rd] Build R with MKL and ICC,71724,arnaud gaboury
+071737.html,[Rd] Build R with MKL and ICC - make check fails,71737,arnaud gaboury
+071738.html,[Rd] Build R with MKL and ICC - make check fails,71738,arnaud gaboury
+071739.html,[Rd] Build R form source - manuals,71739,arnaud gaboury
+071741.html,[Rd] Build R form source - manuals,71741,arnaud gaboury
+071771.html,[Rd] Optimize R: some confusion with Lapack and OpenBlas/openBlas	openmp packages.,71771,arnaud gaboury
+071772.html,[Rd] Optimize R: some confusion with Lapack and OpenBlas/openBlas openmp packages.,71772,arnaud gaboury
+071820.html,[Rd] Build R with MKL and ICC,71820,arnaud gaboury
+071830.html,[Rd] Build R with MKL and ICC,71830,arnaud gaboury
+071747.html,[Rd] Using IDs to suppress specific messages and warnings,71747,luke-tierney at uiowa.edu
+071750.html,[Rd] Using IDs to suppress specific messages and warnings,71750,luke-tierney at uiowa.edu
+071761.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on windows,71761,luke-tierney at uiowa.edu
+071765.html,[Rd] Optimization bug when byte compiling with gcc 5.2.0 on windows,71765,luke-tierney at uiowa.edu

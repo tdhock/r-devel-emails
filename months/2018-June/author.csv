@@ -1,0 +1,110 @@
+link,Subject,id,author
+076339.html,[Rd] aic() component in GLM-family objects,76339,Suharto Anggono Suharto Anggono
+076368.html,[Rd] Bug in tools::md5sum - does not work when filepath contains tilde (ie home directory),76368,Dean Attali
+076349.html,[Rd] Bug in as.Date or strptime?,76349,Rui Barradas
+076315.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76315,Gabe Becker
+076325.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76325,Gabe Becker
+076369.html,[Rd]  Bug in tools::md5sum - does not work when filepath contains tilde (ie home directory),76369,Gabe Becker
+076348.html,[Rd] DOCUMENTATION(?): parallel::mcparallel() gives various types of &quot;Error in unserialize(r) : ...&quot; errors if value is of type raw,76348,Henrik Bengtsson
+076264.html,[Rd] encoding argument of source() in 3.5.0,76264,Stephen Berman
+076269.html,[Rd] encoding argument of source() in 3.5.0,76269,Stephen Berman
+076282.html,[Rd] encoding argument of source() in 3.5.0,76282,Stephen Berman
+076289.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76289,"Berry, Charles"
+076294.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76294,"Berry, Charles"
+076297.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76297,"Berry, Charles"
+076302.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76302,"Berry, Charles"
+076306.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76306,"Berry, Charles"
+076365.html,[Rd] new behavior in model.response,76365,"Berry, Charles"
+076313.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76313,Emil Bode
+076316.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76316,Emil Bode
+076265.html,[Rd] aic() component in GLM-family objects,76265,Ben Bolker
+076331.html,[Rd] aic() component in GLM-family objects,76331,Ben Bolker
+076336.html,[Rd] incomplete results from as.character.srcref() in some cases involving quote(),76336,Georgi Boshnakov
+076347.html,[Rd]  incomplete results from as.character.srcref() in some cases involving quote(),76347,Georgi Boshnakov
+076280.html,[Rd] R 3.5.1 scheduled for July 2,76280,Peter Dalgaard
+076281.html,[Rd] minor problem in XML package,76281,William Dunlap
+076272.html,[Rd] Byte-compilation failure on different architectures / low-memory systems,76272,Dirk Eddelbuettel
+076279.html,[Rd] Byte-compilation failure on different architectures / low-memory systems,76279,Dirk Eddelbuettel
+076276.html,[Rd]  Understanding the sequence of events when calling the R dpois function,76276,Clark Fitzgerald
+076298.html,[Rd] Date class shows Inf as NA; this confuses the use of is.na(),76298,Werner Grundlingh
+076305.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76305,Werner Grundlingh
+076338.html,[Rd] agrep bug,76338,Kurt Hornik
+076262.html,[Rd] user macros with multi-line arguments in Rd (was Re: Rd parser throws error for user macros invoked with empty argument),76262,Tomas Kalibera
+076274.html,[Rd] Byte-compilation failure on different architectures / low-memory systems,76274,Tomas Kalibera
+076275.html,[Rd]  user macros with multi-line arguments in Rd (was Re: Rd parser throws error for user macros invoked with empty argument),76275,Tomas Kalibera
+076277.html,[Rd] encoding argument of source() in 3.5.0,76277,Tomas Kalibera
+076284.html,[Rd] encoding argument of source() in 3.5.0,76284,Tomas Kalibera
+076308.html,[Rd] Byte-compilation failure on different architectures / low-memory systems,76308,Tomas Kalibera
+076323.html,[Rd] Rgui 3.5.0 print issue,76323,Tomas Kalibera
+076344.html,[Rd] Rgui 3.5.0 print issue,76344,Tomas Kalibera
+076345.html,[Rd]  incomplete results from as.character.srcref() in some cases involving quote(),76345,Tomas Kalibera
+076346.html,[Rd] Automatic Compression by Save Causes Check Warning,76346,Tomas Kalibera
+076356.html,[Rd]  DOCUMENTATION(?): parallel::mcparallel() gives various types of &quot;Error in unserialize(r) : ...&quot; errors if value is of type raw,76356,Tomas Kalibera
+076335.html,[Rd] agrep bug,76335,"Kolter, Andreas"
+076332.html,[Rd] A recent commit breaks embedded application on Windows,76332,Randy Lai
+076283.html,[Rd] minor problem in XML package,76283,Duncan Temple Lang
+076330.html,[Rd] CRAN Check warnings with GCC 8.1,76330,Peter Langfelder
+076288.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76288,Michael Lawrence
+076300.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76300,Michael Lawrence
+076321.html,[Rd] readLines function with R &gt;= 3.5.0,76321,Michael Lawrence
+076324.html,[Rd] readLines function with R &gt;= 3.5.0,76324,Michael Lawrence
+076343.html,[Rd] readLines function with R &gt;= 3.5.0,76343,Michael Lawrence
+076358.html,[Rd] list of methods,76358,Michael Lawrence
+076341.html,[Rd] Bug 16719: kruskal.test documentation for formula,76341,Thomas Levine
+076342.html,[Rd] Bug 16719: kruskal.test documentation for formula,76342,Thomas Levine
+076320.html,[Rd] readLines function with R &gt;= 3.5.0,76320,Jennifer Lyon
+076340.html,[Rd] readLines function with R &gt;= 3.5.0,76340,Jennifer Lyon
+076303.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76303,"MacQueen, Don"
+076267.html,[Rd] encoding argument of source() in 3.5.0,76267,Martin Maechler
+076271.html,[Rd] aic() component in GLM-family objects,76271,Martin Maechler
+076311.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76311,Martin Maechler
+076317.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76317,Martin Maechler
+076322.html,[Rd] readLines function with R &gt;= 3.5.0,76322,Martin Maechler
+076337.html,[Rd] aic() component in GLM-family objects,76337,Martin Maechler
+076351.html,[Rd] bug in 'optim' documentation : &quot;Brent&quot; method doesn't copy 'par' names,76351,Carles Bret&#243; Mart&#237;nez
+076309.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76309,Joris Meys
+076310.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76310,Joris Meys
+076312.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76312,Joris Meys
+076318.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76318,Joris Meys
+076319.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76319,Greg Minshall
+076326.html,[Rd]  Date class shows Inf as NA; this confuses the use of is.na(),76326,Greg Minshall
+076350.html,[Rd] Bug in as.Date or strptime?,76350,Duncan Murdoch
+076360.html,[Rd] list of methods,76360,Duncan Murdoch
+076270.html,[Rd] encoding argument of source() in 3.5.0,76270,"NELSON, Michael"
+076278.html,[Rd] histoRicalg -- project to document older methods used by R and transfer knowledge,76278,J C Nash
+076355.html,[Rd] potential Bug in R 3.5.0,76355,Jeroen Ooms
+076291.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76291,Herv&#233; Pag&#232;s
+076292.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76292,Herv&#233; Pag&#232;s
+076293.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76293,Herv&#233; Pag&#232;s
+076296.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76296,Herv&#233; Pag&#232;s
+076301.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76301,Herv&#233; Pag&#232;s
+076307.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76307,Herv&#233; Pag&#232;s
+076273.html,[Rd] Byte-compilation failure on different architectures / low-memory systems,76273,Hugh Parsonage
+076352.html,[Rd] Tiny bug in lm()?,76352,Brett Presnell
+076353.html,[Rd] Tiny bug in lm()?,76353,Brett Presnell
+076263.html,[Rd]  Understanding the sequence of events when calling the R dpois function,76263,Jason Serviss
+076327.html,[Rd] makeCluster Stall on 32-bit Windows,76327,Dario Strbenac
+076329.html,[Rd] makeCluster Stall on 32-bit Windows,76329,Dario Strbenac
+076334.html,[Rd] Automatic Compression by Save Causes Check Warning,76334,Dario Strbenac
+076357.html,[Rd] list of methods,76357,"Therneau, Terry M., Ph.D."
+076359.html,[Rd] [EXTERNAL] Re:  list of methods,76359,"Therneau, Terry M., Ph.D."
+076361.html,[Rd] new behavior of model.response,76361,"Therneau, Terry M., Ph.D."
+076362.html,[Rd] new behavior of model.response,76362,"Therneau, Terry M., Ph.D."
+076363.html,[Rd] new behavior in model.response,76363,"Therneau, Terry M., Ph.D."
+076367.html,[Rd] new behavior in model.response -- Solved,76367,"Therneau, Terry M., Ph.D."
+076285.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76285,Hadley Wickham
+076290.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76290,Hadley Wickham
+076295.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76295,Hadley Wickham
+076299.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76299,Hadley Wickham
+076304.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76304,Hadley Wickham
+076328.html,[Rd] makeCluster Stall on 32-bit Windows,76328,Henric Winell
+076354.html,[Rd] potential Bug in R 3.5.0,76354,Jochen Wirsing
+076314.html,[Rd] Rgui 3.5.0 print issue,76314,Diego Zardetto
+076364.html,[Rd] new behavior in model.response,76364,Achim Zeileis
+076266.html,[Rd] encoding argument of source() in 3.5.0,76266,peter dalgaard
+076268.html,[Rd] encoding argument of source() in 3.5.0,76268,peter dalgaard
+076366.html,[Rd] Null pointer dereference in Rf_isVector(),76366,k at mil m at ili at g off fr at  at kowicz at me
+076333.html,[Rd] A recent commit breaks embedded application on Windows,76333,luke-tier at ey m at ili at g off uiow at  at edu
+076370.html,[Rd] Null pointer dereference in Rf_isVector(),76370,luke-tier at ey m at ili at g off uiow at  at edu
+076286.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76286,I&#241;aki &#218;car
+076287.html,[Rd] Subsetting the &quot;ROW&quot;s of an object,76287,I&#241;aki &#218;car

@@ -1,0 +1,152 @@
+link,Subject,id,author
+078921.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78921,Avraham Adler
+078953.html,"[Rd] rpois(9, 1e10)",78953,Avraham Adler
+078955.html,"[Rd] rpois(9, 1e10)",78955,Avraham Adler
+078957.html,"[Rd] rpois(9, 1e10)",78957,Avraham Adler
+078959.html,"[Rd] rpois(9, 1e10)",78959,Avraham Adler
+078977.html,"[Rd] [External] Re: rpois(9, 1e10)",78977,Avraham Adler
+078868.html,[Rd] standard naming for components of R data structures,78868,neonira Arinoem
+078882.html,[Rd] re-submission of package after CRAN-pretest notes,78882,Gabriel Becker
+079005.html,"[Rd] Model object, when generated in a function, saves entire environment when saved",79005,Kenny Bell
+078873.html,"[Rd] Another wish (?) for R 4.0.0: print(*, width = &lt;n&gt;)",78873,Henrik Bengtsson
+078896.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78896,Henrik Bengtsson
+078901.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78901,Henrik Bengtsson
+078904.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78904,Henrik Bengtsson
+078912.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78912,Henrik Bengtsson
+078938.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78938,Henrik Bengtsson
+078918.html,[Rd] as-cran issue,78918,Ben Bolker
+078969.html,"[Rd] [External] Re: rpois(9, 1e10)",78969,Ben Bolker
+078985.html,[Rd] How to get an object name from C?,78985,Daniel Cegie&#322;ka
+078903.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78903,G&#225;bor Cs&#225;rdi
+078905.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78905,G&#225;bor Cs&#225;rdi
+078910.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78910,G&#225;bor Cs&#225;rdi
+078911.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78911,G&#225;bor Cs&#225;rdi
+078978.html,[Rd] Memory error in the libcurl connection code,78978,G&#225;bor Cs&#225;rdi
+078989.html,[Rd] R package builder silently continues after unclosed brace,78989,G&#225;bor Cs&#225;rdi
+078949.html,"[Rd] [R] choose(n, k) as n approaches k",78949,Peter Dalgaard
+078865.html,[Rd] standard naming for components of R data structures,78865,Steve Dutky
+078871.html,[Rd] standard naming for components of R data structures,78871,Steve Dutky
+078878.html,[Rd] re-submission of package after CRAN-pretest notes,78878,Dirk Eddelbuettel
+078899.html,[Rd] Get memory address of an R data frame,78899,Dirk Eddelbuettel
+078915.html,[Rd] as-cran issue,78915,Dirk Eddelbuettel
+078923.html,"[Rd] as-cran issue, SOLVED",78923,Dirk Eddelbuettel
+078928.html,[Rd] possible bug in win R-devel in check/test environment,78928,Dirk Eddelbuettel
+078936.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78936,Dirk Eddelbuettel
+078894.html,[Rd] mean,78894,Stephen Ellison
+078860.html,[Rd] Bug/unhelpful error message when rbinding data frames containing data frame columns,78860,Antoine Fabri
+078877.html,[Rd] re-submission of package after CRAN-pretest notes,78877,Michael Friendly
+078999.html,[Rd] mrds function integratepdf cannot be found,78999,Patrick Giraudoux
+078856.html,[Rd] New R function is.nana = is.na &amp; !is.nan,78856,Jan Gorecki
+078858.html,[Rd] New R function is.nana = is.na &amp; !is.nan,78858,Jan Gorecki
+078983.html,[Rd] A bug understanding F relative to FALSE?,78983,Jan Gorecki
+078950.html,"[Rd] rpois(9, 1e10)",78950,Spencer Graves
+078952.html,"[Rd] rpois(9, 1e10)",78952,Spencer Graves
+078956.html,"[Rd] rpois(9, 1e10)",78956,Spencer Graves
+078958.html,"[Rd] rpois(9, 1e10)",78958,Spencer Graves
+078960.html,"[Rd] rpois(9, 1e10)",78960,Spencer Graves
+078962.html,"[Rd] [External] Re:  rpois(9, 1e10)",78962,Spencer Graves
+078976.html,"[Rd] [External] Re: rpois(9, 1e10)",78976,Spencer Graves
+078984.html,[Rd] matplot.Date &amp; matplot.POSIXct,78984,Spencer Graves
+078994.html,[Rd] matplot.Date &amp; matplot.POSIXct,78994,Spencer Graves
+079001.html,[Rd] matplot.Date &amp; matplot.POSIXct,79001,Spencer Graves
+078879.html,[Rd] add jsslogo.jpg to R sources?,78879,Toby Hocking
+078909.html,[Rd] add jsslogo.jpg to R sources?,78909,Toby Hocking
+078885.html,[Rd] mean,78885,Lipatz Jean-Luc
+078859.html,[Rd] New R function is.nana = is.na &amp; !is.nan,78859,Tomas Kalibera
+078890.html,[Rd] Get memory address of an R data frame,78890,Tomas Kalibera
+078897.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78897,Tomas Kalibera
+078991.html,"[Rd] Operator precedence of =, &lt;- and ?",78991,Tomas Kalibera
+078992.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78992,Tomas Kalibera
+078966.html,[Rd] Minor bug in error message in datetime.c,78966,Oleh Khoma
+078861.html,[Rd] [patch] add sanity checks to quantile(),78861,Scott Kostyshak
+078863.html,[Rd] [patch] add sanity checks to quantile(),78863,Scott Kostyshak
+078926.html,[Rd] CRAN check fails if website is unavailable on Fedora platforms,78926,Siegfried K&#246;stlmeier
+078986.html,[Rd] How to get an object name from C?,78986,Michael Lawrence
+078870.html,"[Rd] Another wish (?) for R 4.0.0:  print(*,  width = &lt;n&gt;)",78870,Martin Maechler
+078876.html,"[Rd] Another wish (?) for R 4.0.0: print(*, width = &lt;n&gt;)",78876,Martin Maechler
+078920.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78920,Martin Maechler
+078924.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78924,Martin Maechler
+078963.html,"[Rd] [External] Re:  rpois(9, 1e10)",78963,Martin Maechler
+078967.html,[Rd] Minor bug in error message in datetime.c,78967,Martin Maechler
+078968.html,"[Rd] [External] Re: rpois(9, 1e10)",78968,Martin Maechler
+078971.html,"[Rd] [External] Re: rpois(9, 1e10)",78971,Martin Maechler
+078972.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78972,Martin Maechler
+078974.html,"[Rd] [External] Re: rpois(9, 1e10)",78974,Martin Maechler
+078975.html,"[Rd] [External] Re: rpois(9, 1e10)",78975,Martin Maechler
+078979.html,[Rd] Memory error in the libcurl connection code,78979,Martin Maechler
+078982.html,"[Rd] [External] Re: rpois(9, 1e10)",78982,Martin Maechler
+078995.html,"[Rd]  class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) -- and S3 dispatch",78995,Martin Maechler
+078998.html,[Rd] matplot.Date &amp; matplot.POSIXct,78998,Martin Maechler
+079003.html,[Rd] matplot.Date &amp; matplot.POSIXct,79003,Martin Maechler
+078987.html,[Rd] R package builder silently continues after unclosed brace,78987,Andy Manka
+078886.html,[Rd] Get memory address of an R data frame,78886,Joris Meys
+078964.html,[Rd] A bug understanding F relative to FALSE?,78964,Joris Meys
+078980.html,[Rd] Long vector support in data.frame,78980,Morgan Morgan
+078934.html,"[Rd] [R] choose(n, k) as n approaches k",78934,John Mount
+078947.html,[Rd] A bug understanding F relative to FALSE?,78947,John Mount
+078862.html,[Rd] [patch] add sanity checks to quantile(),78862,Duncan Murdoch
+078869.html,[Rd] standard naming for components of R data structures,78869,Duncan Murdoch
+078919.html,[Rd] as-cran issue,78919,Duncan Murdoch
+078930.html,"[Rd] [R] choose(n, k) as n approaches k",78930,Duncan Murdoch
+078932.html,"[Rd] [R] choose(n, k) as n approaches k",78932,Duncan Murdoch
+079006.html,"[Rd] Model object, when generated in a function, saves entire environment when saved",79006,Duncan Murdoch
+078857.html,[Rd] New R function is.nana = is.na &amp; !is.nan,78857,"Pages, Herve"
+078874.html,"[Rd] Another wish (?) for R 4.0.0: print(*, width = &lt;n&gt;)",78874,"Pages, Herve"
+078895.html,[Rd] Get memory address of an R data frame,78895,"Pages, Herve"
+078973.html,"[Rd]  class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) -- and S3 dispatch",78973,"Pages, Herve"
+078990.html,[Rd] R package builder silently continues after unclosed brace,78990,"Pages, Herve"
+079004.html,"[Rd]  class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) -- and S3 dispatch",79004,"Pages, Herve"
+078997.html,[Rd] matplot.Date &amp; matplot.POSIXct,78997,Edzer Pebesma
+079002.html,[Rd] Rinternals.h could expose macros for ISNA and ISNAN for CPLXSXP,79002,Scott Ritchie
+078898.html,"[Rd] Operator precedence of =, &lt;- and ?",78898,Konrad Rudolph
+078887.html,[Rd] mean,78887,Marc Schwartz
+078888.html,[Rd] mean,78888,Marc Schwartz
+078893.html,[Rd] mean,78893,Marc Schwartz
+078937.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78937,Marc Schwartz
+079007.html,"[Rd] Model object, when generated in a function, saves entire environment when saved",79007,Harvey Smith
+078925.html,[Rd] possible bug in win R-devel in check/test environment,78925,Serguei Sokol
+078944.html,[Rd] possible bug in win R-devel in check/test environment,78944,Serguei Sokol
+078867.html,[Rd] standard naming for components of R data structures,78867,Abby Spurdle
+078935.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78935,Abby Spurdle
+078941.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78941,Abby Spurdle
+078970.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78970,Abby Spurdle
+078988.html,[Rd] R package builder silently continues after unclosed brace,78988,Abby Spurdle
+078993.html,[Rd] matplot.Date &amp; matplot.POSIXct,78993,Abby Spurdle
+078996.html,[Rd] matplot.Date &amp; matplot.POSIXct,78996,Abby Spurdle
+078889.html,[Rd] Get memory address of an R data frame,78889,Stepan
+078891.html,[Rd] Get memory address of an R data frame,78891,Stepan
+078942.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78942,Ralf Stubner
+078914.html,[Rd] as-cran issue,78914,"Therneau, Terry M., Ph.D."
+078916.html,[Rd] Error in R CMD check --as-cran ?,78916,"Therneau, Terry M., Ph.D."
+078917.html,[Rd] as-cran issue,78917,"Therneau, Terry M., Ph.D."
+078922.html,"[Rd] as-cran issue, SOLVED",78922,"Therneau, Terry M., Ph.D."
+078961.html,"[Rd] [External] Re:  rpois(9, 1e10)",78961,"Tierney, Luke"
+078884.html,[Rd] Get memory address of an R data frame,78884,Ezra Tucker
+078951.html,"[Rd] rpois(9, 1e10)",78951,Benjamin Tyner
+078954.html,"[Rd] rpois(9, 1e10)",78954,Benjamin Tyner
+078965.html,"[Rd] [External] Re: rpois(9, 1e10)",78965,Benjamin Tyner
+078981.html,"[Rd] [External] Re: rpois(9, 1e10)",78981,Benjamin Tyner
+078875.html,"[Rd] Another wish (?) for R 4.0.0: print(*, width = &lt;n&gt;)",78875,I&#241;aki Ucar
+078880.html,[Rd] add jsslogo.jpg to R sources?,78880,I&#241;aki Ucar
+078913.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78913,I&#241;aki Ucar
+078927.html,[Rd]  CRAN check fails if website is unavailable on Fedora platforms,78927,I&#241;aki Ucar
+078943.html,[Rd] as-cran issue ==&gt; set _R_CHECK_LENGTH_1_* settings!,78943,I&#241;aki Ucar
+078946.html,[Rd] A bug understanding F relative to FALSE?,78946,I&#241;aki Ucar
+078900.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78900,Simon Urbanek
+078902.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78902,Simon Urbanek
+078906.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78906,Simon Urbanek
+078907.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78907,Simon Urbanek
+078908.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",78908,Simon Urbanek
+078945.html,[Rd] A bug understanding F relative to FALSE?,78945,IAGO GIN&#201; V&#193;ZQUEZ
+078881.html,[Rd] add jsslogo.jpg to R sources?,78881,Achim Zeileis
+078892.html,[Rd] mean,78892,peter dalgaard
+078929.html,"[Rd] [R] choose(n, k) as n approaches k",78929,peter dalgaard
+078931.html,"[Rd] [R] choose(n, k) as n approaches k",78931,peter dalgaard
+078933.html,"[Rd] [R] choose(n, k) as n approaches k",78933,peter dalgaard
+078939.html,"[Rd] [R] choose(n, k) as n approaches k",78939,peter dalgaard
+078940.html,"[Rd] [R] choose(n, k) as n approaches k",78940,peter dalgaard
+078948.html,"[Rd] [R] choose(n, k) as n approaches k",78948,peter dalgaard
+079000.html,[Rd] mrds function integratepdf cannot be found,79000,peter dalgaard
+078872.html,"[Rd] Another wish (?) for R 4.0.0:  print(*,  width = &lt;n&gt;)",78872,brodie gaslam
+078855.html,[Rd] best way to build from Git,78855,irederik m at iii at g oii oib at  at et
+078883.html,[Rd] Get memory address of an R data frame,78883,lille stor

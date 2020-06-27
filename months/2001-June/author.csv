@@ -1,0 +1,159 @@
+link,Subject,id,author
+022623.html,[Rd] R-1.2.3: a small suggestion (PR#961),22623,Peter Dalgaard BSA
+022646.html,[Rd] R-1.2.3: a small suggestion (PR#961),22646,Peter Dalgaard BSA
+022650.html,[Rd] a bug? (PR#968),22650,Peter Dalgaard BSA
+022653.html,[Rd] error in make install-info (PR#969),22653,Peter Dalgaard BSA
+022659.html,[Rd] error in dbeta (PR#970),22659,Peter Dalgaard BSA
+022663.html,[Rd] Bug list summary (automatic post),22663,Peter Dalgaard BSA
+022666.html,[Rd] cbind.data.frame(.) S/R incompatibility,22666,Peter Dalgaard BSA
+022683.html,[Rd] Additional output in cancor,22683,Peter Dalgaard BSA
+022698.html,[Rd] help(PackageName),22698,Peter Dalgaard BSA
+022709.html,[Rd] expand.model.frame() fails when subset is specified (PR#979),22709,Peter Dalgaard BSA
+022712.html,[Rd] expand.model.frame() fails when subset is specified (PR# 	979),22712,Peter Dalgaard BSA
+022717.html,[Rd] configure doesn't find perl 5 on suse 7.2,22717,Peter Dalgaard BSA
+022720.html,[Rd] typos in doc for write.table (PR#984),22720,Peter Dalgaard BSA
+022726.html,[Rd] 1.3.0 .RData (PR#987),22726,Peter Dalgaard BSA
+022730.html,[Rd] &quot;[.data.frame&quot; allows un-named 3rd subscript (PR#989),22730,Peter Dalgaard BSA
+022747.html,[Rd] Bug list summary (automatic post),22747,Peter Dalgaard BSA
+022763.html,[Rd] install.packages (PR#998),22763,Peter Dalgaard BSA
+022699.html,[Rd] Using konqueror with help.start,22699,Douglas Bates
+022744.html,[Rd] .eps form of the R logo,22744,Douglas Bates
+022731.html,[Rd] &quot;[.data.frame&quot; allows un-named 3rd subscript (PR#989),22731,Charles C. Berry
+022779.html,[Rd] Re: [R] Problems using Computer Modern fonts,22779,Brian D'Urso
+022703.html,[Rd] Using konqueror with help.start,22703,Dirk Eddelbuettel
+022765.html,[Rd] History via arrow keys broken (PR#999),22765,Dirk Eddelbuettel
+022716.html,[Rd] configure doesn't find perl 5 on suse 7.2,22716,Albrecht Gebhardt
+022718.html,[Rd] configure doesn't find perl 5 on suse 7.2,22718,Albrecht Gebhardt
+022626.html,[Rd] R-1.2.3: a small suggestion (PR#961),22626,Paul Gilbert
+022652.html,[Rd] RData in 1.3.0,22652,Paul Gilbert
+022685.html,[Rd] Depends: R (&gt;= x.y.z),22685,Paul Gilbert
+022688.html,[Rd] Depends: R (&gt;= x.y.z),22688,Paul Gilbert
+022692.html,[Rd] Depends: R (&gt;= x.y.z),22692,Paul Gilbert
+022693.html,[Rd] Depends: R (&gt;= x.y.z),22693,Paul Gilbert
+022633.html,[Rd] Unified naming for R&lt;system&gt;_tmpnam possible?,22633,Thomas Hoffmann
+022634.html,"[Rd] What is the logic behind sys-common, sys-unix et.al. ?",22634,Thomas Hoffmann
+022621.html,[Rd] R-1.2.3: a small suggestion (PR#961),22621,Kurt Hornik
+022640.html,[Rd] Rnews 2001/2 [Reminder],22640,Kurt Hornik
+022643.html,[Rd] R-1.2.3: a small suggestion (PR#961),22643,Kurt Hornik
+022645.html,[Rd] R-1.2.3: a small suggestion (PR#961),22645,Kurt Hornik
+022644.html,[Rd] R-1.2.3: a small suggestion (PR#961),22644,Kurt Hornik
+022647.html,[Rd] R-1.2.3: a small suggestion (PR#961),22647,Kurt Hornik
+022657.html,[Rd] error in make install-info (PR#969),22657,Kurt Hornik
+022668.html,[Rd] AIX &amp; R-devel,22668,Kurt Hornik
+022677.html,[Rd] update.packages fails again (PR#972),22677,Kurt Hornik
+022686.html,[Rd] Depends: R (&gt;= x.y.z),22686,Kurt Hornik
+022690.html,[Rd] Depends: R (&gt;= x.y.z),22690,Kurt Hornik
+022694.html,[Rd] R-devel on alpha Tru64: cxml/dxml problem (PR#977),22694,Kurt Hornik
+022696.html,[Rd] R-devel on alpha Tru64: cxml/dxml problem (PR#977),22696,Kurt Hornik
+022701.html,[Rd] Using konqueror with help.start,22701,Kurt Hornik
+022715.html,[Rd] R CMD check (PR#982),22715,Kurt Hornik
+022740.html,[Rd] Documentation for cancor (PR#991),22740,Kurt Hornik
+022743.html,[Rd] core dump on 64-bit Solaris (PR#990),22743,Kurt Hornik
+022753.html,[Rd] Re: [R] Trouble compiling R-1.3.0 under Tru64,22753,Kurt Hornik
+022759.html,[Rd] Typo in R Data Import/Export 1.3.0 (PR#995),22759,Kurt Hornik
+022773.html,[Rd] KS test in R.1.3.0 has incorrect p-values. (PR#1004),22773,Kurt Hornik
+022678.html,[Rd] update.packages fails again (PR#972),22678,Torsten Hothorn
+022748.html,[Rd] factors in model.frame.default,22748,Torsten Hothorn
+022739.html,[Rd] Documentation for cancor (PR#991),22739,J.C.Rougier@durham.ac.uk
+022656.html,[Rd] error in make install-info (PR#969),22656,Paulo Justiniano Ribeiro Jr
+022754.html,[Rd] Re: [R] Trouble compiling R-1.3.0 under Tru64,22754,Kjetil Kjernsmo
+022755.html,[Rd] Re: [R] Trouble compiling R-1.3.0 under Tru64,22755,Kjetil Kjernsmo
+022676.html,[Rd] Re: R: Mailing Lists,22676,Jan de Leeuw
+022679.html,[Rd] Re: gnome on OS X,22679,Jan de Leeuw
+022629.html,[Rd] R-1.2.3: a small suggestion (PR#961),22629,Thomas Lumley
+022667.html,[Rd] AIX &amp; R-devel,22667,Thomas Lumley
+022673.html,[Rd] AIX &amp; R-devel,22673,Thomas Lumley
+022689.html,[Rd] Depends: R (&gt;= x.y.z),22689,Thomas Lumley
+022725.html,[Rd] 1.3.0 .RData (PR#987),22725,Thomas Lumley
+022727.html,"[Rd] approxfun(*, ties=) returning &quot;random&quot; result (PR#986)",22727,Thomas Lumley
+022737.html,[Rd] core dump on 64-bit Solaris (PR#990),22737,Thomas Lumley
+022625.html,[Rd] v matrix of svd(X) loses dimensions if nrow(X)==1 (PR#963),22625,Martin Maechler
+022665.html,[Rd] cbind.data.frame(.) S/R incompatibility,22665,Martin Maechler
+022750.html,"[Rd] write.table(* , digits = ..) ?",22750,Martin Maechler
+022675.html,[Rd] Add smooth curves with panel.superpose,22675,John Maindonald
+022770.html,[Rd] las=1 with log axis (PR#997),22770,Paul Murrell
+022637.html,[Rd] paper size in postscript driver,22637,Trent Piepho
+022639.html,[Rd] paper size in postscript driver,22639,Trent Piepho
+022628.html,[Rd] formulas in variables in modeling functions,22628,Prof Brian Ripley
+022630.html,[Rd] Update of VR bundle and rpart for R-devel,22630,Prof Brian Ripley
+022664.html,[Rd] Re: [R] lattice (!under development!) font curiosity,22664,Prof Brian Ripley
+022682.html,[Rd] Additional output in cancor,22682,Prof Brian Ripley
+022684.html,[Rd] documentation and \sloppy (PR#976),22684,Prof Brian Ripley
+022687.html,[Rd] Depends: R (&gt;= x.y.z),22687,Prof Brian Ripley
+022695.html,[Rd] R-devel on alpha Tru64: cxml/dxml problem (PR#977),22695,Prof Brian Ripley
+022706.html,[Rd] Memory management problem?,22706,Prof Brian Ripley
+022707.html,[Rd] Preview of rw1030,22707,Prof Brian Ripley
+022751.html,"[Rd] write.table(* , digits = ..) ?",22751,Prof Brian Ripley
+022774.html,[Rd] Re: [R] Problems using Computer Modern fonts,22774,Prof Brian Ripley
+022622.html,[Rd] paper size in postscript driver,22622,Prof Brian D Ripley
+022635.html,[Rd] Unified naming for R&lt;system&gt;_tmpnam possible?,22635,Prof Brian D Ripley
+022636.html,"[Rd] What is the logic behind sys-common, sys-unix et.al. ?",22636,Prof Brian D Ripley
+022638.html,[Rd] paper size in postscript driver,22638,Prof Brian D Ripley
+022700.html,[Rd] help(PackageName),22700,Prof Brian D Ripley
+022702.html,[Rd] Using konqueror with help.start,22702,Prof Brian D Ripley
+022705.html,[Rd] Memory management problem?,22705,Prof Brian D Ripley
+022745.html,[Rd] core dump on 64-bit Solaris (PR#990),22745,Prof Brian D Ripley
+022746.html,[Rd] .eps form of the R logo,22746,Prof Brian D Ripley
+022714.html,[Rd] R CMD check (PR#982),22714,Roger.Bivand@nhh.no
+022669.html,[Rd] Generalising object.size,22669,Jonathan Rougier
+022681.html,[Rd] Additional output in cancor,22681,Jonathan Rougier
+022697.html,[Rd] help(PackageName),22697,Martin Schlather
+022627.html,[Rd] formulas in variables in modeling functions,22627,Setzer.Woodrow@epamail.epa.gov
+022767.html,[Rd] prototype for structured exception handling in R,22767,Luke Tierney
+022662.html,[Rd] unsigned char?,22662,Masao Uebayashi
+022672.html,[Rd] AIX &amp; R-devel,22672,Thomas Vogels
+022654.html,[Rd] update.packages() and parse(text=&quot;A B&quot;) (PR#966),22654,"Warnes, Gregory R"
+022768.html,[Rd] core dump running modreg-Ex.R (PR#1002),22768,WhiteG@dfo-mpo.gc.ca
+022756.html,[Rd] Typo in R Data Import/Export 1.3.0 (PR#995),22756,a296180@mica.fmr.com
+022711.html,[Rd] read.xport() bug (PR#981),22711,abroman@jhu.edu
+022691.html,[Rd] R-devel on alpha Tru64: cxml/dxml problem (PR#977),22691,albrecht.gebhardt@uni-klu.ac.at
+022704.html,[Rd] Memory management problem?,22704,apjaworski@mmm.com
+022729.html,[Rd] &quot;[.data.frame&quot; allows un-named 3rd subscript (PR#989),22729,cberry@tajo.ucsd.edu
+022749.html,[Rd] BUGS.R-PROJECT.ORG (PR#992),22749,christine@trafficmagnet.net
+022719.html,[Rd] typos in doc for write.table (PR#984),22719,eglen@pcg.wustl.edu
+022648.html,[Rd] boxplot.stats() returns wrong value for n (PR#967),22648,gregory_r_warnes@groton.pfizer.com
+022655.html,[Rd] update.packages() and parse(text=&quot;A B&quot;) (PR#966),22655,gregory_r_warnes@groton.pfizer.com
+022708.html,[Rd] expand.model.frame() fails when subset is specified (PR#979),22708,gregory_r_warnes@groton.pfizer.com
+022777.html,[Rd] Rd tag \link not working without \code (PR#1006),22777,henrikb@braju.com
+022674.html,[Rd] Lattice: panel.superpose with ordered factor groups (PR#974),22674,john.maindonald@anu.edu.au
+022641.html,[Rd] update.packages() and parse(text=&quot;A B&quot;) (PR#966),22641,ligges@statistik.uni-dortmund.de
+022670.html,[Rd] a bug? (PR#968),22670,maechler@stat.math.ethz.ch
+022723.html,"[Rd] approxfun(*, ties=) returning &quot;random&quot; result (PR#986)",22723,maechler@stat.math.ethz.ch
+022735.html,[Rd] Re: legend() with xpd=T; omission of initial plot character (PR#943),22735,maechler@stat.math.ethz.ch
+022771.html,[Rd] interaction() -- problem with drop (PR#1003),22771,mcw@ln.nimh.nih.gov
+022649.html,[Rd] a bug? (PR#968),22649,michael@stat.duke.edu
+022661.html,[Rd] error in dbeta (PR#970),22661,p.dalgaard@biostat.ku.dk
+022766.html,[Rd] lm.influence doesn't work with na.exclude (PR#1001),22766,p.dalgaard@biostat.ku.dk
+022651.html,[Rd] error in make install-info (PR#969),22651,p.ribeiro@lancaster.ac.uk
+022680.html,[Rd] documentation and \sloppy (PR#976),22680,p.ribeiro@lancaster.ac.uk
+022721.html,[Rd] Macintosh device not implemented in dev.copy2eps (PR#985),22721,papritz@ito.umnw.ethz.ch
+022631.html,[Rd] R-1.2.3 OSF precompiled binary doesn't run under DU4.0D (PR#964),22631,paul@gromit.dlib.vt.edu
+022732.html,[Rd] par(mgp) bug (PR#916),22732,paul@stat.auckland.ac.nz
+022733.html,[Rd] Re: legend() with xpd=T; omission of initial plot character (PR#943),22733,paul@stat.auckland.ac.nz
+022734.html,[Rd] Re: axis(adj=anything) has no effect (PR#887),22734,paul@stat.auckland.ac.nz
+022728.html,[Rd] input for R-intro (PR#988),22728,pauljohn@ku.edu
+022760.html,[Rd] las=1 with log axis (PR#997),22760,pd@pubhealth.ku.dk
+022724.html,[Rd] 1.3.0 .RData (PR#987),22724,pgilbert@bank-banque-canada.ca
+022658.html,[Rd] error in dbeta (PR#970),22658,pwolf@wiwi.uni-bielefeld.de
+022642.html,[Rd] update.packages() and parse(text=&quot;A B&quot;) (PR#966),22642,ripley@stats.ox.ac.uk
+022660.html,[Rd] error in dbeta (PR#970),22660,ripley@stats.ox.ac.uk
+022671.html,[Rd] update.packages fails again (PR#972),22671,ripley@stats.ox.ac.uk
+022713.html,[Rd] read.xport() bug (PR#981),22713,ripley@stats.ox.ac.uk
+022722.html,[Rd] Macintosh device not implemented in dev.copy2eps (PR#985),22722,ripley@stats.ox.ac.uk
+022738.html,[Rd] core dump on 64-bit Solaris (PR#990),22738,ripley@stats.ox.ac.uk
+022758.html,(PR#996) [Rd] Double inclusion of  &quot;int R_OutputCon&quot; from,22758,ripley@stats.ox.ac.uk
+022762.html,[Rd] install.packages (PR#998),22762,ripley@stats.ox.ac.uk
+022769.html,[Rd] core dump running modreg-Ex.R (PR#1002),22769,ripley@stats.ox.ac.uk
+022772.html,[Rd] KS test in R.1.3.0 has incorrect p-values. (PR#1004),22772,ripley@stats.ox.ac.uk
+022776.html,[Rd] Fail to build R (PR#1005),22776,ripley@stats.ox.ac.uk
+022778.html,[Rd] Rd tag \link not working without \code (PR#1006),22778,ripley@stats.ox.ac.uk
+022775.html,[Rd] Fail to build R (PR#1005),22775,sherwin@nlm.nih.gov
+022761.html,[Rd] install.packages (PR#998),22761,stockton@neptuneandco.com
+022632.html,[Rd] Documentation bug in bug.report (PR#965),22632,thoffman@zappa.sax.de
+022752.html,[Rd] Dokumentation bug in src/include/Graphics.h (R-1.3.0) (PR#994),22752,thoffman@zappa.sax.de
+022757.html,[Rd] Double inclusion of  &quot;int R_OutputCon&quot; from src/include/Rconnections.h (PR#996),22757,thoffman@zappa.sax.de
+022736.html,[Rd] core dump on 64-bit Solaris (PR#990),22736,tlumley@u.washington.edu
+022741.html,[Rd] core dump on 64-bit Solaris (PR#990),22741,tlumley@u.washington.edu
+022742.html,[Rd] core dump on 64-bit Solaris (PR#990),22742,tlumley@u.washington.edu
+022764.html,[Rd] History via arrow keys broken (PR#999),22764,wbkiii@citrus.ucr.edu
+022624.html,[Rd] v matrix of svd(X) loses dimensions if nrow(X)==1 (PR#963),22624,wolbers@stat.math.ethz.ch

@@ -1,0 +1,145 @@
+link,Subject,id,author
+078339.html,[Rd] Fwd: Bug Reporting,78339,TOMMASO ADAMI
+078293.html,[Rd] Underscores in package names,78293,neonira Arinoem
+078297.html,[Rd] Underscores in package names,78297,neonira Arinoem
+078299.html,[Rd] Underscores in package names,78299,neonira Arinoem
+078301.html,[Rd] Underscores in package names,78301,neonira Arinoem
+078292.html,[Rd] Underscores in package names,78292,Gabriel Becker
+078296.html,[Rd] Underscores in package names,78296,Gabriel Becker
+078300.html,[Rd] Underscores in package names,78300,Gabriel Becker
+078305.html,[Rd] Underscores in package names,78305,Gabriel Becker
+078370.html,[Rd] What is the best way to loop over an ALTREP vector?,78370,Gabriel Becker
+078328.html,[Rd] Any plans for ALTREP lists (VECSXP)?,78328,"Bemis, Kylie"
+078329.html,[Rd] ALTREP wrappers and factors,78329,"Bemis, Kylie"
+078335.html,[Rd]  Check length of logical vector also for operands of || and &amp;&amp;?,78335,Henrik Bengtsson
+078365.html,[Rd] Conventions: Use of globals and main functions,78365,Henrik Bengtsson
+078294.html,[Rd] Underscores in package names,78294,Ben Bolker
+078304.html,[Rd] Underscores in package names,78304,Ben Bolker
+078333.html,[Rd] Documenting else's greed,78333,Georgi Boshnakov
+078266.html,[Rd] iconv:  embedded nulls when converting to  UTF-16,78266,"Braun, Michael"
+078272.html,[Rd] Potential bug in update.formula when updating offsets,78272,Paul Buerkner
+078248.html,[Rd] bug: write.dcf converts hyphen in field name to period,78248,Michael Chirico
+078314.html,[Rd] Why no tz argument for format.POSIXlt?,78314,Michael Chirico
+078344.html,[Rd] --disable-long-double or --enable-long-double=no?,78344,Michael Chirico
+078350.html,[Rd] Conventions: Use of globals and main functions,78350,G&#225;bor Cs&#225;rdi
+078355.html,[Rd] Conventions: Use of globals and main functions,78355,G&#225;bor Cs&#225;rdi
+078254.html,[Rd] Infrequent but steady NULL-pointer caused segfault in as.POSIXlt.POSIXct (R 3.4.4),78254,William Dunlap
+078319.html,[Rd] Feature request: non-dropping regmatches/strextract,78319,William Dunlap
+078320.html,"[Rd] Rf_defineVar(symbol, R_UnboundValue, environment) questions",78320,William Dunlap
+078322.html,[Rd] Feature request: non-dropping regmatches/strextract,78322,William Dunlap
+078323.html,[Rd] Feature request: non-dropping regmatches/strextract,78323,William Dunlap
+078359.html,[Rd] Conventions: Use of globals and main functions,78359,William Dunlap
+078383.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78383,William Dunlap
+078387.html,"[Rd] New lazyload rdx key type: list(eagerKey=, lazyKeys=)",78387,William Dunlap
+078390.html,"[Rd] inconsistent handling of factor, character, and logical predictors in lm()",78390,William Dunlap
+078253.html,[Rd] Infrequent but steady NULL-pointer caused segfault in as.POSIXlt.POSIXct (R 3.4.4),78253,Dirk Eddelbuettel
+078261.html,[Rd] gfortran 9 quantreg bug,78261,Dirk Eddelbuettel
+078270.html,[Rd] MKL with latest Rs,78270,Dirk Eddelbuettel
+078276.html,[Rd] gfortran 9 quantreg bug,78276,Dirk Eddelbuettel
+078277.html,[Rd] gfortran 9 quantreg bug,78277,Dirk Eddelbuettel
+078286.html,[Rd] Producing different text formats in R,78286,Dirk Eddelbuettel
+078313.html,[Rd] ALTREP package interaction with testthat,78313,Dirk Eddelbuettel
+078251.html,[Rd] R evolution suggestion request,78251,Stephen Ellison
+078310.html,[Rd] Underscores in package names,78310,Stephen Ellison
+078382.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78382,Stephen Ellison
+078348.html,[Rd] Fwd: Document colon equals `:=` operator ?,78348,Ant F
+078376.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78376,Ant F
+078280.html,[Rd] #include_next &lt;stdio.h&gt;  not found,78280,Roy Mendelssohn - NOAA Federal
+078386.html,"[Rd] inconsistent handling of factor, character, and logical predictors in lm()",78386,"Fox, John"
+078389.html,"[Rd] inconsistent handling of factor, character, and logical predictors in lm()",78389,"Fox, John"
+078391.html,"[Rd] inconsistent handling of factor, character, and logical predictors in lm()",78391,"Fox, John"
+078325.html,[Rd] Underscores in package names,78325,Jan Gorecki
+078275.html,[Rd] gfortran 9 quantreg bug,78275,Kasper Daniel Hansen
+078260.html,[Rd] gfortran 9 quantreg bug,78260,Berend Hasselman
+078284.html,[Rd] Underscores in package names,78284,Jim Hester
+078290.html,[Rd] Underscores in package names,78290,Jim Hester
+078318.html,[Rd] Underscores in package names,78318,Jim Hester
+078377.html,[Rd] Feature request: non-dropping regmatches/strextract,78377,Toby Hocking
+078312.html,[Rd] ALTREP package interaction with testthat,78312,Wang Jiefei
+078366.html,[Rd] What is the best way to loop over an ALTREP vector?,78366,Wang Jiefei
+078250.html,[Rd] Infrequent but steady NULL-pointer caused segfault in as.POSIXlt.POSIXct (R 3.4.4),78250,Tomas Kalibera
+078264.html,[Rd] Infrequent but steady NULL-pointer caused segfault in as.POSIXlt.POSIXct (R 3.4.4),78264,Tomas Kalibera
+078309.html,[Rd] NextMethod() and argument laziness,78309,Tomas Kalibera
+078311.html,[Rd] MacOS parallel::makeCluster fails,78311,Tomas Kalibera
+078340.html,[Rd]  What is the best way to determine the version of an `.rds`?,78340,Tomas Kalibera
+078345.html,[Rd] --disable-long-double or --enable-long-double=no?,78345,Tomas Kalibera
+078258.html,[Rd] gfortran 9 quantreg bug,78258,"Koenker, Roger W"
+078263.html,[Rd] gfortran 9 quantreg bug,78263,"Koenker, Roger W"
+078269.html,[Rd] gfortran 9 quantreg bug,78269,"Koenker, Roger W"
+078279.html,[Rd] #include_next &lt;stdio.h&gt;  not found,78279,"Koenker, Roger W"
+078281.html,[Rd] #include_next &lt;stdio.h&gt; not found,78281,"Koenker, Roger W"
+078379.html,[Rd] Feature request: non-dropping regmatches/strextract,78379,Michael Lawrence
+078381.html,[Rd] Feature request: non-dropping regmatches/strextract,78381,Michael Lawrence
+078268.html,[Rd] CRAN incoming queue closed from Aug 09 to Aug 18,78268,Uwe Ligges
+078316.html,[Rd] Underscores in package names,78316,Martin Maechler
+078361.html,[Rd] Conventions: Use of globals and main functions,78361,Martin Maechler
+078362.html,[Rd] Conventions: Use of globals and main functions,78362,Peter Meissner
+078369.html,[Rd] Conventions: Use of globals and main functions,78369,Peter Meissner
+078373.html,[Rd] Conventions: Use of globals and main functions,78373,Peter Meissner
+078315.html,[Rd] behaviour and documentation of qr.solve,78315,Michael Meyer
+078267.html,[Rd] iconv: embedded nulls when converting to UTF-16,78267,Duncan Murdoch
+078285.html,[Rd] Underscores in package names,78285,Duncan Murdoch
+078302.html,[Rd] Underscores in package names,78302,Duncan Murdoch
+078303.html,[Rd] Underscores in package names,78303,Duncan Murdoch
+078306.html,[Rd] Underscores in package names,78306,Duncan Murdoch
+078331.html,[Rd] Documenting else's greed,78331,Duncan Murdoch
+078336.html,[Rd]  Check length of logical vector also for operands of || and &amp;&amp;?,78336,Duncan Murdoch
+078351.html,[Rd] Conventions: Use of globals and main functions,78351,Duncan Murdoch
+078354.html,[Rd] Conventions: Use of globals and main functions,78354,Duncan Murdoch
+078357.html,[Rd]  wrap_logical warning message when loading objects created in R 3.6 in an R 3.5 session,78357,Duncan Murdoch
+078360.html,[Rd] Conventions: Use of globals and main functions,78360,Duncan Murdoch
+078334.html,[Rd] Check length of logical vector also for operands of || and &amp;&amp;?,78334,Kirill M&#252;ller
+078262.html,[Rd] gfortran 9 quantreg bug,78262,Balasubramanian Narasimhan
+078341.html,[Rd] Fwd: Bug Reporting,78341,Thierry Onkelinx
+078252.html,"[Rd] Rtools contains Python interpreter(s), and six copies?",78252,Jeroen Ooms
+078337.html,[Rd] class() bug when used within a validity method,78337,"Pages, Herve"
+078338.html,[Rd] class() bug when used within a validity method,78338,"Pages, Herve"
+078330.html,[Rd] Documenting else's greed,78330,Hugh Parsonage
+078375.html,[Rd] R CMD check issue,78375,Hugh Parsonage
+078298.html,[Rd] Underscores in package names,78298,Brian G. Peterson
+078271.html,[Rd] R CMD check: should .Rout.save contain the new &quot;Registered S3 method overwritten by&quot; message?,78271,Matthieu S
+078308.html,[Rd]  R CMD check: should .Rout.save contain the new &quot;Registered S3 method overwritten by&quot; message?,78308,Matthieu S
+078283.html,[Rd] Producing different text formats in R,78283,Enrico Schumann
+078245.html,"[Rd] Rtools contains Python interpreter(s), and six copies?",78245,Abby Spurdle
+078255.html,"[Rd] Rtools contains Python interpreter(s), and six copies?",78255,Abby Spurdle
+078257.html,"[Rd] Rtools contains Python interpreter(s), and six copies?",78257,Abby Spurdle
+078324.html,[Rd] Underscores in package names,78324,Abby Spurdle
+078363.html,[Rd] Conventions: Use of globals and main functions,78363,Abby Spurdle
+078364.html,[Rd] Conventions: Use of globals and main functions,78364,Abby Spurdle
+078388.html,"[Rd] inconsistent handling of factor, character, and logical predictors in lm()",78388,Abby Spurdle
+078326.html,[Rd] Deparsing raw vectors with names,78326,Stepan
+078274.html,[Rd]  [EXTERNAL] Re: Potential bug in update.formula when updating offsets,78274,"Therneau, Terry M., Ph.D."
+078346.html,[Rd] problem with R CMD check,78346,"Therneau, Terry M., Ph.D."
+078371.html,[Rd] R CMD check issue,78371,"Therneau, Terry M., Ph.D."
+078256.html,"[Rd] Rtools contains Python interpreter(s), and six copies?",78256,I&#241;aki Ucar
+078342.html,[Rd] Is R-devel broken?,78342,I&#241;aki Ucar
+078343.html,[Rd] Is R-devel broken?,78343,I&#241;aki Ucar
+078347.html,[Rd] Suggestions for improved checks on CRAN/R,78347,I&#241;aki Ucar
+078384.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78384,Kevin Ushey
+078278.html,[Rd] NextMethod() and argument laziness,78278,Davis Vaughan
+078295.html,[Rd] Underscores in package names,78295,Tobias Verbeke
+078287.html,[Rd] Appetite for eliminating dependency on Perl,78287,Ken Williams
+078291.html,[Rd] Underscores in package names,78291,Kevin Wright
+078327.html,[Rd] Underscores in package names,78327,Kevin Wright
+078249.html,[Rd] Infrequent but steady NULL-pointer caused segfault in as.POSIXlt.POSIXct (R 3.4.4),78249,Sun Yijiang
+078259.html,[Rd] Infrequent but steady NULL-pointer caused segfault in as.POSIXlt.POSIXct (R 3.4.4),78259,Sun Yijiang
+078317.html,[Rd] Feature request: non-dropping regmatches/strextract,78317,Cyclic Group Z_1
+078321.html,[Rd] Feature request: non-dropping regmatches/strextract,78321,Cyclic Group Z_1
+078332.html,[Rd] Feature request: non-dropping regmatches/strextract,78332,Cyclic Group Z_1
+078349.html,[Rd] Conventions: Use of globals and main functions,78349,Cyclic Group Z_1
+078352.html,[Rd] Conventions: Use of globals and main functions,78352,Cyclic Group Z_1
+078353.html,[Rd] Conventions: Use of globals and main functions,78353,Cyclic Group Z_1
+078358.html,[Rd] Conventions: Use of globals and main functions,78358,Cyclic Group Z_1
+078367.html,[Rd] Conventions: Use of globals and main functions,78367,Cyclic Group Z_1
+078368.html,[Rd] Conventions: Use of globals and main functions,78368,Cyclic Group Z_1
+078372.html,[Rd] Conventions: Use of globals and main functions,78372,Cyclic Group Z_1
+078374.html,[Rd] Conventions: Use of globals and main functions,78374,Cyclic Group Z_1
+078378.html,[Rd] Feature request: non-dropping regmatches/strextract,78378,Cyclic Group Z_1
+078380.html,[Rd] Feature request: non-dropping regmatches/strextract,78380,Cyclic Group Z_1
+078273.html,[Rd] Potential bug in update.formula when updating offsets,78273,peter dalgaard
+078288.html,[Rd] Appetite for eliminating dependency on Perl,78288,peter dalgaard
+078385.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78385,peter dalgaard
+078307.html,[Rd] Underscores in package names,78307,robin hankin
+078356.html,[Rd] wrap_logical warning message when loading objects created in R 3.6 in an R 3.5 session,78356,petr smirnov
+078282.html,[Rd] Producing different text formats in R,78282,Liuis at Hurt at do m at iii at g oii uv at es
+078289.html,[Rd] Producing different text formats in R,78289,Liuis at Hurt at do m at iii at g oii uv at es

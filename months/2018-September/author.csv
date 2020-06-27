@@ -1,0 +1,173 @@
+link,Subject,id,author
+076900.html,[Rd] Improvement to documentation in dput.Rd,76900,Korpela Mikko (MML)
+076739.html,[Rd] compairing doubles,76739,Juan Telleria Ruiz de Aguirre
+076884.html,[Rd] Native 64 Integers,76884,Juan Telleria Ruiz de Aguirre
+076767.html,"[Rd] Proposal: more accurate seq(from, to, length=n)",76767,Suharto Anggono Suharto Anggono
+076769.html,"[Rd] Proposal: more accurate seq(from, to, length=n)",76769,Suharto Anggono Suharto Anggono
+076740.html,[Rd] compairing doubles,76740,Rui Barradas
+076768.html,"[Rd] Proposal: more accurate seq(from, to, length=n)",76768,Gabe Becker
+076867.html,[Rd] Bias in R's random integers?,76867,Gabe Becker
+076731.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76731,Henrik Bengtsson
+076737.html,[Rd] ROBUSTNESS: a:b to give an error when length(a) &gt; 1 or length(b) &gt; 1 - not just a warning,76737,Henrik Bengtsson
+076902.html,[Rd] Query the pointer protection stack size (--max-ppsize=N) from within R?,76902,Henrik Bengtsson
+076772.html,[Rd] Modification-proposal for %% (modulo) when supplied with double,76772,Emil Bode
+076781.html,[Rd] Modification-proposal for %% (modulo) when supplied with double,76781,Emil Bode
+076790.html,[Rd] Bug when calling system/system2 (and request for Bugzilla account),76790,Emil Bode
+076794.html,[Rd] Bug when calling system/system2 (and request for Bugzilla account),76794,Emil Bode
+076848.html,[Rd] A different error in sample(),76848,Emil Bode
+076859.html,[Rd] future time stamps warning,76859,Emil Bode
+076817.html,[Rd] Bias in R's random integers?,76817,Carl Boettiger
+076840.html,[Rd] Bias in R's random integers?,76840,Carl Boettiger
+076822.html,[Rd] Bias in R's random integers?,76822,Ben Bolker
+076839.html,[Rd] Bias in R's random integers?,76839,Ben Bolker
+076778.html,[Rd] Environments and parallel processing,76778,Niek Bouman
+076750.html,[Rd] ubuntu software updater clash with with cloud.r-project,76750,G&#246;ran Brostr&#246;m
+076886.html,[Rd] 2 minor typos,76886,Marie-Helene Burle
+076779.html,[Rd] Environments and parallel processing,76779,G&#225;bor Cs&#225;rdi
+076804.html,[Rd] diag(-1) produces weird result,76804,G&#225;bor Cs&#225;rdi
+076809.html,[Rd] diag(-1) produces weird result,76809,G&#225;bor Cs&#225;rdi
+076852.html,[Rd]  segfault issue with parallel::mclapply and download.file() on Mac OS X,76852,G&#225;bor Cs&#225;rdi
+076855.html,[Rd] future time stamps warning,76855,G&#225;bor Cs&#225;rdi
+076857.html,[Rd] future time stamps warning,76857,G&#225;bor Cs&#225;rdi
+076880.html,"[Rd] Possible bug, max argument in print.default(), on R-3.5.1-patched",76880,G&#225;bor Cs&#225;rdi
+076777.html,[Rd] Bug 17432 in readLines with R &gt;= 3.5.0 still a problem,76777,Chris Culnane
+076761.html,[Rd] config.status: error: cannot find input file: `po/Makefile.in',76761,Matt Dowle
+076766.html,[Rd]  config.status: error: cannot find input file: `po/Makefile.in',76766,Matt Dowle
+076812.html,[Rd] memory footprint of readRDS(),76812,William Dunlap
+076751.html,[Rd] How do I prevent macOS from attempting to build my package?,76751,Dirk Eddelbuettel
+076801.html,[Rd] Rscript -e does not accept newlines under Linux?,76801,Dirk Eddelbuettel
+076874.html,[Rd] Bias in R's random integers?,76874,Dirk Eddelbuettel
+076875.html,[Rd] Bias in R's random integers?,76875,Dirk Eddelbuettel
+076890.html,[Rd]  Fwd: Bug report: cbind with numeric and raw gives incorrect result,76890,Dirk Eddelbuettel
+076783.html,[Rd] Environments and parallel processing,76783,Clark Fitzgerald
+076866.html,[Rd] Bias in R's random integers?,76866,Paul Gilbert
+076820.html,[Rd] R-admin typo,76820,Colin Gillespie
+076735.html,[Rd] Segfault when performing match on POSIXlt object,76735,Marco Giuliano
+076765.html,[Rd] svg ignores cex.axis in R3.5.1 on macOS,76765,Spencer Graves
+076895.html,[Rd] Stability and reliability of R (comment on Re: as.vector() broken on a matrix or array of type &quot;list&quot;),76895,Spencer Graves
+076881.html,[Rd] Recall,76881,Gabor Grothendieck
+076882.html,[Rd] Recall,76882,Gabor Grothendieck
+076869.html,[Rd] Bias in R's random integers?,76869,Steve Grubb
+076872.html,[Rd] Bias in R's random integers?,76872,Steve Grubb
+076878.html,[Rd] Bias in R's random integers?,76878,Steve Grubb
+076879.html,[Rd] Bias in R's random integers?,76879,Steve Grubb
+076733.html,[Rd] Argument 'dim' misspelled in error message,76733,Kurt Hornik
+076734.html,[Rd] Segfault when performing match on POSIXlt object,76734,Kurt Hornik
+076898.html,[Rd] 2 minor typos,76898,Kurt Hornik
+076842.html,[Rd] A different error in sample(),76842,Wolfgang Huber
+076843.html,[Rd] A different error in sample(),76843,Wolfgang Huber
+076821.html,[Rd] Bias in R's random integers?,76821,David Hugh-Jones
+076836.html,[Rd] Bias in R's random integers?,76836,David Hugh-Jones
+076741.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76741,Tomas Kalibera
+076743.html,[Rd]  Get Logical processor count correctly whether NUMA is enabled or disabled,76743,Tomas Kalibera
+076748.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76748,Tomas Kalibera
+076755.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76755,Tomas Kalibera
+076770.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76770,Tomas Kalibera
+076797.html,[Rd]  Suggestion: use mustWork = TRUE as the default for system.file,76797,Tomas Kalibera
+076823.html,[Rd] R-admin typo,76823,Tomas Kalibera
+076799.html,[Rd] Rscript -e does not accept newlines under Linux?,76799,Rainer Krug
+076853.html,[Rd] future time stamps warning,76853,Leo Lahti
+076856.html,[Rd] future time stamps warning,76856,Leo Lahti
+076782.html,[Rd] Bug 17432 in readLines with R &gt;= 3.5.0 still a problem,76782,Michael Lawrence
+076793.html,[Rd] Bug 17432 in readLines with R &gt;= 3.5.0 still a problem,76793,Michael Lawrence
+076742.html,[Rd] Bug report: problems with saving plots on a Windows PC with 4k monitor - wrong picture size,76742,Yu Lee
+076792.html,[Rd] Bug 17432 in readLines with R &gt;= 3.5.0 still a problem,76792,Jennifer Lyon
+076758.html,[Rd] svg ignores cex.axis in R3.5.1 on macOS,76758,"MacQueen, Don"
+076894.html,[Rd] Stability and reliability of R (comment on Re: as.vector() broken on a matrix or array of type &quot;list&quot;),76894,"MacQueen, Don"
+076746.html,[Rd] compairing doubles,76746,Martin Maechler
+076762.html,[Rd]  config.status: error: cannot find input file: `po/Makefile.in',76762,Martin Maechler
+076776.html,[Rd]  var() with 0-length vector -- docs inconsistent with result,76776,Martin Maechler
+076787.html,[Rd] Poor documentation for &quot;adj&quot; and text(),76787,Martin Maechler
+076807.html,[Rd] Bug when calling system/system2 (and request for Bugzilla account),76807,Martin Maechler
+076844.html,[Rd] A different error in sample(),76844,Martin Maechler
+076850.html,[Rd]  segfault issue with parallel::mclapply and download.file() on Mac OS X,76850,Martin Maechler
+076864.html,[Rd] A different error in sample(),76864,Martin Maechler
+076887.html,"[Rd] Possible bug, max argument in print.default(), on R-3.5.1-patched",76887,Martin Maechler
+076893.html,[Rd] as.vector() broken on a matrix or array of type &quot;list&quot;,76893,Martin Maechler
+076901.html,[Rd] Improvement to documentation in dput.Rd,76901,Martin Maechler
+076810.html,[Rd] memory footprint of readRDS(),76810,Joris Meys
+076813.html,[Rd] memory footprint of readRDS(),76813,Joris Meys
+076829.html,[Rd] A different error in sample(),76829,Joris Meys
+076849.html,[Rd] A different error in sample(),76849,Joris Meys
+076773.html,[Rd] Modification-proposal for %% (modulo) when supplied with double,76773,Duncan Murdoch
+076788.html,[Rd] Problem building rmarkdown vignettes with child,76788,Duncan Murdoch
+076800.html,[Rd] Rscript -e does not accept newlines under Linux?,76800,Duncan Murdoch
+076803.html,[Rd] diag(-1) produces weird result,76803,Duncan Murdoch
+076815.html,[Rd]  Suggested Patch: Adding commas to list of packages after R CMD check,76815,Duncan Murdoch
+076818.html,[Rd] Bias in R's random integers?,76818,Duncan Murdoch
+076824.html,[Rd] Bias in R's random integers?,76824,Duncan Murdoch
+076825.html,[Rd] Bias in R's random integers?,76825,Duncan Murdoch
+076826.html,[Rd] Bias in R's random integers?,76826,Duncan Murdoch
+076827.html,[Rd] Bias in R's random integers?,76827,Duncan Murdoch
+076828.html,[Rd] A different error in sample(),76828,Duncan Murdoch
+076835.html,[Rd] Bias in R's random integers?,76835,Duncan Murdoch
+076837.html,[Rd] Bias in R's random integers?,76837,Duncan Murdoch
+076854.html,[Rd] future time stamps warning,76854,Duncan Murdoch
+076863.html,[Rd] Bias in R's random integers?,76863,Duncan Murdoch
+076865.html,[Rd] Bias in R's random integers?,76865,Duncan Murdoch
+076753.html,[Rd] [FORGED] Re:  plotmath degree symbol,76753,Paul Murrell
+076759.html,[Rd] [FORGED] Re:  plotmath degree symbol,76759,Paul Murrell
+076816.html,[Rd] [FORGED] Possible bug with chromatic adaptation in grDevices::convertColor,76816,Paul Murrell
+076744.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76744,Radford Neal
+076861.html,[Rd] Bias in R's random integers?,76861,Radford Neal
+076873.html,[Rd] Bias in R's random integers?,76873,Radford Neal
+076860.html,[Rd] future time stamps warning,76860,Jari Oksanen
+076752.html,[Rd] Argument 'dim' misspelled in error message,76752,Herv&#233; Pag&#232;s
+076868.html,[Rd] Bias in R's random integers?,76868,Herv&#233; Pag&#232;s
+076892.html,[Rd] as.vector() broken on a matrix or array of type &quot;list&quot;,76892,Herv&#233; Pag&#232;s
+076896.html,[Rd] as.vector() broken on a matrix or array of type &quot;list&quot;,76896,Herv&#233; Pag&#232;s
+076897.html,[Rd] Bug in printing array of type &quot;list&quot;,76897,Herv&#233; Pag&#232;s
+076732.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76732,Hugh Parsonage
+076754.html,[Rd] [FORGED] Re:  plotmath degree symbol,76754,Edzer Pebesma
+076811.html,[Rd] memory footprint of readRDS(),76811,Brian G. Peterson
+076814.html,[Rd] Suggested Patch: Adding commas to list of packages after R CMD check,76814,Marcel Ramos
+076774.html,[Rd] var() with 0-length vector -- docs inconsistent with result,76774,"Raubertas, Richard"
+076802.html,[Rd] diag(-1) produces weird result,76802,William Revelle
+076764.html,[Rd] svg ignores cex.axis in R3.5.1 on macOS,76764,Prof Brian Ripley
+076805.html,[Rd] diag(-1) produces weird result,76805,Barry Rowlingson
+076845.html,[Rd] segfault issue with parallel::mclapply and download.file() on Mac OS X,76845,Seth Russell
+076862.html,[Rd]  segfault issue with parallel::mclapply and download.file() on Mac OS X,76862,Seth Russell
+076847.html,[Rd] A different error in sample(),76847,Kim Seonghyun
+076749.html,[Rd] ubuntu software updater clash with with cloud.r-project,76749,David Shera
+076745.html,[Rd]  Get Logical processor count correctly whether NUMA is enabled or disabled,76745,"Srinivasan, Arunkumar"
+076830.html,[Rd] Bias in R's random integers?,76830,Philip B. Stark
+076831.html,[Rd] Bias in R's random integers?,76831,Philip B. Stark
+076832.html,[Rd] Bias in R's random integers?,76832,Philip B. Stark
+076833.html,[Rd] Bias in R's random integers?,76833,Philip B. Stark
+076834.html,[Rd] Bias in R's random integers?,76834,Philip B. Stark
+076870.html,[Rd] Bias in R's random integers?,76870,Philip B. Stark
+076789.html,[Rd] Suggestion: use mustWork = TRUE as the default for system.file,76789,Irene Steves
+076841.html,[Rd] A different error in sample(),76841,Dario Strbenac
+076780.html,[Rd] Environments and parallel processing,76780,Ralf Stubner
+076858.html,[Rd] Bias in R's random integers?,76858,Ralf Stubner
+076871.html,[Rd] Bias in R's random integers?,76871,Ralf Stubner
+076877.html,[Rd] Bias in R's random integers?,76877,Ralf Stubner
+076899.html,[Rd] Bias in R's random integers?,76899,Ralf Stubner
+076876.html,[Rd] Bias in R's random integers?,76876,"Tierney, Luke"
+076891.html,[Rd]  Fwd: Bug report: cbind with numeric and raw gives incorrect result,76891,"Tierney, Luke"
+076736.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76736,D&#233;nes T&#243;th
+076747.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76747,D&#233;nes T&#243;th
+076756.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76756,I&#241;aki Ucar
+076771.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76771,I&#241;aki Ucar
+076819.html,[Rd] Bias in R's random integers?,76819,I&#241;aki Ucar
+076757.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76757,Kevin Ushey
+076795.html,[Rd] Bug when calling system/system2 (and request for Bugzilla account),76795,Kevin Ushey
+076806.html,[Rd] diag(-1) produces weird result,76806,Ravi Varadhan
+076798.html,[Rd] Rscript -e does not accept newlines under Linux?,76798,"Voeten, C.C."
+076738.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76738,Hadley Wickham
+076786.html,[Rd] Problem building rmarkdown vignettes with child,76786,Witold E Wolski
+076763.html,[Rd] svg ignores cex.axis in R3.5.1 on macOS,76763,peter dalgaard
+076808.html,[Rd] diag(-1) produces weird result,76808,peter dalgaard
+076851.html,[Rd] A different error in sample(),76851,peter dalgaard
+076883.html,"[Rd] Possible bug, max argument in print.default(), on R-3.5.1-patched",76883,peter dalgaard
+076784.html,[Rd] Possible bug with chromatic adaptation in grDevices::convertColor,76784,brodie gaslam
+076888.html,[Rd]  Fwd: Bug report: cbind with numeric and raw gives incorrect result,76888,brodie gaslam
+076846.html,[Rd] A different error in sample(),76846,lmo
+076885.html,[Rd] Fwd: Bug report: cbind with numeric and raw gives incorrect result,76885,mikefc
+076889.html,[Rd]  Fwd: Bug report: cbind with numeric and raw gives incorrect result,76889,mikefc
+076775.html,[Rd] Modification-proposal for %% (modulo) when supplied with double,76775,frederik m at ili at g off ofb at  at et
+076785.html,[Rd] Poor documentation for &quot;adj&quot; and text(),76785,frederik m at ili at g off ofb at  at et
+076838.html,[Rd] Poor documentation for &quot;adj&quot; and text(),76838,frederik m at ili at g off ofb at  at et
+076760.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76760,luke-tier at ey m at ili at g off uiow at  at edu
+076791.html,[Rd] Bug when calling system/system2 (and request for Bugzilla account),76791,luke-tier at ey m at ili at g off uiow at  at edu
+076796.html,[Rd] Bug when calling system/system2 (and request for Bugzilla account),76796,luke-tier at ey m at ili at g off uiow at  at edu

@@ -1,0 +1,159 @@
+link,Subject,id,author
+076254.html,[Rd] Quartz graphic device can be extremely slow in some cases,76254,Juan Telleria Ruiz de Aguirre
+076162.html,[Rd] length of `...`,76162,Suharto Anggono Suharto Anggono
+076166.html,[Rd]  [Bug report] Chinese characters are not handled correctly in Rterm for Windows,76166,Azure
+076196.html,[Rd] different type of modification when code is sourced and pasted,76196,Krzysztof Bartoszek
+076110.html,[Rd] debugonce() functions are not considered as debugged,76110,Gabe Becker
+076134.html,[Rd] length of `...`,76134,Gabe Becker
+076159.html,[Rd] Debugging &quot;SETLENGTH() cannot be applied to an ALTVEC object.&quot;?,76159,Gabe Becker
+076168.html,[Rd]  download.file does not process gz files correctly (truncates them?),76168,Gabe Becker
+076170.html,[Rd] Proposed speedup of ifelse,76170,Gabe Becker
+076124.html,[Rd]  download.file does not process gz files correctly (truncates them?),76124,Henrik Bengtsson
+076146.html,[Rd]  download.file does not process gz files correctly (truncates them?),76146,Henrik Bengtsson
+076164.html,[Rd]  download.file does not process gz files correctly (truncates them?),76164,Henrik Bengtsson
+076108.html,[Rd] issue with model.frame(),76108,"Berry, Charles"
+076113.html,[Rd] [EXTERNAL] Re: issue with model.frame(),76113,"Berry, Charles"
+076117.html,[Rd] issue with model.frame(),76117,"Berry, Charles"
+076169.html,"[Rd] BUG in .col(  c(1, 1) ) ?",76169,"Berry, Charles"
+076260.html,[Rd]  Understanding the sequence of events when calling the R dpois function,76260,"Berry, Charles"
+076195.html,[Rd] BUG: 'bibentry' methods change default bibstyle,76195,Georgi Boshnakov
+076202.html,[Rd] Rd parser throws error for user macros invoked with empty argument,76202,Georgi Boshnakov
+076238.html,[Rd] Rd parser throws error for user macros invoked with empty argument,76238,Georgi Boshnakov
+076240.html,[Rd] Rd parser throws error for user macros invoked with empty argument,76240,Georgi Boshnakov
+076222.html,[Rd] Error message truncation,76222,Michael Chirico
+076161.html,[Rd] Bug in profile.nls with algorithm = &quot;plinear&quot;,76161,Benjamin Christoffersen
+076104.html,[Rd] possible internal (un)tar bug,76104,G&#225;bor Cs&#225;rdi
+076227.html,[Rd] debugonce() functions are not considered as debugged,76227,G&#225;bor Cs&#225;rdi
+076230.html,[Rd] debugonce() functions are not considered as debugged,76230,G&#225;bor Cs&#225;rdi
+076245.html,[Rd] readLines function with R &gt;= 3.5.0,76245,G&#225;bor Cs&#225;rdi
+076112.html,[Rd] issue with model.frame(),76112,William Dunlap
+076133.html,[Rd] length of `...`,76133,William Dunlap
+076135.html,[Rd] length of `...`,76135,T&#243;th D&#233;nes
+076184.html,[Rd]  download.file does not process gz files correctly (truncates them?),76184,Dirk Eddelbuettel
+076210.html,[Rd] Date method of as.POSIXct does not respect tz,76210,Roland Fu&#223;
+076221.html,[Rd] Date method of as.POSIXct does not respect tz,76221,Roland Fu&#223;
+076157.html,[Rd] Debugging &quot;SETLENGTH() cannot be applied to an ALTVEC object.&quot;?,76157,Tal Galili
+076228.html,[Rd] patch for scan.c for long vector support,76228,Aaron Goodman
+076242.html,[Rd] Buffering in R 3.5 connections causes incorrect data in readChar,76242,Aaron Goodman
+076253.html,[Rd] Buffering in R 3.5 connections causes incorrect data in readChar,76253,Aaron Goodman
+076163.html,[Rd] Sys.timezone (timedatectl) unnecessarily warns loudly,76163,Jan Gorecki
+076188.html,[Rd] readLines() behaves differently for gzfile connection,76188,Ben Heavner
+076190.html,[Rd] readLines() behaves differently for gzfile connection,76190,Ben Heavner
+076199.html,[Rd] access an element with empty name,76199,Kurt Hornik
+076149.html,[Rd]  download.file does not process gz files correctly (truncates them?),76149,Tomas Kalibera
+076153.html,[Rd]  [Bug report] Chinese characters are not handled correctly in Rterm for Windows,76153,Tomas Kalibera
+076180.html,[Rd]  download.file does not process gz files correctly (truncates them?),76180,Tomas Kalibera
+076208.html,[Rd]  Possible bug in package installation when R_ICU_LOCALE is set,76208,Tomas Kalibera
+076225.html,[Rd] debugonce() functions are not considered as debugged,76225,Tomas Kalibera
+076226.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",76226,Tomas Kalibera
+076229.html,[Rd] debugonce() functions are not considered as debugged,76229,Tomas Kalibera
+076237.html,[Rd] Rd parser throws error for user macros invoked with empty argument,76237,Tomas Kalibera
+076239.html,[Rd] patch for scan.c for long vector support,76239,Tomas Kalibera
+076249.html,[Rd] Buffering in R 3.5 connections causes incorrect data in readChar,76249,Tomas Kalibera
+076255.html,[Rd] Buffering in R 3.5 connections causes incorrect data in readChar,76255,Tomas Kalibera
+076114.html,[Rd] source(echo = TRUE) with a iso-8859-1 encoded file gives an error,76114,Scott Kostyshak
+076158.html,[Rd]  source(echo = TRUE) with a iso-8859-1 encoded file gives an error,76158,Scott Kostyshak
+076147.html,[Rd] length of `...`,76147,Michel Lang
+076189.html,[Rd] readLines() behaves differently for gzfile connection,76189,Michael Lawrence
+076201.html,[Rd] readLines() behaves differently for gzfile connection,76201,Michael Lawrence
+076206.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76206,Michael Lawrence
+076211.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76211,Michael Lawrence
+076213.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76213,Michael Lawrence
+076216.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76216,Michael Lawrence
+076233.html,[Rd] Creating S3 methods for S4 classes (coming from r-package-devel),76233,Michael Lawrence
+076235.html,[Rd] Creating S3 methods for S4 classes (coming from r-package-devel),76235,Michael Lawrence
+076203.html,[Rd] Mention L suffix in integer man page?,76203,Thomas J. Leeper
+076131.html,[Rd] length of `...`,76131,Mark van der Loo
+076106.html,[Rd] possible internal (un)tar bug,76106,Martin Maechler
+076107.html,[Rd] possible internal (un)tar bug,76107,Martin Maechler
+076109.html,[Rd] possible internal (un)tar bug,76109,Martin Maechler
+076116.html,[Rd] issue with model.frame(),76116,Martin Maechler
+076150.html,[Rd]  download.file does not process gz files correctly (truncates them?),76150,Martin Maechler
+076152.html,[Rd]  download.file does not process gz files correctly (truncates them?),76152,Martin Maechler
+076154.html,[Rd] length of `...`,76154,Martin Maechler
+076156.html,[Rd] length of `...`,76156,Martin Maechler
+076185.html,[Rd] unlist errors on a nested list of empty lists,76185,Martin Maechler
+076218.html,[Rd]  Patch for bug 17256 'possible bug in writeForeignSAS in the foreign library when string is NA',76218,Martin Maechler
+076219.html,[Rd] Date method of as.POSIXct does not respect tz,76219,Martin Maechler
+076232.html,[Rd] Bug on qr.coef when qr is created by a zero matrix with colnames and all y equals zero,76232,Martin Maechler
+076243.html,[Rd] readLines function with R &gt;= 3.5.0,76243,Martin Maechler
+076244.html,[Rd] readLines function with R &gt;= 3.5.0,76244,Martin Maechler
+076247.html,[Rd] readLines function with R &gt;= 3.5.0,76247,Martin Maechler
+076250.html,[Rd] readLines function with R &gt;= 3.5.0,76250,Martin Maechler
+076191.html,[Rd] Bug in plot.lm function (stats package): positioning of labels for extreme points.,76191,Edward McNeil
+076121.html,[Rd] download.file does not process gz files correctly (truncates them?),76121,Joris Meys
+076125.html,[Rd]  download.file does not process gz files correctly (truncates them?),76125,Joris Meys
+076122.html,[Rd]  download.file does not process gz files correctly (truncates them?),76122,Joris Meys
+076129.html,[Rd]  download.file does not process gz files correctly (truncates them?),76129,Joris Meys
+076151.html,[Rd]  download.file does not process gz files correctly (truncates them?),76151,Joris Meys
+076155.html,[Rd] length of `...`,76155,Joris Meys
+076165.html,[Rd]  download.file does not process gz files correctly (truncates them?),76165,Joris Meys
+076194.html,[Rd]  download.file does not process gz files correctly (truncates them?),76194,Joris Meys
+076231.html,[Rd] Creating S3 methods for S4 classes (coming from r-package-devel),76231,Joris Meys
+076234.html,[Rd] Creating S3 methods for S4 classes (coming from r-package-devel),76234,Joris Meys
+076256.html,[Rd] CRAN checks give errors when no tests are included,76256,Joris Meys
+076257.html,[Rd] CRAN checks give errors when no tests are included,76257,Joris Meys
+076261.html,[Rd]  Understanding the sequence of events when calling the R dpois function,76261,Greg Minshall
+076123.html,[Rd]  download.file does not process gz files correctly (truncates them?),76123,Martin Morgan
+076127.html,[Rd]  download.file does not process gz files correctly (truncates them?),76127,Martin Morgan
+076138.html,[Rd] length of `...`,76138,Martin Morgan
+076126.html,[Rd]  download.file does not process gz files correctly (truncates them?),76126,Duncan Murdoch
+076136.html,[Rd] length of `...`,76136,Duncan Murdoch
+076143.html,[Rd] length of `...`,76143,Duncan Murdoch
+076175.html,[Rd] unlist errors on a nested list of empty lists,76175,Duncan Murdoch
+076176.html,[Rd] unlist errors on a nested list of empty lists,76176,Duncan Murdoch
+076179.html,[Rd] unlist errors on a nested list of empty lists,76179,Duncan Murdoch
+076181.html,[Rd]  download.file does not process gz files correctly (truncates them?),76181,Duncan Murdoch
+076187.html,[Rd] grDevices::grey could provide clearer error message when length(alpha) != length(level),76187,Duncan Murdoch
+076215.html,[Rd] [FORGED]  bug in {graphics} identify(),76215,Paul Murrell
+076217.html,[Rd] Patch for bug 17256 'possible bug in writeForeignSAS in the foreign library when string is NA',76217,"NELSON, Michael"
+076220.html,[Rd]  Patch for bug 17256 'possible bug in writeForeignSAS in the foreign library when string is NA',76220,"NELSON, Michael"
+076132.html,[Rd] Proposed speedup of ifelse,76132,Radford Neal
+076174.html,[Rd] unlist errors on a nested list of empty lists,76174,Steven Nydick
+076178.html,[Rd] unlist errors on a nested list of empty lists,76178,Steven Nydick
+076183.html,[Rd] unlist errors on a nested list of empty lists,76183,Steven Nydick
+076128.html,[Rd]  download.file does not process gz files correctly (truncates them?),76128,Jeroen Ooms
+076142.html,[Rd] length of `...`,76142,Herv&#233; Pag&#232;s
+076173.html,[Rd] length of `...`,76173,Herv&#233; Pag&#232;s
+076205.html,[Rd] Dispatch mechanism seems to alter object before calling method on it,76205,Herv&#233; Pag&#232;s
+076209.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76209,Herv&#233; Pag&#232;s
+076212.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76212,Herv&#233; Pag&#232;s
+076214.html,[Rd]  Dispatch mechanism seems to alter object before calling method on it,76214,Herv&#233; Pag&#232;s
+076119.html,[Rd] Proposed speedup of ifelse,76119,Hugh Parsonage
+076120.html,[Rd] Proposed speedup of ifelse,76120,Hugh Parsonage
+076148.html,[Rd] Proposed speedup of ifelse,76148,Hugh Parsonage
+076167.html,[Rd]  download.file does not process gz files correctly (truncates them?),76167,Hugh Parsonage
+076171.html,[Rd] Proposed speedup of ifelse,76171,Hugh Parsonage
+076186.html,[Rd] grDevices::grey could provide clearer error message when length(alpha) != length(level),76186,Hugh Parsonage
+076192.html,[Rd] valgrind issue in core R 3.5,76192,Joshua N Pritikin
+076223.html,[Rd] Bug on qr.coef when qr is created by a zero matrix with colnames and all y equals zero,76223,Kun Ren
+076204.html,[Rd] bug in {graphics} identify(),76204,Richard Rowe
+076259.html,[Rd] Understanding the sequence of events when calling the R dpois function,76259,Jason Serviss
+076198.html,[Rd] access an element with empty name,76198,Serguei Sokol
+076200.html,[Rd] access an element with empty name,76200,Serguei Sokol
+076236.html,[Rd] Illegible Long S4 Methods in Reference Manual Index,76236,Dario Strbenac
+076241.html,[Rd] readLines function with R &gt;= 3.5.0,76241,Ralf Stubner
+076246.html,[Rd] readLines function with R &gt;= 3.5.0,76246,Ralf Stubner
+076248.html,[Rd] readLines function with R &gt;= 3.5.0,76248,Ralf Stubner
+076207.html,[Rd] xtfrm documentation typo,76207,&#216;ystein S&#248;rensen
+076105.html,[Rd] issue with model.frame(),76105,"Therneau, Terry M., Ph.D."
+076111.html,[Rd] [EXTERNAL] Re: issue with model.frame(),76111,"Therneau, Terry M., Ph.D."
+076118.html,[Rd] issue with model.frame(),76118,"Therneau, Terry M., Ph.D."
+076130.html,[Rd] length of `...`,76130,D&#233;nes T&#243;th
+076251.html,[Rd] readLines function with R &gt;= 3.5.0,76251,Simon Urbanek
+076139.html,[Rd] length of `...`,76139,Hadley Wickham
+076140.html,[Rd] length of `...`,76140,Hadley Wickham
+076141.html,[Rd] length of `...`,76141,Hadley Wickham
+076144.html,[Rd] length of `...`,76144,Hadley Wickham
+076172.html,[Rd]  download.file does not process gz files correctly (truncates them?),76172,Hadley Wickham
+076177.html,[Rd]  download.file does not process gz files correctly (truncates them?),76177,Hadley Wickham
+076252.html,[Rd] Quartz graphic device can be extremely slow in some cases,76252,"Wilke, Claus O"
+076115.html,[Rd]  source(echo = TRUE) with a iso-8859-1 encoded file gives an error,76115,Ista Zahn
+076137.html,[Rd] length of `...`,76137,peter dalgaard
+076145.html,[Rd] length of `...`,76145,peter dalgaard
+076182.html,[Rd]  download.file does not process gz files correctly (truncates them?),76182,peter dalgaard
+076224.html,[Rd] Bug in order function,76224,peter dalgaard
+076193.html,[Rd] valgrind issue in core R 3.5,76193,luke-tier at ey m at ili at g off uiow at  at edu
+076197.html,[Rd]  different type of modification when code is sourced and pasted,76197,luke-tier at ey m at ili at g off uiow at  at edu
+076258.html,[Rd]  Result of 'seq' doesn't use compact internal representation,76258,luke-tier at ey m at ili at g off uiow at  at edu
+076160.html,[Rd] Debugging &quot;SETLENGTH() cannot be applied to an ALTVEC object.&quot;?,76160,luke-tierney at uiowa.edu

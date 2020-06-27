@@ -1,0 +1,323 @@
+link,Subject,id,author
+051837.html,[Rd] script window background and text color (PR#13446),51837,alexios at 4dscape.com
+051881.html,[Rd] Embeding R,51881,Bengoechea Bartolom&#233; Enrique (SIES 73)
+051969.html,"[Rd] Arima_Like() and NaN - a (possible) problem, a patch, and RFC",51969,Mauro Andreolini
+051698.html,[Rd] bug involving quote(); ghost in the machine,51698,Felix Andrews
+051835.html,[Rd] interrupting R from a GUI,51835,Felix Andrews
+051842.html,[Rd] interrupting R from a GUI,51842,Felix Andrews
+051895.html,[Rd] Accessing a c-level complicated structure from R,51895,"Antonio, Fabio Di Narzo"
+051905.html,[Rd] loading RBlas.dll,51905,"Antonio, Fabio Di Narzo"
+051723.html,[Rd] Function to recognise convert dates between gregorian and	other calendars (e.g. Persian)?,51723,Whit Armstrong
+051727.html,[Rd] rscproxy version conflict,51727,Thomas Baier
+051909.html,[Rd] &quot;for&quot; loop wiht S4 Objects,51909,Douglas Bates
+051715.html,[Rd] methods vs. functions,51715,Claudia Beleites
+051716.html,[Rd] ... (dotMethods) and cbind/rbind: how to give the	signature?,51716,Claudia Beleites
+051782.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51782,Henrik Bengtsson
+051797.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51797,Henrik Bengtsson
+051814.html,[Rd] Windows installer text bug (PR#13445),51814,Henrik Bengtsson
+051822.html,[Rd] More intensive checking of R help files,51822,Henrik Bengtsson
+051900.html,[Rd] Package impute exist in quite different version on CRAN and	BioC,51900,Henrik Bengtsson
+051863.html,[Rd] further notes on model.frame issue,51863,Charles C. Berry
+051765.html,[Rd] Problem with compiling shared C/C++ library for loading into R	(Linux),51765,Samsiddhi Bhattacharjee
+051812.html,[Rd] Problem with compiling shared C/C++ library for loading	into R (Linux),51812,Samsiddhi Bhattacharjee
+051689.html,[Rd] proposed patch to Uniform.Rd,51689,Ben Bolker
+051696.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51696,Daniel Saban&#233;s Bov&#233;
+051706.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51706,Daniel Saban&#233;s Bov&#233;
+051717.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51717,Daniel Saban&#233;s Bov&#233;
+051779.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51779,Daniel Saban&#233;s Bov&#233;
+051780.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51780,Daniel Saban&#233;s Bov&#233;
+051982.html,[Rd] (PR#13487) Segfault when mistakenly calling [.data.frame,51982,Christian Brechb&#252;hler
+051997.html,[Rd] (PR#8192) [ subscripting sometimes loses names,51997,Christian Brechb&#252;hler
+051802.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51802,Patrick Burns
+051977.html,[Rd] length of POSIXlt object (PR#13482),51977,Patrick Burns
+051722.html,[Rd] Function to recognise convert dates between gregorian and	other calendars (e.g. Persian)?,51722,Ted Byers
+051924.html,[Rd] Defining an iterator,51924,John Chambers
+051940.html,[Rd] Inherited Methods in r-devel (for package maintainers mainly),51940,John Chambers
+051954.html,[Rd] Inherited Methods in r-devel (for package maintainers	mainly),51954,John Chambers
+051758.html,[Rd] NY Times article,51758,Kevin R. Coombes
+051975.html,[Rd] How to generate a xyplot with multiple panels using an	empty data frame ?,51975,Peter Cowan
+051972.html,[Rd] In Rd: \describe \itemize and \item,51972,Nicholas L Crookston
+051985.html,[Rd] In Rd: \describe \itemize and \item,51985,Nicholas L Crookston
+051987.html,[Rd] In Rd: \describe \itemize and \item,51987,Nicholas L Crookston
+051976.html,[Rd] &quot;Panel Data Unit Root tests&quot;,51976,Jose Iparraguirre D'Elia
+051684.html,[Rd] Bug report in foreign library (PR#13425),51684,Peter Dalgaard
+051712.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51712,Peter Dalgaard
+051719.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51719,Peter Dalgaard
+051831.html,[Rd] [Q] R CMD check signals error on code that works from UI,51831,Peter Dalgaard
+051925.html,[Rd] FW: [R] The Quality &amp; Accuracy of R,51925,Peter Dalgaard
+051992.html,[Rd] (PR#8192) [ subscripting sometimes loses names,51992,Peter Dalgaard
+051994.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51994,Peter Dalgaard
+051860.html,[Rd] Floating point excepting when cbind()ing a matrix of grobs	(orenvironments) with a 0-column matrix,51860,William Dunlap
+051862.html,[Rd] sub and gsub treat \\ incorrectly (PR#13454),51862,William Dunlap
+051885.html,[Rd] typo in R-intro,51885,William Dunlap
+051952.html,[Rd] Package (PR#13475),51952,William Dunlap
+051775.html,[Rd] R as a scripting engine,51775,Dirk Eddelbuettel
+051805.html,[Rd] R as a scripting engine,51805,Dirk Eddelbuettel
+051806.html,[Rd] R as a scripting engine,51806,Dirk Eddelbuettel
+051963.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51963,Dirk Eddelbuettel
+051988.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51988,Dirk Eddelbuettel
+051993.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51993,Dirk Eddelbuettel
+051996.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51996,Dirk Eddelbuettel
+051991.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51991,Seth Falcon
+051995.html,[Rd] Side-effects of require() vs library() on x86_64 aka amd64,51995,Seth Falcon
+051850.html,[Rd] patch for textspecial and defaultfont in xfig,51850,Sebastian Fischmeister
+051854.html,[Rd] patch for textspecial and defaultfont in xfig,51854,Sebastian Fischmeister
+051917.html,[Rd] Warning for dropped text with devices that don't support	clipping,51917,Sebastian Fischmeister
+051918.html,[Rd] Warning for dropped text with devices that don't	support	clipping (in text attachments),51918,Sebastian Fischmeister
+051920.html,[Rd] Automatic shortening of text to fit into area,51920,Sebastian Fischmeister
+051750.html,[Rd] Sending an interrupt signal to an embedded R,51750,Laurent Gautier
+051718.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51718,Charles Geyer
+051721.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51721,Charles Geyer
+051728.html,[Rd] legend() in a multiple figure environment,51728,Simone Giannerini
+051734.html,[Rd] legend() in a multiple figure environment,51734,Simone Giannerini
+051736.html,[Rd] legend() in a multiple figure environment,51736,Simone Giannerini
+051737.html,[Rd] legend() in a multiple figure environment,51737,Simone Giannerini
+051739.html,[Rd] legend() in a multiple figure environment,51739,Simone Giannerini
+051744.html,[Rd] legend() in a multiple figure environment,51744,Simone Giannerini
+051804.html,[Rd] particulars of importing/loading libraries,51804,Paul Gilbert
+051764.html,[Rd] code validation (was Re:  NY Times article),51764,Spencer Graves
+051856.html,[Rd] DierckxSpline segfault,51856,Spencer Graves
+051849.html,[Rd] DierckxSpline segfault,51849,Spencer Graves
+051766.html,[Rd] code validation (was Re:  NY Times article),51766,Philippe Grosjean
+051774.html,[Rd] R as a scripting engine,51774,Gabor Grothendieck
+051795.html,[Rd] irrelevant warning message,51795,Gabor Grothendieck
+051824.html,[Rd] Documentation suggestions for vignettes,51824,Gabor Grothendieck
+051828.html,[Rd] Documentation suggestions for vignettes,51828,Gabor Grothendieck
+051833.html,[Rd] Documentation suggestions for vignettes,51833,Gabor Grothendieck
+051841.html,[Rd] 2009 Wish list for R,51841,Gabor Grothendieck
+051919.html,[Rd] Warning for dropped text with devices that don't support	clipping (in text attachments),51919,Gabor Grothendieck
+051754.html,[Rd] forcing the use of the c++ linker with c++ and fortran sources,51754,Steve Guerrero
+051760.html,[Rd] forcing the use of the c++ linker with c++ and fortran	sources,51760,Steve Guerrero
+051956.html,[Rd] asypow cran package,51956,Kjetil Halvorsen
+051702.html,[Rd] \description in Rd files,51702,Robin Hankin
+051705.html,[Rd] \description in Rd files,51705,Robin Hankin
+051958.html,[Rd] Recommendations for next maintenance release of RMySQL,51958,Jeffrey Horner
+051687.html,[Rd] Bug report in foreign library (PR#13425),51687,Nicholas Horton
+051776.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51776,Rainer Hurling
+051783.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51783,Rainer Hurling
+051880.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51880,Rainer Hurling
+051901.html,[Rd] row.names in data.frame with row.names NULL,51901,Yetta Jager
+051763.html,[Rd] NY Times article,51763,Jb
+051769.html,[Rd] NY Times article,51769,Frank E Harrell Jr
+051870.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51870,Hiroyuki Kawakatsu
+051929.html,[Rd]  Warning: closing unused connection 3,51929,Dan Kelley
+051974.html,[Rd] How to generate a xyplot with multiple panels using an empty	data frame ?,51974,Daniel Kornhauser
+051677.html,[Rd] [Fwd: Re: [R] Randomly remove condition-selected rows from a	matrix],51677,Wacek Kusnierczyk
+051788.html,[Rd] R as a scripting engine,51788,Wacek Kusnierczyk
+051877.html,[Rd] patch for src/main/character.c,51877,Wacek Kusnierczyk
+051998.html,[Rd] (PR#8192) [ subscripting sometimes loses names,51998,Wacek Kusnierczyk
+051740.html,[Rd] Callbacks seems to get GCed.,51740,Duncan Temple Lang
+051957.html,[Rd] File and console output does not work in C code,51957,Benjamin Leblanc
+051962.html,[Rd] File and console output does not work in C code,51962,Benjamin Leblanc
+051964.html,[Rd] File and console output does not work in C code,51964,Benjamin Leblanc
+051690.html,[Rd] R-intro,51690,Jan de Leeuw
+051692.html,[Rd] R-intro,51692,Jan de Leeuw
+051694.html,[Rd] R-intro,51694,Jan de Leeuw
+051757.html,[Rd] NY Times article,51757,Nicholas Lewin-Koh
+051762.html,[Rd] NY Times article,51762,Nicholas Lewin-Koh
+051772.html,[Rd] NY Times article,51772,Nicholas Lewin-Koh
+051872.html,[Rd] Embeding R,51872,Sylvain Loiseau
+051874.html,[Rd] Embeding R,51874,Sylvain Loiseau
+051922.html,[Rd] Defining an iterator,51922,Stavros Macrakis
+051928.html,[Rd] Defining an iterator,51928,Stavros Macrakis
+051735.html,[Rd] legend() in a multiple figure environment,51735,Martin Maechler
+051839.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51839,Martin Maechler
+051846.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51846,Martin Maechler
+051897.html,[Rd] str(&lt;1d-array&gt;),51897,Martin Maechler
+051933.html,[Rd] str(&lt;1d-array&gt;),51933,Martin Maechler
+051720.html,[Rd] Function to recognise convert dates between gregorian and	other calendars (e.g. Persian)?,51720,Amy Mikhail
+051725.html,[Rd] Function to recognise convert dates between gregorian and	other calendars (e.g. Persian)?,51725,Amy Mikhail
+051726.html,[Rd] Function to recognise convert dates between gregorian and	other calendars (e.g. Persian)?,51726,Amy Mikhail
+051865.html,[Rd] sub and gsub treat \\ incorrectly (PR#13454),51865,Andriy Miranskyy
+051799.html,[Rd] particulars of importing/loading libraries,51799,Martin Morgan
+051809.html,[Rd] particulars of importing/loading libraries,51809,Martin Morgan
+051890.html,[Rd] encountering difficulty asking R to manipulate the correct columns in Expression Set class (object 4). (PR#13464),51890,Martin Morgan
+051899.html,[Rd] pass by reference for S4,51899,Martin Morgan
+051926.html,[Rd] Defining an iterator,51926,Martin Morgan
+051915.html,[Rd] FW: [R] The Quality &amp; Accuracy of R,51915,"Muenchen, Robert A (Bob)"
+051938.html,[Rd] FW: [R] The Quality &amp; Accuracy of R,51938,"Muenchen, Robert A (Bob)"
+051730.html,[Rd] Parse-Error creates strange function calls (completely	different printouts) (PR#13436),51730,Duncan Murdoch
+051741.html,[Rd] legend() in a multiple figure environment,51741,Duncan Murdoch
+051751.html,[Rd] Firefox 3 and HTML Search,51751,Duncan Murdoch
+051759.html,[Rd] forcing the use of the c++ linker with c++ and fortran	sources,51759,Duncan Murdoch
+051781.html,[Rd] Firefox 3 and HTML Search,51781,Duncan Murdoch
+051786.html,[Rd] irrelevant warning message,51786,Duncan Murdoch
+051796.html,[Rd] R as a scripting engine,51796,Duncan Murdoch
+051815.html,[Rd] Windows installer text bug (PR#13445),51815,Duncan Murdoch
+051844.html,[Rd] 2009 Wish list for R,51844,Duncan Murdoch
+051913.html,[Rd] Possible Bug in file.show (PR#13469),51913,Duncan Murdoch
+051914.html,[Rd] Possible Bug in file.show (PR#13469),51914,Duncan Murdoch
+051934.html,[Rd] [R] can't load rJava in R 2.8.1 on Windows XP,51934,Duncan Murdoch
+051935.html,[Rd] [R] can't load rJava in R 2.8.1 on Windows XP,51935,Duncan Murdoch
+051943.html,[Rd] Return values from .Call and garbage collection [Additional information added],51943,Duncan Murdoch
+051950.html,[Rd] Package (PR#13475),51950,Duncan Murdoch
+051953.html,[Rd] Package (PR#13475),51953,Duncan Murdoch
+051973.html,[Rd] In Rd: \describe \itemize and \item,51973,Duncan Murdoch
+051986.html,[Rd] In Rd: \describe \itemize and \item,51986,Duncan Murdoch
+051990.html,[Rd] (PR#8192) [ subscripting sometimes loses names,51990,Duncan Murdoch
+051923.html,[Rd] Automatic shortening of text to fit into area,51923,Paul Murrell
+051843.html,[Rd] 2009 Wish list for R,51843,Sean O'Riordain
+051838.html,[Rd] help text for ave(),51838,Henrik Parn
+051732.html,[Rd] NY Times article,51732,Anand Patil
+051811.html,[Rd] FORTRAN compilation error on Tiger but not for Leopard,51811,"Pfaff, Bernhard Dr."
+051818.html,[Rd] FORTRAN compilation error on Tiger but not for Leopard,51818,"Pfaff, Bernhard Dr."
+051978.html,[Rd] Methods not loaded in R-Devel vs 2.8.1,51978,"Pfaff, Bernhard Dr."
+051979.html,[Rd] Methods not loaded in R-Devel vs 2.8.1,51979,"Pfaff, Bernhard Dr."
+051989.html,[Rd] (PR#8192) [ subscripting sometimes loses names,51989,Andrew Piskorski
+051840.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51840,Tony Plate
+051896.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51896,Tony Plate
+051911.html,[Rd] overwriting '&lt;-' and infinite recursions,51911,Tony Plate
+051984.html,[Rd] (PR#13487) Segfault when mistakenly calling [.data.frame,51984,Tony Plate
+051883.html,[Rd] work-around for debugger broken (by changed behaviour of get	under R 2.8?) when functions have ... arguments,51883,Keith Ponting
+051729.html,[Rd] legend() in a multiple figure environment,51729,Mathieu Ribatet
+051951.html,[Rd] uninitialised value in R (PR#13476),51951,Mathieu Ribatet
+051955.html,[Rd] uninitialised value in R (PR#13476),51955,Mathieu Ribatet
+051888.html,[Rd] (PR#13464) encountering difficulty asking R to manipulate the correct columns in Expression Set class (object 4),51888,Brian D Ripley
+051889.html,[Rd] Italics in svg output display as bold (PR#13463),51889,Brian D Ripley
+051892.html,[Rd] [R] pdf() and pch problems,51892,Brian D Ripley
+051680.html,[Rd] (PR#13424) Missing PROTECT in intern_getwd (in util.c),51680,Prof Brian Ripley
+051682.html,[Rd] (PR#13423) bug report: writeForeignSAS in package &quot;foreign&quot;,51682,Prof Brian Ripley
+051686.html,[Rd] implementation of NULL in vectors,51686,Prof Brian Ripley
+051688.html,[Rd] Bug report in foreign library (PR#13425),51688,Prof Brian Ripley
+051691.html,[Rd] R-intro,51691,Prof Brian Ripley
+051693.html,[Rd] R-intro,51693,Prof Brian Ripley
+051695.html,[Rd] R-intro,51695,Prof Brian Ripley
+051697.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51697,Prof Brian Ripley
+051700.html,[Rd] bug involving quote(); ghost in the machine,51700,Prof Brian Ripley
+051701.html,[Rd] can't get names of R_env,51701,Prof Brian Ripley
+051703.html,[Rd] bug involving quote(); ghost in the machine,51703,Prof Brian Ripley
+051704.html,[Rd] \description in Rd files,51704,Prof Brian Ripley
+051711.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51711,Prof Brian Ripley
+051713.html,[Rd] Strange error message,51713,Prof Brian Ripley
+051733.html,[Rd] NY Times article,51733,Prof Brian Ripley
+051742.html,[Rd] legend() in a multiple figure environment,51742,Prof Brian Ripley
+051746.html,[Rd] File name determines success or failure of package installation -- please help,51746,Prof Brian Ripley
+051748.html,[Rd] More intensive checking of R help files,51748,Prof Brian Ripley
+051749.html,[Rd] can't get names of R_env,51749,Prof Brian Ripley
+051752.html,[Rd] Firefox 3 and HTML Search,51752,Prof Brian Ripley
+051756.html,[Rd] (PR#13440) [R 2.8.1 on AIX 5.3] WARNING: tiffio.h: present but cannot be,51756,Prof Brian Ripley
+051761.html,[Rd] forcing the use of the c++ linker with c++ and fortran sources,51761,Prof Brian Ripley
+051768.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51768,Prof Brian Ripley
+051771.html,[Rd] cat cannot write more than 10000 characters? [R 2.8.1],51771,Prof Brian Ripley
+051773.html,[Rd] R as a scripting engine,51773,Prof Brian Ripley
+051778.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51778,Prof Brian Ripley
+051787.html,[Rd] x &lt;- 1:2; dim(x) &lt;- 2? A vector or not?,51787,Prof Brian Ripley
+051790.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51790,Prof Brian Ripley
+051791.html,[Rd] Missing links on Windows and \link[bar]{foo}; clarification,51791,Prof Brian Ripley
+051793.html,[Rd] Missing links on Windows and \link[bar]{foo}; clarification,51793,Prof Brian Ripley
+051823.html,[Rd] More intensive checking of R help files,51823,Prof Brian Ripley
+051836.html,[Rd] interrupting R from a GUI,51836,Prof Brian Ripley
+051851.html,[Rd] patch for textspecial and defaultfont in xfig,51851,Prof Brian Ripley
+051858.html,[Rd] [Win] Hangup RGui with RMySQL (PR#13453),51858,Prof Brian Ripley
+051864.html,[Rd] Future support for cross-building for Windows,51864,Prof Brian Ripley
+051868.html,[Rd] sub and gsub treat \\ incorrectly (PR#13454),51868,Prof Brian Ripley
+051869.html,[Rd] R bug or ghostscript bug or my bug?,51869,Prof Brian Ripley
+051871.html,[Rd] Package Matrix does not compile in R-devel_2009-01-10,51871,Prof Brian Ripley
+051875.html,[Rd] Embeding R,51875,Prof Brian Ripley
+051878.html,[Rd] patch for textspecial and defaultfont in xfig,51878,Prof Brian Ripley
+051879.html,[Rd] Floating point excepting when cbind()ing a matrix of grobs (orenvironments) with a 0-column matrix,51879,Prof Brian Ripley
+051921.html,[Rd] Automatic shortening of text to fit into area,51921,Prof Brian Ripley
+051931.html,[Rd] Warning: closing unused connection 3,51931,Prof Brian Ripley
+051932.html,[Rd] loading RBlas.dll,51932,Prof Brian Ripley
+051959.html,[Rd] File and console output does not work in C code,51959,Prof Brian Ripley
+051971.html,[Rd] (PR#13487) Segfault when mistakenly calling [.data.frame,51971,Prof Brian Ripley
+051980.html,[Rd] Methods not loaded in R-Devel vs 2.8.1,51980,Prof Brian Ripley
+051852.html,[Rd] optim() example in relist() help page,51852,Dimitris Rizopoulos
+051825.html,[Rd] doc buglet / relist method,51825,Paul Roebuck
+051829.html,[Rd] [Q] R CMD check signals error on code that works from UI,51829,Paul Roebuck
+051685.html,[Rd] implementation of NULL in vectors,51685,Mark Rosen
+051867.html,[Rd] pass by reference for S4,51867,Biczok Rudolf
+051904.html,[Rd] &quot;for&quot; loop wiht S4 Objects,51904,Biczok Rudolf
+051970.html,[Rd] length of POSIXlt object (PR#13482),51970,Jeff Ryan
+051936.html,[Rd] bug in cor.test(method = &quot;spearman&quot;),51936,Petr Savicky
+051960.html,[Rd] uninitialised value in R (PR#13476),51960,Martin Schlather
+051961.html,[Rd] uninitialised value in R (PR#13476),51961,Martin Schlather
+051738.html,[Rd] Callbacks seems to get GCed.,51738,Bernd Schoeller
+051743.html,[Rd] Callbacks seems to get GCed.,51743,Bernd Schoeller
+051753.html,[Rd] Firefox 3 and HTML Search,51753,Marc Schwartz
+051770.html,[Rd] code validation (was Re:  NY Times article),51770,Marc Schwartz
+051898.html,[Rd] str(&lt;1d-array&gt;),51898,Marc Schwartz
+051893.html,[Rd] Accessing a c-level complicated structure from R,51893,Scionforbai
+051941.html,[Rd] Return values from .Call and garbage collection,51941,Jon Senior
+051942.html,[Rd] Return values from .Call and garbage collection [Additional information added],51942,Jon Senior
+051946.html,[Rd] Return values from .Call and garbage collection,51946,Jon Senior
+051789.html,[Rd] Missing links on Windows and \link[bar]{foo}; clarification,51789,Gavin Simpson
+051792.html,[Rd] Missing links on Windows and \link[bar]{foo}; clarification,51792,Gavin Simpson
+051891.html,[Rd] [R] pdf() and pch problems,51891,Gavin Simpson
+051894.html,[Rd] [R] pdf() and pch problems,51894,Gavin Simpson
+051807.html,[Rd] particulars of importing/loading libraries,51807,Oleg Sklyar
+051798.html,[Rd] particulars of importing/loading libraries,51798,"Sklyar, Oleg (London)"
+051800.html,[Rd] particulars of importing/loading libraries,51800,"Sklyar, Oleg (London)"
+051801.html,[Rd] particulars of importing/loading libraries,51801,"Sklyar, Oleg (London)"
+051813.html,[Rd] particulars of importing/loading libraries,51813,"Sklyar, Oleg (London)"
+051817.html,[Rd] particulars of importing/loading libraries,51817,"Sklyar, Oleg (London)"
+051820.html,[Rd] particulars of importing/loading libraries,51820,"Sklyar, Oleg (London)"
+051830.html,[Rd] [Q] R CMD check signals error on code that works from UI,51830,"Sklyar, Oleg (London)"
+051944.html,[Rd] Return values from .Call and garbage collection,51944,"Sklyar, Oleg (London)"
+051966.html,[Rd] after some time R stopped returning from Rmpi calls,51966,"Sklyar, Oleg (London)"
+051939.html,[Rd] FW: [R] The Quality &amp; Accuracy of R,51939,David M Smith
+051710.html,[Rd] Strange error message,51710,Terry Therneau
+051714.html,[Rd] Strange error message,51714,Terry Therneau
+051784.html,[Rd] irrelevant warning message,51784,Terry Therneau
+051794.html,[Rd] irrelevant warning message,51794,Terry Therneau
+051848.html,[Rd] A model pass-through function,51848,Terry Therneau
+051859.html,[Rd] further notes on model.frame issue,51859,Terry Therneau
+051855.html,[Rd] Proposed mods to barplot.default() and legend().,51855,Rolf Turner
+051709.html,[Rd] MacOS X - R crashes &amp; import problem (PR#9005),51709,Simon Urbanek
+051803.html,[Rd] R as a scripting engine,51803,Simon Urbanek
+051808.html,[Rd] particulars of importing/loading libraries,51808,Simon Urbanek
+051816.html,[Rd] particulars of importing/loading libraries,51816,Simon Urbanek
+051819.html,[Rd] particulars of importing/loading libraries,51819,Simon Urbanek
+051832.html,[Rd] Documentation suggestions for vignettes,51832,Simon Urbanek
+051873.html,[Rd] Embeding R,51873,Simon Urbanek
+051876.html,[Rd] Embeding R,51876,Simon Urbanek
+051937.html,[Rd] [R] can't load rJava in R 2.8.1 on Windows XP,51937,Simon Urbanek
+051949.html,[Rd] small bug in base::formatC (PR#13474),51949,Simon Urbanek
+051983.html,[Rd] (PR#13487) Segfault when mistakenly calling [.data.frame,51983,Simon Urbanek
+051821.html,[Rd] Documentation suggestions for vignettes,51821,Perry de Valpine
+051826.html,[Rd] Documentation suggestions for vignettes,51826,Perry de Valpine
+051827.html,[Rd] Documentation suggestions for vignettes,51827,Perry de Valpine
+051834.html,[Rd] Documentation suggestions for vignettes,51834,Perry de Valpine
+051777.html,[Rd] complex-valued sparse matrices,51777,Juha Vierinen
+051902.html,[Rd] Italics in svg output display as bold (PR#13463),51902,Yan Wong
+051981.html,[Rd] &quot;Panel Data Unit Root tests&quot;,51981,Achim Zeileis
+051906.html,[Rd] overwriting '&lt;-' and infinite recursions,51906,Yi Zhang
+051908.html,[Rd] overwriting '&lt;-' and infinite recursions,51908,Yi Zhang
+051916.html,[Rd] overwriting '&lt;-' and infinite recursions,51916,Yi Zhang
+051708.html,[Rd] Apparant bug in binomial model in GLM (PR#13434),51708,soren.faurby at biology.au.dk
+051810.html,[Rd] Windows installer text bug (PR#13445),51810,robert.e.cranfill at boeing.com
+051845.html,[Rd] bug in cor.test(method = &quot;spearman&quot;),51845,savicky at cs.cas.cz
+051678.html,[Rd] [Fwd: Re: [R] Randomly remove condition-selected rows from a	matrix],51678,Mark.Bravington at csiro.au
+051683.html,[Rd] Bug report in foreign library (PR#13425),51683,nhorton at email.smith.edu
+051857.html,[Rd] [Win] Hangup RGui with RMySQL (PR#13453),51857,apfel.schmied at emaildienst.de
+051724.html,[Rd] Parse-Error creates strange function calls (completely	different printouts) (PR#13436),51724,oliver at first.in-berlin.de
+051699.html,[Rd] can't get names of R_env,51699,torpedo fisken
+051747.html,[Rd] can't get names of R_env,51747,torpedo fisken
+051767.html,[Rd] Problem with compiling shared C/C++ library for loading	into R (Linux),51767,torpedo fisken
+051755.html,[Rd] [R 2.8.1 on AIX 5.3] WARNING: tiffio.h: present but cannot be	(PR#13440),51755,loris.bennett at fu-berlin.de
+051882.html,[Rd] Bug in sub and gsub (PR#13460),51882,banzaleon at gmail.com
+051745.html,[Rd] File name determines success or failure of package	installation -- please help,51745,behlingr at gmail.com
+051967.html,[Rd] Segfault when mistakenly calling [.data.frame (PR#13487),51967,brechbuehler at gmail.com
+051968.html,[Rd] length of POSIXlt object (PR#13482),51968,twoutopias at gmail.com
+051945.html,[Rd] small bug in base::formatC (PR#13474),51945,bernd_bischl at gmx.net
+051707.html,[Rd] MacOS X - R crashes &amp; import problem (PR#9005),51707,herwig
+051681.html,[Rd] bug report: writeForeignSAS in package &quot;foreign&quot; (PR#13423),51681,ken_kleinman at hms.harvard.edu
+051947.html,[Rd] uninitialised value in R (PR#13476),51947,schlather at math.uni-goettingen.de
+051948.html,[Rd] Package (PR#13475),51948,partho_bhowmick at ml.com
+051887.html,[Rd] Italics in svg output display as bold (PR#13463),51887,yan at pixie.org.uk
+051965.html,[Rd] arima error calling optim (PR#13485),51965,mcintosh at research.telcordia.com
+051886.html,[Rd] encountering difficulty asking R to manipulate the correct	columns in Expression Set class (object 4). (PR#13464),51886,guy.tillinghast at rivhs.com
+051903.html,[Rd]  loading RBlas.dll,51903,sachin1234
+051930.html,[Rd] loading RBlas.dll,51930,sachin1234
+051679.html,[Rd] Missing PROTECT in intern_getwd (in util.c) (PR#13424),51679,milbo at sonic.net
+051907.html,[Rd] overwriting '&lt;-' and infinite recursions,51907,luke at stat.uiowa.edu
+051910.html,[Rd] overwriting '&lt;-' and infinite recursions,51910,luke at stat.uiowa.edu
+051927.html,[Rd] Defining an iterator,51927,luke at stat.uiowa.edu
+051884.html,[Rd] Bug in sub and gsub (PR#13460),51884,ligges at statistik.tu-dortmund.de
+051731.html,[Rd] Parse-Error creates strange function calls	(completely	different (PR#13438),51731,murdoch at stats.uwo.ca
+051861.html,[Rd] sub and gsub treat \\ incorrectly (PR#13454),51861,amiransk at uwo.ca
+051866.html,[Rd] R bug or ghostscript bug or my bug?,51866,ivo welch
+051785.html,[Rd] irrelevant warning message,51785,hadley wickham
+051853.html,[Rd] Floating point excepting when cbind()ing a matrix of grobs (or	environments) with a 0-column matrix,51853,hadley wickham
+051912.html,[Rd] Possible Bug in file.show (PR#13469),51912,wolfgang.koller at wu-wien.ac.at
+051847.html,[Rd] DierckxSpline segfault,51847,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;

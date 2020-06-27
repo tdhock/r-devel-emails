@@ -1,0 +1,271 @@
+link,Subject,id,author
+053985.html,[Rd] Suggestion: Dimension-sensitive attributes,53985,Bengoechea Bartolom&#233; Enrique (SIES 73)
+053994.html,[Rd] Suggestion: Dimension-sensitive attributes,53994,Bengoechea Bartolom&#233; Enrique (SIES 73)
+053996.html,[Rd] Suggestion: Dimension-sensitive attributes,53996,Bengoechea Bartolom&#233; Enrique (SIES 73)
+054000.html,[Rd] Suggestion: Dimension-sensitive attributes,54000,Bengoechea Bartolom&#233; Enrique (SIES 73)
+054003.html,[Rd] Suggestion: Dimension-sensitive attributes,54003,Bengoechea Bartolom&#233; Enrique (SIES 73)
+054014.html,[Rd] Suggestion: Dimension-sensitive attributes,54014,Bengoechea Bartolom&#233; Enrique (SIES 73)
+054047.html,[Rd] Handling masked methods,54047,Gad Abraham
+054063.html,[Rd] Handling masked methods,54063,Gad Abraham
+054187.html,"[Rd] rowSums, rowMean and rowCumSums?",54187,Felix Andrews
+053955.html,[Rd] Memory management issues,53955,Whit Armstrong
+054090.html,[Rd] destructor for S4 class objects in analogy to C++,54090,Whit Armstrong
+053965.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53965,Gabriel Becker
+054132.html,[Rd] how to change FPU control word?,54132,Martin Becker
+053988.html,[Rd] &quot;Roxygenating&quot; packages,53988,Claudia Beleites
+054151.html,[Rd] Checking package on Windows (and seemingly irreproducible errors in CRAN checks),54151,Carlos J. Gil Bellosta
+054154.html,[Rd] Checking package on Windows (and seemingly irreproducible errors in CRAN checks),54154,Carlos J. Gil Bellosta
+054176.html,[Rd] Checking package on Windows (and seemingly irreproducible	errors in CRAN checks),54176,Carlos J. Gil Bellosta 
+054181.html,[Rd] Checking package on Windows (and seemingly irreproducible	errors in CRAN checks),54181,Carlos J. Gil Bellosta 
+053937.html,[Rd] Conditional dependency between packages,53937,Henrik Bengtsson
+053983.html,"[Rd] reg.finalizer(..., add=FALSE)?",53983,Henrik Bengtsson
+054095.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54095,Henrik Bengtsson
+054101.html,[Rd] maximum supported lag is 350,54101,Matteo Bertini
+054109.html,[Rd] maximum supported lag is 350,54109,Matteo Bertini
+054019.html,[Rd] box and whisker (PR#13821),54019,Ben Bolker
+053950.html,[Rd] beginner's guide to C++ programming with R packages?,53950,Ross Boylan
+054167.html,[Rd] user supplied random number generators,54167,Ross Boylan
+054179.html,[Rd] user supplied random number generators,54179,Ross Boylan
+054142.html,[Rd] Sys.setlocale,54142,G&#246;ran Brostr&#246;m
+054144.html,[Rd] Sys.setlocale,54144,G&#246;ran Brostr&#246;m
+054108.html,[Rd] problem building R 2.9.1 from source on RHEL 4 (x86_64),54108,William Bulley
+054110.html,[Rd] problem building R 2.9.1 from source on RHEL 4 (x86_64),54110,William Bulley
+054165.html,[Rd] Problem in setRepositories() logic,54165,Richard Calaway
+054166.html,"[Rd] Oops...a better (working, this time) patch for setRepositories",54166,Richard Calaway
+054080.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54080,Kevin R. Coombes
+054084.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54084,Kevin R. Coombes
+054092.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54092,Kevin R. Coombes
+054098.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54098,Kevin R. Coombes
+053977.html,[Rd] Starting R Commander doesn't work (PR#13806),53977,Peter Cowan
+054100.html,[Rd] Link to documentation in another package,54100,Nicholas L Crookston
+054124.html,[Rd] How to create a permanent dataset in R.,54124,Alex D'Amour
+054134.html,[Rd] How to create a permanent dataset in R.,54134,Alex D'Amour
+053953.html,[Rd] Memory management issues,53953,Yuri D'Elia
+053956.html,[Rd] Memory management issues,53956,Yuri D'Elia
+053957.html,[Rd] Memory management issues,53957,Yuri D'Elia
+054018.html,[Rd] box and whisker (PR#13821),54018,Peter Dalgaard
+054029.html,[Rd] rcmdr gui not running (PR#13831),54029,Peter Dalgaard
+054143.html,[Rd] Sys.setlocale,54143,Peter Dalgaard
+054170.html,[Rd] Strange Interaction Between Promises and Closures	(PR#13861),54170,Peter Dalgaard
+054148.html,[Rd] Advice sought about Rd versions,54148,Michael Dewey
+054184.html,[Rd] update.formula and backticked colons,54184,Sundar Dorai-Raj
+054185.html,[Rd] update.formula and backticked colons,54185,Sundar Dorai-Raj
+054190.html,[Rd] update.formula and backticked colons,54190,Sundar Dorai-Raj
+054021.html,[Rd] merge performace degradation in 2.9.1,54021,Matthew Dowle
+054122.html,[Rd] Using svSocket with data.table,54122,Matthew Dowle
+054007.html,[Rd] merge performace degradation in 2.9.1,54007,Adrian Dragulescu
+054136.html,[Rd] bug in approx crashes R,54136,William Dunlap
+054182.html,[Rd] user supplied random number generators,54182,William Dunlap
+054192.html,[Rd] update.formula and backticked colons,54192,William Dunlap
+054193.html,[Rd] update.formula and backticked colons,54193,William Dunlap
+054172.html,[Rd] user supplied random number generators,54172,Christophe Dutang
+054183.html,"[Rd] rowSums, rowMean and rowCumSums?",54183,Christophe Dutang
+054113.html,[Rd]  How to create a permanent dataset in R.,54113,Albert EINstEIN
+054130.html,[Rd] How to create a permanent dataset in R.,54130,Albert EINstEIN
+053987.html,[Rd] Installation of R_2.9.1 &amp; readline (PR#13805),53987,Dirk Eddelbuettel
+054040.html,[Rd] rJava fails compilation on R-2.9.1 but not R-2.7.1	on	Debian Lenny,54040,Dirk Eddelbuettel
+053930.html,[Rd] Conditional dependency between packages,53930,Seth Falcon
+053932.html,[Rd] package post install instructions,53932,Romain Francois
+053943.html,[Rd] package post install instructions,53943,Romain Francois
+054128.html,[Rd] Using svSocket with data.table,54128,Romain Francois
+053998.html,[Rd] Suggestion: Dimension-sensitive attributes,53998,Laurent Gautier
+054005.html,[Rd] Suggestion: Dimension-sensitive attributes,54005,Laurent Gautier
+054013.html,[Rd] Suggestion: Dimension-sensitive attributes,54013,Laurent Gautier
+054083.html,[Rd] tabulate can accept NA values?,54083,Robert Gentleman
+054138.html,[Rd] debug,54138,Robert Gentleman
+054150.html,[Rd] noweb and R,54150,Paul Gilbert
+054135.html,[Rd] noweb and R,54135,Gregor Gorjanc
+053951.html,[Rd] beginner's guide to C++ programming with R packages?,53951,Philippe Grosjean
+053928.html,[Rd] install.packages with R 2.9.1 under Vista?,53928,Gabor Grothendieck
+053935.html,[Rd] V2.9.0 changes [Sec=Unclassified],53935,Gabor Grothendieck
+053941.html,"[Rd] OOP performance, was: V2.9.0 changes",53941,Gabor Grothendieck
+054002.html,"[Rd] Number of functions, data sets, ..., in a package?",54002,Gabor Grothendieck
+054012.html,[Rd] Changing text in a tkentry widget,54012,Gabor Grothendieck
+054147.html,[Rd] How to use formulas for multivariate clustered data?,54147,Gabor Grothendieck
+054152.html,[Rd] Checking package on Windows (and seemingly irreproducible	errors in CRAN checks),54152,Gabor Grothendieck
+054053.html,[Rd]  Semi-automated testing of function with GUI-inputs?,54053,Ulrike Gr&#246;mping
+054123.html,[Rd] Wishlist: install.packages to look for the newest version (PR#13852),54123,Ulrike Gr&#246;mping
+054031.html,[Rd] A question on the serialization of a list vector,54031,Saptarshi Guha
+053976.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53976,Kasper Daniel Hansen
+053992.html,[Rd] bug in seq_along,53992,Kasper Daniel Hansen
+054050.html,[Rd] question about try and errors,54050,Kasper Daniel Hansen
+054070.html,[Rd] Any workaround for CRAN Mac OS X compiler switch to R	2.10.0?,54070,Kasper Daniel Hansen
+054081.html,[Rd] bug in seq_along,54081,Kasper Daniel Hansen
+054027.html,[Rd] Faster as.data.frame &amp; save copy by doing names(x) &lt;- NULL	only if needed,54027,Tim Hesterberg
+053968.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53968,S&#248;ren H&#248;jsgaard
+054088.html,[Rd]  Building a package with BLAS under Windows,54088,Markus Jochmann
+054097.html,[Rd] matrix algebra in c,54097,Markus Jochmann
+054111.html,[Rd] Building a package with BLAS under Windows,54111,Markus Jochmann
+054069.html,[Rd] Any workaround for CRAN Mac OS X compiler switch to R 2.10.0?,54069,Steven Kembel
+054160.html,[Rd]  xtable formatting: RED for negative numbers?,54160,Ken-JP
+054035.html,[Rd] rJava fails compilation on R-2.9.1 but not R-2.7.1 on Debian	Lenny,54035,Mark Kimpel
+054036.html,[Rd] rJava fails compilation on R-2.9.1 but not R-2.7.1 on	Debian Lenny,54036,Mark Kimpel
+054046.html,[Rd] rJava fails compilation on R-2.9.1 but not R-2.7.1 on	Debian Lenny,54046,Mark Kimpel
+053927.html,[Rd] Matrix with random number,53927,Kjell Konis
+054085.html,[Rd] strange bug? with R CMD check,54085,Kjell Konis
+054094.html,[Rd] strange bug? with R CMD check,54094,Kjell Konis
+053971.html,[Rd] success(?) with cross-compiling R package with R 2.9.1,53971,Hin-Tak Leung
+053972.html,[Rd] R 2.8-&gt;2.9 change that breaks some upgrade scenarios,53972,Hin-Tak Leung
+054071.html,[Rd] R 2.8-&gt;2.9 change that breaks some upgrade scenarios,54071,Hin-Tak Leung
+054072.html,[Rd] R 2.8-&gt;2.9 change that breaks some upgrade scenarios,54072,Hin-Tak Leung
+054159.html,[Rd] R --vannilla for install/remove/shlib(Re: R 2.8-&gt;2.9 change	that breaks some upgrade scenarios),54159,Hin-Tak Leung
+054171.html,[Rd] R --vanilla for install/remove/shlib(Re: R 2.8-&gt;2.9 change	that breaks some upgrade scenarios),54171,Hin-Tak Leung
+054174.html,[Rd] R --vanilla for install/remove/shlib(Re: R 2.8-&gt;2.9 change	that breaks some upgrade scenarios),54174,Hin-Tak Leung
+054107.html,[Rd] inclusion of a new bandwidth selector for kernel density	estimation in R stats,54107,Jason Liao
+053921.html,[Rd] install.packages with R 2.9.1 under Vista?,53921,Uwe Ligges
+053926.html,[Rd] install.packages with R 2.9.1 under Vista?,53926,Uwe Ligges
+053978.html,[Rd] Installation of R_2.9.1 &amp; readline (PR#13805),53978,Uwe Ligges
+053979.html,[Rd] Starting R Commander doesn't work (PR#13806),53979,Uwe Ligges
+054119.html,[Rd] Bug in seq() (PR#13849),54119,Uwe Ligges
+054126.html,[Rd] Wishlist: install.packages to look for the newest version of a	package (PR#13851),54126,Uwe Ligges
+054127.html,[Rd] Wishlist: install.packages to look for the newest version (PR#13852),54127,Uwe Ligges
+054161.html,[Rd] Checking package on Windows (and seemingly irreproducible errors in CRAN checks),54161,Uwe Ligges
+054175.html,[Rd] R --vanilla for install/remove/shlib(Re: R 2.8-&gt;2.9 change that breaks some upgrade scenarios),54175,Uwe Ligges
+054177.html,[Rd] Checking package on Windows (and seemingly irreproducible,54177,Uwe Ligges
+054188.html,[Rd] Checking package on Windows (and seemingly irreproducible errors in CRAN checks),54188,Uwe Ligges
+054189.html,[Rd] Checking package on Windows (and seemingly irreproducible errors in CRAN checks),54189,Uwe Ligges
+054121.html,[Rd] Wishlist: install.packages to look for the newest version (PR#13852),54121,Thomas Lumley
+054157.html,[Rd] Is this a bug of quantreg package,54157,F&#225;n L&#243;ng
+054162.html,[Rd] BUG/FIX: View gives internal error with long argument	(multiline deparse),54162,Stavros Macrakis
+054055.html,[Rd] Dynamic help pages,54055,Martin Maechler
+054056.html,[Rd] ... gctorture(TRUE) segfault etc,54056,Martin Maechler
+054058.html,[Rd] ... gctorture(TRUE) segfault etc,54058,Martin Maechler
+054065.html,[Rd] Handling masked methods,54065,Martin Maechler
+054066.html,[Rd] R 2.8-&gt;2.9 change that breaks some upgrade scenarios,54066,Martin Maechler
+054078.html,[Rd] slight inconsistency in &lt;Factorize&gt;( &lt;logical matrix&gt; ),54078,Martin Maechler
+054131.html,[Rd] WRONG mailing list --  How to create ...,54131,Martin Maechler
+054140.html,[Rd] bug in approx crashes R,54140,Martin Maechler
+054158.html,[Rd] RFC: methods() and showMethods() {was &quot;debug&quot;},54158,Martin Maechler
+054169.html,[Rd] R --vanilla for install/remove/shlib(Re: R 2.8-&gt;2.9 change	that breaks some upgrade scenarios),54169,Martin Maechler
+054173.html,[Rd] R --vanilla for install/remove/shlib(Re: R 2.8-&gt;2.9 change	that breaks some upgrade scenarios),54173,Martin Maechler
+053947.html,[Rd] Matrix with random number,53947,Fabio Mathias
+054067.html,[Rd] model.matrix memory problem (PR#13838),54067,Olaf Mersmann
+054105.html,[Rd] Improvement of [dpq]wilcox functions,54105,Olaf Mersmann
+054129.html,[Rd] Using svSocket with data.table,54129,Olaf Mersmann
+054011.html,[Rd] Changing text in a tkentry widget,54011,Richard Morey
+054024.html,[Rd] matrix algebra in c,54024,Richard D. Morey
+053934.html,[Rd] V2.9.0 changes [Sec=Unclassified],53934,Martin Morgan
+053945.html,[Rd] factor() calls sort.list unnecessarily?,53945,Martin Morgan
+054079.html,[Rd] tabulate can accept NA values?,54079,Martin Morgan
+054180.html,[Rd] RFC: methods() and showMethods() {was &quot;debug&quot;},54180,Martin Morgan
+053949.html,[Rd] Dynamic libraries,53949,Duncan Murdoch
+053954.html,[Rd] Memory management issues,53954,Duncan Murdoch
+053958.html,[Rd] Memory management issues,53958,Duncan Murdoch
+053961.html,[Rd] [R] problem with internal functions in Windows,53961,Duncan Murdoch
+053962.html,[Rd] [R] problem with internal functions in Windows,53962,Duncan Murdoch
+053963.html,[Rd] [R] problem with internal functions in Windows,53963,Duncan Murdoch
+053974.html,[Rd] feature request Windows: open .R script with Rgui.exe from Explorer (PR#13808),53974,Duncan Murdoch
+053984.html,"[Rd] reg.finalizer(..., add=FALSE)?",53984,Duncan Murdoch
+054033.html,[Rd] Dynamic help pages,54033,Duncan Murdoch
+054039.html,[Rd] Dynamic help pages,54039,Duncan Murdoch
+054041.html,[Rd] bug in texi2dvi? (PR#13833),54041,Duncan Murdoch
+054049.html,[Rd] Handling masked methods,54049,Duncan Murdoch
+054052.html,[Rd] Resizing a named vector crashes	R	with	gctorture(TRUE)	(PR#13837),54052,Duncan Murdoch
+054060.html,[Rd] Resizing a named vector crashes	R	with	gctorture(TRUE)	(PR#13837),54060,Duncan Murdoch
+054062.html,[Rd] Resizing a named vector	crashes	R	with	gctorture(TRUE)	(PR#13837),54062,Duncan Murdoch
+054068.html,[Rd] model.matrix memory problem (PR#13838),54068,Duncan Murdoch
+054075.html,[Rd] [R] Problem With Repeated Use Of Load/Save/Close Commands (PR#13841),54075,Duncan Murdoch
+054102.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54102,Duncan Murdoch
+054118.html,[Rd] Bug in seq() (PR#13849),54118,Duncan Murdoch
+054009.html,[Rd] Programming using formulas,54009,Klaus Nordhausen
+054146.html,[Rd] How to use formulas for multivariate clustered data?,54146,Klaus Nordhausen
+054099.html,[Rd] Link to documentation in another package,54099,"ONKELINX, Thierry"
+054103.html,[Rd] Link to documentation in another package,54103,"ONKELINX, Thierry"
+054112.html,[Rd] Extend FAQ 7.22,54112,"ONKELINX, Thierry"
+054087.html,[Rd] building source package in R run within Emacs under Windows.,54087,Vadim Ogranovich
+054093.html,[Rd] bug in approx crashes R,54093,Vadim Ogranovich
+054137.html,[Rd] bug in approx crashes R,54137,Vadim Ogranovich
+054145.html,[Rd] bug in approx crashes R,54145,Vadim Ogranovich
+053973.html,[Rd] Protection stack overflow when calling setGeneric()/setMethod() from within .onLoad(),53973,Herv&#233; Pag&#232;s
+054020.html,[Rd] bug in seq_along,54020,Herv&#233; Pag&#232;s
+054042.html,[Rd] Resizing a named vector crashes R with gctorture(TRUE),54042,Herv&#233; Pag&#232;s
+054045.html,[Rd] Resizing a named vector crashes R	with	gctorture(TRUE)	(PR#13837),54045,Herv&#233; Pag&#232;s
+054048.html,[Rd] Resizing a named vector crashes	R	with	gctorture(TRUE)	(PR#13837),54048,Herv&#233; Pag&#232;s
+054059.html,[Rd] Resizing a named vector crashes	R	with	gctorture(TRUE)	(PR#13837),54059,Herv&#233; Pag&#232;s
+054061.html,[Rd] Resizing a named vector crashes	R	with	gctorture(TRUE)	(PR#13837),54061,Herv&#233; Pag&#232;s
+054064.html,[Rd] Resizing a named vector	crashes	R	with	gctorture(TRUE)	(PR#13837),54064,Herv&#233; Pag&#232;s
+053964.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53964,Roger Peng
+053980.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53980,Roger Peng
+053936.html,"[Rd] OOP performance, was:   V2.9.0 changes",53936,Thomas Petzoldt
+054141.html,[Rd] how to change FPU control word?,54141,Andrew Piskorski
+053990.html,[Rd] Suggestion: Dimension-sensitive attributes,53990,Tony Plate
+054082.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54082,Tony Plate
+054086.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54086,Tony Plate
+054153.html,[Rd] Checking package on Windows (and seemingly irreproducible errors in CRAN checks),54153,Mathieu Ribatet
+054010.html,[Rd] save() file size (PR#13816),54010,Prof Brian Ripley
+054051.html,[Rd] bug in texi2dvi? (PR#13833),54051,Prof Brian Ripley
+054191.html,[Rd] update.formula and backticked colons,54191,Prof Brian Ripley
+053931.html,[Rd] V2.9.0 changes [Sec=Unclassified],53931,Troy Robertson
+053938.html,[Rd] V2.9.0 changes [Sec=Unclassified],53938,Troy Robertson
+053939.html,"[Rd] OOP performance, was:   V2.9.0 changes [SEC=Unclassified]",53939,Troy Robertson
+053942.html,"[Rd] OOP performance, was: V2.9.0 changes [SEC=Unclassified]",53942,Troy Robertson
+053986.html,[Rd] &quot;Roxygenating&quot; packages,53986,Barry Rowlingson
+053991.html,[Rd] &quot;Roxygenating&quot; packages,53991,Barry Rowlingson
+054117.html,[Rd] How to create a permanent dataset in R.,54117,Jeff Ryan
+053940.html,[Rd] [R] ggplot2 x axis question,53940,Deepayan Sarkar
+053952.html,[Rd] factor() calls sort.list unnecessarily?,53952,Petr Savicky
+054089.html,[Rd] destructor for S4 class objects in analogy to C++,54089,David Scherrer
+053933.html,[Rd] Conditional dependency between packages,53933,Jon Olav Skoien
+053944.html,[Rd] Conditional dependency between packages,53944,Jon Olav Skoien
+053960.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53960,Thorn Thaler
+053981.html,"[Rd] Speed up code, profiling, optimization, lapply vs. loops",53981,Thorn Thaler
+054022.html,[Rd] Extended Quasi Likelihood Library,54022,Thorn Thaler
+054133.html,[Rd] noweb and R,54133,Terry Therneau
+054186.html,[Rd] What changed in the R Windows interface from v2.6.2 to v2.7.0?,54186,Mark Thyer
+053995.html,[Rd] Suggestion: Dimension-sensitive attributes,53995,Heinz Tuechler
+053997.html,[Rd] Suggestion: Dimension-sensitive attributes,53997,Heinz Tuechler
+054004.html,[Rd] Improvement of [dpq]wilcox functions,54004,Ivo Ugrina
+054096.html,[Rd] Improvement of [dpq]wilcox functions,54096,Ivo Ugrina
+054038.html,[Rd] rJava fails compilation on R-2.9.1 but not R-2.7.1 on	Debian Lenny,54038,Joshua Ulrich
+053959.html,[Rd] Memory management issues,53959,Simon Urbanek
+054077.html,[Rd] Any workaround for CRAN Mac OS X compiler switch to R	2.10.0?,54077,Simon Urbanek
+054091.html,[Rd] destructor for S4 class objects in analogy to C++,54091,Simon Urbanek
+054104.html,[Rd] Rcmd check fails on Windows Samba network path in R 2.9.1,54104,Simon Urbanek
+054178.html,[Rd] Checking package on Windows (and seemingly irreproducible	errors in CRAN checks),54178,Simon Urbanek
+054149.html,[Rd] How to use formulas for multivariate clustered data?,54149,Achim Zeileis
+054168.html,[Rd] Strange Interaction Between Promises and Closures (PR#13861),54168,kbare at andrew.cmu.edu
+053929.html,[Rd] rpart and usersplits,53929,guillaume barbet
+054156.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic	specified (PR#13860),54156,smckinney at bccrc.ca
+054115.html,[Rd] Misleading sentence in documentation of data.frame (PR#13850),54115,groemping at bht-berlin.de
+054116.html,[Rd] Wishlist: install.packages to look for the newest version of a	package (PR#13851),54116,groemping at bht-berlin.de
+054125.html,[Rd] Wishlist: install.packages to look for the newest version	(PR#13853),54125,groemping at bht-berlin.de
+054163.html,[Rd] xtable formatting: RED for negative numbers?,54163,cameron.bracken
+054164.html,[Rd] xtable formatting: RED for negative numbers?,54164,cameron.bracken
+054015.html,[Rd] Too many files open (PR#13818),54015,rm.short at comcast.net
+053948.html,[Rd] Dynamic libraries,53948,robin cowan
+054034.html,[Rd] Fwd: DLLs,54034,robin cowan
+054008.html,[Rd] save() file size (PR#13816),54008,Mike.Lawrence at dal.ca
+054028.html,[Rd] rcmdr gui not running (PR#13831),54028,francois.greff at dbmail.com
+054030.html,[Rd] Protection stack overflow,54030,hpages at fhcrc.org
+054037.html,[Rd] dir.create not working correctly under Solaris (PR#13834),54037,aseila at gmail.com
+054114.html,[Rd] Bug in seq() (PR#13849),54114,jeremiah.cohen at gmail.com
+054016.html,[Rd] foreign generates bad Stata data files (PR#13820),54016,peter.muhlberger at gmail.com
+054139.html,[Rd] save.image fails when the directory structure has Hebrew in	it. (PR#13855),54139,tal.galili at gmail.com
+054023.html,[Rd] Incorrect comment about ISNA(x) in Arith.h (PR#13826),54023,rocket at google.com
+054106.html,[Rd] ks.test - The two-sample two-sided Kolmogorov-Smirnov test	with ties (PR#13848),54106,tpw at google.com
+053946.html,[Rd] Bug report (PR#13798),53946,mimil5252 at hotmail.com
+054032.html,[Rd] bug in texi2dvi? (PR#13833),54032,paola at idsia.ch
+054017.html,[Rd] box and whisker (PR#13821),54017,m.crawley at imperial.ac.uk
+053969.html,[Rd] feature request Windows: open .R script with Rgui.exe from	Explorer (PR#13808),53969,f.papenmeier at iwm-kmrc.de
+053982.html,[Rd] Generic backsolve?,53982,roger koenker
+054026.html,[Rd] ordering dataframe for strata() (PR#13830),54026,marc_schwartz at me.com
+053999.html,[Rd] Wishlist: Rscript to support --args option like R. (PR#13815),53999,david.keegan at shenick.com
+053922.html,[Rd] install.packages with R 2.9.1 under Vista?,53922,spencerg
+054001.html,"[Rd] Number of functions, data sets, ..., in a package?",54001,spencerg
+054006.html,"[Rd] Number of functions, data sets, ..., in a package?",54006,spencerg
+054057.html,[Rd] Incorrect comment about ISNA(x) in Arith.h (PR#13826),54057,maechler at stat.math.ethz.ch
+054073.html,[Rd] box and whisker (PR#13821),54073,maechler at stat.math.ethz.ch
+054054.html,[Rd] model.matrix memory problem (PR#13838),54054,Torsten.Hothorn at stat.uni-muenchen.de
+054120.html,[Rd] Wishlist: install.packages to look for the newest version	(PR#13852),54120,ligges at statistik.tu-dortmund.de
+053975.html,[Rd] feature request Windows: open .R script with Rgui.exe from	(PR#13811),53975,murdoch at stats.uwo.ca
+054043.html,[Rd] Resizing a named vector crashes R with gctorture(TRUE)	(PR#13837),54043,murdoch at stats.uwo.ca
+054044.html,[Rd] Resizing a named vector crashes R with	gctorture(TRUE)	(PR#13837),54044,murdoch at stats.uwo.ca
+054074.html,[Rd] [R] Problem With Repeated Use Of Load/Save/Close Commands	(PR#13841),54074,murdoch at stats.uwo.ca
+054076.html,[Rd] [R] Problem With Repeated Use Of Load/Save/Close Commands	(PR#13842),54076,murdoch at stats.uwo.ca
+053970.html,[Rd] Re port generating,53970,true-searcher
+053966.html,[Rd] Installation of R_2.9.1 &amp; readline (PR#13805),53966,mb990434 at uni-greifswald.de
+053967.html,[Rd] Starting R Commander doesn't work (PR#13806),53967,mb990434 at uni-greifswald.de
+054025.html,[Rd] ordering dataframe for strata() (PR#13830),54025,eric.vanderwal at usask.ca
+053989.html,[Rd] &quot;Roxygenating&quot; packages,53989,hadley wickham
+053993.html,[Rd] &quot;Roxygenating&quot; packages,53993,hadley wickham
+054155.html,[Rd] Checking package on Windows (and seemingly irreproducible	errors in CRAN checks),54155,hadley wickham

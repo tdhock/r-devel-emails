@@ -1,0 +1,140 @@
+link,Subject,id,author
+021503.html,[Rd] RE: [R] Graphics-Device-Size vs. Window-Size,21503,Jens Oehlschlägel
+021504.html,[Rd] Another inconsistency concerning device-size vs. window-size,21504,Jens Oehlschlägel
+021517.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21517,Jens Oehlschlägel
+021520.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21520,Jens Oehlschlägel
+021521.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21521,Jens Oehlschlägel
+021524.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21524,Jens Oehlschlägel
+021526.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21526,Jens Oehlschlägel
+021556.html,[Rd] RE: [R] boxplot grouped by two variables: general issue,21556,Jens Oehlschlägel
+021557.html,[Rd] RE: [R] Graphics-Device-Size vs. Window-Size,21557,Jens Oehlschlägel
+021445.html,[Rd] Re: desiderata for data manipulation,21445,Peter Dalgaard BSA
+021447.html,[Rd] Re: desiderata for data manipulation,21447,Peter Dalgaard BSA
+021466.html,[Rd] RSPerl...,21466,Peter Dalgaard BSA
+021476.html,[Rd] Re: [R] Newbie questions,21476,Peter Dalgaard BSA
+021478.html,[Rd] Bug list summary (automatic post),21478,Peter Dalgaard BSA
+021487.html,[Rd] Re: [R] .Last.value or % or ANS or ... (was unix),21487,Peter Dalgaard BSA
+021493.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#730),21493,Peter Dalgaard BSA
+021495.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#730),21495,Peter Dalgaard BSA
+021500.html,[Rd] substitute(x$y)) corrupts 'y' component (PR#731),21500,Peter Dalgaard BSA
+021502.html,[Rd] R with redhat 7 (PR#732),21502,Peter Dalgaard BSA
+021509.html,[Rd] Modification to cov and cor,21509,Peter Dalgaard BSA
+021515.html,"[Rd] RE: Gnuserv, NTEmacs, Windows 2000 and R",21515,Peter Dalgaard BSA
+021537.html,[Rd] Bug in stars function (PR#738),21537,Peter Dalgaard BSA
+021543.html,[Rd] Bug list summary (automatic post),21543,Peter Dalgaard BSA
+021549.html,[Rd] How do you construct a function from a list?,21549,Peter Dalgaard BSA
+021451.html,"[Rd] J. of Comp. and Graph. Statist., Sept. 2000",21451,Douglas Bates
+021534.html,[Rd] PostgreSQL book,21534,Douglas Bates
+021483.html,[Rd] Re: [R] .Last.value or % or ANS or ... (was unix),21483,Charles C. Berry
+021475.html,[Rd] Re: [R] Newbie questions,21475,Zsombor Cseres-Gergely
+021506.html,[Rd] Re: [R] Newbie questions,21506,Zsombor Cseres-Gergely
+021512.html,[Rd] Re: [R] Newbie questions,21512,Zsombor Cseres-Gergely
+021542.html,[Rd] Bug in stars.R (PR#739),21542,Tom Dye
+021453.html,[Rd] seg fault in R-devel,21453,Paul Gilbert
+021462.html,[Rd] Pl. provide and Input for var.test (PR#716),21462,Kurt Hornik
+021477.html,[Rd] Re: [R] Newbie questions,21477,Kurt Hornik
+021518.html,[Rd] standardized add-on package configuration,21518,Kurt Hornik
+021532.html,[Rd] standardized add-on package configuration,21532,Kurt Hornik
+021548.html,[Rd] How do you construct a function from a list?,21548,Kurt Hornik
+021581.html,[Rd] Optimisation methods,21581,Kurt Hornik
+021494.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#729),21494,Torsten Hothorn
+021522.html,[Rd] standardized add-on package configuration,21522,Torsten Hothorn
+021555.html,[Rd] A pre-alpha version of R-1.1.1 for Mac READY !,21555,Stefano Iacus
+021525.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21525,Ross Ihaka
+021511.html,[Rd] Assigning into a dataframe (PR#734),21511,J.C.Rougier@durham.ac.uk
+021544.html,[Rd] contour documentation (PR#740),21544,J.C.Rougier@durham.ac.uk
+021496.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#730),21496,Kjetil Kjernsmo
+021465.html,[Rd] RSPerl...,21465,Duncan Temple Lang
+021499.html,[Rd] substitute(x$y)) corrupts 'y' component (PR#731),21499,Thomas Lumley
+021564.html,[Rd] Problem with NAs using chisq.test() (PR#748),21564,Thomas Lumley
+021579.html,[Rd] Optimisation methods,21579,Thomas Lumley
+021443.html,[Rd] desiderata for data manipulation,21443,Martin Maechler
+021471.html,[Rd] bound checking (for &quot;x[] &lt;-&quot;) now in R-devel,21471,Martin Maechler
+021513.html,"[Rd] RE: Gnuserv, NTEmacs, Windows 2000 and R",21513,Martin Maechler
+021516.html,[Rd] Re: removing elements that aren't there -- options(check.bounds),21516,Martin Maechler
+021519.html,[Rd] Graphics-Device-Size vs. Window-Size: R design flaw,21519,Martin Maechler
+021523.html,[Rd] Re: [S] How to make tiny postscript files,21523,Martin Maechler
+021529.html,[Rd] Re: convolve() design bug,21529,Martin Maechler
+021541.html,[Rd] Bug in stars.R (PR#739),21541,Martin Maechler
+021546.html,"[Rd] Re: precision, incorrect(?) tapply() NA's",21546,Martin Maechler
+021527.html,[Rd] Crash from windres in WinME,21527,Duncan Murdoch
+021533.html,[Rd] Windres problem resolved,21533,Duncan Murdoch
+021535.html,[Rd] Getting debug information in DLL?,21535,Duncan Murdoch
+021538.html,[Rd] gdb problem resolved,21538,Duncan Murdoch
+021539.html,[Rd] gdb problem resolved,21539,Duncan Murdoch
+021545.html,[Rd] How do you construct a function from a list?,21545,Duncan Murdoch
+021551.html,[Rd] How do you construct a function from a list?,21551,Duncan Murdoch
+021505.html,[Rd] RE: [R] Graphics-Device-Size vs. Window-Size,21505,Paul Murrell
+021482.html,[Rd] Re: [R] .Last.value or % or ANS or ... (was unix),21482,Mark Myatt
+021449.html,[Rd] Re: desiderata for data manipulation,21449,Prof Brian Ripley
+021528.html,[Rd] Crash from windres in WinME,21528,Prof Brian Ripley
+021567.html,R: [Rd] RODBC,21567,Prof Brian Ripley
+021568.html,R: [Rd] RODBC,21568,Prof Brian Ripley
+021469.html,[Rd] how to extract directory with HTML version of help pages?,21469,Prof Brian D Ripley
+021473.html,[Rd] nls() function is not found (PR#725),21473,Prof Brian D Ripley
+021514.html,"[Rd] RE: Gnuserv, NTEmacs, Windows 2000 and R",21514,Prof Brian D Ripley
+021531.html,[Rd] Bug in R 1.1.1 dev.print() with fix (PR#737),21531,Prof Brian D Ripley
+021561.html,[Rd] RODBC,21561,Prof Brian D Ripley
+021577.html,[Rd] means in arima0 (PR#754),21577,Prof Brian D Ripley
+021580.html,[Rd] Optimisation methods,21580,Prof Brian D Ripley
+021578.html,[Rd] Optimisation methods,21578,Robert.King@mailbox.gu.edu.au
+021582.html,[Rd] Optimisation methods,21582,Robert.King@mailbox.gu.edu.au
+021444.html,[Rd] Re: desiderata for data manipulation,21444,A.J. Rossini
+021448.html,[Rd] Re: desiderata for data manipulation,21448,A.J. Rossini
+021450.html,[Rd] Re: desiderata for data manipulation,21450,A.J. Rossini
+021452.html,[Rd] Re: desiderata for data manipulation,21452,A.J. Rossini
+021463.html,[Rd] RSPerl...,21463,A.J. Rossini
+021467.html,[Rd] RSPerl...,21467,A.J. Rossini
+021468.html,[Rd] how to extract directory with HTML version of help pages?,21468,A.J. Rossini
+021470.html,[Rd] how to extract directory with HTML version of help pages?,21470,A.J. Rossini
+021508.html,[Rd] Modification to cov and cor,21508,Jonathan Rougier
+021510.html,[Rd] Modification to cov and cor,21510,Jonathan Rougier
+021566.html,R: [Rd] RODBC,21566,Federico Spinazzi
+021569.html,R: R: [Rd] RODBC,21569,Federico Spinazzi
+021484.html,[Rd] error handling,21484,Don Wingate
+021576.html,[Rd] means in arima0 (PR#754),21576,arto.luoma@uta.fi
+021446.html,[Rd] Re: desiderata for data manipulation,21446,bolker@zoo.ufl.edu
+021474.html,[Rd] nls() function is not found (PR#725),21474,bolker@zoo.ufl.edu
+021490.html,[Rd] Re: [R] .Last.value or % or ANS or ... (was unix),21490,bolker@zoo.ufl.edu
+021481.html,[Rd] Re: [R] .Last.value or % or ANS or ... (was unix),21481,bolker@zoo.ufl.edu
+021498.html,[Rd] substitute(x$y)) corrupts 'y' component (PR#731),21498,cberry@tajo.ucsd.edu
+021464.html,[Rd] t.test and n = 2 (PR#724),21464,charlie@stat.umn.edu
+021559.html,[Rd] printing of lists (PR#746),21559,david.firth@nuffield.oxford.ac.uk
+021550.html,[Rd] How do you construct a function from a list? (PR#743),21550,dmurdoch@pair.com
+021562.html,[Rd] Bug in args with no defaults (PR#747),21562,dmurdoch@pair.com
+021530.html,[Rd] Bug in R 1.1.1 dev.print() with fix (PR#737),21530,frost@pocketmail.com
+021501.html,[Rd] R with redhat 7 (PR#732),21501,hyu@stats.uwo.ca
+021572.html,[Rd] non-centrality parameter in pf() (PR#752),21572,jerome@stat.ubc.ca
+021563.html,[Rd] Problem with NAs using chisq.test() (PR#748),21563,kjetikj@astro.uio.no
+021492.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#730),21492,kjetil.kjernsmo@astro.uio.no
+021480.html,[Rd] par(las=.)  gives wrong &quot;adj&quot; for mtext() (PR#726),21480,ligges@statistik.uni-dortmund.de
+021554.html,[Rd] lm() appears to fail with large number of variables (PR#744),21554,ligges@statistik.uni-dortmund.de
+021479.html,[Rd] par(las=.)  gives wrong &quot;adj&quot; for mtext() (PR#726),21479,maechler@stat.math.ethz.ch
+021489.html,[Rd] par(las=.)  gives wrong &quot;adj&quot; for mtext() (PR#726),21489,maechler@stat.math.ethz.ch
+021547.html,[Rd] match() is not correct for &quot;close numerics&quot; (PR#741),21547,maechler@stat.math.ethz.ch
+021558.html,[Rd] contour documentation (PR#740),21558,maechler@stat.math.ethz.ch
+021560.html,[Rd] printing of lists (PR#746),21560,maechler@stat.math.ethz.ch
+021565.html,[Rd] (NA || x) and (NA &amp;&amp; y)  {another &quot;bug&quot; } (PR#749),21565,maechler@stat.math.ethz.ch
+021570.html,[Rd] abline() does not obey &quot;xpd&quot; (clipping rules) (PR#750),21570,maechler@stat.math.ethz.ch
+021573.html,[Rd] abline() AND rect() do not obey &quot;xpd&quot; (clipping) (PR#750),21573,maechler@stat.math.ethz.ch
+021574.html,[Rd] (NA || x) and (NA &amp;&amp; y)  {another &quot;bug&quot; } (PR#749),21574,maechler@stat.math.ethz.ch
+021571.html,[Rd] BUG: polyroot() (PR#751),21571,mavip1@inet.polyu.edu.hk
+021472.html,[Rd] nls() function is not found (PR#725),21472,montero@kingkong.me.berkeley.edu
+021507.html,[Rd] gnome-support problems (PR#733),21507,olav@melvin.jordforsk.no
+021491.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#729),21491,p.dalgaard@biostat.ku.dk
+021497.html,[Rd] Re: [R] Strange means of numbers drawn from rpois (PR#730),21497,p.dalgaard@biostat.ku.dk
+021488.html,[Rd] installing R on solaris (PR#728),21488,p.e.brown@lancaster.ac.uk
+021552.html,[Rd] lm() appears to fail with large number of variables (PR#744),21552,r@marksmucker.com
+021486.html,[Rd] arrows() doesn't like zero-length arrows (PR#727),21486,ripley@stats.ox.ac.uk
+021459.html,[Rd] Pl. provide and Input for var.test (PR#716),21459,shalabhgandhi@usa.net
+021460.html,[Rd] Pl. provide and Input for var.test (PR#717),21460,shalabhgandhi@usa.net
+021455.html,[Rd] Pl. provide and Input for var.test (PR#718),21455,shalabhgandhi@usa.net
+021454.html,[Rd] Pl. provide and Input for var.test (PR#719),21454,shalabhgandhi@usa.net
+021456.html,[Rd] Pl. provide and Input for var.test (PR#720),21456,shalabhgandhi@usa.net
+021458.html,[Rd] Pl. provide and Input for var.test (PR#721),21458,shalabhgandhi@usa.net
+021461.html,[Rd] Pl. provide and Input for var.test (PR#722),21461,shalabhgandhi@usa.net
+021457.html,[Rd] Pl. provide and Input for var.test (PR#723),21457,shalabhgandhi@usa.net
+021485.html,[Rd] arrows() doesn't like zero-length arrows (PR#727),21485,stephen@cogsci.ed.ac.uk
+021536.html,[Rd] Bug in stars function (PR#738),21536,tdye@lava.net
+021540.html,[Rd] Bug in stars.R (PR#739),21540,tdye@lava.net
+021575.html,[Rd] Re: [R] Step function (PR#753),21575,thomas@biostat.washington.edu

@@ -1,0 +1,162 @@
+link,Subject,id,author
+069852.html,[Rd] Using requireNamespace() instead of require(),69852,Viechtbauer Wolfgang (STAT)
+069855.html,[Rd] Using requireNamespace() instead of require(),69855,Viechtbauer Wolfgang (STAT)
+069761.html,[Rd] lbfgsb from C/C++,69761,Prof J C Nash (U30A)
+069745.html,[Rd] r wiki,69745,Andr&#233; Z. D. A.
+069756.html,"[Rd] format(object.size(...), units): KB, MB,	and GB instead of Kb, Mb, and Gb?",69756,Andr&#233; Z. D. A.
+069785.html,[Rd] r wiki,69785,Baptiste Auguie
+069708.html,[Rd] Unable to compile R 3.1.3 under GCC 4.1.2 (Red Hat 4.1.2-51),69708,Titus Barik
+069712.html,[Rd] Unable to compile R 3.1.3 under GCC 4.1.2 (Red Hat	4.1.2-51),69712,Titus Barik
+069833.html,[Rd] Bug in new behaviour for all.equal and environments?,69833,Rui Barradas
+069738.html,[Rd] negative numerics in [],69738,Henrik Bengtsson
+069755.html,"[Rd] format(object.size(...), units): KB, MB, and GB instead of Kb, Mb, and Gb?",69755,Henrik Bengtsson
+069727.html,[Rd] Rcpp and dot in package name,69727,Stefan Boehringer
+069706.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69706,Carl Boettiger
+069705.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69705,Ben Bolker
+069707.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69707,Ben Bolker
+069713.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69713,Ben Bolker
+069714.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69714,Ben Bolker
+069715.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69715,Ben Bolker
+069721.html,"[Rd] log(i, base=i) not giving 1",69721,Ben Bolker
+069744.html,[Rd] r wiki,69744,Ben Bolker
+069808.html,[Rd] trivial typo in R-exts.texi,69808,Ben Bolker
+069809.html,[Rd] issue with compiling r6,69809,Ben Bolker
+069811.html,[Rd] issue with compiling r6,69811,Ben Bolker
+069748.html,[Rd] normalizePath is sometimes very slow for nonexistent UNC paths,69748,Richard Cotton
+069710.html,[Rd] Unable to compile R 3.1.3 under GCC 4.1.2 (Red Hat	4.1.2-51),69710,G&#225;bor Cs&#225;rdi
+069768.html,[Rd] r wiki,69768,G&#225;bor Cs&#225;rdi
+069776.html,[Rd] r wiki,69776,G&#225;bor Cs&#225;rdi
+069780.html,[Rd] r wiki,69780,G&#225;bor Cs&#225;rdi
+069787.html,[Rd] r wiki,69787,G&#225;bor Cs&#225;rdi
+069800.html,[Rd] Request for an 'R CMD check' on Solaris10,69800,G&#225;bor Cs&#225;rdi
+069821.html,[Rd] help.start() web page contains a bad link,69821,"Davison, Jerry"
+069750.html,[Rd] normalizePath is sometimes very slow for nonexistent UNC paths,69750,Matt Denwood
+069851.html,[Rd] possible error in rdevel with --enable-strict-barrier?,69851,Matt Dowle
+069862.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69862,William Dunlap
+069709.html,[Rd] Unable to compile R 3.1.3 under GCC 4.1.2 (Red Hat	4.1.2-51),69709,Dirk Eddelbuettel
+069728.html,[Rd] Rcpp and dot in package name,69728,Dirk Eddelbuettel
+069752.html,[Rd] lbfgsb from C/C++,69752,Dirk Eddelbuettel
+069757.html,[Rd] lbfgsb from C/C++,69757,Dirk Eddelbuettel
+069799.html,[Rd] Request for an 'R CMD check' on Solaris10,69799,Dirk Eddelbuettel
+069834.html,[Rd] last user argument missing from Rscript --verbose,69834,Dirk Eddelbuettel
+069857.html,[Rd] Package Rcpp: Question conerning source code of cpp files and related question,69857,Dirk Eddelbuettel
+069754.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar	cghseg hexbin lgtdl monreg muhaz operators pamr,69754,Romain Francois
+069765.html,[Rd] r wiki,69765,Philippe GROSJEAN
+069794.html,[Rd] How to test impact of candidate changes to package?,69794,Paul Gilbert
+069802.html,[Rd] requireNamespace() questions,69802,Paul Gilbert
+069837.html,[Rd] extra package tests directory,69837,Paul Gilbert
+069865.html,[Rd] Shallow copies,69865,Matthieu Gomez
+069770.html,[Rd] r wiki,69770,Philippe Grosjean
+069774.html,[Rd] r wiki,69774,Philippe Grosjean
+069775.html,[Rd] r wiki,69775,Philippe Grosjean
+069740.html,[Rd] negative numerics in [],69740,Bryan Hanson
+069822.html,[Rd] help.start() web page contains a bad link,69822,Berend Hasselman
+069839.html,[Rd] Replace isnan and lgamma in Fortran subroutine in R package,69839,Berend Hasselman
+069736.html,[Rd] negative numerics in [],69736,Michael Haupt
+069722.html,[Rd] Library not loaded: /usr/local/lib/libquadmath.0.dylib,69722,Xiao He
+069798.html,[Rd] Request for an 'R CMD check' on Solaris10,69798,Anthony Hennessey
+069782.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69782,"Hodgess, Erin"
+069820.html,[Rd] last user argument missing from Rscript --verbose,69820,Harris A. Jaffee
+069831.html,[Rd] last user argument missing from Rscript --verbose,69831,Harris A. Jaffee
+069864.html,[Rd] R's internal tar ignores files in sub-directories,69864,Harris A. Jaffee
+069741.html,[Rd] R CMD check --as-cran does not show all error messages.,69741,Mikko Korpela
+069760.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69760,Scott Kostyshak
+069771.html,[Rd] [patch] Add support for editor function in edit.default,69771,Scott Kostyshak
+069828.html,[Rd] last user argument missing from Rscript --verbose,69828,Scott Kostyshak
+069830.html,[Rd] [patch] Rscript off-by-one error in output,69830,Scott Kostyshak
+069813.html,[Rd] Regression and inconsistency of width of apostrophes in R	vignettes,69813,Hin-Tak Leung
+069734.html,[Rd] 'library(ggplot2)' R CMD check WARNING in vignette R code,69734,Uwe Ligges
+069746.html,[Rd] r wiki,69746,Uwe Ligges
+069749.html,[Rd] normalizePath is sometimes very slow for nonexistent UNC paths,69749,Uwe Ligges
+069753.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69753,Uwe Ligges
+069759.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69759,Uwe Ligges
+069766.html,[Rd] r wiki,69766,Uwe Ligges
+069778.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69778,Uwe Ligges
+069784.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69784,Uwe Ligges
+069789.html,[Rd] How to test impact of candidate changes to package?,69789,Stephanie Locke
+069791.html,[Rd] How to test impact of candidate changes to package?,69791,Stephanie Locke
+069762.html,[Rd] Problem with order() and I(),69762,"MacQueen, Don"
+069783.html,[Rd] Problem with order() and I(),69783,"MacQueen, Don"
+069795.html,[Rd] Problem with order() and I(),69795,"MacQueen, Don"
+069719.html,"[Rd] log(i, base=i) not giving 1",69719,Martin Maechler
+069725.html,"[Rd] log(i, base=i) not giving 1",69725,Martin Maechler
+069777.html,[Rd] r wiki,69777,Martin Maechler
+069779.html,[Rd] Problem with order() and I(),69779,Martin Maechler
+069786.html,[Rd] Problem with order() and I(),69786,Martin Maechler
+069797.html,[Rd] install.packages misleads about package availability?,69797,Martin Maechler
+069827.html,[Rd] last user argument missing from Rscript --verbose,69827,Martin Maechler
+069843.html,[Rd] Bug in new behaviour for all.equal and environments?,69843,Martin Maechler
+069829.html,[Rd] Pointer ownership with GECreateDevDesc/GEDestroyDevDesc,69829,Ritch Melton
+069836.html,[Rd] Pointer ownership with GECreateDevDesc/GEDestroyDevDesc,69836,Ritch Melton
+069806.html,[Rd] Debug an R  windows (Fortran) DLL within R with gdb?,69806,Andre Mikulec
+069817.html,[Rd] Debug an R windows (Fortran) DLL within R with gdb?,69817,Andre Mikulec
+069844.html,[Rd] Patch for R to fix some buffer overruns and add a missing	PROTECT().,69844,Karl Millar
+069846.html,[Rd] Patch for R to fix some buffer overruns and add a missing	PROTECT().,69846,Karl Millar
+069796.html,[Rd] install.packages misleads about package availability?,69796,Martin Morgan
+069739.html,[Rd] negative numerics in [],69739,Duncan Murdoch
+069773.html,[Rd] r wiki,69773,Duncan Murdoch
+069807.html,[Rd] Debug an R  windows (Fortran) DLL within R with gdb?,69807,Duncan Murdoch
+069818.html,[Rd] Debug an R windows (Fortran) DLL within R with gdb?,69818,Duncan Murdoch
+069835.html,[Rd] Bug in new behaviour for all.equal and environments?,69835,Duncan Murdoch
+069845.html,[Rd] Patch for R to fix some buffer overruns and add a missing PROTECT().,69845,Duncan Murdoch
+069853.html,[Rd] Using requireNamespace() instead of require(),69853,Duncan Murdoch
+069859.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69859,Duncan Murdoch
+069861.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69861,Duncan Murdoch
+069847.html,[Rd] Pointer ownership with GECreateDevDesc/GEDestroyDevDesc,69847,Paul Murrell
+069792.html,[Rd] How to test impact of candidate changes to package?,69792,Kirill M&#252;ller
+069812.html,[Rd] cleanup temporary directory,69812,Sandip Nandi
+069747.html,[Rd] New flag bit for serialized used by pqR,69747,Radford Neal
+069790.html,[Rd] How to test impact of candidate changes to package?,69790,"ONKELINX, Thierry"
+069804.html,[Rd] vegan moved to GitHub and vegan 2.2-0 is coming (are you	ready?),69804,Jari Oksanen
+069805.html,[Rd] vegan moved to GitHub and vegan 2.2-0 is coming (are	you	ready?),69805,Jari Oksanen
+069793.html,[Rd] CRAN form submission confirmation link,69793,Jeroen Ooms
+069729.html,[Rd] timings for examples in R CMD check,69729,Brian G. Peterson
+069732.html,[Rd] timings for examples in R CMD check,69732,Brian G. Peterson
+069716.html,[Rd] unexpected behavior of &lt;&lt;- in nlm (lazy?),69716,Thomas Petzoldt
+069840.html,[Rd] Replace isnan and lgamma in Fortran subroutine in R package,69840,Martyn Plummer
+069841.html,[Rd] Replace isnan and lgamma in Fortran subroutine in R package,69841,Martyn Plummer
+069711.html,[Rd] Unable to compile R 3.1.3 under GCC 4.1.2 (Red Hat	4.1.2-51),69711,Prof Brian Ripley
+069718.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69718,Prof Brian Ripley
+069723.html,"[Rd] log(i, base=i) not giving 1",69723,Prof Brian Ripley
+069724.html,[Rd] Library not loaded: /usr/local/lib/libquadmath.0.dylib,69724,Prof Brian Ripley
+069742.html,[Rd] R CMD check --as-cran does not show all error messages.,69742,Prof Brian Ripley
+069849.html,[Rd] Why is my R package still compiling with the O2 flag?,69849,Prof Brian Ripley
+069854.html,[Rd] Using requireNamespace() instead of require(),69854,Prof Brian Ripley
+069858.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69858,Barry Rowlingson
+069860.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69860,Barry Rowlingson
+069769.html,[Rd] [patch] Add support for editor function in edit.default,69769,Deepayan Sarkar
+069772.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69772,Luca Sartore
+069819.html,[Rd] &quot;no visible global function definition&quot; using R-Devel check	utility,69819,Tobias Setz
+069731.html,[Rd] timings for examples in R CMD check,69731,Gavin Simpson
+069743.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69743,Greg Snow
+069856.html,[Rd] Package Rcpp: Question conerning source code of cpp files and related question,69856,Martin Spindler
+069814.html,[Rd] Can't Find Function After requireNamespace,69814,Dario Strbenac
+069733.html,[Rd] 'library(ggplot2)' R CMD check WARNING in vignette R code,69733,Sven E. Templer
+069735.html,[Rd] 'library(ggplot2)' R CMD check WARNING in vignette R code,69735,Sven E. Templer
+069737.html,[Rd] R CMD check --as-cran does not show all error messages.,69737,Thalles
+069815.html,[Rd] Can't Find Function After requireNamespace,69815,Simon Urbanek
+069816.html,[Rd] Can't Find Function After requireNamespace,69816,Simon Urbanek
+069832.html,[Rd] Bug in new behaviour for all.equal and environments?,69832,Kevin Ushey
+069863.html,[Rd] R's internal tar ignores files in sub-directories,69863,Kevin Ushey
+069838.html,[Rd] Replace isnan and lgamma in Fortran subroutine in R package,69838,"Wang, Zhu"
+069842.html,[Rd] Replace isnan and lgamma in Fortran subroutine in R package,69842,"Wang, Zhu"
+069758.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar	cghseg hexbin lgtdl monreg muhaz operators pamr,69758,Gregory R. Warnes
+069803.html,[Rd] requireNamespace() questions,69803,Hadley Wickham
+069730.html,[Rd] timings for examples in R CMD check,69730,Yihui Xie
+069767.html,[Rd] r wiki,69767,Yihui Xie
+069825.html,[Rd] formatR 1.0 caused error,69825,Yihui Xie
+069823.html,[Rd] formatR 1.0 caused error,69823,"Zhang,Jun"
+069824.html,[Rd] formatR 1.0 caused error,69824,"Zhang,Jun"
+069826.html,[Rd] formatR 1.0 caused error,69826,"Zhang,Jun"
+069764.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69764,billy am
+069751.html,[Rd] lbfgsb from C/C++,69751,axionator
+069763.html,[Rd] lbfgsb from C/C++,69763,axionator
+069801.html,[Rd] Compatibility issues between Matrix and kml,69801,cgenolin
+069717.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69717,peter dalgaard
+069720.html,[Rd] ggplot2/plyr interaction with latest R-devel?,69720,peter dalgaard
+069726.html,"[Rd] log(i, base=i) not giving 1",69726,peter dalgaard
+069781.html,[Rd] Problem with order() and I(),69781,peter dalgaard
+069788.html,[Rd] Problem with order() and I(),69788,peter dalgaard
+069810.html,[Rd] issue with compiling r6,69810,peter dalgaard
+069848.html,[Rd] Why is my R package still compiling with the O2 flag?,69848,kaveh
+069850.html,[Rd] Why is my R package still compiling with the O2 flag?,69850,kaveh

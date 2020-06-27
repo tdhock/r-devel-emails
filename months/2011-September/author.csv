@@ -1,0 +1,222 @@
+link,Subject,id,author
+061933.html,[Rd] Generic Functions for dffits and covratio,61933,Viechtbauer Wolfgang (STAT)
+061970.html,[Rd] Is xtable still being maintained?,61970,Alastair
+061996.html,[Rd] R CMD INSTALL configure.args and CC customization,61996,Timothy Bates
+062057.html,[Rd] names Rd see Also{slotNames},62057,Timothy Bates
+062049.html,[Rd] Is it possible to pass a function argument from R to compiled code in C?,62049,Gabriel Becker
+062011.html,[Rd] Revision of shell.exec?,62011,Henrik Bengtsson
+062039.html,[Rd] file.info(path) &quot;inconsistent&quot; with file.exists(path) when	path == &quot;C:/&quot;,62039,Henrik Bengtsson
+062068.html,[Rd] R CMD check file issues,62068,Henrik Bengtsson
+062100.html,[Rd] R CMD check file issues,62100,Henrik Bengtsson
+062121.html,[Rd] grep and PCRE fun,62121,Henrik Bengtsson
+062055.html,[Rd] difficulty with 'parallel' in building r57032 -- missing Makefile?,62055,Ben Bolker
+062056.html,[Rd] load.R patch suggestion,62056,Ben Bolker
+062053.html,[Rd] difficulty with 'parallel' in building r57032 -- missing	Makefile?,62053,Ben Bolker
+062091.html,[Rd] inconsolata font for building vignettes with R-devel,62091,Ben Bolker
+062093.html,[Rd] inconsolata font for building vignettes with R-devel,62093,Ben Bolker
+062112.html,[Rd] read.csv behaviour,62112,Ben Bolker
+062021.html,[Rd] External pointers and an apparent memory leak,62021,James Bullard
+062024.html,[Rd] External pointers and an apparent memory leak,62024,James Bullard
+062002.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,62002,Timoth&#233;e Carayol
+062038.html,[Rd] S4 method dispatch,62038,John Chambers
+062131.html,[Rd] S4 method dispatch,62131,John Chambers
+062075.html,[Rd] Issue with seek() on gzipped connections in R-devel,62075,Jon Clayden
+062079.html,[Rd] Issue with seek() on gzipped connections in R-devel,62079,Jon Clayden
+062042.html,[Rd] using R as SHELL in gnu make,62042,"Cook, Malcolm"
+062067.html,[Rd] using R as SHELL in gnu make,62067,"Cook, Malcolm"
+061982.html,[Rd]  Is xtable still being maintained?,61982,David B. Dahl
+061917.html,[Rd] &quot;\088&quot; is legal syntax?,61917,William Dunlap
+061918.html,[Rd] parser does not catch strings without closing quote,61918,William Dunlap
+061920.html,[Rd] &quot;\088&quot; is legal syntax?,61920,William Dunlap
+061922.html,[Rd] &quot;\088&quot; is legal syntax?,61922,William Dunlap
+061924.html,[Rd] parser does not catch strings without closing quote,61924,William Dunlap
+061949.html,[Rd] nobs(lm(...)) != nobs(glm(...)) when there are 0s in weights,61949,William Dunlap
+062077.html,[Rd] should dir(all=TRUE) return &quot;.&quot; and &quot;..&quot;?,62077,William Dunlap
+061958.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R	code	-&gt; package,61958,Dirk Eddelbuettel
+061967.html,[Rd] Saving Rcpp Objects for Future Use,61967,Dirk Eddelbuettel
+061992.html,[Rd] Link between Qt GUI and R,61992,Dirk Eddelbuettel
+062015.html,[Rd] Revision of shell.exec?,62015,Dirk Eddelbuettel
+062026.html,[Rd] Revision of shell.exec?,62026,Dirk Eddelbuettel
+062052.html,[Rd] Is it possible to pass a function argument from R to compiled code in C?,62052,Dirk Eddelbuettel
+062092.html,[Rd] inconsolata font for building vignettes with R-devel,62092,Dirk Eddelbuettel
+062073.html,"[Rd] Building R on Windows 7 -- No rule to make target `etc/GETDESC', needed by `fixetc'.",62073,Johannes Egner
+062003.html,[Rd] Building R package with precompiled shared library,62003,Francesco Finazzi
+062031.html,[Rd] R license for a derived data-only package,62031,Michael Friendly
+062006.html,[Rd] Building R package with precompiled shared library,62006,Paul Gilbert
+062033.html,[Rd] R license for a derived data-only package,62033,Paul Gilbert
+062045.html,[Rd] using R as SHELL in gnu make,62045,Paul Gilbert
+061945.html,[Rd] repeatable segfault - on Mac,61945,Rob Goedman
+062043.html,[Rd] &quot;could not find function&quot; after import,62043,Stephanie M. Gogarten
+062001.html,[Rd] R CMD INSTALL configure.args and CC,62001,Ross Gore
+062086.html,"[Rd] broken save(..., compress=&quot;xy&quot;)",62086,Sarah Goslee
+061957.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61957,Spencer Graves
+061960.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61960,Spencer Graves
+061972.html,[Rd] Is xtable still being maintained?,61972,Spencer Graves
+061979.html,[Rd] Is xtable still being maintained?,61979,Spencer Graves
+061977.html,[Rd] control list gotcha,61977,Gabor Grothendieck
+061980.html,[Rd] Is xtable still being maintained?,61980,Gabor Grothendieck
+062127.html,[Rd] documenting a behavior of adding named item to a list,62127,Suraj Gupta
+062107.html,[Rd] array extraction,62107, (Ted Harding)
+062119.html,[Rd] grep and PCRE fun,62119,Jeffrey Horner
+062120.html,[Rd] grep and PCRE fun,62120,Jeffrey Horner
+061951.html,[Rd] libtool FIXME,61951,Kurt Hornik
+062114.html,[Rd] Finding inter-function dependencies within a package,62114,Keith Jewell
+062126.html,[Rd] Finding inter-function dependencies within a package,62126,Keith Jewell
+061955.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code	-&gt; package,61955,Paul Johnson
+062046.html,[Rd] The boot Package with bca Intervals and Inf and NaN Values in an Automated Function [mediation()],62046,Ken Kelley
+061964.html,[Rd] Saving Rcpp Objects for Future Use,61964,Michael King
+062104.html,[Rd] array extraction,62104,Simon Knapp
+062115.html,[Rd] Finding inter-function dependencies within a package,62115,Rainer M Krug
+061916.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61916,Michael Lachmann
+061998.html,[Rd] Link between Qt GUI and R,61998,Michael Lawrence
+062111.html,[Rd] [R] read.csv behaviour,62111,Jim Lemon
+061946.html,"[Rd] As a package author, is there a way to specify that your package is architecture (x86_64) specific?",61946,Steve Lianoglou
+061947.html,"[Rd] As a package author, is there a way to specify that your package is architecture (x86_64) specific?",61947,Steve Lianoglou
+061950.html,"[Rd] As a package author, is there a way to specify that your package is architecture (x86_64) specific?",61950,Steve Lianoglou
+061954.html,"[Rd] As a package author, is there a way to specify that your package is architecture (x86_64) specific?",61954,Steve Lianoglou
+061966.html,"[Rd] As a package author, is there a way to specify that your package is architecture (x86_64) specific?",61966,Steve Lianoglou
+061971.html,[Rd] Is xtable still being maintained?,61971,Uwe Ligges
+061981.html,[Rd] Is xtable still being maintained?,61981,Uwe Ligges
+062005.html,[Rd] Revision of shell.exec?,62005,Uwe Ligges
+062008.html,[Rd] Building R package with precompiled shared library,62008,Uwe Ligges
+062017.html,[Rd] Revision of shell.exec?,62017,Uwe Ligges
+062034.html,[Rd] package snow/parallel doesnt make any clusters,62034,Uwe Ligges
+062048.html,[Rd] Is it possible to pass a function argument from R to compiled code in C?,62048,Uwe Ligges
+062060.html,[Rd] R check error / update.packages,62060,Uwe Ligges
+062061.html,[Rd] R CMD check file issues,62061,Uwe Ligges
+062063.html,[Rd] R CMD check file issues,62063,Uwe Ligges
+062074.html,"[Rd] Building R on Windows 7 -- No rule to make target `etc/GETDESC', needed by `fixetc'.",62074,Uwe Ligges
+061914.html,[Rd] An example of very slow computation,61914,Martin Maechler
+061940.html,[Rd] repeatable segfault - on Mac,61940,Martin Maechler
+061943.html,[Rd] repeatable segfault - on Mac,61943,Martin Maechler
+062082.html,[Rd] should dir(all=TRUE) return &quot;.&quot; and &quot;..&quot;?,62082,Martin Maechler
+062094.html,"[Rd] broken save(..., compress=&quot;xy&quot;)",62094,Martin Maechler
+062110.html,[Rd] load.R patch suggestion,62110,Martin Maechler
+062047.html,[Rd] Is it possible to pass a function argument from R to compiled code in C?,62047,Alireza Mahani
+062050.html,[Rd] Is it possible to pass a function argument from R to compiled code in C?,62050,Alireza Mahani
+062069.html,[Rd] How to call an MPI-enabled program from R?,62069,Alireza Mahani
+061915.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61915,Pawe&#322; Matykiewicz
+062035.html,[Rd] patch] writeForeignSAS writes invalid SASdata for logical	columns,62035,Patrick McCormick
+062036.html,[Rd] [patch] writeForeignSAS writes invalid SASdata for logical	columns,62036,Patrick McCormick
+061997.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61997,Martin Morgan
+062095.html,[Rd] cbind() crashes on raw vectors,62095,Martin Morgan
+062097.html,[Rd] WIndows Makeconf masks user-specified zlib.h,62097,Martin Morgan
+061919.html,[Rd] &quot;\088&quot; is legal syntax?,61919,Duncan Murdoch
+061921.html,[Rd] &quot;\088&quot; is legal syntax?,61921,Duncan Murdoch
+061923.html,[Rd] parser does not catch strings without closing quote,61923,Duncan Murdoch
+061925.html,[Rd] parser does not catch strings without closing quote,61925,Duncan Murdoch
+061959.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61959,Duncan Murdoch
+062018.html,[Rd] Revision of shell.exec?,62018,Duncan Murdoch
+062044.html,[Rd] &quot;could not find function&quot; after import,62044,Duncan Murdoch
+062064.html,[Rd] R CMD check file issues,62064,Duncan Murdoch
+062066.html,[Rd] R CMD check file issues,62066,Duncan Murdoch
+062072.html,[Rd] R-2.13.2 beta build for Windows,62072,Duncan Murdoch
+062088.html,[Rd] &quot;could not find function&quot; after import,62088,Duncan Murdoch
+062116.html,[Rd] Finding inter-function dependencies within a package,62116,Duncan Murdoch
+062118.html,[Rd] Warning: changing locked binding for ...,62118,Duncan Murdoch
+062128.html,[Rd] documenting a behavior of adding named item to a list,62128,Duncan Murdoch
+062133.html,[Rd] Language definition question - order of argument side	effects,62133,Duncan Murdoch
+061976.html,[Rd] control list gotcha,61976,John C Nash
+062108.html,[Rd] [SPAM?]  [R] read.csv behaviour,62108,Jeff Newmiller
+061926.html,[Rd] mclust: modelNames(&quot;E&quot;) vs modelNames=(&quot;V&quot;),61926,Nico902
+061928.html,[Rd] mclust: modelNames(&quot;E&quot;) vs modelNames=(&quot;V&quot;),61928,Nico902
+062004.html,[Rd] Revision of shell.exec?,62004,Brian Oney
+062009.html,[Rd] Revision of shell.exec?,62009,Brian Oney
+062013.html,[Rd] Revision of shell.exec?,62013,Brian Oney
+062085.html,"[Rd] broken save(..., compress=&quot;xy&quot;)",62085,Herv&#233; Pag&#232;s
+062087.html,"[Rd] broken save(..., compress=&quot;xy&quot;)",62087,Herv&#233; Pag&#232;s
+062090.html,[Rd] cbind() crashes on raw vectors,62090,Herv&#233; Pag&#232;s
+062096.html,"[Rd] broken save(..., compress=&quot;xy&quot;)",62096,Herv&#233; Pag&#232;s
+062020.html,[Rd] S4 method dispatch,62020,Edzer Pebesma
+062037.html,[Rd] S4 method dispatch,62037,Edzer Pebesma
+062124.html,[Rd] S4 method dispatch,62124,Edzer Pebesma
+061927.html,[Rd] mclust: modelNames(&quot;E&quot;) vs modelNames=(&quot;V&quot;),61927,Brian G. Peterson
+061913.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61913,Prof Brian Ripley
+061952.html,"[Rd] As a package author, is there a way to specify that your package is architecture (x86_64) specific?",61952,Prof Brian Ripley
+062040.html,[Rd] Revision of shell.exec?,62040,Prof Brian Ripley
+062070.html,[Rd] R CMD check file issues,62070,Prof Brian Ripley
+062076.html,[Rd] Issue with seek() on gzipped connections in R-devel,62076,Prof Brian Ripley
+062083.html,[Rd] Issue with seek() on gzipped connections in R-devel,62083,Prof Brian Ripley
+062084.html,[Rd] should dir(all=TRUE) return &quot;.&quot; and &quot;..&quot;?,62084,Prof Brian Ripley
+062101.html,[Rd] R CMD check file issues,62101,Prof Brian Ripley
+062125.html,[Rd] Warning: changing locked binding for ...,62125,Prof Brian Ripley
+062130.html,[Rd] grep and PCRE fun,62130,Prof Brian Ripley
+062012.html,[Rd] [Q] Package NS Hook Lint NOTE,62012,"Roebuck,Paul L"
+062041.html,[Rd] FW: [Q] Package NS Hook Lint NOTE (unanswered),62041,"Roebuck,Paul L"
+061969.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61969,Barry Rowlingson
+061993.html,[Rd] Link between Qt GUI and R,61993,Barry Rowlingson
+061995.html,[Rd] Link between Qt GUI and R,61995,Barry Rowlingson
+061973.html,[Rd] Is xtable still being maintained?,61973,Jeffrey Ryan
+062051.html,[Rd] Is it possible to pass a function argument from R to compiled code in C?,62051,Jeffrey Ryan
+062078.html,[Rd] Issue with seek() on gzipped connections in R-devel,62078,Jeffrey Ryan
+062080.html,[Rd] Issue with seek() on gzipped connections in R-devel,62080,Jeffrey Ryan
+061931.html,[Rd] do.call and sys.call: suggestion for improval?,61931,Nick Sabbe
+062058.html,[Rd] R check error / update.packages,62058,Nick Sabbe
+062059.html,[Rd] R CMD check file issues,62059,Nick Sabbe
+062062.html,[Rd] R CMD check file issues,62062,Nick Sabbe
+062065.html,[Rd] R CMD check file issues,62065,Nick Sabbe
+062098.html,[Rd] R CMD check file issues,62098,Nick Sabbe
+062099.html,[Rd] R CMD check file issues,62099,Nick Sabbe
+061935.html,[Rd] Refresh every minute,61935,Schatzi
+061937.html,[Rd] Refresh every minute,61937,Schatzi
+061939.html,[Rd] Refresh every minute,61939,Schatzi
+062028.html,[Rd] package snow/parallel doesnt make any clusters,62028,Maarten Schipper
+062022.html,[Rd] External pointers and an apparent memory leak,62022,Matt Shotwell
+061961.html,[Rd] R CMD INSTALL configure.args and CC customization,61961,Michael Spiegel
+062113.html,[Rd] serialize/unserialize vector improvement,62113,Michael Spiegel
+062071.html,[Rd] R-2.13.2 beta build for Windows,62071,Dario Strbenac
+062106.html,[Rd] read.csv behaviour,62106,Mehmet Suzen
+062132.html,[Rd] Language definition question - order of argument side effects,62132,Justin Talbot
+061956.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61956,Joshua Ulrich
+061975.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61975,Joshua Ulrich
+061936.html,[Rd] Refresh every minute,61936,Simon Urbanek
+061942.html,[Rd] repeatable segfault - on Mac,61942,Simon Urbanek
+061948.html,"[Rd] As a package author,	is there a way to specify that your package is architecture	(x86_64) specific?",61948,Simon Urbanek
+061953.html,"[Rd] As a package author,	is there a way to specify that your package is architecture	(x86_64) specific?",61953,Simon Urbanek
+061965.html,"[Rd] As a package author,	is there a way to specify that your package is architecture	(x86_64) specific?",61965,Simon Urbanek
+061991.html,[Rd] Link between Qt GUI and R,61991,Simon Urbanek
+062007.html,[Rd] Building R package with precompiled shared library,62007,Simon Urbanek
+062010.html,[Rd] Revision of shell.exec?,62010,Simon Urbanek
+062014.html,[Rd] Revision of shell.exec?,62014,Simon Urbanek
+062016.html,[Rd] Revision of shell.exec?,62016,Simon Urbanek
+062023.html,[Rd] External pointers and an apparent memory leak,62023,Simon Urbanek
+062025.html,[Rd] External pointers and an apparent memory leak,62025,Simon Urbanek
+062029.html,[Rd] grep problem in R-devel 2.14 r57004,62029,Simon Urbanek
+062030.html,[Rd] grep problem in R-devel 2.14 r57004,62030,Simon Urbanek
+062032.html,[Rd] R license for a derived data-only package,62032,Simon Urbanek
+062102.html,[Rd] cbind() crashes on raw vectors,62102,Simon Urbanek
+062129.html,[Rd] grep and PCRE fun,62129,Simon Urbanek
+062019.html,[Rd] Revision of shell.exec?,62019,Stephen Weston
+061962.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61962,Hadley Wickham
+061963.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61963,Hadley Wickham
+062117.html,[Rd] Warning: changing locked binding for ...,62117,Wincent
+062123.html,[Rd] Warning: changing locked binding for ...,62123,Wincent
+061930.html,[Rd] repeatable segfault,61930,David Winsemius
+061983.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61983,Yihui Xie
+061934.html,[Rd] libtool FIXME,61934,Marco atzeri
+061968.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61968,baptiste auguie
+061987.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code	-&gt; package,61987,Mark.Bravington at csiro.au
+062027.html,[Rd] grep problem in R-devel 2.14 r57004,62027,Mark.Bravington at csiro.au
+062122.html,[Rd] Finding inter-function dependencies within a package,62122,Mark.Bravington at csiro.au
+061938.html,[Rd] Refresh every minute,61938,peter dalgaard
+061941.html,[Rd] repeatable segfault - on Mac,61941,peter dalgaard
+062054.html,[Rd] difficulty with 'parallel' in building r57032 -- missing	Makefile?,62054,peter dalgaard
+061929.html,[Rd] repeatable segfault,61929,robin hankin
+062103.html,[Rd] array extraction,62103,robin hankin
+062105.html,[Rd] array extraction,62105,robin hankin
+061932.html,[Rd] &quot;Error: invalid version specification 2.2&quot; during make,61932,hongxu
+062109.html,[Rd] How to set values,62109,jorgeA
+061999.html,[Rd] Link between Qt GUI and R,61999,jverzani
+061974.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61974,steven mosher
+061984.html,[Rd] Please explain your workflow from R code -&gt; package -&gt; R code -&gt; package,61984,steven mosher
+061988.html,[Rd] Importing from a package with dependencies,61988,steven mosher
+061989.html,[Rd] Importing from a package with dependencies,61989,steven mosher
+062081.html,[Rd] &quot;could not find function&quot; after import,62081,steven mosher
+062089.html,[Rd] &quot;could not find function&quot; after import,62089,steven mosher
+061978.html,[Rd] Is xtable still being maintained?,61978,oliver
+061986.html,[Rd] Is xtable still being maintained?,61986,oliver
+061985.html,[Rd] Is xtable still being maintained?,61985,oliver
+061990.html,[Rd] Link between Qt GUI and R,61990,typhoong
+061994.html,[Rd] Link between Qt GUI and R,61994,typhoong
+062000.html,[Rd] Link between Qt GUI and R,62000,typhoong
+061944.html,[Rd] repeatable segfault - on Mac,61944,luke-tierney at uiowa.edu

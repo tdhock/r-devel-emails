@@ -1,0 +1,190 @@
+link,Subject,id,author
+031759.html,[Rd] optim/vmmin and R_alloc,31759,G&#246;ran Brostr&#246;m
+031761.html,[Rd] optim/vmmin and R_alloc,31761,G&#246;ran Brostr&#246;m
+031763.html,[Rd] optim/vmmin and R_alloc,31763,G&#246;ran Brostr&#246;m
+031764.html,[Rd] optim/vmmin and R_alloc,31764,G&#246;ran Brostr&#246;m
+031770.html,[Rd] optim/vmmin and R_alloc,31770,G&#246;ran Brostr&#246;m
+031747.html,[Rd] help with Rcmd check,31747,Whit Armstrong
+031749.html,[Rd] help with Rcmd check,31749,Whit Armstrong
+031751.html,[Rd] Makefile vs Makevars vs configure,31751,Whit Armstrong
+031740.html,[Rd] Print()ing Latin 1 in console (PR#7452),31740,Roger Bivand
+031603.html,[Rd] Re: [R] Running R from CD?,31603,M. Edward Borasky
+031717.html,[Rd] relevel expansion suggestion,31717,BXC (Bendix Carstensen)
+031647.html,[Rd] RE: [R] Testing for S4 objects,31647,John Chambers
+031635.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31635,Peter Dalgaard
+031651.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31651,Peter Dalgaard
+031683.html,[Rd] value of a loop broken by break,31683,Peter Dalgaard
+031694.html,[Rd] R and Gnumeric?,31694,Peter Dalgaard
+031708.html,[Rd] Startup problem in 2.0.1 with install to /opt/R (PR#7437),31708,Peter Dalgaard
+031743.html,[Rd] win variable in tcltk,31743,Peter Dalgaard
+031590.html,[Rd] Wishlist: simple legend options (PR#7400),31590,Dirk Eddelbuettel
+031596.html,[Rd] Wishlist: heatmap/image legend (PR#7402),31596,Dirk Eddelbuettel
+031670.html,[Rd] Lazy loading errors building its package in a chroot,31670,Dirk Eddelbuettel
+031679.html,[Rd] More on Lazy loading errors building its package in a chroot,31679,Dirk Eddelbuettel
+031681.html,[Rd] More on Lazy loading errors building its package in a chroot,31681,Dirk Eddelbuettel
+031736.html,[Rd] R's IO speed,31736,Dirk Eddelbuettel
+031622.html,[Rd] Problem with read.xport() from foreigh package (PR#7389),31622,Werner Engl
+031652.html,[Rd] Problem with read.xport() from foreigh package (PR#7389),31652,Werner Engl
+031613.html,[Rd] Re: [R] Odd underflow(?) error,31613,William Faulk
+031614.html,[Rd] R doesn't understand dates prior to 1 Jan 1970,31614,William Faulk
+031585.html,[Rd] RCmdr on Linux with R 2.0.0 over VNC can't use GLX,31585,John Fox
+031646.html,[Rd] RE: [R] Testing for S4 objects,31646,John Fox
+031648.html,[Rd] RE: [R] Testing for S4 objects,31648,John Fox
+031699.html,[Rd] RE: [R] SAS or R software,31699,Jeff Gentry
+031767.html,[Rd] R-intro,31767,Gorjanc Gregor
+031580.html,[Rd] regex to match word boundaries,31580,Gabor Grothendieck
+031588.html,[Rd] Wishlist: simple legend options (PR#7400),31588,Gabor Grothendieck
+031597.html,[Rd] seq.Date requires by,31597,Gabor Grothendieck
+031598.html,[Rd] seq.Date requires by,31598,Gabor Grothendieck
+031610.html,[Rd] regex to match word boundaries,31610,Gabor Grothendieck
+031616.html,[Rd] Wishlist: simple legend options (PR#7400),31616,Gabor Grothendieck
+031645.html,[Rd] HOME environment variable,31645,Gabor Grothendieck
+031680.html,[Rd] More on Lazy loading errors building its package in a chroot,31680,Gabor Grothendieck
+031682.html,[Rd] value of a loop broken by break,31682,Gabor Grothendieck
+031684.html,[Rd] value of a loop broken by break,31684,Gabor Grothendieck
+031691.html,"[Rd] R, fptex, MikTex",31691,Gabor Grothendieck
+031730.html,[Rd] Importing csv files,31730,Gabor Grothendieck
+031742.html,[Rd] win variable in tcltk,31742,Gabor Grothendieck
+031750.html,"[Rd] Windows vignettes, shQuote, texi2dvi",31750,Gabor Grothendieck
+031757.html,"[Rd] Windows vignettes, shQuote, texi2dvi",31757,Gabor Grothendieck
+031768.html,"[Rd] Windows vignettes, shQuote, texi2dvi",31768,Gabor Grothendieck
+031769.html,"[Rd] Windows vignettes, shQuote, texi2dvi",31769,Gabor Grothendieck
+031713.html,[Rd] RE: [R] SAS or R software,31713,Kjetil Brinchmann Halvorsen
+031719.html,[Rd] buglet in summary of a data frame,31719,Kjetil Brinchmann Halvorsen
+031720.html,[Rd] small problem with R CMD check,31720,Kjetil Brinchmann Halvorsen
+031772.html,[Rd] R-intro,31772,Kjetil Brinchmann Halvorsen
+031709.html,[Rd] R-2.0.2 soon?,31709, (Ted Harding)
+031654.html,[Rd] labels.lm (PR#7417),31654,Heather.Turner at warwick.ac.uk
+031611.html,[Rd] webpage link (to MacOSX check summaries) is broken (PR#7405),31611,Kurt Hornik
+031674.html,[Rd] fitting problems in coxph.fit,31674,Torsten Hothorn
+031629.html,[Rd] Recent acquisition equals twice the power.,31629,Kenneth Huynh
+031718.html,[Rd] Importing csv files,31718,Frank E Harrell Jr
+031723.html,[Rd] Importing csv files,31723,Frank E Harrell Jr
+031735.html,[Rd] R's IO speed,31735,Frank E Harrell Jr
+031643.html,[Rd] C access to R libraries,31643,Jul
+031685.html,"[Rd] limma, FDR, and p.adjust",31685,"Kimpel, Mark W"
+031687.html,"[Rd] RE: [BioC] limma, FDR, and p.adjust",31687,"Kimpel, Mark W"
+031582.html,[Rd] RCmdr on Linux with R 2.0.0 over VNC can't use GLX,31582,Bob Kinney
+031714.html,[Rd] help with creating package,31714,Teodor Krastev
+031771.html,[Rd] Rapport &#224; l'exp&#233;diteur (PR#7462),31771,LOTUSSMTP1/REDOUTE/FR at redoute.fr
+031656.html,[Rd] Multiple options for a package,31656,Eric Lecoutre
+031664.html,[Rd] Multiple options for a package,31664,Eric Lecoutre
+031715.html,[Rd] help with creating package,31715,"Liaw, Andy"
+031765.html,"[Rd] Windows vignettes, shQuote, texi2dvi",31765,"Liaw, Andy"
+031601.html,[Rd] pausing between plots - waiting for graphics input,31601,Uwe Ligges
+031692.html,"[Rd] R, fptex, MikTex",31692,Uwe Ligges
+031754.html,"[Rd] Windows vignettes, shQuote, texi2dvi",31754,Uwe Ligges
+031624.html,[Rd] Modulus Bug (PR#7409),31624,Thomas Lumley
+031758.html,"[Rd] is.vector(...) &lt;-&gt; is(..., &quot;vector&quot;)",31758,Thomas Lumley
+031760.html,[Rd] optim/vmmin and R_alloc,31760,Thomas Lumley
+031766.html,[Rd] optim/vmmin and R_alloc,31766,Thomas Lumley
+031581.html,[Rd] regex to match word boundaries,31581,Martin Maechler
+031604.html,[Rd] write.table inconsistency (PR#7403),31604,Martin Maechler
+031609.html,[Rd] Problems when printing *large* R objects,31609,Martin Maechler
+031633.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31633,Martin Maechler
+031638.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31638,Martin Maechler
+031653.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31653,Martin Maechler
+031734.html,[Rd] R's IO speed,31734,Martin Maechler
+031741.html,[Rd] sorry to have broken R-devel snapshot,31741,Martin Maechler
+031746.html,[Rd] Print()ing Latin 1 in console (PR#7452),31746,Arni Magnusson
+031608.html,[Rd] a better &quot;source(echo=TRUE)&quot;  {was &quot;....how to pause....&quot;},31608,Mark.Bravington at csiro.au
+031755.html,"[Rd] is.vector(...) &lt;-&gt; is(..., &quot;vector&quot;)",31755,Matthias.Kohl at uni-bayreuth.de
+031744.html,[Rd] --max-mem-size (PR#3562),31744,Mariana Mizutani
+031575.html,[Rd] \link{} to help pages in Debian,31575,Iago Mosqueira
+031577.html,[Rd] \link{} to help pages in Debian,31577,Iago Mosqueira
+031579.html,[Rd] \link{} to help pages in Debian,31579,Iago Mosqueira
+031583.html,[Rd] RCmdr on Linux with R 2.0.0 over VNC can't use GLX,31583,Duncan Murdoch
+031587.html,[Rd] Wishlist: simple legend options (PR#7400),31587,Duncan Murdoch
+031589.html,[Rd] Wishlist: simple legend options (PR#7400),31589,Duncan Murdoch
+031600.html,[Rd] write.table inconsistency (PR#7403),31600,Duncan Murdoch
+031612.html,[Rd] pausing between plots - waiting for graphics input,31612,Duncan Murdoch
+031628.html,[Rd] pausing between plots - waiting for graphics input,31628,Duncan Murdoch
+031634.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31634,Duncan Murdoch
+031644.html,[Rd] C access to R libraries,31644,Duncan Murdoch
+031695.html,[Rd] RE: [R] SAS or R software,31695,Paul Murrell
+031705.html,mono fonts (was RE: [Rd] RE: [R] SAS or R software),31705,Paul Murrell
+031650.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31650,Richard A. O'Keefe
+031591.html,[Rd] seq.Date requires by,31591,Vadim Ogranovich
+031594.html,[Rd] seq.Date requires by,31594,Vadim Ogranovich
+031636.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31636,Roger D. Peng
+031773.html,[Rd] R's IO speed,31773,Roger D. Peng
+031617.html,[Rd] Wishlist: heatmap/image legend (PR#7402),31617,Elizabeth Purdom
+031576.html,[Rd] \link{} to help pages in Debian,31576,Prof Brian Ripley
+031578.html,[Rd] \link{} to help pages in Debian,31578,Prof Brian Ripley
+031584.html,[Rd] RCmdr on Linux with R 2.0.0 over VNC can't use GLX,31584,Prof Brian Ripley
+031602.html,[Rd] Re: [R] Running R from CD?,31602,Prof Brian Ripley
+031606.html,[Rd] Re: [R] Running R from CD?,31606,Prof Brian Ripley
+031623.html,[Rd] Problem with read.xport() from foreigh package (PR#7389),31623,Prof Brian Ripley
+031632.html,[Rd] Broken Korean Language in New vesrion of R 2.0.1 (PR#7411),31632,Prof Brian Ripley
+031637.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31637,Prof Brian Ripley
+031639.html,[Rd] Re: [R] Is  k  equivalent to  k:k ?,31639,Prof Brian Ripley
+031649.html,[Rd] RE: [R] Testing for S4 objects,31649,Prof Brian Ripley
+031655.html,[Rd] labels.lm (PR#7417),31655,Prof Brian Ripley
+031663.html,[Rd] Multiple options for a package,31663,Prof Brian Ripley
+031665.html,[Rd] Multiple options for a package,31665,Prof Brian Ripley
+031673.html,[Rd] RE: Lattice update error (PR#7423),31673,Prof Brian Ripley
+031702.html,mono fonts (was RE: [Rd] RE: [R] SAS or R software),31702,Prof Brian Ripley
+031710.html,[Rd] R-2.0.2 soon?,31710,Prof Brian Ripley
+031712.html,[Rd] 64-bit R failed to compile some packages (PR#7440),31712,Prof Brian Ripley
+031721.html,[Rd] small problem with R CMD check,31721,Prof Brian Ripley
+031722.html,[Rd] Importing csv files,31722,Prof Brian Ripley
+031724.html,[Rd] Importing csv files,31724,Prof Brian Ripley
+031728.html,[Rd] Re: [R] tcltk problem,31728,Prof Brian Ripley
+031732.html,[Rd] Bug in miniR installation (PR#7448),31732,Prof Brian Ripley
+031733.html,[Rd] R's IO speed,31733,Prof Brian Ripley
+031738.html,[Rd] R's IO speed,31738,Prof Brian Ripley
+031745.html,[Rd] --max-mem-size (PR#3562),31745,Prof Brian Ripley
+031748.html,[Rd] help with Rcmd check,31748,Prof Brian Ripley
+031752.html,[Rd] Makefile vs Makevars vs configure,31752,Prof Brian Ripley
+031756.html,"[Rd] is.vector(...) &lt;-&gt; is(..., &quot;vector&quot;)",31756,Prof Brian Ripley
+031762.html,[Rd] optim/vmmin and R_alloc,31762,Prof Brian Ripley
+031626.html,[Rd] Modulus Bug (PR#7409),31626,Prof Brian D Ripley
+031668.html,"Hooks, docs [was [Rd] Multiple options for a package]",31668,Prof Brian D Ripley
+031620.html,[Rd] Modulus Bug (PR#7409),31620,Robert.McGehee at geodecapital.com
+031592.html,[Rd] seq.Date requires by,31592,Paul Roebuck
+031688.html,[Rd] R and Gnumeric?,31688,Marc Schwartz
+031693.html,[Rd] R and Gnumeric?,31693,Marc Schwartz
+031696.html,[Rd] R and Gnumeric?,31696,Marc Schwartz
+031697.html,[Rd] RE: [R] SAS or R software,31697,Marc Schwartz
+031700.html,[Rd] RE: [R] SAS or R software,31700,Marc Schwartz
+031701.html,[Rd] RE: [R] SAS or R software,31701,Marc Schwartz
+031727.html,[Rd] Re: [R] tcltk problem,31727,Marc Schwartz
+031729.html,[Rd] Re: [R] tcltk problem,31729,Marc Schwartz
+031686.html,"[Rd] [BioC] limma, FDR, and p.adjust",31686,Gordon K Smyth
+031707.html,[Rd] Startup problem in 2.0.1 with install to /opt/R (PR#7437),31707,Stephen.Harker at spme.monash.edu.au
+031666.html,"Hooks, docs [was [Rd] Multiple options for a package]",31666,Simon Urbanek
+031690.html,[Rd] R and Gnumeric?,31690,Simon Urbanek
+031753.html,[Rd] Makefile vs Makevars vs configure,31753,Simon Urbanek
+031615.html,[Rd] Wishlist: simple legend options (PR#7400),31615,"Warnes, Gregory R"
+031689.html,[Rd] RE: [R] SAS or R software,31689,"Warnes, Gregory R"
+031698.html,[Rd] RE: [R] SAS or R software,31698,"Warnes, Gregory R"
+031703.html,[Rd] RE: [R] SAS or R software,31703,"Warnes, Gregory R"
+031704.html,mono fonts (was RE: [Rd] RE: [R] SAS or R software),31704,"Warnes, Gregory R"
+031706.html,mono fonts (was RE: [Rd] RE: [R] SAS or R software),31706,"Warnes, Gregory R"
+031618.html,[Rd] Mail System Error - Undeliverable Mail (PR#7406),31618,admin at matchanalysis.com
+031739.html,[Rd] Print()ing Latin 1 in console (PR#7452),31739,arnima at u.washington.edu
+031667.html,[Rd] hist title paste problem (PR#7421),31667,b.rowlingson at lancaster.ac.uk
+031657.html,[Rd] R stat functions do not work as stated on the mannual (PR#7419),31657,casadoj at ecc.es
+031659.html,[Rd] Bug on log.p argument with all stat function (PR#7420),31659,casadoj at ecc.es
+031586.html,[Rd] Wishlist: simple legend options (PR#7400),31586,epurdom at stanford.edu
+031593.html,[Rd] Wishlist: heatmap/image legend (PR#7402),31593,epurdom at stanford.edu
+031627.html,[Rd] wishlist -- names gives slotnames (PR#7410),31627,epurdom at stanford.edu
+031642.html,[Rd] wishlist -- names gives slotnames (PR#7410),31642,epurdom at stanford.edu
+031605.html,[Rd] Nice christmas presents! Men's &amp; Ladies' Watches. Gift Boxes.,31605,forwarded at stoilow.imar.ro
+031672.html,[Rd] RE: Lattice update error (PR#7423),31672,gunter.berton at gene.com
+031716.html,[Rd] Ausente,31716,hteixeira
+031625.html,[Rd] webpage link (to MacOSX check summaries) is broken (PR#7405),31625,stefano iacus
+031725.html,[Rd] error in software calculation (PR#7444),31725,ismaeleciani at yahoo.it
+031662.html,[Rd] Bug on log.p argument with all stat function (PR#7420),31662,ligges at statistik.uni-dortmund.de
+031726.html,[Rd] error in software calculation (PR#7444),31726,ligges at statistik.uni-dortmund.de
+031731.html,[Rd] Bug in miniR installation (PR#7448),31731,luisfrank at arnet.com.ar
+031599.html,[Rd] write.table inconsistency (PR#7403),31599,maechler at stat.math.ethz.ch
+031631.html,[Rd] wishlist -- names gives slotnames (PR#7410),31631,maechler at stat.math.ethz.ch
+031595.html,[Rd] write.table inconsistency (PR#7403),31595,murdoch at stats.uwo.ca
+031630.html,[Rd] Broken Korean Language in New vesrion of R 2.0.1 (PR#7411),31630,poisson at dreamwiz.com
+031621.html,[Rd] Modulus Bug (PR#7409),31621,ripley at stats.ox.ac.uk
+031737.html,[Rd] Now you can be more popular with women,31737,reuben roberts
+031607.html,[Rd] webpage link (to MacOSX check summaries) is broken (PR#7405),31607,smyth at wehi.edu.au
+031619.html,[Rd] Free Seats from London Luton (PR#7408),31619,webster at ryanairmail.com
+031711.html,[Rd] 64-bit R failed to compile some packages (PR#7440),31711,yauv at ohsu.edu
+031675.html,[Rd] advice on F77_SUB and F77_CALL,31675,jing hua zhao

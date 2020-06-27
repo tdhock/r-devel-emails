@@ -1,0 +1,375 @@
+link,Subject,id,author
+034515.html,[Rd] .Call and Segmentation Fault,34515,Ricardo Luiz Andrade Abrantes
+034518.html,[Rd] .Call and Segmentation Fault,34518,Ricardo Luiz Andrade Abrantes
+034535.html,[Rd] .Call with C and Fortran together (PR#8122),34535,Ricardo Luiz Andrade Abrantes
+034698.html,[Rd] (no subject),34698,"Antonio, Fabio Di Narzo"
+034699.html,[Rd] using F95 code in package src (was: (no subject)),34699,"Antonio, Fabio Di Narzo"
+034636.html,[Rd] possible bug in model.matrix,34636,Whit Armstrong
+034483.html,[Rd] generic function S3 consistency warning advice,34483,Henrik Bengtsson
+034542.html,[Rd] Tracebacks with tryCatch() and withCallingHandlers()?,34542,Henrik Bengtsson
+034633.html,[Rd] NUMERIC_POINTER question,34633,Roger Bivand
+034808.html,[Rd] gfortran Makefile for windows,34808,Joel Bremson
+034816.html,[Rd] looks in liblapack.a not liblapack.so,34816,Tom 'spot' Callaway
+034558.html,[Rd] nls fails to return correlation matrix (PR#8127),34558,Carsten.Urbach at physik.fu-berlin.de
+034466.html,[Rd] Build Portland Group Compiler,34466,Peter Dalgaard
+034475.html,[Rd] R 2.2.0 slated for October 6,34475,Peter Dalgaard
+034502.html,[Rd] 64 bit R for Windows,34502,Peter Dalgaard
+034506.html,[Rd] 64 bit R for Windows,34506,Peter Dalgaard
+034516.html,[Rd] .Call and Segmentation Fault,34516,Peter Dalgaard
+034555.html,[Rd] C macros and Makevars/package building,34555,Peter Dalgaard
+034560.html,[Rd] nls fails to return correlation matrix (PR#8127),34560,Peter Dalgaard
+034637.html,[Rd] possible bug in model.matrix,34637,Peter Dalgaard
+034692.html,[Rd] as.data.frame segfaults on large lists (PR#8141),34692,Peter Dalgaard
+034716.html,[Rd] looks in liblapack.a not liblapack.so,34716,Peter Dalgaard
+034750.html,[Rd] looks in liblapack.a not liblapack.so,34750,Peter Dalgaard
+034753.html,[Rd] looks in liblapack.a not liblapack.so,34753,Peter Dalgaard
+034786.html,[Rd] Assigning a zero length vector to a list (PR#8157),34786,Peter Dalgaard
+034813.html,[Rd] looks in liblapack.a not liblapack.so,34813,Peter Dalgaard
+034834.html,[Rd] by() processing on a dataframe,34834,Peter Dalgaard
+034788.html,[Rd] is.Date function question,34788,Charles Dupont
+034545.html,[Rd] Month recognition issue,34545,Sebastien Durand
+034477.html,[Rd] R CMD BATCH on scripts without trailing newline,34477,Stephen Eglen
+034479.html,[Rd] R CMD BATCH on scripts without trailing newline,34479,Stephen Eglen
+034500.html,[Rd] R CMD check warning message &quot;print.check_code_usage_in_package&quot;,34500,Seth Falcon
+034508.html,[Rd] R CMD check warning message	&quot;print.check_code_usage_in_package&quot;,34508,Seth Falcon
+034550.html,[Rd] Install packages to non-default lib on Windows,34550,Seth Falcon
+034574.html,[Rd] two almost identical packages: best practice,34574,Seth Falcon
+034575.html,[Rd] Install packages to non-default lib on Windows,34575,Seth Falcon
+034602.html,[Rd] Issue tracking in packages,34602,Seth Falcon
+034737.html,[Rd] Shy Suggestion?,34737,Seth Falcon
+034742.html,[Rd] indicating progress in RGui from a c function,34742,Seth Falcon
+034765.html,[Rd] [R] warning.expression?,34765,Seth Falcon
+034824.html,[Rd] Does the &quot;installWithVers=TRUE&quot; setting for the	install.packages/update.packages flag updates?,34824,Seth Falcon
+034638.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34638,John Fox
+034645.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34645,John Fox
+034646.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34646,John Fox
+034661.html,[Rd] Rprofile not executed in R 2.2.0 alpha for Windows,34661,John Fox
+034666.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34666,John Fox
+034706.html,[Rd] automatically adding smooth to	plot:options(&quot;plot.add.smooth&quot;),34706,John Fox
+034779.html,"[Rd] plot, spineplot, boxplot in R 2.2.0",34779,John Fox
+034588.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34588,Friedrich.Leisch at tuwien.ac.at
+034614.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34614,Friedrich.Leisch at tuwien.ac.at
+034625.html,"[Rd] ptr_R_EditFile, R_WriteConsole, and R_ShowMessage",34625,Thomas Friedrichsmeier
+034626.html,"[Rd] ptr_R_EditFile, R_WriteConsole, and R_ShowMessage",34626,Thomas Friedrichsmeier
+034736.html,[Rd] Shy Suggestion?,34736,Robert Gentleman
+034497.html,[Rd] lattice and for loop,34497,Charles Geyer
+034688.html,[Rd] looks in liblapack.a not liblapack.so,34688,Charles Geyer
+034746.html,[Rd] looks in liblapack.a not liblapack.so,34746,Charles Geyer
+034759.html,[Rd] looks in liblapack.a not liblapack.so,34759,Charles Geyer
+034566.html,[Rd] A question on R memory management in .Fortran() calls under	Windows,34566,Simone Giannerini
+034619.html,[Rd] A question on R memory management in .Fortran() calls	under Windows,34619,Simone Giannerini
+034622.html,[Rd] A question on R memory management in .Fortran() calls	under Windows,34622,Simone Giannerini
+034623.html,[Rd] A question on R memory management in .Fortran() calls	under Windows,34623,Simone Giannerini
+034651.html,[Rd] simulate in stats,34651,Paul Gilbert
+034652.html,[Rd] simulate in stats,34652,Paul Gilbert
+034653.html,[Rd] simulate in stats,34653,Paul Gilbert
+034656.html,[Rd] loadings()   generic in R alpha,34656,Paul Gilbert
+034657.html,[Rd] acf()  generic in R alpha,34657,Paul Gilbert
+034670.html,[Rd] loadings()   generic in R alpha,34670,Paul Gilbert
+034673.html,[Rd] loadings()   generic in R alpha,34673,Paul Gilbert
+034674.html,[Rd] loadings()   generic in R alpha,34674,Paul Gilbert
+034710.html,[Rd] automatically adding smooth to plot:	options(&quot;plot.add.smooth&quot;),34710,Paul Gilbert
+034715.html,[Rd] automatically adding smooth to	plot:	options(&quot;plot.add.smooth&quot;),34715,Paul Gilbert
+034738.html,[Rd] Shy Suggestion?,34738,Paul Gilbert
+034822.html,[Rd] Summary of translation status,34822,Philippe Grosjean
+034507.html,[Rd] R CMD check and interfacing packages,34507,Gabor Grothendieck
+034510.html,[Rd] R CMD check and interfacing packages,34510,Gabor Grothendieck
+034530.html,[Rd] win.packages.html not found,34530,Gabor Grothendieck
+034531.html,[Rd] win.packages.html not found,34531,Gabor Grothendieck
+034532.html,[Rd] Problem in R 2.2.0 with environments and [,34532,Gabor Grothendieck
+034534.html,[Rd] Problem in R 2.2.0 with environments and [,34534,Gabor Grothendieck
+034539.html,[Rd] system on windows vs. unix,34539,Gabor Grothendieck
+034543.html,"[Rd] CRAN, Bioconductor and ctv package dependency questions",34543,Gabor Grothendieck
+034564.html,[Rd] two almost identical packages: best practice,34564,Gabor Grothendieck
+034567.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss,	package foreign?]",34567,Gabor Grothendieck
+034569.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34569,Gabor Grothendieck
+034573.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34573,Gabor Grothendieck
+034577.html,[Rd] MikTeX will be assumed in R 2.2.0 in Windows,34577,Gabor Grothendieck
+034579.html,[Rd] \dontshow,34579,Gabor Grothendieck
+034580.html,[Rd] R.version.string (Re: MikTeX will be assumed in R 2.2.0 in	Windows),34580,Gabor Grothendieck
+034581.html,[Rd] Copying libraries from one version of R to another (was Re:	MikTeX will be assumed in R 2.2.0 in Windows),34581,Gabor Grothendieck
+034582.html,[Rd] \dontshow,34582,Gabor Grothendieck
+034591.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34591,Gabor Grothendieck
+034592.html,[Rd] \dontshow,34592,Gabor Grothendieck
+034593.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34593,Gabor Grothendieck
+034594.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34594,Gabor Grothendieck
+034595.html,[Rd] \dontshow,34595,Gabor Grothendieck
+034596.html,[Rd] R.version.string (Re: MikTeX will be assumed in R 2.2.0 in	Windows),34596,Gabor Grothendieck
+034600.html,"[Rd] Issue tracking in packages [was: Re: [R] change in,	read.spss, package foreign?]",34600,Gabor Grothendieck
+034609.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34609,Gabor Grothendieck
+034612.html,"[Rd] Issue tracking in packages [was: Re: [R] change in	read.spss, package foreign?]",34612,Gabor Grothendieck
+034630.html,[Rd] Copying libraries from one version of R to another (was	Re: MikTeX will be assumed in R 2.2.0 in Windows),34630,Gabor Grothendieck
+034668.html,[Rd] Month recognition issue,34668,Gabor Grothendieck
+034696.html,[Rd] List of languages supported,34696,Gabor Grothendieck
+034701.html,[Rd] Contacting RDCOMClient Maintainer,34701,Gabor Grothendieck
+034734.html,[Rd] Shy Suggestion?,34734,Gabor Grothendieck
+034755.html,[Rd] Wishlist - access non-text from clipboard in Windows,34755,Gabor Grothendieck
+034757.html,[Rd] Wishlist - access non-text from clipboard in Windows,34757,Gabor Grothendieck
+034760.html,[Rd] Wishlist - access non-text from clipboard in Windows,34760,Gabor Grothendieck
+034762.html,[Rd] Wishlist - access non-text from clipboard in Windows,34762,Gabor Grothendieck
+034775.html,"[Rd] plot, spineplot, boxplot in R 2.2.0",34775,Gabor Grothendieck
+034778.html,"[Rd] plot, spineplot, boxplot in R 2.2.0",34778,Gabor Grothendieck
+034777.html,"[Rd] plot, spineplot, boxplot in R 2.2.0",34777,Gabor Grothendieck
+034789.html,[Rd] is.Date function question,34789,Gabor Grothendieck
+034802.html,[Rd] R 2.2.0 tooltips,34802,Gabor Grothendieck
+034818.html,[Rd] Summary of translation status,34818,Gabor Grothendieck
+034835.html,[Rd] by() processing on a dataframe,34835,Gabor Grothendieck
+034839.html,[Rd] by() processing on a dataframe,34839,Gabor Grothendieck
+034551.html,[Rd] Wishlist: write.delim(),34551,Douglas Grove
+034565.html,[Rd] Wishlist: write.delim(),34565,Douglas Grove
+034523.html,[Rd] RODBC and 64 bit,34523,Florian Hahne
+034525.html,[Rd] RODBC and 64 bit,34525,Florian Hahne
+034482.html,[Rd] generic function S3 consistency warning advice,34482,Robin Hankin
+034563.html,[Rd] two almost identical packages: best practice,34563,Robin Hankin
+034554.html,[Rd] C macros and Makevars/package building,34554,Kasper Daniel Hansen
+034658.html,[Rd] simulate in stats,34658,Kasper Daniel Hansen
+034676.html,[Rd] Rd and guillemots,34676, (Ted Harding)
+034677.html,[Rd] Rd and guillemots,34677, (Ted Harding)
+034680.html,[Rd] Typo [Was:  Rd and guillemots],34680, (Ted Harding)
+034685.html,[Rd] Typo [Was:  Rd and guillemots],34685, (Ted Harding)
+034814.html,[Rd] Future plans for raw data type?,34814,David Hinds
+034490.html,[Rd] Question about package's DESCRIPTION/Depends field,34490,Kurt Hornik
+034503.html,[Rd] R CMD check warning message	&quot;print.check_code_usage_in_package&quot;,34503,Kurt Hornik
+034546.html,[Rd] Tracebacks with tryCatch() and withCallingHandlers()?,34546,Kurt Hornik
+034547.html,"[Rd] CRAN, Bioconductor and ctv package dependency questions",34547,Kurt Hornik
+034549.html,"[Rd] CRAN, Bioconductor and ctv package dependency questions",34549,Kurt Hornik
+034562.html,[Rd] C macros and Makevars/package building,34562,Kurt Hornik
+034589.html,[Rd] \dontshow,34589,Kurt Hornik
+034590.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34590,Kurt Hornik
+034702.html,[Rd] Contacting RDCOMClient Maintainer,34702,Kurt Hornik
+034743.html,[Rd] Shy Suggestion?,34743,Kurt Hornik
+034481.html,[Rd] strwrap,34481,J. Hosking
+034627.html,[Rd] R news: Call for Papers,34627,Torsten Hothorn
+034635.html,[Rd] NUMERIC_POINTER question,34635,"Huntsinger, Reid"
+034585.html,[Rd] FreeBSD 7.0-CURRENT and R-2.2.0 alpha,34585,Rainer Hurling
+034774.html,[Rd] FreeBSD 7.0-CURRENT and R-2.2.0 alpha,34774,Rainer Hurling
+034783.html,[Rd] FreeBSD 7.0-CURRENT and R-2.2.0 alpha,34783,Rainer Hurling
+034598.html,"[Rd] Issue tracking in packages [was: Re: [R] change in, read.spss, package foreign?]",34598,Frank E Harrell Jr
+034607.html,"[Rd] Issue tracking in packages [was: Re: [R] change in, read.spss, package foreign?]",34607,Frank E Harrell Jr
+034480.html,[Rd] R CMD BATCH on scripts without trailing newline,34480,Jan T. Kim
+034804.html,[Rd] RODBC and utils:object.size,34804,Leif Kirschenbaum
+034465.html,[Rd] Build Portland Group Compiler,34465,Jennifer Lai
+034468.html,[Rd] Build Portland Group Compiler,34468,Jennifer Lai
+034496.html,[Rd] Build R with ATLAS,34496,Jennifer Lai
+034538.html,[Rd] Build R with AMD pgi compiled ACML library,34538,Jennifer Lai
+034776.html,[Rd] complex.h in R,34776,Jennifer Lai
+034793.html,[Rd] complex.h in R,34793,Jennifer Lai
+034795.html,[Rd] complex.h in R,34795,Jennifer Lai
+034616.html,[Rd] dyn.load error -- undefined symbol: ...,34616,Duncan Temple Lang
+034806.html,[Rd] Help: A application error and failed just-in-debugging.,34806,"Li, Jia"
+034541.html,[Rd] Build R with AMD pgi compiled ACML library,34541,"Liaw, Andy"
+034708.html,[Rd] Lists and data frames (PR#8143),34708,"Liaw, Andy"
+034766.html,[Rd] undocumented objects in a package,34766,"Liaw, Andy"
+034488.html,[Rd] error in apply help file? (PR#8118),34488,Uwe Ligges
+034509.html,[Rd] R CMD check and interfacing packages,34509,Uwe Ligges
+034556.html,[Rd] Install packages to non-default lib on Windows,34556,Uwe Ligges
+034584.html,[Rd] \dontshow,34584,Uwe Ligges
+034597.html,[Rd] R.version.string (Re: MikTeX will be assumed in R 2.2.0 in	Windows),34597,Uwe Ligges
+034599.html,"[Rd] Issue tracking in packages [was: Re: [R] change in, read.spss, package foreign?]",34599,Uwe Ligges
+034624.html,[Rd] contributed Windows binary packages for R-2.2.0 alpha,34624,Uwe Ligges
+034644.html,"[Rd] as.Date() , feature or bug?",34644,Uwe Ligges
+034650.html,"[Rd] as.Date() , feature or bug?",34650,Uwe Ligges
+034697.html,[Rd] List of languages supported,34697,Uwe Ligges
+034714.html,[Rd] Lists and data frames (PR#8143),34714,Uwe Ligges
+034767.html,[Rd] undocumented objects in a package,34767,Uwe Ligges
+034827.html,[Rd] bug in gsub with perl=TRUE (PR#8164),34827,Uwe Ligges
+034467.html,[Rd] 64 bit R for Windows,34467,Milton Lopez
+034499.html,[Rd] 64 bit R for Windows,34499,Milton Lopez
+034505.html,[Rd] 64 bit R for Windows,34505,Thomas Lumley
+034526.html,[Rd] .Call with C and Fortran together (PR#8122),34526,Thomas Lumley
+034568.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34568,Thomas Lumley
+034572.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34572,Thomas Lumley
+034603.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34603,Thomas Lumley
+034604.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34604,Thomas Lumley
+034605.html,"[Rd] Issue tracking in packages [was: Re: [R] change in, read.spss, package foreign?]",34605,Thomas Lumley
+034606.html,[Rd] Issue tracking in packages,34606,Thomas Lumley
+034611.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34611,Thomas Lumley
+034681.html,[Rd] Typo [Was:  Rd and guillemots],34681,Thomas Lumley
+034682.html,[Rd] Typo [Was:  Rd and guillemots],34682,Thomas Lumley
+034728.html,[Rd] as.data.frame segfaults on large lists (PR#8141),34728,Thomas Lumley
+034830.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34830,Thomas Lumley
+034772.html,[Rd] R's parsing of command line arguments using commandArgs(),34772,Marc Schwartz (via MN)
+034790.html,[Rd] R's parsing of command line arguments using commandArgs(),34790,Marc Schwartz (via MN)
+034797.html,[Rd] R's parsing of command line arguments using commandArgs(),34797,Marc Schwartz (via MN)
+034836.html,[Rd] by() processing on a dataframe,34836,Marc Schwartz (via MN)
+034478.html,[Rd] R CMD BATCH on scripts without trailing newline,34478,Martin Maechler
+034504.html,[Rd] 64 bit R for Windows,34504,Martin Maechler
+034511.html,[Rd] R CMD BATCH on scripts without trailing newline,34511,Martin Maechler
+034540.html,[Rd] system on windows vs. unix,34540,Martin Maechler
+034559.html,[Rd] Wishlist: write.delim(),34559,Martin Maechler
+034608.html,"[Rd] Issue tracking in packages [was: Re: [R] change in read.spss, package foreign?]",34608,Martin Maechler
+034628.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34628,Martin Maechler
+034642.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34642,Martin Maechler
+034687.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34687,Martin Maechler
+034686.html,[Rd] loadings()   generic in R alpha,34686,Martin Maechler
+034704.html,[Rd] automatically adding smooth to plot: options(&quot;plot.add.smooth&quot;),34704,Martin Maechler
+034713.html,[Rd] automatically adding smooth to	plot:	options(&quot;plot.add.smooth&quot;),34713,Martin Maechler
+034823.html,[Rd] simulate in stats,34823,Martin Maechler
+034640.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34640,John Maindonald
+034689.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34689,John Maindonald
+034660.html,[Rd] Rd and guillemots,34660,Mark.Bravington at csiro.au
+034739.html,[Rd] looks in liblapack.a not liblapack.so,34739,Jos&#233; Matos
+034768.html,[Rd] looks in liblapack.a not liblapack.so,34768,Jos&#233; Matos
+034769.html,[Rd] looks in liblapack.a not liblapack.so,34769,Jos&#233; Matos
+034770.html,[Rd] looks in liblapack.a not liblapack.so,34770,Jos&#233; Matos
+034812.html,[Rd] looks in liblapack.a not liblapack.so,34812,Jos&#233; Matos
+034815.html,[Rd] looks in liblapack.a not liblapack.so,34815,Jos&#233; Matos
+034470.html,[Rd] 64 bit R for Windows,34470,Duncan Murdoch
+034472.html,[Rd] RFC: &quot;loop connections&quot;,34472,Duncan Murdoch
+034476.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34476,Duncan Murdoch
+034492.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34492,Duncan Murdoch
+034495.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34495,Duncan Murdoch
+034501.html,[Rd] 64 bit R for Windows,34501,Duncan Murdoch
+034536.html,[Rd] bash help please,34536,Duncan Murdoch
+034537.html,[Rd] bash help please,34537,Duncan Murdoch
+034552.html,[Rd] Install packages to non-default lib on Windows,34552,Duncan Murdoch
+034561.html,[Rd] [R] Debugging R/Fortran in Windows,34561,Duncan Murdoch
+034570.html,[Rd] A question on R memory management in .Fortran() calls under Windows,34570,Duncan Murdoch
+034576.html,[Rd] MikTeX will be assumed in R 2.2.0 in Windows,34576,Duncan Murdoch
+034578.html,[Rd] MikTeX will be assumed in R 2.2.0 in Windows,34578,Duncan Murdoch
+034586.html,[Rd] R.version.string (Re: MikTeX will be assumed in R 2.2.0 in Windows),34586,Duncan Murdoch
+034587.html,[Rd] [R] Debugging R/Fortran in Windows,34587,Duncan Murdoch
+034610.html,[Rd] R.version.string (Re: MikTeX will be assumed in R 2.2.0 in Windows),34610,Duncan Murdoch
+034620.html,[Rd] A question on R memory management in .Fortran() calls under Windows,34620,Duncan Murdoch
+034629.html,[Rd] Copying libraries from one version of R to another (was Re: MikTeX will be assumed in R 2.2.0 in Windows),34629,Duncan Murdoch
+034632.html,[Rd] Copying libraries from one version of R to another (was Re: MikTeX will be assumed in R 2.2.0 in Windows),34632,Duncan Murdoch
+034643.html,[Rd] R CMD check,34643,Duncan Murdoch
+034675.html,[Rd] Rd and guillemots,34675,Duncan Murdoch
+034679.html,[Rd] Rd and guillemots,34679,Duncan Murdoch
+034705.html,[Rd] automatically adding smooth to plot:	options(&quot;plot.add.smooth&quot;),34705,Duncan Murdoch
+034712.html,[Rd] automatically adding smooth to	plot:	options(&quot;plot.add.smooth&quot;),34712,Duncan Murdoch
+034756.html,[Rd] Wishlist - access non-text from clipboard in Windows,34756,Duncan Murdoch
+034758.html,[Rd] Wishlist - access non-text from clipboard in Windows,34758,Duncan Murdoch
+034761.html,[Rd] Wishlist - access non-text from clipboard in Windows,34761,Duncan Murdoch
+034764.html,[Rd] [R] warning.expression?,34764,Duncan Murdoch
+034785.html,[Rd] Assigning a zero length vector to a list (PR#8157),34785,Duncan Murdoch
+034798.html,[Rd] Assigning a zero length vector to a list (PR#8157),34798,Duncan Murdoch
+034801.html,[Rd] constrOptim (PR#8158),34801,Duncan Murdoch
+034829.html,[Rd] Summary of translation status,34829,Duncan Murdoch
+034832.html,[Rd] by() processing on a dataframe,34832,Duncan Murdoch
+034837.html,[Rd] by() processing on a dataframe,34837,Duncan Murdoch
+034838.html,[Rd] by() processing on a dataframe,34838,Duncan Murdoch
+034513.html,[Rd] tapply,34513,Erich Neuwirth
+034828.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34828,&quot;Jens Oehlschl&#228;gel&quot;
+034727.html,[Rd] Shy Suggestion?,34727,Jari Oksanen
+034731.html,[Rd] Shy Suggestion?,34731,Jari Oksanen
+034748.html,[Rd] Shy Suggestion?,34748,Jari Oksanen
+034740.html,[Rd] indicating progress in RGui from a c function,34740,Chris Paulse
+034639.html,"[Rd] as.Date() , feature or bug?",34639,Bo Peng
+034648.html,"[Rd] as.Date() , feature or bug?",34648,Bo Peng
+034659.html,"[Rd] as.Date() , feature or bug?",34659,Bo Peng
+034498.html,[Rd] lattice and for loop,34498,Roger D. Peng
+034730.html,[Rd] Shy Suggestion?,34730,Roger D. Peng
+034733.html,[Rd] Shy Suggestion?,34733,Roger D. Peng
+034703.html,[Rd] looks in liblapack.a not liblapack.so,34703,Martyn Plummer
+034717.html,[Rd] looks in liblapack.a not liblapack.so,34717,Martyn Plummer
+034693.html,[Rd] as.data.frame segfaults on large lists (PR#8141),34693,Ulrich Poetter
+034749.html,[Rd] Error sending message [1127321785032.6308.ae2d3.www4] from	[se-ed.net],34749,se-ed.net PostMaster
+034826.html,[Rd] bug in gsub with perl=TRUE (PR#8164),34826,Richard.Mott at well.ox.ac.uk
+034613.html,[Rd] FreeBSD 7.0-CURRENT and R-2.2.0 alpha,34613,Prof Brian Ripley
+034654.html,"[Rd] as.Date() , feature or bug?",34654,Prof Brian Ripley
+034662.html,[Rd] Rprofile not executed in R 2.2.0 alpha for Windows,34662,Prof Brian Ripley
+034663.html,[Rd] loadings()   generic in R alpha,34663,Prof Brian Ripley
+034667.html,[Rd] Month recognition issue,34667,Prof Brian Ripley
+034669.html,[Rd] MikTeX will be assumed in R 2.2.0 in Windows,34669,Prof Brian Ripley
+034678.html,[Rd] Rd and guillemots,34678,Prof Brian Ripley
+034683.html,[Rd] Typo [Was:  Rd and guillemots],34683,Prof Brian Ripley
+034700.html,[Rd] using F95 code in package src (was: (no subject)),34700,Prof Brian Ripley
+034724.html,[Rd] (PR#8144) Error report upon using the help.search( )	command,34724,Prof Brian Ripley
+034726.html,[Rd] configuration and installation of R packages with C/C++ library dependencies.,34726,Prof Brian Ripley
+034732.html,[Rd] Shy Suggestion?,34732,Prof Brian Ripley
+034741.html,[Rd] indicating progress in RGui from a c function,34741,Prof Brian Ripley
+034745.html,[Rd] coplot using Date object (PR#8147),34745,Prof Brian Ripley
+034751.html,[Rd] looks in liblapack.a not liblapack.so,34751,Prof Brian Ripley
+034752.html,[Rd] looks in liblapack.a not liblapack.so,34752,Prof Brian Ripley
+034782.html,[Rd] complex.h in R,34782,Prof Brian Ripley
+034791.html,[Rd] is.Date function question,34791,Prof Brian Ripley
+034794.html,[Rd] complex.h in R,34794,Prof Brian Ripley
+034796.html,[Rd] complex.h in R,34796,Prof Brian Ripley
+034809.html,[Rd] gfortran Makefile for windows,34809,Prof Brian Ripley
+034810.html,[Rd] Future plans for raw data type?,34810,Prof Brian Ripley
+034811.html,[Rd] gfortran Makefile for windows,34811,Prof Brian Ripley
+034672.html,[Rd] loadings()   generic in R alpha,34672,Prof Brian D Ripley
+034792.html,[Rd] R's parsing of command line arguments using commandArgs(),34792,Prof Brian D Ripley
+034821.html,[Rd] Summary of translation status,34821,Fernando Henrique Ferraz P. da Rosa
+034817.html,[Rd] Summary of translation status,34817,Fernando Henrique Ferraz P. da Rosa
+034819.html,[Rd] Summary of translation status,34819,Fernando Henrique Ferraz P. da Rosa
+034807.html,[Rd] Make test fails in d-p-q-r-tests...,34807,Jeff Ross
+034820.html,[Rd] Does the &quot;installWithVers=TRUE&quot; setting for the	install.packages/update.packages flag updates?,34820,A.J. Rossini
+034825.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages() badly?,34825,A.J. Rossini
+034655.html,"[Rd] as.Date() , feature or bug?",34655,Barry Rowlingson
+034544.html,[Rd] Fwd: segfault,34544,Deepayan Sarkar
+034781.html,"[Rd] plot, spineplot, boxplot in R 2.2.0",34781,Marc Schwartz
+034780.html,"[Rd] plot, spineplot, boxplot in R 2.2.0",34780,Marc Schwartz
+034671.html,[Rd] loadings()   generic in R alpha,34671,Gavin Simpson
+034711.html,[Rd] Lists and data frames (PR#8143),34711,Gavin Simpson
+034718.html,[Rd] Lists and data frames (PR#8143),34718,Gavin Simpson
+034719.html,[Rd] looks in liblapack.a not liblapack.so,34719,Gavin Simpson
+034721.html,[Rd] [R] how to extract the column name or value from the numerical value of the matrix,34721,Greg Snow
+034664.html,[Rd] plot(&lt;lm&gt;): new behavior in R-2.2.0 alpha,34664,Werner Stahel
+034471.html,[Rd] 64 bit R for Windows,34471,Luke Tierney
+034491.html,[Rd] Bug in copying of S4 objects (PR#8112),34491,Luke Tierney
+034493.html,[Rd] Bug in copying of S4 objects (PR#8112),34493,Luke Tierney
+034519.html,[Rd] A memory management question,34519,Luke Tierney
+034520.html,[Rd] Writing R-extensions,34520,Luke Tierney
+034524.html,[Rd] A memory management question,34524,Luke Tierney
+034528.html,[Rd] A memory management question,34528,Luke Tierney
+034529.html,[Rd] Writing R-extensions,34529,Luke Tierney
+034747.html,[Rd] looks in liblapack.a not liblapack.so,34747,Luke Tierney
+034763.html,[Rd] looks in liblapack.a not liblapack.so,34763,Luke Tierney
+034521.html,[Rd] Writing R-extensions,34521,Berwin A Turlach
+034489.html,[Rd] Question about package's DESCRIPTION/Depends field,34489,"Tuszynski, Jaroslaw W."
+034571.html,[Rd] A question on R memory management in .Fortran() calls	under Windows,34571,Simon Urbanek
+034621.html,[Rd] A question on R memory management in .Fortran() calls	under Windows,34621,Simon Urbanek
+034634.html,[Rd] NUMERIC_POINTER question,34634,Simon Urbanek
+034486.html,[Rd] R CMD check example problem (PR#8113),34486,"Warnes, Gregory R"
+034583.html,[Rd] [R] Debugging R/Fortran in Windows,34583,James Wettenhall
+034601.html,[Rd] [R] Debugging R/Fortran in Windows,34601,James Wettenhall
+034649.html,[Rd] NUMERIC_POINTER question,34649,Witold Eryk Wolski
+034725.html,[Rd] configuration and installation of R packages with C/C++	library dependencies.,34725,Witold Eryk Wolski
+034831.html,[Rd] Compiling R on OpenSolaris,34831,Vincent Yau
+034548.html,"[Rd] CRAN, Bioconductor and ctv package dependency questions",34548,Achim Zeileis
+034735.html,[Rd] Shy Suggestion?,34735,Achim Zeileis
+034771.html,[Rd] reshape direction=&quot;long&quot; does not drop temporary ID (PR#8152),34771,aniko.szabo at hci.utah.edu
+034773.html,[Rd] bxp.Rd typo (PR#8153),34773,arnima at u.washington.edu
+034720.html,[Rd] how to extract the column name or value from the numerical	value of the matrix,34720,shanmuha boopathy
+034690.html,[Rd] Be given a significant markdown on your RX-Meds (PR#8140),34690,briaskan at boafans.com
+034469.html,[Rd] RFC: &quot;loop connections&quot;,34469,dhinds at sonic.net
+034473.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34473,dhinds at sonic.net
+034487.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34487,dhinds at sonic.net
+034494.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34494,dhinds at sonic.net
+034512.html,[Rd] RFC: rawConnection (was &quot;loop connections&quot;),34512,dhinds at sonic.net
+034514.html,[Rd] A memory management question,34514,dhinds at sonic.net
+034522.html,[Rd] A memory management question,34522,dhinds at sonic.net
+034527.html,[Rd] A memory management question,34527,dhinds at sonic.net
+034533.html,[Rd] A memory management question,34533,dhinds at sonic.net
+034695.html,[Rd] Updated rawConnection() patch,34695,dhinds at sonic.net
+034805.html,[Rd] Future plans for raw data type?,34805,dhinds at sonic.net
+034617.html,[Rd] chron on windows (PR#8130),34617,dragan_sestovic at yahoo.com
+034707.html,[Rd] Lists and data frames (PR#8143),34707,fwagner at fh-lausitz.de
+034485.html,[Rd] error in apply help file? (PR#8118),34485,gunter.berton at gene.com
+034800.html,[Rd] constrOptim (PR#8158),34800,hbren at stat.tamu.edu
+034784.html,[Rd] Assigning a zero length vector to a list (PR#8157),34784,jussi.jousimo at ktl.fi
+034553.html,[Rd] Rgui error (PR#8126),34553,khawsith at maths.curtin.edu.au
+034474.html,[Rd] whislist (PR#8117),34474,kkrueger at einthal.de
+034484.html,[Rd] R CMD check example problem (PR#8113),34484,ligges at statistik.uni-dortmund.de
+034557.html,[Rd] Rgui error (PR#8126),34557,ligges at statistik.uni-dortmund.de
+034618.html,[Rd] chron on windows (PR#8130),34618,ligges at statistik.uni-dortmund.de
+034709.html,[Rd] Lists and data frames (PR#8143),34709,ligges at statistik.uni-dortmund.de
+034723.html,[Rd] Error report upon using the help.search( ) command	(PR#8144),34723,maechler at stat.math.ethz.ch
+034799.html,[Rd] Assigning a zero length vector to a list (PR#8157),34799,murdoch at stats.uwo.ca
+034803.html,[Rd] constrOptim (PR#8158),34803,murdoch at stats.uwo.ca
+034744.html,[Rd] coplot using Date object (PR#8147),34744,mwtoews at sfu.ca
+034615.html,[Rd] dyn.load error -- undefined symbol: ...,34615,nwew
+034631.html,[Rd] NUMERIC_POINTER question,34631,nwew
+034787.html,[Rd] Assigning a zero length vector to a list (PR#8157),34787,p.dalgaard at biostat.ku.dk
+034722.html,[Rd] Error report upon using the help.search( ) command (PR#8144),34722,paltr at bio.uio.no
+034517.html,[Rd] .Call with C and Fortran together (PR#8122),34517,rabrantes82 at gmail.com
+034665.html,[Rd] incomplete make clean for grDevices ( Windows only) (PR#8137),34665,thomas.petzoldt at tu-dresden.de
+034729.html,[Rd] as.data.frame segfaults on large lists (PR#8141),34729,tlumley at u.washington.edu
+034754.html,[Rd] as.data.frame segfaults on large lists (PR#8141),34754,tlumley at u.washington.edu
+034691.html,[Rd] as.data.frame segfaults on large lists (PR#8141),34691,ulrich.poetter at ruhr-uni-bochum.de
+034694.html,[Rd] Receive a significant discount on your medications (PR#8142),34694,waldo at parspage.com
+034833.html,[Rd] by() processing on a dataframe,34833,hadley wickham
+034641.html,[Rd] R CMD check,34641,jing hua zhao
+034647.html,[Rd] R CMD check,34647,jing hua zhao

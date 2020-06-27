@@ -1,0 +1,57 @@
+link,Subject,id,author
+018148.html,R-tk mailing list,18148,Peter Dalgaard BSA
+018185.html,development mda package,18185,Peter Dalgaard BSA
+018190.html,R-0.61.1 compiled with egcs-mingw32,18190,Peter Dalgaard BSA
+018192.html,R-0.61.1 compiled with egcs-mingw32,18192,Peter Dalgaard BSA
+018195.html,R-0.61.1 compiled with egcs-mingw32,18195,Peter Dalgaard BSA
+018197.html,Expressions and such,18197,Peter Dalgaard BSA
+018198.html,R-0.61.1 compiled with egcs-mingw32,18198,Peter Dalgaard BSA
+018200.html,R-beta: exponentiation continued,18200,Peter Dalgaard BSA
+018202.html,Warning: ignored non function &quot;scale&quot;,18202,Peter Dalgaard BSA
+018158.html,f2c,18158,Douglas Bates
+018174.html,R-beta: spline problems(?),18174,Douglas Bates
+018196.html,R-beta: SEs for one-param MLE in R?,18196,Douglas Bates
+018162.html,R-beta: Bug in dhyper (and phyper) (fwd),18162,Goran Brostrom
+018166.html,plogis bug,18166,Goran Brostrom
+018170.html,compiling Snapshots under RedHat4.2,18170,"Buyukisik, Osman (GEAE)"
+018191.html,R-0.61.1 compiled with egcs-mingw32,18191,Robert Gentleman
+018154.html,prcomp,18154,Paul Gilbert
+018156.html,f2c,18156,Paul Gilbert
+018199.html,R-beta: exponentiation continued,18199,Paul Gilbert
+018201.html,Warning: ignored non function &quot;scale&quot;,18201,Paul Gilbert
+018203.html,princomp,18203,Paul Gilbert
+018181.html,0-extent matrices?,18181,Kurt Hornik
+018153.html,attributes now inherited,18153,Ross Ihaka
+018160.html,prcomp,18160,Ross Ihaka
+018161.html,f2c,18161,Ross Ihaka
+018167.html,plogis bug,18167,Ross Ihaka
+018175.html,Update to R-unstable,18175,Ross Ihaka
+018176.html,Spline code fixed,18176,Ross Ihaka
+018177.html,Image restoration in latest snapshots,18177,Ross Ihaka
+018189.html,RFC: large database interface,18189,Ross Ihaka
+018184.html,development mda package,18184,Friedrich Leisch
+018149.html,R-beta: Not loading C library,18149,Thomas Lumley
+018178.html,0-extent matrices?,18178,Thomas Lumley
+018180.html,0-extent matrices?,18180,Thomas Lumley
+018182.html,0-extent matrices?,18182,Thomas Lumley
+018186.html,"attr(modelmatrix,&quot;assign&quot;)",18186,Thomas Lumley
+018187.html,RFC: large database interface,18187,Thomas Lumley
+018155.html,prcomp;  send patches to whom?,18155,Martin Maechler
+018157.html,line plot with NA,18157,Martin Maechler
+018163.html,Bug in dhyper (and phyper) (fwd) -- and patch,18163,Martin Maechler
+018169.html,problems with chron library,18169,Martin Maechler
+018173.html,problems with chron library,18173,Martin Maechler
+018179.html,0-extent matrices?,18179,Martin Maechler
+018183.html,R-beta: S Compatibility (again),18183,Martin Maechler
+018194.html,R-beta: SEs for one-param MLE in R?,18194,Martin Maechler
+018152.html,attributes now inherited,18152,Steve Oncley
+018168.html,problems with chron library,18168,Kim Pilegaard
+018172.html,problems with chron library,18172,Kim Pilegaard
+018151.html,line plot with NA,18151,Anthony Rossini
+018188.html,RFC: large database interface,18188,Egon Schmid
+018150.html,line plot with NA,18150,Bill Simpson
+018159.html,line plot with NA,18159,Bill Simpson
+018164.html,cex and pch=1,18164,Bill Simpson
+018165.html,plogis bug,18165,Bill Simpson
+018171.html,data.entry(),18171,Bill Simpson
+018193.html,R-0.61.1 compiled with egcs-mingw32,18193,guido@sirio.stat.unipd.it

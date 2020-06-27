@@ -1,0 +1,80 @@
+link,Subject,id,author
+017647.html,R-alpha: mtext,17647,Larry P Ammann
+017579.html,R-alpha: old Rdoc 2 new Rdoc,17579,Peter Dalgaard BSA
+017591.html,R-alpha: GLM (from R-core),17591,Peter Dalgaard BSA
+017592.html,R-alpha: Sorting Efficiency -- thoughts.. : if(!is.sorted(x)) x &lt;- sort(x),17592,Peter Dalgaard BSA
+017593.html,R-alpha: Sorting Efficiency -- A bit of humour...,17593,Peter Dalgaard BSA
+017599.html,R-alpha: R `make install-*',17599,Peter Dalgaard BSA
+017604.html,"R-alpha: Re: lwd, cex and par(.) issues [was &quot;... windows quirks ..&quot;]",17604,Peter Dalgaard BSA
+017611.html,R-alpha: hist(),17611,Peter Dalgaard BSA
+017619.html,R-alpha: bug in passing of empty  (...),17619,Peter Dalgaard BSA
+017626.html,R-alpha: predict.lm -- who ..?,17626,Peter Dalgaard BSA
+017633.html,R-alpha: predict.lm -- who ..?,17633,Peter Dalgaard BSA
+017634.html,R-alpha: predict.lm -- who ..?,17634,Peter Dalgaard BSA
+017645.html,R-alpha: x[NA],17645,Peter Dalgaard BSA
+017649.html,R-alpha: x[NA],17649,Peter Dalgaard BSA
+017651.html,R-alpha: x[NA],17651,Peter Dalgaard BSA
+017583.html,R-alpha: R interaction within ESS-4.9-b11: two small issues,17583,Douglas Bates
+017613.html,R-alpha: model.matrix misbehaves on two-sided formulas,17613,Douglas Bates
+017622.html,R-alpha: ${RHOME}/configure and f2c.h,17622,Douglas Bates
+017640.html,R-alpha: Re: R-Mailing lists ok again. ..sorry..,17640,Douglas Bates
+017654.html,"R-alpha: boxplot(..., varwidth = TRUE, ...) in 0.50a4",17654,Douglas Bates
+017655.html,"R-alpha: boxplot(..., varwidth = TRUE, ...) - Take 2",17655,Douglas Bates
+017602.html,"R-alpha: Re: lwd, cex and par(.) issues [was &quot;... windows quirks ..&quot;]",17602,Ben Bolker
+017642.html,R-alpha: stuff,17642,Robert Gentleman
+017603.html,R-alpha: not mimic S,17603,Paul Gilbert
+017629.html,R-alpha: compatibility,17629,Paul Gilbert
+017632.html,R-alpha: set.seed compatibility,17632,Paul Gilbert
+017652.html,R-alpha: read.dbf,17652,Paul Gilbert
+017653.html,R-alpha: Re: read.dbf,17653,Paul Gilbert
+017582.html,R-alpha: Re: What are objects?,17582,Kurt Hornik
+017598.html,R-alpha: naming convention for index files,17598,Kurt Hornik
+017597.html,R-alpha: R `make install-*',17597,Kurt Hornik
+017616.html,R-alpha: Mathematical Annotation in R (plots),17616,Kurt Hornik
+017617.html,R-alpha: naming convention for index files,17617,Kurt Hornik
+017644.html,"R-alpha: -- data files :  read.table(..., header=TRUE)  -- Yes!",17644,Kurt Hornik
+017586.html,R-alpha: speed of  sort(.) and order(.),17586,Ross Ihaka
+017588.html,R-alpha: Sorting Efficiency,17588,Ross Ihaka
+017589.html,R-alpha: inconsistency R/Splus of sample(),17589,Ross Ihaka
+017609.html,R-alpha: New Version Available,17609,Ross Ihaka
+017621.html,R-alpha: bug in passing of empty  (...),17621,Ross Ihaka
+017627.html,R-alpha: predict.lm -- who ..?,17627,Ross Ihaka
+017635.html,R-alpha: predict.lm -- who ..?,17635,Ross Ihaka
+017638.html,R-alpha: fortran,17638,Ross Ihaka
+017648.html,R-alpha: mtext,17648,Ross Ihaka
+017656.html,"R-alpha: boxplot(..., varwidth = TRUE, ...) - Take 2",17656,Ross Ihaka
+017578.html,R-alpha: old Rdoc 2 new Rdoc,17578,Friedrich Leisch
+017587.html,R-alpha: inconsistency R/Splus of sample(),17587,Friedrich Leisch
+017600.html,R-alpha: old Rdoc 2 new Rdoc,17600,Friedrich Leisch
+017637.html,R-alpha: fortran,17637,Jim Lindsey
+017639.html,R-alpha: nlm,17639,Jim Lindsey
+017580.html,"R-alpha: NCOL, NROW bug",17580,Thomas Lumley
+017596.html,R-alpha: sorting in plots,17596,Thomas Lumley
+017612.html,R-alpha: model.frame,17612,Thomas Lumley
+017614.html,R-alpha: model.matrix misbehaves on two-sided formulas,17614,Thomas Lumley
+017620.html,R-alpha: long term wishes,17620,Thomas Lumley
+017623.html,R-alpha: compatibility,17623,Thomas Lumley
+017630.html,R-alpha: compatibility,17630,Thomas Lumley
+017646.html,R-alpha: x[NA],17646,Thomas Lumley
+017650.html,R-alpha: x[NA],17650,Thomas Lumley
+017581.html,R-alpha: Re: What are objects?,17581,Martin Maechler
+017585.html,R-alpha: speed of  sort(.) and order(.),17585,Martin Maechler
+017590.html,R-alpha: Sorting Efficiency -- thoughts.. : if(!is.sorted(x)) x &lt;- sort(x),17590,Martin Maechler
+017601.html,"R-alpha: Re: lwd, cex and par(.) issues [was &quot;... windows quirks ..&quot;]",17601,Martin Maechler
+017605.html,R-alpha: naming convention for index files,17605,Martin Maechler
+017606.html,R-alpha: R `make install-*',17606,Martin Maechler
+017618.html,R-alpha: bug in passing of empty  (...),17618,Martin Maechler
+017624.html,R-alpha: predict.lm -- who ..?,17624,Martin Maechler
+017625.html,"R-alpha: is.vector(.., mode=..) bug  (old)",17625,Martin Maechler
+017628.html,R-alpha: set.seed(.) [was 'compatibility'],17628,Martin Maechler
+017636.html,R-alpha: bug: rbind(.) drops names for character; cbind(.) is ok.,17636,Martin Maechler
+017641.html,"R-alpha: -- data files :  read.table(..., header=TRUE)  -- Yes!",17641,Martin Maechler
+017615.html,R-alpha: Mathematical Annotation in R (plots),17615,Paul Murrell
+017607.html,R-alpha: Assingment to list or vector elements,17607,Martyn Plummer
+017608.html,R-alpha: deparse bug,17608,Martyn Plummer
+017584.html,R-alpha: R interaction within ESS-4.9-b11: two small issues,17584,Anthony Rossini
+017594.html,R-alpha: Sorting Efficiency -- thoughts.. : if(!is.sorted(x)) x &lt;- sort(x),17594,Anthony Rossini
+017610.html,R-alpha: New Version Available,17610,Anthony Rossini
+017595.html,R-alpha: Sorting Efficiency -- thoughts.. : if(!is.sorted(x)) x &lt;- sort(x),17595,Luke Tierney
+017631.html,R-alpha: compatibility,17631,Luke Tierney
+017643.html,R-alpha: R-adventure,17643,Helgi Tomasson

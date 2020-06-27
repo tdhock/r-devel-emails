@@ -1,0 +1,226 @@
+link,Subject,id,author
+026592.html,"[Rd] axis() default values for &quot;lty&quot;, &quot;lwd&quot;, and &quot;col&quot;",26592,Jerome Asselin
+026596.html,"[Rd] axis() default values for &quot;lty&quot;, &quot;lwd&quot;, and &quot;col&quot;",26596,Jerome Asselin
+026460.html,[Rd] qbeta hang (PR#2894),26460,Peter Dalgaard BSA
+026480.html,[Rd] (PR#1289),26480,Peter Dalgaard BSA
+026486.html,[Rd] segfault when applying strange coercion (PR#2923),26486,Peter Dalgaard BSA
+026488.html,[Rd] segfault when applying strange coercion (PR#2923),26488,Peter Dalgaard BSA
+026489.html,[Rd] segfault when applying strange coercion (PR#2923),26489,Peter Dalgaard BSA
+026500.html,[Rd] Bug list summary (automatic post),26500,Peter Dalgaard BSA
+026502.html,[Rd] Problems building R-1.7.0 on windows XP,26502,Peter Dalgaard BSA
+026506.html,[Rd] Kinderman-Ramage (PR#2846),26506,Peter Dalgaard BSA
+026509.html,[Rd] contrasts,26509,Peter Dalgaard BSA
+026571.html,[Rd] update.lme trouble (PR#2985),26571,Peter Dalgaard BSA
+026594.html,[Rd] Bug list summary (automatic post),26594,Peter Dalgaard BSA
+026601.html,[Rd] Size of x11 device,26601,Peter Dalgaard BSA
+026623.html,[Rd] R-1.7.1 scheduled for June 16,26623,Peter Dalgaard BSA
+026652.html,[Rd] Re: [R] help output paged in separate window,26652,Peter Dalgaard BSA
+026654.html,[Rd] Re: [R] help output paged in separate window,26654,Peter Dalgaard BSA
+026499.html,[Rd] R-1.7.0: Rproxy.dll loadlibrary/freelibrary error (PR#2914),26499,Thomas Baier
+026569.html,[Rd] update.lme trouble (PR#2985),26569,Douglas Bates
+026615.html,[Rd] Possible R CMD check problem (PR#3070),26615,Ross Boylan
+026616.html,[Rd] ~ files not excluded from build (PR#3071),26616,Ross Boylan
+026465.html,[Rd] Suppressing Scientific Notation,26465,David Brahm
+026485.html,[Rd] Suppressing Scientific Notation,26485,David Brahm
+026515.html,[Rd] 1. Performance fix in as(); 2. low-level access functions,26515,John Chambers
+026610.html,"[Rd] Re: as(df, &quot;list&quot;) does not propagate names",26610,John Chambers
+026640.html,[Rd] Documenting S4 classes; debugging them,26640,John Chambers
+026671.html,[Rd] setGeneric?,26671,John Chambers
+026673.html,[Rd] setGeneric?,26673,John Chambers
+026683.html,[Rd] Creating a vector class,26683,John Chambers
+026477.html,[Rd] Women will flock to you!!,26477,Lane Childers
+026629.html,[Rd] RGui Startup Error on Win2000 (PR#3084),26629,Joaquin Diaz-Saiz
+026633.html,[Rd] RGui Startup Error on Win2000 (PR#3084),26633,Joaquin Diaz-Saiz
+026565.html,[Rd] optim(method=&quot;L-BFGS-B&quot;...) (PR#3000),26565,Michael Foote
+026605.html,[Rd] Possible R CMD check problem (PR#3070),26605,Friedrich.Leisch at ci.tuwien.ac.at
+026606.html,[Rd] ~ files not excluded from build (PR#3071),26606,Friedrich.Leisch at ci.tuwien.ac.at
+026621.html,[Rd] Possible R CMD check problem (PR#3070),26621,Friedrich.Leisch at ci.tuwien.ac.at
+026563.html,[Rd] R crashes when resizing windows (PR#2992),26563,Gavin
+026512.html,[Rd] problems compiling R on AIX5.1,26512,Harald Servat Gelabert
+026630.html,[Rd] Problem building R-devel,26630,Jeff Gentry
+026503.html,[Rd] prcomp need Conj(t(s$vt)) (PR#2924) ,26503,Paul Gilbert
+026538.html,[Rd] on.exit(par(old.par)) warnings,26538,Paul Gilbert
+026541.html,[Rd] on.exit(par(old.par)) warnings,26541,Paul Gilbert
+026570.html,[Rd] Re: [R] R as 64 bit application (moved from R-help),26570,Paul Gilbert
+026607.html,[Rd] ~ files not excluded from build (PR#3071),26607,Paul Gilbert
+026691.html,"[Rd] fac.design &amp; mean.default(..., weights)",26691,Spencer Graves
+026453.html,[Rd] Opening previous workspace in Windows (PR#2890),26453,Heather.L.Turner at exeter.ac.uk
+026548.html,[Rd] mada (PR#2994),26548,Hereford at lovedialup.com
+026471.html,[Rd] R-1.7.0 build feedback: NetBSD 1.6 (PR#2837),26471,Kurt Hornik
+026475.html,[Rd] ldAIX4 does not generate Rlapack.exp (PR#2893),26475,Kurt Hornik
+026492.html,[Rd] (PR#1289),26492,Kurt Hornik
+026658.html,[Rd] Interpretation of escaped characters in \examples{},26658,Kurt Hornik
+026661.html,[Rd] Interpretation of escaped characters in \examples{},26661,Kurt Hornik
+026674.html,[Rd] R's DYLD_LIBRARY_PATH override problems on Mac OS X,26674,Kurt Hornik
+026504.html,[Rd] contrasts,26504,Torsten Hothorn
+026507.html,[Rd] contrasts,26507,Torsten Hothorn
+026498.html,[Rd] This Car Shipping Company Might Interst You. (PR#2938),26498,James at amotransport.com
+026564.html,[Rd] &quot;Writing R Extensions&quot; documentation (PR#3003),26564,John_Hendrickx at yahoo.com
+026690.html,[Rd] acepack,26690,Frank E Harrell Jr
+026542.html,[Rd] range checking,26542,Robert King
+026670.html,[Rd] setGeneric?,26670,Roger Koenker
+026672.html,[Rd] setGeneric?,26672,Roger Koenker
+026637.html,[Rd] Opening a file in mode &quot;r+&quot; or &quot;r+b&quot; ,26637,Laurens Leerink
+026663.html,[Rd] R's DYLD_LIBRARY_PATH override problems on Mac OS X,26663,Jan de Leeuw
+026689.html,[Rd] g77-3.3 on darwin,26689,Jan de Leeuw
+026561.html,[Rd] R crashes when resizing windows (PR#2992),26561,Uwe Ligges
+026585.html,[Rd] Extending %*%,26585,Uwe Ligges
+026612.html,[Rd] Bug Tracking page: missing info what a bug is,26612,Uwe Ligges
+026620.html,[Rd] Conflict with tseries package?? (PR#3079),26620,Uwe Ligges
+026627.html,[Rd] RGui Startup Error on Win2000 (PR#3084),26627,Uwe Ligges
+026635.html,[Rd] RGui Startup Error on Win2000 (PR#3084),26635,Uwe Ligges
+026525.html,[Rd] Tolerances in glm.control,26525,Thomas Lumley
+026574.html,[Rd] possibly bug in 'reshape' (PR#3024),26574,Thomas Lumley
+026624.html,[Rd] How to avoid function masking,26624,Thomas Lumley
+026628.html,"[Rd] grep, gsub, sub have problems with NA values (PR#3078)",26628,Thomas Lumley
+026634.html,[Rd] Problem building R-devel,26634,Thomas Lumley
+026467.html,[Rd] Suppressing Scientific Notation,26467,Martin Maechler
+026522.html,[Rd] Tolerances in glm.control,26522,Martin Maechler
+026543.html,[Rd] range checking,26543,Martin Maechler
+026597.html,"[Rd] axis() default values for &quot;lty&quot;, &quot;lwd&quot;, and &quot;col&quot;",26597,Martin Maechler
+026622.html,[Rd] How to avoid function masking,26622,Martin Maechler
+026632.html,[Rd] Problem building R-devel,26632,Martin Maechler
+026593.html,[Rd] predict.lm(); zero weights; follow-on to PR#3043,26593,John Maindonald
+026462.html,[Rd] predict (PR#2686),26462,Mark.Bravington at csiro.au
+026678.html,[Rd] R Enhancements,26678,"Marsland, John"
+026454.html,[Rd] Opening previous workspace in Windows (PR#2890),26454,Duncan Murdoch
+026491.html,[Rd] R-1.7.0: Rproxy.dll loadlibrary/freelibrary error (PR#2914),26491,Duncan Murdoch
+026497.html,[Rd] Problems building R-1.7.0 on windows XP,26497,Duncan Murdoch
+026501.html,[Rd] R-1.7.0: Rproxy.dll loadlibrary/freelibrary error (PR#2914),26501,Duncan Murdoch
+026550.html,[Rd] R crashes when resizing windows (PR#2992),26550,Duncan Murdoch
+026556.html,[Rd] R crashes when resizing windows (PR#2992),26556,Duncan Murdoch
+026567.html,[Rd] R crashes when resizing windows (PR#2992),26567,Duncan Murdoch
+026568.html,[Rd] R crashes when resizing windows (PR#2992),26568,Duncan Murdoch
+026584.html,[Rd] Extending %*%,26584,Duncan Murdoch
+026590.html,[Rd] Extending %*%,26590,Duncan Murdoch
+026638.html,[Rd] Documenting S4 classes; debugging them,26638,Duncan Murdoch
+026651.html,[Rd] Re: [R] help output paged in separate window,26651,Duncan Murdoch
+026653.html,[Rd] Re: [R] help output paged in separate window,26653,Duncan Murdoch
+026656.html,[Rd] Re: [R] help output paged in separate window,26656,Duncan Murdoch
+026677.html,[Rd] R Enhancements,26677,Duncan Murdoch
+026680.html,[Rd] Creating a vector class,26680,Duncan Murdoch
+026557.html,[Rd] Re: [R] grid - deleting and erasing grobs?,26557,Paul Murrell
+026532.html,[Rd] codes() has been deprecated,26532,Roger Peng
+026614.html,[Rd] How to avoid function masking,26614,Roger D. Peng
+026639.html,[Rd] Documenting S4 classes; debugging them,26639,Roger D. Peng
+026458.html,[Rd] query reg. submission procedure,26458,Prof Brian Ripley
+026466.html,[Rd] Suppressing Scientific Notation,26466,Prof Brian Ripley
+026468.html,[Rd] Suppressing Scientific Notation,26468,Prof Brian Ripley
+026470.html,[Rd] R-1.7.0 build feedback: NetBSD 1.6 (PR#2837),26470,Prof Brian Ripley
+026473.html,[Rd] R-1.7.0 build feedback: NetBSD 1.6 (PR#2837),26473,Prof Brian Ripley
+026484.html,[Rd] prcomp need Conj(t(s$vt)) (PR#2924),26484,Prof Brian Ripley
+026487.html,[Rd] Suppressing Scientific Notation,26487,Prof Brian Ripley
+026505.html,[Rd] contrasts,26505,Prof Brian Ripley
+026508.html,[Rd] contrasts,26508,Prof Brian Ripley
+026511.html,[Rd] contrasts,26511,Prof Brian Ripley
+026514.html,[Rd] problems compiling R on AIX5.1,26514,Prof Brian Ripley
+026517.html,[Rd] predict function (PR#2958),26517,Prof Brian Ripley
+026519.html,[Rd] Tolerances in glm.control,26519,Prof Brian Ripley
+026521.html,[Rd] codes() has been deprecated,26521,Prof Brian Ripley
+026526.html,[Rd] Tolerances in glm.control,26526,Prof Brian Ripley
+026530.html,[Rd] debugging packages,26530,Prof Brian Ripley
+026534.html,[Rd] problems with Rcmd BATCH (PR#2965),26534,Prof Brian Ripley
+026540.html,[Rd] on.exit(par(old.par)) warnings,26540,Prof Brian Ripley
+026549.html,[Rd] R crashes when resizing windows (PR#2992),26549,Prof Brian Ripley
+026560.html,[Rd] optim(method=&quot;L-BFGS-B&quot;...) (PR#3000),26560,Prof Brian Ripley
+026562.html,[Rd] R crashes when resizing windows (PR#2992),26562,Prof Brian Ripley
+026580.html,[Rd] read.table fails with \246 separator (PR#3035),26580,Prof Brian Ripley
+026588.html,[Rd] PR#2798,26588,Prof Brian Ripley
+026595.html,"[Rd] axis() default values for &quot;lty&quot;, &quot;lwd&quot;, and &quot;col&quot;",26595,Prof Brian Ripley
+026598.html,[Rd] Size of x11 device,26598,Prof Brian Ripley
+026600.html,[Rd] Size of x11 device,26600,Prof Brian Ripley
+026642.html,[Rd] library(MASS) in .First() (PR#3085),26642,Prof Brian Ripley
+026643.html,[Rd] Opening a file in mode &quot;r+&quot; or &quot;r+b&quot; ,26643,Prof Brian Ripley
+026645.html,[Rd] ~ files not excluded from build (PR#3071),26645,Prof Brian Ripley
+026646.html,[Rd] How to avoid function masking,26646,Prof Brian Ripley
+026655.html,[Rd] Re: [R] help output paged in separate window,26655,Prof Brian Ripley
+026667.html,[Rd] internet.R test hangs if http proxy needed (PR#3108),26667,Prof Brian Ripley
+026669.html,[Rd] internet.R test hangs if http proxy needed (PR#3108),26669,Prof Brian Ripley
+026682.html,[Rd] Re: [R] Postscript query: plotting long vectors (PR#3132),26682,Prof Brian Ripley
+026692.html,"[Rd] fac.design &amp; mean.default(..., weights)",26692,Prof Brian Ripley
+026455.html,[Rd] Opening previous workspace in Windows (PR#2890),26455,Prof Brian D Ripley
+026602.html,[Rd] Size of x11 device,26602,Barry Rowlingson
+026668.html,[Rd] internet.R test hangs if http proxy needed (PR#3108),26668,Barry Rowlingson
+026539.html,[Rd] on.exit(par(old.par)) warnings,26539,Marc Schwartz
+026599.html,[Rd] Size of x11 device,26599,Marc Schwartz
+026644.html,[Rd] Interpretation of escaped characters in \examples{},26644,Gordon Smyth
+026649.html,"[Rd] Re: R-devel Digest, Vol 3, Issue 23",26649,Gordon Smyth
+026650.html,[Rd] Documenting S4 classes; debugging them,26650,Gordon Smyth
+026660.html,[Rd] Interpretation of escaped characters in \examples{},26660,Gordon Smyth
+026662.html,[Rd] R's DYLD_LIBRARY_PATH override problems on Mac OS X,26662,Simon Urbanek
+026666.html,[Rd] R's DYLD_LIBRARY_PATH override problems on Mac OS X,26666,Simon Urbanek
+026457.html,[Rd] query reg. submission procedure,26457,Venkatesh
+026676.html,[Rd] R Enhancements,26676,Venkatesh
+026611.html,"[Rd] Re: as(df, &quot;list&quot;) does not propagate names",26611,"Warnes, Gregory R"
+026613.html,[Rd] How to avoid function masking,26613,"Warnes, Gregory R"
+026619.html,[Rd] How to avoid function masking,26619,"Warnes, Gregory R"
+026636.html,[Rd] How to avoid function masking,26636,"Warnes, Gregory R"
+026641.html,"[Rd] grep, gsub, sub have problems with NA values (PR#3078)",26641,"Warnes, Gregory R"
+026647.html,"[Rd] grep, gsub, sub have problems with NA values (PR#3078)",26647,"Warnes, Gregory R"
+026648.html,"[Rd] grep, gsub, sub have problems with NA values (PR#3078)",26648,"Warnes, Gregory R"
+026464.html,[Rd] qbeta hang (PR#2894),26464,Morten Welinder
+026631.html,[Rd] RGui Startup Error on Win2000 (PR#3084),26631,Girish Zambre
+026626.html,[Rd] library(MASS) in .First() (PR#3085),26626,abroman at jhsph.edu
+026533.html,[Rd] problems with Rcmd BATCH (PR#2965),26533,adrian_humbert at yahoo.com
+026577.html,[Rd] gwnfixvem a all internet junkies need this,26577,ajro at morgansmagic.biz
+026510.html,[Rd] New Mortgage Leads available (PR#2952),26510,arronfletcher at cityallstar.de.vu
+026665.html,[Rd] internet.R test hangs if http proxy needed (PR#3108),26665,b.rowlingson at lancaster.ac.uk
+026572.html,[Rd] r-bugs_Loans_Purchase_Rentals_46 (PR#3022),26572,b7d3c6slyssb7d3c6ss at angelfire.com
+026469.html,[Rd] R-1.7.0 build feedback: NetBSD 1.6 (PR#2837),26469,beebe at math.utah.edu
+026472.html,[Rd] R-1.7.0 build feedback: NetBSD 1.6 (PR#2837): final report,26472,beebe at math.utah.edu
+026581.html,[Rd] r-bugs_Post_WARTIME_invester_tip_#25 (PR#3036),26581,cc4g3d2srlc4g3d2ssz at angelfire.com
+026659.html,[Rd] I have been searching for you! (PR#3102),26659,charlotte_melton7 at bmxtrix.com
+026529.html,[Rd] debugging packages,26529,clayton.springer at pharma.novartis.com
+026537.html,[Rd] plot.ranef.lme (PR#2986),26537,deepayan at stat.wisc.edu
+026555.html,[Rd] bug and proposed fix in print.trellis 1.7.0 (PR#2859),26555,deepayan at stat.wisc.edu
+026558.html,[Rd] bug in y limits in bwplot (PR#2865),26558,deepayan at stat.wisc.edu
+026461.html,[Rd] qbeta hang (PR#2894),26461,dmurdoch at pair.com
+026554.html,[Rd] R crashes when resizing windows (PR#2992),26554,dmurdoch at pair.com
+026579.html,[Rd] read.table fails with \246 separator (PR#3035),26579,don at delphioutpost.com
+026559.html,[Rd] optim(method=&quot;L-BFGS-B&quot;...) (PR#3000),26559,foote at geosci.uchicago.edu
+026545.html,[Rd] R crashes when resizing windows (PR#2992),26545,gavin at stats.gla.ac.uk
+026552.html,[Rd] R crashes when resizing windows (PR#2992),26552,gavin at stats.gla.ac.uk
+026617.html,"[Rd] grep, gsub, sub have problems with NA values (PR#3078)",26617,gregory_r_warnes at groton.pfizer.com
+026625.html,[Rd] RGui Startup Error on Win2000 (PR#3084),26625,gzambre at ieee.org
+026496.html,[Rd] Problems building R-1.7.0 on windows XP,26496,kjetil brinchmann halvorsen
+026479.html,[Rd] (PR#1289),26479,harald at cepba.upc.es
+026481.html,[Rd] (PR#1289),26481,harald at cepba.upc.es
+026513.html,[Rd] problems compiling R on AIX5.1 (PR#2953),26513,harald at cepba.upc.es
+026528.html,[Rd] . xqky (PR#2967),26528,ifOlorun at swbell.net
+026544.html,"[Rd] qt(p,df) discontinuous in p for df in 1.01-&gt;1.7 (PR#2991)",26544,jens.lund at nordea.com
+026493.html,[Rd] frailty models in survreg() -- survival package (PR#2933),26493,jerome at hivnet.ubc.ca
+026495.html,[Rd] Re: frailty models in survreg() -- survival package (PR#2934),26495,jerome at hivnet.ubc.ca
+026675.html,[Rd] &quot;trace&quot; argument in legend() (PR#2578),26675,jerome at hivnet.ubc.ca
+026583.html,"[Rd] predict.lm(), se=TRUE, with weights; erroneous SEs (PR#3043)",26583,john.maindonald at anu.edu.au
+026608.html,[Rd] faraway package installation failed (PR#3076),26608,jotero at lsi.uniovi.es
+026586.html,[Rd] PR#2798,26586,kuehn at halle.ufz.de
+026482.html,[Rd] segfault when applying strange coercion (PR#2923),26482,ligges at statistik.uni-dortmund.de
+026547.html,[Rd] R crashes when resizing windows (PR#2992),26547,ligges at statistik.uni-dortmund.de
+026551.html,[Rd] R crashes when resizing windows (PR#2992),26551,ligges at statistik.uni-dortmund.de
+026609.html,[Rd] faraway package installation failed (PR#3076),26609,ligges at statistik.uni-dortmund.de
+026463.html,[Rd] pnorm conditional (PR#2883),26463,maechler at stat.math.ethz.ch
+026553.html,"[Rd] qt(p,df) discontinuous in p for df in 1.01-&gt;1.7 (PR#2991)",26553,maechler at stat.math.ethz.ch
+026587.html,"[Rd] predict.lm(), se=TRUE, with weights; erroneous SEs (PR#3043)",26587,maechler at stat.math.ethz.ch
+026516.html,[Rd] predict function (PR#2958),26516,mh.smith at niwa.co.nz
+026474.html,[Rd] R-1.7.0: Rproxy.dll loadlibrary/freelibrary error (PR#2914),26474,mpvenkatesh at lycos.com
+026535.html,[Rd] update.lme trouble (PR#2985),26535,p.dalgaard at biostat.ku.dk
+026536.html,[Rd] plot.ranef.lme (PR#2986),26536,p.dalgaard at biostat.ku.dk
+026679.html,[Rd] Re: [R] Postscript query: plotting long vectors (PR#3132),26679,p.dalgaard at biostat.ku.dk
+026681.html,[Rd] Re: [R] Postscript query: plotting long vectors (PR#3132),26681,p.dalgaard at biostat.ku.dk
+026483.html,[Rd] prcomp need Conj(t(s$vt)) (PR#2924),26483,pgilbert at bank-banque-canada.ca
+026576.html,[Rd] What is your name? (PR#3029),26576,rexmcCabe_54 at blvdmedia.com
+026456.html,[Rd] ldAIX4 does not generate Rlapack.exp (PR#2893),26456,rgrubbfink at cox.net
+026478.html,[Rd] save money! (PR#2921),26478,rharding at justnet.com.au
+026490.html,[Rd] Opening previous workspace in Windows (PR#2890) (fwd),26490,ripley at stats.ox.ac.uk
+026582.html,[Rd] eermitp gcrqrc Inexpensive Digital Cable Box Descrambler,26582,rolland at mikesmagic.biz
+026578.html,[Rd] lwl hsea RE: Descramble Digital _Cable,26578,rosebush3 at morgansmagic.biz
+026603.html,[Rd] Possible R CMD check problem (PR#3070),26603,ross at biostat.ucsf.edu
+026604.html,[Rd] ~ files not excluded from build (PR#3071),26604,ross at biostat.ucsf.edu
+026476.html,[Rd] qsfi yjd FW: Descramble Digital Cable,26476,swli at londonlink.net
+026459.html,[Rd] qbeta hang (PR#2894),26459,terra at gnome.org
+026494.html,[Rd] Re: frailty models in survreg() -- survival package (PR#2934),26494,tlumley at u.washington.edu
+026527.html,"[Rd] Writing R Extensions, sec 4.7.4 (PR#2966)",26527,tsvetan.stoyanov at mirant.com
+026546.html,[Rd] small bug in power.t.test for two-sided alternatives (PR#2993),26546,vangel at nmr.mgh.harvard.edu
+026575.html,[Rd] oeqm odjp FW: RE: Finally a Digital _Cable Descrambler,26575,wevp at morgansmagic.biz
+026573.html,[Rd] possibly bug in 'reshape' (PR#3024),26573,wl at eimb.ru
+026618.html,[Rd] Conflict with tseries package?? (PR#3079),26618,xoaquin at computer.org

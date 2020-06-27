@@ -1,0 +1,110 @@
+link,Subject,id,author
+074993.html,[Rd] Discourage the weights= option of lm with summarized data,74993,Viechtbauer Wolfgang (SP)
+074995.html,[Rd] Discourage the weights= option of lm with summarized data,74995,Viechtbauer Wolfgang (SP)
+075035.html,[Rd] Font Size for View() under Linux,75035,Viechtbauer Wolfgang (SP)
+075079.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75079,Avraham Adler
+075080.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75080,Avraham Adler
+074977.html,[Rd] Revert to R 3.2.x code of logicalSubscript in subscript.c?,74977,Suharto Anggono Suharto Anggono
+075004.html,[Rd] Function 'factor' issues,75004,Suharto Anggono Suharto Anggono
+075033.html,[Rd] Function 'factor' issues,75033,Suharto Anggono Suharto Anggono
+075031.html,[Rd] split() - unexpected sorting of results,75031,Rui Barradas
+075018.html,[Rd] Function 'factor' issues,75018,Gabriel Becker
+075074.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75074,Kenny Bell
+074984.html,"[Rd] socketSelect(..., timeout): non-integer timeouts in (0, 2) (?) equal infinite timeout on Linux - weird",74984,Henrik Bengtsson
+074987.html,"[Rd] socketSelect(..., timeout): non-integer timeouts in (0, 2) (?) equal infinite timeout on Linux - weird",74987,Henrik Bengtsson
+075002.html,[Rd] Another issue with Sys.timezone,75002,Stephen Berman
+075020.html,[Rd] Another issue with Sys.timezone,75020,Stephen Berman
+075025.html,[Rd] Another issue with Sys.timezone,75025,Stephen Berman
+074992.html,[Rd] Discourage the weights= option of lm with summarized data,74992,Arie ten Cate
+074994.html,[Rd]  Discourage the weights= option of lm with summarized data,74994,Arie ten Cate
+074996.html,[Rd] Discourage the weights= option of lm with summarized data,74996,Arie ten Cate
+075000.html,[Rd] Discourage the weights= option of lm with summarized data,75000,Arie ten Cate
+075003.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75003,Arie ten Cate
+075054.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75054,Arie ten Cate
+075078.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported	to	mainstream R?,75078,"Cohn, Robert S"
+075026.html,[Rd] Rscript Bug Report (improper parsing of [args]),75026,Trevor Davis
+075013.html,[Rd] uniform sampling without replacement algorithm,75013,William Dunlap
+075057.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75057,William Dunlap
+075075.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75075,Dirk Eddelbuettel
+074983.html,[Rd] packages: Examples with CPU or elapsed time &gt; 10s,74983,Michael Friendly
+075052.html,[Rd] Slow down using the compiler,75052,Colin Gillespie
+074980.html,[Rd] R CMD Rd2pdf and macros,74980,Kasper Daniel Hansen
+074982.html,[Rd] R CMD Rd2pdf and macros,74982,Kasper Daniel Hansen
+074986.html,[Rd] R CMD Rd2pdf and macros,74986,Kasper Daniel Hansen
+074981.html,[Rd] R CMD Rd2pdf and macros,74981,Kurt Hornik
+074985.html,"[Rd] socketSelect(..., timeout): non-integer timeouts in (0, 2) (?) equal infinite timeout on Linux - weird",74985,Tomas Kalibera
+075007.html,[Rd] Bug: Issues on Windows with SFN disabled,75007,Tomas Kalibera
+075023.html,[Rd] Bug: Issues on Windows with SFN disabled,75023,Tomas Kalibera
+075036.html,[Rd] Illegal Logical Values,75036,Tomas Kalibera
+074999.html,[Rd] Using response variable in interaction as explanatory variable in glm crashes R,74999,Scott Kostyshak
+074988.html,[Rd] Using response variable in interaction as explanatory variable in glm crashes R,74988,Jan van der Laan
+074989.html,[Rd] Using response variable in interaction as explanatory variable in glm crashes R,74989,Jan van der Laan
+075041.html,[Rd] How to create a table structure in Java code?,75041,Jan van der Laan
+075045.html,[Rd] How to create a table structure in Java code?,75045,Jan van der Laan
+075069.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75069,Duncan Temple Lang
+074998.html,[Rd] Using response variable in interaction as explanatory variable in glm crashes R,74998,Martin Maechler
+075006.html,[Rd] Another issue with Sys.timezone,75006,Martin Maechler
+075016.html,[Rd] Another issue with Sys.timezone,75016,Martin Maechler
+075017.html,[Rd] Function 'factor' issues,75017,Martin Maechler
+075021.html,[Rd] Another issue with Sys.timezone,75021,Martin Maechler
+075038.html,[Rd] range function with finite=T and logical parameters,75038,Martin Maechler
+075076.html,[Rd] Renjin?,75076,Martin Maechler
+075027.html,[Rd] split() - unexpected sorting of results,75027,Peter Meissner
+075029.html,[Rd] split() - unexpected sorting of results,75029,Peter Meissner
+075034.html,[Rd] split() - unexpected sorting of results,75034,Peter Meissner
+075042.html,[Rd] How to represent two-dimensonal data in R?,75042,Joris Meys
+075039.html,[Rd] How to create a table structure in Java code?,75039,Morkus
+075040.html,[Rd] How to represent two-dimensonal data in R?,75040,Morkus
+075043.html,[Rd] How to create a table structure in Java code?,75043,Morkus
+075046.html,[Rd] How to create a table structure in Java code?,75046,Morkus
+075047.html,[Rd] How to create a table structure in Java code?,75047,Morkus
+075050.html,[Rd] How to do a &quot;Box's M&quot; Test with,75050,Morkus
+075053.html,[Rd] How to do a &quot;Box's M&quot; Test with,75053,Morkus
+075056.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75056,Morkus
+075059.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75059,Morkus
+075060.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75060,Morkus
+075062.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75062,Morkus
+075064.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75064,Morkus
+075066.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75066,Morkus
+075068.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75068,Morkus
+075070.html,[Rd] Renjin?,75070,Morkus
+075051.html,[Rd] How to do a &quot;Box's M&quot; Test with,75051,Duncan Murdoch
+075058.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75058,Duncan Murdoch
+075061.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75061,Duncan Murdoch
+075063.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75063,Duncan Murdoch
+075065.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75065,Duncan Murdoch
+075067.html,[Rd] Cannot Compute Box's M (Three Days Trying...),75067,Duncan Murdoch
+074979.html,[Rd] Revert to R 3.2.x code of logicalSubscript in subscript.c?,74979,Radford Neal
+075012.html,[Rd] uniform sampling without replacement algorithm,75012,Radford Neal
+075032.html,[Rd] Illegal Logical Values,75032,Radford Neal
+075030.html,[Rd] split() - unexpected sorting of results,75030,Herv&#233; Pag&#232;s
+075071.html,[Rd] Renjin?,75071,Brian G. Peterson
+075072.html,[Rd] Renjin?,75072,Brian G. Peterson
+075024.html,[Rd] Illegal Logical Values,75024,Martyn Plummer
+075049.html,[Rd] javareconf issue,75049,Prof Brian Ripley
+075008.html,[Rd] uniform sampling without replacement algorithm,75008,Pavel S. Ruzankin
+075009.html,[Rd] uniform sampling without replacement algorithm,75009,Pavel S. Ruzankin
+075011.html,[Rd] uniform sampling without replacement algorithm,75011,Pavel S. Ruzankin
+075014.html,[Rd] uniform sampling without replacement algorithm,75014,Pavel S. Ruzankin
+075015.html,[Rd] uniform sampling without replacement algorithm,75015,Pavel S. Ruzankin
+074978.html,[Rd] calling R API functions after engine shutdown,74978,Lukas Stadler
+075037.html,[Rd] range function with finite=T and logical parameters,75037,Lukas Stadler
+075019.html,[Rd] source() + dbSendQuery() Returns Incorrect Results - Solved	with: dbExecute(),75019,Juan Telleria
+075073.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to	mainstream R?,75073,Juan Telleria
+075082.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75082,Juan Telleria
+075084.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75084,Juan Telleria
+075001.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75001,Tyler
+075005.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75005,Tyler
+075085.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75085,Tyler
+074990.html,[Rd] SIGSEGV during startup,74990,Joshua Ulrich
+075044.html,[Rd] How to create a table structure in Java code?,75044,Simon Urbanek
+075010.html,[Rd] A wrapper of seq.Date() encounters an issue,75010,Earo Wang
+075077.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75077,Ista Zahn
+075081.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75081,Ista Zahn
+074997.html,[Rd] Discourage the weights= option of lm with summarized data,74997,peter dalgaard
+075022.html,[Rd] Illegal Logical Values,75022,brodie gaslam
+075048.html,[Rd] javareconf issue,75048,rosseji
+074991.html,[Rd] SIGSEGV during startup,74991,luke-tierney at uiowa.edu
+075055.html,[Rd] Slow down using the compiler,75055,luke-tierney at uiowa.edu
+075028.html,[Rd] split() - unexpected sorting of results,75028,I&#241;aki &#218;car
+075083.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75083,I&#241;aki &#218;car

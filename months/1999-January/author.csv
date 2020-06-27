@@ -1,0 +1,59 @@
+link,Subject,id,author
+018668.html,"Intro notes (1st pass, not for general circ.)",18668,Peter Dalgaard BSA
+018673.html,make docs,18673,Peter Dalgaard BSA
+018680.html,Core dump on sapply misuse,18680,Peter Dalgaard BSA
+018681.html,"Other core dumps, with apologies",18681,Peter Dalgaard BSA
+018716.html,rw0632,18716,Peter Dalgaard BSA
+018702.html,Rd files,18702,Douglas Bates
+018666.html,rnorm() with sd=0,18666,Ben Bolker
+018709.html,segments() bug?,18709,Ben Bolker
+018669.html,make docs,18669,Paul Gilbert
+018672.html,make docs,18672,Paul Gilbert
+018676.html,0 ^ -1 == Inf  ??   [g77 bug on Solaris 2.5 ??],18676,Paul Gilbert
+018693.html,pow__ii,18693,Paul Gilbert
+018696.html,pow__ii,18696,Paul Gilbert
+018697.html,Rd files,18697,Paul Gilbert
+018699.html,Rd files,18699,Paul Gilbert
+018715.html,R vs Splus 5,18715,Paul Gilbert
+018671.html,make docs,18671,Kurt Hornik
+018677.html,0 ^ -1 == Inf  ??   [g77 bug on Solaris 2.5 ??],18677,Kurt Hornik
+018662.html,.C,18662,Ross Ihaka
+018710.html,segments() bug?,18710,Ross Ihaka
+018714.html,locator(n=1) or  (n=500)  as S-plus ?,18714,Ross Ihaka
+018679.html,Core dump on sapply misuse,18679,Norm Josephy
+018674.html,make docs,18674,Duncan Temple Lang
+018663.html,Submissions to CRAN,18663,Friedrich Leisch
+018665.html,[R] Submissions to CRAN,18665,Friedrich Leisch
+018686.html,dist function suggestion,18686,Friedrich Leisch
+018690.html,dist function suggestion,18690,Friedrich Leisch
+018700.html,Rd files,18700,Friedrich Leisch
+018703.html,Rd files,18703,Friedrich Leisch
+018661.html,.C,18661,Thomas Lumley
+018670.html,make docs,18670,Thomas Lumley
+018675.html,0 ^ -1 == Inf  ??   [g77 bug on Solaris 2.5 ??],18675,Martin Maechler
+018682.html,Some outer() suggestions,18682,Martin Maechler
+018684.html,locator(n=1) or  (n=500)  as S-plus ?,18684,Martin Maechler
+018689.html,"dist(*, &quot;euclidean&quot;) [was &quot;dist function suggestion&quot;]",18689,Martin Maechler
+018692.html,data frames with non-unique  row.names,18692,Martin Maechler
+018694.html,data frames with non-unique  row.names (PR#98),18694,Martin Maechler
+018705.html,data frames with non-unique  row.names (PR#98),18705,Martin Maechler
+018706.html,backsolve... --&gt; class()es for special matrices ?,18706,Martin Maechler
+018708.html,backsolve... --&gt; class()es for special matrices ?,18708,Martin Maechler
+018711.html,locator(n=1) or  (n=500)  as S-plus ?,18711,Martin Maechler
+018664.html,[R] Submissions to CRAN,18664,Jonathan Myles
+018659.html,.C,18659,Steve Oncley
+018688.html,dist function suggestion,18688,Prof Brian Ripley
+018691.html,"dist(*, &quot;euclidean&quot;) [was &quot;dist function suggestion&quot;]",18691,Prof Brian Ripley
+018695.html,pow__ii,18695,Prof Brian Ripley
+018701.html,Rd files,18701,Prof Brian Ripley
+018704.html,Rd files,18704,Prof Brian Ripley
+018712.html,locator(n=1) or  (n=500)  as S-plus ?,18712,Prof Brian Ripley
+018660.html,.C,18660,Prof Brian D Ripley
+018667.html,[R] RH5.2 bundle,18667,Prof Brian D Ripley
+018698.html,Rd files,18698,Prof Brian D Ripley
+018678.html,Some outer() suggestions,18678,Jonathan Rougier
+018683.html,Some outer() suggestions,18683,Jonathan Rougier
+018685.html,dist function suggestion,18685,Jonathan Rougier
+018687.html,dist function suggestion,18687,Jonathan Rougier
+018707.html,backsolve... --&gt; class()es for special matrices ?,18707,Jonathan Rougier
+018713.html,R and AIX,18713,moro

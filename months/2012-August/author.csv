@@ -1,0 +1,210 @@
+link,Subject,id,author
+064659.html,[Rd] rdyncall fears removal from CRAN,64659,Daniel Adler
+064708.html,[Rd] rdyncall fears removal from CRAN,64708,Daniel Adler
+064667.html,[Rd] fmod() is used for %%?,64667,Alexandre Aguiar
+064672.html,[Rd] Suggestion for &quot;Writing R Extensions&quot;,64672,Oliver Bandel
+064575.html,[Rd] Windows 7 and .libPaths(),64575,Rui Barradas
+064577.html,[Rd] Windows 7 and .libPaths(),64577,Rui Barradas
+064645.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64645,Rui Barradas
+064750.html,[Rd] Arrays Partial unserialization,64750,Gabriel Becker
+064609.html,[Rd] as.numeric and as.character with locale using comma as	separator,64609,Claudia Beleites
+064675.html,[Rd] Milestone: 4000 packages on CRAN,64675,Henrik Bengtsson
+064698.html,[Rd] CRAN check error with no example?,64698,Henrik Bengtsson
+064707.html,[Rd] include dll in R-package,64707,Henrik Bengtsson
+064739.html,"[Rd] Suggestion: Change default to download.file(..., mode=&quot;wb&quot;) ...instead of mode=&quot;w&quot; with some bells and whistles",64739,Henrik Bengtsson
+064745.html,[Rd] non portable filenames,64745,Henrik Bengtsson
+064650.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64650,Christian Brechb&#252;hler
+064573.html,[Rd] setting invalid fields on reference classes sometimes	allowed,64573,John Chambers
+064586.html,[Rd] setMethod sometimes fails to set package slot when signature has trailing 'ANY',64586,John Chambers
+064651.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64651,Winston Chang
+064660.html,[Rd] rdyncall fears removal from CRAN,64660,Winston Chang
+064665.html,[Rd] GPU Computing,64665,Pierre Chausse
+064631.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64631,"Cule, Erika"
+064633.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64633,"Cule, Erika"
+064635.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64635,"Cule, Erika"
+064639.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64639,"Cule, Erika"
+064640.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64640,"Cule, Erika"
+064703.html,[Rd] how to keep the documents of private functions private,64703,Yanming Di
+064561.html,[Rd] Rd] Numerics behind splineDesign,64561,William Dunlap
+064653.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64653,William Dunlap
+064590.html,[Rd] Performance issues with R2.15.1 built from source on Solaris?,64590,"Eberle, Anthony"
+064593.html,[Rd] Performance issues with R2.15.1 built from source on	Solaris,64593,"Eberle, Anthony"
+064638.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64638,Dirk Eddelbuettel
+064676.html,[Rd] Milestone: 4000 packages on CRAN,64676,Dirk Eddelbuettel
+064678.html,[Rd] Milestone: 4000 packages on CRAN,64678,Dirk Eddelbuettel
+064684.html,[Rd] include dll in R-package,64684,Dirk Eddelbuettel
+064691.html,[Rd] misc subdirectory,64691,Dirk Eddelbuettel
+064711.html,[Rd] Package &quot;datasets&quot; not exporting anything on a	recent	R-2.15.1-patched,64711,Dirk Eddelbuettel
+064681.html,[Rd] Milestone: 4000 packages on CRAN,64681,S Ellison
+064710.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64710,Laurent Gautier
+064713.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64713,Laurent Gautier
+064714.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64714,Laurent Gautier
+064716.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64716,Laurent Gautier
+064721.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64721,Laurent Gautier
+064546.html,[Rd] Package index help file question.,64546,Damien Georges
+064748.html,[Rd] Arrays Partial unserialization,64748,Damien Georges
+064697.html,[Rd] CRAN check error with no example?,64697,Spencer Graves
+064699.html,[Rd] CRAN check error with no example?,64699,Spencer Graves
+064743.html,[Rd] tcltk capability,64743,Gabor Grothendieck
+064556.html,[Rd] Numerics behind splineDesign,64556,Bert Gunter
+064557.html,[Rd] Numerics behind splineDesign,64557,Bert Gunter
+064582.html,[Rd] virus and malicious code,64582,Bert Gunter
+064654.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64654,Bert Gunter
+064655.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64655,Bert Gunter
+064656.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64656,Bert Gunter
+064755.html,[Rd] Arrays Partial unserialization,64755,Bert Gunter
+064683.html,[Rd] include dll in R-package,64683,LIYING HUANG
+064704.html,[Rd] include dll in R-package,64704,LIYING HUANG
+064720.html,[Rd] include dll in R-package,64720,LIYING HUANG
+064725.html,[Rd] include dll in R-package,64725,LIYING HUANG
+064734.html,[Rd] include dll in R-package,64734,LIYING HUANG
+064746.html,[Rd] include dll in R-package,64746,LIYING HUANG
+064685.html,[Rd] include dll in R-package,64685,Kasper Daniel Hansen
+064686.html,[Rd] include dll in R-package,64686,Kasper Daniel Hansen
+064690.html,[Rd] misc subdirectory,64690,Kasper Daniel Hansen
+064722.html,[Rd] non portable filenames,64722,Kasper Daniel Hansen
+064718.html,[Rd] Hidden files in source packages,64718,Berend Hasselman
+064726.html,[Rd] include dll in R-package,64726,Berend Hasselman
+064737.html,[Rd] include dll in R-package,64737,Berend Hasselman
+064623.html,[Rd] warning in lattice key function,64623,Richard M. Heiberger
+064599.html,[Rd] trouble compiling R-patched from source on Windows 64 bit,64599,"Hodgess, Erin"
+064682.html,[Rd] Fwd: Re: Package cwhmisc and problems,64682,Christian Hoffmann
+064680.html,[Rd] Suggestion: Specify default of &quot;pch&quot; in the manual,64680,Benjamin Hofner
+064657.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64657,J. R. M. Hosking
+064569.html,[Rd] Daily snapshots of sources do not work?,64569,Rainer Hurling
+064723.html,[Rd] very minor typo in doc for embedFonts,64723,Simon Jackman
+064702.html,[Rd] cyclic namespace dependency detected,64702,Roger Koenker
+064689.html,[Rd] misc subdirectory,64689,Prof. Dr. Matthias Kohl
+064572.html,[Rd] setting invalid fields on reference classes sometimes allowed,64572,Michael Lawrence
+064663.html,[Rd] callNextMethod and &quot;...&quot; issue,64663,Michael Lawrence
+064580.html,[Rd] Straight-quotes for usage and examples sections in PDF docs?,64580,Mike Lawrence
+064555.html,[Rd] help with install.packages,64555,Uwe Ligges
+064579.html,[Rd] virus and malicious code,64579,Uwe Ligges
+064584.html,[Rd] Defining Version in R Package,64584,Uwe Ligges
+064620.html,[Rd] Build from Source fails on Loading required package Matrix,64620,Uwe Ligges
+064630.html,[Rd] Compressing data for package builds,64630,Uwe Ligges
+064632.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64632,Uwe Ligges
+064634.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64634,Uwe Ligges
+064636.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64636,Uwe Ligges
+064719.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64719,Uwe Ligges
+064578.html,[Rd] virus and malicious code,64578,David L Lorenz
+064688.html,[Rd] misc subdirectory,64688,David L Lorenz
+064547.html,[Rd] confusion over S3/S4 importing,64547,Thomas Lumley
+064643.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64643,Martin Maechler
+064647.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64647,Martin Maechler
+064648.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64648,Martin Maechler
+064666.html,[Rd] GPU Computing,64666,Norm Matloff
+064574.html,[Rd] setMethod sometimes fails to set package slot when signature has trailing 'ANY',64574,Martin Morgan
+064585.html,[Rd] setMethod sometimes fails to set package slot when signature has trailing 'ANY',64585,Martin Morgan
+064594.html,[Rd] [R] debug vs regular mode,64594,Martin Morgan
+064641.html,[Rd] data() documentation ambiguous about loaded versus attached	packages?,64641,Martin Morgan
+064646.html,"[Rd] mccollect does not return named,	ordered results when wait=FALSE",64646,Martin Morgan
+064664.html,[Rd] parLapply fails to detect default cluster?,64664,Martin Morgan
+064727.html,[Rd] parLapply fails to detect default cluster?,64727,Martin Morgan
+064742.html,[Rd] stack overflow? was Re: [R] segfault in gplots::heatmap.2,64742,Martin Morgan
+064550.html,[Rd] Package index help file question.,64550,Duncan Murdoch
+064576.html,[Rd] Windows 7 and .libPaths(),64576,Duncan Murdoch
+064591.html,[Rd] Inserting and testing revised functions in a package,64591,Duncan Murdoch
+064669.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64669,Duncan Murdoch
+064705.html,[Rd] how to keep the documents of private functions private,64705,Duncan Murdoch
+064724.html,[Rd] very minor typo in doc for embedFonts,64724,Duncan Murdoch
+064732.html,[Rd] Fwd: Re: Package cwhmisc and problems,64732,Duncan Murdoch
+064749.html,[Rd] Arrays Partial unserialization,64749,Duncan Murdoch
+064615.html,[Rd] Build from Source fails on Loading required package Matrix,64615,Dan Murphy
+064617.html,[Rd] Build from Source fails on Loading required package Matrix,64617,Dan Murphy
+064625.html,[Rd] Build from Source fails on Loading required package Matrix,64625,Dan Murphy
+064592.html,[Rd] Performance issues with R2.15.1 built from source on Solaris,64592,Radford Neal
+064563.html,[Rd] Interaction between callNextMethod() and selectMethod(),64563,Herv&#233; Pag&#232;s
+064564.html,[Rd] Interaction between callNextMethod() and selectMethod(),64564,Herv&#233; Pag&#232;s
+064567.html,[Rd] Interaction between callNextMethod() and selectMethod(),64567,Herv&#233; Pag&#232;s
+064694.html,[Rd] PHP escapeshellcmd() equivalent,64694,Brian G. Peterson
+064658.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64658,Andrew Piskorski
+064709.html,[Rd] cyclic namespace dependency detected,64709,RKoenker
+064566.html,[Rd] Problem in vignette packaging of Sweave in utils package,64566,Prof Brian Ripley
+064570.html,[Rd] Daily snapshots of sources do not work?,64570,Prof Brian Ripley
+064587.html,[Rd] Straight-quotes for usage and examples sections in PDF	docs?,64587,Prof Brian Ripley
+064598.html,[Rd] Performance issues with R2.15.1 built from source on	Solaris,64598,Prof Brian Ripley
+064600.html,[Rd] trouble compiling R-patched from source on Windows 64 bit,64600,Prof Brian Ripley
+064624.html,[Rd] warning in lattice key function,64624,Prof Brian Ripley
+064626.html,"[Rd] chown, chgrp?",64626,Prof Brian Ripley
+064637.html,[Rd] R package compilation: files in src directory should be ignored if C library is not available,64637,Prof Brian Ripley
+064668.html,[Rd] fmod() is used for %%?,64668,Prof Brian Ripley
+064677.html,[Rd] Milestone: 4000 packages on CRAN,64677,Prof Brian Ripley
+064679.html,[Rd] Milestone: 4000 packages on CRAN,64679,Prof Brian Ripley
+064712.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64712,Prof Brian Ripley
+064715.html,[Rd] Package &quot;datasets&quot; not exporting anything on a recent	R-2.15.1-patched,64715,Prof Brian Ripley
+064717.html,[Rd] Hidden files in source packages,64717,Prof Brian Ripley
+064738.html,[Rd] include dll in R-package,64738,Prof Brian Ripley
+064747.html,[Rd] include dll in R-package,64747,Prof Brian Ripley
+064751.html,[Rd] Arrays Partial unserialization,64751,Prof Brian Ripley
+064692.html,[Rd] Anybody have a WABAC machine?,64692,"Roebuck,Paul L"
+064693.html,[Rd] PHP escapeshellcmd() equivalent,64693,"Roebuck,Paul L"
+064695.html,[Rd] Suggestion: Specify default of &quot;pch&quot; in the manual,64695,"Roebuck,Paul L"
+064612.html,"[Rd] chown, chgrp?",64612,Barry Rowlingson
+064618.html,"[Rd] chown, chgrp?",64618,Barry Rowlingson
+064622.html,"[Rd] chown, chgrp?",64622,Jeff Ryan
+064687.html,[Rd] include dll in R-package,64687,Jeff Ryan
+064752.html,[Rd] Arrays Partial unserialization,64752,Jeff Ryan
+064674.html,[Rd] warning in lattice key function,64674,Deepayan Sarkar
+064733.html,[Rd] R package repository management tools,64733,Erik Shilts
+064740.html,[Rd] Terminating and restarting an embedded R instance possible?,64740,Christian Sigg
+064548.html,[Rd] Numerics behind splineDesign,64548,Nathaniel Smith
+064560.html,[Rd] Rd] Numerics behind splineDesign,64560,Nathaniel Smith
+064700.html,[Rd] Milestone: 4000 packages on CRAN,64700,Greg Snow
+064613.html,[Rd] question concerning par(&quot;plt&quot;) and par(&quot;mar&quot;),64613,Karline Soetaert
+064583.html,[Rd] Straight-quotes for usage and examples sections in PDF	docs?,64583,Dan Tenenbaum
+064559.html,[Rd] Rd] Numerics behind splineDesign,64559,Terry Therneau
+064562.html,[Rd] Rd] Numerics behind splineDesign,64562,Terry Therneau
+064736.html,[Rd] &quot;Ambiguous&quot; variation of default environment in `getClasses()` (standard function vs. formal S4 method),64736,Janko Thyson
+064644.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64644,Joshua Ulrich
+064670.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64670,Joshua Ulrich
+064671.html,[Rd] Suggestion for &quot;Writing R Extensions&quot;,64671,Joshua Ulrich
+064673.html,[Rd] Suggestion for &quot;Writing R Extensions&quot;,64673,Joshua Ulrich
+064696.html,[Rd] Anybody have a WABAC machine?,64696,Joshua Ulrich
+064568.html,[Rd] Interaction between callNextMethod() and selectMethod(),64568,Simon Urbanek
+064595.html,[Rd] [R] debug vs regular mode,64595,Simon Urbanek
+064597.html,[Rd] [R] debug vs regular mode,64597,Simon Urbanek
+064602.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64602,Simon Urbanek
+064603.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64603,Simon Urbanek
+064606.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64606,Simon Urbanek
+064608.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64608,Simon Urbanek
+064614.html,"[Rd] chown, chgrp?",64614,Simon Urbanek
+064616.html,[Rd] Build from Source fails on Loading required package Matrix,64616,Simon Urbanek
+064628.html,[Rd] Compressing data for package builds,64628,Simon Urbanek
+064729.html,[Rd] Don't dput() data frames?,64729,Simon Urbanek
+064731.html,[Rd] Don't dput() data frames?,64731,Simon Urbanek
+064741.html,[Rd] Terminating and restarting an embedded R instance possible?,64741,Simon Urbanek
+064744.html,[Rd] stack overflow? was Re: [R] segfault in gplots::heatmap.2,64744,Simon Urbanek
+064662.html,[Rd] Problem with initializiing R main loop under Windows (R.dll-version: 2.15.1),64662,Peter Vorpahl
+064619.html,"[Rd] chown, chgrp?",64619,"Warnes, Gregory"
+064589.html,[Rd] Inserting and testing revised functions in a package,64589,Chris Warren
+064728.html,[Rd] Don't dput() data frames?,64728,R. Michael Weylandt
+064730.html,[Rd] Don't dput() data frames?,64730,R. Michael Weylandt
+064610.html,"[Rd] chown, chgrp?",64610,Hadley Wickham
+064652.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64652,Hadley Wickham
+064661.html,[Rd] rdyncall fears removal from CRAN,64661,Hadley Wickham
+064706.html,[Rd] how to keep the documents of private functions private,64706,Hadley Wickham
+064649.html,[Rd] Quiz: How to get a &quot;named column&quot; from a data frame,64649,Joshua Wiley
+064596.html,[Rd] [R] debug vs regular mode,64596,"Zhang, Peng"
+064581.html,[Rd] Defining Version in R Package,64581,[R]andall
+064588.html,[Rd] Straight-quotes for usage and examples sections in PDF	docs?,64588,baptiste auguie
+064545.html,[Rd] Numerics behind splineDesign,64545,peter dalgaard
+064549.html,[Rd] Numerics behind splineDesign,64549,peter dalgaard
+064553.html,[Rd] INDEX   rdb and rdx files,64553,peter dalgaard
+064558.html,[Rd] INDEX   rdb and rdx files,64558,peter dalgaard
+064565.html,[Rd] Interaction between callNextMethod() and selectMethod(),64565,peter dalgaard
+064571.html,[Rd] Interaction between callNextMethod() and selectMethod(),64571,peter dalgaard
+064605.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64605,peter dalgaard
+064621.html,"[Rd] chown, chgrp?",64621,peter dalgaard
+064701.html,[Rd] CRAN check error with no example?,64701,peter dalgaard
+064735.html,[Rd] using setOldClass() causes warning on unloadNamespace() if the package imports methods,64735,sebastian.meyer at ifspm.uzh.ch
+064552.html,[Rd] INDEX   rdb and rdx files,64552,luxInteg
+064551.html,[Rd] help with install.packages,64551,luxInteg
+064554.html,[Rd] INDEX   rdb and rdx files,64554,luxInteg
+064627.html,[Rd] Compressing data for package builds,64627,steven mosher
+064629.html,[Rd] Compressing data for package builds,64629,steven mosher
+064642.html,[Rd] Compressing data for package builds,64642,steven mosher
+064601.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64601,nobody
+064604.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64604,nobody
+064607.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64607,nobody
+064611.html,[Rd] compile fails with x86_64-alpine-linux-uclibc-gcc,64611,nobody

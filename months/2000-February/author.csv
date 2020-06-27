@@ -1,0 +1,195 @@
+link,Subject,id,author
+020157.html,[Rd] astonishing memory phenomenon,20157,Jens Oehlschlägel-Akiyoshi
+020163.html,[Rd] astonishing memory phenomenon,20163,Jens Oehlschlägel-Akiyoshi
+020167.html,[Rd] new chron problems in RW0990,20167,Jens Oehlschlägel-Akiyoshi
+020200.html,[Rd] new chron problems in RW0990,20200,Jens Oehlschlägel-Akiyoshi
+020266.html,[Rd] pre summary: mapping of colornames into hsv?,20266,Jens Oehlschlägel-Akiyoshi
+020270.html,[Rd] Cleaning up in the bugs repository,20270,Jens Oehlschlägel-Akiyoshi
+020271.html,[Rd] Cleaning up in the bugs repository,20271,Jens Oehlschlägel-Akiyoshi
+020112.html,[Rd] fix() changes character to factor (PR#415),20112,Andreas.Weingessel@ci.tuwien.ac.at
+020089.html,"[Rd] Segmentation fault in recursion, 0.90.1 (PR#409)",20089,Peter Dalgaard BSA
+020106.html,[Rd] Bug list summary (automatic post),20106,Peter Dalgaard BSA
+020109.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20109,Peter Dalgaard BSA
+020117.html,[Rd] fix() changes character to factor (PR#415),20117,Peter Dalgaard BSA
+020119.html,[Rd] Compilation problems on Digital Unix 4.0c with gcc (PR#418),20119,Peter Dalgaard BSA
+020121.html,[Rd] problem with va_list type (alpha) (PR#421),20121,Peter Dalgaard BSA
+020123.html,[Rd] printutils bug on Linux/Alpha (PR#422),20123,Peter Dalgaard BSA
+020129.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20129,Peter Dalgaard BSA
+020143.html,[Rd] gnome support fail on startup (PR#426),20143,Peter Dalgaard BSA
+020146.html,[Rd] gnome support fail on startup (PR#426),20146,Peter Dalgaard BSA
+020159.html,[Rd] Something strange in &quot;?assign&quot;? (PR#433),20159,Peter Dalgaard BSA
+020172.html,[Rd] Compilation Failure on Linux/Intel (PR#434),20172,Peter Dalgaard BSA
+020174.html,[Rd] Compilation Failure on Linux/Intel (PR#434),20174,Peter Dalgaard BSA
+020179.html,[Rd] followup to graphics bug #414,20179,Peter Dalgaard BSA
+020182.html,[Rd] More plotting comments,20182,Peter Dalgaard BSA
+020188.html,[Rd] Problem with expression evaluation depth (PR#436),20188,Peter Dalgaard BSA
+020197.html,[Rd] rpois gives a large number repeatedly (PR#439),20197,Peter Dalgaard BSA
+020199.html,[Rd] rpois gives a large number repeatedly (PR#439),20199,Peter Dalgaard BSA
+020201.html,[Rd] new chron problems in RW0990,20201,Peter Dalgaard BSA
+020216.html,[Rd] bug in rbinom? (PR#448),20216,Peter Dalgaard BSA
+020220.html,[Rd] &quot;a.matrix[a.char.matrix]&lt;- &quot; crashes R (PR#447),20220,Peter Dalgaard BSA
+020223.html,[Rd] problem with glm (PR#452),20223,Peter Dalgaard BSA
+020226.html,[Rd] problem with glm (PR#452),20226,Peter Dalgaard BSA
+020231.html,[Rd] Bug list summary (automatic post),20231,Peter Dalgaard BSA
+020247.html,[Rd] fisher.test() in ctest or perhaps uniroot() (PR#455),20247,Peter Dalgaard BSA
+020248.html,[Rd] fisher.test() in ctest or perhaps uniroot() (PR#455),20248,Peter Dalgaard BSA
+020255.html,[Rd] lambda==0 in dpois() (PR#459),20255,Peter Dalgaard BSA
+020263.html,[Rd] html help: dev.x_x_x (PR#440),20263,Peter Dalgaard BSA
+020264.html,[Rd] Installation of rpm file on Suse Linux 6.2 (PR#449),20264,Peter Dalgaard BSA
+020269.html,[Rd] Cleaning up in the bugs repository,20269,Peter Dalgaard BSA
+020277.html,[Rd] Re: R-1.0.0 is released,20277,Peter Dalgaard BSA
+020282.html,[Rd] Bug in read.table (PR#463),20282,Peter Dalgaard BSA
+020135.html,[Rd] forwarded message from Dirk Eddelbuettel &lt;edd@debian.org&gt;,20135,Douglas Bates
+020166.html,[Rd] R CMD check [nlme|MASS] fails (PR#431),20166,Douglas Bates
+020127.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20127,Roger Bivand
+020128.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20128,Roger Bivand
+020165.html,[Rd] followup to graphics bug #414,20165,Ben Bolker
+020256.html,[Rd] lambda==0 in dpois() (PR#459),20256,Ben Bolker
+020272.html,[Rd] Re: [R] mapping of colornames into hsv?,20272,Ben Bolker
+020212.html,[Rd] contour() labels (PR#441),20212,Ray Brownrigg
+020257.html,[Rd] Mac,20257,Linda Gattuso
+020265.html,[Rd] Installation of rpm file on Suse Linux 6.2 (PR#449),20265,Albrecht Gebhardt
+020233.html,"[Rd] RNGkind(kind=&quot;default&quot;, normal.kind=&quot;default&quot;)",20233,Paul Gilbert
+020235.html,[Rd] reproducing Box-Muller numbers,20235,Paul Gilbert
+020237.html,[Rd] reproducing Box-Muller numbers,20237,Paul Gilbert
+020239.html,[Rd] reproducing Box-Muller numbers,20239,Paul Gilbert
+020241.html,[Rd] RNG usability,20241,Paul Gilbert
+020243.html,[Rd] RNG usability,20243,Paul Gilbert
+020246.html,[Rd] RNG usability,20246,Paul Gilbert
+020249.html,[Rd] RNG usability,20249,Paul Gilbert
+020267.html,[Rd] normal kind reset by runif,20267,Paul Gilbert
+020097.html,[Rd] INSTALL script,20097,Kurt Hornik
+020175.html,[Rd] astonishing memory phenomenon,20175,Kurt Hornik
+020176.html,[Rd] 0.99,20176,Kurt Hornik
+020177.html,[Rd] new chron problems in RW0990,20177,Kurt Hornik
+020088.html,"[Rd] Segmentation fault in recursion, 0.90.1 (PR#409)",20088,J.C.Rougier@durham.ac.uk
+020158.html,[Rd] Something strange in &quot;?assign&quot;? (PR#433),20158,J.C.Rougier@durham.ac.uk
+020091.html,[Rd] portable make files,20091,Timothy H. Keitt
+020093.html,[Rd] portable make files,20093,Timothy H. Keitt
+020094.html,[Rd] INSTALL script,20094,Timothy H. Keitt
+020132.html,[Rd] 0.99,20132,Timothy H. Keitt
+020184.html,[Rd] More plotting comments,20184,Timothy H. Keitt
+020198.html,[Rd] rpois gives a large number repeatedly (PR#439),20198,Kjetil Kjernsmo
+020111.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20111,Duncan Temple Lang
+020153.html,[Rd] Help System (PR#428),20153,Friedrich Leisch
+020162.html,[Rd] behaviour of bug.report (PR#432),20162,Friedrich Leisch
+020276.html,[Rd] backup signal,20276,Manuel Castejon Limas
+020099.html,[Rd] constrained optimiser doesn't obey constraints (PR#411),20099,Thomas Lumley
+020130.html,[Rd] strsplit (PR#424),20130,Thomas Lumley
+020169.html,[Rd] R hangs sometimes and crashes (PR#429),20169,Thomas Lumley
+020170.html,[Rd] R hangs sometimes and crashes (PR#429),20170,Thomas Lumley
+020183.html,[Rd] More plotting comments,20183,Thomas Lumley
+020189.html,[Rd] Error report on empty matrices (PR#435),20189,Thomas Lumley
+020192.html,[Rd] Error report on empty matrices (PR#435),20192,Thomas Lumley
+020202.html,[Rd] rpois gives a large number repeatedly (PR#439),20202,Thomas Lumley
+020203.html,[Rd] rpois gives a large number repeatedly (PR#439),20203,Thomas Lumley
+020259.html,[Rd] Parser Bug Somewhere.... (PR#460),20259,Thomas Lumley
+020278.html,[Rd] backup signal,20278,Thomas Lumley
+020280.html,[Rd] Bug in read.table (PR#463),20280,Thomas Lumley
+020281.html,[Rd] Bug in read.table (PR#463),20281,Thomas Lumley
+020274.html,[Rd] Feature request for read.table,20274,Martin Maechler
+020229.html,[Rd] split.screen + postscript Problem (PR#454),20229,Peter Malewski
+020224.html,[Rd] problem with glm (PR#452),20224,Brad McNeney
+020107.html,[Rd] small bug in plot code,20107,Paul Murrell
+020134.html,[Rd] DEC cc doesn't like c++ comments (PR#416),20134,Paul Murrell
+020178.html,[Rd] followup to graphics bug #414,20178,Paul Murrell
+020185.html,[Rd] More plotting comments,20185,Paul Murrell
+020230.html,[Rd] rug() extends axes instead of clipping (PR#442),20230,Paul Murrell
+020232.html,[Rd] r and excel on win32,20232,Erich Neuwirth
+020115.html,[Rd] Compilation problems on Digital Unix 4.0c with gcc (PR#418),20115,PETER_HOPFGARTNER@memc.it
+020173.html,[Rd] Compilation Failure on Linux/Intel (PR#434),20173,MJ Ray
+020204.html,[Rd] contour() labels (PR#441),20204,Ray.Brownrigg@mcs.vuw.ac.nz
+020090.html,"[Rd] Segmentation fault in recursion, 0.90.1 (PR#409)",20090,Prof Brian Ripley
+020096.html,[Rd] Feature requests for princomp(.) : Allow cor() specifications,20096,Prof Brian Ripley
+020126.html,[Rd] installing online help (PR#423),20126,Prof Brian Ripley
+020138.html,[Rd] Row subsetting of data frames (PR#425),20138,Prof Brian Ripley
+020139.html,[Rd] Row subsetting of data frames (PR#425),20139,Prof Brian Ripley
+020160.html,[Rd] R CMD check [nlme|MASS] fails (PR#431),20160,Prof Brian Ripley
+020161.html,[Rd] astonishing memory phenomenon,20161,Prof Brian Ripley
+020168.html,[Rd] new chron problems in RW0990,20168,Prof Brian Ripley
+020181.html,[Rd] More plotting comments,20181,Prof Brian Ripley
+020210.html,[Rd] Invalid .Random.seed problems: (PR#445),20210,Prof Brian Ripley
+020217.html,[Rd] bug in rbinom? (PR#448),20217,Prof Brian Ripley
+020219.html,[Rd] &quot;a.matrix[a.char.matrix]&lt;- &quot; crashes R (PR#447),20219,Prof Brian Ripley
+020268.html,[Rd] normal kind reset by runif,20268,Prof Brian Ripley
+020092.html,[Rd] portable make files,20092,Prof Brian D Ripley
+020100.html,[Rd] constrained optimiser doesn't obey constraints (PR#411),20100,Prof Brian D Ripley
+020142.html,[Rd] gnome support fail on startup (PR#426),20142,Prof Brian D Ripley
+020145.html,[Rd] gnome support fail on startup (PR#426),20145,Prof Brian D Ripley
+020194.html,[Rd] Thanks (More plotting comments),20194,Prof Brian D Ripley
+020195.html,[Rd] Autocovariance function (PR#438),20195,Prof Brian D Ripley
+020205.html,[Rd] contour() labels (PR#441),20205,Prof Brian D Ripley
+020225.html,[Rd] problem with glm (PR#452),20225,Prof Brian D Ripley
+020228.html,[Rd] split.screen + postscript Problem (PR#454),20228,Prof Brian D Ripley
+020234.html,"[Rd] RNGkind(kind=&quot;default&quot;, normal.kind=&quot;default&quot;)",20234,Prof Brian D Ripley
+020236.html,[Rd] reproducing Box-Muller numbers,20236,Prof Brian D Ripley
+020238.html,[Rd] reproducing Box-Muller numbers,20238,Prof Brian D Ripley
+020240.html,[Rd] reproducing Box-Muller numbers,20240,Prof Brian D Ripley
+020242.html,[Rd] RNG usability,20242,Prof Brian D Ripley
+020244.html,[Rd] RNG usability,20244,Prof Brian D Ripley
+020250.html,[Rd] RNG usability,20250,Prof Brian D Ripley
+020133.html,[Rd] gnome support failure (libglade error on debian),20133,Robert.King@mailbox.gu.edu.au
+020140.html,[Rd] (solution) Re: gnome support failure (libglade error on debian),20140,Robert.King@mailbox.gu.edu.au
+020149.html,[Rd] gnome support fail on startup (PR#426),20149,Robert.King@mailbox.gu.edu.au
+020108.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20108,Roger.Bivand@nhh.no
+020136.html,[Rd] forwarded message from Dirk Eddelbuettel &lt;edd@debian.org&gt;,20136,A.J. Rossini
+020147.html,[Rd] We should put together a track at ASA or similar: Software Engineering for Statisticians...,20147,A.J. Rossini
+020102.html,[Rd] Interest in R plotting capabilities,20102,Telford Tendys
+020104.html,[Rd] Interest in R plotting capabilities,20104,Telford Tendys
+020105.html,[Rd] small bug in plot code,20105,Telford Tendys
+020180.html,[Rd] More plotting comments,20180,Telford Tendys
+020193.html,[Rd] Thanks (More plotting comments),20193,Telford Tendys
+020164.html,[Rd] behaviour of bug.report (PR#432),20164,Berwin Turlach
+020186.html,[Rd] Error report on empty matrices (PR#435),20186,Ulrich.Kuesters@t-online.de
+020113.html,[Rd] DEC cc doesn't like c++ comments (PR#416),20113,albrecht.gbehardt@uni-klu.ac.at
+020116.html,[Rd] configure doesn't accept f77 on alpha (PR#419),20116,albrecht.gebhardt@uni-klu.ac.at
+020118.html,[Rd] extra flags for cc and f77 on alpha (PR#420),20118,albrecht.gebhardt@uni-klu.ac.at
+020120.html,[Rd] problem with va_list type (alpha) (PR#421),20120,albrecht.gebhardt@uni-klu.ac.at
+020150.html,[Rd] Help System (PR#427),20150,berwin@maths.uwa.edu.au
+020151.html,[Rd] Help System (PR#428),20151,berwin@maths.uwa.edu.au
+020154.html,[Rd] R CMD check [nlme|MASS] fails (PR#430),20154,berwin@maths.uwa.edu.au
+020155.html,[Rd] R CMD check [nlme|MASS] fails (PR#431),20155,berwin@maths.uwa.edu.au
+020156.html,[Rd] behaviour of bug.report (PR#432),20156,berwin@maths.uwa.edu.au
+020206.html,[Rd] rug() extends axes instead of clipping (PR#442),20206,berwin@maths.uwa.edu.au
+020110.html,[Rd] graphics bugs: steep slopes and large values beyond ylim (PR#414),20110,bolker@zoo.ufl.edu
+020254.html,[Rd] lambda==0 in dpois() (PR#459),20254,bolker@zoo.ufl.edu
+020251.html,[Rd] bug and fix : using panel.first with plot() in do.call() (PR#457),20251,c.farrow@compserv.gla.ac.uk
+020214.html,[Rd] &quot;a.matrix[a.char.matrix]&lt;- &quot; crashes R (PR#447),20214,cberry@tajo.ucsd.edu
+020215.html,[Rd] bug in rbinom? (PR#448),20215,dtrenkler@nts6.oec.uni-osnabrueck.de
+020148.html,[Rd] Romanian Business Opportunity &gt; ELECTRO ALFA,20148,electro@export2000.ro
+020171.html,[Rd] Compilation Failure on Linux/Intel (PR#434),20171,h089@mth.uea.ac.uk
+020207.html,[Rd] chron now fails with 4 digit year (PR#443),20207,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020124.html,[Rd] installing online help (PR#423),20124,jlindsey@alpha.luc.ac.be
+020125.html,[Rd] strsplit (PR#424),20125,jlindsey@alpha.luc.ac.be
+020208.html,[Rd] rle (PR#444),20208,jlindsey@alpha.luc.ac.be
+020273.html,[Rd] pgamma (PR#462),20273,jlindsey@alpha.luc.ac.be
+020258.html,[Rd] Parser Bug Somewhere.... (PR#460),20258,john-cavanaugh@cableone.net
+020187.html,[Rd] Problem with expression evaluation depth (PR#436),20187,jperez@cesma.usb.ve
+020152.html,[Rd] R hangs sometimes and crashes (PR#429),20152,kjetikj@astro.uio.no
+020196.html,[Rd] rpois gives a large number repeatedly (PR#439),20196,kjetikj@astro.uio.no
+020103.html,[Rd] Generation Y  will Generate Big Revenues for this Stock,20103,la44@email.com
+020190.html,[Rd] Autocovariance function (cont.) (PR#437),20190,lamkel@yahoo.com
+020191.html,[Rd] Autocovariance function (PR#438),20191,lamkel@yahoo.com
+020261.html,[Rd] Installation of rpm file on Suse Linux 6.2 (PR#449),20261,luzi@stud.phys.ethz.ch
+020144.html,[Rd] gnome support fail on startup (PR#426),20144,maechler@stat.math.ethz.ch
+020275.html,[Rd] pgamma (PR#462),20275,maechler@stat.math.ethz.ch
+020222.html,[Rd] problem with glm (PR#452),20222,mcneney@cs.sfu.ca
+020221.html,[Rd] splitstr documentation problem (PR#451),20221,mcw@ln.nimh.nih.gov
+020213.html,[Rd] Axis mishandling missing values (PR#446),20213,murdoch@stats.uwo.ca
+020101.html,[Rd] anomalies with call objects (PR#412),20101,p.dalgaard@biostat.ku.dk
+020131.html,"[Rd] Segmentation fault, devPS.c, 0.99.0 (PR#413)",20131,p.dalgaard@biostat.ku.dk
+020211.html,Fwd: Re: [Rd] Problem with expression evaluation depth (PR#436),20211,p.dalgaard@biostat.ku.dk
+020218.html,[Rd] &quot;a.matrix[a.char.matrix]&lt;- &quot; crashes R (PR#447),20218,p.dalgaard@biostat.ku.dk
+020227.html,[Rd] split.screen + postscript Problem (PR#454),20227,p.malewski@tu-bs.de
+020095.html,[Rd] Bugs and comments. (PR#410),20095,plindsey@alpha.luc.ac.be
+020122.html,[Rd] printutils bug on Linux/Alpha (PR#422),20122,plummer@iarc.fr
+020137.html,[Rd] Row subsetting of data frames (PR#425),20137,plummer@iarc.fr
+020209.html,[Rd] Invalid .Random.seed problems: (PR#445),20209,plummer@iarc.fr
+020114.html,[Rd] Re: [R] Alpha Linux compile failure with 0.99 (PR#417),20114,ripley@stats.ox.ac.uk
+020253.html,[Rd] bug and fix : using panel.first with plot() in do.call() (PR#458),20253,ripley@stats.ox.ac.uk
+020262.html,[Rd] html help (PR#440),20262,ripley@stats.ox.ac.uk
+020141.html,[Rd] gnome support fail on startup (PR#426),20141,robert.king@mailbox.gu.edu.au
+020098.html,[Rd] constrained optimiser doesn't obey constraints (PR#411),20098,thomas@biostat.washington.edu
+020245.html,[Rd] fisher.test() in ctest or perhaps uniroot() (PR#455),20245,thomas@biostat.washington.edu
+020279.html,[Rd] Bug in read.table (PR#463),20279,venkat@biosta.mskcc.org
+020260.html,[Rd] html help: dev.x_x_x (PR#440),20260,wsi@gcal.ac.uk

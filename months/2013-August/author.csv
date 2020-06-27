@@ -1,0 +1,269 @@
+link,Subject,id,author
+067160.html,[Rd] Extending suggestion for stopifnot,67160,R. Michael Weylandt &lt;michael.weylandt at gmail.com&gt;
+067183.html,"[Rd] Confusion about Depends:, Imports:, Enhances:, import(),	inportFrom()",67183,R. Michael Weylandt &lt;michael.weylandt at gmail.com&gt;
+067186.html,"[Rd] Confusion about Depends:, Imports:, Enhances:, import(),	inportFrom()",67186,R. Michael Weylandt &lt;michael.weylandt at gmail.com&gt;
+067213.html,[Rd] Accessing the formals() of a non-exported method without	:::?,67213,R. Michael Weylandt &lt;michael.weylandt at gmail.com&gt;
+067106.html,[Rd] Creating data.frame from c-language,67106,Boris Aronshtam
+067115.html,[Rd] Creating data.frame from c-language,67115,Boris Aronshtam
+067129.html,[Rd] Inconsistency between eval and withVisible (with patch),67129,Gabriel Becker
+067134.html,[Rd] Inconsistency between eval and withVisible (with patch),67134,Gabriel Becker
+067147.html,[Rd] Correct procedure when working on bugs tracked in bugzilla?,67147,Gabriel Becker
+067192.html,[Rd] legitimate use of :::,67192,Gabriel Becker
+067201.html,[Rd] legitimate use of :::,67201,Gabriel Becker
+067204.html,[Rd] legitimate use of :::,67204,Gabriel Becker
+067209.html,[Rd] legitimate use of :::,67209,Gabriel Becker
+067229.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67229,Gabriel Becker
+067233.html,[Rd] legitimate use of :::,67233,Gabriel Becker
+067287.html,"[Rd] model.frame(), model.matrix(),	and derived predictor variables",67287,Gabriel Becker
+067293.html,[Rd] &#8216;:::&#8217; call,67293,Gabriel Becker
+067320.html,"[Rd] model.frame(), model.matrix(),	and derived predictor variables",67320,Gabriel Becker
+067086.html,[Rd] Adding text comments to graphics device output files?,67086,Henrik Bengtsson
+067185.html,"[Rd] Confusion about Depends:, Imports:, Enhances:, import(),	inportFrom()",67185,Henrik Bengtsson
+067191.html,[Rd] legitimate use of :::,67191,Henrik Bengtsson
+067216.html,[Rd] packages with Sweave and knitr vignettes?,67216,Henrik Bengtsson
+067239.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67239,Henrik Bengtsson
+067251.html,[Rd] legitimate use of :::,67251,Henrik Bengtsson
+067288.html,[Rd] Error when using buildVignettes(),67288,Henrik Bengtsson
+067290.html,[Rd] Error when using buildVignettes(),67290,Henrik Bengtsson
+067321.html,[Rd] &quot;False&quot; warning on &quot;replacing previous import&quot; when re-exporting identical object,67321,Henrik Bengtsson
+067332.html,[Rd] &quot;False&quot; warning on &quot;replacing previous import&quot; when re-exporting identical object,67332,Henrik Bengtsson
+067336.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67336,Henrik Bengtsson
+067339.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67339,Henrik Bengtsson
+067341.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67341,Henrik Bengtsson
+067342.html,[Rd] &quot;False&quot; warning on &quot;replacing previous import&quot; when re-exporting identical object,67342,Henrik Bengtsson
+067346.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67346,Henrik Bengtsson
+067093.html,[Rd] proposal for new FAQ entry?,67093,Ben Bolker
+067104.html,[Rd] trivial typo in &quot;writing r extensions&quot;,67104,Ben Bolker
+067145.html,"[Rd] model.frame(), model.matrix(), and derived predictor variables",67145,Ben Bolker
+067224.html,"[Rd] model.frame(), model.matrix(),	and derived predictor variables",67224,Ben Bolker
+067254.html,[Rd] possible tweaking of family()$simulate?,67254,Ben Bolker
+067284.html,[Rd] Minimum requirements for package submission,67284,Ben Bolker
+067301.html,"[Rd] model.frame(), model.matrix(),	and derived predictor variables",67301,Ben Bolker
+067217.html,[Rd] Makevars and Makeconf sequencing,67217,Ross Boylan
+067253.html,[Rd] Error in simulation. NAN,67253,Martyn Byng
+067125.html,[Rd] Multiple return values / bug in rpart?,67125,John Chambers
+067243.html,[Rd] legitimate use of :::,67243,Trevor Davis
+067162.html,[Rd] Extending suggestion for stopifnot,67162,William Dunlap
+067109.html,[Rd] Creating data.frame from c-language,67109,Dirk Eddelbuettel
+067260.html,[Rd] Minimum requirements for package submission,67260,Dirk Eddelbuettel
+067263.html,[Rd] Minimum requirements for package submission,67263,Dirk Eddelbuettel
+067266.html,[Rd] Minimum requirements for package submission,67266,Dirk Eddelbuettel
+067188.html,[Rd] legitimate use of :::,67188,John Fox
+067194.html,[Rd] legitimate use of :::,67194,John Fox
+067208.html,[Rd] legitimate use of :::,67208,John Fox
+067249.html,[Rd] legitimate use of :::,67249,John Fox
+067182.html,"[Rd] Confusion about Depends:, Imports:, Enhances:, import(),	inportFrom()",67182,Michael Friendly
+067184.html,[Rd] legitimate use of :::,67184,Michael Friendly
+067214.html,[Rd] packages with Sweave and knitr vignettes?,67214,Michael Friendly
+067090.html,[Rd] R crashes when using cutree after as.hclust on a subset of a	dendrogram,67090,Tal Galili
+067081.html,[Rd] Depends vs Imports,67081,Paul Gilbert
+067084.html,[Rd] Depends vs Imports,67084,Paul Gilbert
+067248.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67248,Paul Gilbert
+067267.html,[Rd] &#8216;:::&#8217; call,67267,Paul Gilbert
+067276.html,[Rd] &#8216;:::&#8217; call,67276,Paul Gilbert
+067283.html,[Rd] &#8216;:::&#8217; call,67283,Paul Gilbert
+067292.html,[Rd] &#8216;:::&#8217; call,67292,Paul Gilbert
+067330.html,[Rd] &quot;False&quot; warning on &quot;replacing previous import&quot; when re-exporting identical object,67330,Paul Gilbert
+067207.html,[Rd] legitimate use of :::,67207,Gray
+067311.html,[Rd] Minimum requirements for package submission,67311,Jonathan Greenberg
+067315.html,[Rd] Minimum requirements for package submission,67315,Jonathan Greenberg
+067097.html,[Rd] [R] Internalization of help pages,67097,Tom&#225;&#353; Greif
+067165.html,[Rd] Extending suggestion for stopifnot,67165,Gabor Grothendieck
+067197.html,[Rd] legitimate use of :::,67197,Gabor Grothendieck
+067200.html,[Rd] legitimate use of :::,67200,Gabor Grothendieck
+067203.html,[Rd] legitimate use of :::,67203,Gabor Grothendieck
+067113.html,[Rd] Reason for difference in singular value decomposition produced by function La.svd (via prcomp)?,67113,Ulrike Gr&#246;mping
+067223.html,[Rd] legitimate use of :::,67223,Kasper Daniel Hansen
+067242.html,[Rd] legitimate use of :::,67242,Kasper Daniel Hansen
+067278.html,[Rd] &#8216;:::&#8217; call,67278,Kasper Daniel Hansen
+067294.html,[Rd] &#8216;:::&#8217; call,67294,Kasper Daniel Hansen
+067091.html,[Rd] Redundant text in help page for eigen,67091,Berend Hasselman
+067235.html,[Rd] legitimate use of :::,67235,Benjamin Hofner
+067237.html,[Rd] legitimate use of :::,67237,Benjamin Hofner
+067247.html,[Rd] legitimate use of :::,67247,Benjamin Hofner
+067225.html,[Rd] cyclic namespace dependency detected when loading ...,67225,Jannis
+067173.html,[Rd] Extending suggestion for stopifnot,67173,Geoff Jentry
+067274.html,[Rd] Minimum requirements for package submission,67274,Geoff Jentry
+067286.html,[Rd] Minimum requirements for package submission,67286,Geoff Jentry
+067087.html,[Rd] tk + browser() can leave R unresponsive,67087,Scott Kostyshak
+067088.html,[Rd] tk + browser() can leave R unresponsive,67088,Scott Kostyshak
+067154.html,[Rd] Problem with R &gt;3.0.0,67154,Peter Langfelder
+067155.html,[Rd] Problem with R &gt;3.0.0,67155,Peter Langfelder
+067156.html,[Rd] Problem with R &gt;3.0.0,67156,Peter Langfelder
+067161.html,[Rd] Extending suggestion for stopifnot,67161,Peter Langfelder
+067098.html,[Rd] [R] Internalization of help pages,67098,Jim Lemon
+067126.html,[Rd] 2 questions about signal &amp; broken connection in R,67126,Rong lI Li
+067181.html,[Rd] legitimate use of :::,67181,Uwe Ligges
+067199.html,[Rd] legitimate use of :::,67199,Uwe Ligges
+067227.html,[Rd] cyclic namespace dependency detected when loading ...,67227,Uwe Ligges
+067264.html,[Rd] Rename the package published on CRAN,67264,Uwe Ligges
+067298.html,[Rd] Packages not found,67298,Uwe Ligges
+067128.html,[Rd] readChar and blocking connections,67128,Thomas Lumley
+067299.html,[Rd] Packages not found,67299,Martin Maechler
+067141.html,[Rd] as.Date.character speed improvement suggestion,67141,"McGehee, Robert"
+067131.html,[Rd] local variable assignment: first copies from higher frame?,67131,Peter Meilstrup
+067133.html,[Rd] Inconsistency between eval and withVisible (with patch),67133,Peter Meilstrup
+067136.html,[Rd] Inconsistency between eval and withVisible (with patch),67136,Peter Meilstrup
+067137.html,[Rd] Inconsistency between eval and withVisible (with patch),67137,Peter Meilstrup
+067146.html,[Rd] How does R_UnboundValue and removing variables work?,67146,Peter Meilstrup
+067202.html,[Rd] legitimate use of :::,67202,Peter Meilstrup
+067205.html,[Rd] legitimate use of :::,67205,Peter Meilstrup
+067211.html,[Rd] legitimate use of :::,67211,Stephen Milborrow
+067168.html,[Rd] Extending suggestion for stopifnot,67168,Martin Morgan
+067324.html,[Rd] Big Integer Support in JSON-to-R Conversion,67324,Trannon Mosher
+067123.html,[Rd] Multiple return values / bug in rpart?,67123,Duncan Murdoch
+067140.html,[Rd] format bug and patch,67140,Duncan Murdoch
+067151.html,[Rd] Correct procedure when working on bugs tracked in bugzilla?,67151,Duncan Murdoch
+067230.html,[Rd] legitimate use of :::,67230,Duncan Murdoch
+067231.html,[Rd] legitimate use of :::,67231,Duncan Murdoch
+067236.html,[Rd] legitimate use of :::,67236,Duncan Murdoch
+067245.html,[Rd] legitimate use of :::,67245,Duncan Murdoch
+067246.html,[Rd] legitimate use of :::,67246,Duncan Murdoch
+067261.html,[Rd] Minimum requirements for package submission,67261,Duncan Murdoch
+067265.html,[Rd] Minimum requirements for package submission,67265,Duncan Murdoch
+067279.html,[Rd] &#8216;:::&#8217; call,67279,Duncan Murdoch
+067280.html,[Rd] &#8216;:::&#8217; call,67280,Duncan Murdoch
+067296.html,[Rd] &#8216;:::&#8217; call,67296,Duncan Murdoch
+067327.html,[Rd] Type annotations for R function parameters.,67327,Duncan Murdoch
+067329.html,[Rd] Type annotations for R function parameters.,67329,Duncan Murdoch
+067335.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67335,Duncan Murdoch
+067338.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67338,Duncan Murdoch
+067108.html,[Rd] broken link in docs for Binormial functions,67108,Sean O'Riordain
+067085.html,[Rd] Error from R CMD check,67085,"ONKELINX, Thierry"
+067105.html,[Rd] a fast table() for the 1D case,67105,Herv&#233; Pag&#232;s
+067234.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67234,Martyn Plummer
+067089.html,[Rd] [R] Internalization of help pages,67089,Prof Brian Ripley
+067100.html,[Rd] Error in building pdf manual with Rtools,67100,Prof Brian Ripley
+067102.html,[Rd] Error in building pdf manual with Rtools,67102,Prof Brian Ripley
+067107.html,[Rd] Creating data.frame from c-language,67107,Prof Brian Ripley
+067110.html,[Rd] broken link in docs for Binormial functions,67110,Prof Brian Ripley
+067116.html,[Rd] Creating data.frame from c-language,67116,Prof Brian Ripley
+067122.html,[Rd] Multiple return values / bug in rpart?,67122,Prof Brian Ripley
+067127.html,[Rd] 2 questions about signal &amp; broken connection in R,67127,Prof Brian Ripley
+067144.html,[Rd] format bug and patch,67144,Prof Brian Ripley
+067150.html,[Rd] Issues in installing R-devel,67150,Prof Brian Ripley
+067174.html,[Rd] Problem with R &gt;3.0.0,67174,Prof Brian Ripley
+067178.html,[Rd] Problem with R &gt;3.0.0,67178,Prof Brian Ripley
+067304.html,[Rd] Why does an empty vector occupy 40 bytes?,67304,Prof Brian Ripley
+067317.html,[Rd] Why does an empty vector occupy 40 bytes?,67317,Prof Brian Ripley
+067163.html,[Rd] Extending suggestion for stopifnot,67163,Brian Rowe
+067195.html,[Rd] legitimate use of :::,67195,Brian Rowe
+067331.html,[Rd] Type annotations for R function parameters.,67331,Brian Rowe
+067198.html,[Rd] legitimate use of :::,67198,Brian Lee Yung Rowe
+067206.html,[Rd] legitimate use of :::,67206,Brian Lee Yung Rowe
+067092.html,[Rd] [R] Internalization of help pages,67092,Barry Rowlingson
+067095.html,[Rd] proposal for new FAQ entry?,67095,Barry Rowlingson
+067118.html,[Rd] Multiple return values / bug in rpart?,67118,Barry Rowlingson
+067158.html,[Rd] Extending suggestion for stopifnot,67158,Deepayan Sarkar
+067169.html,[Rd] Extending suggestion for stopifnot,67169,Deepayan Sarkar
+067328.html,[Rd] Type annotations for R function parameters.,67328,Deepayan Sarkar
+067269.html,[Rd] &#8216;:::&#8217; call,67269,Marc Schwartz
+067334.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67334,Marc Schwartz
+067340.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67340,Marc Schwartz
+067152.html,[Rd] Problem with R &gt;3.0.0,67152,"Shelton, Samuel"
+067170.html,[Rd] Problem with R &gt;3.0.0,67170,"Shelton, Samuel"
+067171.html,[Rd] Problem with R &gt;3.0.0,67171,"Shelton, Samuel"
+067226.html,[Rd] Problem with R &gt;3.0.0,67226,"Shelton, Samuel"
+067212.html,[Rd] Accessing the formals() of a non-exported method without :::?,67212,Gavin Simpson
+067220.html,[Rd] Accessing the formals() of a non-exported method without	:::?,67220,Gavin Simpson
+067221.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67221,Gavin Simpson
+067222.html,[Rd] Accessing the formals() of a non-exported method without	:::?,67222,Gavin Simpson
+067240.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67240,Gavin Simpson
+067250.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67250,Gavin Simpson
+067270.html,[Rd] &#8216;:::&#8217; call,67270,Gavin Simpson
+067120.html,[Rd] Source location of currently evaluated code?,67120,Vitalie Spinu
+067325.html,[Rd]  ::: inside the package,67325,Reijo Sund
+067117.html,[Rd] Multiple return values / bug in rpart?,67117,Justin Talbot
+067130.html,[Rd] local variable assignment: first copies from higher frame?,67130,Murat Tasan
+067138.html,[Rd] local variable assignment: first copies from higher frame?,67138,Murat Tasan
+067215.html,[Rd] packages with Sweave and knitr vignettes?,67215,Dan Tenenbaum
+067121.html,[Rd] Multiple return values / bug in rpart?,67121,Terry Therneau
+067099.html,[Rd] Error in building pdf manual with Rtools,67099,Tonio
+067101.html,[Rd] Error in building pdf manual with Rtools,67101,Tonio
+067103.html,[Rd] Error in building pdf manual with Rtools,67103,Tonio
+067149.html,[Rd] Issues in installing R-devel,67149,Arrain Txikiak
+067159.html,"[Rd] R-devel Digest, Vol 126, Issue 18",67159,Arrain Txikiak
+067082.html,[Rd] Depends vs Imports,67082,Simon Urbanek
+067119.html,[Rd] Multiple return values / bug in rpart?,67119,Simon Urbanek
+067135.html,[Rd] Inconsistency between eval and withVisible (with patch),67135,Simon Urbanek
+067142.html,[Rd] as.Date.character speed improvement suggestion,67142,Simon Urbanek
+067148.html,[Rd] How does R_UnboundValue and removing variables work?,67148,Simon Urbanek
+067218.html,[Rd] Makevars and Makeconf sequencing,67218,Simon Urbanek
+067271.html,[Rd] Memory allocation in read.table,67271,Simon Urbanek
+067273.html,[Rd] Memory allocation in read.table,67273,Simon Urbanek
+067277.html,[Rd] Memory allocation in read.table,67277,Simon Urbanek
+067303.html,[Rd] Why does an empty vector occupy 40 bytes?,67303,Simon Urbanek
+067307.html,[Rd] Why does an empty vector occupy 40 bytes?,67307,Simon Urbanek
+067309.html,[Rd] Why does an empty vector occupy 40 bytes?,67309,Simon Urbanek
+067314.html,[Rd] Why does an empty vector occupy 40 bytes?,67314,Simon Urbanek
+067139.html,[Rd] format bug and patch,67139,Aleksey Vorona
+067143.html,[Rd] format bug and patch,67143,Aleksey Vorona
+067256.html,[Rd] Minimum requirements for package submission,67256,Sana Wajid
+067306.html,[Rd] Minimum requirements for package submission,67306,Sana Wajid
+067083.html,[Rd] Depends vs Imports,67083,R. Michael Weylandt
+067167.html,[Rd] Extending suggestion for stopifnot,67167,Hadley Wickham
+067189.html,[Rd] legitimate use of :::,67189,Hadley Wickham
+067193.html,[Rd] legitimate use of :::,67193,Hadley Wickham
+067196.html,[Rd] legitimate use of :::,67196,Hadley Wickham
+067228.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67228,Hadley Wickham
+067238.html,[Rd] legitimate use of :::,67238,Hadley Wickham
+067241.html,[Rd] Correct NAMESPACE approach when writing an S3 method for a generic in another package,67241,Hadley Wickham
+067244.html,[Rd] legitimate use of :::,67244,Hadley Wickham
+067257.html,[Rd] Minimum requirements for package submission,67257,Hadley Wickham
+067258.html,[Rd] RProf + memory profiling,67258,Hadley Wickham
+067262.html,[Rd] Minimum requirements for package submission,67262,Hadley Wickham
+067268.html,[Rd] Memory allocation in read.table,67268,Hadley Wickham
+067272.html,[Rd] Memory allocation in read.table,67272,Hadley Wickham
+067275.html,[Rd] Memory allocation in read.table,67275,Hadley Wickham
+067285.html,[Rd] &#8216;:::&#8217; call,67285,Hadley Wickham
+067302.html,[Rd] Why does an empty vector occupy 40 bytes?,67302,Hadley Wickham
+067305.html,[Rd] Why does an empty vector occupy 40 bytes?,67305,Hadley Wickham
+067308.html,[Rd] Why does an empty vector occupy 40 bytes?,67308,Hadley Wickham
+067312.html,[Rd] Why does an empty vector occupy 40 bytes?,67312,Hadley Wickham
+067313.html,[Rd] Minimum requirements for package submission,67313,Hadley Wickham
+067316.html,[Rd] Minimum requirements for package submission,67316,Hadley Wickham
+067112.html,[Rd] broken link in docs for Binormial functions,67112,David Winsemius
+067259.html,[Rd] Minimum requirements for package submission,67259,Kevin Wright
+067180.html,[Rd] legitimate use of :::,67180,Yihui Xie
+067190.html,[Rd] legitimate use of :::,67190,Yihui Xie
+067210.html,[Rd] legitimate use of :::,67210,Yihui Xie
+067219.html,[Rd] packages with Sweave and knitr vignettes?,67219,Yihui Xie
+067232.html,[Rd] legitimate use of :::,67232,Yihui Xie
+067282.html,[Rd] &#8216;:::&#8217; call,67282,Yihui Xie
+067177.html,[Rd] Problem with R &gt;3.0.0,67177,Ista Zahn
+067255.html,[Rd] Rename the package published on CRAN,67255,comaths
+067295.html,[Rd] Rename the package published on CRAN,67295,comaths
+067291.html,[Rd] ':::' call,67291,Mark.Bravington at csiro.au
+067281.html,[Rd] Error when using buildVignettes(),67281,cstrato
+067289.html,[Rd] Error when using buildVignettes(),67289,cstrato
+067297.html,[Rd] Packages not found,67297,cstrato
+067300.html,[Rd] Packages not found,67300,cstrato
+067318.html,[Rd] Error when using buildVignettes(),67318,cstrato
+067333.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67333,cstrato
+067337.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67337,cstrato
+067343.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67343,cstrato
+067344.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67344,cstrato
+067345.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67345,cstrato
+067347.html,"[Rd] Problem with texi2pdf(..,clean=TRUE)",67347,cstrato
+067094.html,[Rd] proposal for new FAQ entry?,67094,peter dalgaard
+067096.html,[Rd] proposal for new FAQ entry?,67096,peter dalgaard
+067111.html,[Rd] broken link in docs for Binormial functions,67111,peter dalgaard
+067114.html,[Rd] Reason for difference in singular value decomposition	produced by function La.svd (via prcomp)?,67114,peter dalgaard
+067132.html,[Rd] Inconsistency between eval and withVisible (with patch),67132,peter dalgaard
+067153.html,[Rd] Problem with R &gt;3.0.0,67153,peter dalgaard
+067172.html,[Rd] Problem with R &gt;3.0.0,67172,peter dalgaard
+067175.html,[Rd] Problem with R &gt;3.0.0,67175,peter dalgaard
+067176.html,[Rd] Problem with R &gt;3.0.0,67176,peter dalgaard
+067187.html,[Rd] legitimate use of :::,67187,peter dalgaard
+067310.html,[Rd] Why does an empty vector occupy 40 bytes?,67310,peter dalgaard
+067319.html,[Rd] Why does an empty vector occupy 40 bytes?,67319,peter dalgaard
+067322.html,[Rd] Packages not found,67322,rpruim
+067323.html,[Rd] Packages not found,67323,rpruim
+067124.html,[Rd] Multiple return values / bug in rpart?,67124,luke-tierney at uiowa.edu
+067157.html,[Rd] Extending suggestion for stopifnot,67157,ivo welch
+067164.html,[Rd] Extending suggestion for stopifnot,67164,ivo welch
+067166.html,[Rd] Extending suggestion for stopifnot,67166,ivo welch
+067179.html,[Rd] Extending suggestion for stopifnot,67179,ivo welch
+067252.html,[Rd] Error in simulation. NAN,67252,gianluca.mastrantonio at yahoo.it
+067326.html,[Rd] Type annotations for R function parameters.,67326,&#1054;&#1073;&#1086;&#1090;&#1091;&#1088;&#1086;&#1074; &#1040;&#1088;&#1090;&#1077;&#1084;
+067348.html,[Rd] Type annotations for R function parameters.,67348,&#1054;&#1073;&#1086;&#1090;&#1091;&#1088;&#1086;&#1074; &#1040;&#1088;&#1090;&#1077;&#1084;

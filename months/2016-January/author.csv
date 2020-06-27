@@ -1,0 +1,94 @@
+link,Subject,id,author
+072220.html,[Rd] Multiple cores are used in simple for loop,72220,Henrik Bengtsson
+072178.html,[Rd] trivial typo in R for windows FAQ,72178,Ben Bolker
+072247.html,"[Rd] Suggestions for improvement as regards `as` methods, and a call for consistency in `as.Date` methods",72247,Michael Chirico
+072226.html,[Rd] r-devel @ Travis,72226,G&#225;bor Cs&#225;rdi
+072236.html,[Rd] Return options used to configure R,72236,G&#225;bor Cs&#225;rdi
+072238.html,[Rd] Return options used to configure R,72238,G&#225;bor Cs&#225;rdi
+072241.html,[Rd] Return options used to configure R,72241,G&#225;bor Cs&#225;rdi
+072208.html,[Rd] as.data.frame and illegal row.names argument (bug in	package:DoE.wrapper?),72208,William Dunlap
+072197.html,[Rd] coerce SEXP type to C++ matrix class and back,72197,Dirk Eddelbuettel
+072198.html,[Rd] Possibly useful idea,72198,Dirk Eddelbuettel
+072227.html,[Rd] r-devel @ Travis,72227,Dirk Eddelbuettel
+072229.html,[Rd] r-devel @ Travis,72229,Dirk Eddelbuettel
+072234.html,[Rd] Failed to install imager,72234,Dirk Eddelbuettel
+072239.html,[Rd] Return options used to configure R,72239,Dirk Eddelbuettel
+072245.html,[Rd] URL for a vignette on CRAN?,72245,Dirk Eddelbuettel
+072250.html,[Rd] More Capability for Capabilities,72250,Dirk Eddelbuettel
+072175.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72175,Michael Felt
+072176.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72176,Michael Felt
+072177.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72177,Michael Felt
+072180.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72180,Michael Felt
+072184.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72184,Michael Felt
+072185.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72185,Michael Felt
+072187.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72187,Michael Felt
+072191.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72191,Michael Felt
+072192.html,[Rd] R for AIX - guidance re: error messages requested,72192,Michael Felt
+072194.html,[Rd] R for AIX - guidance re: error messages requested,72194,Michael Felt
+072248.html,[Rd] symbol name conflict in grDevices on linux,72248,Oleg Finkelshteyn
+072209.html,[Rd] JDataFrame API,72209,Thomas Fuller
+072217.html,[Rd] JDataFrame API,72217,Thomas Fuller
+072221.html,[Rd] JDataFrame API,72221,Thomas Fuller
+072243.html,[Rd] URL for a vignette on CRAN?,72243,Spencer Graves
+072246.html,[Rd] URL for a vignette on CRAN?,72246,Spencer Graves
+072257.html,"[Rd] In plot.ts, las=1 applies to ylab with multiple series and not to axis labels",72257,Spencer Graves
+072210.html,[Rd] as.data.frame and illegal row.names argument (bug	in	package:DoE.wrapper?),72210,Paul Grosu
+072223.html,[Rd] as.data.frame and illegal row.names argument (bug in	package:DoE.wrapper?),72223,Paul Grosu
+072244.html,[Rd] URL for a vignette on CRAN?,72244,Paul Grosu
+072252.html,[Rd]  More Capability for Capabilities,72252,Paul Grosu
+072259.html,[Rd] Best way for rgl's .onLoad to fail?,72259,Bryan Hanson
+072242.html,[Rd] Return options used to configure R,72242,Berend Hasselman
+072213.html,[Rd] Multiple cores are used in simple for loop,72213,Daniel Kaschek
+072218.html,[Rd] Multiple cores are used in simple for loop,72218,Daniel Kaschek
+072233.html,[Rd] Warn on partial matches in R CMD check,72233,Rainer M Krug
+072188.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72188,Martin Maechler
+072203.html,[Rd] Small inaccuracy in the Writing R Extensions manual,72203,Martin Maechler
+072211.html,[Rd] as.data.frame and illegal row.names argument (bug in	package:DoE.wrapper?),72211,Martin Maechler
+072222.html,[Rd] as.data.frame and illegal row.names argument (bug	in	package:DoE.wrapper?),72222,Martin Maechler
+072253.html,[Rd] More Capability for Capabilities,72253,Martin Maechler
+072224.html,[Rd] r-devel @ Travis,72224,M&#229;ns Magnusson
+072228.html,[Rd] r-devel @ Travis,72228,M&#229;ns Magnusson
+072173.html,[Rd] Wrong bug ID &amp; URL in Daily News about R-devel/NEWS,72173,Ben Marwick
+072225.html,[Rd] r-devel @ Travis,72225,Peter Meissner
+072214.html,"[Rd] Error in socketConnection(master, port = port, blocking = TRUE, open = &quot;a+b&quot;, :    cannot open the connection",72214,"Morgan, Martin"
+072174.html,[Rd] Wrong bug ID &amp; URL in Daily News about R-devel/NEWS,72174,Duncan Murdoch
+072183.html,[Rd] deparse with parentheses for SUBSET,72183,Duncan Murdoch
+072202.html,[Rd] Small inaccuracy in the Writing R Extensions manual,72202,Duncan Murdoch
+072205.html,[Rd] Small inaccuracy in the Writing R Extensions manual,72205,Duncan Murdoch
+072256.html,[Rd] Best way for rgl's .onLoad to fail?,72256,Duncan Murdoch
+072260.html,[Rd] Update local320.zip to local323.zip in R-admin,72260,Duncan Murdoch
+072189.html,[Rd] deparse with parentheses for SUBSET,72189,Radford Neal
+072186.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72186,Josh O'Brien
+072190.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72190,Josh O'Brien
+072172.html,[Rd] Crash when reusing libcurl connection,72172,Jeroen Ooms
+072207.html,[Rd] subscripting a table changed behavior in R devel,72207,Herv&#233; Pag&#232;s
+072212.html,"[Rd] Error in socketConnection(master, port = port, blocking = TRUE, open = &quot;a+b&quot;, :    cannot open the connection",72212,Soumen Pal
+072195.html,[Rd] coerce SEXP type to C++ matrix class and back,72195,Antonio Perez
+072199.html,[Rd] coerce SEXP type to C++ matrix class and back,72199,Antonio Perez
+072215.html,[Rd] Multiple cores are used in simple for loop,72215,Martyn Plummer
+072251.html,[Rd] Abuse of a private glibc symbol in R 3.2.3,72251,Alba Pompeo
+072254.html,[Rd] Abuse of a private glibc symbol in R 3.2.3,72254,Alba Pompeo
+072196.html,[Rd] Possibly useful idea,72196,ProfJCNash
+072235.html,[Rd] Return options used to configure R,72235,Tom Quarendon
+072237.html,[Rd] Return options used to configure R,72237,Tom Quarendon
+072240.html,[Rd] Return options used to configure R,72240,Tom Quarendon
+072182.html,[Rd] deparse with parentheses for SUBSET,72182,Lukas Stadler
+072171.html,[Rd] URW Fonts Description in Installation and Administration Manual,72171,Dario Strbenac
+072193.html,[Rd] Inconsistencies of Fundamental Summary Functions,72193,Dario Strbenac
+072249.html,[Rd] More Capability for Capabilities,72249,Dario Strbenac
+072255.html,[Rd] More Capability for Capabilities,72255,Dario Strbenac
+072200.html,[Rd] On 'R CMD INSTALL' with multiple architectures,72200,Berwin A Turlach
+072201.html,[Rd] Small inaccuracy in the Writing R Extensions manual,72201,Berwin A Turlach
+072204.html,[Rd] Small inaccuracy in the Writing R Extensions manual,72204,Berwin A Turlach
+072168.html,"[Rd] R,	AIX 64-bit builds - trying to understand root cause for message:	&quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72168,Simon Urbanek
+072169.html,"[Rd] R,	AIX 64-bit builds - trying to understand root cause for message:	&quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72169,Simon Urbanek
+072179.html,"[Rd] R,	AIX 64-bit builds - trying to understand root cause for message:	&quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72179,Simon Urbanek
+072181.html,"[Rd] R,	AIX 64-bit builds - trying to understand root cause for message:	&quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72181,Simon Urbanek
+072216.html,[Rd] JDataFrame API,72216,Simon Urbanek
+072219.html,[Rd] JDataFrame API,72219,Simon Urbanek
+072258.html,[Rd] Update local320.zip to local323.zip in R-admin,72258,Adrian Waddell
+072230.html,[Rd] Warn on partial matches in R CMD check,72230,Hadley Wickham
+072231.html,[Rd] Warn on partial matches in R CMD check,72231,Yihui Xie
+072206.html,[Rd] xps installation error on Mac OS X 10.11,72206,cstrato
+072170.html,"[Rd] R,	AIX 64-bit builds - trying to understand root cause for message:	&quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72170,peter dalgaard
+072232.html,[Rd] Failed to install imager,72232,jupiter

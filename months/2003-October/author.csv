@@ -1,0 +1,292 @@
+link,Subject,id,author
+027977.html,[Rd] Segmentation fault in .Call() (PR#4761),27977,Jerome Asselin
+027742.html,[Rd] latest beta + MinGW 3.1.0-1 = minor fix needed,27742,Peter Dalgaard BSA
+027760.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27760,Peter Dalgaard BSA
+027769.html,[Rd] Memmory Bugs (PR#4474),27769,Peter Dalgaard BSA
+027783.html,[Rd] exceeding memory causes crash on Linux,27783,Peter Dalgaard BSA
+027847.html,[Rd] NA %*% 0 == 0 (PR#4582),27847,Peter Dalgaard BSA
+027747.html,[Rd] Configuring R to use Goto's BLAS,27747,Douglas Bates
+027757.html,[Rd] (PR#4450),27757,Douglas Bates
+027843.html,[Rd] Example of package that uses a namespace with S4 classes,27843,Douglas Bates
+027860.html,[Rd] Details section of image.Rd,27860,Douglas Bates
+027897.html,[Rd] R 1.80 version,27897,Douglas Bates
+027909.html,[Rd] an r-devel change related to attributes,27909,Douglas Bates
+027967.html,[Rd] NLME: gls parameter evaluation inconsistency (PR#4757),27967,Douglas Bates
+027974.html,[Rd] FLAME,27974,Douglas Bates
+028015.html,[Rd] solve.Matrix() not found (PR#4887),28015,Douglas Bates
+027797.html,[Rd] 1.8.0 on Unix: interrupting huge print()s  ??,27797,Henrik Bengtsson
+027894.html,[Rd] Re: [R] R - S compatibility table (fwd),27894,Ben Bolker
+027991.html,[Rd] proposal for &quot;strict&quot; versions of subsetting operators,27991,Ben Bolker
+027997.html,[Rd] proposal for &quot;strict&quot; versions of subsetting operators,27997,Ben Bolker
+027834.html,[Rd] 1.8.0 on Unix: interrupting huge print()s  ??,27834,David Brahm
+027914.html,[Rd] Subsetted 1-D arrays (PR#4110),27914,David Brahm
+027992.html,[Rd] proposal for &quot;strict&quot; versions of subsetting operators,27992,David Brahm
+027791.html,[Rd] 1.9 contrib archive for win needed,27791,Vincent Carey
+027787.html,[Rd] S4 group generic Complex not working (PR#4483),27787,John Chambers
+027825.html,[Rd] Problem in 'methods' package (PR#4525),27825,John Chambers
+027835.html,[Rd] Infinite recursion in getGeneric (PR#4561),27835,John Chambers
+027839.html,[Rd] Infinite recursion in getGeneric (PR#4561),27839,John Chambers
+027858.html,[Rd] Infinite recursion in getGeneric (PR#4561),27858,John Chambers
+027883.html,[Rd] Bug and fix in ? operator,27883,John Chambers
+027984.html,[Rd] initialization of S4 classes/methods,27984,John Chambers
+027863.html,[Rd] data() misbehaving inside a function,27863,Peter Dalgaard
+027865.html,[Rd] data() misbehaving inside a function,27865,Peter Dalgaard
+027872.html,[Rd] data() misbehaving inside a function,27872,Peter Dalgaard
+027903.html,[Rd] Problem R-1.8.0 library tcltk on Tcl-8.0.5 (PR#4699),27903,Peter Dalgaard
+027908.html,[Rd] Problem R-1.8.0 library tcltk on Tcl-8.0.5 (PR#4699),27908,Peter Dalgaard
+027915.html,[Rd] Subsetted 1-D arrays (PR#4110),27915,Peter Dalgaard
+027928.html,[Rd] Core dump when calling tclvalue (PR#4724),27928,Peter Dalgaard
+027935.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27935,Peter Dalgaard
+027939.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27939,Peter Dalgaard
+028008.html,[Rd] RAqua and AquaTclTk,28008,Peter Dalgaard
+028010.html,[Rd] RAqua and AquaTclTk,28010,Peter Dalgaard
+027770.html,[Rd] building XML-0.95-1 on MacOS,27770,Sean Davis
+027813.html,[Rd] number of arguments in .Call function registration,27813,Saikat DebRoy
+027776.html,[Rd] An artifact of base being namespace,27776,Saikat DebRoy
+027785.html,[Rd] S4 group generic Complex not working (PR#4483),27785,Saikat DebRoy
+027812.html,[Rd] An artifact of base being namespace,27812,Saikat DebRoy
+027832.html,[Rd] Inconsistency in subset results,27832,Saikat DebRoy
+027838.html,[Rd] Infinite recursion in getGeneric (PR#4561),27838,Saikat DebRoy
+027792.html,[Rd] 1.9 contrib archive for win needed,27792,Dirk Eddelbuettel
+027811.html,[Rd] Could the Windows installer edit PATH?,27811,Dirk Eddelbuettel
+027849.html,[Rd] fivenum (PR#4586),27849,Dirk Eddelbuettel
+027961.html,"[Rd] Versions of PCRE, documenting what grep etc do.",27961,Dirk Eddelbuettel
+027850.html,[Rd] help.search in trouble with R-patched ?,27850,Laurent Gautier
+027853.html,[Rd] help.search in trouble with R-patched ?,27853,Laurent Gautier
+027975.html,"[Rd] configure, config.site and TCLTK_CPPFLAGS",27975,Laurent Gautier
+028003.html,[Rd] R installation problems on Windows XP (PR#4842),28003,Yongchao Ge
+027946.html,[Rd] Accessing data files w/ --use-zip-data,27946,Jeff Gentry
+027774.html,[Rd] exceeding memory causes crash on Linux,27774,Paul Gilbert
+027777.html,[Rd] exceeding memory causes crash on Linux,27777,Paul Gilbert
+027779.html,[Rd] exceeding memory causes crash on Linux,27779,Paul Gilbert
+027878.html,[Rd] Bus error (PR#4623),27878,Paul Gilbert
+027882.html,[Rd] data() misbehaving inside a function,27882,Paul Gilbert
+027947.html,[Rd] Accessing data files w/ --use-zip-data,27947,Paul Gilbert
+027963.html,[Rd] data/ and data(),27963,Paul Gilbert
+027881.html,[Rd] data() misbehaving inside a function,27881,Gabor Grothendieck
+027925.html,[Rd] Subsetted 1-D arrays (PR#4110),27925,Gabor Grothendieck
+027989.html,[Rd] proposal for ,27989,Gabor Grothendieck
+028002.html,[Rd] Wishlist: user-specified color names for palette() (PR#4836),28002,Gabor Grothendieck
+027752.html,[Rd] getting names of p vector in nlm function...,27752,Jeff D. Hamann
+027765.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27765, (Ted Harding)
+027836.html,[Rd] Double inclusion of Runix.h: why?,27836,Thomas Hoffmann
+027837.html,[Rd] Documentation buglet in pdf.Rd?,27837,Thomas Hoffmann
+027884.html,[Rd] R-1.8.0: Rdconv.in,27884,Thomas Hoffmann
+027827.html,[Rd] xlc/xlf on osx ,27827,Kurt Hornik
+027868.html,[Rd] data() misbehaving inside a function,27868,Kurt Hornik
+027870.html,[Rd] data() misbehaving inside a function,27870,Kurt Hornik
+027873.html,[Rd] data() misbehaving inside a function,27873,Kurt Hornik
+027874.html,[Rd] data() misbehaving inside a function,27874,Kurt Hornik
+027907.html,[Rd] Problem R-1.8.0 library tcltk on Tcl-8.0.5 (PR#4699),27907,Kurt Hornik
+027933.html,[Rd] Problem R-1.8.0 library tcltk on Tcl-8.0.5 (PR#4699),27933,Kurt Hornik
+027934.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27934,Kurt Hornik
+027938.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27938,Kurt Hornik
+027945.html,"[Rd] Re: ichar() function in R : 1st implementation, RFC",27945,Kurt Hornik
+027966.html,"[Rd] Versions of PCRE, documenting what grep etc do.",27966,Kurt Hornik
+027986.html,"[Rd] configure, config.site and TCLTK_CPPFLAGS",27986,Kurt Hornik
+027996.html,"[Rd] configure, config.site and TCLTK_CPPFLAGS",27996,Kurt Hornik
+028012.html,[Rd] Re: R-1.8.0 + IBM VisualAge/C for AIX compiler,28012,Kurt Hornik
+027731.html,[Rd] tseries,27731,Stefano Iacus
+027741.html,[Rd] a bug of function plot (PR#4405),27741,Stefano Iacus
+027773.html,[Rd] building XML-0.95-1 on MacOS,27773,Stefano Iacus
+027891.html,[Rd] libR.dylib on OS X,27891,Stefano Iacus
+028005.html,[Rd] RAqua and AquaTclTk,28005,Stefano Iacus
+028009.html,[Rd] RAqua and AquaTclTk,28009,Stefano Iacus
+027701.html,[Rd] another dump/source problem?,27701,Ross Ihaka
+027798.html,[Rd] Could the Windows installer edit PATH?,27798,Chris Jackson
+027808.html,[Rd] Could the Windows installer edit PATH?,27808,Chris Jackson
+027822.html,[Rd] Problem in 'methods' package (PR#4525),27822,David James
+027861.html,[Rd] data() misbehaving inside a function,27861,David James
+027830.html,[Rd] R1.8.0 : seq.POSIXt() problems (PR#4558),27830,John.Marsland at CommerzbankIB.com
+027866.html,[Rd] R scripting patches for R-1.8.0,27866,Peter Kleiweg
+027987.html,"[Rd] configure, config.site and TCLTK_CPPFLAGS",27987,Peter Kleiweg
+027937.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27937,Kurt.Hornik at wu-wien.ac.at
+027976.html,[Rd] (PR#4806),27976,L.T.Kell at cefas.co.uk
+027983.html,[Rd] (PR#4806),27983,L.T.Kell at cefas.co.uk
+027772.html,[Rd] building XML-0.95-1 on MacOS,27772,Duncan Temple Lang
+027778.html,[Rd] building XML-0.95-1 on MacOS,27778,Duncan Temple Lang
+027814.html,[Rd] number of arguments in .Call function registration,27814,Duncan Temple Lang
+027867.html,[Rd] R scripting patches for R-1.8.0,27867,Duncan Temple Lang
+027970.html,[Rd] Segmentation fault in .Call() (PR#4761),27970,Duncan Temple Lang
+027979.html,[Rd] (PR#4806),27979,Duncan Temple Lang
+027732.html,[Rd] tseries,27732,Jan de Leeuw
+027733.html,[Rd] tseries,27733,Jan de Leeuw
+027771.html,[Rd] building XML-0.95-1 on MacOS,27771,Jan de Leeuw
+027781.html,[Rd] building XML-0.95-1 on MacOS,27781,Jan de Leeuw
+027819.html,[Rd] IBM compilers on OS X,27819,Jan de Leeuw
+027826.html,[Rd] xlc/xlf on osx ,27826,Jan de Leeuw
+027851.html,[Rd] help.search in trouble with R-patched ?,27851,Jan de Leeuw
+027890.html,[Rd] libR.dylib on OS X,27890,Jan de Leeuw
+027973.html,[Rd] FLAME,27973,Jan de Leeuw
+027694.html,[Rd] Adding Tk extensions to R for windows,27694,Nicholas Lewin-Koh
+027710.html,rpvm for win32 (was: Re: [Rd] Adding Tk extensions to R for windows),27710,Na Li
+027767.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27767,Na Li
+027719.html,[Rd] Problem with console in Windows GUI (PR#4381),27719,"Liaw, Andy"
+027739.html,[Rd] a bug of function plot (PR#4405),27739,"Liaw, Andy"
+027713.html,[Rd] wrong results in dist.binary (library ade4) (PR#4384),27713,Uwe Ligges
+027735.html,[Rd] latest beta + MinGW 3.1.0-1 = minor fix needed,27735,Uwe Ligges
+027793.html,[Rd] 1.9 contrib archive for win needed,27793,Uwe Ligges
+027799.html,[Rd] R 1.8.0 Windows-source compilation-internet.Rout.save,27799,Uwe Ligges
+027857.html,[Rd] NA %*% 0 == 0 (PR#4582),27857,Uwe Ligges
+027810.html,[Rd] Could the Windows installer edit PATH?,27810,Thomas Lumley
+027846.html,[Rd] NA %*% 0 == 0 (PR#4582),27846,Thomas Lumley
+027877.html,[Rd] data() misbehaving inside a function,27877,Thomas Lumley
+027898.html,[Rd] warning from return() in 1.8 but not in 1.7.0 (PR#4687),27898,Thomas Lumley
+027913.html,[Rd] R1.8.0 and virtual PC (PR#4708),27913,Thomas Lumley
+027796.html,[Rd] 1.8.0 on Unix: interrupting huge print()s  ??,27796,Martin Maechler
+027807.html,[Rd] An artifact of base being namespace,27807,Martin Maechler
+027840.html,[Rd] Double inclusion of Runix.h: why?,27840,Martin Maechler
+027859.html,"[Rd] qqnorm(*, datax=TRUE, xlab,ylab) -- S+ compatibility problem ",27859,Martin Maechler
+027869.html,[Rd] data() misbehaving inside a function,27869,Martin Maechler
+027889.html,[Rd] Details section of image.Rd,27889,Martin Maechler
+027943.html,"[Rd] Re: ichar() function in R : 1st implementation, RFC",27943,Martin Maechler
+027990.html,[Rd] data.frame replacement (PR#4820),27990,Mark.Bravington at csiro.au
+027708.html,[Rd] Adding Tk extensions to R for windows,27708,"Marsland, John"
+027801.html,[Rd] R1.8.0 : seq.POSIXt() problems,27801,"Marsland, John"
+027862.html,[Rd] R scripting patches for R-1.8.0,27862,Neil McKay
+027723.html,[Rd] hist (PR#4395),27723,Duncan Murdoch
+027745.html,[Rd] latest beta + MinGW 3.1.0-1 = minor fix needed,27745,Duncan Murdoch
+027816.html,[Rd] An artifact of base being namespace,27816,Duncan Murdoch
+027818.html,[Rd] An artifact of base being namespace,27818,Duncan Murdoch
+027854.html,[Rd] NA %*% 0 == 0 (PR#4582),27854,Duncan Murdoch
+027901.html,[Rd] warning from return() in 1.8 but not in 1.7.0 (PR#4687),27901,Duncan Murdoch
+027912.html,[Rd] R1.8.0 and virtual PC (PR#4708),27912,Duncan Murdoch
+027921.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27921,Duncan Murdoch
+027922.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27922,Duncan Murdoch
+027955.html,[Rd] linking to R.dll on Win32 - issues with recent MinGW?,27955,Duncan Murdoch
+027985.html,[Rd] (PR#4806),27985,Duncan Murdoch
+028004.html,[Rd] R installation problems on Windows XP (PR#4842),28004,Duncan Murdoch
+027951.html,[Rd] Ask for information about device architecture,27951,Paul Murrell
+027740.html,[Rd] a bug of function plot (PR#4405),27740,Roger D. Peng
+027806.html,[Rd] 1.8.0 on Unix: interrupting huge print()s  ??,27806,Roger D. Peng
+027844.html,[Rd] Example of package that uses a namespace with S4 classes,27844,Roger D. Peng
+027995.html,[Rd] no traceback in R-patched,27995,Roger D. Peng
+027954.html,[Rd] IPFS Watch This St ock Trade,27954,Hot Pennies
+027795.html,[Rd] R 1.8.0 Windows-source compilation-internet.Rout.save,27795,"Pfaff, Bernhard"
+027800.html,[Rd] R 1.8.0 Windows-source compilation-internet.Rout.save,27800,"Pfaff, Bernhard"
+027988.html,[Rd] proposal for &quot;strict&quot; versions of subsetting operators,27988,Tony Plate
+027994.html,[Rd] proposal for &quot;strict&quot; versions of subsetting operators,27994,Tony Plate
+027756.html,[Rd] (PR#4450),27756,R.P.P.P.Grasman at uva.nl
+027753.html,[Rd] getting names of p vector in nlm function...,27753,Prof Brian Ripley
+027755.html,[Rd] Problem with console in Windows GUI (PR#4381),27755,Prof Brian Ripley
+027766.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27766,Prof Brian Ripley
+027782.html,[Rd] S4 group generic Complex not working (PR#4483),27782,Prof Brian Ripley
+027794.html,[Rd] S4 group generic Complex not working (PR#4483),27794,Prof Brian Ripley
+027802.html,[Rd] Could the Windows installer edit PATH?,27802,Prof Brian Ripley
+027864.html,[Rd] data() misbehaving inside a function,27864,Prof Brian Ripley
+027879.html,[Rd] Bus error (PR#4623),27879,Prof Brian Ripley
+027880.html,[Rd] data() misbehaving inside a function,27880,Prof Brian Ripley
+027906.html,[Rd] Console in RGui does not do CR on \r (PR#4705),27906,Prof Brian Ripley
+027916.html,[Rd] Subsetted 1-D arrays (PR#4110),27916,Prof Brian Ripley
+027920.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27920,Prof Brian Ripley
+027940.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27940,Prof Brian Ripley
+027944.html,[Rd] linking to R.dll on Win32 - issues with recent MinGW?,27944,Prof Brian Ripley
+027948.html,[Rd] Accessing data files w/ --use-zip-data,27948,Prof Brian Ripley
+027953.html,[Rd] texi2dvi and buildVignettes() on Windows,27953,Prof Brian Ripley
+027957.html,[Rd] Accessing data files w/ --use-zip-data,27957,Prof Brian Ripley
+027958.html,"[Rd] Versions of PCRE, documenting what grep etc do.",27958,Prof Brian Ripley
+027964.html,[Rd] data/ and data(),27964,Prof Brian Ripley
+027968.html,"[Rd] Versions of PCRE, documenting what grep etc do.",27968,Prof Brian Ripley
+027971.html,[Rd] Segmentation fault in .Call() (PR#4761),27971,Prof Brian Ripley
+027972.html,"[Rd] Versions of PCRE, documenting what grep etc do.",27972,Prof Brian Ripley
+027981.html,[Rd] [[&lt;-.data.frame with POSIXt replacement (PR#4808),27981,Prof Brian Ripley
+027993.html,[Rd] proposal for &quot;strict&quot; versions of subsetting operators,27993,Prof Brian Ripley
+028001.html,[Rd] R installation problems on Windows XP (PR#4842),28001,Prof Brian Ripley
+028014.html,[Rd] solve.Matrix() not found (PR#4887),28014,Prof Brian Ripley
+027762.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27762,Prof Brian D Ripley
+027764.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27764,Prof Brian D Ripley
+027855.html,[Rd] NA %*% 0 == 0 (PR#4582),27855,Prof Brian D Ripley
+027982.html,[Rd] [[&lt;-.data.frame with POSIXt replacement (PR#4808),27982,Jim Rogers
+027871.html,[Rd] data() misbehaving inside a function,27871,A.J. Rossini
+027980.html,[Rd] initialization of S4 classes/methods,27980,A.J. Rossini
+027875.html,[Rd] data() misbehaving inside a function,27875,Gordon Smyth
+027703.html,[Rd] eigin of matrix of NaNs (PR#4366),27703,Steve.Taylor at nz.towerlimited.com
+027780.html,[Rd] exceeding memory causes crash on Linux,27780,Luke Tierney
+027809.html,[Rd] incorrect behaviour of formals (PR#4511),27809,Luke Tierney
+027815.html,[Rd] 1.8.0 on Unix: interrupting huge print()s  ??,27815,Luke Tierney
+027817.html,[Rd] An artifact of base being namespace,27817,Luke Tierney
+027842.html,[Rd] 1.8.0 on Unix: interrupting huge print()s  ??,27842,Luke Tierney
+027999.html,[Rd] Rdconv Rd-&gt;Ssgm doesn't convert aliases (PR#4838),27999,Tim.Keighley at csiro.au
+027734.html,[Rd] latest beta + MinGW 3.1.0-1 = minor fix needed,27734,Simon Urbanek
+027737.html,[Rd] latest beta + MinGW 3.1.0-1 = minor fix needed,27737,Simon Urbanek
+027746.html,[Rd] latest beta + MinGW 3.1.0-1 = minor fix needed,27746,Simon Urbanek
+027942.html,[Rd] linking to R.dll on Win32 - issues with recent MinGW?,27942,Simon Urbanek
+028011.html,[Rd] R-1.8.0 + IBM VisualAge/C for AIX compiler,28011,Simon Urbanek
+027706.html,[Rd] Building R for windows (was Adding Tk Extensions...),27706,James Wettenhall
+027917.html,[Rd] Windows RConsole Focus,27917,James Wettenhall
+028000.html,[Rd] R installation problems on Windows XP (PR#4842),28000,Yongchao.Ge at mssm.edu
+027722.html,[Rd] hist (PR#4395),27722,Achim Zeileis
+027950.html,[Rd] texi2dvi and buildVignettes() on Windows,27950,Achim Zeileis
+027823.html,[Rd] Error openning file (PR#4550),27823,ajp2 at alu.um.es
+027718.html,[Rd] Problem with console in Windows GUI (PR#4381),27718,andrew_zachary at yahoo.com
+027759.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27759,arnima at u.washington.edu
+027929.html,[Rd] assigning to a null data frame. (PR#4727),27929,ashenfluff at yahoo.com
+027711.html,[Rd] wrong results in dist.binary (library ade4) (PR#4384),27711,c.duering at threads.de
+027905.html,[Rd] Console in RGui does not do CR on \r (PR#4705),27905,david.lenn at rtsson.com
+027720.html,[Rd] Problem with console in Windows GUI (PR#4381),27720,dmurdoch at pair.com
+027876.html,[Rd] Bus error (PR#4623),27876,ehsaliba at uncc.edu
+027768.html,[Rd] Memmory Bugs (PR#4474),27768,eriehl at email.unc.edu
+027820.html,[Rd] Problem in 'methods' package (PR#4525),27820,feferraz at linux.ime.usp.br
+027712.html,[Rd] warnings() generates error if there never were any (PR#4389),27712,gregory_r_warnes at groton.pfizer.com
+027845.html,[Rd] NA %*% 0 == 0 (PR#4582),27845,hosking at watson.ibm.com
+027998.html,[Rd] Wishlist: user-specified color names for palette() (PR#4836),27998,htang at hpl.hp.com
+027919.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27919,i.wilson at maths.abdn.ac.uk
+027923.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27923,i.wilson at maths.abdn.ac.uk
+027930.html,[Rd] persp - incorrect shading of triangular facets (PR#4731),27930,ihaka at stat.auckland.ac.nz
+027969.html,[Rd] Segmentation fault in .Call() (PR#4761),27969,jerome at hivnet.ubc.ca
+027978.html,[Rd] [[&lt;-.data.frame with POSIXt replacement (PR#4808),27978,jrogers at cantatapharm.com
+027899.html,[Rd] bug in fisher test---p-value cannot be Inf (PR#4688),27899,kjetil at entelnet.bo
+027931.html,[Rd] docu buglet in ?text (PR#4732),27931,kjetil at entelnet.bo
+027949.html,[Rd] Ask for information about device architecture,27949,l.bize at wanadoo.fr
+027952.html,[Rd] Ask for information about device architecture,27952,l.bize at wanadoo.fr
+027910.html,[Rd] R1.8.0 and virtual PC (PR#4708),27910,lbagua at yahoo.co.jp
+027892.html,[Rd] Update Packages / help.start() (PR#4681),27892,len.weil at hs.utc.com
+027893.html,[Rd] Prior bug report by me (PR#4682),27893,len.weil at hs.utc.com
+027709.html,[Rd] colours in dotchart (PR#4343),27709,ligges at statistik.uni-dortmund.de
+027821.html,[Rd] Problem in 'methods' package (PR#4525),27821,ligges at statistik.uni-dortmund.de
+027824.html,[Rd] Error openning file (PR#4550),27824,ligges at statistik.uni-dortmund.de
+027852.html,[Rd] NA %*% 0 == 0 (PR#4582),27852,ligges at statistik.uni-dortmund.de
+027896.html,[Rd] warning from return() in 1.8 but not in 1.7.0 (PR#4687),27896,ligges at statistik.uni-dortmund.de
+027704.html,[Rd] eigin of matrix of NaNs (PR#4366),27704,maechler at stat.math.ethz.ch
+027707.html,[Rd] colours in dotchart (PR#4343),27707,maechler at stat.math.ethz.ch
+027714.html,[Rd] colours in dotchart (PR#4343),27714,maechler at stat.math.ethz.ch
+027715.html,[Rd] warnings() generates error if there never were any (PR#4389),27715,maechler at stat.math.ethz.ch
+027749.html,[Rd] rmultinom has a bug. (PR#4431),27749,maechler at stat.math.ethz.ch
+027750.html,[Rd] rmultinom has a bug. (PR#4431),27750,maechler at stat.math.ethz.ch
+027751.html,[Rd] getAnywhere (PR#4275),27751,maechler at stat.math.ethz.ch
+027761.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27761,maechler at stat.math.ethz.ch
+027829.html,[Rd] zapsmall with all values small (PR#4554),27829,maechler at stat.math.ethz.ch
+027885.html,"[Rd] cor(*,  use = &quot;pair&quot;) bug in R 1.8.0 (PR#4646)",27885,maechler at stat.math.ethz.ch
+027924.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27924,maechler at stat.math.ethz.ch
+027926.html,[Rd] bug in fisher test---p-value cannot be Inf (PR#4688),27926,maechler at stat.math.ethz.ch
+027932.html,[Rd] assigning to a null data frame. (PR#4727),27932,maechler at stat.math.ethz.ch
+028007.html,[Rd] dist() objects with NA's don't print them (PR#4866),28007,maechler at stat.math.ethz.ch
+027927.html,[Rd] Core dump when calling tclvalue (PR#4724),27927,mckay at gmr.com
+027721.html,[Rd] hist (PR#4395),27721,mittal at math.arizona.edu
+027902.html,[Rd] Problem R-1.8.0 library tcltk on Tcl-8.0.5 (PR#4699),27902,nakama at ki.rim.or.jp
+028006.html,[Rd] dataentry.c ESC key overrun. (PR#4865),28006,nakama at ki.rim.or.jp
+027936.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27936,p.dalgaard at biostat.ku.dk
+027758.html,[Rd] Redhat 7.2 gcc optimisation (PR#4459),27758,p.murrell at auckland.ac.nz
+027828.html,[Rd] zapsmall with all values small (PR#4554),27828,p.murrell at auckland.ac.nz
+027736.html,[Rd] misprint  in Leaps $size (PR#4403),27736,paulluo at cs.cmu.edu
+027803.html,[Rd] incorrect behaviour of formals (PR#4508),27803,polzehl at wias-berlin.de
+027804.html,[Rd] incorrect behaviour of formals (PR#4510),27804,polzehl at wias-berlin.de
+027805.html,[Rd] incorrect behaviour of formals (PR#4511),27805,polzehl at wias-berlin.de
+027848.html,[Rd] fivenum (PR#4586),27848,r.huggins at latrobe.edu.au
+027763.html,[Rd] Unpredictable EPS-&gt;PDF rotation (PR#4460),27763,ripley at stats.ox.ac.uk
+027856.html,[Rd] NA %*% 0 == 0 (PR#4582),27856,ripley at stats.ox.ac.uk
+027941.html,[Rd] Something strange in cor.test in R-1.8.0 (PR#4718),27941,ripley at stats.ox.ac.uk
+028013.html,[Rd] solve.Matrix() not found (PR#4887),28013,s.conti at sheffield.ac.uk
+027775.html,[Rd] S4 group generic Complex not working (PR#4483),27775,saikat at stat.wisc.edu
+027831.html,[Rd] Infinite recursion in getGeneric (PR#4561),27831,saikat at stat.wisc.edu
+027748.html,[Rd] rmultinom has a bug. (PR#4431),27748,skon at stats.snu.ac.kr
+027833.html,[Rd] infinite loop in abbreviate() (PR#4564),27833,tlumley at u.washington.edu
+027895.html,[Rd] warning from return() in 1.8 but not in 1.7.0 (PR#4687),27895,tord.snall at ebc.uu.se
+027956.html,[Rd] Accessing data files w/ --use-zip-data,27956,w.huber at dkfz-heidelberg.de
+027959.html,[Rd] Accessing data files w/ --use-zip-data,27959,w.huber at dkfz-heidelberg.de
+027900.html,[Rd] Random Number Generator RNGkind() under &quot;R CMD check&quot; (PR#4691),27900,w.huber at dkfz.de
+027962.html,[Rd] NLME: gls parameter evaluation inconsistency (PR#4757),27962,wb at arb-phys.uni-dortmund.de
+027960.html,[Rd] [R] ave and factors with unused levels (PR#4753),27960,wolfram at fischer-zim.ch
+027965.html,[Rd] Re: [R] ave and factors with unused levels (PR#4759),27965,wolfram at fischer-zim.ch
+027888.html,[Rd] R 1.80 version (PR#4648),27888,xiaopinj at biostat.umn.edu
+027738.html,[Rd] a bug of function plot (PR#4405),27738,xzhao at stat.wvu.edu

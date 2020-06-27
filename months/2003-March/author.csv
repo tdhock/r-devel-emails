@@ -1,0 +1,166 @@
+link,Subject,id,author
+026080.html,[Rd] plot() with type=&quot;s&quot; and lty=2 (PR#2630),26080,G&#195;&#182;ran Brostr&#195;&#182;m
+026007.html,"[Rd] density(), with argument of length 1 (PR#2593)",26007,Peter Dalgaard BSA
+026037.html,[Rd] lty=as.numeric(NA),26037,Peter Dalgaard BSA
+026053.html,[Rd] Bug list summary (automatic post),26053,Peter Dalgaard BSA
+026065.html,"[Rd] system(..., intern=TRUE) splits long lines (PR#2623)",26065,Peter Dalgaard BSA
+026083.html,[Rd] The function 'apply' (PR#2633),26083,Peter Dalgaard BSA
+026087.html,[Rd] 1.7.0 scheduled for April 16,26087,Peter Dalgaard BSA
+026110.html,[Rd] Bug list summary (automatic post),26110,Peter Dalgaard BSA
+026131.html,[Rd] R-1.7.0 beta available,26131,Peter Dalgaard BSA
+026151.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26151,Peter Dalgaard BSA
+026155.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26155,Peter Dalgaard BSA
+026174.html,"[Rd] docs, examples, man pages (PR#2711)",26174,Peter Dalgaard BSA
+026177.html,"[Rd] docs, examples, man pages (PR#2711)",26177,Peter Dalgaard BSA
+026003.html,[Rd] RE: [R] File opening error after 1020 files opened,26003,Henrik Bengtsson
+026025.html,[Rd] CRAN scripts?,26025,Ben Bolker
+026030.html,[Rd] CRAN scripts?,26030,Ben Bolker
+026042.html,[Rd] sample (PR#2546),26042,Patrick Burns
+026097.html,[Rd] Changes in checking &amp; error messages,26097,John Chambers
+026098.html,[Rd] What does is() mean?,26098,John Chambers
+026172.html,[Rd] setIs?,26172,John Chambers
+026026.html,[Rd] CRAN scripts?,26026,Dirk Eddelbuettel
+026048.html,[Rd] write.table row.names and col.names (PR#2610),26048,Dirk Eddelbuettel
+026176.html,"[Rd] docs, examples, man pages (PR#2711)",26176,Friedrich.Leisch at univie.ac.at
+026062.html,[Rd] problem with R-devel and R CMD check ?,26062,Laurent Gautier
+026066.html,[Rd] R CMD check (again),26066,Laurent Gautier
+026028.html,[Rd] CRAN scripts?,26028,Jeff Gentry
+026036.html,[Rd] CRAN scripts?,26036,Jeff Gentry
+026015.html,[Rd] R-devel RNG change,26015,Paul Gilbert
+026035.html,[Rd] CRAN scripts?,26035,Paul Gilbert
+026156.html,[Rd] R-1.7.0beta_2003-03-28 Could not create DVI version,26156,Paul Gilbert
+026010.html,[Rd] bug in bwplot (PR#2595),26010,Rich Heiberger
+026024.html,[Rd] question on latticeParseFormula (PR#2602),26024,Rich Heiberger
+026072.html,[Rd] class of integers,26072,Kurt Hornik
+026096.html,[Rd] R-devel on Darwin,26096,Kurt Hornik
+026071.html,[Rd] class of integers,26071,Torsten Hothorn
+026050.html,[Rd] write.table row.names and col.names (PR#2610),26050,Wolfgang Huber
+026119.html,[Rd] Bugs in  Osx Version of R (PR#2665),26119,Stefano Iacus
+026044.html,[Rd] Some bugs in Rcmd check ? (PR#2608),26044,J.J.Goeman at lumc.nl
+026040.html,FW: [Rd] eigen() error: R Version 1.6.1 on Mac OS X (PR#2550),26040,Jeffrey.S.Whitaker at noaa.gov
+026043.html,[Rd] modifying ftable to allow percentages (wishlist) (PR#2606),26043,John_Hendrickx at yahoo.com
+026012.html,[Rd] &quot;show&quot; problem with R 1.7 devel,26012,Frank E Harrell Jr
+026019.html,[Rd] Hmisc and Design Packages,26019,Frank E Harrell Jr
+026056.html,[Rd] Keywords,26056,Frank E Harrell Jr
+026086.html,[Rd] [.terms,26086,Roger Koenker
+026095.html,[Rd] What does is() mean? ,26095,Roger Koenker
+026103.html,[Rd] What does is() mean?,26103,Roger Koenker
+026130.html,[Rd] Rprof/UseMethod,26130,Roger Koenker
+026167.html,[Rd] setIs?,26167,Roger Koenker
+026170.html,[Rd] setIs?,26170,Roger Koenker
+026178.html,"[Rd] docs, examples, man pages (PR#2711)",26178,Tom Laudeman
+026094.html,[Rd] R-devel on Darwin,26094,Jan de Leeuw
+026102.html,[Rd] all.rda again,26102,Jan de Leeuw
+026099.html,[Rd] flat namespaces,26099,Jan de Leeuw
+026104.html,[Rd] R-devel uses flat namespaces again,26104,Jan de Leeuw
+026132.html,[Rd] R-1.7.0 beta available,26132,Jan de Leeuw
+026045.html,[Rd] Some bugs in Rcmd check ? (PR#2608),26045,Nicholas Lewin-Koh
+026049.html,[Rd] write.table row.names and col.names (PR#2611),26049,"Liaw, Andy"
+026144.html,[Rd] make check fails with 1.7.0beta,26144,"Liaw, Andy"
+026148.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26148,"Liaw, Andy"
+026150.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26150,"Liaw, Andy"
+026153.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26153,"Liaw, Andy"
+026075.html,[Rd] cex.axis in boxplot (PR#2628),26075,Uwe Ligges
+026160.html,[Rd] install of grid fails in R-1.7.0beta_2003-03-29,26160,Uwe Ligges
+026166.html,[Rd] R-devel (1.7 to be) on windows XP,26166,Uwe Ligges
+026169.html,[Rd] R-devel (1.7 to be) on windows XP,26169,Uwe Ligges
+026027.html,[Rd] CRAN scripts?,26027,Thomas Lumley
+026146.html,[Rd] make check fails with 1.7.0beta,26146,Thomas Lumley
+026173.html,"[Rd] docs, examples, man pages (PR#2711)",26173,Thomas Lumley
+026175.html,"[Rd] docs, examples, man pages (PR#2711)",26175,Thomas Lumley
+026058.html,[Rd] (Florida &amp; All Inclusive Bahamas Cruise $199 pp.,26058,M.I.U. 
+026033.html,[Rd] CRAN scripts?,26033,Martin Maechler
+026054.html,[Rd] Re: Proposal for suppressing row labels.,26054,Martin Maechler
+026055.html,[Rd] RFC: str(ordered(.)),26055,Martin Maechler
+026084.html,[Rd] Re: [R] small error in regression tests,26084,Martin Maechler
+026159.html,[Rd] Deprecated component in plot.histogram (PR#2696),26159,Martin Maechler
+026011.html,"[Rd] density(), with argument of length 1 (PR#2593)",26011,John Maindonald
+026122.html,[Rd] predict (PR#2685),26122,Mark.Bravington at csiro.au
+026123.html,[Rd] predict (PR#2686),26123,Mark.Bravington at csiro.au
+026124.html,[Rd] termplot (PR#2687),26124,Mark.Bravington at csiro.au
+026135.html,[Rd] predict (PR#2686),26135,Mark.Bravington at csiro.au
+026134.html,[Rd] predict (PR#2685),26134,Mark.Bravington at csiro.au
+026057.html,[Rd] Problem with example(medpolish) in R-devel,26057,Roger Peng
+026061.html,[Rd] Problem with example(medpolish) in R-devel,26061,Roger Peng
+026136.html,[Rd] R-1.7.0 beta available,26136,Roger Peng
+026168.html,[Rd] setIs?,26168,Prof Brian Ripley
+026018.html,[Rd] PR#2579,26018,Prof Brian D Ripley
+026149.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26149,Prof. Brian Ripley
+026152.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26152,Prof. Brian Ripley
+026154.html,[Rd] make check still fails with 1.7.0beta (3/27/2003),26154,Prof. Brian Ripley
+026029.html,[Rd] CRAN scripts?,26029,Barry Rowlingson
+026009.html,[Rd] bug in bwplot (PR#2595),26009,Deepayan Sarkar
+026023.html,[Rd] question on latticeParseFormula (PR#2602),26023,Deepayan Sarkar
+026076.html,[Rd] problem with library() (or possibly grid) in r-devel,26076,Deepayan Sarkar
+026137.html,[Rd] R-1.7.0 beta available,26137,Marc Schwartz
+026141.html,[Rd] R-1.7.0 beta available,26141,Marc Schwartz
+026125.html,[Rd] formal methods and classes and capitalization conventions ,26125,Gordon Smyth
+026114.html,[Rd] error in POSIX help,26114,Mike Sumner
+026004.html,"[Rd] Music, Film, Screenplays - It's all here!",26004,Jeff from TalentMatch.com
+026070.html,[Rd] job opportunity,26070,W. C. Thacker
+026074.html,[Rd] cex.axis in boxplot (PR#2628),26074,Torsten.Hothorn at rzmail.uni-erlangen.de
+026118.html,[Rd] brackets in prompt.data.frame (PR#2676),26118,Torsten.Hothorn at rzmail.uni-erlangen.de
+026052.html,[Rd] write.table row.names and col.names (PR#2610),26052,"Warnes, Gregory R"
+026038.html,[Rd] eigen() error: R Version 1.6.1 on Mac OS X (PR#2550),26038,Daniel E. Weeks
+026039.html,FW: [Rd] eigen() error: R Version 1.6.1 on Mac OS X (PR#2550),26039,Daniel E. Weeks
+026111.html,[Rd] Bugs in  Osx Version of R (PR#2665),26111,alex at unive.it
+026107.html,[Rd] R CMD build 'package-list',26107,bernhard.pfaff at t-online.de
+026068.html,[Rd] katoliccy trilemna,26068,cer-develg5 at lycos.com
+026021.html,[Rd] question on latticeParseFormula (PR#2602),26021,deepayan at stat.wisc.edu
+026147.html,[Rd] panel.stripplot (PR#2694),26147,deepayan at stat.wisc.edu
+026069.html,[Rd] Special report on technological development (PR#2627),26069,editor at the-tech-news.com
+026163.html,[Rd] wishlist: add log argument to stripchart (PR#2710),26163,eglen at pcg.wustl.edu
+026078.html,[Rd] 'summary' with logicals (PR#2629),26078,gb at stat.umu.se
+026041.html,[Rd] sample (PR#2546),26041,kjetil brinchmann halvorsen
+026164.html,[Rd] R-devel (1.7 to be) on windows XP,26164,kjetil brinchmann halvorsen
+026143.html,[Rd] Deprecated component in plot.histogram (PR#2696),26143,j.c.rougier at durham.ac.uk
+026115.html,[Rd] writing to file with encodings (PR#2674),26115,jean-pierre.mueller at dssp.unil.ch
+026079.html,[Rd] plot() with type=&quot;s&quot; and lty=2 (PR#2630),26079,jerome at hivnet.ubc.ca
+026112.html,[Rd] cumprod doesn't work with data frames (PR#2667),26112,jsisk1 at pacbell.net
+026017.html,[Rd] PR#2579,26017,jutans at utans.u-net.com
+026082.html,[Rd] The function 'apply' (PR#2633),26082,louisept at pweh.com
+026081.html,[Rd] 'summary' with logicals (PR#2629),26081,maechler at stat.math.ethz.ch
+026089.html,[Rd] Bug in read.socket (PR#2639),26089,mckay at gmr.com
+026014.html,[Rd] How to compile all code with the -fPIC flag? (PR#2601),26014,nganm at mail.nih.gov
+026157.html,[Rd] compling errors for sun unix (PR#2702),26157,ozdogan at crsa.bu.edu
+026106.html,[Rd] recursive default argument reference in debugger (PR#2656),26106,pburns at pburns.seanet.com
+026006.html,[Rd] RE: [R] File opening error after 1020 files opened,26006,ripley at stats.ox.ac.uk
+026013.html,[Rd] &quot;show&quot; problem with R 1.7 devel,26013,ripley at stats.ox.ac.uk
+026016.html,[Rd] How to compile all code with the -fPIC flag? (PR#2601),26016,ripley at stats.ox.ac.uk
+026051.html,[Rd] write.table row.names and col.names (PR#2610),26051,ripley at stats.ox.ac.uk
+026059.html,[Rd] Problem with example(medpolish) in R-devel,26059,ripley at stats.ox.ac.uk
+026060.html,[Rd] Problem with example(medpolish) in R-devel,26060,ripley at stats.ox.ac.uk
+026064.html,"[Rd] system(..., intern=TRUE) splits long lines (PR#2623)",26064,ripley at stats.ox.ac.uk
+026067.html,Problems with affy (was [Rd] R CMD check (again)),26067,ripley at stats.ox.ac.uk
+026073.html,[Rd] class of integers,26073,ripley at stats.ox.ac.uk
+026077.html,[Rd] problem with library() (or possibly grid) in r-devel,26077,ripley at stats.ox.ac.uk
+026085.html,[Rd] The function 'apply' (PR#2633),26085,ripley at stats.ox.ac.uk
+026088.html,[Rd] 1.7.0 scheduled for April 16,26088,ripley at stats.ox.ac.uk
+026109.html,[Rd] stepAIC() (PR#2655),26109,ripley at stats.ox.ac.uk
+026113.html,[Rd] cumprod doesn't work with data frames (PR#2667),26113,ripley at stats.ox.ac.uk
+026116.html,[Rd] error in POSIX help,26116,ripley at stats.ox.ac.uk
+026117.html,[Rd] writing to file with encodings (PR#2674),26117,ripley at stats.ox.ac.uk
+026121.html,"[Rd] BUG report : 'rnorm' (LINUX, R 1.6.2) (PR#2682)",26121,ripley at stats.ox.ac.uk
+026127.html,[Rd] predict (PR#2685),26127,ripley at stats.ox.ac.uk
+026128.html,[Rd] predict (PR#2686),26128,ripley at stats.ox.ac.uk
+026129.html,[Rd] formal methods and classes and capitalization conventions,26129,ripley at stats.ox.ac.uk
+026139.html,[Rd] R-1.7.0 beta available,26139,ripley at stats.ox.ac.uk
+026138.html,[Rd] predict (PR#2686),26138,ripley at stats.ox.ac.uk
+026145.html,[Rd] make check fails with 1.7.0beta,26145,ripley at stats.ox.ac.uk
+026158.html,[Rd] compling errors for sun unix (PR#2702),26158,ripley at stats.ox.ac.uk
+026161.html,[Rd] install of grid fails in R-1.7.0beta_2003-03-29,26161,ripley at stats.ox.ac.uk
+026162.html,[Rd] install of grid fails in R-1.7.0beta_2003-03-29,26162,ripley at stats.ox.ac.uk
+026165.html,[Rd] R-devel (1.7 to be) on windows XP,26165,ripley at stats.ox.ac.uk
+026008.html,[Rd] bug in bwplot (PR#2595),26008,rmh at surfer.sbm.temple.edu
+026020.html,[Rd] question on latticeParseFormula (PR#2602),26020,rmh at surfer.sbm.temple.edu
+026022.html,[Rd] question on latticeParseFormula (PR#2602),26022,rmh at surfer.sbm.temple.edu
+026126.html,[Rd] summary.manova (PR#2688),26126,rmh at surfer.sbm.temple.edu
+026105.html,[Rd] stepAIC() (PR#2655),26105,slteng at stat.berkeley.edu
+026108.html,[Rd] Message de Elodie,26108,sophie.l at deux.fr
+026142.html,[Rd] panel.stripplot (PR#2694),26142,steven.j.novick at gsk.com
+026120.html,"[Rd] BUG report : 'rnorm' (LINUX, R 1.6.2) (PR#2682)",26120,tirler at statistik.wu-wien.ac.at
+026171.html,"[Rd] docs, examples, man pages (PR#2711)",26171,twl8n at virginia.edu
+026005.html,"[Rd] density(), with argument of length 1 (PR#2593)",26005,u9801539 at leonard.anu.edu.au
+026063.html,"[Rd] system(..., intern=TRUE) splits long lines (PR#2623)",26063,vograno at arbitrade.com
+026046.html,[Rd] write.table row.names and col.names (PR#2610),26046,w.huber at dkfz.de
+026047.html,[Rd] write.table row.names and col.names (PR#2611),26047,w.huber at dkfz.de

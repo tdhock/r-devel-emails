@@ -1,0 +1,316 @@
+link,Subject,id,author
+051258.html,[Rd] what does negative indexing in a matrix mean?,51258,Itziar Frades Alzueta
+051280.html,[Rd] grid error: protection stack overflow,51280,Felix Andrews
+051281.html,[Rd] grid error: protection stack overflow,51281,Felix Andrews
+051384.html,[Rd] Buggy trellis.focus() with xyplot ?,51384,Felix Andrews
+051386.html,[Rd] Buggy trellis.focus() with xyplot ?,51386,Felix Andrews
+051156.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51156,Whit Armstrong
+051197.html,[Rd] Fwd: SWIG with R and C++ STL,51197,Whit Armstrong
+051350.html,[Rd] Fwd: Fwd: SWIG with R and C++ STL,51350,Whit Armstrong
+051351.html,[Rd] anyone familiar with this error?,51351,Whit Armstrong
+051444.html,[Rd] parallel build for package? (equivalent of make -j8),51444,Whit Armstrong
+051446.html,[Rd] parallel build for package? (equivalent of make -j8),51446,Whit Armstrong
+051306.html,[Rd] Computing minimal detectable differences for general ANOVA	models,51306,Ali Baharev
+051404.html,[Rd] Computing minimal detectable differences for general ANOVA	models,51404,Ali Baharev
+051406.html,[Rd] Computing minimal detectable differences for general ANOVA	models,51406,Ali Baharev
+051407.html,[Rd] Computing minimal detectable differences for general ANOVA	models,51407,Ali Baharev
+051429.html,[Rd] file.access() on network (mounted) drive on Windows Vista?,51429,Henrik Bengtsson
+051166.html,[Rd] Bug in Version 2.80? (PR#13243),51166,Charles C. Berry
+051338.html,[Rd] chisq.test with simulate.p.value=TRUE (PR#13292),51338,Ben Bolker
+051363.html,[Rd] chisq.test with simulate.p.value=TRUE (PR#13292),51363,Ben Bolker
+051416.html,[Rd] [R] besselK,51416,Ben Bolker
+051448.html,[Rd] methods not found inside function?,51448,Ben Bolker
+051388.html,[Rd] Turning off compiler optimization,51388,Michael Braun
+051177.html,[Rd] problem with integrate,51177,Ray Brownrigg
+051310.html,[Rd] 'by' with one-dimensional array,51310,Patrick Burns
+051409.html,[Rd] minor typo in assignOps help file,51409,Patrick Burns
+051415.html,[Rd] FW: read.ssd,51415,BXC (Bendix Carstensen)
+051418.html,[Rd] FW: read.ssd,51418,BXC (Bendix Carstensen)
+051430.html,[Rd] dots methods: dispatch issues,51430,John Chambers
+051431.html,[Rd] dots methods: dispatch issues,51431,John Chambers
+051213.html,[Rd] Solved (RODBC): was Re: *** buffer overflow detected ***:	/usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0:	logging a bug?,51213,Corrado
+051438.html,[Rd] Unable to plot or analyse phylogeny (PR#13345),51438,Peter Cowan
+051297.html,[Rd] problem in downloading the rimage package,51297,Shantanu D
+051298.html,[Rd] Problem trying to download rimage package (second try),51298,Shantanu D
+051164.html,[Rd] possible tcltk event loop problem,51164,Peter Dalgaard
+051179.html,[Rd] [R] Building with MKL on Ubuntu,51179,Peter Dalgaard
+051211.html,[Rd] Axis gives error message (PR#13259),51211,Peter Dalgaard
+051237.html,[Rd] is.matrix,51237,Peter Dalgaard
+051242.html,[Rd] is.matrix,51242,Peter Dalgaard
+051330.html,[Rd] stringsAsFactors = FALSE,51330,Peter Dalgaard
+051335.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51335,Peter Dalgaard
+051336.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51336,Peter Dalgaard
+051346.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51346,Peter Dalgaard
+051400.html,[Rd] Wishlist: fix error in documentation for body&lt;- (PR#13318),51400,Peter Dalgaard
+051445.html,[Rd] parallel build for package? (equivalent of make -j8),51445,Peter Dalgaard
+051226.html,[Rd] Dynamic linking to binary code from other packages??,51226,Charles Danko
+051269.html,[Rd] Dynamic linking to binary code from other packages??,51269,Charles Danko
+051202.html,[Rd] problem packaging S4 class that contains a slot of jobjRef	class,51202,Adrian Dragulescu
+051186.html,[Rd] puzzled by cat() behaviour when argument '...' is a vector	(and argument 'sep' contains &quot;\n&quot;),51186,William Dunlap
+051187.html,[Rd] puzzled by cat() behaviour when argument '...' is a	vector(and argument 'sep' contains &quot;\n&quot;),51187,William Dunlap
+051200.html,"[Rd] .C(..., DUP=FALSE) memory costs depending on input size?",51200,William Dunlap
+051256.html,[Rd] is.matrix,51256,William Dunlap
+051260.html,[Rd] Splus-specific entries in pkg/DESCRIPTION files,51260,William Dunlap
+051291.html,[Rd] (PR#13283) R crashes on sprintf with bad format	specification,51291,William Dunlap
+051326.html,[Rd] stringsAsFactors = FALSE,51326,William Dunlap
+051414.html,[Rd] timezone attribute lost,51414,William Dunlap
+051287.html,[Rd] (PR#13288) Bug#505698: r-base-core: dev2bitmap fails with gsexe related error,51287,Dirk Eddelbuettel
+051315.html,[Rd] Fwd:  Fwd: SWIG with R and C++ STL,51315,Dirk Eddelbuettel
+051390.html,[Rd] Turning off compiler optimization,51390,Dirk Eddelbuettel
+051136.html,[Rd] Small modification of zip.file.extract in utils?,51136,Martin Elff
+051443.html,[Rd] unrelated software install triggering an error from R's	install script on Mac OS X 10.5,51443,Stefan Evert
+051277.html,[Rd] R crashes on sprintf with bad format	specification	(PR#13283),51277,Seth Falcon
+051163.html,[Rd] possible tcltk event loop problem,51163,John Fox
+051165.html,[Rd] possible tcltk event loop problem,51165,John Fox
+051441.html,[Rd] unrelated software install triggering an error from R's install script on Mac OS X 10.5,51441,Laurent Gautier
+051449.html,[Rd] unrelated software install triggering an error from R's install script on Mac OS X 10.5,51449,Laurent Gautier
+051352.html,[Rd] R license: GPL v2 or v3?,51352,Gabriel Gellner
+051158.html,[Rd] R CMD check with Matlab and perl?,51158,Paul Gilbert
+051413.html,[Rd] CRAN - db backend testing,51413,Paul Gilbert
+051368.html,[Rd] Wishlist - better object.size() function,51368,Gregor Gorjanc
+051137.html,[Rd] cat: ./R/Copy: No such file or directory,51137,Spencer Graves
+051139.html,[Rd] cat: ./R/Copy: No such file or directory,51139,Spencer Graves
+051141.html,[Rd] cat: ./R/Copy: No such file or directory,51141,Spencer Graves
+051146.html,[Rd] cat: ./R/Copy: No such file or directory,51146,Spencer Graves
+051147.html,[Rd] R CMD check with Matlab and perl?,51147,Spencer Graves
+051159.html,[Rd] R CMD check with Matlab and perl?,51159,Spencer Graves
+051217.html,[Rd] Problems with packages fda and splines (PR#13263),51217,Spencer Graves
+051222.html,[Rd] Locating MiKTeX,51222,Spencer Graves
+051225.html,[Rd] typo in ?pie,51225,Spencer Graves
+051229.html,[Rd] typo in ?pie,51229,Spencer Graves
+051230.html,[Rd] Locating MiKTeX,51230,Spencer Graves
+051447.html,[Rd] normal-bracket50bracket-normal?,51447,Spencer Graves
+051144.html,[Rd] Wishlist: pass args from demo() to source(),51144,Gabor Grothendieck
+051173.html,[Rd] Problem with Axis,51173,Gabor Grothendieck
+051221.html,[Rd] Locating MiKTeX,51221,Gabor Grothendieck
+051223.html,[Rd] Locating MiKTeX,51223,Gabor Grothendieck
+051231.html,[Rd] Locating MiKTeX,51231,Gabor Grothendieck
+051353.html,[Rd] anyone familiar with this error?,51353,Gabor Grothendieck
+051354.html,[Rd] anyone familiar with this error?,51354,Gabor Grothendieck
+051361.html,[Rd] R license: GPL v2 or v3?,51361,Gabor Grothendieck
+051403.html,[Rd] cex.lab etc. ignored in plot.ts for multiple plots	(PR#13315),51403,Gabor Grothendieck
+051408.html,[Rd] Computing minimal detectable differences for general ANOVA	models,51408,Gabor Grothendieck
+051440.html,[Rd] names generated in list indexing,51440,Gabor Grothendieck
+051369.html,[Rd] configure.vars arg needed for install.packages,51369,Jeffrey J. Hallman
+051389.html,[Rd] Turning off compiler optimization,51389,Kasper Daniel Hansen
+051138.html,[Rd] cat: ./R/Copy: No such file or directory,51138, (Ted Harding)
+051239.html,[Rd] is.matrix,51239,Christos Hatzis
+051247.html,[Rd] is.matrix,51247,Christos Hatzis
+051364.html,[Rd] Wishlist - better object.size() function,51364,Benjamin Hofner
+051439.html,[Rd] missing parentheses in FAQ (PR#13343),51439,Kurt Hornik
+051170.html,[Rd] (PR#13195) Can't open files containing russian letters in path,51170,Alexey Ivanov
+051236.html,[Rd] is.matrix,51236,Daniel H&#248;yer Iversen
+051243.html,[Rd] is.matrix,51243,Daniel H&#248;yer Iversen
+051412.html,[Rd] make fails with no rule to make target `VR.ts',51412,Hiroyuki Kawakatsu
+051433.html,[Rd] make fails with no rule to make target `VR.ts',51433,Hiroyuki Kawakatsu
+051395.html,[Rd] Label justification (axis) (PR#13307),51395,Kjell Konis
+051367.html,[Rd] Buggy trellis.focus() with xyplot ?,51367,Daniel Kornhauser
+051372.html,[Rd] Buggy trellis.focus() with xyplot in JavaGD ?,51372,Daniel Kornhauser
+051385.html,[Rd] Buggy trellis.focus() with xyplot ?,51385,Daniel Kornhauser
+051422.html,[Rd] Suggestions for improving R-FAQ,51422,Max Kuhn
+051190.html,[Rd] puzzled by cat() behaviour when argument '...' is a vector (and argument 'sep' contains &quot;\n&quot;),51190,Wacek Kusnierczyk
+051244.html,[Rd] is.matrix,51244,Wacek Kusnierczyk
+051248.html,[Rd] is.matrix,51248,Wacek Kusnierczyk
+051249.html,[Rd] is.matrix,51249,Wacek Kusnierczyk
+051250.html,[Rd] is.matrix,51250,Wacek Kusnierczyk
+051252.html,[Rd] error during list allocation,51252,Wacek Kusnierczyk
+051362.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51362,Wacek Kusnierczyk
+051309.html,[Rd] Computing minimal detectable differences for general ANOVA models,51309,Duncan Temple Lang
+051405.html,[Rd] Computing minimal detectable differences for general ANOVA models,51405,Duncan Temple Lang
+051401.html,[Rd] wish: exportClassPattern,51401,Michael Lawrence
+051425.html,[Rd] dots methods: dispatch issues,51425,Michael Lawrence
+051426.html,[Rd] dots methods: dispatch issues,51426,Michael Lawrence
+051312.html,[Rd] Diagnosing Crashes on garbage collection,51312,Thomas Lumley
+051279.html,[Rd] multiple item lists in value section of *.Rd,51279,Sebastian P. Luque
+051150.html,[Rd] Wishlist: pass args from demo() to source(),51150,Martin Maechler
+051283.html,[Rd] Package install problem on Windows (PR#13284),51283,Martin Maechler
+051331.html,[Rd] stringsAsFactors = FALSE,51331,Martin Maechler
+051334.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51334,Martin Maechler
+051345.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51345,Martin Maechler
+051359.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51359,Martin Maechler
+051411.html,[Rd] timezone attribute lost,51411,Thomas Mang
+051198.html,"[Rd]  .C(..., DUP=FALSE) memory costs depending on input size?",51198,MarcelK
+051199.html,"[Rd] .C(..., DUP=FALSE) memory costs depending on input size?",51199,MarcelK
+051212.html,"[Rd] .C(..., DUP=FALSE) memory costs depending on input size?",51212,MarcelK
+051185.html,[Rd] puzzled by cat() behaviour when argument '...' is a vector	(and argument 'sep' contains &quot;\n&quot;),51185,Steven McKinney
+051355.html,[Rd] more efficient small subsets from moderate vectors?,51355,Martin Morgan
+051234.html,[Rd] Linking to headers and shared library in another package,51234,Iago Mosqueira
+051140.html,[Rd] cat: ./R/Copy: No such file or directory,51140,Duncan Murdoch
+051145.html,[Rd] Wishlist: pass args from demo() to source(),51145,Duncan Murdoch
+051149.html,[Rd] R CMD check with Matlab and perl?,51149,Duncan Murdoch
+051167.html,[Rd] Bug in Version 2.80? (PR#13243),51167,Duncan Murdoch
+051184.html,[Rd] puzzled by cat() behaviour when argument '...' is a vector (and argument 'sep' contains &quot;\n&quot;),51184,Duncan Murdoch
+051210.html,[Rd] Two minor escaping issues using \preformatted{....} in Rd format,51210,Duncan Murdoch
+051265.html,[Rd] Experimental Rd parser in trunk.,51265,Duncan Murdoch
+051267.html,[Rd] Experimental Rd parser in trunk.,51267,Duncan Murdoch
+051268.html,[Rd] Experimental Rd parser in trunk.,51268,Duncan Murdoch
+051270.html,[Rd] Experimental Rd parser in trunk.,51270,Duncan Murdoch
+051275.html,[Rd] R crashes on sprintf with bad format specification	(PR#13283),51275,Duncan Murdoch
+051276.html,[Rd] Documentation error in Writing R Extensions (PR#13282),51276,Duncan Murdoch
+051373.html,[Rd] Strategy for downloading packages,51373,Duncan Murdoch
+051376.html,[Rd] Strategy for downloading packages,51376,Duncan Murdoch
+051377.html,[Rd] Strategy for downloading packages,51377,Duncan Murdoch
+051410.html,[Rd] minor typo in assignOps help file,51410,Duncan Murdoch
+051313.html,[Rd] Fw: alpha transparency crashes R,51313,Paul Murrell
+051378.html,[Rd] grid error: protection stack overflow,51378,Paul Murrell
+051193.html,[Rd] [R] Building with MKL on Ubuntu,51193,Ei-ji Nakama
+051428.html,[Rd] Rtools28 - undefined references with gfortran,51428,John Nolan
+051436.html,[Rd] names generated in list indexing,51436,Vadim Ogranovich
+051174.html,[Rd] [R] Building with MKL on Ubuntu,51174,Anand Patil
+051176.html,[Rd] [R] Building with MKL on Ubuntu,51176,Anand Patil
+051181.html,[Rd] [R] Building with MKL on Ubuntu,51181,Anand Patil
+051183.html,[Rd] [R] Building with MKL on Ubuntu,51183,Anand Patil
+051189.html,[Rd] [R] Building with MKL on Ubuntu,51189,Anand Patil
+051192.html,[Rd] [R] Building with MKL on Ubuntu,51192,Anand Patil
+051194.html,[Rd] [R] Building with MKL on Ubuntu,51194,Anand Patil
+051240.html,[Rd] is.matrix,51240,Tony Plate
+051273.html,[Rd] Package install problem on Windows (PR#13284),51273,Tony Plate
+051300.html,[Rd] Package install problem on Windows (PR#13284),51300,Tony Plate
+051175.html,[Rd] [R] Building with MKL on Ubuntu,51175,Martyn Plummer
+051157.html,[Rd] gfortran optimization problems,51157,Mike Prager
+051311.html,[Rd] Diagnosing Crashes on garbage collection,51311,Andrew Redd
+051142.html,[Rd] cat: ./R/Copy: No such file or directory,51142,Prof Brian Ripley
+051153.html,[Rd] sort returns a wrong index (PR#13242),51153,Prof Brian Ripley
+051154.html,[Rd] row.names(data.frame(matrixWithDimnames)) depends on first rowname being &quot;&quot; or not. (PR#13230),51154,Prof Brian Ripley
+051162.html,[Rd] A question about the API mkchar(),51162,Prof Brian Ripley
+051168.html,[Rd] (PR#13195) Can't open files containing russian letters in path,51168,Prof Brian Ripley
+051169.html,[Rd] (PR#13195) Can't open files containing russian letters in path,51169,Prof Brian Ripley
+051171.html,[Rd] (PR#13195) Can't open files containing russian letters in path,51171,Prof Brian Ripley
+051172.html,[Rd] 2.8.0 release bugs (PR#13210),51172,Prof Brian Ripley
+051178.html,[Rd] [R] Building with MKL on Ubuntu,51178,Prof Brian Ripley
+051188.html,[Rd] [R] Building with MKL on Ubuntu,51188,Prof Brian Ripley
+051191.html,[Rd] [R] Building with MKL on Ubuntu,51191,Prof Brian Ripley
+051206.html,[Rd] Compile error when configured with (PR#13256),51206,Prof Brian Ripley
+051214.html,[Rd] Solved (RODBC): was Re: *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51214,Prof Brian Ripley
+051228.html,[Rd] typo in ?pie,51228,Prof Brian Ripley
+051233.html,[Rd] RFC: Offline help,51233,Prof Brian Ripley
+051238.html,[Rd] Linking to headers and shared library in another package,51238,Prof Brian Ripley
+051263.html,[Rd] Package install problem on Windows (PR#13284),51263,Prof Brian Ripley
+051282.html,[Rd] Package install problem on Windows (PR#13284),51282,Prof Brian Ripley
+051284.html,[Rd] (PR#13283) R crashes on sprintf with bad format specification,51284,Prof Brian Ripley
+051286.html,[Rd] (PR#13288) Bug#505698: r-base-core: dev2bitmap fails with gsexe related error,51286,Prof Brian Ripley
+051289.html,[Rd] (PR#13287) Line breaks in mathematical formulae in Rd files,51289,Prof Brian Ripley
+051293.html,[Rd] (PR#13283) R crashes on sprintf with bad format specification,51293,Prof Brian Ripley
+051296.html,"[Rd] problem with postscript/pdf plots, locales and embedded R",51296,Prof Brian Ripley
+051302.html,[Rd] problem in downloading the rimage package,51302,Prof Brian Ripley
+051305.html,"[Rd] problem with postscript/pdf plots, locales and embedded R",51305,Prof Brian Ripley
+051308.html,[Rd] Computing minimal detectable differences for general ANOVA models,51308,Prof Brian Ripley
+051316.html,[Rd] Diagnosing Crashes on garbage collection,51316,Prof Brian Ripley
+051320.html,[Rd] help.start() displays index.html in emacs (PR#13293),51320,Prof Brian Ripley
+051324.html,[Rd] R problem with the seq function (PR#13295),51324,Prof Brian Ripley
+051325.html,[Rd] stringsAsFactors = FALSE,51325,Prof Brian Ripley
+051327.html,[Rd] stringsAsFactors = FALSE,51327,Prof Brian Ripley
+051339.html,[Rd] checking for executable files ... WARNING,51339,Prof Brian Ripley
+051343.html,[Rd] checking for executable files ... WARNING,51343,Prof Brian Ripley
+051347.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51347,Prof Brian Ripley
+051348.html,[Rd] (PR#13299) &quot;deparse&quot; with &quot;nlines&quot; argument produces empty elements,51348,Prof Brian Ripley
+051356.html,[Rd] anyone familiar with this error?,51356,Prof Brian Ripley
+051357.html,[Rd] R license: GPL v2 or v3?,51357,Prof Brian Ripley
+051358.html,[Rd] more efficient small subsets from moderate vectors?,51358,Prof Brian Ripley
+051360.html,[Rd] (PR#13234) Problems with Sweave and pdf.options(encoding=&quot;ISOLatin7&quot;),51360,Prof Brian Ripley
+051366.html,[Rd] (PR#13234) Problems with Sweave and pdf.options(encoding=&quot;ISOLatin7&quot;),51366,Prof Brian Ripley
+051370.html,[Rd] (PR#13234) Problems with Sweave and	pdf.options(encoding=&quot;ISOLatin7&quot;),51370,Prof Brian Ripley
+051375.html,[Rd] Strategy for downloading packages,51375,Prof Brian Ripley
+051382.html,[Rd] paste() retains quotes (PR#13304),51382,Prof Brian Ripley
+051391.html,[Rd] Turning off compiler optimization,51391,Prof Brian Ripley
+051394.html,[Rd] Label justification (axis) (PR#13307),51394,Prof Brian Ripley
+051402.html,[Rd] wish: exportClassPattern,51402,Prof Brian Ripley
+051266.html,[Rd] gfortran optimization problems,51266,Dave Roberts
+051371.html,[Rd] doc buglet / attr method,51371,Paul Roebuck
+051182.html,[Rd] puzzled by cat() behaviour when argument '...' is a vector (and argument 'sep' contains &quot;\n&quot;),51182,Peter Ruckdeschel
+051196.html,[Rd] Two minor escaping issues using \preformatted{....} in Rd	format,51196,Peter Ruckdeschel
+051205.html,"[Rd] .C(..., DUP=FALSE) memory costs depending on input size?",51205,Jeff Ryan
+051262.html,[Rd] Dynamic linking to binary code from other packages??,51262,Jeff Ryan
+051299.html,[Rd] Problem trying to download rimage package (second try),51299,Jeff Ryan
+051143.html,[Rd] Emacs tags for R code,51143,Deepayan Sarkar
+051304.html,[Rd] Fw: alpha transparency crashes R,51304,Deepayan Sarkar
+051383.html,[Rd] Buggy trellis.focus() with xyplot ?,51383,Deepayan Sarkar
+051387.html,[Rd] Buggy trellis.focus() with xyplot ?,51387,Deepayan Sarkar
+051417.html,[Rd] handling a matrix and .C,51417,Wilm Schumacher
+051427.html,"[Rd] Fedora 10, R and yes...help.start()...deja vu all over again...",51427,Marc Schwartz
+051290.html,[Rd] error during list allocation,51290,Luke Tierney
+051235.html,[Rd] typo in ?pie,51235,Berwin A Turlach
+051321.html,[Rd] chisq.test with simulate.p.value=TRUE (PR#13292),51321,Berwin A Turlach
+051333.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51333,Rolf Turner
+051341.html,"[Rd] assign(&quot;FALSE&quot;, TRUE)",51341,Rolf Turner
+051208.html,[Rd] problems executing a bulk load with SQL server,51208,Grey Moran Tzamouranis
+051207.html,[Rd] problem packaging S4 class that contains a slot of jobjRef	class,51207,Simon Urbanek
+051257.html,[Rd] Issue with Mac OSX version of R (PR#13275),51257,Simon Urbanek
+051259.html,[Rd] what does negative indexing in a matrix mean?,51259,Simon Urbanek
+051264.html,[Rd] Dynamic linking to binary code from other packages??,51264,Simon Urbanek
+051274.html,[Rd] Package install problem on Windows (PR#13284),51274,Simon Urbanek
+051301.html,[Rd] problem in downloading the rimage package,51301,Simon Urbanek
+051374.html,[Rd] Strategy for downloading packages,51374,Simon Urbanek
+051224.html,[Rd] problems installing rJava with R-2.8.0,51224,Joris  at  VU
+051318.html,[Rd] (PR#13287) Line breaks in mathematical formulae in Rd files,51318,Yihui Xie
+051365.html,[Rd] (PR#13234) Problems with Sweave and	pdf.options(encoding=&quot;ISOLatin7&quot;),51365,Vaidotas Zemlys
+051380.html,[Rd] (PR#13234) Problems with Sweave and	pdf.options(encoding=&quot;ISOLatin7&quot;),51380,Vaidotas Zemlys
+051332.html,[Rd] lines.formula() problem when data argument is missing	(PR#13296),51332,smckinney at bccrc.ca
+051253.html,[Rd] erf calculation (PR#13271),51253,Jerry.Lewis at biogenidec.com
+051261.html,[Rd] Package install problem on Windows (PR#13284),51261,lhansen at blackmesacapital.com
+051424.html,[Rd] Problem with installed.packages (PR#13332),51424,lhansen at blackmesacapital.com
+051272.html,[Rd] R crashes on sprintf with bad format specification (PR#13283),51272,ocheyett at bonddesk.com
+051195.html,[Rd] Fwd: SWIG with R and C++ STL,51195,charlie
+051314.html,[Rd] Fwd:  Fwd: SWIG with R and C++ STL,51314,charlie
+051349.html,[Rd] Fwd: Fwd: SWIG with R and C++ STL,51349,charlie
+051209.html,[Rd] Two minor escaping issues using \preformatted{....} in	Rd	format,51209,Mark.Bravington at csiro.au
+051232.html,[Rd] Locating MiKTeX,51232,Mark.Bravington at csiro.au
+051285.html,[Rd] Bug#505698: r-base-core: dev2bitmap fails with gsexe related	error (PR#13288),51285,edd at debian.org
+051160.html,[Rd] Bug in Version 2.80? (PR#13243),51160,renger at ecoplan.ch
+051203.html,[Rd] Compile error when configured with (PR#13256),51203,jon at epcc.ed.ac.uk
+051219.html,[Rd] geeglm crashes if there are no datapoints in predictor's first	level (PR#13266),51219,jayoung at fhcrc.org
+051215.html,[Rd] R 2.8.0.  INSTALL script error on Solaris2.8 (PR#13261),51215,gml4410 at ggr.co.uk
+051201.html,[Rd] Axis gives error message (PR#13259),51201,ggrothendieck at gmail.com
+051151.html,[Rd] R.app data editor crashes with empty data frame (PR#13239),51151,jbonsdorff at gmail.com
+051435.html,[Rd] missing parentheses in FAQ (PR#13343),51435,spluque at gmail.com
+051218.html,"[Rd] barplot can put legend in wrong place,	request option to override that (PR#13265)",51218,timhesterberg at gmail.com
+051288.html,[Rd] Line breaks in mathematical formulae in Rd files (PR#13287),51288,xieyihui at gmail.com
+051254.html,[Rd] Timeseries - window - extend problem (PR#13272),51254,patrickbolliger at gmx.ch
+051180.html,[Rd] [R] Building with MKL on Ubuntu,51180,plummer at iarc.fr
+051227.html,[Rd] typo in ?pie,51227,plummer at iarc.fr
+051323.html,[Rd] R problem with the seq function (PR#13295),51323,fabien.roussel at imr.no
+051476.html,[Rd] A small bug in R code of the legend function of the	Graphics (PR#13350),51476,Arkady.Sherman at ksu.ru
+051434.html,[Rd] A small bug in R code of the legend function of the Graphics	pacakge (PR#13340),51434,asherman at ksu.ru
+051295.html,"[Rd] problem with postscript/pdf plots, locales and embedded R",51295,laurent
+051303.html,"[Rd] problem with postscript/pdf plots, locales and embedded R",51303,laurent
+051307.html,"[Rd] problem with postscript/pdf plots, locales and embedded R",51307,laurent
+051148.html,[Rd] Thanks for R-2.8.0 still on W2000,51148,mel
+051204.html,[Rd] 2.8.0 release bugs (PR#13210),51204,janek musek
+051381.html,[Rd] qr.coef and complex numbers - still busted for non-square	case? (PR#13305),51381,whorfin at pixar.com
+051397.html,"[Rd] edge label position in plot.dendrogram(..., horiz=T) (PR#13313)",51397,yan at pixie.org.uk
+051398.html,[Rd] cex.lab etc. ignored in plot.ts for multiple plots (PR#13315),51398,yan at pixie.org.uk
+051419.html,[Rd] handling a matrix and .C,51419,Rory.WINSTON at rbs.com
+051255.html,[Rd] Issue with Mac OSX version of R (PR#13275),51255,gpapkov at rice.edu
+051319.html,[Rd] help.start() displays index.html in emacs (PR#13293),51319,rose at rz.uni-potsdam.de
+051396.html,[Rd] dchisq hangs in infinite loop (PR#13309),51396,maechler at stat.math.ethz.ch
+051432.html,[Rd] Problem with installed.packages (PR#13332),51432,maechler at stat.math.ethz.ch
+051442.html,[Rd] A small bug in R code of the legend function of the	Graphics pacakge (PR#13340),51442,maechler at stat.math.ethz.ch
+051399.html,[Rd] Wishlist: fix error in documentation for body&lt;- (PR#13318),51399,fabian.scheipl at stat.uni-muenchen.de
+051155.html,[Rd] row.names(data.frame(matrixWithDimnames)) depends on first	(PR#13244),51155,ripley at stats.ox.ac.uk
+051294.html,[Rd] (PR#13283) R crashes on sprintf with bad format,51294,ripley at stats.ox.ac.uk
+051292.html,[Rd] (PR#13283) R crashes on sprintf with bad format	specification,51292,wdunlap at tibco.com
+051216.html,[Rd] Problems with packages fda and splines (PR#13263),51216,degras at uchicago.edu
+051317.html,[Rd] chisq.test with simulate.p.value=TRUE (PR#13292),51317,constant at unb.br
+051393.html,[Rd] Label justification (axis) (PR#13307),51393,martin.bader at unibas.ch
+051220.html,[Rd] Bug in package iid.test (PR#13268),51220,kevin.shook at usask.ca
+051271.html,[Rd] Documentation error in Writing R Extensions (PR#13282),51271,pdunn2 at usc.edu.au
+051278.html,[Rd] R crashes on sprintf with bad format specification	(PR#13285),51278,seth at userprimary.net
+051379.html,[Rd] paste() retains quotes (PR#13304),51379,gilescrane at verizon.net
+051152.html,[Rd] sort returns a wrong index (PR#13242),51152,bert.tijhuis at wavin.com
+051241.html,[Rd] is.matrix,51241,hadley wickham
+051245.html,[Rd] is.matrix,51245,hadley wickham
+051246.html,[Rd] is.matrix,51246,hadley wickham
+051251.html,[Rd] is.matrix,51251,hadley wickham
+051322.html,[Rd] stringsAsFactors = FALSE,51322,hadley wickham
+051328.html,[Rd] stringsAsFactors = FALSE,51328,hadley wickham
+051329.html,[Rd] stringsAsFactors = FALSE,51329,hadley wickham
+051337.html,[Rd] checking for executable files ... WARNING,51337,hadley wickham
+051342.html,[Rd] checking for executable files ... WARNING,51342,hadley wickham
+051344.html,[Rd] checking for executable files ... WARNING,51344,hadley wickham
+051420.html,[Rd] Suggestions for improving R-FAQ,51420,hadley wickham
+051421.html,[Rd] Suggestions for improving R-FAQ,51421,hadley wickham
+051423.html,[Rd] Suggestions for improving R-FAQ,51423,hadley wickham
+051392.html,[Rd] dchisq hangs in infinite loop (PR#13309),51392,josef.leydold at wu-wien.ac.at
+051437.html,[Rd] Unable to plot or analyse phylogeny (PR#13345),51437,ecg503 at york.ac.uk
+051340.html,[Rd] &quot;deparse&quot; with &quot;nlines&quot; argument produces empty elements	(PR#13299),51340,kbarton at zbs.bialowieza.pl
+051161.html,[Rd] A question about the API mkchar(),51161,&#29579;&#27704;&#26234;

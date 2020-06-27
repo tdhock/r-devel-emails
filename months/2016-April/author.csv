@@ -1,0 +1,105 @@
+link,Subject,id,author
+072564.html,[Rd] PR# for match.arg(arg),72564,Suharto Anggono Suharto Anggono
+072609.html,[Rd] Benchmarks for R,72609,Francisco Banha
+072529.html,[Rd] Suggested dependencies in context of R CMD check,72529,Gabriel Becker
+072563.html,[Rd] (no) circular dependency,72563,Gabriel Becker
+072597.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72597,Gabriel Becker
+072599.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72599,Gabriel Becker
+072542.html,"[Rd] Under Windows, Rgui and Rterm crash if one tries to close the graphic device while identify or locator are running",72542,Henrik Bengtsson
+072584.html,[Rd] R not responding (must force quit) when saving graphic to PDF (bug?),72584,Henrik Bengtsson
+072601.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72601,Henrik Bengtsson
+072524.html,[Rd] TensorFlow in R,72524,Bernd Bischl
+072575.html,[Rd] Bounds error when indexing a matrix with NA_character_,72575,Milan Bouchet-Valat
+072580.html,[Rd] R not responding (must force quit) when saving graphic to PDF	(bug?),72580,Neil French Collier
+072583.html,[Rd] R not responding (must force quit) when saving graphic to PDF (bug?),72583,Neil French Collier
+072608.html,[Rd] Fresh build from source of R-3.2.5 failing &quot;make check&quot; under 64-bit Ubuntu,72608,Mark Dalphin
+072616.html,[Rd] Fresh build from source of R-3.2.5 failing &quot;make check&quot; under 64-bit Ubuntu [SOLVED],72616,Mark Dalphin
+072621.html,[Rd] paths for install and libraries?,72621,"Dalthorp, Daniel"
+072522.html,[Rd] [R] TensorFlow in R,72522,Charles Determan
+072525.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0 on	windows,72525,Ray Donnelly
+072535.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0 on	windows,72535,Ray Donnelly
+072536.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0 on	windows,72536,Ray Donnelly
+072537.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0 on	windows,72537,William Dunlap
+072557.html,[Rd] (no) circular dependency,72557,William Dunlap
+072607.html,[Rd] locked environments,72607,William Dunlap
+072613.html,[Rd] &quot;cophenetic&quot; function for objects of class &quot;dendrogram&quot;,72613,William Dunlap
+072614.html,[Rd] &quot;cophenetic&quot; function for objects of class &quot;dendrogram&quot;,72614,William Dunlap
+072555.html,[Rd] (no) circular dependency,72555,Adrian Du&#537;a
+072560.html,[Rd] (no) circular dependency,72560,Adrian Du&#537;a
+072567.html,[Rd] (no) circular dependency,72567,Adrian Du&#537;a
+072569.html,[Rd] (no) circular dependency,72569,Adrian Du&#537;a
+072531.html,[Rd] Suggested dependencies in context of R CMD check,72531,Dirk Eddelbuettel
+072571.html,[Rd] Note: no visible definition,72571,Dirk Eddelbuettel
+072582.html,[Rd] Understanding POSIXct creation on different OSes.,72582,Dirk Eddelbuettel
+072591.html,[Rd] Understanding POSIXct creation on different OSes.,72591,Dirk Eddelbuettel
+072602.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72602,Dirk Eddelbuettel
+072624.html,[Rd] paths for install and libraries?,72624,Dirk Eddelbuettel
+072618.html,[Rd] &quot;cophenetic&quot; function for objects of class &quot;dendrogram&quot;,72618,Tal Galili
+072540.html,"[Rd] Under Windows, Rgui and Rterm crash if one tries to close the graphic device while identify or locator are running",72540,Simone Giannerini
+072538.html,[Rd] Suggested dependencies in context of R CMD check,72538,Paul Gilbert
+072526.html,[Rd] Suggested dependencies in context of R CMD check,72526,Jan G&#243;recki
+072548.html,[Rd] Suggested dependencies in context of R CMD check,72548,Jan G&#243;recki
+072604.html,[Rd] R-exts update for new *check* argument in R 3.3.0,72604,Jan G&#243;recki
+072545.html,[Rd] Package manuals as html page instead of pdf,72545,Holger Hoefling
+072581.html,[Rd] R not responding (must force quit) when saving graphic to	PDF (bug?),72581,Wolfgang Huber
+072534.html,[Rd] debug/recover/.Internal,72534,Mick Jordan
+072570.html,[Rd] Note: no visible definition,72570,Mick Jordan
+072572.html,[Rd] Note: no visible definition,72572,Mick Jordan
+072574.html,[Rd] Note: no visible definition,72574,Mick Jordan
+072547.html,[Rd] [PATCH] fix CHECK_this_length in sprintf.c,72547,Matthew Fowles Kulukundis
+072559.html,[Rd] [PATCH] fix CHECK_this_length in sprintf.c,72559,Matthew Fowles Kulukundis
+072594.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72594,Michael Lawrence
+072596.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72596,Michael Lawrence
+072598.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72598,Michael Lawrence
+072603.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72603,Michael Lawrence
+072588.html,[Rd] Building R-patched and R-devel fails,72588,Uwe Ligges
+072556.html,[Rd] (no) circular dependency,72556,Mark van der Loo
+072561.html,[Rd] (no) circular dependency,72561,Mark van der Loo
+072551.html,[Rd] [PATCH] fix CHECK_this_length in sprintf.c,72551,Martin Maechler
+072553.html,[Rd] [PATCH] fix CHECK_this_length in sprintf.c,72553,Martin Maechler
+072576.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0	on	windows,72576,Martin Maechler
+072578.html,[Rd] Optimization bug when byte compiling with gcc	5.3.0	on	windows,72578,Martin Maechler
+072605.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72605,Martin Maechler
+072619.html,[Rd] residual standard &quot;error&quot;,72619,Martin Maechler
+072622.html,[Rd] paths for install and libraries?,72622,Martin Maechler
+072527.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0 on windows,72527,Duncan Murdoch
+072532.html,[Rd] Suggested dependencies in context of R CMD check,72532,Duncan Murdoch
+072539.html,[Rd] Suggested dependencies in context of R CMD check,72539,Duncan Murdoch
+072541.html,"[Rd] Under Windows, Rgui and Rterm crash if one tries to close the graphic device while identify or locator are running",72541,Duncan Murdoch
+072543.html,"[Rd] Under Windows, Rgui and Rterm crash if one tries to close the graphic device while identify or locator are running",72543,Duncan Murdoch
+072544.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",72544,Duncan Murdoch
+072566.html,"[Rd] Under Windows, Rgui and Rterm crash if one tries to close the graphic device while identify or locator are running",72566,Duncan Murdoch
+072573.html,[Rd] Note: no visible definition,72573,Duncan Murdoch
+072592.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72592,Kirill M&#252;ller
+072593.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72593,Kirill M&#252;ller
+072595.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72595,Kirill M&#252;ller
+072552.html,[Rd] (no) circular dependency,72552,Thierry Onkelinx
+072533.html,[Rd] Optimization bug when byte compiling with gcc 5.3.0 on	windows,72533,Jeroen Ooms
+072550.html,[Rd] Assignment operator and deep copy for calling C functions,72550,Martyn Plummer
+072546.html,[Rd] (no) circular dependency,72546,Dmitri Popavenko
+072554.html,[Rd] (no) circular dependency,72554,Dmitri Popavenko
+072558.html,[Rd] (no) circular dependency,72558,Dmitri Popavenko
+072562.html,[Rd] (no) circular dependency,72562,Dmitri Popavenko
+072587.html,[Rd] residual standard &quot;error&quot;,72587,Randall Pruim
+072549.html,[Rd] Assignment operator and deep copy for calling C functions,72549,Thorsten R
+072586.html,[Rd] Building R-patched and R-devel fails,72586,Prof Brian Ripley
+072606.html,[Rd] R-exts update for new *check* argument in R 3.3.0,72606,Prof Brian Ripley
+072611.html,[Rd] &quot;cophenetic&quot; function for objects of class &quot;dendrogram&quot;,72611,Alberto Fern&#225;ndez Sabater
+072530.html,[Rd] Understanding POSIXct creation on different OSes.,72530,Arunkumar Srinivasan
+072589.html,[Rd] Survival package (was Building R-patched and R-devel fails),72589,"Therneau, Terry M., Ph.D."
+072585.html,[Rd] Building R-patched and R-devel fails,72585,Berwin A Turlach
+072579.html,[Rd] [R-SIG-Finance] [VC++ calling R] How to create a real-time interactive ticking time-series chart using dygraph via RInside?,72579,Joshua Ulrich
+072523.html,[Rd] TensorFlow in R,72523,Axel Urbiz
+072577.html,[Rd] Optimization bug when byte compiling with gcc	5.3.0	on	windows,72577,Ravi Varadhan
+072565.html,[Rd] (no) circular dependency,72565,Gregory Warnes
+072528.html,[Rd] Suggested dependencies in context of R CMD check,72528,Hadley Wickham
+072568.html,[Rd] (no) circular dependency,72568,Hadley Wickham
+072600.html,[Rd] S3 dispatch for S4 subclasses only works if variable &quot;extends&quot; is accessible from global environment,72600,Hadley Wickham
+072590.html,[Rd] Building R-patched and R-devel fails,72590,peter dalgaard
+072610.html,[Rd] Benchmarks for R,72610,peter dalgaard
+072612.html,[Rd] Fresh build from source of R-3.2.5 failing &quot;make check&quot;	under 64-bit Ubuntu,72612,peter dalgaard
+072617.html,[Rd] Fresh build from source of R-3.2.5 failing &quot;make check&quot;	under 64-bit Ubuntu [SOLVED],72617,peter dalgaard
+072620.html,[Rd] residual standard &quot;error&quot;,72620,peter dalgaard
+072625.html,[Rd] boxplot with formula involving two-factor levels,72625,peter dalgaard
+072623.html,[Rd] boxplot with formula involving two-factor levels,72623,diy at stat.oregonstate.edu
+072615.html,[Rd] locked environments,72615,luke-tierney at uiowa.edu

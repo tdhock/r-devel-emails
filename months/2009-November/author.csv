@@ -1,0 +1,497 @@
+link,Subject,id,author
+055710.html,[Rd] strange crashes caused by 'cairoDevice' and 'tcltk' dialogues,55710,Liviu Andronic
+055837.html,[Rd] PROTECT and OCaml GC.,55837,Whit Armstrong
+055506.html,[Rd] RSiteSearch and my R site,55506,Jonathan Baron
+055526.html,[Rd] Summary methods,55526,Douglas Bates
+055411.html,[Rd] Strange code in `?`,55411,Martin Becker
+055396.html,[Rd] parse_Rd and/or lazyload problem,55396,Henrik Bengtsson
+055425.html,[Rd] Wishlist: Downgrade missing Rd links to NOTEs for	non-installed Suggested packages,55425,Henrik Bengtsson
+055545.html,[Rd] typo in docs for unlink(),55545,Henrik Bengtsson
+055551.html,[Rd] typo in docs for unlink(),55551,Henrik Bengtsson
+055554.html,[Rd] Clarification on generic functions and methods,55554,Henrik Bengtsson
+055557.html,[Rd] Help in 2.10 lost its &quot;Find&quot; feature,55557,Henrik Bengtsson
+055592.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start() page,55592,Henrik Bengtsson
+055600.html,[Rd] format (PR#14062),55600,Henrik Bengtsson
+055601.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start()	page,55601,Henrik Bengtsson
+055613.html,[Rd] The default behaviour of a missing entry in an environment,55613,Henrik Bengtsson
+055669.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start()	page,55669,Henrik Bengtsson
+055730.html,[Rd] Suggestion: Clarification in Rd for utils::getAnywhere(),55730,Henrik Bengtsson
+055833.html,[Rd] Sending signals to current R process from R running under	MS Windows (c.f. Esc),55833,Henrik Bengtsson
+055822.html,[Rd] compiling on snow leopard: Cocoa errors?!?!?!,55822,Homer Paul Benton
+055825.html,[Rd] compiling on snow leopard: Cocoa errors?!?!?!,55825,Homer Paul Benton
+055826.html,[Rd] compiling on snow leopard: Cocoa errors?!?!?!,55826,Homer Paul Benton
+055542.html,[Rd] Help with fPortfolio,55542,Abhijit Bera
+055692.html,[Rd] Help with R on windows,55692,Abhijit Bera
+055727.html,[Rd] How do I bundle R with my Win32 Application?,55727,Abhijit Bera
+055714.html,[Rd] R Usage Statistics,55714,Charles C. Berry
+055405.html,[Rd] odd evaluation within correlation argument of glmmPQL,55405,Ben Bolker
+055483.html,[Rd] Typos in ?pdf (was Re: Problem with pdf graphics device),55483,Ben Bolker
+055538.html,[Rd] polygon kills X-server (PR#14055),55538,Ben Bolker
+055830.html,[Rd] p-generalized normal distribution,55830,Ben Bolker
+055847.html,[Rd] tiny typos in R-exts,55847,Ben Bolker
+055492.html,[Rd] bug in heatmap?,55492,Ross Boylan
+055799.html,[Rd] group generics,55799,Ross Boylan
+055873.html,[Rd] group generics,55873,Ross Boylan
+055565.html,[Rd] Building package under windows which links against a cygwin	library,55565,Cameron Bracken
+055569.html,[Rd] Building package under windows which links against a	cygwin library,55569,Cameron Bracken
+055572.html,[Rd] Building package under windows which links against a	cygwin library,55572,Cameron Bracken
+055576.html,[Rd] Building package under windows which links against a	cygwin library,55576,Cameron Bracken
+055566.html,[Rd] Fwd: fameInit TSfame fame.dll,55566,"Bunny, lautloscrew.com"
+055625.html,[Rd] Wish: more explicit error message with missing argument in c,55625,Patrick Burns
+055661.html,[Rd] n=1 default for random number generators,55661,Patrick Burns
+055718.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55718,Benilton Carvalho
+055721.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55721,Benilton Carvalho
+055835.html,[Rd] Display list redraw incomplete,55835,Benilton Carvalho
+055857.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55857,Benilton Carvalho
+055544.html,[Rd] Help with fPortfolio,55544,Yohan Chalabi
+055446.html,[Rd] s4 generic issue,55446,John Chambers
+055517.html,[Rd] Negative integer subscripts in [[?,55517,John Chambers
+055712.html,[Rd] R Usage Statistics,55712,Kevin R. Coombes
+055658.html,[Rd]  n=1 default for random number generators,55658,Richard Cotton
+055379.html,[Rd] Internal error in 'ls' for pathological environments	(PR#14035),55379,Peter Dalgaard
+055460.html,[Rd] sapply improvements,55460,Peter Dalgaard
+055464.html,[Rd] sapply improvements,55464,Peter Dalgaard
+055503.html,[Rd] Binning of integers with hist() function odd results	(PR#14046),55503,Peter Dalgaard
+055537.html,[Rd] Typo in 2.10.0 NEWS file (PR#14054),55537,Peter Dalgaard
+055606.html,[Rd] error checks,55606,Peter Dalgaard
+055620.html,[Rd] Bug in R (PR#14064),55620,Peter Dalgaard
+055665.html,[Rd] The default behaviour of a missing entry in an environment,55665,Peter Dalgaard
+055701.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55701,Peter Dalgaard
+055728.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55728,Peter Dalgaard
+055413.html,[Rd] Request: bring back windows chm help support  (PR#14034),55413,Michael Dewey
+055603.html,[Rd] format (PR#14062),55603,Michael Dewey
+055737.html,[Rd] R Usage Statistics,55737,Michael Dewey
+055507.html,[Rd] Summary methods,55507,"Doran, Harold"
+055552.html,[Rd] Clarification on generic functions and methods,55552,"Doran, Harold"
+055560.html,[Rd] Clarification on generic functions and methods,55560,"Doran, Harold"
+055564.html,[Rd] Clarification on generic functions and methods,55564,"Doran, Harold"
+055448.html,[Rd] inconsistent behavior for logical vectors when using apply (&quot;	TRUE&quot;),55448,Adrian Dragulescu
+055451.html,[Rd] inconsistent behavior for logical vectors when using apply (&quot; TRUE&quot;),55451,Adrian Dragulescu
+055431.html,[Rd] memory misuse in subscript code when rep() is called in odd way,55431,William Dunlap
+055445.html,[Rd] error in install.packages() (PR#14042),55445,William Dunlap
+055454.html,[Rd] error in install.packages() (PR#14042),55454,William Dunlap
+055456.html,[Rd] sapply improvements,55456,William Dunlap
+055457.html,[Rd] sapply improvements,55457,William Dunlap
+055463.html,[Rd] sapply improvements,55463,William Dunlap
+055516.html,[Rd] Negative integer subscripts in [[?,55516,William Dunlap
+055521.html,[Rd] Negative integer subscripts in [[?,55521,William Dunlap
+055660.html,[Rd] n=1 default for random number generators,55660,William Dunlap
+055679.html,[Rd] make.packages.html,55679,William Dunlap
+055725.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55725,William Dunlap
+055631.html,[Rd] Fwd: AR(2) modelling,55631,Christophe Dutang
+055635.html,[Rd] Fwd: AR(2) modelling,55635,Christophe Dutang
+055639.html,[Rd] Fwd: AR(2) modelling,55639,Christophe Dutang
+055821.html,[Rd] p-generalized normal distribution,55821,Christophe Dutang
+055627.html,[Rd] R_tryEval for OCaml-R.,55627,Dirk Eddelbuettel
+055851.html,[Rd] [Fwd: opened symbols in libR.so available.],55851,Dirk Eddelbuettel
+055388.html,[Rd] Request: bring back windows chm help support (PR#14034),55388,Peter Ehlers
+055391.html,[Rd] Request: bring back windows chm help support (PR#14034),55391,Peter Ehlers
+055392.html,[Rd] Request: bring back windows chm help support (PR#14034),55392,Peter Ehlers
+055803.html,[Rd] The &quot;lib&quot; argument in install.packages().,55803,Peter Ehlers
+055439.html,[Rd] Cannot Change Function (PR#14041),55439,Stefan Evert
+055433.html,[Rd] memory misuse in subscript code when rep() is called in odd way,55433,Seth Falcon
+055434.html,[Rd] parse_Rd and/or lazyload problem,55434,Seth Falcon
+055574.html,[Rd] typo in docs for unlink(),55574,Seth Falcon
+055607.html,[Rd] error checks,55607,Seth Falcon
+055675.html,[Rd] How to generate dependency file that can be used by gnu make?,55675,Seth Falcon
+055757.html,[Rd] CRAN Server download statistics (Was:  R Usage Statistics),55757,"Fellows, Ian"
+055774.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55774,"Fellows, Ian"
+055780.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55780,"Fellows, Ian"
+055740.html,[Rd] Including local dynamic libraries,55740,Elana Fertig
+055752.html,[Rd] Including local dynamic libraries,55752,Elana Fertig
+055401.html,[Rd] Request: bring back windows chm help support (PR#14034),55401,John Fox
+055467.html,[Rd] MailingList: in DESCRIPTION,55467,Romain Francois
+055470.html,[Rd] MailingList: in DESCRIPTION,55470,Romain Francois
+055476.html,[Rd] Active bindings in attached environments,55476,Romain Francois
+055479.html,[Rd] combine UserDefinedDatabase and regular environments,55479,Romain Francois
+055480.html,[Rd] Active bindings in attached environments,55480,Romain Francois
+055495.html,"[Rd] getConnection, R_outpstream_st",55495,Romain Francois
+055504.html,"[Rd] getConnection, R_outpstream_st",55504,Romain Francois
+055512.html,[Rd] \\signature macro generated by promptMethods,55512,Romain Francois
+055599.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start() page,55599,Romain Francois
+055628.html,[Rd] R_tryEval for OCaml-R.,55628,Romain Francois
+055713.html,[Rd] combine UserDefinedDatabase and regular environments,55713,Romain Francois
+055729.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55729,Romain Francois
+055741.html,[Rd] Including local dynamic libraries,55741,Romain Francois
+055858.html,[Rd] include body in the call to httpd,55858,Romain Francois
+055700.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55700,Laurent Gautier
+055705.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55705,Laurent Gautier
+055860.html,[Rd] :Re:  PROTECT and OCaml GC.,55860,Laurent Gautier
+055862.html,[Rd] :Re:  PROTECT and OCaml GC.,55862,Laurent Gautier
+055867.html,[Rd] :Re:  PROTECT and OCaml GC.,55867,Laurent Gautier
+055663.html,[Rd] The default behaviour of a missing entry in an environment,55663,Robert Gentleman
+055734.html,[Rd] make fails on R r50499 ( openSuSE 11.0 x86-64),55734,Simone Giannerini
+055736.html,[Rd] make fails on R r50499 ( openSuSE 11.0 x86-64),55736,Simone Giannerini
+055403.html,[Rd] reg-tests-1 failing in Ubuntu 9.10,55403,Paul Gilbert
+055527.html,[Rd] Makevars or Makevars.in,55527,Paul Gilbert
+055397.html,[Rd]  Help with issues for update when defining S3 methods for lm,55397,Ulrike Groemping
+055687.html,[Rd]  Link to pdf documentation from other package ?,55687,Ulrike Groemping
+055689.html,[Rd] Link to pdf documentation from other package ?,55689,Ulrike Groemping
+055788.html,[Rd] Link to pdf documentation from other package ?,55788,Ulrike Groemping
+055406.html,[Rd] Strange code in `?`,55406,Philippe Grosjean
+055381.html,[Rd] Internal error in 'ls' for pathological environments	(PR#14035),55381,Gabor Grothendieck
+055390.html,[Rd] Request: bring back windows chm help support (PR#14034),55390,Gabor Grothendieck
+055393.html,[Rd] Request: bring back windows chm help support (PR#14034),55393,Gabor Grothendieck
+055402.html,[Rd] Request: bring back windows chm help support (PR#14034),55402,Gabor Grothendieck
+055455.html,[Rd] sapply improvements,55455,Gabor Grothendieck
+055519.html,[Rd] textConnection performance quadratic (PR#14053),55519,Gabor Grothendieck
+055571.html,[Rd] html help in Windows,55571,Gabor Grothendieck
+055593.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start()	page,55593,Gabor Grothendieck
+055602.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start()	page,55602,Gabor Grothendieck
+055621.html,[Rd] The default behaviour of a missing entry in an environment,55621,Gabor Grothendieck
+055623.html,[Rd] The default behaviour of a missing entry in an environment,55623,Gabor Grothendieck
+055636.html,[Rd] file.rename overwrites existing target (PR#14065),55636,Gabor Grothendieck
+055638.html,[Rd] Fwd: AR(2) modelling,55638,Gabor Grothendieck
+055671.html,[Rd] make.packages.html,55671,Gabor Grothendieck
+055750.html,[Rd] error message when running news(),55750,Gabor Grothendieck
+055762.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55762,Gabor Grothendieck
+055763.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55763,Gabor Grothendieck
+055768.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55768,Gabor Grothendieck
+055770.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55770,Gabor Grothendieck
+055772.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55772,Gabor Grothendieck
+055773.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55773,Gabor Grothendieck
+055778.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55778,Gabor Grothendieck
+055779.html,[Rd] Calling default method for primitive functions,55779,Gabor Grothendieck
+055783.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55783,Gabor Grothendieck
+055786.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55786,Gabor Grothendieck
+055789.html,[Rd] Link to pdf documentation from other package ?,55789,Gabor Grothendieck
+055792.html,[Rd] Link to pdf documentation from other package ?,55792,Gabor Grothendieck
+055852.html,[Rd] tzone attribute gets stripped on POSIXct variable,55852,Gabor Grothendieck
+055428.html,[Rd] Registered S3 methods not found: Documentation bug or anomaly in function update or ... ?,55428,Ulrike Gr&#246;mping
+055693.html,[Rd] Link to pdf documentation from other package ?,55693,Ulrike Gr&#246;mping
+055501.html,[Rd] Binning of integers with hist() function odd results (P,55501,Gerald Guglielmo
+055801.html,[Rd] Question R's parser : - parsing &quot;x=\n 1&quot;,55801,Saptarshi Guha
+055820.html,[Rd] p-generalized normal distribution,55820,Kjetil Halvorsen
+055581.html,[Rd] S4 objects in the data directory,55581,Robin Hankin
+055471.html,[Rd] R292 and tcl/tk,55471,Kasper Daniel Hansen
+055498.html,[Rd] Binning of integers with hist() function odd results (P,55498, (Ted Harding)
+055529.html,[Rd] Installing and compiling C code for R-windows,55529,"Hartley, Andrew"
+055509.html,[Rd] Bug in all.equal() or in the plm package,55509,Arne Henningsen
+055525.html,[Rd] Bug in all.equal() or in the plm package,55525,Arne Henningsen
+055486.html,[Rd] Active bindings in attached environments,55486,Jeff Horner
+055473.html,[Rd] Active bindings in attached environments,55473,Jeffrey Horner
+055475.html,[Rd] Active bindings in attached environments,55475,Jeffrey Horner
+055481.html,[Rd] Active bindings in attached environments,55481,Jeffrey Horner
+055482.html,[Rd] Active bindings in attached environments,55482,Jeffrey Horner
+055535.html,[Rd] Alphanumeric tools::file_path_sans_ext() (PR#14050),55535,Kurt Hornik
+055753.html,[Rd] error message when running news(),55753,Kurt Hornik
+055598.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start()	page,55598,Karl Ove Hufthammer
+055616.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start()	page,55616,Karl Ove Hufthammer
+055640.html,[Rd] Problem building package for R 2.10.0 on Mac OS X,55640,Stephen Juggins
+055795.html,[Rd] p-generalized normal distribution,55795,Steve Kalke
+055563.html,[Rd] Clarification on generic functions and methods,55563,Ken Knoblauch
+055442.html,[Rd] s4 generic issue,55442,Roger Koenker
+055608.html,[Rd] The default behaviour of a missing entry in an environment,55608,Trishank Karthik Kuppusamy
+055610.html,[Rd] The default behaviour of a missing entry in an environment,55610,Trishank Karthik Kuppusamy
+055612.html,[Rd] The default behaviour of a missing entry in an environment,55612,Trishank Karthik Kuppusamy
+055614.html,[Rd] The default behaviour of a missing entry in an environment,55614,Trishank Karthik Kuppusamy
+055648.html,[Rd] Segmentation faults on SEXP conversion,55648,Duncan Temple Lang
+055711.html,[Rd] combine UserDefinedDatabase and regular environments,55711,Michael Lawrence
+055420.html,[Rd] Removing cran mirrors,55420,Friedrich Leisch
+055743.html,[Rd] Suggestion for the reproducibility of R home page figure,55743,Friedrich Leisch
+055416.html,[Rd] Removing cran mirrors,55416,Uwe Ligges
+055419.html,[Rd] Removing cran mirrors,55419,Uwe Ligges
+055423.html,[Rd] Removing cran mirrors,55423,Uwe Ligges
+055429.html,[Rd] Removing cran mirrors,55429,Uwe Ligges
+055437.html,[Rd] Registered S3 methods not found: Documentation bug or anomaly in function update or ... ?,55437,Uwe Ligges
+055541.html,[Rd] polygon kills X-server (PR#14055),55541,Uwe Ligges
+055839.html,[Rd] [Fwd: opened symbols in libR.so available.],55839,Uwe Ligges
+055842.html,[Rd] Display list redraw incomplete,55842,Uwe Ligges
+055723.html,[Rd] rounding the time: significant 0 does not appear (PR#14074),55723,Don MacQueen
+055767.html,[Rd] Method dispatch for function,55767,Stavros Macrakis
+055466.html,[Rd] sapply improvements,55466,Martin Maechler
+055474.html,[Rd] sapply improvements,55474,Martin Maechler
+055579.html,[Rd] typo in docs for unlink(),55579,Martin Maechler
+055580.html,[Rd] typo in docs for unlink(),55580,Martin Maechler
+055582.html,[Rd] unname() returns a named vector when the input vector has	length 0,55582,Martin Maechler
+055585.html,[Rd] typo in docs for unlink(),55585,Martin Maechler
+055587.html,[Rd] typo in docs for unlink(),55587,Martin Maechler
+055805.html,[Rd] Method dispatch for function,55805,Martin Maechler
+055817.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55817,Martin Maechler
+055853.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55853,Martin Maechler
+055759.html,[Rd] OOP with Encapsulated Class Definitions,55759,Charlotte Maia
+055497.html,[Rd] Small patch to packages.R,55497,Chris Masters
+055804.html,[Rd] Error in parse(outFile),55804,Pamela McCaskie
+055811.html,[Rd] Question about image() behavior,55811,Justin McGrath
+055458.html,[Rd] Cannot Change Function (PR#14041),55458,Steven McKinney
+055531.html,[Rd] Bug in all.equal() or in the plm package,55531,Steven McKinney
+055715.html,[Rd] R Usage Statistics,55715,Steven McKinney
+055719.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55719,Steven McKinney
+055722.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55722,Steven McKinney
+055667.html,[Rd] (PR#14066) model.frame error with formula=~1 and	na.action=na.fail,55667,Sebastian Meyer
+055807.html,[Rd] group generics,55807,Martin Morgan
+055383.html,[Rd] parse_Rd and/or lazyload problem,55383,Duncan Murdoch
+055385.html,[Rd] parse_Rd and/or lazyload problem,55385,Duncan Murdoch
+055387.html,[Rd] Request: bring back windows chm help support (PR#14034),55387,Duncan Murdoch
+055389.html,[Rd] Request: bring back windows chm help support (PR#14034),55389,Duncan Murdoch
+055394.html,[Rd] recover and &quot;called from&quot; information,55394,Duncan Murdoch
+055409.html,[Rd] likely bug in 'serialize' or please explain the memory	usage,55409,Duncan Murdoch
+055412.html,[Rd] likely bug in 'serialize' or please explain the	memory	usage,55412,Duncan Murdoch
+055417.html,[Rd] Request: bring back windows chm help support  (PR#14034),55417,Duncan Murdoch
+055443.html,[Rd] error in install.packages() (PR#14042),55443,Duncan Murdoch
+055444.html,[Rd] error in install.packages() (PR#14042),55444,Duncan Murdoch
+055447.html,[Rd] error in install.packages() (PR#14042),55447,Duncan Murdoch
+055452.html,[Rd] sapply improvements,55452,Duncan Murdoch
+055468.html,[Rd] sapply improvements,55468,Duncan Murdoch
+055472.html,[Rd] sapply improvements,55472,Duncan Murdoch
+055500.html,[Rd] Small patch to packages.R,55500,Duncan Murdoch
+055505.html,[Rd] RSiteSearch and my R site,55505,Duncan Murdoch
+055510.html,[Rd] Bug in all.equal() or in the plm package,55510,Duncan Murdoch
+055513.html,[Rd] \\signature macro generated by promptMethods,55513,Duncan Murdoch
+055514.html,[Rd] \\signature macro generated by promptMethods,55514,Duncan Murdoch
+055520.html,[Rd] Negative integer subscripts in [[?,55520,Duncan Murdoch
+055543.html,[Rd] typo in docs for unlink(),55543,Duncan Murdoch
+055546.html,[Rd] typo in docs for unlink(),55546,Duncan Murdoch
+055558.html,[Rd] Help in 2.10 lost its &quot;Find&quot; feature,55558,Duncan Murdoch
+055567.html,[Rd] Building package under windows which links against a cygwin library,55567,Duncan Murdoch
+055568.html,[Rd] Building package under windows which links against a cygwin library,55568,Duncan Murdoch
+055575.html,[Rd] Building package under windows which links against a cygwin library,55575,Duncan Murdoch
+055577.html,[Rd] typo in docs for unlink(),55577,Duncan Murdoch
+055584.html,[Rd] typo in docs for unlink(),55584,Duncan Murdoch
+055586.html,[Rd] sapply improvements,55586,Duncan Murdoch
+055609.html,[Rd] The default behaviour of a missing entry in an environment,55609,Duncan Murdoch
+055611.html,[Rd] The default behaviour of a missing entry in an environment,55611,Duncan Murdoch
+055618.html,[Rd] plot arguments (PR#14063),55618,Duncan Murdoch
+055619.html,[Rd] The default behaviour of a missing entry in an environment,55619,Duncan Murdoch
+055622.html,[Rd] The default behaviour of a missing entry in an environment,55622,Duncan Murdoch
+055624.html,[Rd] The default behaviour of a missing entry in an environment,55624,Duncan Murdoch
+055632.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start() page,55632,Duncan Murdoch
+055643.html,[Rd] Segmentation faults on SEXP conversion,55643,Duncan Murdoch
+055653.html,[Rd] Suggestion: Add links to NEWS and CHANGES on help.start() page,55653,Duncan Murdoch
+055659.html,[Rd] n=1 default for random number generators,55659,Duncan Murdoch
+055664.html,[Rd] The default behaviour of a missing entry in an environment,55664,Duncan Murdoch
+055668.html,[Rd] R crash with intToUtf8 on huge vectors (PR#14068),55668,Duncan Murdoch
+055672.html,[Rd] make.packages.html,55672,Duncan Murdoch
+055673.html,[Rd] make.packages.html,55673,Duncan Murdoch
+055677.html,[Rd] R crash with intToUtf8 on huge vectors (PR#14068),55677,Duncan Murdoch
+055684.html,[Rd] R_NilValue and segfault.,55684,Duncan Murdoch
+055688.html,[Rd] Link to pdf documentation from other package ?,55688,Duncan Murdoch
+055691.html,[Rd] Link to pdf documentation from other package ?,55691,Duncan Murdoch
+055695.html,[Rd] Link to pdf documentation from other package ?,55695,Duncan Murdoch
+055696.html,[Rd] Link to pdf documentation from other package ?,55696,Duncan Murdoch
+055708.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55708,Duncan Murdoch
+055709.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55709,Duncan Murdoch
+055748.html,"[Rd] R strings, null-terminated or size delimited?",55748,Duncan Murdoch
+055749.html,"[Rd] R strings, null-terminated or size delimited?",55749,Duncan Murdoch
+055751.html,[Rd] error message when running news(),55751,Duncan Murdoch
+055790.html,[Rd] Link to pdf documentation from other package ?,55790,Duncan Murdoch
+055791.html,[Rd] Link to pdf documentation from other package ?,55791,Duncan Murdoch
+055806.html,[Rd] Error in parse(outFile),55806,Duncan Murdoch
+055812.html,[Rd] Question about image() behavior,55812,Duncan Murdoch
+055816.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55816,Duncan Murdoch
+055818.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55818,Duncan Murdoch
+055834.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55834,Duncan Murdoch
+055843.html,[Rd] Tabs in R source code,55843,Duncan Murdoch
+055845.html,[Rd] Tabs in R source code,55845,Duncan Murdoch
+055850.html,[Rd] tiny typos in R-exts,55850,Duncan Murdoch
+055872.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55872,Duncan Murdoch
+055555.html,[Rd] Help in 2.10 lost its &quot;Find&quot; feature,55555,Daniel Murphy
+055559.html,[Rd] Help in 2.10 lost its &quot;Find&quot; feature,55559,Daniel Murphy
+055440.html,[Rd] cascade option for dev.new?,55440,John Nolan
+055400.html,[Rd] two small wishes (with code sugegstions) for R-core,55400,Jens Oehlschl&#228;gel
+055645.html,[Rd] file.rename overwrites existing target (PR#14065),55645,Jens Oehlschl&#228;gel
+055634.html,[Rd] file.rename overwrites existing target (PR#14065),55634,Jari Oksanen
+055547.html,[Rd] polygon kills X-server (PR#14055),55547,Ludo Pagie
+055578.html,[Rd] unname() returns a named vector when the input vector has length 0,55578,Herv&#233; Pag&#232;s
+055453.html,[Rd] inconsistent behavior for logical vectors when using apply (&quot;	TRUE&quot;),55453,Tony Plate
+055488.html,[Rd] Active bindings in attached environments,55488,Tony Plate
+055539.html,[Rd] typo in docs for unlink(),55539,Tony Plate
+055540.html,[Rd] typo in docs for unlink(),55540,Tony Plate
+055605.html,[Rd] error checks,55605,Tony Plate
+055754.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55754,Tony Plate
+055550.html,[Rd] R 2.10.0 Mac OS X 10.6 (PR#14058),55550,Stephen at Prollenium.com
+055703.html,[Rd] bug in '...' of constrOptim (PR#14071),55703,Elizabeth Purdom
+055407.html,[Rd] Request: bring back windows chm help support (PR#14034),55407,Prof Brian Ripley
+055430.html,[Rd] Help with testing (was Re: Request: bring back windows chm help support),55430,Prof Brian Ripley
+055450.html,[Rd] error in install.packages() (PR#14042),55450,Prof Brian Ripley
+055469.html,[Rd] MailingList: in DESCRIPTION,55469,Prof Brian Ripley
+055490.html,[Rd] Typo in R Help INSTALL {utils} (PR#14045),55490,Prof Brian Ripley
+055493.html,[Rd] cascade option for dev.new?,55493,Prof Brian Ripley
+055528.html,[Rd] Makevars or Makevars.in,55528,Prof Brian Ripley
+055530.html,[Rd] Installing and compiling C code for R-windows,55530,Prof Brian Ripley
+055583.html,[Rd] S4 objects in the data directory,55583,Prof Brian Ripley
+055637.html,[Rd] Fwd: AR(2) modelling,55637,Prof Brian Ripley
+055642.html,[Rd] (PR#13999) Extreme values of non-central chisq (was Accuracy),55642,Prof Brian Ripley
+055644.html,[Rd] Problem building package for R 2.10.0 on Mac OS X,55644,Prof Brian Ripley
+055656.html,[Rd] (PR#14066) model.frame error with formula=~1 and na.action=na.fail,55656,Prof Brian Ripley
+055662.html,[Rd] n=1 default for random number generators,55662,Prof Brian Ripley
+055678.html,[Rd] R crash with intToUtf8 on huge vectors (PR#14068),55678,Prof Brian Ripley
+055686.html,[Rd] two small wishes (with code sugegstions) for R-core,55686,Prof Brian Ripley
+055702.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55702,Prof Brian Ripley
+055706.html,[Rd] Issue when calling deparse(substitute(x)) from C with &quot;anonymous&quot; R vectors ?,55706,Prof Brian Ripley
+055735.html,[Rd] make fails on R r50499 ( openSuSE 11.0 x86-64),55735,Prof Brian Ripley
+055828.html,[Rd] Long execution time for quantile() and difftime objects (PR#14091),55828,Prof Brian Ripley
+055848.html,[Rd] Display list redraw incomplete,55848,Prof Brian Ripley
+055760.html,[Rd] OOP with Encapsulated Class Definitions,55760,Barry Rowlingson
+055815.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55815,Barry Rowlingson
+055819.html,[Rd] &quot;bug report&quot; field in DESCRIPTION file?,55819,Barry Rowlingson
+055766.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55766,Jeff Ryan
+055477.html,[Rd] Problem with pdf graphics device,55477,Dominick Samperi
+055511.html,[Rd] RcppTemplate,55511,Dominick Samperi
+055508.html,[Rd] RcppTemplate,55508,Dominick Samperi
+055589.html,[Rd] Problems building package at CRAN,55589,Dominick Samperi
+055588.html,[Rd] Problems building package at CRAN,55588,Dominick Samperi
+055591.html,[Rd] Problems building package at CRAN,55591,Dominick Samperi
+055524.html,"[Rd] Windows installer, HTML help, R 2.10.0",55524,Deepayan Sarkar
+055549.html,"[Rd] Unexpected behaviour of seq(from,to,by) (PR#14057)",55549,Petr Savicky
+055855.html,"[Rd] cor.test(method = spearman,	exact = TRUE)  not exact (PR#14095)",55855,Petr Savicky
+055478.html,[Rd] Problem with pdf graphics device,55478,Marc Schwartz
+055573.html,[Rd] html help in Windows,55573,Marc Schwartz
+055590.html,[Rd] Problems building package at CRAN,55590,Marc Schwartz
+055716.html,[Rd] R Usage Statistics,55716,Marc Schwartz
+055570.html,[Rd] html help in Windows,55570,Fraser Sim
+055426.html,[Rd] Standard non-standard evaluation problem with 2.10-0,55426,Gavin Simpson
+055427.html,[Rd] SOLVED: Re: Standard non-standard evaluation problem with 2.10-0,55427,Gavin Simpson
+055408.html,[Rd] likely bug in 'serialize' or please explain the memory usage,55408,"Sklyar, Oleg (London)"
+055410.html,[Rd] likely bug in 'serialize' or please explain the memory	usage,55410,"Sklyar, Oleg (London)"
+055449.html,[Rd] inconsistent behavior for logical vectors when using apply (&quot;	TRUE&quot;),55449,Greg Snow
+055523.html,"[Rd] Windows installer, HTML help, R 2.10.0",55523,Oliver Soong
+055758.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55758,Detlef Steuer
+055604.html,[Rd] error checks,55604,Terry Therneau
+055796.html,[Rd] The &quot;lib&quot; argument in install.packages().,55796,Rolf Turner
+055657.html,[Rd] Problem building package for R 2.10.0 on Mac OS X,55657,Simon Urbanek
+055742.html,[Rd] Including local dynamic libraries,55742,Simon Urbanek
+055745.html,"[Rd] R strings, null-terminated or size delimited?",55745,Simon Urbanek
+055776.html,[Rd] Calling default method for primitive functions,55776,Simon Urbanek
+055797.html,[Rd] Link to pdf documentation from other package ?,55797,Simon Urbanek
+055800.html,[Rd] Broken installer (PR#14083),55800,Simon Urbanek
+055802.html,[Rd] Question R's parser : - parsing &quot;x=\n 1&quot;,55802,Simon Urbanek
+055823.html,[Rd] compiling on snow leopard: Cocoa errors?!?!?!,55823,Simon Urbanek
+055824.html,[Rd] compiling on snow leopard: Cocoa errors?!?!?!,55824,Simon Urbanek
+055846.html,[Rd] PROTECT and OCaml GC.,55846,Simon Urbanek
+055859.html,[Rd] PROTECT and OCaml GC.,55859,Simon Urbanek
+055865.html,[Rd] PROTECT and OCaml GC.,55865,Simon Urbanek
+055868.html,[Rd] PROTECT and OCaml GC.,55868,Simon Urbanek
+055870.html,[Rd] PROTECT and OCaml GC.,55870,Simon Urbanek
+055698.html,[Rd] bug in '...' of constrOptim (PR#14071),55698,Ravi Varadhan
+055699.html,[Rd] bug in '...' of constrOptim (PR#14071),55699,Ravi Varadhan
+055395.html,"[Rd] unable to compile RODBC (R 2.9.2, AIX)",55395,Chuck White
+055404.html,[Rd] R292 and tcl/tk,55404,Chuck White
+055731.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55731,Mark White
+055414.html,[Rd] Removing cran mirrors,55414,Hadley Wickham
+055415.html,[Rd] Removing cran mirrors,55415,Hadley Wickham
+055418.html,[Rd] Removing cran mirrors,55418,Hadley Wickham
+055421.html,[Rd] Removing cran mirrors,55421,Hadley Wickham
+055422.html,[Rd] Removing cran mirrors,55422,Hadley Wickham
+055424.html,[Rd] Removing cran mirrors,55424,Hadley Wickham
+055676.html,[Rd] Codoc mismatches,55676,Hadley Wickham
+055775.html,[Rd] Calling default method for primitive functions,55775,Hadley Wickham
+055777.html,[Rd] Calling default method for primitive functions,55777,Hadley Wickham
+055781.html,[Rd] Calling default method for primitive functions,55781,Hadley Wickham
+055832.html,[Rd] Sending signals to current R process from R running under MS	Windows (c.f. Esc),55832,Graham Williams
+055596.html,[Rd] About read.table function when using StatConn Problem,55596,Louis Wong
+055680.html,[Rd] Codoc mismatches,55680,Yihui Xie
+055534.html,[Rd] compiling R-2.10.0 on solaris - lib_I_dbg_gen.so.1: version	`DBG_GEN_5.1' not found,55534,Janet Young
+055594.html,[Rd] compiling R-2.10.0 on solaris - lib_I_dbg_gen.so.1:	version `DBG_GEN_5.1' not found,55594,Janet Young
+055670.html,[Rd] How to generate dependency file that can be used by gnu	make?,55670,Peng Yu
+055674.html,[Rd] How to generate dependency file that can be used by gnu	make?,55674,Peng Yu
+055841.html,[Rd] Tabs in R source code,55841,Peng Yu
+055844.html,[Rd] Tabs in R source code,55844,Peng Yu
+055626.html,[Rd] R_tryEval for OCaml-R.,55626,Guillaume Yziquel
+055629.html,[Rd] R_tryEval for OCaml-R.,55629,Guillaume Yziquel
+055630.html,[Rd] R_tryEval for OCaml-R.,55630,Guillaume Yziquel
+055646.html,[Rd] OCaml-R and xts works!,55646,Guillaume Yziquel
+055681.html,[Rd] R_NilValue and segfault.,55681,Guillaume Yziquel
+055682.html,[Rd] R_NilValue and segfault.,55682,Guillaume Yziquel
+055683.html,[Rd] R_NilValue and segfault.,55683,Guillaume Yziquel
+055685.html,[Rd] R_NilValue and segfault.,55685,Guillaume Yziquel
+055726.html,[Rd] structure of SYMSXP values.,55726,Guillaume Yziquel
+055744.html,"[Rd] R strings, null-terminated or size delimited?",55744,Guillaume Yziquel
+055746.html,"[Rd] R strings, null-terminated or size delimited?",55746,Guillaume Yziquel
+055747.html,"[Rd] R strings, null-terminated or size delimited?",55747,Guillaume Yziquel
+055784.html,"[Rd] R strings, null-terminated or size delimited?",55784,Guillaume Yziquel
+055785.html,"[Rd] R strings, null-terminated or size delimited?",55785,Guillaume Yziquel
+055787.html,[Rd] GC control and GET_NEW_NODE.,55787,Guillaume Yziquel
+055813.html,"[Rd] Symbols, install, and eval.",55813,Guillaume Yziquel
+055831.html,[Rd] [Fwd: opened symbols in libR.so available.],55831,Guillaume Yziquel
+055836.html,[Rd] PROTECT and OCaml GC.,55836,Guillaume Yziquel
+055838.html,[Rd] PROTECT and OCaml GC.,55838,Guillaume Yziquel
+055840.html,[Rd] [Fwd: opened symbols in libR.so available.],55840,Guillaume Yziquel
+055849.html,[Rd] PROTECT and OCaml GC.,55849,Guillaume Yziquel
+055861.html,[Rd] :Re:  PROTECT and OCaml GC.,55861,Guillaume Yziquel
+055863.html,[Rd] PROTECT and OCaml GC.,55863,Guillaume Yziquel
+055864.html,[Rd] :Re:  PROTECT and OCaml GC.,55864,Guillaume Yziquel
+055866.html,[Rd] PROTECT and OCaml GC.,55866,Guillaume Yziquel
+055869.html,[Rd] PROTECT and OCaml GC.,55869,Guillaume Yziquel
+055808.html,[Rd] Bug in all.equal() or in the plm package,55808,Achim Zeileis
+055398.html,[Rd] Request: bring back windows chm help support (PR#14034),55398,alexios
+055399.html,[Rd] Request: bring back windows chm help support (PR#14034),55399,alexios
+055378.html,[Rd] Internal error in 'ls' for pathological environments (PR#14035),55378,macrakis at alum.mit.edu
+055827.html,[Rd] Long execution time for quantile() and difftime objects	(PR#14091),55827,hong.ooi at anz.com
+055459.html,[Rd] Cannot Change Function (PR#14041),55459,smckinney at bccrc.ca
+055438.html,[Rd] Registered S3 methods not found: Documentation bug or	anomaly in function update or ... ?,55438,groemping at bht-berlin.de
+055793.html,[Rd] Link to pdf documentation from other package ?,55793,groemping at bht-berlin.de
+055809.html,[Rd] Possible bug in &quot;unsplit&quot; (PR#14084),55809,ivar.herfindal at bio.ntnu.no
+055690.html,[Rd] pt not monotonic with large noncentrality (PR#14069),55690,Jerry.Lewis at biogenidec.com
+055380.html,[Rd] Internal error in 'ls' for pathological environments	(PR#14035),55380,p.dalgaard at biostat.ku.dk
+055654.html,[Rd] model.frame error with formula=~1 and na.action=na.fail	(PR#14066),55654,Sebastian.Wastl.Meyer at campus.lmu.de
+055717.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55717,mark at celos.net
+055733.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55733,mark at celos.net
+055871.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55871,couteau at codelutin.com
+055377.html,[Rd] parse_Rd and/or lazyload problem,55377,Mark.Bravington at csiro.au
+055384.html,[Rd] parse_Rd and/or lazyload problem,55384,Mark.Bravington at csiro.au
+055432.html,[Rd] parse_Rd and/or lazyload problem,55432,Mark.Bravington at csiro.au
+055465.html,[Rd] parse_Rd and/or lazyload problem,55465,Mark.Bravington at csiro.au
+055562.html,[Rd] Bug in the stats package (PR#14059),55562,j.zhang at dkfz-heidelberg.de
+055595.html,[Rd]  Problem building R 2.10 release,55595,dshih
+055435.html,[Rd] Cannot Change Function (PR#14041),55435,michael_karsh at earthlink.net
+055666.html,[Rd] R crash with intToUtf8 on huge vectors (PR#14068),55666,g.russell at eos-solutions.com
+055694.html,[Rd] Link to pdf documentation from other package ?,55694,ml-it-r-devel at epigenomics.com
+055496.html,[Rd] Binning of integers with hist() function odd results (PR#14046),55496,gug at fnal.gov
+055502.html,[Rd] Binning of integers with hist() function odd results (P	(PR#14048),55502,gug at fnal.gov
+055522.html,"[Rd] Regression: PR#9602 - bquote(function(x,y) T)",55522,ph.ebay at genion.de
+055854.html,"[Rd] cor.test(method = spearman, exact = TRUE)  not exact (PR#14095)",55854,dsimcha at gmail.com
+055382.html,[Rd] Internal error in 'ls' for pathological environments	(PR#14036),55382,ggrothendieck at gmail.com
+055810.html,[Rd] heatmap.2 gives wrong colorkey with unequally spaced breaks	(PR#14085),55810,jorismeys at gmail.com
+055732.html,[Rd] ISOdate and strptime results are not interoperable (PR#14076),55732,mariotomo at gmail.com
+055441.html,[Rd] error in install.packages() (PR#14042),55441,michael.m.spiegel at gmail.com
+055461.html,[Rd] Possible bug in RTERM (PR#14043),55461,andy at h-ashley.freeserve.co.uk
+055515.html,[Rd] Alphanumeric tools::file_path_sans_ext() (PR#14050),55515,arnima at hafro.is
+055436.html,[Rd] library gplots : heatmap.2 reordering broken (PR#14037),55436,niels_h_jensen at hotmail.com
+055617.html,[Rd] Bug in R (PR#14064),55617,Losangelessoul at hotmail.it
+055597.html,[Rd] format (PR#14062),55597,dirk.jacob at ise.fraunhofer.de
+055518.html,[Rd] textConnection performance quadratic (PR#14053),55518,bill.hopkins at level3.com
+055724.html,[Rd] rounding the time: significant 0 does not appear (PR#14075),55724,macq at llnl.gov
+055739.html,[Rd] Suggestion for the reproducibility of R home page figure,55739,Jean lobry
+055499.html,[Rd] Binning of integers with hist() function odd results (P	(PR#14047),55499,ted.harding at manchester.ac.uk
+055485.html,[Rd] Error when adding package RMySQL (PR#14044),55485,kare at modlab.se
+055532.html,[Rd] NetCDF output in R,55532,nana
+055487.html,[Rd] Typo in R Help INSTALL {utils} (PR#14045),55487,neilt at neiltiffin.com
+055720.html,[Rd] rounding the time: significant 0 does not appear (PR#14074),55720,gus1201 at optimizelife.com
+055533.html,[Rd] Typo in 2.10.0 NEWS file (PR#14054),55533,whorfin at pixar.com
+055756.html,[Rd] Dead link in Nile help documentation (PR#14079),55756,maarten.blaauw at qub.ac.uk
+055553.html,[Rd] R 2.10.0 Mac OS X 10.6 (PR#14058),55553,simon.urbanek at r-project.org
+055641.html,[Rd] Segmentation faults on SEXP conversion,55641,nabble.30.miller_2555 at spamgourmet.com
+055647.html,[Rd] Segmentation faults on SEXP conversion,55647,nabble.30.miller_2555 at spamgourmet.com
+055649.html,[Rd] Segmentation faults on SEXP conversion,55649,nabble.30.miller_2555 at spamgourmet.com
+055650.html,[Rd] Segmentation faults on SEXP conversion	20),55650,nabble.30.miller_2555 at spamgourmet.com
+055651.html,[Rd] Segmentation faults on SEXP conversion,55651,nabble.30.miller_2555 at spamgourmet.com
+055652.html,[Rd] Segmentation faults on SEXP conversion	20),55652,nabble.30.miller_2555 at spamgourmet.com
+055782.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55782,spencerg
+055697.html,[Rd] bug in '...' of constrOptim (PR#14071),55697,epurdom at stat.berkeley.edu
+055738.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55738,maechler at stat.math.ethz.ch
+055769.html,[Rd] Dead link in Nile help documentation (PR#14079),55769,maechler at stat.math.ethz.ch
+055856.html,[Rd] Surprising length() of POSIXlt vector (PR#14073),55856,maechler at stat.math.ethz.ch
+055462.html,[Rd] parse_Rd and/or lazyload problem,55462,luke at stat.uiowa.edu
+055491.html,[Rd] parse_Rd and/or lazyload problem,55491,luke at stat.uiowa.edu
+055489.html,[Rd] Error when adding package RMySQL (PR#14044),55489,ligges at statistik.tu-dortmund.de
+055814.html,[Rd] Detaching one package can remove the S4 methods of another	(PR#14087),55814,ripley at stats.ox.ac.uk
+055829.html,[Rd] Long execution time for quantile() and difftime objects	(PR#14092),55829,ripley at stats.ox.ac.uk
+055494.html,[Rd] A fix that for 'bquote' that may work  (PR#14031),55494,tlumley at u.washington.edu
+055615.html,[Rd] plot arguments (PR#14063),55615,c.harpham at uea.ac.uk
+055548.html,"[Rd] Unexpected behaviour of seq(from,to,by) (PR#14057)",55548,raimon.massanet at upc.edu
+055798.html,[Rd] Broken installer (PR#14083),55798,robert.a.weller at vanderbilt.edu
+055633.html,[Rd] file.rename overwrites existing target (PR#14065),55633,joehl at web.de
+055755.html,[Rd] file_path_as_absolute duplicates &quot;/&quot; (PR#14078),55755,joehl at web.de
+055556.html,[Rd] Help in 2.10 lost its &quot;Find&quot; feature,55556,hadley wickham
+055561.html,[Rd] Help in 2.10 lost its &quot;Find&quot; feature,55561,hadley wickham
+055761.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55761,hadley wickham
+055764.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55764,hadley wickham
+055765.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55765,hadley wickham
+055771.html,[Rd] CRAN Server download statistics (Was: R Usage Statistics),55771,hadley wickham
+055794.html,[Rd] Link to pdf documentation from other package ?,55794,hadley wickham
+055536.html,[Rd] polygon kills X-server (PR#14055),55536,lpagie at xs4all.nl
+055484.html,[Rd] A fix that for 'bquote' that may work  (PR#14031),55484,suharto_anggono at yahoo.com
+055655.html,[Rd] (Date + difftime) and (POSIXt + difftime) does not use	date/time arithmetics (PR#14067),55655,suharto_anggono at yahoo.com
+055704.html,"[Rd] Wishlist: In documentation, say that `+.Date`(Date,	difftime) should be called directly or remove 'or an object of	class &quot;difftime&quot;' (PR#14072)",55704,suharto_anggono at yahoo.com
+055707.html,"[Rd] In the documentation of 'Ops.Date',	please remove mention about &quot;difftime&quot;,	like in the documentation of 'DateTimeClasses' (PR#14072)",55707,suharto_anggono at yahoo.com

@@ -1,0 +1,199 @@
+link,Subject,id,author
+069150.html,[Rd] R CMD check for the R code from vignettes -- thread	fraying?,69150,Prof J C Nash (U30A)
+069138.html,[Rd] R CMD check for the R code from vignettes,69138,Gabriel Becker
+069142.html,[Rd] R CMD check for the R code from vignettes,69142,Gabriel Becker
+069146.html,[Rd] R CMD check for the R code from vignettes,69146,Gabriel Becker
+069158.html,[Rd] R CMD check for the R code from vignettes,69158,Gabriel Becker
+069214.html,[Rd] index.search,69214,Gabriel Becker
+069217.html,[Rd] index.search,69217,Gabriel Becker
+069207.html,[Rd] what is the current correct repos structure for mac osx	binaries?,69207,Skye Bender-deMoll
+069225.html,[Rd] what is the current correct repos structure for mac osx binaries?,69225,Skye Bender-deMoll
+069236.html,[Rd] what is the current correct repos structure for mac osx binaries?,69236,Skye Bender-deMoll
+069237.html,"[Rd] PATCH: Avoiding extra copies (NAMED bumped) with source(..., print.eval=FALSE) ...and with print.eval=TRUE?",69237,Henrik Bengtsson
+069292.html,[Rd] debug()/trace() to standard error?,69292,Henrik Bengtsson
+069145.html,[Rd] R CMD check for the R code from vignettes,69145,Carl Boettiger
+069147.html,[Rd] R CMD check for the R code from vignettes,69147,Carl Boettiger
+069162.html,"[Rd] A bug in princomp(), perhaps?",69162,Ben Bolker
+069329.html,[Rd] Building R on Windows: mkdir of Rtools creates directories with read-only permissions [WEIRD],69329,Milan Bouchet-Valat
+069334.html,[Rd] Building R on Windows: mkdir of Rtools creates directories with read-only permissions [WEIRD],69334,Milan Bouchet-Valat
+069174.html,[Rd] Lapack / dgesvx function declaration,69174,Kristian Buchardt
+069234.html,[Rd] R CMD check warning with S3 method,69234,Winston Chang
+069235.html,[Rd] R CMD check warning with S3 method,69235,Winston Chang
+069248.html,[Rd] R CMD check warning with S3 method,69248,Winston Chang
+069251.html,[Rd] R CMD check warning with S3 method,69251,Winston Chang
+069163.html,[Rd] R CMD check for the R code from vignettes,69163,Kevin Coombes
+069149.html,[Rd] Contact email on CRAN website,69149,G&#225;bor Cs&#225;rdi
+069213.html,[Rd] index.search,69213,Adrian Du&#537;a
+069215.html,[Rd] index.search,69215,Adrian Du&#537;a
+069218.html,[Rd] index.search,69218,Adrian Du&#537;a
+069219.html,[Rd] index.search,69219,Adrian Du&#537;a
+069221.html,[Rd] index.search,69221,Adrian Du&#537;a
+069224.html,[Rd] index.search,69224,Adrian Du&#537;a
+069169.html,[Rd] setting environmental variable inside R function to call	C	function,69169,Dirk Eddelbuettel
+069307.html,[Rd] Compiling R-3.1.0 on debian with libpng/libjpeg,69307,Dirk Eddelbuettel
+069196.html,[Rd] Should documentation for box() be more clear about bty?,69196,Joran Elias
+069186.html,[Rd] Rjulia: a package for R call Julia through Julia C API,69186,Karl Forner
+069199.html,[Rd] regression bug with getParseData and/or parse in R-3.1.0,69199,Karl Forner
+069201.html,[Rd] regression bug with getParseData and/or parse in R-3.1.0,69201,Karl Forner
+069244.html,[Rd] isOpen() misbehaviour,69244,Karl Forner
+069246.html,[Rd] isOpen() misbehaviour,69246,Karl Forner
+069280.html,[Rd] using C code to create data frame but always return as list,69280,Romain Francois
+069264.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69264,Romain Fran&#231;ois
+069267.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69267,Romain Fran&#231;ois
+069285.html,[Rd] using C code to create data frame but always return as list,69285,Romain Fran&#231;ois
+069286.html,[Rd] mismatch warning in documentation,69286,Antonio Gasparrini
+069205.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69205,Renaud Gaujoux
+069239.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69239,Renaud Gaujoux
+069241.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69241,Renaud Gaujoux
+069243.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69243,Renaud Gaujoux
+069151.html,[Rd] R CMD check for the R code from vignettes,69151,Paul Gilbert
+069185.html,[Rd] Rjulia: a package for R call Julia through Julia C API,69185,Yu Gong
+069187.html,[Rd] Rjulia: a package for R call Julia through Julia C API,69187,Yu Gong
+069277.html,[Rd] using C code to create data frame but always return as list,69277,Yu Gong
+069278.html,[Rd] using C code to create data frame but always return as list,69278,Yu Gong
+069193.html,"[Rd] infelicity in dlnorm, plnorm",69193,Spencer Graves
+069141.html,[Rd] R CMD check for the R code from vignettes,69141,Kasper Daniel Hansen
+069188.html,[Rd] feature request: print.bibentry,69188,Kasper Daniel Hansen
+069269.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69269,Kasper Daniel Hansen
+069274.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69274,Kasper Daniel Hansen
+069319.html,[Rd] R CMD SHLIB failure (Win7 64-bit OS),69319,Luke Hartigan
+069203.html,[Rd] Encourage exit with nonzero error status in ?last.dump,69203,Scott Kostyshak
+069209.html,[Rd] Encourage exit with nonzero error status in ?last.dump,69209,Scott Kostyshak
+069260.html,[Rd] r65998 build error. share/Rd/macros/*: No such file or	directory,69260,Scott Kostyshak
+069262.html,[Rd] r65998 build error. share/Rd/macros/*: No such file or	directory,69262,Scott Kostyshak
+069327.html,[Rd] [patch] Fix n arg in mclapply call to ngettext,69327,Scott Kostyshak
+069191.html,[Rd] Package impute on CRAN OSX Mavericks check machine,69191,Peter Langfelder
+069166.html,[Rd] memory allocation if multiple names point to the same	object,69166,Michael Lawrence
+069326.html,[Rd] R CMD check warning with S3 method,69326,Michael Lawrence
+069332.html,[Rd] R CMD check warning with S3 method,69332,Michael Lawrence
+069183.html,"[Rd] Building source package in Windows,	error in .doLoadActions()",69183,Uwe Ligges
+069317.html,[Rd] Listing Packages in Depends or Imports,69317,Uwe Ligges
+069204.html,[Rd] Encourage exit with nonzero error status in ?last.dump,69204,Martin Maechler
+069220.html,[Rd] index.search,69220,Martin Maechler
+069284.html,[Rd] Unfixed bugs in latest R-patched,69284,Martin Maechler
+069194.html,[Rd] R CMD check and DESCRIPTION file with Authors at R only,69194,Mathew McLean
+069167.html,[Rd] setting environmental variable inside R function to call C	function,69167,Bowen Meng
+069245.html,[Rd] isOpen() misbehaviour,69245,Joris Meys
+069139.html,[Rd] R CMD check for the R code from vignettes,69139,Martin Morgan
+069210.html,[Rd] Should a package that indirectly Suggests: a vignette engine pass R CMD check?,69210,Martin Morgan
+069148.html,[Rd] R CMD check for the R code from vignettes,69148,Duncan Murdoch
+069155.html,[Rd] R CMD check for the R code from vignettes,69155,Duncan Murdoch
+069159.html,[Rd] R CMD check for the R code from vignettes,69159,Duncan Murdoch
+069160.html,[Rd] R CMD check for the R code from vignettes,69160,Duncan Murdoch
+069176.html,[Rd] rgl pinch and zoom under Windows 8.1,69176,Duncan Murdoch
+069177.html,[Rd] R CMD check for the R code from vignettes,69177,Duncan Murdoch
+069200.html,[Rd] regression bug with getParseData and/or parse in R-3.1.0,69200,Duncan Murdoch
+069211.html,[Rd] Should a package that indirectly Suggests: a vignette engine pass R CMD check?,69211,Duncan Murdoch
+069223.html,[Rd] index.search,69223,Duncan Murdoch
+069253.html,[Rd] R CMD check warning with S3 method,69253,Duncan Murdoch
+069261.html,[Rd] r65998 build error. share/Rd/macros/*: No such file or	directory,69261,Duncan Murdoch
+069279.html,[Rd] Unfixed bugs in latest R-patched,69279,Duncan Murdoch
+069287.html,[Rd] Unfixed bugs in latest R-patched,69287,Duncan Murdoch
+069293.html,[Rd] Unfixed bugs in latest R-patched,69293,Duncan Murdoch
+069328.html,[Rd] R CMD check warning with S3 method,69328,Duncan Murdoch
+069330.html,[Rd] Building R on Windows: mkdir of Rtools creates directories with read-only permissions [WEIRD],69330,Duncan Murdoch
+069333.html,[Rd] R CMD check warning with S3 method,69333,Duncan Murdoch
+069190.html,[Rd] Package keyval Error: noupquote undefined,69190,Paul Murrell
+069295.html,[Rd] Need help on calling Head from C,69295,Sandip Nandi
+069299.html,[Rd] Need help on calling Head from C,69299,Sandip Nandi
+069300.html,[Rd] Need help on calling Head from C,69300,Sandip Nandi
+069302.html,[Rd] Need help on calling Head from C,69302,Sandip Nandi
+069304.html,[Rd] Need help on calling Head from C,69304,Sandip Nandi
+069305.html,[Rd] using 2D array of SEXP for creating dataframe,69305,Sandip Nandi
+069309.html,[Rd] using 2D array of SEXP for creating dataframe,69309,Sandip Nandi
+069311.html,[Rd] using 2D array of SEXP for creating dataframe,69311,Sandip Nandi
+069321.html,[Rd] using 2D array of SEXP for creating dataframe,69321,Sandip Nandi
+069265.html,[Rd] Unfixed bugs in latest R-patched,69265,Radford Neal
+069281.html,[Rd] Unfixed bugs in latest R-patched,69281,Radford Neal
+069289.html,[Rd] Unfixed bugs in latest R-patched,69289,Radford Neal
+069290.html,[Rd] Unfixed bugs in latest R-patched,69290,Radford Neal
+069301.html,[Rd]  Need help on calling Head from C,69301,Radford Neal
+069303.html,[Rd] Need help on calling Head from C,69303,Radford Neal
+069316.html,[Rd] Need help on calling Head from C,69316,Radford Neal
+069322.html,[Rd] Need help on calling Head from C,69322,Radford Neal
+069250.html,[Rd] problem using rJava with parallel::mclapply,69250,Jeroen Ooms
+069272.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69272,Herv&#233; Pag&#232;s
+069273.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69273,Herv&#233; Pag&#232;s
+069291.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69291,Herv&#233; Pag&#232;s
+069306.html,[Rd] Need help on calling Head from C,69306,Herv&#233; Pag&#232;s
+069308.html,[Rd] using 2D array of SEXP for creating dataframe,69308,Herv&#233; Pag&#232;s
+069310.html,[Rd] using 2D array of SEXP for creating dataframe,69310,Herv&#233; Pag&#232;s
+069312.html,[Rd] dget() much slower in recent R versions,69312,Herv&#233; Pag&#232;s
+069313.html,[Rd] using 2D array of SEXP for creating dataframe,69313,Herv&#233; Pag&#232;s
+069320.html,[Rd] Need help on calling Head from C,69320,Herv&#233; Pag&#232;s
+069195.html,[Rd] R CMD check and DESCRIPTION file with Authors at R only,69195,Martyn Plummer
+069242.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69242,Martyn Plummer
+069247.html,[Rd] R CMD check warning with S3 method,69247,Martyn Plummer
+069249.html,[Rd] R CMD check warning with S3 method,69249,Martyn Plummer
+069254.html,[Rd] R CMD check warning with S3 method,69254,Martyn Plummer
+069257.html,[Rd] R CMD check warning with S3 method,69257,Martyn Plummer
+069297.html,[Rd] Compiling R-3.1.0 on debian with libpng/libjpeg,69297,"Preussner, Jens"
+069184.html,[Rd] Lapack / dgesvx function declaration,69184,Prof Brian Ripley
+069206.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69206,Prof Brian Ripley
+069212.html,[Rd] Should a package that indirectly Suggests: a vignette engine pass R CMD check?,69212,Prof Brian Ripley
+069228.html,[Rd] model.frame and parent environment,69228,Prof Brian Ripley
+069233.html,[Rd] rJava Java debugger API,69233,Prof Brian Ripley
+069238.html,[Rd] what is the current correct repos structure for mac osx binaries?,69238,Prof Brian Ripley
+069240.html,[Rd] Is it possible to make install.packages compile source code on Unix but use shipped binary on Windows?,69240,Prof Brian Ripley
+069258.html,[Rd] dget() much slower in recent R versions,69258,Prof Brian Ripley
+069298.html,[Rd] Compiling R-3.1.0 on debian with libpng/libjpeg,69298,Prof Brian Ripley
+069216.html,[Rd] index.search,69216,Brian Lee Yung Rowe
+069222.html,[Rd] index.search,69222,Brian Lee Yung Rowe
+069168.html,[Rd] setting environmental variable inside R function to call C	function,69168,Barry Rowlingson
+069315.html,[Rd] Listing Packages in Depends or Imports,69315,Barry Rowlingson
+069164.html,[Rd] rgl pinch and zoom under Windows 8.1,69164,Dominick Samperi
+069156.html,[Rd] R CMD check for the R code from vignettes,69156,Gavin Simpson
+069161.html,[Rd] R CMD check for the R code from vignettes,69161,Gavin Simpson
+069197.html,[Rd] do.call Error for Function Not Present When Manually Called,69197,Dario Strbenac
+069202.html,[Rd] do.call Error for Function Not Present When Manually Called,69202,Dario Strbenac
+069314.html,[Rd] Listing Packages in Depends or Imports,69314,Dario Strbenac
+069323.html,[Rd] Listing Packages in Depends or Imports,69323,Dario Strbenac
+069226.html,[Rd] model.frame and parent environment,69226,"Therneau, Terry M., Ph.D."
+069229.html,[Rd] model.frame and parent environment,69229,"Therneau, Terry M., Ph.D."
+069231.html,[Rd] model.frame and parent environment,69231,"Therneau, Terry M., Ph.D."
+069232.html,[Rd] model.frame question,69232,"Therneau, Terry M., Ph.D."
+069178.html,"[Rd] Building source package in Windows, error in .doLoadActions()",69178,Luis de la Torre
+069179.html,"[Rd] Building source package in Windows, error in .doLoadActions()",69179,Luis de la Torre
+069154.html,[Rd] memory allocation if multiple names point to the same object,69154,D&#233;nes T&#243;th
+069173.html,[Rd] memory allocation if multiple names point to the same	object,69173,D&#233;nes T&#243;th
+069192.html,[Rd] Package impute on CRAN OSX Mavericks check machine,69192,Simon Urbanek
+069208.html,[Rd] what is the current correct repos structure for mac osx	binaries?,69208,Simon Urbanek
+069227.html,[Rd] what is the current correct repos structure for mac osx	binaries?,69227,Simon Urbanek
+069283.html,[Rd] using C code to create data frame but always return as list,69283,Simon Urbanek
+069296.html,[Rd] Need help on calling Head from C,69296,Simon Urbanek
+069275.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69275,Kevin Ushey
+069276.html,[Rd] Curious behavior of $ and lapply,69276,Kevin Ushey
+069294.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69294,Kevin Ushey
+069170.html,"[Rd] A bug in princomp(), perhaps?",69170,Ravi Varadhan
+069171.html,"[Rd] A bug in princomp(), perhaps?",69171,Ravi Varadhan
+069255.html,[Rd] R CMD check warning with S3 method,69255,Hadley Wickham
+069137.html,[Rd] R CMD check for the R code from vignettes,69137,Yihui Xie
+069140.html,[Rd] R CMD check for the R code from vignettes,69140,Yihui Xie
+069143.html,[Rd] R CMD check for the R code from vignettes,69143,Yihui Xie
+069144.html,[Rd] R CMD check for the R code from vignettes,69144,Yihui Xie
+069152.html,[Rd] R CMD check for the R code from vignettes,69152,Yihui Xie
+069153.html,[Rd] R CMD check for the R code from vignettes -- thread	fraying?,69153,Yihui Xie
+069157.html,[Rd] R CMD check for the R code from vignettes,69157,Yihui Xie
+069165.html,[Rd] R CMD check for the R code from vignettes,69165,Yihui Xie
+069175.html,[Rd] Package keyval Error: noupquote undefined,69175,Yihui Xie
+069189.html,[Rd] Package keyval Error: noupquote undefined,69189,Yihui Xie
+069252.html,[Rd] R CMD check warning with S3 method,69252,Yihui Xie
+069324.html,[Rd] user defined macros in Rd files,69324,Yihui Xie
+069325.html,[Rd] R CMD check warning with S3 method,69325,Yihui Xie
+069256.html,[Rd] dget() much slower in recent R versions,69256,Ista Zahn
+069259.html,[Rd] dget() much slower in recent R versions,69259,Ista Zahn
+069263.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69263,cstrato
+069266.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69266,cstrato
+069268.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69268,cstrato
+069270.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69270,cstrato
+069282.html,[Rd] operation on &#8216;numsels&#8217; may be undefined,69282,cstrato
+069198.html,[Rd] do.call Error for Function Not Present When Manually Called,69198,peter dalgaard
+069331.html,[Rd] blas test problem,69331,peter dalgaard
+069172.html,[Rd] cuda-memcheck to debug CUDA-enabled R packages,69172,landau
+069180.html,[Rd] debugging a CUDA-enabled R package with cuda-memcheck,69180,landau
+069181.html,[Rd] cuda-memcheck to debug CUDA-enabled R packages,69181,landau
+069182.html,[Rd] Note: information on .o files is not available,69182,landau
+069318.html,[Rd] blas test problem,69318,lejeczek
+069230.html,[Rd] rJava Java debugger API,69230,rmohan
+069271.html,[Rd] Curious behavior of $ and lapply,69271,Stavros Macrakis (&#931;&#964;&#945;&#8166;&#961;&#959;&#962; &#924;&#945;&#954;&#961;&#940;&#954;&#951;&#962;)
+069288.html,[Rd] Curious behavior of $ and lapply,69288,Stavros Macrakis (&#931;&#964;&#945;&#8166;&#961;&#959;&#962; &#924;&#945;&#954;&#961;&#940;&#954;&#951;&#962;)

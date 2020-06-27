@@ -1,0 +1,185 @@
+link,Subject,id,author
+025507.html,[Rd] Segmentation fault using &quot;survival&quot; package (PR#2320),25507,=?iso-8859-1?Q?G=F6ran_Brostr=F6m?=
+025354.html,seemingly random &quot;nesting of readline input&quot; warnings,25354,Peter Dalgaard BSA
+025356.html,seemingly random &quot;nesting of readline input&quot; warnings,25356,Peter Dalgaard BSA
+025362.html,[R] CTRL-C suspends echo of shell (R versions 1.6.0 and 1.6.1) (PR#2253),25362,Peter Dalgaard BSA
+025370.html,seemingly random &quot;nesting of readline input&quot; warnings,25370,Peter Dalgaard BSA
+025404.html,Calling function with proto in Rinternals.h,25404,Peter Dalgaard BSA
+025406.html,Calling function with proto in Rinternals.h,25406,Peter Dalgaard BSA
+025413.html,Calling function with proto in Rinternals.h,25413,Peter Dalgaard BSA
+025455.html,make check fails with -march=i686 on gcc 2.96 (PR#2296),25455,Peter Dalgaard BSA
+025467.html,[Rd] R-devel: now moved from majordomo to [procmail+mailman],25467,Peter Dalgaard BSA
+025486.html,[Rd] Platform() used in tkfilefind.X although now deprecated (PR#2316),25486,Peter Dalgaard BSA
+025487.html,[Rd] Bug list summary (automatic post),25487,Peter Dalgaard BSA
+025491.html,[Rd] Small change to plot.xy,25491,Peter Dalgaard BSA
+025530.html,[Rd] mgcv fails to compile in R-1.6.1 (PR#2334),25530,Peter Dalgaard BSA
+025532.html,[Rd] mgcv fails to compile in R-1.6.1 (PR#2334),25532,Peter Dalgaard BSA
+025452.html,bug in logLik.nls (PR#2295),25452,Douglas Bates
+025381.html,behavior of =,25381,Ben Bolker
+025400.html,strwidth(font=NULL),25400,David Brahm
+025460.html,Package tseries: crash for Windows version (PR#2302),25460,Kenneth Cabrera
+025382.html,behavior of =,25382,John Chambers
+025422.html,C macros NEW and MAKE_CLASS,25422,John Chambers
+025535.html,[Rd] RMySQL temporary table question,25535,James Chapman
+025388.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25388,Dirk Eddelbuettel
+025410.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25410,Dirk Eddelbuettel
+025414.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25414,Dirk Eddelbuettel
+025417.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25417,Dirk Eddelbuettel
+025419.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25419,Dirk Eddelbuettel
+025462.html,Package tseries: crash for Windows version (PR#2302),25462,Fan
+025465.html,Package tseries: crash for Windows version (PR#2302),25465,Fan
+025518.html,[Rd] Problems with dialog boxes etc. in XEmacs/ESS for Windows,25518,John Fox
+025520.html,[Rd] Re: [R] further on ESS/XEmacs for Windows,25520,John Fox
+025476.html,[Rd] Bioconductor 1.1 Released,25476,Jeff Gentry
+025379.html,checking package version,25379,Paul Gilbert
+025511.html,[Rd] Re: [R] R CMD build (moved from r-help),25511,Paul Gilbert
+025531.html,[Rd] BLAS/Lapack for OS X,25531,Paul Gilbert
+025385.html,behavior of =,25385,Philippe Grosjean
+025391.html,behavior of =,25391,Philippe Grosjean
+025377.html,Ansari-Bradley test (PR#2252),25377,Torsten Hothorn
+025403.html,Mac specific - quartz leads to crash (PR#2276),25403,Stefano Iacus
+025458.html,survreg (survival) reports erroneous results for left-censored data (PR#2287),25458,Stefano Iacus
+025517.html,[Rd] sprintf crash (PR#2327),25517,Stefano Iacus
+025380.html,checking package version,25380,David James
+025357.html,Urgent Assistance,25357,BUNDI KYARI
+025402.html,Calling function with proto in Rinternals.h,25402,Timothy H. Keitt
+025408.html,Calling function with proto in Rinternals.h,25408,Timothy H. Keitt
+025409.html,Calling function with proto in Rinternals.h,25409,Timothy H. Keitt
+025420.html,Calling function with proto in Rinternals.h,25420,Timothy H. Keitt
+025479.html,[Rd] Calling R from Java,25479,Mohamed A. Kerasha
+025481.html,[Rd] Running Parallel Jobs in R,25481,Mohamed A. Kerasha
+025368.html,R shell integration.,25368,Duncan Temple Lang
+025369.html,seemingly random &quot;nesting of readline input&quot; warnings,25369,Duncan Temple Lang
+025407.html,Calling function with proto in Rinternals.h,25407,Duncan Temple Lang
+025434.html,survreg (survival) reports erroneous results for left-censored data (PR#2287),25434,Jan de Leeuw
+025438.html,survreg (survival) reports erroneous results for left-censored data (PR#2287),25438,Jan de Leeuw
+025440.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25440,Jan de Leeuw
+025443.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25443,Jan de Leeuw
+025505.html,[Rd] gcc 3.2.1,25505,Jan de Leeuw
+025523.html,[Rd] BLAS/Lapack for OS X,25523,Jan de Leeuw
+025524.html,[Rd] more on vecLib,25524,Jan de Leeuw
+025534.html,[Rd] BLAS/Lapack for OS X,25534,Jan de Leeuw
+025538.html,[Rd] BLAS/Lapack for OS X,25538,Jan de Leeuw
+025510.html,[Rd] typo in USArrests.Rd,25510,"Liaw, Andy"
+025389.html,behavior of =,25389,Thomas Lumley
+025421.html,Calling function with proto in Rinternals.h,25421,Thomas Lumley
+025502.html,[Rd] Small change to plot.xy,25502,Thomas Lumley
+025367.html,R shell integration.,25367,Neil McKay MD
+025435.html,R mailing lists: move from majordomo to [procmail+mailman],25435,Martin Maechler
+025449.html,R mailing lists: move from majordomo to [procmail+mailman],25449,Martin Maechler
+025466.html,[Rd] R-devel: now moved from majordomo to [procmail+mailman],25466,Martin Maechler
+025471.html,[Rd] Apology for not enough protection of new R-devel,25471,Martin Maechler
+025477.html,[Rd] restart,25477,Mark.Bravington@csiro.au
+025480.html,[Rd] restart,25480,Mark.Bravington@csiro.au
+025395.html,behavior of =,25395,Duncan Murdoch
+025398.html,behavior of =,25398,Duncan Murdoch
+025473.html,[Rd] i386 floating point tweaking,25473,Duncan Murdoch
+025493.html,[Rd] Small change to plot.xy,25493,Duncan Murdoch
+025515.html,[Rd] Re: unique(),25515,Duncan Murdoch
+025376.html,active pdf/annotated visualization RFC,25376,Paul Murrell
+025424.html,strwidth(font=NULL),25424,Paul Murrell
+004412.html,[Rd] par(ask=T) in termplot(),4412,Emmanuel Paradis
+025353.html,seemingly random &quot;nesting of readline input&quot; warnings,25353,Roger Peng
+025355.html,seemingly random &quot;nesting of readline input&quot; warnings,25355,Roger Peng
+025475.html,[Rd] Nesting of readline input (PR#2310),25475,Roger Peng
+025393.html,behavior of =,25393,Tony Plate
+025504.html,[Rd] gcc 3.2.1,25504,Prof Brian D Ripley
+025509.html,[Rd] Small change to plot.xy,25509,Prof Brian D Ripley
+025533.html,[Rd] BLAS/Lapack for OS X,25533,Prof Brian D Ripley
+025390.html,behavior of =,25390,A.J. Rossini
+025396.html,behavior of =,25396,A.J. Rossini
+025397.html,behavior of =,25397,A.J. Rossini
+025411.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25411,A.J. Rossini
+025412.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25412,A.J. Rossini
+025490.html,[Rd] Small change to plot.xy,25490,Jonathan Rougier
+025495.html,[Rd] Small change to plot.xy,25495,Jonathan Rougier
+025497.html,[Rd] Small change to plot.xy,25497,Jonathan Rougier
+025499.html,[Rd] Small change to plot.xy,25499,Jonathan Rougier
+025508.html,[Rd] Small change to plot.xy,25508,Jonathan Rougier
+025363.html,longjmp - was: seemingly random &quot;nesting of readline input&quot; warnings,25363,Barry Rowlingson
+025365.html,longjmp,25365,Barry Rowlingson
+025366.html,R shell integration.,25366,Barry Rowlingson
+025374.html,active pdf/annotated visualization RFC,25374,Barry Rowlingson
+025394.html,behavior of =,25394,Barry Rowlingson
+025472.html,[Rd] i386 floating point tweaking,25472,Barry Rowlingson
+025500.html,[Rd] Small change to plot.xy,25500,Deepayan Sarkar
+025383.html,behavior of =,25383,Marc Schwartz
+025427.html,Wandering usr values in par(no.readonly=TRUW) (PR#2283),25427,Marc Schwartz
+025429.html,Wandering usr values in par(no.readonly=TRUW) (PR#2283),25429,Marc Schwartz
+025431.html,Wandering usr values in par(no.readonly=TRUE) (PR#2283),25431,Marc Schwartz
+025433.html,Wandering usr values in par(no.readonly=TRUE) (PR#2283),25433,Marc Schwartz
+025358.html,seemingly random &quot;nesting of readline input&quot; warnings,25358,Luke Tierney
+025399.html,behavior of =,25399,Luke Tierney
+025442.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25442,Luke Tierney
+025478.html,[Rd] restart,25478,Luke Tierney
+025482.html,[Rd] Re: [R] Running Parallel Jobs in R,25482,Luke Tierney
+025468.html,[Rd] Re: Package tseries: crash for Windows version (PR#2302),25468,Kenneth Roy Cabrera Torres
+025373.html,active pdf/annotated visualization RFC,25373,"Vincent J. Carey, Jr."
+025392.html,behavior of =,25392,"Warnes, Gregory R"
+025439.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25439,Gregory Wright
+025441.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25441,Gregory Wright
+025444.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25444,Gregory Wright
+025454.html,"R-1.6.1, Mac OS X 10.2.2 build failure",25454,Gregory Wright
+025451.html,bug in logLik.nls (PR#2295),25451,bates@stat.wisc.edu
+025529.html,[Rd] mgcv fails to compile in R-1.6.1 (PR#2334),25529,bjw34032@mh.uk.sbphrd.com
+025503.html,[Rd] Intermittant hang in cmdscale (PR#2323),25503,campbell.webb@yale.edu
+025512.html,[Rd] Contr.poly for n &gt; 100 (PR#2326),25512,clifford@galton.uchicago.edu
+025526.html,[Rd] readBin or writeBin adds extra nulls (PR#2333),25526,dmurdoch@pair.com
+025384.html,Bug#168259: r-base-core: help.start() assumes netscape is installed (PR#2275),25384,edd@debian.org
+025415.html,(PR#2275) Re: Bug#168259: r-base-core: help.start() assumes netscape is installed,25415,edd@debian.org
+025488.html,[Rd] simplex problem (PR#2317),25488,george@lecompte.org
+025501.html,[Rd] simplex (PR#2322),25501,george@lecompte.org
+025386.html,Mac specific - quartz leads to crash (PR#2276),25386,h95mr@mun.ca
+025453.html,make check fails with -march=i686 on gcc 2.96 (PR#2296),25453,heinlein@cse.ogi.edu
+025474.html,[Rd] Nesting of readline input (PR#2310),25474,j.c.rougier@durham.ac.uk
+025426.html,Wandering usr values in par(no.readonly=TRUW) (PR#2283),25426,jarioksa@sun3.oulu.fi
+025423.html,PDF graphics -- color weirdness (PR#2281),25423,jenny@stat.ubc.ca
+025494.html,[Rd] Segmentation fault using &quot;survival&quot; package (PR#2320),25494,jerome@hivnet.ubc.ca
+025463.html,gnuwin32/Makefile (PR#2304),25463,jyan@stat.wisc.edu
+025522.html,[Rd] readBin or writeBin adds extra nulls (PR#2333),25522,ken_yap_aus@yahoo.com
+025425.html,[R] grid(): defaults of nx and ny do not correspond with axis() (PR#2282),25425,ligges@statistik.uni-dortmund.de
+025378.html,rbind (PR#2266),25378,louisept@pweh.com
+025450.html,bug in logLik.nls (PR#2295),25450,lutz@stat.math.ethz.ch
+025428.html,Welch versus Satterthwaith (PR#2111),25428,maechler@stat.math.ethz.ch
+025430.html,Wandering usr values in par(no.readonly=TRUE) (PR#2283),25430,maechler@stat.math.ethz.ch
+025483.html,[Rd] log( &lt;ts object&gt; ) is not &lt;ts object&gt; (PR#2315),25483,maechler@stat.math.ethz.ch
+025506.html,[Rd] Segmentation fault using &quot;survival&quot; package (PR#2320),25506,maechler@stat.math.ethz.ch
+025470.html,[Rd] Prediction from arima() object (library ts) (PR#2305),25470,mcrae_allan@hotmial.com
+017013.html,[Rd] Urgent  Response  Needed (PR#2329),17013,mcruffy10@mail.com
+025351.html,Inconsistent results with %in% (PR#2244),25351,nklepeis@uclink.berkeley.edu
+025352.html,(PR#2244),25352,nklepeis@uclink4.berkeley.edu
+025514.html,[Rd] sprintf (PR#2327),25514,p.b.pynsent@bham.ac.uk
+025371.html,arima.sim (PR#2256),25371,pchoquet@mat.ulaval.ca
+025521.html,[Rd] SOLICITING FOR BUSINESS VENTURE AND PARTNERSHIP. (PR#2331),25521,richardcole550@mail.com
+025359.html,(PR#2003) bug in SJava,25359,ripley@stats.ox.ac.uk
+025372.html,arima.sim (PR#2256),25372,ripley@stats.ox.ac.uk
+025401.html,strwidth(font=NULL),25401,ripley@stats.ox.ac.uk
+025405.html,Calling function with proto in Rinternals.h,25405,ripley@stats.ox.ac.uk
+025448.html,anova.glm gets test=&quot;Chisq&quot; wrong (PR#2294),25448,ripley@stats.ox.ac.uk
+025461.html,Package tseries: crash for Windows version (PR#2302),25461,ripley@stats.ox.ac.uk
+025464.html,gnuwin32/Makefile (PR#2304),25464,ripley@stats.ox.ac.uk
+025469.html,[Rd] Re: chm help (was Package tseries: crash for Windows version (PR#2302)),25469,ripley@stats.ox.ac.uk
+025484.html,[Rd] log( &lt;ts object&gt; ) is not &lt;ts object&gt; (PR#2315),25484,ripley@stats.ox.ac.uk
+025489.html,[Rd] simplex problem (PR#2317),25489,ripley@stats.ox.ac.uk
+025492.html,[Rd] Small change to plot.xy,25492,ripley@stats.ox.ac.uk
+025496.html,[Rd] Small change to plot.xy,25496,ripley@stats.ox.ac.uk
+025498.html,[Rd] Small change to plot.xy,25498,ripley@stats.ox.ac.uk
+025513.html,[Rd] Contr.poly for n &gt; 100 (PR#2326),25513,ripley@stats.ox.ac.uk
+025519.html,[Rd] Re: [R] further on ESS/XEmacs for Windows,25519,ripley@stats.ox.ac.uk
+025525.html,[Rd] BLAS/Lapack for OS X,25525,ripley@stats.ox.ac.uk
+025527.html,[Rd] readBin or writeBin adds extra nulls (PR#2333),25527,ripley@stats.ox.ac.uk
+025528.html,[Rd] Prediction from arima() object (library ts) (PR#2305),25528,ripley@stats.ox.ac.uk
+025536.html,[Rd] BLAS/Lapack for OS X,25536,ripley@stats.ox.ac.uk
+025537.html,[Rd] vector arguments to if(),25537,ripley@stats.ox.ac.uk
+025447.html,anova.glm gets test=&quot;Chisq&quot; wrong (PR#2294),25447,robert.king@newcastle.edu.au
+025456.html,Wishlist: allow NA values in medpolish (package 'eda') (PR#2298),25456,schutz@wehi.edu.au
+025457.html,formatC with format=&quot;fg&quot; displays number in exponential notation (PR#2299),25457,schutz@wehi.edu.au
+025485.html,[Rd] Platform() used in tkfilefind.X although now deprecated (PR#2316),25485,stephen@cogsci.ed.ac.uk
+025432.html,survreg (survival) reports erroneous results for left-censored data (PR#2287),25432,tim@timcohn.com
+025446.html,survreg (survival) reports erroneous results for left-censored (PR#2293),25446,tim@timcohn.com
+025436.html,survreg (survival) reports erroneous results for left-censored (PR#2291),25436,tlumley@u.washington.edu
+025516.html,[Rd] sprintf crash (PR#2327),25516,tlumley@u.washington.edu
+025360.html,Ansari-Bradley test (PR#2252),25360,wex00002@uconn.edu
+025361.html,[R] CTRL-C suspends echo of shell (R versions 1.6.0 and 1.6.1) (PR#2253),25361,wolfram@fischer-zim.ch
+025375.html,[R] grid(): defaults of nx and ny do not correspond with axis() (PR#2259),25375,wolfram@fischer-zim.ch
+025459.html,Package tseries: crash for Windows version (PR#2302),25459,xiao.gang.fan1@libertysurf.fr

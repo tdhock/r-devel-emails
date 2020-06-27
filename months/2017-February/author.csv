@@ -1,0 +1,120 @@
+link,Subject,id,author
+073692.html,[Rd] Unexpected EOF in R-patched_2017-01-30,73692,Avraham Adler
+073695.html,[Rd] Unexpected EOF in R-patched_2017-01-30,73695,Avraham Adler
+073756.html,[Rd] Registration of native routines,73756,Avraham Adler
+073759.html,[Rd] R-devel 2017-02-15: repeated line in /src/gnuwin32/MkRules.dist,73759,Avraham Adler
+073762.html,[Rd] Wish List: Extensions to the derivatives table,73762,Avraham Adler
+073792.html,[Rd] Registration of native routines,73792,Avraham Adler
+073694.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73694,Suharto Anggono Suharto Anggono
+073702.html,[Rd] Lack of 'seq_len' in 'head' in 'stopifnot',73702,Suharto Anggono Suharto Anggono
+073713.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73713,Suharto Anggono Suharto Anggono
+073803.html,"[Rd] rep/rep.int: in NEWS, but not yet ported from trunk",73803,Suharto Anggono Suharto Anggono
+073809.html,"[Rd] rep/rep.int: in NEWS, but not yet ported from trunk",73809,Suharto Anggono Suharto Anggono
+073699.html,[Rd] Suggestion: barplot function,73699,Robert Baer
+073751.html,"[Rd] Bug with zlib version checking for zlib &gt;= 1.2.10,	R version 3.3.2",73751,Justin Bed&#337;
+073753.html,"[Rd] Bug with zlib version checking for zlib &gt;= 1.2.10,	R version 3.3.2",73753,Justin Bed&#337;
+073742.html,[Rd] Pressing either Ctrl-\ of Ctrl-4 core dumps R,73742,Henrik Bengtsson
+073749.html,[Rd] Pressing either Ctrl-\ of Ctrl-4 core dumps R,73749,Henrik Bengtsson
+073752.html,"[Rd] Bug with zlib version checking for zlib &gt;= 1.2.10,	R version 3.3.2",73752,Henrik Bengtsson
+073781.html,[Rd] How to build R without support for translations?,73781,Henrik Bengtsson
+073783.html,[Rd] How to build R without support for translations?,73783,Henrik Bengtsson
+073760.html,[Rd] possible improvement to ?with examples,73760,Ben Bolker
+073789.html,[Rd] [Lme4-authors] Crash in the latest release,73789,Ben Bolker
+073722.html,[Rd] Ancient C /Fortran code linpack error,73722,G&#246;ran Brostr&#246;m
+073735.html,[Rd] Ancient C /Fortran code linpack error,73735,G&#246;ran Brostr&#246;m
+073741.html,[Rd] Ancient C /Fortran code linpack error,73741,G&#246;ran Brostr&#246;m
+073709.html,[Rd] buggy ANSI escape sequences in R prompt,73709,G&#225;bor Cs&#225;rdi
+073705.html,[Rd] R 3.3.3 on March 6,73705,Peter Dalgaard
+073797.html,[Rd] Debugging tools and practices in Windows?,73797,Ray Donnelly
+073732.html,[Rd] issue with unz()?,73732,William Dunlap
+073739.html,[Rd] Grapics Device Resolution Limits,73739,William Dunlap
+073743.html,[Rd] Pressing either Ctrl-\ of Ctrl-4 core dumps R,73743,William Dunlap
+073782.html,[Rd] How to build R without support for translations?,73782,Dirk Eddelbuettel
+073716.html,[Rd] What would make R easier to use for you (and sos version 1.4-1 and useR!2017),73716,Spencer Graves
+073724.html,[Rd] Ancient C /Fortran code linpack error,73724,Berend Hasselman
+073729.html,[Rd] Ancient C /Fortran code linpack error,73729,Berend Hasselman
+073736.html,[Rd] Ancient C /Fortran code linpack error,73736,Berend Hasselman
+073800.html,[Rd] BUG: the quiet option in the install.packages function,73800,Zhiqiu Hu
+073718.html,[Rd] changes in src/unix/system.c break builds on FreeBSD,73718,Rainer Hurling
+073721.html,[Rd] changes in src/unix/system.c break builds on FreeBSD,73721,Rainer Hurling
+073758.html,[Rd] stats::median,73758,Rob J Hyndman
+073725.html,[Rd] Ancient C /Fortran code linpack error,73725,Tomas Kalibera
+073796.html,[Rd] Debugging tools and practices in Windows?,73796,Tomas Kalibera
+073693.html,[Rd] Typos in manuals,73693,Mikko Korpela
+073697.html,[Rd] R Bugzilla down,73697,Mikko Korpela
+073720.html,[Rd] changes in src/unix/system.c break builds on FreeBSD,73720,Mikko Korpela
+073772.html,[Rd] [patch] Eliminate warnings from gcc -Wold-style-declaration,73772,Mikko Korpela
+073784.html,[Rd] R CMD build error during vignettes build,73784,Mikko Korpela
+073790.html,[Rd] Update copyright year in manuals,73790,Mikko Korpela
+073747.html,"[Rd] another fix for R crashes under enable-strict-barrier, lto, trunk at 72156",73747,Hin-Tak Leung
+073775.html,"[Rd] another fix for R crashes under enable-strict-barrier, lto, trunk at 72156",73775,Hin-Tak Leung
+073761.html,[Rd] Wish List: Extensions to the derivatives table,73761,Jerry Lewis
+073763.html,[Rd] Wish List: Extensions to the derivatives table,73763,Jerry Lewis
+073765.html,[Rd] Wish List: Extensions to the derivatives table,73765,Jerry Lewis
+073778.html,[Rd] R CMD build error during vignettes build,73778,Sebastian P. Luque
+073793.html,[Rd] Debugging tools and practices in Windows?,73793,Javier Luraschi
+073795.html,[Rd] Debugging tools and practices in Windows?,73795,Javier Luraschi
+073691.html,[Rd] Unexpected EOF in R-patched_2017-01-30,73691,Martin Maechler
+073696.html,[Rd] Typos in manuals,73696,Martin Maechler
+073703.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73703,Martin Maechler
+073704.html,[Rd] Lack of 'seq_len' in 'head' in 'stopifnot',73704,Martin Maechler
+073711.html,[Rd] package load altering RNG state,73711,Martin Maechler
+073726.html,[Rd] Ancient C /Fortran code linpack error,73726,Martin Maechler
+073737.html,[Rd] R CMD check error (interfacing to C API of other pkg),73737,Martin Maechler
+073738.html,[Rd] Grapics Device Resolution Limits,73738,Martin Maechler
+073768.html,"[Rd] another fix for R crashes under enable-strict-barrier, lto, trunk at 72156",73768,Martin Maechler
+073769.html,[Rd] Wish List: Extensions to the derivatives table,73769,Martin Maechler
+073777.html,[Rd] possible improvement to ?with examples,73777,Martin Maechler
+073791.html,[Rd] Update copyright year in manuals,73791,Martin Maechler
+073801.html,[Rd] Update copyright year in manuals,73801,Martin Maechler
+073805.html,"[Rd] rep/rep.int: in NEWS, but not yet ported from trunk",73805,Martin Maechler
+073806.html,[Rd] stats::median,73806,Martin Maechler
+073808.html,[Rd] Test suite failures in R-devel_2017-02-25_r72256,73808,Martin Maechler
+073811.html,[Rd] Test suite failures in R-devel_2017-02-25_r72256,73811,Martin Maechler
+073798.html,[Rd] Debugging tools and practices in Windows?,73798,Andre Mikulec
+073764.html,[Rd] Wish List: Extensions to the derivatives table,73764,Duncan Murdoch
+073794.html,[Rd] Debugging tools and practices in Windows?,73794,Duncan Murdoch
+073773.html,[Rd] [FORGED] Re: Replaying a recorded plot (mixed base and grid) from pdf() in cairo_pdf() crashes R,73773,Paul Murrell
+073774.html,[Rd] [FORGED] Re: Replaying a recorded plot (mixed base and grid) from pdf() in cairo_pdf() crashes R,73774,Paul Murrell
+073779.html,[Rd] [FORGED] Re: Replaying a recorded plot (mixed base and grid) from pdf() in cairo_pdf() crashes R,73779,Paul Murrell
+073804.html,[Rd] Graphics Device API change,73804,Paul Murrell
+073748.html,[Rd] parallel and tempdir(),73748,Jeroen Ooms
+073787.html,[Rd] Registration of native routines,73787,Jeroen Ooms
+073786.html,[Rd] R CMD build error during vignettes build,73786,Sebastian P.Luque
+073733.html,[Rd] R 'base' returning 0 as sum of NAs,73733,Herv&#233; Pag&#232;s
+073717.html,[Rd] R CMD check error,73717,Martyn Plummer
+073727.html,[Rd] R CMD check error,73727,Martyn Plummer
+073707.html,[Rd] buggy ANSI escape sequences in R prompt,73707,Hugo Raguet
+073710.html,[Rd] buggy ANSI escape sequences in R prompt,73710,Hugo Raguet
+073719.html,[Rd] changes in src/unix/system.c break builds on FreeBSD,73719,Prof Brian Ripley
+073745.html,[Rd] Grapics Device Resolution Limits,73745,Prof Brian Ripley
+073746.html,[Rd] Grapics Device Resolution Limits,73746,Prof Brian Ripley
+073755.html,[Rd] Registration of native routines,73755,Prof Brian Ripley
+073757.html,[Rd] Registration of native routines,73757,Prof Brian Ripley
+073766.html,[Rd] Registration of native routines,73766,Prof Brian Ripley
+073700.html,[Rd] Suggestion: barplot function,73700,Marc Schwartz
+073807.html,[Rd] Test suite failures in R-devel_2017-02-25_r72256,73807,Peter Simons
+073734.html,[Rd] Grapics Device Resolution Limits,73734,Dario Strbenac
+073750.html,[Rd] Grapics Device Resolution Limits,73750,Dario Strbenac
+073715.html,[Rd] R CMD check error,73715,"Therneau, Terry M., Ph.D."
+073723.html,[Rd] R CMD check error,73723,"Therneau, Terry M., Ph.D."
+073728.html,[Rd] R CMD check error,73728,"Therneau, Terry M., Ph.D."
+073740.html,[Rd] R CMD check error (interfacing to C API of other pkg):	Solved,73740,"Therneau, Terry M., Ph.D."
+073788.html,[Rd] Crash in the latest release,73788,"Therneau, Terry M., Ph.D."
+073706.html,[Rd] package load altering RNG state,73706,Benjamin Tyner
+073714.html,[Rd] package load altering RNG state,73714,Benjamin Tyner
+073698.html,[Rd] R Bugzilla down,73698,Simon Urbanek
+073708.html,[Rd] package load altering RNG state,73708,Henric Winell
+073712.html,[Rd] package load altering RNG state,73712,Henric Winell
+073785.html,[Rd] Registration of native routines,73785,Henric Winell
+073770.html,[Rd] Replaying a recorded plot (mixed base and grid) from pdf() in cairo_pdf() crashes R,73770,Yihui Xie
+073771.html,[Rd] Replaying a recorded plot (mixed base and grid) from pdf() in cairo_pdf() crashes R,73771,Yihui Xie
+073780.html,[Rd] [FORGED] Re: Replaying a recorded plot (mixed base and grid) from pdf() in cairo_pdf() crashes R,73780,Yihui Xie
+073754.html,[Rd] Pressing either Ctrl-\ of Ctrl-4 core dumps R,73754,peter dalgaard
+073767.html,[Rd] Suggestion: barplot function,73767,danielrenato at lycos.com
+073799.html,[Rd] Update copyright year in manuals,73799,frederik at ofb.net
+073810.html,[Rd] Graphics Device API change,73810,frederik at ofb.net
+073744.html,[Rd] Pressing either Ctrl-\ of Ctrl-4 core dumps R,73744,luke-tierney at uiowa.edu
+073776.html,"[Rd] another fix for R crashes under enable-strict-barrier, lto, trunk at 72156",73776,luke-tierney at uiowa.edu
+073730.html,[Rd] issue with unz()?,73730,jing hua zhao
+073731.html,[Rd] issue with unz()?,73731,jing hua zhao

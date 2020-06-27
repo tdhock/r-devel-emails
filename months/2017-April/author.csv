@@ -1,0 +1,158 @@
+link,Subject,id,author
+074125.html,[Rd] TEXINFO error when building R-3.4.0,74125,Avraham Adler
+074126.html,[Rd] TEXINFO error when building R-3.4.0,74126,Avraham Adler
+074072.html,[Rd] R 3.4 has broken C++11 support,74072,"Angerer, Philipp"
+074074.html,[Rd] R 3.4 has broken C++11 support,74074,"Angerer, Philipp"
+074080.html,[Rd] R 3.4 has broken C++11 support,74080,"Angerer, Philipp"
+074085.html,[Rd] R 3.4 has broken C++11 support,74085,"Angerer, Philipp"
+074089.html,[Rd] R 3.4 has broken C++11 support,74089,"Angerer, Philipp"
+074098.html,[Rd] R 3.4 has broken C++11 support,74098,"Angerer, Philipp"
+074014.html,"[Rd] complex NA's match(),	etc: not back-compatible change proposal",74014,Suharto Anggono Suharto Anggono
+074093.html,[Rd] c documentation after change,74093,Suharto Anggono Suharto Anggono
+074077.html,[Rd] Package Version Checking,74077,Richard Barnes
+074056.html,[Rd] Downloader that Resolves library dependencies,74056,Rui Barradas
+074062.html,[Rd] &quot;table(droplevels(aq)$Month)&quot; in manual page of droplevels,74062,Rui Barradas
+074136.html,[Rd] tempdir() may be deleted during long-running R session,74136,Gabriel Becker
+074009.html,"[Rd] mean(x) != mean(rev(x)) different with x &lt;- c(NA,	NaN) for some builds",74009,Henrik Bengtsson
+074011.html,"[Rd] mean(x) != mean(rev(x)) different with x &lt;- c(NA, NaN) for some builds",74011,Henrik Bengtsson
+074012.html,"[Rd] mean(x) != mean(rev(x)) different with x &lt;- c(NA, NaN) for some builds",74012,Henrik Bengtsson
+074075.html,[Rd] Crash after (wrongly) applying product operator on object from LIMMA package,74075,Hilmar Berger
+074078.html,[Rd] Crash after (wrongly) applying product operator on object from LIMMA package,74078,Hilmar Berger
+074123.html,[Rd] Crash after (wrongly) applying product operator on object from LIMMA package,74123,Hilmar Berger
+074020.html,[Rd] Very hard to reproduce bug (?) in R-devel,74020,Winston Chang
+074021.html,[Rd] Very hard to reproduce bug (?) in R-devel,74021,Winston Chang
+074028.html,[Rd] Very hard to reproduce bug (?) in R-devel,74028,Winston Chang
+074031.html,[Rd] Very hard to reproduce bug (?) in R-devel,74031,Winston Chang
+074033.html,[Rd] Very hard to reproduce bug (?) in R-devel,74033,Winston Chang
+074034.html,[Rd] Very hard to reproduce bug (?) in R-devel,74034,Winston Chang
+074036.html,[Rd] Very hard to reproduce bug (?) in R-devel,74036,Winston Chang
+074039.html,[Rd] Very hard to reproduce bug (?) in R-devel,74039,Winston Chang
+074040.html,[Rd] Very hard to reproduce bug (?) in R-devel,74040,Winston Chang
+074046.html,[Rd] Very hard to reproduce bug (?) in R-devel,74046,Winston Chang
+074076.html,[Rd] system/system2 and open file descriptors,74076,Winston Chang
+074094.html,[Rd] system/system2 and open file descriptors,74094,Winston Chang
+074115.html,[Rd] Intel MKL compiling issue,74115,"Cohn, Robert S"
+074119.html,[Rd] Intel MKL compiling issue,74119,"Cohn, Robert S"
+074134.html,[Rd] tempdir() may be deleted during long-running R session,74134,"Cook, Malcolm"
+074137.html,[Rd] tempdir() may be deleted during long-running R session,74137,"Cook, Malcolm"
+074045.html,"[Rd] [bug] in cut.POSIXt(..., breaks = &lt;numeric&gt;)",74045,Xianghui Dong
+074049.html,"[Rd] [bug] in cut.POSIXt(..., breaks = &lt;numeric&gt;)",74049,Xianghui Dong
+074047.html,[Rd] Hyperbolic tangent different results on Windows and Mac,74047,Ray Donnelly
+074102.html,[Rd] system/system2 and open file descriptors,74102,William Dunlap
+074139.html,[Rd] R_CMethodDef incompatibility (affects R_registerRoutines),74139,William Dunlap
+074149.html,[Rd] tempdir() may be deleted during long-running R session,74149,William Dunlap
+074150.html,[Rd] tempdir() may be deleted during long-running R session,74150,William Dunlap
+074035.html,[Rd] Very hard to reproduce bug (?) in R-devel,74035,Dirk Eddelbuettel
+074057.html,[Rd] Downloader that Resolves library dependencies,74057,Dirk Eddelbuettel
+074083.html,[Rd] R 3.4 has broken C++11 support,74083,Dirk Eddelbuettel
+074091.html,[Rd] R 3.4 has broken C++11 support,74091,Dirk Eddelbuettel
+074100.html,[Rd] ask.yes.no() function,74100,Dirk Eddelbuettel
+074114.html,[Rd] tempdir() may be deleted during long-running R session,74114,Dirk Eddelbuettel
+074118.html,[Rd] tempdir() may be deleted during long-running R session,74118,Dirk Eddelbuettel
+074128.html,[Rd] tempdir() may be deleted during long-running R session,74128,Dirk Eddelbuettel
+074145.html,[Rd] tempdir() may be deleted during long-running R session,74145,Dirk Eddelbuettel
+074148.html,[Rd] tempdir() may be deleted during long-running R session,74148,Dirk Eddelbuettel
+074051.html,[Rd] Author email addresses,74051,Jeff Laake - NOAA Federal
+074069.html,[Rd] Getting high precision values from qnorm in the tail,74069,Spencer Graves
+074066.html,[Rd] potential bug in attribute handling for externalptr,74066,Lionel Henry
+074079.html,[Rd] Crash after (wrongly) applying product operator on S4 object that derives from list,74079,Wolfgang Huber
+074157.html,[Rd] prefixed zlib and bzip2 headers,74157,"Jones, Michael"
+074163.html,[Rd] prefixed zlib and bzip2 headers,74163,"Jones, Michael"
+074048.html,[Rd] failure of make check-all,74048,Tomas Kalibera
+074088.html,[Rd] Crash after (wrongly) applying product operator on S4 object that derives from list,74088,Tomas Kalibera
+074124.html,[Rd] Crash after (wrongly) applying product operator on object from LIMMA package,74124,Tomas Kalibera
+074146.html,[Rd] tempdir() may be deleted during long-running R session,74146,Tomas Kalibera
+074017.html,[Rd] Potential bug in utils::citation(),74017,Zhian Kamvar
+074164.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and UTF-32 ?,74164,Jack Kelley
+074109.html,[Rd] tempdir() may be deleted during long-running R session,74109,Mikko Korpela
+074112.html,[Rd] tempdir() may be deleted during long-running R session,74112,Mikko Korpela
+074113.html,[Rd] tempdir() may be deleted during long-running R session,74113,Mikko Korpela
+074087.html,[Rd] Crash after (wrongly) applying product operator on S4 object that derives from list,74087,Michael Lawrence
+074106.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74106,Michael Lawrence
+074132.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74132,Michael Lawrence
+074168.html,[Rd] `match.call` and dots substitution,74168,Michael Lawrence
+074038.html,[Rd] Very hard to reproduce bug (?) in R-devel,74038,Uwe Ligges
+074052.html,[Rd] Author email addresses,74052,Uwe Ligges
+074138.html,[Rd] Generate reproducible output independently of the build path,74138,Ximin Luo
+074018.html,[Rd] Potential bug in utils::citation(),74018,Martin Maechler
+074019.html,"[Rd] complex NA's match(),	etc: not back-compatible change proposal",74019,Martin Maechler
+074027.html,[Rd] Potential bug in utils::citation(),74027,Martin Maechler
+074029.html,[Rd] Very hard to reproduce bug (?) in R-devel,74029,Martin Maechler
+074030.html,[Rd] Bug report: POSIX regular expression doesn't match for somewhat higher values of upper bound,74030,Martin Maechler
+074064.html,[Rd] &quot;table(droplevels(aq)$Month)&quot; in manual page of droplevels,74064,Martin Maechler
+074099.html,[Rd] c() documentation after change;	'recursive' in &quot;base&quot; methods,74099,Martin Maechler
+074130.html,[Rd] tempdir() may be deleted during long-running R session,74130,Martin Maechler
+074135.html,[Rd] tempdir() may be deleted during long-running R session,74135,Martin Maechler
+074143.html,[Rd] tempdir() may be deleted during long-running R session,74143,Martin Maechler
+074147.html,[Rd] tempdir() may be deleted during long-running R session,74147,Martin Maechler
+074068.html,[Rd] Getting high precision values from qnorm in the tail,74068,Sheldon Maze
+074032.html,[Rd] Very hard to reproduce bug (?) in R-devel,74032,Robert McGehee
+074111.html,[Rd] tempdir() may be deleted during long-running R session,74111,Joris Meys
+074084.html,[Rd] ask.yes.no() function,74084,Duncan Murdoch
+074101.html,[Rd] ask.yes.no() function,74101,Duncan Murdoch
+074144.html,[Rd] tempdir() may be deleted during long-running R session,74144,Duncan Murdoch
+074151.html,[Rd] tempdir() may be deleted during long-running R session,74151,Duncan Murdoch
+074153.html,[Rd] byte-compiler bug,74153,Duncan Murdoch
+074167.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and UTF-32 ?,74167,Duncan Murdoch
+074121.html,[Rd] polypath winding rule with transparency,74121,Paul Murrell
+074086.html,[Rd] Default R-3.4.0 RC CXXFLAGS without -O2 on x86_64-linux-gnu with g++-5.4.0 causes WARNING from stl_list.h,74086,"Neumann, Steffen"
+074023.html,[Rd] Some &quot;lm&quot; methods give wrong results when applied to &quot;mlm&quot;	objects,74023,Jari Oksanen
+074103.html,[Rd] Problems with S4 methods dispatching on `...` (aka dotsMethods),74103,Andrzej Ole&#347;
+074108.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74108,Andrzej Ole&#347;
+074129.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74129,Andrzej Ole&#347;
+074133.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74133,Andrzej Ole&#347;
+074067.html,[Rd] potential bug in attribute handling for externalptr,74067,Jeroen Ooms
+074131.html,[Rd] tempdir() may be deleted during long-running R session,74131,Jeroen Ooms
+074015.html,"[Rd] mean(x) != mean(rev(x)) different with x &lt;- c(NA, NaN) for some builds",74015,Herv&#233; Pag&#232;s
+074152.html,[Rd] byte-compiler bug,74152,Herv&#233; Pag&#232;s
+074154.html,[Rd] byte-compiler bug,74154,Herv&#233; Pag&#232;s
+074156.html,[Rd] byte-compiler bug,74156,Herv&#233; Pag&#232;s
+074065.html,[Rd] potential bug in attribute handling for externalptr,74065,Patrick Perry
+074073.html,[Rd] R 3.4 has broken C++11 support,74073,Martyn Plummer
+074081.html,[Rd] R 3.4 has broken C++11 support,74081,Martyn Plummer
+074082.html,[Rd] R 3.4 has broken C++11 support,74082,Martyn Plummer
+074090.html,[Rd] R 3.4 has broken C++11 support,74090,Martyn Plummer
+074095.html,[Rd] Default R-3.4.0 RC CXXFLAGS without -O2 on x86_64-linux-gnu with g++-5.4.0 causes WARNING from stl_list.h,74095,Martyn Plummer
+074162.html,[Rd] prefixed zlib and bzip2 headers,74162,Martyn Plummer
+074016.html,[Rd] rdb and rds files include abolute file paths / help understanding how lazy-load dbs are created,74016,Philip Rinn
+074010.html,"[Rd] mean(x) != mean(rev(x)) different with x &lt;- c(NA, NaN) for some builds",74010,Prof Brian Ripley
+074071.html,[Rd] Q: Windows/readline: missing history search,74071,Prof Brian Ripley
+074104.html,[Rd] Intel MKL compiling issue,74104,Prof Brian Ripley
+074110.html,[Rd] tempdir() may be deleted during long-running R session,74110,Prof Brian Ripley
+074140.html,[Rd] R on OpenHub,74140,Barry Rowlingson
+074169.html,[Rd] Byte compilation with window&lt;- in R3.4.0,74169,Christoph Sax
+074160.html,[Rd] pairwiseAlignment Improvements,74160,Dario Strbenac
+074161.html,[Rd] pairwiseAlignment Improvements,74161,Dario Strbenac
+074096.html,[Rd] ask.yes.no() function,74096,Michael Sumner
+074120.html,[Rd] polypath winding rule with transparency,74120,Michael Sumner
+074041.html,[Rd] failure of make check-all,74041,"Therneau, Terry M., Ph.D."
+074043.html,[Rd] failure of make check-all,74043,"Therneau, Terry M., Ph.D."
+074122.html,[Rd] Crash after (wrongly) applying product operator on object from LIMMA package,74122,January W.
+074165.html,[Rd] R patch,74165,Bernhard M. Wiedemann
+074054.html,[Rd] Poor documentation for &quot;adj&quot; and text(),74054,Ulrich Windl
+074055.html,[Rd] Downloader that Resolves library dependencies,74055,Ulrich Windl
+074059.html,[Rd] &quot;table(droplevels(aq)$Month)&quot; in manual page of droplevels,74059,Ulrich Windl
+074063.html,[Rd] Q: Windows/readline: missing history search,74063,Ulrich Windl
+074070.html,[Rd] Antw: Re: &quot;table(droplevels(aq)$Month)&quot; in manual page of droplevels,74070,Ulrich Windl
+074060.html,[Rd] &quot;table(droplevels(aq)$Month)&quot; in manual page of droplevels,74060,Henric Winell
+074061.html,[Rd] &quot;table(droplevels(aq)$Month)&quot; in manual page of droplevels,74061,Henric Winell
+074092.html,[Rd] R 3.4 has broken C++11 support,74092,Ista Zahn
+074037.html,[Rd] Very hard to reproduce bug (?) in R-devel,74037,peter dalgaard
+074042.html,[Rd] failure of make check-all,74042,peter dalgaard
+074044.html,[Rd] failure of make check-all,74044,peter dalgaard
+074166.html,[Rd] `match.call` and dots substitution,74166,brodie gaslam
+074025.html,[Rd] Bug report: POSIX regular expression doesn't match for somewhat higher values of upper bound,74025,dietmar.schindler at manroland-web.com
+074053.html,[Rd] Bug report: POSIX regular expression doesn't match for somewhat higher values of upper bound,74053,dietmar.schindler at manroland-web.com
+074058.html,[Rd] Poor documentation for &quot;adj&quot; and text(),74058,frederik at ofb.net
+074116.html,[Rd] tempdir() may be deleted during long-running R session,74116,frederik at ofb.net
+074127.html,[Rd] tempdir() may be deleted during long-running R session,74127,frederik at ofb.net
+074141.html,[Rd] tempdir() may be deleted during long-running R session,74141,frederik at ofb.net
+074142.html,[Rd] tempdir() may be deleted during long-running R session,74142,frederik at ofb.net
+074158.html,[Rd] tempdir() may be deleted during long-running R session,74158,frederik at ofb.net
+074159.html,[Rd] tempdir() may be deleted during long-running R session,74159,frederik at ofb.net
+074050.html,[Rd] Review,74050,realitix
+074155.html,[Rd] byte-compiler bug,74155,luke-tierney at uiowa.edu
+074097.html,[Rd] Intel MKL compiling issue,74097,jing hua zhao
+074105.html,[Rd] Intel MKL compiling issue,74105,jing hua zhao
+074107.html,[Rd] Intel MKL compiling issue,74107,jing hua zhao
+074117.html,[Rd] Intel MKL compiling issue,74117,jing hua zhao

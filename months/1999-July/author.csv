@@ -1,0 +1,185 @@
+link,Subject,id,author
+019280.html,Win cash &amp; a cruise!,19280,""
+019354.html,glm code bug (PR#224),19354,320098218774-0001@t-online.de
+019284.html,"Problem with plot.ts, &quot;[&quot;",19284,Peter Dalgaard BSA
+019288.html,segfault on Sparc Linux (RH6.0),19288,Peter Dalgaard BSA
+019292.html,segfault on Sparc Linux (RH6.0),19292,Peter Dalgaard BSA
+019294.html,Bug list summary (automatic post),19294,Peter Dalgaard BSA
+019297.html,Bug on sample (PR#219),19297,Peter Dalgaard BSA
+019303.html,"[R] superscript -,+?",19303,Peter Dalgaard BSA
+019304.html,Almost succesfull build on AIX,19304,Peter Dalgaard BSA
+019310.html,r-bugs going down temporarily (upgrade),19310,Peter Dalgaard BSA
+019315.html,Those #&quot;&amp;/! comments,19315,Peter Dalgaard BSA
+019321.html,&quot;ld: bfd assertion fail&quot; making eda.so on Linux (Redhat 6.0),19321,Peter Dalgaard BSA
+019322.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19322,Peter Dalgaard BSA
+019328.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19328,Peter Dalgaard BSA
+019351.html,0.65/AIX,19351,Peter Dalgaard BSA
+019353.html,0.65/AIX,19353,Peter Dalgaard BSA
+019409.html,0.65/AIX,19409,Peter Dalgaard BSA
+019422.html,reluctant to read win95 directory (PR#231),19422,Peter Dalgaard BSA
+019451.html,Retaining comments when using `example',19451,Peter Dalgaard BSA
+019450.html,Retaining comments when using `example',19450,Douglas Bates
+019338.html,glm code bug (PR#224),19338,Bill.Venables@cmis.csiro.au
+019300.html,"superscript -,+?",19300,Ben Bolker
+019301.html,answering my own question,19301,Ben Bolker
+019391.html,R-0.64.2 on AIX,19391,Nicolas Brouard
+019377.html,0.65 &amp;&amp; AIX|HPUX,19377,U-E59264-Osman F Buyukisik
+019313.html,Gnome interface status report,19313,Lyndon Drake
+019331.html,Gnome interface status report,19331,Lyndon Drake
+019337.html,Gnome interface status report,19337,Lyndon Drake
+019439.html,Memory profiling/benchmarking,19439,Lyndon Drake
+019291.html,segfault on Sparc Linux (RH6.0),19291,Vin Everett
+019293.html,segfault on Sparc Linux (RH6.0),19293,Vin Everett
+019281.html,changing the RNG transformation,19281,Paul Gilbert
+019290.html,"Problem with plot.ts, &quot;[&quot;",19290,Paul Gilbert
+019311.html,summary.default &amp; is.recursive,19311,Paul Gilbert
+019361.html,docs: topic &amp;&amp; availability,19361,Paul Gilbert
+019378.html,``the real'' time series package,19378,Paul Gilbert
+019395.html,time series in R,19395,Paul Gilbert
+019397.html,time series in R,19397,Paul Gilbert
+019445.html,Memory profiling/benchmarking,19445,Paul Gilbert
+019446.html,Preliminary version of ts package,19446,Paul Gilbert
+019448.html,Preliminary version of ts package,19448,Paul Gilbert
+019469.html,Memory profiling/benchmarking,19469,Paul Gilbert
+019457.html,Preliminary version of ts package,19457,Paul Gilbert
+019458.html,Preliminary version of ts package,19458,Paul Gilbert
+019299.html,Almost succesfull build on AIX,19299,Kurt Hornik
+019306.html,Almost succesfull build on AIX,19306,Kurt Hornik
+019316.html,platforms,19316,Kurt Hornik
+019317.html,Almost succesfull build on AIX,19317,Kurt Hornik
+019330.html,Almost succesfull build on AIX,19330,Kurt Hornik
+019332.html,Almost succesfull build on AIX,19332,Kurt Hornik
+019333.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19333,Kurt Hornik
+019334.html,Gnome interface status report,19334,Kurt Hornik
+019336.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19336,Kurt Hornik
+019339.html,0.65/AIX,19339,Kurt Hornik
+019340.html,0.65/HPUX,19340,Kurt Hornik
+019342.html,0.65/AIX,19342,Kurt Hornik
+019349.html,0.65/AIX,19349,Kurt Hornik
+019350.html,0.65/AIX,19350,Kurt Hornik
+019352.html,0.65/AIX,19352,Kurt Hornik
+019355.html,0.65/HPUX,19355,Kurt Hornik
+019356.html,0.65 &amp;&amp; AIX|HPUX,19356,Kurt Hornik
+019357.html,docs: topic &amp;&amp; availability,19357,Kurt Hornik
+019359.html,0.65 &amp;&amp; AIX|HPUX,19359,Kurt Hornik
+019370.html,docs: topic &amp;&amp; availability,19370,Kurt Hornik
+019376.html,tseries,19376,Kurt Hornik
+019381.html,0.65 &amp;&amp; AIX|HPUX,19381,Kurt Hornik
+019384.html,R-0.64.2 ssize_t not defined in src/unix/sock.h,19384,Kurt Hornik
+019385.html,0.65/HPUX,19385,Kurt Hornik
+019387.html,0.65/AIX,19387,Kurt Hornik
+019390.html,0.65 HPUX|AIX make check,19390,Kurt Hornik
+019416.html,R-0.64.2 on AIX,19416,Kurt Hornik
+019417.html,R 0.65 and AIX: if it quacks like a duck...,19417,Kurt Hornik
+019433.html,0.65 HPUX/AIX update,19433,Kurt Hornik
+019456.html,0.65 HPUX/AIX update,19456,Kurt Hornik
+019461.html,round(numeric(0)) (PR#235),19461,Kurt Hornik
+019396.html,time series in R,19396,Ross Ihaka
+019399.html,time series in R,19399,Ross Ihaka
+019436.html,Bug in inequalities involving ordered factors (PR#232),19436,Ross Ihaka
+019380.html,dev.print scaling bug? (PR#229),19380,John.Peters@tip.csiro.au
+019421.html,reluctant to read win95 directory (PR#231),19421,John.Peters@tip.csiro.au
+019298.html,Almost succesfull build on AIX,19298,Friedrich Leisch
+019324.html,who submitted ratetables to CRAN?,19324,Friedrich Leisch
+019437.html,ESRI Shapefile reader (help with dlls),19437,Nicholas Lewin-Koh
+019440.html,ESRI Shape reader,19440,Nicholas Lewin-Koh
+019453.html,ESRI shapes --again,19453,Nicholas Lewin-Koh
+019455.html,ESRI Shapefile again,19455,Nicholas Lewin-Koh
+019320.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19320,Thomas Lumley
+019325.html,who submitted ratetables to CRAN?,19325,Thomas Lumley
+019348.html,0.65/AIX,19348,Thomas Lumley
+019307.html,Bad Units Bug in barplot with pictex output device. (PR#220),19307,Martin Maechler
+019308.html,Almost succesfull build on AIX,19308,Martin Maechler
+019309.html,Almost succesfull build on AIX,19309,Martin Maechler
+019318.html,&quot;ld: bfd assertion fail&quot; making eda.so on Linux (Redhat 6.0),19318,Martin Maechler
+019343.html,0.65/AIX,19343,Martin Maechler
+019344.html,0.65/AIX,19344,Martin Maechler
+019345.html,0.65/AIX  -D_XOPEN_SOURCE_EXTENDED,19345,Martin Maechler
+019346.html,Solution: &quot;ld: bfd assertion fail&quot; making eda.so on Linux (Redhat 6.0),19346,Martin Maechler
+019358.html,0.65 &amp;&amp; AIX|HPUX,19358,Martin Maechler
+019360.html,tseries package -- license,19360,Martin Maechler
+019367.html,which() does not handle NAs in named vectors. (PR#226),19367,Martin Maechler
+019372.html,tseries,19372,Martin Maechler
+019375.html,docs: topic &amp;&amp; availability,19375,Martin Maechler
+019393.html,tseries,19393,Martin Maechler
+019408.html,time series in R,19408,Martin Maechler
+019418.html,tensor() function and sets,19418,Martin Maechler
+019419.html,tensor() function and sets,19419,Martin Maechler
+019428.html,"lapply( *, names) -- bug ?!",19428,Martin Maechler
+019430.html,"lapply( *, names) -- bug ?!",19430,Martin Maechler
+019441.html,ESRI Shape reader,19441,Guido Masarotto
+019423.html,reluctant to read win95 directory (PR#231),19423,John Peters
+019431.html,reluctant to read win95 directory (PR#231),19431,John Peters
+019383.html,R-0.64.2 ssize_t not defined in src/unix/sock.h,19383,Johann Petrak
+019285.html,segfault on Sparc Linux (RH6.0),19285,Martyn Plummer
+019287.html,"Bug in &quot;[.ts&quot; for multivariate ts {Problem with plot.ts, &quot;[&quot;",19287,Martyn Plummer
+019335.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19335,Martyn Plummer
+019368.html,[R] R: ts - objects (PR#228),19368,Martyn Plummer
+019373.html,tseries,19373,Martyn Plummer
+019374.html,tseries,19374,Martyn Plummer
+019406.html,time series in R,19406,Martyn Plummer
+019407.html,time series in R,19407,Martyn Plummer
+019412.html,time series in R,19412,Martyn Plummer
+019425.html,tensor() function and sets,19425,Martyn Plummer
+019426.html,time series in R,19426,Martyn Plummer
+019410.html,time series in R,19410,Prof Brian Ripley
+019329.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19329,Prof Brian D Ripley
+019371.html,tseries,19371,Prof Brian D Ripley
+019379.html,``the real'' time series package,19379,Prof Brian D Ripley
+019389.html,vector(),19389,Prof Brian D Ripley
+019394.html,time series in R,19394,Prof Brian D Ripley
+019398.html,time series in R,19398,Prof Brian D Ripley
+019402.html,time series in R,19402,Prof Brian D Ripley
+019403.html,R 0.65 and AIX: if it quacks like a duck...,19403,Prof Brian D Ripley
+019424.html,reluctant to read win95 directory (PR#231),19424,Prof Brian D Ripley
+019429.html,"lapply( *, names) -- bug ?!",19429,Prof Brian D Ripley
+019442.html,Memory profiling/benchmarking,19442,Prof Brian D Ripley
+019443.html,ESRI Shape reader,19443,Prof Brian D Ripley
+019444.html,Preliminary version of ts package,19444,Prof Brian D Ripley
+019447.html,Preliminary version of ts package,19447,Prof Brian D Ripley
+019449.html,Preliminary version of ts package,19449,Prof Brian D Ripley
+019452.html,Retaining comments when using `example',19452,Prof Brian D Ripley
+019454.html,ESRI shapes --again,19454,Prof Brian D Ripley
+019459.html,Preliminary version of ts package,19459,Prof Brian D Ripley
+019462.html,round(numeric(0)) (PR#235),19462,Prof Brian D Ripley
+019382.html,vector(),19382,Jonathan Rougier
+019413.html,tensor() function and sets,19413,Jonathan Rougier
+019420.html,tensor() function and sets,19420,Jonathan Rougier
+019427.html,tensor() function and sets,19427,Jonathan Rougier
+019282.html,"Problem with plot.ts, &quot;[&quot;",19282,Adrian Trapletti
+019289.html,"Problem with plot.ts, &quot;[&quot;",19289,Adrian Trapletti
+019364.html,tseries package -- license,19364,Adrian Trapletti
+019369.html,tseries,19369,Adrian Trapletti
+019404.html,time series in R,19404,Adrian Trapletti
+019405.html,time series in R,19405,Adrian Trapletti
+019411.html,time series in R,19411,Adrian Trapletti
+019388.html,vector(),19388,"Venables, Bill (CMIS, Cleveland)"
+019302.html,Almost succesfull build on AIX,19302,Thomas Vogels
+019314.html,Almost succesfull build on AIX,19314,Thomas Vogels
+019323.html,Almost succesfull build on AIX,19323,Thomas Vogels
+019347.html,0.65/AIX,19347,Thomas Vogels
+019400.html,0.65/AIX,19400,Thomas Vogels
+019401.html,R 0.65 and AIX: if it quacks like a duck...,19401,Thomas Vogels
+019414.html,0.65/AIX,19414,Thomas Vogels
+019415.html,R 0.65 and AIX: if it quacks like a duck...,19415,Thomas Vogels
+019434.html,0.65 HPUX/AIX update,19434,Thomas Vogels
+019319.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19319,bates@stat.wisc.edu
+019386.html,"Use of lwd = 0, lty = 2 in segments. (PR#230)",19386,bates@stat.wisc.edu
+019435.html,Bug in inequalities involving ordered factors (PR#232),19435,john.maindonald@anu.edu.au
+019438.html,deviance.lm() should calculate a weighted SS of residuals (PR#233),19438,john.maindonald@anu.edu.au
+019296.html,Bug on sample (PR#218),19296,jperez@cesma.usb.ve
+019295.html,Bug on sample (PR#219),19295,jperez@cesma.usb.ve
+019305.html,Bad Units Bug in barplot with pictex output device. (PR#220),19305,kriszti@a2a00996.direct.bconnected.net
+019283.html,"Bug in &quot;[.ts&quot; for multivariate ts {Problem with plot.ts, &quot;[&quot;} (PR#216)",19283,maechler@stat.math.ethz.ch
+019392.html,summary.default &amp; is.recursive (PR#221),19392,maechler@stat.math.ethz.ch
+019312.html,summary.default &amp; is.recursive (PR#221),19312,p.dalgaard@biostat.ku.dk
+019366.html,[R] R: ts - objects (PR#228),19366,p.dalgaard@biostat.ku.dk
+019286.html,"Bug in &quot;[.ts&quot; for multivariate ts {Problem with plot.ts, &quot;[&quot; (PR#217)",19286,plummer@iarc.fr
+019326.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19326,ripley@stats.ox.ac.uk
+019327.html,core dump on 0.64.2 SPARC/Solaris 2.6 in eigen (PR#223),19327,ripley@stats.ox.ac.uk
+019341.html,glm code bug (PR#224),19341,ripley@stats.ox.ac.uk
+019363.html,which() does not handle NAs in named vectors. (PR#226),19363,ripley@stats.ox.ac.uk
+019365.html,.Last is usually not called (PR#227),19365,ripley@stats.ox.ac.uk
+019432.html,reluctant to read win95 directory (PR#231),19432,ripley@stats.ox.ac.uk
+019460.html,round(numeric(0)) (PR#235),19460,ripley@stats.ox.ac.uk
+019362.html,pch and mkh bug PR#225,19362,s-harker@adfa.edu.au

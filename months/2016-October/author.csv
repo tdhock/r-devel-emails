@@ -1,0 +1,118 @@
+link,Subject,id,author
+073302.html,[Rd] typo or stale info in qr man,73302,Wojciech Musial (Voitek)
+073260.html,"[Rd] optim(&#8230;?=, =?utf-8?Q?method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73260,Avraham Adler
+073248.html,[Rd] 'max' on mixed numeric and character arguments,73248,Suharto Anggono Suharto Anggono
+073329.html,[Rd] lapply on long vector fails,73329,Suharto Anggono Suharto Anggono
+073278.html,"[Rd] Cluster: Various GCC, how important is consistency?",73278,Gabriel Becker
+073218.html,"[Rd] socketSelect(..., timeout): non-integer timeouts in (0, 2) (?) equal infinite timeout on Linux - weird",73218,Henrik Bengtsson
+073245.html,[Rd] parallel: Memory improvement to PSOCK clusters (PATCH),73245,Henrik Bengtsson
+073263.html,[Rd] How to assign NULL value to pairlist element while keeping it	a pairlist?,73263,Henrik Bengtsson
+073266.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73266,Henrik Bengtsson
+073283.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73283,Henrik Bengtsson
+073285.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73285,Henrik Bengtsson
+073309.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73309,Henrik Bengtsson
+073318.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73318,Henrik Bengtsson
+073331.html,[Rd] closeAllConnections() can really mess things up,73331,Henrik Bengtsson
+073332.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73332,Henrik Bengtsson
+073261.html,[Rd] PKG_LIBS in make child processes,73261,Ulrich Bodenhofer
+073303.html,[Rd] ACM license link broken,73303,Ben Bolker
+073321.html,[Rd] using with inside loop breaks next,73321,Richard Cotton
+073322.html,[Rd] improve 'package not installed' load errors?,73322,Richard Cotton
+073333.html,[Rd] S3 dispatch for primitive generics,73333,Richard Cotton
+073323.html,[Rd] using with inside loop breaks next,73323,Peter Dalgaard
+073239.html,[Rd] suggested addition to model.matrix,73239,William Dunlap
+073240.html,[Rd] error handling in strcapture,73240,William Dunlap
+073242.html,[Rd] error handling in strcapture,73242,William Dunlap
+073289.html,[Rd] anonymous function parsing bug?,73289,William Dunlap
+073292.html,[Rd] anonymous function parsing bug?,73292,William Dunlap
+073294.html,[Rd] anonymous function parsing bug?,73294,William Dunlap
+073225.html,[Rd] On implementing zero-overhead code reuse,73225,Dirk Eddelbuettel
+073232.html,[Rd] On implementing zero-overhead code reuse,73232,Dirk Eddelbuettel
+073272.html,[Rd] compile c++ code in an R package without -g,73272,Dirk Eddelbuettel
+073274.html,[Rd] compile c++ code in an R package without -g,73274,Dirk Eddelbuettel
+073280.html,[Rd] weird dir() behavior with broken symlinks,73280,Karl Forner
+073281.html,[Rd] weird dir() behavior with broken symlinks,73281,Karl Forner
+073236.html,[Rd] suggested addition to model.matrix,73236,"Fox, John"
+073300.html,[Rd] improve 'package not installed' load errors?,73300,"Fox, John"
+073235.html,[Rd] suggested addition to model.matrix,73235,Spencer Graves
+073249.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73249,Spencer Graves
+073251.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73251,Spencer Graves
+073253.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73253,Spencer Graves
+073256.html,"[Rd] optim(?, method=?L-BFGS-B?) stops with an error",73256,Spencer Graves
+073310.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73310,Spencer Graves
+073320.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73320,Spencer Graves
+073228.html,[Rd] On implementing zero-overhead code reuse,73228,Gabor Grothendieck
+073259.html,[Rd] Bug/Inconsistency in merge() with all.x when first nonmatching column in y is matrix,73259,Russ Hamilton
+073229.html,[Rd] On implementing zero-overhead code reuse,73229,Kasper Daniel Hansen
+073313.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout	error when it occurs (works on Windows),73313,Berend Hasselman
+073276.html,"[Rd] Cluster: Various GCC, how important is consistency?",73276,Paul Johnson
+073282.html,"[Rd] Cluster: Various GCC, how important is consistency?",73282,Paul Johnson
+073220.html,[Rd] On implementing zero-overhead code reuse,73220,Kynn Jones
+073223.html,[Rd] On implementing zero-overhead code reuse,73223,Kynn Jones
+073224.html,[Rd] On implementing zero-overhead code reuse,73224,Kynn Jones
+073231.html,[Rd] On implementing zero-overhead code reuse,73231,Kynn Jones
+073234.html,[Rd] On implementing zero-overhead code reuse,73234,Kynn Jones
+073243.html,[Rd] On implementing zero-overhead code reuse,73243,Kynn Jones
+073226.html,[Rd] library() asks user to accept license of some built-in	packages,73226,Mikko Korpela
+073316.html,[Rd] A few typos in config.site,73316,Mikko Korpela
+073241.html,[Rd] error handling in strcapture,73241,Michael Lawrence
+073244.html,[Rd] error handling in strcapture,73244,Michael Lawrence
+073264.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73264,Michael Lawrence
+073265.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73265,Michael Lawrence
+073267.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73267,Michael Lawrence
+073252.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73252,Mark Leeds
+073254.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73254,Mark Leeds
+073258.html,"[Rd] optim(&#8230;?=, =?utf-8?Q?method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73258,Martin Maechler
+073268.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73268,Martin Maechler
+073304.html,[Rd] typo or stale info in qr man,73304,Martin Maechler
+073305.html,[Rd] ACM license link broken,73305,Martin Maechler
+073311.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73311,Martin Maechler
+073314.html,[Rd] improve 'package not installed' load errors?,73314,Martin Maechler
+073233.html,[Rd] On implementing zero-overhead code reuse,73233,Martin Morgan
+073247.html,[Rd] unzip does not like a / at the end of path.,73247,Duncan Murdoch
+073270.html,[Rd] Inconsistent behavior of summary,73270,Duncan Murdoch
+073301.html,[Rd] improve 'package not installed' load errors?,73301,Duncan Murdoch
+073315.html,[Rd] improve 'package not installed' load errors?,73315,Duncan Murdoch
+073325.html,[Rd] enhancement to R CMD check: do imported objects from multiple packages mask each other?,73325,Duncan Murdoch
+073328.html,[Rd] enhancement to R CMD check: do imported objects from multiple packages mask each other?,73328,Duncan Murdoch
+073306.html,[Rd] typo or stale info in qr man,73306,Jari Oksanen
+073279.html,"[Rd] Cluster: Various GCC, how important is consistency?",73279,Jeroen Ooms
+073297.html,[Rd] Support for signing R packages with GPG,73297,Jeroen Ooms
+073326.html,[Rd] enhancement to R CMD check: do imported objects from multiple packages mask each other?,73326,Herv&#233; Pag&#232;s
+073221.html,[Rd] grep,73221,Pi
+073308.html,[Rd] Support for signing R packages with GPG,73308,Martyn Plummer
+073255.html,"[Rd] optim(?, method=?L-BFGS-B?) stops with an error",73255,ProfJCNash
+073219.html,[Rd] library() asks user to accept license of some built-in packages,73219,Prof Brian Ripley
+073230.html,[Rd] grep,73230,Prof Brian Ripley
+073298.html,[Rd] Support for signing R packages with GPG,73298,Bob Rudis
+073237.html,[Rd] On implementing zero-overhead code reuse,73237,Konrad Rudolph
+073287.html,[Rd] anonymous function parsing bug?,73287,Wilm Schumacher
+073288.html,[Rd] anonymous function parsing bug?,73288,Wilm Schumacher
+073290.html,[Rd] anonymous function parsing bug?,73290,Wilm Schumacher
+073293.html,[Rd] anonymous function parsing bug?,73293,Wilm Schumacher
+073275.html,[Rd] compile c++ code in an R package without -g,73275,Simon
+073262.html,[Rd] integerOneIndex/get1index/... in vector access error messages,73262,Lukas Stadler
+073277.html,"[Rd] Cluster: Various GCC, how important is consistency?",73277,Simon Urbanek
+073299.html,[Rd] improve 'package not installed' load errors?,73299,Kevin Ushey
+073250.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73250,Ravi Varadhan
+073257.html,"[Rd] optim(&#8230;, method=&#8216;L-BFGS-B&#8217;) stops with an error message while violating the lower bound",73257,Ravi Varadhan
+073324.html,[Rd] enhancement to R CMD check: do imported objects from multiple packages mask each other?,73324,Steffen Wagner
+073286.html,[Rd] Package install problem in R-devel under Windows,73286,Henric Winell
+073246.html,[Rd] unzip does not like a / at the end of path.,73246,Witold E Wolski
+073271.html,[Rd] compile c++ code in an R package without -g,73271,Da Zheng
+073273.html,[Rd] compile c++ code in an R package without -g,73273,Da Zheng
+073269.html,[Rd] Inconsistent behavior of summary,73269,Kaiyin Zhong
+073295.html,[Rd] anonymous function parsing bug?,73295,peter dalgaard
+073307.html,[Rd] typo or stale info in qr man,73307,peter dalgaard
+073312.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout	error when it occurs (works on Windows),73312,peter dalgaard
+073319.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout	error when it occurs (works on Windows),73319,peter dalgaard
+073222.html,[Rd] On implementing zero-overhead code reuse,73222,frederik at ofb.net
+073227.html,[Rd] On implementing zero-overhead code reuse,73227,frederik at ofb.net
+073284.html,[Rd] How to assign NULL value to pairlist element while keeping it a pairlist?,73284,luke-tierney at uiowa.edu
+073291.html,[Rd] anonymous function parsing bug?,73291,luke-tierney at uiowa.edu
+073296.html,[Rd] anonymous function parsing bug?,73296,luke-tierney at uiowa.edu
+073317.html,[Rd] improve 'package not installed' load errors?,73317,luke-tierney at uiowa.edu
+073327.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73327,luke-tierney at uiowa.edu
+073330.html,[Rd] lapply on long vector fails,73330,luke-tierney at uiowa.edu
+073334.html,[Rd] BUG?: On Linux setTimeLimit() fails to propagate timeout error when it occurs (works on Windows),73334,luke-tierney at uiowa.edu
+073238.html,[Rd] On implementing zero-overhead code reuse,73238,elijah wright

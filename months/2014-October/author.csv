@@ -1,0 +1,146 @@
+link,Subject,id,author
+069950.html,[Rd]  How can I use R-function in My C++ project ? (using optim),69950,Prof J C Nash (U30A)
+069937.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69937,Gabriel Becker
+069965.html,[Rd] Error: Line starting 'Package: tools ...' is malformed!,69965,Mike Beddo
+069967.html,[Rd] AIX build R-3.1.1 Matrix package fails,69967,Mike Beddo
+070000.html,[Rd] Trouble installing Rcpp on AIX - missing &quot;execinfo.h&quot;,70000,Mike Beddo
+069866.html,[Rd] Shallow copies,69866,Henrik Bengtsson
+069883.html,[Rd] Any penalty for using gzfile() in place of file() for reading?,69883,Henrik Bengtsson
+069959.html,[Rd] No error when assigning values to an &quot;empty&quot;	vector/matrix/array,69959,Henrik Bengtsson
+069961.html,[Rd] No error when assigning values to an &quot;empty&quot;	vector/matrix/array,69961,Henrik Bengtsson
+069974.html,[Rd] proper use of reg.finalizer to close connections,69974,Henrik Bengtsson
+069978.html,[Rd] proper use of reg.finalizer to close connections,69978,Henrik Bengtsson
+069979.html,[Rd] OSX Yosemite (10.10): Are package binaries the same as for OSX Mavericks (10.9)?,69979,Henrik Bengtsson
+069982.html,[Rd] OSX Yosemite (10.10): Are package binaries the same as for OSX Mavericks (10.9)?,69982,Henrik Bengtsson
+069990.html,[Rd] OSX Yosemite (10.10): Are package binaries the same as for OSX Mavericks (10.9)?,69990,Henrik Bengtsson
+069997.html,[Rd] Milestone: 6000 packages on CRAN,69997,Henrik Bengtsson
+069929.html,[Rd] Advice on package design for handling of dots in a formula,69929,Charles Berry
+069935.html,[Rd] model.matrix metadata,69935,Charles Berry
+069962.html,[Rd] package checking apparently ok but R-forge version does not	build,69962,Enrico Bibbona
+069945.html,[Rd] Writing UTF8 on Windows,69945,Milan Bouchet-Valat
+069992.html,[Rd] Unexpected behavior of identical() with language objects,69992,Winston Chang
+069996.html,[Rd] Unexpected behavior of identical() with language objects,69996,Winston Chang
+069888.html,[Rd] mpi.h errors on Mavericks packages,69888,Wei-Chen Chen
+069970.html,[Rd] proper use of reg.finalizer to close connections,69970,G&#225;bor Cs&#225;rdi
+069972.html,[Rd] proper use of reg.finalizer to close connections,69972,G&#225;bor Cs&#225;rdi
+069903.html,[Rd] [R logs] Help in develop a simply logs package,69903,Gergely Dar&#243;czi
+069908.html,[Rd] [R logs] Help in develop a simply logs package,69908,Gergely Dar&#243;czi
+069917.html,[Rd] Open Software License v. 3.0,69917,Gergely Dar&#243;czi
+069911.html,[Rd] [R logs] Help in develop a simply logs package,69911,William Dunlap
+069938.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69938,William Dunlap
+069939.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69939,William Dunlap
+069941.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69941,William Dunlap
+069928.html,[Rd] Advice on package design for handling of dots in a formula,69928,S Ellison
+069963.html,[Rd] No error when assigning values to an	&quot;empty&quot;	vector/matrix/array,69963,S Ellison
+069964.html,[Rd] package checking apparently ok but R-forge version does not	build,69964,S Ellison
+069892.html,[Rd] Using Rtools with gcc 4.8.3,69892,Romain Fran&#231;ois
+069893.html,[Rd] Using Rtools with gcc 4.8.3,69893,Romain Fran&#231;ois
+070001.html,[Rd] 'library' or 'require' call not declared from: 'rgl',70001,Michael Friendly
+070003.html,[Rd] 'library' or 'require' call not declared from: 'rgl',70003,Michael Friendly
+069884.html,[Rd] mpi.h errors on Mavericks packages,69884,Daniel Fuka
+069891.html,[Rd] Using Rtools with gcc 4.8.3,69891,Gabor Grothendieck
+069870.html,[Rd] gsl package on mavericks,69870,Kasper Daniel Hansen
+069873.html,[Rd] debuggingState() analogous to tracingState() ?,69873,Richard M. Heiberger
+069915.html,[Rd] RCMD SHLIB problem in 64 bits,69915,Qiao Kang
+069932.html,[Rd] Holding a large number of SEXPs in C++,69932,Simon Knapp
+069919.html,[Rd] Turn warnings or notes into errors on CMD check ?,69919,Scott Kostyshak
+069922.html,[Rd] Is this an incorrect use of the R-API?,69922,Duncan Temple Lang
+070004.html,[Rd] RFC: is.whole() ? {&quot;how to judge if a variable is an	integer&quot;},70004,Michel Lang
+069914.html,[Rd] [R logs] Help in develop a simply logs package,69914,Thomas J. Leeper
+069890.html,[Rd] Using Rtools with gcc 4.8.3,69890,Uwe Ligges
+069880.html,[Rd] How I() works in a formula,69880,"Lorenz, David"
+069994.html,[Rd] Unexpected behavior of identical() with language objects,69994,"Lorenz, David"
+069871.html,[Rd] debuggingState() analogous to tracingState() ?,69871,Martin Maechler
+069909.html,[Rd] AIX-5.3 Issue installing Matrix Package,69909,Martin Maechler
+069924.html,[Rd] debuggingState() analogous to tracingState() ?,69924,Martin Maechler
+069985.html,[Rd] RFC: is.whole() ? {&quot;how to judge if a variable is an integer&quot;},69985,Martin Maechler
+069988.html,[Rd] is.whole(),69988,Martin Maechler
+069875.html,[Rd] debuggingState() analogous to tracingState() ?,69875,Jonathan McPherson
+069878.html,[Rd] How I() works in a formula,69878,Joris Meys
+069881.html,[Rd] How I() works in a formula,69881,Joris Meys
+069936.html,[Rd] Most efficient way to check the length of a variable mentioned	in a formula.,69936,Joris Meys
+069940.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69940,Joris Meys
+069943.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69943,Joris Meys
+069947.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69947,Joris Meys
+069931.html,[Rd] Making parent.env&lt;- an error for package namespaces and	package imports,69931,Karl Millar
+069885.html,[Rd] mpi.h errors on Mavericks packages,69885,Martin Morgan
+069886.html,[Rd] mpi.h errors on Mavericks packages,69886,Martin Morgan
+069874.html,[Rd] debuggingState() analogous to tracingState() ?,69874,Duncan Murdoch
+069894.html,[Rd] Using Rtools with gcc 4.8.3,69894,Duncan Murdoch
+069901.html,[Rd] [R logs] Help in develop a simply logs package,69901,Duncan Murdoch
+069904.html,[Rd] [R logs] Help in develop a simply logs package,69904,Duncan Murdoch
+069906.html,[Rd] [R logs] Help in develop a simply logs package,69906,Duncan Murdoch
+069910.html,[Rd] [R logs] Help in develop a simply logs package,69910,Duncan Murdoch
+069916.html,[Rd] RCMD SHLIB problem in 64 bits,69916,Duncan Murdoch
+069946.html,[Rd] Most efficient way to check the length of a variable mentioned in a formula.,69946,Duncan Murdoch
+069949.html,[Rd] How can I use R-function in My C++ project ?,69949,Duncan Murdoch
+069968.html,[Rd] Error: Line starting 'Package: tools ...' is malformed!,69968,Duncan Murdoch
+069986.html,[Rd] RFC: is.whole() ? {&quot;how to judge if a variable is an	integer&quot;},69986,Duncan Murdoch
+069999.html,[Rd] Unexpected behavior of identical() with language objects,69999,Duncan Murdoch
+070006.html,[Rd] DIY Rtools?,70006,Duncan Murdoch
+069872.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69872,Ei-ji Nakama
+069912.html,[Rd] AIX-5.3 Issue installing Matrix Package,69912,Ei-ji Nakama
+069926.html,[Rd] [Fwd: Re: AIX-5.3 Issue installing Matrix Package],69926,Ei-ji Nakama
+069953.html,[Rd] Using a custom memory allocation function in R,69953,Ei-ji Nakama
+069933.html,[Rd] model.matrix metadata,69933,Patrick O'Reilly
+069991.html,[Rd] terms function bug?,69991,Patrick O'Reilly
+069889.html,[Rd] Using Rtools with gcc 4.8.3,69889,Jeroen Ooms
+069895.html,[Rd] Using Rtools with gcc 4.8.3,69895,Jeroen Ooms
+069944.html,[Rd] Writing UTF8 on Windows,69944,Jeroen Ooms
+070010.html,[Rd] ScalarLogical and setAttrib,70010,Jeroen Ooms
+069952.html,[Rd] &quot;make check&quot; fails on lapack.R and stats-Ex.R,69952,"Pacey, Mike"
+069954.html,[Rd] &quot;make check&quot; fails on lapack.R and stats-Ex.R,69954,"Pacey, Mike"
+069957.html,[Rd] &quot;make check&quot; fails on lapack.R and stats-Ex.R,69957,"Pacey, Mike"
+069960.html,[Rd] No error when assigning values to an &quot;empty&quot;	vector/matrix/array,69960,Herv&#233; Pag&#232;s
+069966.html,[Rd] No error when assigning values to an	&quot;empty&quot;	vector/matrix/array,69966,Herv&#233; Pag&#232;s
+069956.html,[Rd] &quot;make check&quot; fails on lapack.R and stats-Ex.R,69956,Martyn Plummer
+070008.html,[Rd] 'library' or 'require' call not declared from: 'rgl',70008,Martyn Plummer
+069927.html,[Rd] Advice on package design for handling of dots in a formula,69927,Greg Ridgeway
+069955.html,[Rd] &quot;make check&quot; fails on lapack.R and stats-Ex.R,69955,Prof Brian Ripley
+069867.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69867,Barry Rowlingson
+069882.html,[Rd] Intel Fortran compiler returns a -1 TRUE value,69882,Barry Rowlingson
+069989.html,[Rd] is.whole(),69989,Greg Snow
+069897.html,[Rd] S4 Method Dispatch for Class Defined as Attribute,69897,Dario Strbenac
+069900.html,[Rd] [R logs] Help in develop a simply logs package,69900,DataK - B. THIEURMEL
+069902.html,[Rd] [R logs] Help in develop a simply logs package,69902,DataK - B. THIEURMEL
+069905.html,[Rd] [R logs] Help in develop a simply logs package,69905,DataK - B. THIEURMEL
+069907.html,[Rd] [R logs] Help in develop a simply logs package,69907,DataK - B. THIEURMEL
+069969.html,[Rd] proper use of reg.finalizer to close connections,69969,Murat Tasan
+069971.html,[Rd] proper use of reg.finalizer to close connections,69971,Murat Tasan
+069973.html,[Rd] proper use of reg.finalizer to close connections,69973,Murat Tasan
+069975.html,[Rd] proper use of reg.finalizer to close connections,69975,Murat Tasan
+069977.html,[Rd] proper use of reg.finalizer to close connections,69977,Murat Tasan
+069984.html,[Rd] proper use of reg.finalizer to close connections,69984,Murat Tasan
+069898.html,[Rd] S4 Method Dispatch for Class Defined as Attribute,69898,Sven E. Templer
+069980.html,[Rd] OSX Yosemite (10.10): Are package binaries the same as for OSX Mavericks (10.9)?,69980,Dan Tenenbaum
+069981.html,[Rd] OSX Yosemite (10.10): Are package binaries the same as for OSX Mavericks (10.9)?,69981,Dan Tenenbaum
+069983.html,[Rd] OSX Yosemite (10.10): Are package binaries the same as for OSX Mavericks (10.9)?,69983,Dan Tenenbaum
+070009.html,[Rd] proposed: minor change to error message,70009,Dan Tenenbaum
+069930.html,[Rd] Advice on package design for handling of dots in a formula,69930,"Therneau, Terry M., Ph.D."
+069987.html,[Rd] is.whole(),69987,"Therneau, Terry M., Ph.D."
+069942.html,[Rd] Making parent.env&lt;- an error for package namespaces	and	package imports,69942,"Tierney, Luke"
+069993.html,[Rd] Unexpected behavior of identical() with language objects,69993,Joshua Ulrich
+069921.html,[Rd] Is this an incorrect use of the R-API?,69921,Utkarsh Upadhyay
+069976.html,[Rd] Calling the original function after tweaking arguments is an incorrect use of the R-API?,69976,Utkarsh Upadhyay
+069868.html,[Rd] Shallow copies,69868,Simon Urbanek
+069887.html,[Rd] mpi.h errors on Mavericks packages,69887,Simon Urbanek
+069923.html,[Rd] [R logs] Help in develop a simply logs package,69923,Simon Urbanek
+069934.html,[Rd] Holding a large number of SEXPs in C++,69934,Simon Urbanek
+069958.html,[Rd] Using a custom memory allocation function in R,69958,Simon Urbanek
+070002.html,[Rd] 'library' or 'require' call not declared from: 'rgl',70002,Simon Urbanek
+069951.html,[Rd] Using a custom memory allocation function in R,69951,SO User
+069876.html,[Rd] debuggingState() analogous to tracingState() ?,69876,Stephan Wahlbrink
+069920.html,[Rd] Turn warnings or notes into errors on CMD check ?,69920,Hadley Wickham
+069995.html,[Rd] Unexpected behavior of identical() with language objects,69995,Hadley Wickham
+069877.html,[Rd] debuggingState() analogous to tracingState() ?,69877,Mark.Bravington at csiro.au
+069998.html,[Rd] Unexpected behavior of identical() with language objects,69998,Mark.Bravington at csiro.au
+069879.html,[Rd] How I() works in a formula,69879,peter dalgaard
+069896.html,[Rd] R 3.1.2 planned for Oct 31,69896,peter dalgaard
+069869.html,[Rd] gsl package on mavericks,69869,robin hankin
+069918.html,[Rd] can someone help me understand LAM/MPI and Rmpi for use on a cluster,69918,izmirlig
+070005.html,[Rd] DIY Rtools?,70005,kaveh
+070007.html,[Rd] DIY Rtools?,70007,kaveh
+069899.html,[Rd] Issue installing Matrix Package,69899,shivali at ncmrwf.gov.in
+069913.html,[Rd] AIX-5.3 Issue installing Matrix Package,69913,shivali at ncmrwf.gov.in
+069925.html,[Rd] [Fwd: Re:  AIX-5.3 Issue installing Matrix Package],69925,shivali at ncmrwf.gov.in
+069948.html,[Rd] How can I use R-function in My C++ project ?,69948,&#40644;&#21338;

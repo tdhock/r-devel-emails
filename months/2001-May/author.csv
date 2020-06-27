@@ -1,0 +1,154 @@
+link,Subject,id,author
+022483.html,[Rd] scoping error in xy.coords (PR#932),22483,Peter Dalgaard BSA
+022487.html,[Rd] Bug list summary (automatic post),22487,Peter Dalgaard BSA
+022499.html,[Rd] Re: PR#929 and [R] matrix: suspected integer overflow,22499,Peter Dalgaard BSA
+022519.html,[Rd] Mistake in qbeta.c ? (PR#941),22519,Peter Dalgaard BSA
+022524.html,[Rd] Strange formatting,22524,Peter Dalgaard BSA
+022529.html,[Rd] Double inclusion of Runix.h,22529,Peter Dalgaard BSA
+022538.html,[Rd] Bug list summary (automatic post),22538,Peter Dalgaard BSA
+022543.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22543,Peter Dalgaard BSA
+022551.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22551,Peter Dalgaard BSA
+022562.html,"[Rd] xyplot,grid.text segfault (PR#948)",22562,Peter Dalgaard BSA
+022564.html,"[Rd] xyplot,grid.text segfault (PR#948)",22564,Peter Dalgaard BSA
+022576.html,[Rd] memory bug in is.na[n]() (PR#952),22576,Peter Dalgaard BSA
+022585.html,[Rd] unbelievable parser bug (PR#956),22585,Peter Dalgaard BSA
+022589.html,[Rd] deriv (PR#953),22589,Peter Dalgaard BSA
+022591.html,[Rd] deriv (PR#953),22591,Peter Dalgaard BSA
+022601.html,[Rd] zero-extent matrices (PR#958),22601,Peter Dalgaard BSA
+022616.html,[Rd] documentation for image(): zlim update (PR#962),22616,Peter Dalgaard BSA
+022617.html,[Rd] R-1.2.3: a small suggestion (PR#961),22617,Peter Dalgaard BSA
+022486.html,[Rd] read.xport bug of foreign pkg (PR#933),22486,Douglas Bates
+022604.html,[Rd] new book,22604,Bill.Venables@CMIS.CSIRO.AU
+022509.html,[Rd] Dynamic C Symbols and Embedding Suggestion,22509,Byron Ellis
+022512.html,[Rd] Dynamic C Symbols and Embedding Suggestion,22512,Byron Ellis
+022559.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22559,Byron Ellis
+022476.html,[Rd] subdirs in package src dir,22476,Albrecht Gebhardt
+022478.html,[Rd] subdirs in package src dir,22478,Albrecht Gebhardt
+022480.html,[Rd] subdirs in package src dir,22480,Albrecht Gebhardt
+022507.html,[Rd] Re: [R] R for ARM Linux (moved from r-help to r-devel),22507,Albrecht Gebhardt
+022540.html,[Rd] Job announcement,22540,Robert Gentleman
+022592.html,[Rd] new book,22592,Robert Gentleman
+022595.html,[Rd] new book,22595,Robert Gentleman
+022494.html,[Rd] Package overview document?,22494,Paul Gilbert
+022500.html,[Rd] Package overview document?,22500,Paul Gilbert
+022513.html,[Rd] truncate,22513,Paul Gilbert
+022515.html,[Rd] truncate,22515,Paul Gilbert
+022518.html,[Rd] truncate,22518,Paul Gilbert
+022521.html,[Rd] truncate,22521,Paul Gilbert
+022533.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22533,Paul Gilbert
+022539.html,[Rd] qr.qty call to  &quot;dqrqty&quot;,22539,Paul Gilbert
+022548.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22548,Paul Gilbert
+022557.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22557,Paul Gilbert
+022600.html,[Rd] perl 5.6.0,22600,Paul Gilbert
+022528.html,[Rd] Double inclusion of Runix.h,22528,Thomas Hoffmann
+022468.html,[Rd] Re: [R] Re: two new packages,22468,Kurt Hornik
+022489.html,[Rd] Rnews 2001/2,22489,Kurt Hornik
+022496.html,[Rd] Package overview document?,22496,Kurt Hornik
+022508.html,[Rd] ks.test in ctest package (PR#934),22508,Kurt Hornik
+022560.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22560,Kurt Hornik
+022527.html,[Rd] Strange formatting,22527,Ross Ihaka
+022607.html,[Rd] format() of a character matrix converts to vector (PR#960),22607,John.Peters@tip.csiro.au
+022511.html,[Rd] Dynamic C Symbols and Embedding Suggestion,22511,Duncan Temple Lang
+022587.html,[Rd] unbelievable parser bug (PR#956),22587,Jan de Leeuw
+022497.html,[Rd] Re: Windows binary directory,22497,Friedrich Leisch
+022583.html,[Rd] unbelievable parser bug (PR#956),22583,Friedrich Leisch
+022482.html,[Rd] scoping error in xy.coords (PR#932),22482,Thomas Lumley
+022484.html,[Rd] scoping error in xy.coords (PR#932),22484,Thomas Lumley
+022575.html,[Rd] memory bug in is.na[n]() (PR#952),22575,Thomas Lumley
+022577.html,[Rd] memory bug in is.na[n]() (PR#952),22577,Thomas Lumley
+022581.html,[Rd] argument names in generic print functions (PR#955),22581,Thomas Lumley
+022590.html,[Rd] deriv (PR#953),22590,Thomas Lumley
+022602.html,[Rd] zero-extent matrices (PR#958),22602,Thomas Lumley
+022603.html,[Rd] zero-extent matrices (PR#958),22603,Thomas Lumley
+022474.html,[Rd] (PR#931),22474,MALIKSA@apci.com
+022510.html,[Rd] solve( &lt;complex&gt; ) etc,22510,Martin Maechler
+022530.html,[Rd] Minor documentation issue (PR#942),22530,Martin Maechler
+022531.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22531,Martin Maechler
+022570.html,[Rd] Recent spam -- should we forbid javascript?,22570,Martin Maechler
+022572.html,[Rd] lattice: postscript() false margins (PR#949),22572,Peter Malewski
+022472.html,[Rd] graphics library fltk,22472,Duncan Murdoch
+022493.html,[Rd] Windows binary directory,22493,Duncan Murdoch
+022523.html,[Rd] Strange formatting,22523,Duncan Murdoch
+022526.html,[Rd] Strange formatting,22526,Duncan Murdoch
+022579.html,"[Rd] xyplot,grid.text segfault (PR#948)",22579,Paul Murrell
+022469.html,[Rd] graphics library fltk,22469,Erich Neuwirth
+022568.html,[Rd] Undeclared identifier in make compilation (PR#951),22568,Nick.Guoth@anu.edu.au
+022613.html,[Rd] paper size in postscript driver,22613,Trent Piepho
+022620.html,[Rd] paper size in postscript driver,22620,Trent Piepho
+022593.html,[Rd] new book,22593,Martyn Plummer
+022580.html,[Rd] argument names in generic print functions (PR#955),22580,Richard.Beare@cmis.csiro.au
+022479.html,[Rd] subdirs in package src dir,22479,Prof Brian Ripley
+022506.html,"[Rd] Windows, RCMD INSTALL and path (PR#939)",22506,Prof Brian Ripley
+022514.html,[Rd] truncate,22514,Prof Brian Ripley
+022520.html,[Rd] truncate,22520,Prof Brian Ripley
+022544.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22544,Prof Brian Ripley
+022546.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22546,Prof Brian Ripley
+022549.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22549,Prof Brian Ripley
+022553.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22553,Prof Brian Ripley
+022558.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22558,Prof Brian Ripley
+022471.html,[Rd] graphics library fltk,22471,Prof Brian D Ripley
+022477.html,[Rd] subdirs in package src dir,22477,Prof Brian D Ripley
+022498.html,[Rd] Package overview document?,22498,Prof Brian D Ripley
+022501.html,[Rd] Package overview document?,22501,Prof Brian D Ripley
+022525.html,[Rd] Strange formatting,22525,Prof Brian D Ripley
+022537.html,[Rd] hist() ignores 'probability=T' (PR#944),22537,Prof Brian D Ripley
+022605.html,[Rd] zero-extent matrices (PR#958),22605,Prof Brian D Ripley
+022615.html,[Rd] paper size in postscript driver,22615,Prof Brian D Ripley
+022618.html,[Rd] R-1.2.3: a small suggestion (PR#961),22618,A. J. Rossini
+022470.html,[Rd] graphics library fltk,22470,A.J. Rossini
+022594.html,[Rd] new book,22594,A.J. Rossini
+022596.html,[Rd] new book,22596,A.J. Rossini
+022612.html,[Rd] R-1.2.3: a small suggestion (PR#961),22612,A.J. Rossini
+022534.html,[Rd] New package Oarray,22534,Jonathan Rougier
+022532.html,[Rd] P-value printing in print.summary.lm,22532,Setzer.Woodrow@epamail.epa.gov
+022597.html,[Rd] Rcmd REMOVE does not allow --library argument (PR#957),22597,Setzer.Woodrow@epamail.epa.gov
+022490.html,[Rd] Quick note on R mirror site in Australia,22490,Telford
+022541.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22541,Gregory Warnes
+022542.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22542,"Warnes, Gregory R"
+022550.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22550,"Warnes, Gregory R"
+022556.html,[Rd] New Package: gregmisc,22556,"Warnes, Gregory R"
+022588.html,[Rd] New Package: gregmisc,22588,"Warnes, Gregory R"
+022504.html,[Rd] new package 'strucchange',22504,Achim Zeileis
+022610.html,[Rd] R-1.2.3: a small suggestion (PR#961),22610,beebe@math.utah.edu
+022547.html,RE^2: [Rd] New generic functions in &quot;R base&quot; {was `truncate'},22547,bolker@zoo.ufl.edu
+022567.html,[Rd] New Package: gregmisc,22567,bolker@zoo.ufl.edu
+022505.html,"[Rd] Windows, RCMD INSTALL and path (PR#939)",22505,david.firth@nuf.ox.ac.uk
+022614.html,[Rd] documentation for image(): zlim update (PR#962),22614,eglen@pcg.wustl.edu
+022545.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22545,kjetil halvorsen
+022555.html,[Rd] New generic functions in &quot;R base&quot; {was `truncate'},22555,kjetil halvorsen
+022522.html,[Rd] Minor documentation issue (PR#942),22522,jebacklund@dowagro.com
+022535.html,[Rd] legend() with xpd=T; omission of initial plot character (PR#943),22535,john.maindonald@anu.edu.au
+022536.html,[Rd] hist() ignores 'probability=T' (PR#944),22536,john.maindonald@anu.edu.au
+022485.html,[Rd] read.xport bug of foreign pkg (PR#933),22485,jorvutom@icaro.dic.uchile.cl
+022481.html,[Rd] scoping error in xy.coords (PR#932),22481,kjetilh@umsanet.edu.bo
+022606.html,[Rd] Re: R-WinEdt (PR#959),22606,ligges@statistik.uni-dortmund.de
+022573.html,[Rd] memory bug in is.na[n]() (PR#952),22573,maechler@stat.math.ethz.ch
+022574.html,"[Rd] bugs in deriv(*, *, function.arg = ) (PR#953)",22574,maechler@stat.math.ethz.ch
+022582.html,[Rd] unbelievable parser bug (PR#956),22582,maechler@stat.math.ethz.ch
+022584.html,[Rd] unbelievable parser bug (PR#956),22584,maechler@stat.math.ethz.ch
+022586.html,[Rd] unbelievable parser bug (PR#956),22586,maechler@stat.math.ethz.ch
+022488.html,[Rd] ks.test in ctest package (PR#934),22488,mh.smith@auckland.ac.nz
+022473.html,[Rd] Re: [R] Crazy plots of time-series against dates (PR#930),22473,p.dalgaard@biostat.ku.dk
+022563.html,"[Rd] xyplot,grid.text segfault (PR#948)",22563,p.dalgaard@biostat.ku.dk
+022561.html,"[Rd] xyplot,grid.text segfault (PR#948)",22561,p.malewski@tu-bs.de
+022566.html,[Rd] lattice: postscript() false margins (PR#949),22566,p.malewski@tu-bs.de
+022565.html,[Rd] lattice: dev.print(postscript) gives probl. false background Info (PR#950),22565,p.malewski@tu-bs.de
+022475.html,[Rd] (PR#931),22475,ripley@stats.ox.ac.uk
+022495.html,[Rd] Re: PR#929 and [R] matrix: suspected integer overflow,22495,ripley@stats.ox.ac.uk
+022554.html,"[Rd] Problem with hist(x, prob=T) (PR#947)",22554,ripley@stats.ox.ac.uk
+022571.html,[Rd] Undeclared identifier in make compilation (PR#951),22571,ripley@stats.ox.ac.uk
+022598.html,[Rd] Rcmd REMOVE does not allow --library argument (PR#957),22598,ripley@stats.ox.ac.uk
+022608.html,[Rd] Re: R-WinEdt (PR#959),22608,ripley@stats.ox.ac.uk
+022609.html,[Rd] format() of a character matrix converts to vector (PR#960),22609,ripley@stats.ox.ac.uk
+022611.html,[Rd] R-1.2.3: a small suggestion (PR#961),22611,ripley@stats.ox.ac.uk
+022619.html,[Rd] R-1.2.3: a small suggestion (PR#961),22619,ripley@stats.ox.ac.uk
+022552.html,"[Rd] Problem with hist(x, prob=T) (PR#947)",22552,rpeng@stat.ucla.edu
+022569.html,[Rd] lattice: postscript() false margins (PR#949),22569,Mr deepayan sarkar
+022502.html,[Rd] name creation with index arrays (PR#937),22502,sint@oeaw.ac.at
+022503.html,[Rd] name creation with index arrays (PR#938),22503,sint@oeaw.ac.at
+022516.html,[Rd] GCircle(): fails for non-clippable devices under certain circumstances (see below) (PR#940),22516,thoffman@zappa.sax.de
+022517.html,[Rd] Mistake in qbeta.c ? (PR#941),22517,tlm21@cam.ac.uk
+022578.html,[Rd] deriv (PR#953),22578,tlumley@u.washington.edu
+022599.html,[Rd] zero-extent matrices (PR#958),22599,tlumley@u.washington.edu
+022491.html,[Rd] help.start() fails (PR#935),22491,wb@vestein.arb-phys.uni-dortmund.de
+022492.html,[Rd] help.start() failed (PR#936),22492,wb@vestein.arb-phys.uni-dortmund.de

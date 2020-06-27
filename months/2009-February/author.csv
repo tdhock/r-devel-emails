@@ -1,0 +1,352 @@
+link,Subject,id,author
+052009.html,"[Rd] Arima_Like() and NaN - a (possible) problem, a patch, and RFC",52009,Mauro Andreolini
+052157.html,[Rd] Identifying graphics files produced by R,52157,Liviu Andronic
+052208.html,[Rd] Google Summer of Code 2009,52208,Liviu Andronic
+052172.html,[Rd] allocMatrix error,52172,Hamid Ashafi
+052262.html,[Rd] [SoC09-Info] An IPopt interface for R,52262,Douglas Bates
+052266.html,[Rd] R tutorial,52266,Douglas Bates
+052273.html,[Rd] [SoC09-Info] An IPopt interface for R,52273,Douglas Bates
+052013.html,[Rd] Flag '#' in sprintf() gives an error in R v2.9.0 devel,52013,Henrik Bengtsson
+052116.html,[Rd] proposed simulate.glm method,52116,Ben Bolker
+052118.html,[Rd] proposed simulate.glm method,52118,Ben Bolker
+052147.html,[Rd] Generate random numbers in Fortran,52147,Ben Bolker
+052148.html,[Rd] Generate random numbers in Fortran,52148,Ben Bolker
+052008.html,[Rd] (PR#8192) [ subscripting sometimes loses names,52008,Christian Brechb&#252;hler
+052180.html,[Rd] C basic indentation,52180,G&#246;ran Brostr&#246;m
+052184.html,[Rd] C basic indentation,52184,G&#246;ran Brostr&#246;m
+052339.html,[Rd] R-Google interface: Google summer of code,52339,Farrel Buchinsky
+051999.html,[Rd] Inherited Methods in r-devel (for package maintainers	mainly),51999,John Chambers
+052103.html,[Rd] setClassUnion with numeric; extending class union,52103,John Chambers
+052105.html,[Rd] setClassUnion with numeric; extending class union,52105,John Chambers
+052156.html,[Rd] S4 structure classes and Ops methods,52156,John Chambers
+052169.html,[Rd] Inheriting from &quot;environment&quot; and similar object types,52169,John Chambers
+052108.html,[Rd] how to contribute to r using c and c++,52108,Nakul Chaudhari
+052019.html,[Rd] Capturing all warnings (with messages),52019,Jon Clayden
+052023.html,[Rd] Capturing all warnings (with messages),52023,Jon Clayden
+052027.html,[Rd] Capturing all warnings (with messages),52027,Jon Clayden
+052346.html,[Rd] [Plr-general] R_CHAR + 21 (memory.c:2573) in crash	report...,52346,Joe Conway
+052138.html,[Rd] [PATCH] typo in R-lang,52138,Peter Cowan
+052195.html,[Rd] Inaccurate result for 0. (PR#13538),52195,G&#225;bor Cs&#225;rdi
+052117.html,[Rd] proposed simulate.glm method,52117,Alex D'Amour
+052035.html,[Rd] Bug in the parser (?) (PR#13504),52035,Peter Dalgaard
+052073.html,[Rd] One more note,52073,Peter Dalgaard
+052134.html,[Rd] re ading SPSS .sav files (PR#13509),52134,Peter Dalgaard
+052177.html,[Rd] Update today broke foreign package (PR#13533),52177,Peter Dalgaard
+052255.html,[Rd] Install failure (PR#13545),52255,Peter Dalgaard
+052260.html,[Rd] 'unique' error message is printed despite	silent=TRUE	(PR#13547),52260,Peter Dalgaard
+052318.html,[Rd] invalid comparison in numeric sequence (PR#13551),52318,Peter Dalgaard
+052323.html,[Rd] [R] length 1 offset in glm (&amp; lm),52323,Peter Dalgaard
+052244.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52244,Michael Dewey
+052312.html,[Rd] [R] Semantics of sequences in R,52312,Mark Difford
+052313.html,[Rd] [R] Semantics of sequences in R,52313,Mark Difford
+052340.html,[Rd] R-Google interface: Google summer of code,52340,Adrian Dragulescu
+052028.html,[Rd] Capturing all warnings (with messages),52028,William Dunlap
+052047.html,[Rd] &quot;open-ended&quot; plot limits?,52047,William Dunlap
+052095.html,[Rd] Bug in subsetting data frame (PR#13515),52095,William Dunlap
+052218.html,[Rd] bugfix for nls with port algorithm (PR#13540),52218,William Dunlap
+052256.html,[Rd] R tutorial,52256,Christophe Dutang
+052278.html,[Rd] R tutorial,52278,Christophe Dutang
+052213.html,[Rd] Google Summer of Code 2009,52213,Dirk Eddelbuettel
+052227.html,[Rd] Google Summer of Code 2009,52227,Dirk Eddelbuettel
+052078.html,[Rd] New package test results available,52078,Martin Elff
+052243.html,[Rd] [SoC09-Info] Idea submission.,52243,Manuel J. A. Eugster
+052287.html,[Rd] [R] Semantics of sequences in R,52287,Stefan Evert
+052007.html,[Rd] R.home() of R 2.8.1 Mac OS X is wrong (PR#13494),52007,Andreas Fischlin
+052191.html,"[Rd] interior point methods, automatic differentiation in R",52191,Ian Fiske
+052182.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52182,John Fox
+052189.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52189,John Fox
+052204.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52204,John Fox
+052242.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52242,John Fox
+052111.html,[Rd] Why is srcref of length 6 and not 4 ?,52111,Romain Francois
+052114.html,[Rd] Why is srcref of length 6 and not 4 ?,52114,Romain Francois
+052139.html,[Rd] Identifying graphics files produced by R,52139,Romain Francois
+052062.html,[Rd] Strange behavior of C compiled program,52062,Christophe Genolini
+052067.html,[Rd] Strange behavior of C compiled program,52067,Christophe Genolini
+052079.html,[Rd] \usage without \alias,52079,Christophe Genolini
+052174.html,[Rd] getGraphicsEvent in an example,52174,Christophe Genolini
+052186.html,[Rd] getGraphicsEvent in an example,52186,Christophe Genolini
+052020.html,[Rd] [SoC 2009] will R Foundation participate? project proposal:	fractal analysis,52020,Anne Ghisla
+052128.html,[Rd] proposed simulate.glm method,52128,Paul Gilbert
+052319.html,[Rd] S4 helper functions: regular or generic?,52319,Gopi Goswami
+052015.html,[Rd] best reference on generics,52015,Spencer Graves
+052038.html,[Rd] Capturing all warnings (with messages),52038,Philippe Grosjean
+052179.html,[Rd] getGraphicsEvent in an example,52179,Gabor Grothendieck
+052223.html,[Rd] vignette compilation times,52223,Gabor Grothendieck
+052250.html,[Rd] vignette compilation times,52250,Gabor Grothendieck
+052131.html,[Rd] re ading SPSS .sav files (PR#13509),52131,HBaize
+052132.html,[Rd] re ading SPSS .sav files (PR#13509),52132,HBaize
+052133.html,[Rd] re ading SPSS .sav files (PR#13509),52133,HBaize
+052135.html,[Rd] re  ading SPSS .sav files (PR#13509),52135,HBaize
+052136.html,[Rd] re  ading SPSS .sav files (PR#13509),52136,HBaize
+052137.html,[Rd] re  ading SPSS .sav files (PR#13509),52137,HBaize
+052171.html,[Rd] Update today broke foreign package (PR#13533),52171,HBaize
+052345.html,[Rd] R_CHAR + 21 (memory.c:2573) in crash report...,52345,Jeff Hamann
+052198.html,[Rd] vignette compilation times,52198,Robin Hankin
+052203.html,[Rd] vignette compilation times,52203,Robin Hankin
+052041.html,[Rd] Multiple-Line Comment (PR#13503),52041,Kasper Daniel Hansen
+052150.html,[Rd] SET_VECTOR_ELT and STRSXPs,52150,Kasper Daniel Hansen
+052043.html,[Rd] &quot;open-ended&quot; plot limits?,52043, (Ted Harding)
+052049.html,[Rd] &quot;open-ended&quot; plot limits?,52049, (Ted Harding)
+052308.html,[Rd] [R] Semantics of sequences in R,52308, (Ted Harding)
+052055.html,[Rd] New package test results available,52055,Kevin Hendricks
+052057.html,[Rd] New package test results available,52057,Kevin Hendricks
+052001.html,[Rd] (PR#8192) [ subscripting sometimes loses names,52001,Tim Hesterberg
+052002.html,[Rd] non-duplicate names in data frames,52002,Tim Hesterberg
+052022.html,[Rd] Capturing all warnings (with messages),52022,Jeffrey Horner
+052024.html,[Rd] Capturing all warnings (with messages),52024,Jeffrey Horner
+052025.html,[Rd] Capturing all warnings (with messages),52025,Jeffrey Horner
+052185.html,[Rd] CRAN packages with invalid maintainer address,52185,Kurt Hornik
+052336.html,[Rd] [SoC09-Idea] Party On!,52336,Torsten Hothorn
+052329.html,[Rd] Unexpected side effect of the &quot;:::&quot; operator on the value of	isGeneric,52329,Wolfgang Huber
+052348.html,[Rd] Unexpected side effect of the &quot;:::&quot; operator on the value of isGeneric,52348,Wolfgang Huber
+052060.html,[Rd] Small typo in error message of R-devel,52060,Rainer Hurling
+052342.html,[Rd] [R] length 1 offset in glm (&amp; lm),52342,Kenneth Knoblauch
+052343.html,[Rd] [R] length 1 offset in glm (&amp; lm),52343,Kenneth Knoblauch
+052332.html,[Rd] using predict method with an offset,52332,Kenneth Knoblauch
+052126.html,[Rd] Generate random numbers in Fortran,52126,Kjell Konis
+052143.html,[Rd] Generate random numbers in Fortran,52143,Kjell Konis
+052161.html,[Rd] demo enhancement,52161,Kjell Konis
+052163.html,[Rd] demo enhancement,52163,Kjell Konis
+052291.html,[Rd] copy an external pointer on assignment,52291,Kjell Konis
+052042.html,[Rd] no visible binding for global variable,52042,Max Kuhn
+052030.html,[Rd] (PR#8192) [ subscripting sometimes loses names,52030,Wacek Kusnierczyk
+052036.html,[Rd] Bug in the parser (?) (PR#13504),52036,Wacek Kusnierczyk
+052050.html,[Rd] Bug in the parser (?) (PR#13504),52050,Wacek Kusnierczyk
+052084.html,[Rd] Bug in subsetting data frame (PR#13515),52084,Wacek Kusnierczyk
+052085.html,[Rd] Bug in subsetting data frame (PR#13515),52085,Wacek Kusnierczyk
+052086.html,[Rd] Bug in subsetting data frame (PR#13515),52086,Wacek Kusnierczyk
+052110.html,"[Rd] Patch for src/main/character.c,	systematizing recent fix to do_grep",52110,Wacek Kusnierczyk
+052127.html,[Rd] Generate random numbers in Fortran,52127,Wacek Kusnierczyk
+052200.html,[Rd] Inaccurate result for 0. (PR#13538),52200,Wacek Kusnierczyk
+052259.html,[Rd] 'unique' error message is printed despite	silent=TRUE	(PR#13547),52259,Wacek Kusnierczyk
+052263.html,[Rd] 'unique' error message is printed	despite	silent=TRUE	(PR#13547),52263,Wacek Kusnierczyk
+052267.html,[Rd] 'unique' error message is	printed	despite	silent=TRUE	(PR#13547),52267,Wacek Kusnierczyk
+052272.html,[Rd] 'unique' error message	is	printed	despite	silent=TRUE	(PR#13547),52272,Wacek Kusnierczyk
+052280.html,[Rd] 'unique' error message	is	printed	despite	silent=TRUE	(PR#13547),52280,Wacek Kusnierczyk
+052282.html,[Rd] [R] Semantics of sequences in R,52282,Wacek Kusnierczyk
+052283.html,[Rd] [R] Semantics of sequences in R,52283,Wacek Kusnierczyk
+052284.html,[Rd] [R] Semantics of sequences in R,52284,Wacek Kusnierczyk
+052286.html,[Rd] [R] Semantics of sequences in R,52286,Wacek Kusnierczyk
+052289.html,[Rd] [R] Semantics of sequences in R,52289,Wacek Kusnierczyk
+052292.html,[Rd] [R] Semantics of sequences in R,52292,Wacek Kusnierczyk
+052293.html,[Rd] a question about (,52293,Wacek Kusnierczyk
+052297.html,[Rd] [R] Semantics of sequences in R,52297,Wacek Kusnierczyk
+052298.html,[Rd] [R] are arithmetic comparison operators binary?,52298,Wacek Kusnierczyk
+052299.html,[Rd] [R] are arithmetic comparison operators binary?,52299,Wacek Kusnierczyk
+052302.html,[Rd] [R] Semantics of sequences in R,52302,Wacek Kusnierczyk
+052303.html,[Rd] [R] Semantics of sequences in R,52303,Wacek Kusnierczyk
+052315.html,[Rd] [R] learning R,52315,Wacek Kusnierczyk
+052316.html,[Rd] [R] Semantics of sequences in R,52316,Wacek Kusnierczyk
+052331.html,[Rd] [R] Problems with ARIMA models?,52331,Wacek Kusnierczyk
+052338.html,[Rd] Persistent data structures for R,52338,Wacek Kusnierczyk
+052107.html,[Rd] RSPython,52107,Duncan Temple Lang
+052249.html,[Rd] interactive graphics for R: was Google Summer of Code 2009,52249,Michael Lawrence
+052190.html,[Rd] Google Summer of Code 2009,52190,Friedrich Leisch
+052222.html,[Rd] vignette compilation times,52222,Friedrich Leisch
+052225.html,[Rd] Google Summer of Code 2009,52225,Friedrich Leisch
+052226.html,[Rd] vignette compilation times,52226,Friedrich Leisch
+052228.html,[Rd] Google Summer of Code 2009,52228,Friedrich Leisch
+052270.html,[Rd] R tutorial,52270,Friedrich Leisch
+052144.html,[Rd] proposed simulate.glm method,52144,Nicholas Lewin-Koh
+052146.html,[Rd] proposed simulate.glm method,52146,Nicholas Lewin-Koh
+052201.html,[Rd] vignette compilation times,52201,Uwe Ligges
+052239.html,[Rd] Faster Blas Library,52239,Uwe Ligges
+052074.html,[Rd] CMD check puzzle,52074,Thomas Lumley
+052081.html,[Rd] Bug in subsetting data frame (PR#13515),52081,Thomas Lumley
+052232.html,[Rd] Google Summer of Code 2009,52232,Thomas Lumley
+052233.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52233,Thomas Lumley
+052241.html,[Rd] cpu bound cases,52241,Thomas Lumley
+052281.html,[Rd] [SoC09-Info] An IPopt interface for R,52281,Thomas Lumley
+052082.html,[Rd] Bug in subsetting data frame (PR#13515),52082,Stavros Macrakis
+052087.html,[Rd] Bug in subsetting data frame (PR#13515),52087,Stavros Macrakis
+052094.html,[Rd] Variable/function namespaces WAS: Bug in subsetting data frame	(PR#13515),52094,Stavros Macrakis
+052102.html,[Rd] gc(reset=TRUE) reset timing,52102,Stavros Macrakis
+052268.html,[Rd] [R] Semantics of sequences in R,52268,Stavros Macrakis
+052269.html,"[Rd] Operations on difftime (abs, /, c)",52269,Stavros Macrakis
+052275.html,[Rd] 'unique' error message is printed despite silent=TRUE	(PR#13547),52275,Stavros Macrakis
+052277.html,[Rd] [R] Semantics of sequences in R,52277,Stavros Macrakis
+052068.html,[Rd] best reference on generics,52068,Martin Maechler
+052120.html,[Rd] proposed simulate.glm method,52120,Martin Maechler
+052122.html,[Rd] proposed simulate.glm method,52122,Martin Maechler
+052129.html,[Rd] proposed simulate.glm method,52129,Martin Maechler
+052140.html,[Rd] [PATCH] typo in R-lang,52140,Martin Maechler
+052145.html,[Rd] proposed simulate.glm method,52145,Martin Maechler
+052296.html,[Rd] [R] are arithmetic comparison operators binary?,52296,Martin Maechler
+052307.html,[Rd] [R] Semantics of sequences in R,52307,Martin Maechler
+052347.html,[Rd] Unexpected side effect of the &quot;:::&quot; operator on the value	of isGeneric,52347,Martin Maechler
+052181.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52181,John Maindonald
+052188.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52188,John Maindonald
+052193.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52193,John Maindonald
+052125.html,[Rd] Generate random numbers in Fortran,52125,Fabio Mathias
+052141.html,[Rd] Generate random numbers in Fortran,52141,Fabio Mathias
+052104.html,[Rd] p.adjust; n &gt; length(p) (PR#13519),52104,Steven McKinney
+052333.html,[Rd]  Fontconfig warning with X11() on MAC OS X 10.4,52333,MerliseClyde
+052091.html,[Rd] Logical Error? (PR#13516),52091,Olaf Mersmann
+052167.html,[Rd] Newbie - how do I debug a crash of RGUI.EXE,52167,Martin Morgan
+052176.html,[Rd] allocMatrix error,52176,Martin Morgan
+052326.html,[Rd] S4 helper functions: regular or generic?,52326,Martin Morgan
+052000.html,[Rd] (PR#8192) [ subscripting sometimes loses names,52000,Duncan Murdoch
+052045.html,[Rd] &quot;open-ended&quot; plot limits?,52045,Duncan Murdoch
+052061.html,[Rd] Small typo in error message of R-devel,52061,Duncan Murdoch
+052063.html,[Rd] Strange behavior of C compiled program,52063,Duncan Murdoch
+052070.html,[Rd] Strange behavior of C compiled program,52070,Duncan Murdoch
+052083.html,[Rd] Bug in subsetting data frame (PR#13515),52083,Duncan Murdoch
+052088.html,[Rd] Bug in subsetting data frame (PR#13515),52088,Duncan Murdoch
+052097.html,[Rd] Variable/function namespaces WAS: Bug in subsetting data frame	(PR#13515),52097,Duncan Murdoch
+052113.html,[Rd] Why is srcref of length 6 and not 4 ?,52113,Duncan Murdoch
+052153.html,[Rd] does file.show() fail with multiple files ? (PR#13528),52153,Duncan Murdoch
+052162.html,[Rd] demo enhancement,52162,Duncan Murdoch
+052175.html,[Rd] demo enhancement,52175,Duncan Murdoch
+052197.html,[Rd] Inaccurate result for 0. (PR#13538),52197,Duncan Murdoch
+052258.html,[Rd] 'unique' error message is printed despite	silent=TRUE	(PR#13547),52258,Duncan Murdoch
+052261.html,[Rd] 'unique' error message is printed	despite	silent=TRUE	(PR#13547),52261,Duncan Murdoch
+052264.html,[Rd] 'unique' error message is	printed	despite	silent=TRUE	(PR#13547),52264,Duncan Murdoch
+052271.html,[Rd] 'unique' error message	is	printed	despite	silent=TRUE	(PR#13547),52271,Duncan Murdoch
+052274.html,[Rd] 'unique' error message	is	printed	despite	silent=TRUE	(PR#13547),52274,Duncan Murdoch
+052155.html,[Rd] Identifying graphics files produced by R,52155,Paul Murrell
+052159.html,[Rd] sources of code; was Generate random numbers in Fortran,52159,John Nolan
+052325.html,[Rd] invalid comparison in numeric sequence (PR#13551),52325,John Nolan
+052006.html,"[Rd] possible memory leak involving looping, optimization, and gam",52006,Christopher Paciorek
+052058.html,[Rd] New package test results available,52058,Thomas Petzoldt
+052099.html,[Rd] New package test results available,52099,Thomas Petzoldt
+052251.html,[Rd] R-devel/Linux x64/Sun Studio 12: Problem with Matrix,52251,Thomas Petzoldt
+052253.html,[Rd] R-devel/Linux x64/Sun Studio 12: Problem with Matrix,52253,Thomas Petzoldt
+052279.html,[Rd] R-devel/Linux x64/Sun Studio 12: Problem with Matrix,52279,Thomas Petzoldt
+052306.html,[Rd] [SoC09-Idea] Movement Ecology add-ons for adehabitat package,52306,Damiano G. Preatoni
+052010.html,[Rd]  Roadmap ?,52010,Etienne B. Racine
+052012.html,[Rd] Roadmap ?,52012,Etienne Bellemare Racine
+052064.html,[Rd] Strange behavior of C compiled program,52064,Mathieu Ribatet
+052069.html,[Rd] Strange behavior of C compiled program,52069,Mathieu Ribatet
+052075.html,[Rd] One more note,52075,Brian D Ripley
+052005.html,[Rd] R.home() of R 2.8.1 Mac OS X is wrong (PR#13494),52005,Prof Brian Ripley
+052011.html,[Rd] Roadmap ?,52011,Prof Brian Ripley
+052016.html,[Rd] Getting 'LinkingTo' to find the right library,52016,Prof Brian Ripley
+052018.html,[Rd] Packages should not only search for libraries with particular extensions and paths,52018,Prof Brian Ripley
+052034.html,[Rd] [R] Is abline misbehaving?,52034,Prof Brian Ripley
+052052.html,[Rd] Use of cfortran.h?,52052,Prof Brian Ripley
+052053.html,[Rd] New package test results available,52053,Prof Brian Ripley
+052056.html,[Rd] New package test results available,52056,Prof Brian Ripley
+052059.html,[Rd] New package test results available,52059,Prof Brian Ripley
+052066.html,[Rd] Where's code for binding values to formal arguments in functions?,52066,Prof Brian Ripley
+052093.html,[Rd] Italics in svg output display as bold,52093,Prof Brian Ripley
+052124.html,[Rd] reading SPSS .sav files (PR#13509),52124,Prof Brian Ripley
+052142.html,[Rd] Generate random numbers in Fortran,52142,Prof Brian Ripley
+052149.html,[Rd] proposed simulate.glm method,52149,Prof Brian Ripley
+052170.html,[Rd] Update today broke foreign package (PR#13533),52170,Prof Brian Ripley
+052173.html,[Rd] allocMatrix error,52173,Prof Brian Ripley
+052183.html,[Rd] C basic indentation,52183,Prof Brian Ripley
+052192.html,[Rd] plot.lm: &quot;Cook's distance&quot; label can overplot point labels,52192,Prof Brian Ripley
+052196.html,[Rd] Inaccurate result for 0. (PR#13538),52196,Prof Brian Ripley
+052229.html,[Rd] [R] How to unload a dll loaded via library.dynam()?,52229,Prof Brian Ripley
+052238.html,[Rd] Faster Blas Library,52238,Prof Brian Ripley
+052240.html,[Rd] unloadNamespace (Was: How to unload a dll loaded via library.dynam()?),52240,Prof Brian Ripley
+052252.html,[Rd] R-devel/Linux x64/Sun Studio 12: Problem with Matrix,52252,Prof Brian Ripley
+052314.html,[Rd] Box.test reference correction (PR#13554),52314,Prof Brian Ripley
+052321.html,[Rd] [R] length 1 offset in glm (&amp; lm),52321,Prof Brian Ripley
+052322.html,[Rd] [R] length 1 offset in glm (&amp; lm),52322,Prof Brian Ripley
+052327.html,[Rd] [R] length 1 offset in glm (&amp; lm),52327,Prof Brian Ripley
+052330.html,[Rd] [R] make check reg-tests-1.R error on solaris,52330,Prof Brian Ripley
+052301.html,[Rd] [R] Semantics of sequences in R,52301,Dimitris Rizopoulos
+052092.html,[Rd] Italics in svg output display as bold (PR#13463),52092,Xavier Robin
+052205.html,[Rd] cpu bound cases,52205,"Rubin, Norman"
+052344.html,"[Rd] POSIXlt, POSIXct, strptime, GMT and 1969-12-31 23:59:59",52344,Jeff Ryan
+052231.html,[Rd] Google Summer of Code 2009,52231,Deepayan Sarkar
+052160.html,[Rd] An inconsistency in docs for file.access(base),52160,Keith Satterley
+052112.html,[Rd] Spearman's rank correlation test,52112,Petr Savicky
+052328.html,[Rd] invalid comparison in numeric sequence (PR#13551),52328,Petr Savicky
+052106.html,[Rd] RSPython,52106,David Scherrer
+052187.html,"[Rd] interior point methods, automatic differentiation in R",52187,David Scherrer
+052341.html,[Rd] Accessing browser() in an embedded R,52341,Bernd Schoeller
+052044.html,[Rd] &quot;open-ended&quot; plot limits?,52044,Marc Schwartz
+052165.html,[Rd] Newbie - how do I debug a crash of RGUI.EXE,52165,"Sim, Fraser"
+052221.html,[Rd] Interactive Graphics in R [Was: Google Summer of Code 2009],52221,Oleg Sklyar
+052100.html,[Rd] setClassUnion with numeric; extending class union,52100,"Sklyar, Oleg (London)"
+052109.html,[Rd] setClassUnion with numeric; extending class union,52109,"Sklyar, Oleg (London)"
+052202.html,[Rd] Google Summer of Code 2009,52202,"Sklyar, Oleg (London)"
+052207.html,[Rd] Google Summer of Code 2009,52207,"Sklyar, Oleg (London)"
+052209.html,[Rd] Google Summer of Code 2009,52209,"Sklyar, Oleg (London)"
+052211.html,[Rd] Google Summer of Code 2009,52211,"Sklyar, Oleg (London)"
+052214.html,[Rd] interactive graphics for R: was Google Summer of Code 2009,52214,"Sklyar, Oleg (London)"
+052130.html,[Rd] Identifying graphics files produced by R,52130,David M Smith
+052168.html,[Rd] Summary: Identifying graphics files produced by R,52168,David M Smith
+052040.html,[Rd] [R] Is abline misbehaving?,52040,Greg Snow
+052046.html,[Rd] &quot;open-ended&quot; plot limits?,52046,Greg Snow
+052048.html,[Rd] &quot;open-ended&quot; plot limits?,52048,Greg Snow
+052178.html,[Rd] getGraphicsEvent in an example,52178,Greg Snow
+052071.html,[Rd] CMD check puzzle,52071,Terry Therneau
+052072.html,[Rd] One more note,52072,Terry Therneau
+052076.html,[Rd] CMD check puzzle,52076,Terry Therneau
+052096.html,[Rd] survival package,52096,Terry Therneau
+052234.html,[Rd] unloadNamespace (Was: How to unload a dll loaded via library.dynam()?),52234,Berwin A Turlach
+052245.html,[Rd] unloadNamespace (Was: How to unload a dll loaded via library.dynam()?),52245,Berwin A Turlach
+052246.html,[Rd] vignette compilation times,52246,Berwin A Turlach
+052247.html,[Rd] vignette compilation times,52247,Berwin A Turlach
+052248.html,[Rd] vignette compilation times,52248,Berwin A Turlach
+052276.html,[Rd] [R] Semantics of sequences in R,52276,Berwin A Turlach
+052285.html,[Rd] [R] Semantics of sequences in R,52285,Berwin A Turlach
+052288.html,[Rd] [R] Semantics of sequences in R,52288,Berwin A Turlach
+052290.html,[Rd] [R] Semantics of sequences in R,52290,Berwin A Turlach
+052295.html,[Rd] [R] Semantics of sequences in R,52295,Berwin A Turlach
+052300.html,[Rd] [R] Semantics of sequences in R,52300,Berwin A Turlach
+052305.html,[Rd] [R] Semantics of sequences in R,52305,Berwin A Turlach
+052121.html,[Rd] proposed simulate.glm method,52121,Heather Turner
+052123.html,[Rd] proposed simulate.glm method,52123,Heather Turner
+052320.html,[Rd] [R] length 1 offset in glm (&amp; lm),52320,Heather Turner
+052324.html,[Rd] [R] length 1 offset in glm (&amp; lm),52324,Heather Turner
+052335.html,[Rd] using predict method with an offset,52335,Heather Turner
+052090.html,[Rd] Logical Error? (PR#13516),52090,Josh Ulrich
+052004.html,[Rd] R.home() of R 2.8.1 Mac OS X is wrong (PR#13494),52004,Simon Urbanek
+052039.html,[Rd] JGR extension not working (PR#13501),52039,Simon Urbanek
+052206.html,[Rd] Google Summer of Code 2009,52206,Simon Urbanek
+052212.html,[Rd] Google Summer of Code 2009,52212,Simon Urbanek
+052215.html,[Rd] Interactive Graphics in R [Was: Google Summer of Code 2009],52215,Simon Urbanek
+052224.html,[Rd] Interactive Graphics in R [Was: Google Summer of Code 2009],52224,Simon Urbanek
+052210.html,[Rd] Google Summer of Code 2009,52210,Yihui Xie
+052230.html,[Rd] Interactive Graphics in R [Was: Google Summer of Code 2009],52230,Yihui Xie
+052065.html,[Rd] Where's code for binding values to formal arguments in	functions?,52065,Yi Zhang
+052257.html,[Rd] 'unique' error message is printed despite silent=TRUE	(PR#13547),52257,macrakis at alum.mit.edu
+052151.html,[Rd] does file.show() fail with multiple files ? (PR#13528),52151,giancarlo.marra at bancaditalia.it
+052334.html,[Rd] besselI inaccurate for negative integer order (PR#13556),52334,Jerry.Lewis at biogenidec.com
+052304.html,[Rd] sys.source and encoding,52304,romain.francois at dbmail.com
+052119.html,[Rd] typo in example(dbEscapeStrings) (PR#13521),52119,mayeul.kauffmann at ecoledelapaix.org
+052003.html,[Rd] R.home() of R 2.8.1 Mac OS X is wrong (PR#13494),52003,andreas.fischlin at env.ethz.ch
+052014.html,[Rd] Getting 'LinkingTo' to find the right library,52014,Setzer.Woodrow at epamail.epa.gov
+052017.html,[Rd] Getting 'LinkingTo' to find the right library,52017,Setzer.Woodrow at epamail.epa.gov
+052310.html,[Rd] invalid comparison in numeric sequence (PR#13551),52310,alexandre.courtiol at gmail.com
+052194.html,[Rd] Inaccurate result for 0. (PR#13538),52194,lengyel.at at gmail.com
+052154.html,[Rd]  Load/Save files for tk GUI,52154,jdeisenberg
+052164.html,[Rd] Box.test (PR#13532),52164,jukka.nyblom at jyu.fi
+052077.html,[Rd] heatmap without dendrogams (PR#13512),52077,j.j.goeman at lumc.nl
+052089.html,[Rd] Logical Error? (PR#13516),52089,camey at mat.ufrgs.br
+052098.html,[Rd] PPR crash (PR#13517),52098,h.miller at ms.unimelb.edu.au
+052166.html,[Rd] Update today broke foreign package (PR#13533),52166,rubin at msu.edu
+052349.html,[Rd] Cannot install some packages (PR#13559),52349,robert.peck1 at myfairpoint.net
+052031.html,[Rd] Multiple-Line Comment (PR#13503),52031,Udo.Junghans at nw-fva.de
+052032.html,[Rd] JGR extension not working (PR#13501),52032,erikl at phonetik.uni-muenchen.de
+052021.html,[Rd] Problem using option packeg with new R version (PR#13498),52021,&#1603;&#1576;&#1585;&#1610;&#1600;&#1600;&#1575;&#1569; &#1601;&#1578;&#1600;&#1600;&#1600;&#1600;&#1575;&#1577; at pubhealth.ku.dk
+052158.html,[Rd] rpart: ylim problem in plotcp (PR#13530),52158,jgvcqa at rit.edu
+052237.html,[Rd]  Faster Blas Library,52237,sachin1234
+052254.html,[Rd] Install failure (PR#13545),52254,bob at spltrak.com
+052235.html,[Rd] X11 fails to open (PR#13543),52235,clyde at stat.duke.edu
+052311.html,[Rd] Box.test reference correction (PR#13554),52311,solymos at stat.math.ethz.ch
+052080.html,[Rd] Bug in subsetting data frame (PR#13515),52080,xinlee883 at stat.math.ethz.ch
+052029.html,[Rd] Capturing all warnings (with messages),52029,luke at stat.uiowa.edu
+052199.html,[Rd] Inaccurate result for 0. (PR#13538),52199,ligges at statistik.tu-dortmund.de
+052216.html,[Rd] heatmap without dendrogams (PR#13512),52216,ligges at statistik.tu-dortmund.de
+052309.html,[Rd] wishlist boxplot (PR#13553),52309,ligges at statistik.tu-dortmund.de
+052265.html,[Rd] 'unique' error message is	printed	despite	silent=TRUE	(PR#13547),52265,murdoch at stats.uwo.ca
+052037.html,[Rd] bug in proj() (PR#13505),52037,rmh at temple.edu
+052219.html,[Rd] bugfix for nls with port algorithm (PR#13540),52219,wdunlap at tibco.com
+052051.html,[Rd] Use of cfortran.h?,52051,nashjc at uottawa.ca
+052152.html,[Rd] sources of code; was Generate random numbers in Fortran,52152,nashjc at uottawa.ca
+052317.html,[Rd] [R] learning R,52317,markleeds at verizon.net
+052026.html,[Rd] Capturing all warnings (with messages),52026,hadley wickham
+052115.html,[Rd] Why is srcref of length 6 and not 4 ?,52115,hadley wickham
+052220.html,[Rd] Interactive Graphics in R [Was: Google Summer of Code 2009],52220,hadley wickham
+052294.html,[Rd] [SoC09-Idea] Development of crantastic.org,52294,hadley wickham
+052337.html,[Rd] Persistent data structures for R,52337,hadley wickham
+052217.html,[Rd] bugfix for nls with port algorithm (PR#13540),52217,Manuel.A.Morales at williams.edu
+052101.html,[Rd] p.adjust; n &gt; length(p) (PR#13519),52101,lpagie at xs4all.nl
+052033.html,[Rd] Bug in the parser (?) (PR#13504),52033,johnc.deva at yahoo.com
+052236.html,[Rd] &quot;source&quot; fails to handle non-ascii variable names (PR#13541),52236,kbarton at zbs.bialowieza.pl
+052054.html,[Rd] reading SPSS .sav files (PR#13509),52054,zac at zjbnewton.demon.co.uk

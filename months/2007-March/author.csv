@@ -1,0 +1,372 @@
+link,Subject,id,author
+044924.html,[Rd] Unhidden predict methods,44924,Henric Nilsson (Public)
+044928.html,[Rd] Unhidden predict methods,44928,Henric Nilsson (Public)
+044874.html,[Rd] Garbage collector crashes after calling a C function,44874,"Antonio, Fabio Di Narzo"
+045054.html,[Rd] substitute and S4 objects,45054,Franck Arnaud
+045005.html,[Rd] Carriage returns and Sweave output,45005,Douglas Bates
+045113.html,[Rd] [R] Use of 'defineVar' and 'install' in .Call,45113,Douglas Bates
+045138.html,[Rd] Developer work cycle,45138,Douglas Bates
+044859.html,[Rd] Periods in package names?,44859,Henrik Bengtsson
+044870.html,[Rd] Reordering the search path?,44870,Henrik Bengtsson
+044887.html,[Rd] Small inconsistency in serialize() between R versions and	implications on digest(),44887,Henrik Bengtsson
+044888.html,[Rd] Small inconsistency in serialize() between R versions and	implications on digest(),44888,Henrik Bengtsson
+044892.html,[Rd] Small inconsistency in serialize() between R versions and	implications on digest(),44892,Henrik Bengtsson
+044894.html,[Rd] File locking in R?,44894,Henrik Bengtsson
+044925.html,[Rd] Unhidden predict methods,44925,Henrik Bengtsson
+045109.html,[Rd] Suggestion for memory optimization and as.double() with friends,45109,Henrik Bengtsson
+045111.html,[Rd] Suggestion for memory optimization and as.double() with	friends,45111,Henrik Bengtsson
+045114.html,[Rd] Suggestion for memory optimization and as.double() with	friends,45114,Henrik Bengtsson
+045166.html,[Rd] Too long pathname in bitmap() crashes R on WinXP,45166,Henrik Bengtsson
+045168.html,[Rd] Too long pathname in bitmap() crashes R on WinXP,45168,Henrik Bengtsson
+045118.html,[Rd] [R] Use of 'defineVar' and 'install' in .Call,45118,Daniel Berg
+045096.html,[Rd] Bridging R to OpenOffice,45096,Roger Bivand
+045025.html,[Rd] Unable to register TclNotifier window class,45025,"Bos, Roger"
+044963.html,[Rd] R CMD check ignores .Rbuildignore?,44963,Ross Boylan
+044987.html,[Rd] R CMD check ignores .Rbuildignore?,44987,Ross Boylan
+044988.html,[Rd] R CMD check ignores .Rbuildignore? [correction],44988,Ross Boylan
+045141.html,[Rd] Rmpi and OpenMPI ?,45141,Ross Boylan
+045145.html,[Rd] S4 generic surprise,45145,Ross Boylan
+045161.html,[Rd] Replacing slot of S4 class in method of S4 class?,45161,Ross Boylan
+045162.html,[Rd] Rmpi and OpenMPI ?,45162,Ross Boylan
+044954.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method	dispatch,44954,Matthias Burger
+044901.html,[Rd] Support for noarch packages in /usr/share/R/library,44901,Tom 'spot' Callaway
+044938.html,[Rd] Problems with package containing S4 classes,44938,Benilton Carvalho
+044943.html,[Rd] Problems with package containing S4 classes,44943,Benilton Carvalho
+044947.html,[Rd] Problems with package containing S4 classes,44947,Benilton Carvalho
+044949.html,[Rd] Problems with package containing S4 classes,44949,Benilton Carvalho
+044951.html,[Rd] Problems with package containing S4 classes,44951,Benilton Carvalho
+045036.html,[Rd] how to use debug.mypkg,45036,Benilton Carvalho
+045038.html,[Rd] how to use debug.mypkg,45038,Benilton Carvalho
+045040.html,[Rd] how to use debug.mypkg,45040,Benilton Carvalho
+045091.html,[Rd] accessing &quot;hidden&quot; functions,45091,Benilton Carvalho
+045059.html,[Rd] substitute and S4 objects,45059,John Chambers
+045150.html,[Rd] Developer work cycle,45150,John Chambers
+044853.html,[Rd] non-blocking socketConnection,44853,"Chmielowski, Piotr2 [CAI]"
+044871.html,[Rd] bug: sticky symbol refs? (PR#9555),44871,Peter Dalgaard
+044904.html,[Rd] compile 2.4.1 for linux on power cpus,44904,Peter Dalgaard
+044906.html,[Rd] compile 2.4.1 for linux on power cpus,44906,Peter Dalgaard
+044909.html,[Rd] compile 2.4.1 for linux on power cpus,44909,Peter Dalgaard
+044922.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4	method	dispatch,44922,Peter Dalgaard
+044941.html,[Rd] Incorrect matrix of spearman correlations .... in 64-bit Linux	... (PR#9568),44941,Peter Dalgaard
+044955.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4	method	dispatch,44955,Peter Dalgaard
+044968.html,[Rd] R 2.5.0 slated for April 24,44968,Peter Dalgaard
+045103.html,[Rd] Bridging R to OpenOffice,45103,Peter Dalgaard
+045104.html,[Rd] Bridging R to OpenOffice,45104,Peter Dalgaard
+045144.html,[Rd] small bug in ansari.test,45144,Peter Dalgaard
+044990.html,[Rd] -std=c99 and inline semantics,44990,Marcus G. Daniels
+045159.html,[Rd] error in lattice formattedTicksAndLabels.Date (PR#9590),45159,Marcus G. Daniels
+044810.html,[Rd] Same method for more than one class,44810,Sean Davis
+044811.html,[Rd] Same method for more than one class,44811,Sean Davis
+044847.html,[Rd] RJDBC,44847,Sean Davis
+045097.html,[Rd] Bridging R to OpenOffice,45097,Sean Davis
+045100.html,[Rd] Bridging R to OpenOffice,45100,Sean Davis
+045126.html,"[Rd] Error building R-alpha (from 28-Mar-07, r40918)",45126,Sean Davis
+045052.html,[Rd] as.Date nuance,45052,Vladimir Dergachev
+045055.html,[Rd] as.Date nuance,45055,Vladimir Dergachev
+045071.html,[Rd] as.Date nuance,45071,Vladimir Dergachev
+045093.html,[Rd] Rmpi and OpenMPI ?,45093,Ramon Diaz-Uriarte
+044912.html,[Rd] allocVector reference,44912,Matthew Dowle
+044824.html,[Rd] Patch for format.pval limitation in format.R,44824,Charles Dupont
+045030.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45030,Charles Dupont
+044902.html,[Rd] Support for noarch packages in /usr/share/R/library,44902,Dirk Eddelbuettel
+045020.html,[Rd] PKG_CFLAGS/CFLAGS and PKG_CXXFLAGS/CXXFLAGS,45020,Dirk Eddelbuettel
+045090.html,[Rd] Rmpi and OpenMPI ?,45090,Dirk Eddelbuettel
+045153.html,[Rd] Rmpi and OpenMPI ?,45153,Dirk Eddelbuettel
+045165.html,[Rd] Rmpi and OpenMPI ?,45165,Dirk Eddelbuettel
+044817.html,[Rd] S3 best practice,44817,Seth Falcon
+044830.html,[Rd] extracting rows from a data frame by looping over the row	names: performance issues,44830,Seth Falcon
+044839.html,[Rd] fortune() in .Rprofile conflicts with R CMD INSTALL,44839,Seth Falcon
+044841.html,[Rd] Problem using callNextMethod() in S4,44841,Seth Falcon
+044908.html,[Rd] methods package PROTECT &quot;bug&quot;,44908,Seth Falcon
+044919.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method	dispatch,44919,Seth Falcon
+044930.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method	dispatch,44930,Seth Falcon
+044931.html,[Rd] Inherited S4 methods,44931,Seth Falcon
+044944.html,[Rd] Inherited S4 methods,44944,Seth Falcon
+044952.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method	dispatch,44952,Seth Falcon
+044959.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4	method	dispatch,44959,Seth Falcon
+044984.html,[Rd] Carriage returns and Sweave output,44984,Seth Falcon
+045039.html,[Rd] how to use debug.mypkg,45039,Seth Falcon
+045132.html,[Rd] Suggestion for memory optimization and as.double() with	friends,45132,Seth Falcon
+044903.html,[Rd] compile 2.4.1 for linux on power cpus,44903,Andrew Ferris
+044905.html,[Rd] compile 2.4.1 for linux on power cpus,44905,Andrew Ferris
+044907.html,[Rd] compile 2.4.1 for linux on power cpus,44907,Andrew Ferris
+044916.html,[Rd] compile 2.4.1 for linux on power cpus,44916,Andrew Ferris
+044934.html,[Rd] compile 2.4.1 for linux on power cpus SOLVED,44934,Andrew Ferris
+044880.html,"[Rd] SVG and tooltips, hyperlinks",44880,Romain Francois
+045175.html,[Rd] Probem with argument &quot;append&quot; in &quot;Rprof&quot;,45175,Romain Francois
+045176.html,[Rd] Probem with argument &quot;append&quot; in &quot;Rprof&quot;,45176,Romain Francois
+045139.html,[Rd] small bug in ansari.test,45139,Thomas Friedrichsmeier
+045140.html,[Rd] small bug in ansari.test,45140,Thomas Friedrichsmeier
+045146.html,[Rd] small bug in ansari.test,45146,Thomas Friedrichsmeier
+045148.html,[Rd] SPAM items in wishlist category of bugs.r-project.org,45148,Thomas Friedrichsmeier
+044883.html,[Rd] possible bug in model.frame.default,44883,Robert Gentleman
+044895.html,[Rd] Is there any package on CRAN that uses Fortran-90/95,44895,Simone Giannerini
+044897.html,[Rd] integrate function (PR#9557),44897,Simone Giannerini
+045045.html,[Rd] how to use debug.mypkg,45045,Paul Gilbert
+044808.html,[Rd] Registration of native routines,44808,Gregor Gorjanc
+044809.html,[Rd] Same method for more than one class,44809,Gregor Gorjanc
+044812.html,[Rd] Same method for more than one class,44812,Gregor Gorjanc
+044834.html,[Rd] Segmentation fault on bin/R --version in R-devel,44834,Gregor Gorjanc
+044837.html,[Rd] Segmentation fault on bin/R --version in R-devel,44837,Gregor Gorjanc
+044838.html,[Rd] fortune() in .Rprofile conflicts with R CMD INSTALL,44838,Gregor Gorjanc
+044843.html,[Rd] fortune() in .Rprofile conflicts with R CMD INSTALL,44843,Gregor Gorjanc
+044893.html,[Rd] fortune() in .Rprofile conflicts with R CMD INSTALL,44893,Gregor Gorjanc
+044961.html,[Rd] eigen returns NAs from a real matrix,44961,Spencer Graves
+044885.html,[Rd] Wish: Option to configure the default par() (PR#9545),44885,Gabor Grothendieck
+044929.html,[Rd] Unhidden predict methods,44929,Gabor Grothendieck
+044935.html,[Rd] NextMethod and $.myclass,44935,Gabor Grothendieck
+044989.html,[Rd] R CMD check ignores .Rbuildignore?,44989,Gabor Grothendieck
+045009.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45009,Gabor Grothendieck
+045011.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45011,Gabor Grothendieck
+045022.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45022,Gabor Grothendieck
+045056.html,[Rd] as.Date nuance,45056,Gabor Grothendieck
+045081.html,[Rd] Limitation of dirname() and basename(),45081,Gabor Grothendieck
+045042.html,[Rd] Bug in str or issue with class management in my package?,45042,Ulrike Gr&#246;mping
+045046.html,[Rd] Bug in str or issue with class management in my package?,45046,Ulrike Gr&#246;mping
+045048.html,[Rd] Bug in str or issue with class management in my package?,45048,Ulrike Gr&#246;mping
+044814.html,[Rd] S3 best practice,44814,Robin Hankin
+044977.html,[Rd] R CMD Rd2dvi,44977,Robin Hankin
+045016.html,[Rd] PKG_CFLAGS/CFLAGS and PKG_CXXFLAGS/CXXFLAGS,45016,Kasper Daniel Hansen
+045106.html,[Rd] Bridging R to OpenOffice,45106,Kevin B. Hendricks
+045134.html,[Rd] Bridging R to OpenOffice,45134,Kevin B. Hendricks
+044969.html,[Rd] R CMD CHECK problem,44969,Joerg van den Hoff
+045027.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45027,Jeffrey Horner
+045057.html,[Rd] Subtle bug in do_basename,45057,Jeffrey Horner
+044845.html,[Rd] fortune() in .Rprofile conflicts with R CMD INSTALL,44845,Kurt Hornik
+044860.html,[Rd] fortune() in .Rprofile conflicts with R CMD INSTALL,44860,Kurt Hornik
+044823.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44823,Wolfgang Huber
+044868.html,"[Rd] SVG and tooltips, hyperlinks",44868,Wolfgang Huber
+044872.html,[Rd] bug: sticky symbol refs? (PR#9555),44872,Wolfgang Huber
+044979.html,[Rd] Carriage returns and Sweave output,44979,Wolfgang Huber
+044983.html,[Rd] Carriage returns and Sweave output,44983,Wolfgang Huber
+045169.html,[Rd] Matrix package: compilation error,45169,Rainer Hurling
+045173.html,[Rd] Matrix package: compilation error,45173,Rainer Hurling
+045177.html,[Rd] Matrix package: compilation error,45177,Rainer Hurling
+044877.html,[Rd] possible bug in model.frame.default,44877,Thibaut Jombart
+044884.html,[Rd] possible bug in model.frame.default,44884,Thibaut Jombart
+045154.html,[Rd] bug?,45154,Hiroyuki Kawakatsu
+045041.html,[Rd] can't load just saved R object &quot;ReadItem: unknown type 65&quot;,45041,Mark W Kimpel
+045051.html,[Rd] [R] can't load just saved R object &quot;ReadItem: unknown type	65&quot;,45051,Mark W Kimpel
+044999.html,[Rd] Having rbind dispatch to a different method than data.frame with arguments inheriting from data.frame,44999,Ken Knoblauch
+044900.html,[Rd] configure cross_compiling+iconv wierdness,44900,Hin-Tak Leung
+045063.html,[Rd] typo in R-ints,45063,Hin-Tak Leung
+045067.html,[Rd] Developer work cycle,45067,Hin-Tak Leung
+045070.html,[Rd] Developer work cycle,45070,Hin-Tak Leung
+045078.html,[Rd] Limitation of dirname() and basename(),45078,Hin-Tak Leung
+045094.html,[Rd] Bridging R to OpenOffice,45094,Hin-Tak Leung
+045128.html,[Rd] zlib+shlib issue with the official EL4 R binary,45128,Hin-Tak Leung
+045131.html,[Rd] zlib+shlib issue with the official EL4 R binary,45131,Hin-Tak Leung
+045133.html,[Rd] zlib+shlib issue with the official EL4 R binary,45133,Hin-Tak Leung
+045137.html,[Rd] zlib+shlib issue with the official EL4 R binary,45137,Hin-Tak Leung
+044985.html,"[Rd] free variable, built-in R functions",44985,Jiangtian Li
+045074.html,[Rd] Unexpected result of as.character() and unlist() applied to a data frame,45074,"Liaw, Andy"
+044816.html,[Rd] Install.packages() bug in Windows XP (PR#9540),44816,Uwe Ligges
+044865.html,[Rd] parse error with if else (PR#9551),44865,Uwe Ligges
+044972.html,[Rd] R CMD CHECK problem,44972,Uwe Ligges
+044882.html,[Rd] possible bug in model.frame.default,44882,Thomas Lumley
+044898.html,[Rd] integrate function (PR#9557),44898,Thomas Lumley
+044981.html,[Rd] Invalidating inaccessible SEXP?,44981,Thomas Lumley
+044982.html,[Rd] Incomplete valgrind instrumentation level documentation,44982,Thomas Lumley
+045065.html,[Rd] Developer work cycle,45065,&quot;Jos&#233; Luis Aznarte M.&quot;
+045079.html,[Rd] Bridging R to OpenOffice,45079,Leonard Mada
+045108.html,[Rd] Bridging R to OpenOffice,45108,Leonard Mada
+045147.html,[Rd] Bridging R to OpenOffice,45147,Leonard Mada
+044923.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method	dispatch,44923,Martin Maechler
+044964.html,[Rd] R CMD check ignores .Rbuildignore?,44964,Martin Maechler
+044965.html,[Rd] eigen returns NAs from a real matrix,44965,Martin Maechler
+044971.html,[Rd] eigen returns NAs from a real matrix,44971,Martin Maechler
+044978.html,[Rd] eigen returns NAs from a real matrix,44978,Martin Maechler
+044998.html,[Rd] Carriage returns and Sweave output,44998,Martin Maechler
+045001.html,[Rd] nclass.scott() and nclass.FD()   {Re: [R] truehist bug?},45001,Martin Maechler
+045018.html,[Rd] cbind() &amp; rbind() for S4 objects -- 'Matrix' package changes,45018,Martin Maechler
+045023.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45023,Martin Maechler
+045047.html,[Rd] Bug in str or issue with class management in my package?,45047,Martin Maechler
+045050.html,[Rd] cbind() &amp; rbind() for S4 objects -- 'Matrix' package	changes,45050,Martin Maechler
+045075.html,[Rd] Unexpected result of as.character() and unlist() applied	to a data frame,45075,Martin Maechler
+045172.html,[Rd] Matrix package: compilation error,45172,Martin Maechler
+045019.html,[Rd] [R-downunder] las with stripchart,45019,John Maindonald
+044826.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44826,Ulf Martin
+045002.html,[Rd] Symbol and Ellipsis problems,45002,Thomas McCallum
+044844.html,[Rd] Problem using callNextMethod() in S4,44844,Martin Morgan
+044932.html,[Rd] Incomplete valgrind instrumentation level documentation,44932,Martin Morgan
+044933.html,[Rd] Invalidating inaccessible SEXP?,44933,Martin Morgan
+045033.html,[Rd] Shared lib locations (was Re: [R] problem with RCurl install on Unix0,45033,Martin Morgan
+045044.html,[Rd] Bug in str or issue with class management in my package?,45044,Martin Morgan
+044854.html,[Rd] typo in R-lang.texi,44854,Duncan Murdoch
+044855.html,[Rd] typo in nls.Rd,44855,Duncan Murdoch
+044856.html,[Rd] typo in reshape.Rd,44856,Duncan Murdoch
+044876.html,[Rd] Garbage collector crashes after calling a C function,44876,Duncan Murdoch
+044879.html,[Rd] possible bug in model.frame.default,44879,Duncan Murdoch
+044899.html,[Rd] integrate function (PR#9557),44899,Duncan Murdoch
+044920.html,[Rd] Sweave bug using 'FDR' in chunk label (PR#9567),44920,Duncan Murdoch
+044970.html,[Rd] eigen returns NAs from a real matrix,44970,Duncan Murdoch
+044973.html,[Rd] eigen returns NAs from a real matrix,44973,Duncan Murdoch
+044992.html,[Rd] Rinternals.h and undefined symbols,44992,Duncan Murdoch
+044996.html,[Rd] Rinternals.h and undefined symbols,44996,Duncan Murdoch
+045003.html,[Rd] Symbol and Ellipsis problems,45003,Duncan Murdoch
+045010.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45010,Duncan Murdoch
+045012.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45012,Duncan Murdoch
+045024.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45024,Duncan Murdoch
+045058.html,[Rd] Subtle bug in do_basename,45058,Duncan Murdoch
+045064.html,[Rd] typo in R-ints,45064,Duncan Murdoch
+045112.html,[Rd] Suggestion for memory optimization and as.double() with friends,45112,Duncan Murdoch
+045115.html,[Rd] Suggestion for memory optimization and as.double() with friends,45115,Duncan Murdoch
+045125.html,[Rd] Index for a package,45125,Duncan Murdoch
+044869.html,"[Rd] SVG and tooltips, hyperlinks",44869,Paul Murrell
+044890.html,[Rd] Small inconsistency in serialize() between R versions and implications on digest(),44890,Paul Murrell
+045083.html,[Rd] [R] Can I scale the labels in a 'persp' graph?,45083,Paul Murrell
+045089.html,[Rd] [R] Can I scale the labels in a 'persp' graph?,45089,Paul Murrell
+044921.html,[Rd] compile 2.4.1 for linux on power cpus,44921,Ei-ji Nakama
+044986.html,[Rd] build 2.4.1 for AIX 5.2L,44986,Ei-ji Nakama
+045152.html,[Rd] Rmpi and OpenMPI ?,45152,Ei-ji Nakama
+045127.html,[Rd] Bridging R to OpenOffice,45127,Erich Neuwirth
+044819.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44819,Herve Pages
+044820.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44820,Herve Pages
+044825.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44825,Herve Pages
+044827.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44827,Herve Pages
+044828.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44828,Herve Pages
+044829.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44829,Herve Pages
+045076.html,[Rd] Unexpected result of as.character() and unlist() applied to a data frame,45076,Herve Pages
+045085.html,[Rd] Limitation of dirname() and basename(),45085,Herve Pages
+044821.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44821,Roger D. Peng
+044913.html,[Rd] allocVector reference,44913,Andrew Piskorski
+045110.html,[Rd] checking existence of active bindings,45110,Tony Plate
+044910.html,[Rd] compile 2.4.1 for linux on power cpus,44910,Prof Brian Ripley
+044926.html,[Rd] Unhidden predict methods,44926,Prof Brian Ripley
+044927.html,[Rd] allocVector reference,44927,Prof Brian Ripley
+044956.html,[Rd] Periods in package names?,44956,Prof Brian Ripley
+044957.html,[Rd] Support for noarch packages in /usr/share/R/library,44957,Prof Brian Ripley
+044962.html,[Rd] eigen returns NAs from a real matrix,44962,Prof Brian Ripley
+044974.html,[Rd] eigen returns NAs from a real matrix,44974,Prof Brian Ripley
+044997.html,[Rd] Rinternals.h and undefined symbols,44997,Prof Brian Ripley
+045000.html,[Rd] -std=c99 and inline semantics,45000,Prof Brian Ripley
+045026.html,[Rd] -std=c99 and inline semantics,45026,Prof Brian Ripley
+045032.html,[Rd] (PR#9577) bug and patch: strptime first-of-month error in (possibly unsupported use of) &quot;%j&quot; format,45032,Prof Brian Ripley
+045034.html,[Rd] [R] Can I scale the labels in a 'persp' graph?,45034,Prof Brian Ripley
+045053.html,[Rd] as.Date nuance,45053,Prof Brian Ripley
+045060.html,[Rd] [R] How to create a list that grows automatically,45060,Prof Brian Ripley
+045066.html,[Rd] Developer work cycle,45066,Prof Brian Ripley
+045073.html,[Rd] Limitation of dirname() and basename(),45073,Prof Brian Ripley
+045088.html,[Rd] [R] Can I scale the labels in a 'persp' graph?,45088,Prof Brian Ripley
+045092.html,[Rd] accessing &quot;hidden&quot; functions,45092,Prof Brian Ripley
+045101.html,[Rd] Bridging R to OpenOffice,45101,Prof Brian Ripley
+045102.html,[Rd] Server transitions,45102,Prof Brian Ripley
+045116.html,[Rd] Suggestion for memory optimization and as.double() with friends,45116,Prof Brian Ripley
+045119.html,[Rd] AIX testers needed,45119,Prof Brian Ripley
+045129.html,[Rd] zlib+shlib issue with the official EL4 R binary,45129,Prof Brian Ripley
+045130.html,[Rd] zlib+shlib issue with the official EL4 R binary,45130,Prof Brian Ripley
+045135.html,[Rd] zlib+shlib issue with the official EL4 R binary,45135,Prof Brian Ripley
+045149.html,[Rd] ansari.test.default: bug in call to uniroot?,45149,Prof Brian Ripley
+045158.html,[Rd] bug?,45158,Prof Brian Ripley
+045167.html,[Rd] Too long pathname in bitmap() crashes R on WinXP,45167,Prof Brian Ripley
+045171.html,[Rd] Matrix package: compilation error,45171,Prof Brian Ripley
+045174.html,[Rd] Matrix package: compilation error,45174,Andrew Robinson
+045124.html,[Rd] Bridging R to OpenOffice,45124,Barry Rowlingson
+045163.html,[Rd] error in lattice formattedTicksAndLabels.Date (PR#9590),45163,Deepayan Sarkar
+045105.html,[Rd] Bridging R to OpenOffice,45105,Marc Schwartz
+044849.html,[Rd] RJDBC,44849,Jose Sierra
+044846.html,[Rd] RJDBC,44846,Jose Sierra
+044848.html,[Rd] RJDBC,44848,Jose Sierra
+044881.html,[Rd] RJDBC,44881,Jose Sierra
+044958.html,[Rd] Wishlist: Make screeplot() a generic (PR#9541),44958,Gavin Simpson
+044822.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44822,Greg Snow
+044851.html,[Rd] extracting rows from a data frame by looping over the row names: performance issues,44851,Greg Snow
+044862.html,[Rd] Wish: Option to configure the default par() (PR#9545),44862,Greg Snow
+044873.html,[Rd] Garbage collector crashes after calling a C function,44873,"Sole Acha, Xavi"
+044875.html,[Rd] Garbage collector crashes after calling a C function,44875,"Sole Acha, Xavi"
+044889.html,[Rd] Small inconsistency in serialize() between R versions and implications on digest(),44889,Luke Tierney
+044891.html,[Rd] Small inconsistency in serialize() between R versions and implications on digest(),44891,Luke Tierney
+045021.html,[Rd] cbind() &amp; rbind() for S4 objects -- 'Matrix' package	changes,45021,Luke Tierney
+045043.html,[Rd] [R] can't load just saved R object &quot;ReadItem: unknown type	65&quot;,45043,Luke Tierney
+045095.html,[Rd] Unexpected result of as.character() and unlist() appliedto a data frame,45095,Heinz Tuechler
+044975.html,[Rd] Carriage returns and Sweave output,44975,Ernest Turro
+044980.html,[Rd] Carriage returns and Sweave output,44980,Ernest Turro
+044991.html,[Rd] Rinternals.h and undefined symbols,44991,Ernest Turro
+044993.html,[Rd] Rinternals.h and undefined symbols,44993,Ernest Turro
+044994.html,[Rd] Rinternals.h and undefined symbols,44994,Ernest Turro
+044995.html,[Rd] Rinternals.h and undefined symbols,44995,Ernest Turro
+045004.html,[Rd] Carriage returns and Sweave output,45004,Ernest Turro
+045014.html,[Rd] PKG_CFLAGS/CFLAGS and PKG_CXXFLAGS/CXXFLAGS,45014,Ernest Turro
+045015.html,[Rd] Carriage returns and Sweave output,45015,Ernest Turro
+045017.html,[Rd] PKG_CFLAGS/CFLAGS and PKG_CXXFLAGS/CXXFLAGS,45017,Ernest Turro
+044896.html,[Rd] integrate function (PR#9557),44896,Bert.DeBoeck at Ugent.be
+044836.html,[Rd] Segmentation fault on bin/R --version in R-devel,44836,Simon Urbanek
+044852.html,[Rd] RJDBC,44852,Simon Urbanek
+044857.html,[Rd] non-blocking socketConnection,44857,Simon Urbanek
+044915.html,[Rd] allocVector reference,44915,Simon Urbanek
+045062.html,[Rd] Subtle bug in do_basename,45062,Simon Urbanek
+045084.html,[Rd] Limitation of dirname() and basename(),45084,Simon Urbanek
+045087.html,[Rd] Limitation of dirname() and basename(),45087,Simon Urbanek
+045143.html,[Rd] Suggestion for memory optimization and as.double() with	friends,45143,Simon Urbanek
+045160.html,[Rd] Replacing slot of S4 class in method of S4 class?,45160,Simon Urbanek
+045142.html,[Rd] ansari.test.default: bug in call to uniroot?,45142,Stephen Weigand
+044807.html,[Rd] typo in reshape.Rd,44807,Stephen D. Weigand
+045099.html,[Rd] Bridging R to OpenOffice,45099,Stefan Zimmermann
+044942.html,[Rd] Incorrect matrix of spearman correlations .... in 64-bit	(PR#9570),44942,p.dalgaard at biostat.ku.dk
+045151.html,[Rd] Developer work cycle,45151,Mark.Bravington at csiro.au
+044840.html,[Rd] Problem using callNextMethod() in S4,44840,cstrato
+044842.html,[Rd] Problem using callNextMethod() in S4,44842,cstrato
+044858.html,[Rd] Problem using callNextMethod() in S4,44858,cstrato
+044918.html,[Rd] Inherited S4 methods,44918,cstrato
+044936.html,[Rd]  Inherited S4 methods,44936,cstrato
+044937.html,[Rd] Problems with package containing S4 classes,44937,cstrato
+044940.html,[Rd] Problems with package containing S4 classes,44940,cstrato
+044945.html,[Rd]  Inherited S4 methods,44945,cstrato
+044946.html,[Rd] Problems with package containing S4 classes,44946,cstrato
+044948.html,[Rd] Problems with package containing S4 classes,44948,cstrato
+044950.html,[Rd] Problems with package containing S4 classes,44950,cstrato
+044953.html,[Rd] Problems with package containing S4 classes,44953,cstrato
+045035.html,[Rd] how to use debug.mypkg,45035,cstrato
+045037.html,[Rd] how to use debug.mypkg,45037,cstrato
+045049.html,[Rd] how to use debug.mypkg,45049,cstrato
+045069.html,[Rd] Limitation of dirname() and basename(),45069,cstrato
+045077.html,[Rd] Limitation of dirname() and basename(),45077,cstrato
+045080.html,[Rd] Limitation of dirname() and basename(),45080,cstrato
+045082.html,[Rd] Limitation of dirname() and basename(),45082,cstrato
+045086.html,[Rd] Limitation of dirname() and basename(),45086,cstrato
+045107.html,[Rd] Limitation of dirname() and basename(): file.name() and file.dir() ?,45107,cstrato
+045157.html,[Rd] Replacing slot of S4 class in method of S4 class?,45157,cstrato
+045164.html,[Rd] Replacing slot of S4 class in method of S4 class?,45164,cstrato
+045170.html,[Rd] Problem with S4 inheritance: unexpected re-initialization?,45170,cstrato
+044867.html,[Rd] bug: sticky symbol refs? (PR#9555),44867,peter-m.schumacher at db.com
+044914.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method dispatch,44914,ml-it-r-devel at epigenomics.com
+045006.html,[Rd] R 2.5.0 devel try issue in conjuntion with S4 method	dispatch,45006,ml-it-r-devel at epigenomics.com
+045029.html,[Rd] bug and patch: strptime first-of-month error in (possibly	unsupported use of) &quot;%j&quot; format (PR#9577),45029,jbrzusto at fastmail.fm
+044831.html,[Rd] extracting rows from a data frame by looping over the	row	names: performance issues,44831,hpages at fhcrc.org
+044832.html,[Rd] extracting rows from a data frame by looping over	the	row	names: performance issues,44832,hpages at fhcrc.org
+044835.html,[Rd] extracting rows from a data frame by looping over the row	names: performance issues,44835,hpages at fhcrc.org
+045072.html,[Rd] Unexpected result of as.character() and unlist() applied to a	data frame,45072,hpages at fhcrc.org
+045155.html,[Rd] use of ... in some functions does not work (PR#9591),45155,wolfram at fischer-zim.ch
+045156.html,[Rd] error in lattice formattedTicksAndLabels.Date (PR#9590),45156,jszinger at gmail.com
+044850.html,[Rd] 2 bugs in max.col() (PR#9542),44850,oehl_list at gmx.de
+044911.html,[Rd] cannot delete the last column of a dataframe using &quot;[&lt;-&quot;	(PR#9565),44911,hsiu-khuern.tang at hp.com
+044864.html,[Rd] parse error with if else (PR#9551),44864,Stephanie.Mahevas at ifremer.fr
+045028.html,[Rd] rbind.data.frame reacts on levels without factor (PR#9578),45028,prechelt at inf.fu-berlin.de
+045120.html,[Rd] 'union' does not handle factors while 'intersect' does	(PR#9589),45120,prechelt at inf.fu-berlin.de
+045123.html,[Rd] (PR#9578) rbind.data.frame reacts on levels without factor,45123,prechelt at inf.fu-berlin.de
+044886.html,[Rd] missing axes in irregular lattice plots (PR#9556),44886,bill at insightful.com
+044863.html,[Rd] Wish: Option to configure the default par() (PR#9545),44863,Greg.Snow at intermountainmail.org
+044813.html,[Rd] rgl update:  please test!,44813,laszlo kajan
+044939.html,[Rd] Incorrect matrix of spearman correlations .... in 64-bit Linux	... (PR#9568),44939,vobolonkin at lic.co.nz
+044917.html,[Rd] Sweave bug using 'FDR' in chunk label (PR#9567),44917,krc at mdacc.tmc.edu
+044966.html,"[Rd] R4.1: seq.POSIXt, tz=&quot;AEST&quot; (PR#9572)",44966,felix at nfrac.org
+044976.html,"[Rd] R4.1: seq.POSIXt, tz=&quot;AEST&quot; (PR#9572)",44976,felix at nfrac.org
+044861.html,[Rd] Wish: Option to configure the default par() (PR#9545),44861,thomas.friedrichsmeier at ruhr-uni-bochum.de
+044878.html,[Rd] Wish: Option to configure the default par() (PR#9545),44878,thomas.friedrichsmeier at ruhr-uni-bochum.de
+044960.html,[Rd] Wishlist: Make screeplot() a generic (PR#9541),44960,maechler at stat.math.ethz.ch
+044967.html,"[Rd] R4.1: seq.POSIXt, tz=&quot;AEST&quot; (PR#9572)",44967,ripley at stats.ox.ac.uk
+045031.html,[Rd] rbind.data.frame reacts on levels without factor (PR#9578),45031,ripley at stats.ox.ac.uk
+045121.html,[Rd] (PR#9578) rbind.data.frame reacts on levels without,45121,ripley at stats.ox.ac.uk
+045122.html,[Rd] (PR#9589) 'union' does not handle factors while 'intersect',45122,ripley at stats.ox.ac.uk
+045136.html,"[Rd] R4.1: seq.POSIXt, tz=&quot;AEST&quot; (PR#9572)",45136,ripley at stats.ox.ac.uk
+044866.html,[Rd] parse error with if else (PR#9551),44866,murdoch at stats.uwo.ca
+045008.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45008,murdoch at stats.uwo.ca
+045098.html,[Rd] Fwd: Re: documentation clarifications (PR#9586),45098,murdoch at stats.uwo.ca
+045117.html,[Rd] Fwd: Re: documentation clarifications (PR#9587),45117,murdoch at stats.uwo.ca
+044818.html,[Rd] Wishlist: Make screeplot() a generic (PR#9541),44818,gavin.simpson at ucl.ac.uk
+044815.html,[Rd] Install.packages() bug in Windows XP (PR#9540),44815,juan at ufcengenharia.com.br
+045007.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45007,charles.dupont at vanderbilt.edu
+044833.html,[Rd] extracting rows from a data frame by looping over the row	names: performance issues,44833,hadley wickham
+045013.html,[Rd] wishlist -- Fix for major format.pval limitation (PR#9574),45013,hadley wickham
+045061.html,[Rd] [R] How to create a list that grows automatically,45061,hadley wickham
+045068.html,[Rd] Developer work cycle,45068,hadley wickham

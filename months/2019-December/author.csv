@@ -1,0 +1,107 @@
+link,Subject,id,author
+078794.html,[Rd] Why does INT 3 (opcode 0xCC) SIGTRAP break to debugger (gdb) in Rgui.exe and Rterm.exe but NOT in R.exe on Windows (64 bit)?,78794, at osp at m m at iii at g oii  at itieid-im at de
+078756.html,[Rd] switch to reference counting in R-devel,78756,Avraham Adler
+078796.html,[Rd] R 3.6.2 is released,78796,Avraham Adler
+078799.html,[Rd] R 3.6.2 is released,78799,Avraham Adler
+078854.html,[Rd] how to check as CRAN with alternative BLAS?,78854,Juan Telleria Ruiz de Aguirre
+078832.html,[Rd] head/tail breaking change,78832,Gabriel Becker
+078837.html,[Rd] ALTREP string methods for substr and nchar,78837,Gabriel Becker
+078838.html,"[Rd] list.files(., pattern=&lt;&gt;, recursive = TRUE, include.dirs = TRUE)",78838,Gabriel Becker
+078755.html,[Rd] switch to reference counting in R-devel,78755,Henrik Bengtsson
+078775.html,[Rd] Inconsistencies in wilcox.test,78775,Ben Bolker
+078801.html,[Rd] Build failure on powerpc64,78801,Tom Callaway
+078804.html,[Rd] Build failure on powerpc64,78804,Tom Callaway
+078809.html,[Rd] Build failure on powerpc64,78809,Tom Callaway
+078811.html,[Rd] running R with users home dirs on a shared filesystems,78811,"Cook, Malcolm"
+078757.html,[Rd] Dynamic load library problem using R 4.0.0,78757,Nicholas Crookston
+078800.html,[Rd] Dynamic load library problem using R 4.0.0,78800,Nicholas Crookston
+078820.html,[Rd] source definition for R_NilValue/return from TYPEOF(R_NilValue),78820,G&#225;bor Cs&#225;rdi
+078840.html,[Rd] Downsized R configuration for flat deployment,78840,G&#225;bor Cs&#225;rdi
+078843.html,[Rd] best way to build from Git,78843,G&#225;bor Cs&#225;rdi
+078846.html,[Rd] best way to build from Git,78846,G&#225;bor Cs&#225;rdi
+078795.html,[Rd] R 3.6.2 is released,78795,Peter Dalgaard
+078797.html,[Rd] R 3.6.2 is released,78797,Peter Dalgaard
+078802.html,[Rd] R 3.6.2 is released,78802,Peter Dalgaard
+078768.html,[Rd] Error in close.connection(p) : ignoring SIGPIPE signal,78768,William Dunlap
+078807.html,[Rd]  tempdir() containing spaces breaks installing source packages,78807,William Dunlap
+078853.html,[Rd] how to check as CRAN with alternative BLAS?,78853,Dirk Eddelbuettel
+078779.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78779,Laurent Gautier
+078789.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78789,Laurent Gautier
+078812.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78812,Laurent Gautier
+078815.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78815,Laurent Gautier
+078751.html,[Rd] data.frame could handle long vectors,78751,Jan Gorecki
+078827.html,[Rd] head/tail breaking change,78827,Jan Gorecki
+078833.html,[Rd] head/tail breaking change,78833,Jan Gorecki
+078788.html,[Rd] default col.names from data.frame not the same as as.data.frame,78788,Spencer Graves
+078848.html,[Rd] &quot;simulate&quot; does not include variability in parameter estimation,78848,Spencer Graves
+078850.html,[Rd] &quot;simulate&quot; does not include variability in parameter estimation,78850,Spencer Graves
+078770.html,[Rd] inappropriate warning in latticeExtra,78770,Richard M. Heiberger
+078836.html,[Rd] ALTREP string methods for substr and nchar,78836,Jim Hester
+078781.html,"[Rd] What should dnorm(0, 0, -Inf) return?",78781,Wang Jiefei
+078752.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78752,Tomas Kalibera
+078786.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78786,Tomas Kalibera
+078790.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78790,Tomas Kalibera
+078822.html,[Rd] Windows check problems.,78822,Tomas Kalibera
+078826.html,"[Rd] system2 doesn't quote stdin on unix, unlike stdout, stderr &amp; input and on Windows",78826,Tomas Kalibera
+078828.html,[Rd]  readBin should check that its endian argument is a legal value,78828,Tomas Kalibera
+078761.html,[Rd] error in parallel:::sendMaster,78761,Andreas Kersting
+078759.html,[Rd] error in parallel:::sendMaster,78759,Andreas Kersting
+078765.html,[Rd] Error in close.connection(p) : ignoring SIGPIPE signal,78765,Andreas Kersting
+078762.html,[Rd] Maybe bug? Using non-integer frequencies in stats::ts,78762,Johann R. Kleinbub
+078767.html,[Rd] Maybe bug? Using non-integer frequencies in stats::ts,78767,Johann R. Kleinbub
+078774.html,[Rd] Inconsistencies in wilcox.test,78774,Karolis Koncevi&#269;ius
+078776.html,[Rd] Inconsistencies in wilcox.test,78776,Karolis Koncevi&#269;ius
+078778.html,[Rd] Inconsistencies in wilcox.test,78778,Karolis Koncevi&#269;ius
+078792.html,[Rd] Inconsistencies in wilcox.test,78792,Karolis Koncevi&#269;ius
+078817.html,[Rd] Inconsistencies in wilcox.test,78817,Karolis Koncevi&#269;ius
+078819.html,[Rd] source definition for R_NilValue/return from TYPEOF(R_NilValue),78819,Dan Kortschak
+078823.html,[Rd] source definition for R_NilValue/return from TYPEOF(R_NilValue),78823,Dan Kortschak
+078824.html,[Rd] source definition for R_NilValue/return from TYPEOF(R_NilValue),78824,Dan Kortschak
+078806.html,[Rd] tempdir() containing spaces breaks installing source packages,78806,Ivan Krylov
+078818.html,"[Rd] system2 doesn't quote stdin on unix, unlike stdout, stderr &amp; input and on Windows",78818,Ivan Krylov
+078821.html,[Rd] source definition for R_NilValue/return from TYPEOF(R_NilValue),78821,Ivan Krylov
+078771.html,[Rd] long vector support,78771,Will L
+078791.html,[Rd] long vector support,78791,Will L
+078831.html,[Rd]  readBin should check that its endian argument is a legal value,78831,Jennifer Lyon
+078753.html,"[Rd]  Inappropriate class(o)[!inherits(o,&quot;AsIs&quot;)] in get_all_vars",78753,Martin Maechler
+078773.html,[Rd] long vector support,78773,Martin Maechler
+078777.html,[Rd] Inconsistencies in wilcox.test,78777,Martin Maechler
+078784.html,"[Rd] What should dnorm(0, 0, -Inf) return?",78784,Martin Maechler
+078798.html,[Rd] Inconsistencies in wilcox.test,78798,Martin Maechler
+078803.html,[Rd] Build failure on powerpc64,78803,Martin Maechler
+078814.html,[Rd] Inconsistencies in wilcox.test,78814,Martin Maechler
+078825.html,[Rd] Build failure on powerpc64,78825,Martin Maechler
+078835.html,[Rd] head/tail breaking change,78835,Martin Maechler
+078845.html,[Rd] best way to build from Git,78845,Martin Maechler
+078866.html,[Rd] Downsized R configuration for flat deployment,78866,Daniele Medri
+078763.html,[Rd] Maybe bug? Using non-integer frequencies in stats::ts,78763,Duncan Murdoch
+078769.html,[Rd] Maybe bug? Using non-integer frequencies in stats::ts,78769,Duncan Murdoch
+078783.html,[Rd] Maybe bug? Using non-integer frequencies in stats::ts,78783,Duncan Murdoch
+078793.html,[Rd] Windows check problems.,78793,Duncan Murdoch
+078830.html,[Rd] A weird behaviour of strsplit?,78830,Duncan Murdoch
+078844.html,[Rd] best way to build from Git,78844,Duncan Murdoch
+078847.html,[Rd] best way to build from Git,78847,Duncan Murdoch
+078849.html,[Rd] &quot;simulate&quot; does not include variability in parameter estimation,78849,Duncan Murdoch
+078851.html,[Rd] &quot;simulate&quot; does not include variability in parameter estimation,78851,Duncan Murdoch
+078834.html,[Rd] A weird behaviour of strsplit?,78834,"Pages, Herve"
+078758.html,[Rd] Assumption of Gaussian innovations in function stats::arima,78758,Peter Ruckdeschel
+078785.html,[Rd] Inconsistencies in wilcox.test,78785,Pavel S. Ruzankin
+078772.html,[Rd] inappropriate warning in latticeExtra,78772,Deepayan Sarkar
+078805.html,[Rd] Build failure on powerpc64,78805,Serguei Sokol
+078754.html,[Rd] switch to reference counting in R-devel,78754,"Tierney, Luke"
+078764.html,[Rd] Error in close.connection(p) : ignoring SIGPIPE signal,78764,Benjamin Tyner
+078766.html,[Rd] Error in close.connection(p) : ignoring SIGPIPE signal,78766,Benjamin Tyner
+078810.html,[Rd] running R with users home dirs on a shared filesystems,78810,Simon Urbanek
+078813.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78813,Simon Urbanek
+078816.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78816,Simon Urbanek
+078841.html,[Rd] Downsized R configuration for flat deployment,78841,Simon Urbanek
+078829.html,[Rd] A weird behaviour of strsplit?,78829,IAGO GIN&#201; V&#193;ZQUEZ
+078760.html,[Rd] foreign:::writeForeignSAS patch not released?,78760,"Weigand, Stephen D."
+078780.html,"[Rd] What should dnorm(0, 0, -Inf) return?",78780,"Weigand, Stephen D."
+078864.html,[Rd] Providing R binaries compiled against a multithreaded BLAS like Intel MKL by default?,78864,Tom Wenseleers
+078782.html,"[Rd] What should dnorm(0, 0, -Inf) return?",78782,peter dalgaard
+078787.html,"[Rd] What should dnorm(0, 0, -Inf) return?",78787,peter dalgaard
+078839.html,[Rd] Downsized R configuration for flat deployment,78839,dmedri m at iii at g oii gm at ii at com
+078808.html,[Rd] running R with users home dirs on a shared filesystems,78808,lejeczek
+078842.html,[Rd] best way to build from Git,78842,irederik m at iii at g oii oib at  at et
+078852.html,[Rd] how to check as CRAN with alternative BLAS?,78852,steven pav

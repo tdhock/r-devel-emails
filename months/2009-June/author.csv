@@ -1,0 +1,329 @@
+link,Subject,id,author
+053797.html,[Rd] validObject throws non-caught error when slot doesn't exist,53797,Patrick Aboyoun
+053820.html,[Rd] Floating point precision / guard digits? (PR#13771),53820,Liviu Andronic
+053825.html,[Rd] V2.9.0 changes [Sec=Unclassified],53825,"Antonio, Fabio Di Narzo"
+053875.html,[Rd] beginner's guide to C++ programming with R packages?,53875,Whit Armstrong
+053622.html,[Rd] Recommendations for a quick UI.,53622,Thomas Baier
+053892.html,[Rd] beginner's guide to C++ programming with R packages?,53892,Douglas Bates
+053881.html,"[Rd] Robust, platform independent method to check for python",53881,Carlos J. Gil Bellosta
+053614.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual	arguments,53614,Henrik Bengtsson
+053616.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual	arguments,53616,Henrik Bengtsson
+053668.html,"[Rd] function(x,	dim=dim(x)) { str(dim) } =&gt; recursive default argument 	reference",53668,Henrik Bengtsson
+053669.html,"[Rd] function(x,	dim=dim(x)) { str(dim) } =&gt; recursive default 	argument reference",53669,Henrik Bengtsson
+053713.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53713,Henrik Bengtsson
+053714.html,[Rd] Suggestion: Dimension-sensitive attributes,53714,Henrik Bengtsson
+053716.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53716,Henrik Bengtsson
+053718.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53718,Henrik Bengtsson
+053724.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53724,Henrik Bengtsson
+053752.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual	arguments,53752,Henrik Bengtsson
+053815.html,[Rd] Flag '#' in sprintf() format string &quot;%#x&quot;?,53815,Henrik Bengtsson
+053845.html,[Rd] V2.9.0 changes [Sec=Unclassified],53845,Henrik Bengtsson
+053593.html,[Rd] Recommendations for a quick UI.,53593,Alex Bokov
+053618.html,[Rd] install.packages hangs RGui with frozen rpwd process at bottom of process tree (PR#13734),53618,Ben Bolker
+053621.html,[Rd] The default position of plot title,53621,Ben Bolker
+053712.html,[Rd] Reduce: extra args wishlist?,53712,Ben Bolker
+053731.html,[Rd] Reduce: extra args wishlist?,53731,Ben Bolker
+053919.html,[Rd] S4 class redefinition,53919,Ross Boylan
+053920.html,[Rd] S4 class redefinition,53920,Ross Boylan
+053818.html,[Rd] Flag '#' in sprintf() format string &quot;%#x&quot;?,53818,G&#246;ran Brostr&#246;m
+053889.html,[Rd] when prompt() throws an error...,53889,Vincent Carey
+053803.html,[Rd] validObject throws non-caught error when slot doesn't exist,53803,John Chambers
+053804.html,[Rd] validObject throws non-caught error when slot doesn't exist,53804,John Chambers
+053854.html,[Rd] check stats fail | part III,53854,Evan Cooch
+053857.html,[Rd] check stats fail | part III,53857,Evan Cooch
+053859.html,[Rd] 2.9.0 and make check errors | mystery deepens,53859,Evan Cooch
+053860.html,[Rd] ready to toss the towel | lapack and 2.9.0,53860,Evan Cooch
+053861.html,[Rd] proper link to ACML  blas | compiling 2.9.0,53861,Evan Cooch
+053862.html,[Rd] can't use ATLAS  or ACML | 2.9.0,53862,Evan Cooch
+053602.html,[Rd] Recommendations for a quick UI.,53602,Kevin R. Coombes
+053841.html,[Rd] Quotations (was Re:  V2.9.0 changes [Sec=Unclassified]),53841,Kevin R. Coombes
+053923.html,[Rd] Matrix with random numbers,53923,F&#225;bio Corr&#234;a
+053650.html,[Rd] Vectorize fails for function with ... arglist,53650,Peter Dalgaard
+053782.html,[Rd] Inverting a square matrix using solve() with LAPACK=TRUE (PR#13762),53782,Peter Dalgaard
+053838.html,[Rd] V2.9.0 changes [Sec=Unclassified],53838,Peter Dalgaard
+053847.html,[Rd] compile and install R @ one user defined directory?	(PR#13779),53847,Peter Dalgaard
+053608.html,[Rd] reference counting bug: overwriting for loop 'seq' variable,53608,William Dunlap
+053629.html,[Rd] setdiff bizarre,53629,William Dunlap
+053633.html,[Rd] setdiff bizarre,53633,William Dunlap
+053639.html,[Rd] reference counting bug related to break and next in loops,53639,William Dunlap
+053653.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53653,William Dunlap
+053654.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53654,William Dunlap
+053656.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53656,William Dunlap
+053662.html,[Rd] reference counting bug related to break and next in loops,53662,William Dunlap
+053736.html,[Rd] reference counting bug related to break and next in loops,53736,William Dunlap
+053753.html,[Rd] reference counting bug related to break and next in loops,53753,William Dunlap
+053759.html,[Rd] .doTrace problem with eval.parent(substitute(expr)) vs. lazy	evaluation of expr,53759,William Dunlap
+053636.html,[Rd] statutes of R Foundation,53636,Christophe Dutang
+053737.html,[Rd] cran task view,53737,Christophe Dutang
+053740.html,[Rd] cran task view,53740,Christophe Dutang
+053710.html,[Rd] Qs on calling R from C,53710,Dirk Eddelbuettel
+053739.html,[Rd] cran task view,53739,Dirk Eddelbuettel
+053867.html,[Rd] Problem making the manuals (make dvi and make pdf),53867,Dirk Eddelbuettel
+053902.html,[Rd] Installing DLL elsewhere than in \libs?,53902,Dirk Eddelbuettel
+053743.html,[Rd] Can't get F77_CALL(dgemm) to work  [SEC=UNCLASSIFIED],53743,Daniel Elazar
+053887.html,[Rd] bug in Rf_PrintValue ?,53887,Seth Falcon
+053772.html,[Rd] calling handlers within R_tryEval,53772,Romain Francois
+053780.html,[Rd] calling handlers within R_tryEval,53780,Romain Francois
+053792.html,[Rd] R_parseVector and syntax error [was: error messages while parsing with rniParse],53792,Romain Francois
+053799.html,[Rd] R_parseVector and syntax error [was: error messages while parsing with rniParse],53799,Romain Francois
+053801.html,[Rd] R_parseVector and syntax error [was: error messages while parsing with rniParse],53801,Romain Francois
+053883.html,"[Rd] Robust, platform independent method to check for python",53883,Romain Francois
+053899.html,[Rd] active bindings and ls.str,53899,Romain Francois
+053906.html,[Rd] active bindings and ls.str,53906,Romain Francois
+053909.html,[Rd] active bindings and ls.str,53909,Romain Francois
+053910.html,[Rd] progress bar,53910,Romain Francois
+053905.html,[Rd] active bindings and ls.str,53905,Thomas Friedrichsmeier
+053908.html,[Rd] active bindings and ls.str,53908,Thomas Friedrichsmeier
+053911.html,[Rd] active bindings and ls.str,53911,Thomas Friedrichsmeier
+053726.html,[Rd] &quot;R CMD check&quot; does not find a mistake,53726,Christophe Genolini
+053727.html,[Rd] Inheritance before ANY...,53727,Christophe Genolini
+053761.html,[Rd] &quot;median&quot; accepting ordered factor,53761,Christophe Genolini
+053786.html,[Rd] Argument as.integer(NA) to a function C,53786,Christophe Genolini
+053822.html,[Rd] Floating point precision / guard digits? (PR#13771),53822,Charles Geyer
+053735.html,[Rd] .Rhistory created with wrong permissions (PR#13752),53735,Paul Gilbert
+053844.html,[Rd] Matrix vignette error in June 24 RC,53844,Paul Gilbert
+053897.html,[Rd] S4 and connection slot [Sec=Unclassified],53897,Paul Gilbert
+053896.html,[Rd] Installing DLL elsewhere than in \libs?,53896,Philippe Grosjean
+053665.html,[Rd] proposed changes to RSiteSearch,53665,Gabor Grothendieck
+053670.html,[Rd] proposed changes to RSiteSearch,53670,Gabor Grothendieck
+053672.html,[Rd] proposed changes to RSiteSearch,53672,Gabor Grothendieck
+053675.html,[Rd] proposed changes to RSiteSearch,53675,Gabor Grothendieck
+053677.html,[Rd] proposed changes to RSiteSearch,53677,Gabor Grothendieck
+053692.html,[Rd] Show location of workspace image on quit?,53692,Gabor Grothendieck
+053700.html,[Rd] Show location of workspace image on quit?,53700,Gabor Grothendieck
+053732.html,[Rd] Reduce: extra args wishlist?,53732,Gabor Grothendieck
+053748.html,[Rd] bundle deprecation,53748,Gabor Grothendieck
+053756.html,[Rd] Rprof loses all system() time,53756,Gabor Grothendieck
+053769.html,[Rd] read.csv,53769,Gabor Grothendieck
+053771.html,[Rd] read.csv,53771,Gabor Grothendieck
+053813.html,[Rd] Special characters in Rd example section will cause errors,53813,Gabor Grothendieck
+053840.html,[Rd] loadNamespace and useDynLib,53840,Gabor Grothendieck
+053882.html,"[Rd] Robust, platform independent method to check for python",53882,Gabor Grothendieck
+053885.html,"[Rd] Robust, platform independent method to check for python",53885,Gabor Grothendieck
+053747.html,[Rd] bundle deprecation,53747,Robin Hankin
+053754.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual	arguments,53754,Kasper Daniel Hansen
+053823.html,[Rd] Floating point precision / guard digits? (PR#13771),53823,Kasper Daniel Hansen
+053833.html,[Rd] loadNamespace and useDynLib,53833,Kasper Daniel Hansen
+053770.html,[Rd] read.csv,53770, (Ted Harding)
+053715.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53715,Kurt Hornik
+053717.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53717,Kurt Hornik
+053613.html,[Rd] The default position of plot title,53613,Ronggui Huang
+053685.html,[Rd] Show location of workspace image on quit?,53685,Ronggui Huang
+053691.html,[Rd] Show location of workspace image on quit?,53691,Ronggui Huang
+053777.html,[Rd]  Dynamic Library linked with Parallel Intel MKL,53777,Markus Jochmann
+053655.html,[Rd] Would like to add this to example for plotmath. Can you help?,53655,Paul Johnson
+053666.html,[Rd] Would like to add this to example for plotmath. Can you	help?,53666,Paul Johnson
+053874.html,[Rd] beginner's guide to C++ programming with R packages?,53874,Paul Johnson
+053637.html,[Rd] How to generate R objects in C?,53637,Kynn Jones
+053705.html,[Rd] need help with libtool/aclocal error,53705,Kynn Jones
+053708.html,[Rd] need help with libtool/aclocal error,53708,Kynn Jones
+053709.html,[Rd] Qs on calling R from C,53709,Kynn Jones
+053711.html,[Rd] Qs on calling R from C,53711,Kynn Jones
+053725.html,[Rd] How to explore R internals through gdb?,53725,Kynn Jones
+053757.html,[Rd] Issues converting from JSON to R,53757,Kynn Jones
+053765.html,[Rd] conditional dependencies &amp; loading,53765,Kynn Jones
+053793.html,[Rd] ScalarLong?,53793,Kynn Jones
+053855.html,[Rd] R data inspection under gdb?,53855,Kynn Jones
+053872.html,[Rd] R data inspection under gdb?,53872,Kynn Jones
+053873.html,[Rd] bug in Rf_PrintValue ?,53873,Kynn Jones
+053723.html,[Rd] Defining a S4 method for existing function interaction.plot,53723,Thomas Roth (geb. Kaliwe)
+053827.html,[Rd] Accessing an object from the function in its .Data slot?,53827,Martin Kober
+053814.html,[Rd] Floating point precision / guard digits? (PR#13771),53814,Dr. D. P. Kreil
+053826.html,[Rd] Floating point precision / guard digits? (PR#13771),53826,Dr. D. P. Kreil
+053604.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53604,Wacek Kusnierczyk
+053611.html,[Rd] reference counting bug: overwriting for loop 'seq' variable,53611,Wacek Kusnierczyk
+053628.html,[Rd] setdiff bizarre,53628,Wacek Kusnierczyk
+053631.html,[Rd] setdiff bizarre,53631,Wacek Kusnierczyk
+053634.html,[Rd] setdiff bizarre,53634,Wacek Kusnierczyk
+053644.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53644,Wacek Kusnierczyk
+053645.html,[Rd] reference counting bug related to break and next in loops,53645,Wacek Kusnierczyk
+053646.html,[Rd] reference counting bug related to break and next in loops,53646,Wacek Kusnierczyk
+053667.html,[Rd] reference counting bug related to break and next in loops,53667,Wacek Kusnierczyk
+053673.html,[Rd] bug tracker,53673,Wacek Kusnierczyk
+053682.html,[Rd] Show location of workspace image on quit?,53682,Wacek Kusnierczyk
+053684.html,[Rd] Show location of workspace image on quit?,53684,Wacek Kusnierczyk
+053688.html,[Rd] Show location of workspace image on quit?,53688,Wacek Kusnierczyk
+053907.html,[Rd] S4 and connection slot [Sec=Unclassified],53907,Wacek Kusnierczyk
+053680.html,[Rd] proposed changes to RSiteSearch,53680,"Liaw, Andy"
+053605.html,[Rd] install.packages hangs RGui with frozen rpwd process at bottom	of process tree (PR#13734),53605,Uwe Ligges
+053721.html,[Rd] iconv.dll needed in addition to Riconv.dll for package XML to	load (PR#13747),53721,Uwe Ligges
+053745.html,[Rd] ylim (PR#13753),53745,Uwe Ligges
+053839.html,[Rd] loadNamespace and useDynLib,53839,Uwe Ligges
+053609.html,[Rd] BUG: `lag` returns object of incorrect class,53609,Stavros Macrakis
+053624.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53624,Stavros Macrakis
+053626.html,[Rd] Recommendations for a quick UI.,53626,Stavros Macrakis
+053635.html,[Rd] setdiff bizarre,53635,Stavros Macrakis
+053638.html,[Rd] Vectorize fails for function with ... arglist,53638,Stavros Macrakis
+053640.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53640,Stavros Macrakis
+053657.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53657,Stavros Macrakis
+053704.html,[Rd] sort/partial NA handling,53704,Stavros Macrakis
+053811.html,[Rd] Floating point precision / guard digits? (PR#13771),53811,Stavros Macrakis
+053832.html,[Rd] Documentation/software inconsistency in `:` and seq,53832,Stavros Macrakis
+053842.html,[Rd] Documentation/software inconsistency in `:` and seq,53842,Stavros Macrakis
+053877.html,[Rd] Bugs in unique of data.frame and matrix,53877,Stavros Macrakis
+053895.html,[Rd] S4 and connection slot [Sec=Unclassified],53895,Stavros Macrakis
+053600.html,[Rd] Reshaping Data -- do use R-help !,53600,Martin Maechler
+053601.html,[Rd] Recommendations for a quick UI.,53601,Martin Maechler
+053603.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53603,Martin Maechler
+053643.html,"[Rd] do *not* crosspost! {.... R.dll Reg.,}",53643,Martin Maechler
+053648.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53648,Martin Maechler
+053649.html,[Rd] R-devel:codocClasses() now finds more --&gt; R CMD check warnings,53649,Martin Maechler
+053663.html,"[Rd] Print bug for matrix(list(NA_complex_, ...))",53663,Martin Maechler
+053728.html,[Rd] Inheritance before ANY...,53728,Martin Maechler
+053810.html,[Rd] R-project mailing lists (and SVN) - timeout Sunday 21 June,53810,Martin Maechler
+053836.html,[Rd] V2.9.0 changes [Sec=Unclassified],53836,Martin Maechler
+053837.html,[Rd] Documentation/software inconsistency in `:` and seq,53837,Martin Maechler
+053913.html,[Rd] Matrix with random number,53913,Fabio Mathias
+053914.html,[Rd] Matrix with random number,53914,Fabio Mathias
+053918.html,[Rd] Matrix with random number,53918,Fabio Mathias
+053619.html,[Rd] S4 Objects [Sec=Unclassified],53619,Martin Morgan
+053829.html,[Rd] V2.9.0 changes [Sec=Unclassified],53829,Martin Morgan
+053830.html,[Rd] Accessing an object from the function in its .Data slot?,53830,Martin Morgan
+053856.html,[Rd] R data inspection under gdb?,53856,Martin Morgan
+053878.html,[Rd] bug in Rf_PrintValue ?,53878,Martin Morgan
+053894.html,[Rd] S4 and connection slot [Sec=Unclassified],53894,Martin Morgan
+053898.html,[Rd] S4 and connection slot [Sec=Unclassified],53898,Martin Morgan
+053598.html,[Rd] Reshaping Data,53598,Christian Morgenstern
+053671.html,[Rd] proposed changes to RSiteSearch,53671,Duncan Murdoch
+053674.html,[Rd] proposed changes to RSiteSearch,53674,Duncan Murdoch
+053678.html,[Rd] [R] custom sort?,53678,Duncan Murdoch
+053683.html,[Rd] Show location of workspace image on quit?,53683,Duncan Murdoch
+053690.html,[Rd] Show location of workspace image on quit?,53690,Duncan Murdoch
+053693.html,[Rd] proposed changes to RSiteSearch,53693,Duncan Murdoch
+053763.html,[Rd] Masked user input,53763,Duncan Murdoch
+053764.html,[Rd] Anyone using Interwrite PRS clickers?,53764,Duncan Murdoch
+053766.html,[Rd] conditional dependencies &amp; loading,53766,Duncan Murdoch
+053794.html,[Rd] R_parseVector and syntax error [was: error messages while parsing with rniParse],53794,Duncan Murdoch
+053798.html,[Rd] R_parseVector and syntax error [was: error messages while parsing with rniParse],53798,Duncan Murdoch
+053800.html,[Rd] R_parseVector and syntax error [was: error messages while parsing with rniParse],53800,Duncan Murdoch
+053805.html,[Rd] Changes to Rd handling in R-devel,53805,Duncan Murdoch
+053807.html,[Rd] Changes to Rd handling in R-devel,53807,Duncan Murdoch
+053817.html,[Rd] Special characters in Rd example section will cause errors,53817,Duncan Murdoch
+053819.html,[Rd] Changes to Rd handling in R-devel,53819,Duncan Murdoch
+053828.html,[Rd] Accessing an object from the function in its .Data slot?,53828,Duncan Murdoch
+053858.html,[Rd] Rd: pdf manual: package information not on first page,53858,Duncan Murdoch
+053865.html,[Rd] Rd: pdf manual: package information not on first page,53865,Duncan Murdoch
+053869.html,[Rd] Rd: pdf manual: package information not on first page,53869,Duncan Murdoch
+053746.html,[Rd] Can't get F77_CALL(dgemm) to work  [SEC=UNCLASSIFIED],53746,John Nolan
+053729.html,[Rd] cmdscale &amp; non-Euclidean dissimilarities,53729,Jari Oksanen
+053607.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual arguments,53607,Herv&#233; Pag&#232;s
+053760.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual	arguments,53760,Herv&#233; Pag&#232;s
+053749.html,"[Rd] [Fwd: Problem with tabbed notebook (tcltk, Iwidgets)]",53749,Talita Perciano
+053750.html,"[Rd] Problem with tabbed notebook (tcltk, Iwidgets)",53750,Talita Perciano
+053755.html,[Rd] Rprof loses all system() time,53755,Andrew Piskorski
+053879.html,[Rd] should Sys.glob() cope with a UNC windows path beginning with	backslashes?,53879,Tony Plate
+053900.html,[Rd] should Sys.glob() cope with a UNC windows path beginning with backslashes?,53900,Tony Plate
+053917.html,[Rd] active bindings and ls.str,53917,Tony Plate
+053864.html,[Rd] Problem making the manuals (make dvi and make pdf),53864,"Rau, Roland"
+053868.html,[Rd] Problem making the manuals (make dvi and make pdf),53868,"Rau, Roland"
+053642.html,[Rd] How to generate R objects in C?,53642,Mathieu Ribatet
+053686.html,[Rd] Show location of workspace image on quit?,53686,Mathieu Ribatet
+053903.html,[Rd] beginner's guide to C++ programming with R packages?,53903,Mathieu Ribatet
+053659.html,[Rd] Problems with plot and Quartz device (PR#13744),53659,Thomas Richardson
+053660.html,[Rd] Problems with plot and Quartz device / What is alpha?,53660,Thomas Richardson
+053597.html,[Rd] (PR#13735) LM/GLM can't find weights vector from within a function,53597,Prof Brian Ripley
+053695.html,[Rd] Show location of workspace image on quit?,53695,Prof Brian Ripley
+053696.html,[Rd] Bug in print.Arima and patch,53696,Prof Brian Ripley
+053699.html,[Rd] Bug in print.Arima and patch,53699,Prof Brian Ripley
+053707.html,[Rd] need help with libtool/aclocal error,53707,Prof Brian Ripley
+053719.html,[Rd] CRAN build/checks: Dependencies on non-CRAN packages?,53719,Prof Brian Ripley
+053730.html,[Rd] Reduce: extra args wishlist?,53730,Prof Brian Ripley
+053741.html,[Rd] .Rhistory created with wrong permissions (PR#13752),53741,Prof Brian Ripley
+053768.html,[Rd] Portuguese translation problem (PR#13756),53768,Prof Brian Ripley
+053791.html,[Rd] Argument as.integer(NA) to a function C,53791,Prof Brian Ripley
+053790.html,[Rd] binding message from R CMD check,53790,Prof Brian Ripley
+053870.html,[Rd] can't use ATLAS  or ACML | 2.9.0,53870,Prof Brian Ripley
+053880.html,[Rd] should Sys.glob() cope with a UNC windows path beginning with backslashes?,53880,Prof Brian Ripley
+053891.html,[Rd] Removing support for --without-iconv,53891,Prof Brian Ripley
+053610.html,[Rd] S4 Objects [Sec=Unclassified],53610,Troy Robertson
+053824.html,[Rd] V2.9.0 changes [Sec=Unclassified],53824,Troy Robertson
+053834.html,[Rd] V2.9.0 changes [Sec=Unclassified],53834,Troy Robertson
+053835.html,[Rd] V2.9.0 changes [Sec=Unclassified],53835,Troy Robertson
+053888.html,[Rd] S4 and connection slot [Sec=Unclassified],53888,Troy Robertson
+053890.html,[Rd] S4 and connection slot [Sec=Unclassified],53890,Troy Robertson
+053901.html,[Rd] S4 and connection slot [Sec=Unclassified],53901,Troy Robertson
+053630.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53630,Barry Rowlingson
+053681.html,[Rd] Show location of workspace image on quit?,53681,Barry Rowlingson
+053689.html,[Rd] Show location of workspace image on quit?,53689,Barry Rowlingson
+053698.html,[Rd] Show location of workspace image on quit?,53698,Barry Rowlingson
+053703.html,[Rd] Show location of workspace image on quit?,53703,Barry Rowlingson
+053916.html,[Rd] Matrix with random number,53916,Barry Rowlingson
+053876.html,[Rd] beginner's guide to C++ programming with R packages?,53876,J Ryan
+053779.html,[Rd] read.csv,53779,Petr Savicky
+053848.html,[Rd] read.csv,53848,Petr Savicky
+053849.html,[Rd] read.csv,53849,Petr Savicky
+053816.html,[Rd] Flag '#' in sprintf() format string &quot;%#x&quot;?,53816,Marc Schwartz
+053617.html,[Rd] cryptic error message from R CMD check,53617,Marco Scutari
+053850.html,[Rd] ignoring SIGPIPE signal + error loading lapack routines,53850,Yaniv Semel
+053694.html,[Rd] Bug in print.Arima and patch,53694,Gavin Simpson
+053697.html,[Rd] Bug in print.Arima and patch,53697,Gavin Simpson
+053912.html,[Rd] Conditional dependency between packages,53912,Jon Olav Skoien
+053632.html,[Rd] Recommendations for a quick UI.,53632,Greg Snow
+053851.html,[Rd] Rd: pdf manual: package information not on first page,53851,Thorn Thaler
+053863.html,[Rd] Rd: pdf manual: package information not on first page,53863,Thorn Thaler
+053866.html,[Rd] Rd: pdf manual: package information not on first page,53866,Thorn Thaler
+053788.html,[Rd] binding message from R CMD check,53788,Terry Therneau
+053744.html,[Rd] .Rhistory created with wrong permissions (PR#13752),53744,Nicolas Thierry-Mieg
+053651.html,[Rd] Problems with plot and Quartz device (PR#13744),53651,Simon Urbanek
+053652.html,[Rd] Problems with plot and Quartz device,53652,Simon Urbanek
+053658.html,[Rd] Problems with plot and Quartz device / What is alpha?,53658,Simon Urbanek
+053661.html,[Rd] Problems with plot and Quartz device (PR#13744),53661,Simon Urbanek
+053758.html,[Rd] Issues converting from JSON to R,53758,Simon Urbanek
+053776.html,[Rd] R build fails during make when configured with	&quot;--with-x=no&quot; (PR#13665),53776,Simon Urbanek
+053787.html,[Rd] Argument as.integer(NA) to a function C,53787,Simon Urbanek
+053795.html,[Rd] R_parseVector and syntax error [was: error messages while	parsing with rniParse],53795,Simon Urbanek
+053796.html,[Rd] ScalarLong?,53796,Simon Urbanek
+053884.html,"[Rd] Robust, platform independent method to check for python",53884,Steve Weston
+053886.html,"[Rd] Robust, platform independent method to check for python",53886,Steve Weston
+053620.html,[Rd] warning: some HTML links ...,53620,Daniel Wright
+053812.html,[Rd] Special characters in Rd example section will cause errors,53812,Yihui Xie
+053641.html,"[Rd] [R] FW: R.dll Reg.,",53641,Linlin Yan
+053738.html,[Rd] cran task view,53738,Achim Zeileis
+053623.html,[Rd] qpois documentation (PR#13743),53623,Jerry.Lewis at biogenidec.com
+053784.html,[Rd] Inverting a square... (PR#13765),53784,P.Dalgaard at biostat.ku.dk
+053785.html,[Rd] Inverting a square... (PR#13762),53785,P.Dalgaard at biostat.ku.dk
+053783.html,[Rd] Inverting a square matrix using solve() with LAPACK=TRUE	(PR#13765),53783,p.dalgaard at biostat.ku.dk
+053701.html,[Rd] Bug in the package RODBC (PR#13745),53701,nachikethas at cox.net
+053852.html,[Rd] failed stats check | R 2.9.0,53852,egc
+053853.html,[Rd] more on make check states failure,53853,egc
+053871.html,[Rd] can't use ATLAS  or ACML | 2.9.0,53871,egc
+053846.html,[Rd] compile and install R @ one user defined directory? (PR#13779),53846,xwu at epsilon.com
+053612.html,[Rd] formal argument &quot;envir&quot; matched by multiple	actual	arguments,53612,hpages at fhcrc.org
+053924.html,"[Rd] possible agrep bug; R 2.9.1, Mac OS X 10.5 (PR#13789)",53924,e.leoni at gmail.com
+053821.html,[Rd] Floating point precision / guard digits? (PR#13771),53821,landronimirc at gmail.com
+053599.html,[Rd] Mistake in CP1257.enc file of grDevices package (PR#13736),53599,zemlys at gmail.com
+053904.html,[Rd] bug in nlme package function predict.lmList (PR#13788),53904,zemlys at gmail.com
+053720.html,[Rd] iconv.dll needed in addition to Riconv.dll for package XML to	load (PR#13747),53720,osiander.meixner at hp.com
+053802.html,[Rd] RGui Configuration Editor crashes when using an unlisted font,53802,Richard.Cotton at hsl.gov.uk
+053843.html,[Rd] RGui Configuration editor crashes when using an unlisted font	(PR#13780),53843,richard.cotton at hsl.gov.uk
+053615.html,[Rd] Bug in so_strsplit (PR#13742),53615,waku at idi.ntnu.no
+053733.html,[Rd] .Rhistory created with wrong permissions (PR#13752),53733,Nicolas.Thierry-Mieg at imag.fr
+053925.html,[Rd] Bug when specifying size of png/jpg/bmp/tiff in mm (PR#13790),53925,maurice.berk01 at imperial.ac.uk
+053781.html,[Rd] Inverting a square matrix using solve() with LAPACK=TRUE	(PR#13762),53781,rvaradhan at jhmi.edu
+053808.html,[Rd] Inverting a square... (PR#13762),53808,rvaradhan at jhmi.edu
+053774.html,[Rd] R build fails during make when configured with &quot;--with-x=no&quot; (PR#13665),53774,kevmac
+053809.html,[Rd] Floating point precision / guard digits? (PR#13771),53809,rbugs09 at kreil.org
+053702.html,[Rd] Bug in the package RODBC (PR#13745),53702,marc_schwartz at me.com
+053762.html,[Rd]  Masked user input,53762,miller_2555
+053773.html,[Rd] Masked user input - SOLVED,53773,miller_2555
+053893.html,[Rd] pbeta (PR#13786),53893,pokar at mimuw.edu.pl
+053742.html,[Rd] ylim (PR#13753),53742,anonruser at mit.edu
+053775.html,[Rd] Wishlist: as.raw [or similar] support for tcl strings	(PR#13758),53775,whorfin at pixar.com
+053664.html,[Rd] proposed changes to RSiteSearch,53664,spencerg
+053676.html,[Rd] proposed changes to RSiteSearch,53676,spencerg
+053679.html,[Rd] proposed changes to RSiteSearch,53679,spencerg
+053687.html,[Rd] proposed changes to RSiteSearch,53687,spencerg
+053706.html,[Rd] proposed changes to RSiteSearch,53706,spencerg
+053915.html,[Rd] install.packages with R 2.9.1 under Vista?,53915,spencerg
+053625.html,[Rd] reference counting bug: overwriting for loop 'seq' variable,53625,luke at stat.uiowa.edu
+053627.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual arguments,53627,luke at stat.uiowa.edu
+053734.html,[Rd] reference counting bug related to break and next in loops,53734,luke at stat.uiowa.edu
+053751.html,[Rd] formal argument &quot;envir&quot; matched by multiple actual arguments,53751,luke at stat.uiowa.edu
+053778.html,[Rd] calling handlers within R_tryEval,53778,luke at stat.uiowa.edu
+053831.html,[Rd] Accessing an object from the function in its .Data slot?,53831,luke at stat.uiowa.edu
+053647.html,[Rd] Problems with plot and Quartz device (PR#13744),53647,tsr at stat.washington.edu
+053606.html,[Rd] install.packages hangs RGui with frozen rpwd process at	(PR#13739),53606,ligges at statistik.tu-dortmund.de
+053722.html,[Rd] iconv.dll needed in addition to Riconv.dll for package XML	(PR#13748),53722,ligges at statistik.tu-dortmund.de
+053596.html,[Rd] LM/GLM can't find weights vector from within a function	(PR#13735),53596,gaidys at uol.com.br
+053767.html,[Rd] Portuguese translation problem (PR#13756),53767,azevedofilho at usp.br
+053806.html,[Rd] Changes to Rd handling in R-devel,53806,hadley wickham

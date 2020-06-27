@@ -1,0 +1,432 @@
+link,Subject,id,author
+032830.html,[Rd] A 'true' R-wrapper for C++ classes,32830,Ali -
+032836.html,[Rd] RE: A 'true' R-wrapper for C++ classes,32836,Ali -
+032866.html,[Rd] Overloading methods in R,32866,Ali -
+032869.html,[Rd] Overloading methods in R,32869,Ali -
+032872.html,[Rd] Overloading methods in R,32872,Ali -
+032891.html,[Rd] Limitations of generic functions,32891,Ali -
+032893.html,[Rd] Overloading methods in R,32893,Ali -
+032900.html,[Rd] Overloading methods in R,32900,Ali -
+032907.html,[Rd] Overloading methods in R,32907,Ali -
+032916.html,[Rd] Overloading methods in R,32916,Ali -
+032919.html,[Rd] Overloading methods in R,32919,Ali -
+032926.html,[Rd] Overloading methods in R,32926,Ali -
+032931.html,[Rd] Passing arguments to standardGeneric,32931,Ali -
+032946.html,[Rd] Collade doesn't work for more than 256 files!,32946,Ali -
+032949.html,[Rd] Collade doesn't work for more than 256 files!,32949,Ali -
+032962.html,[Rd] Speeding up library loading,32962,Ali -
+032965.html,[Rd] Speeding up library loading,32965,Ali -
+032969.html,[Rd] Speeding up library loading,32969,Ali -
+032971.html,[Rd] Speeding up library loading,32971,Ali -
+032975.html,[Rd] Speeding up library loading,32975,Ali -
+032983.html,[Rd] Speeding up library loading,32983,Ali -
+033005.html,[Rd] C++ &lt;-&gt; R mapping,33005,Ali -
+033015.html,[Rd] C++ &lt;-&gt; R mapping,33015,Ali -
+032960.html,[Rd] Mail could not be delivered,32960,SAS Postmaster 91
+032666.html,[Rd] R-alpha_2005-03-31: make check fails on Debian 3.0,32666,Bj&#248;rn-Helge Mevik
+032783.html,[Rd] Freelance developper job,32783,Renaud Baboin
+032825.html,[Rd] density() with weights,32825,Adrian Baddeley
+032620.html,[Rd] An exercise in the use of 'substitute',32620,Douglas Bates
+032697.html,[Rd] subversion,32697,Douglas Bates
+032849.html,[Rd] Why no BIC.default function?,32849,Douglas Bates
+032892.html,[Rd] Overloading methods in R,32892,Henrik Bengtsson
+032898.html,[Rd] Overloading methods in R,32898,Henrik Bengtsson
+032911.html,[Rd] Overloading methods in R,32911,Henrik Bengtsson
+032912.html,[Rd] Overloading methods in R,32912,Henrik Bengtsson
+032888.html,[Rd] Negative argument for head() and tail(),32888,Charles C. Berry
+032995.html,[Rd] &quot;wild&quot; function example in optim,32995,Werner Bier
+033011.html,[Rd] &quot;wild&quot; function example in optim,33011,Werner Bier
+033066.html,[Rd] as.numeric method for objects of class &quot;difftime&quot;,33066,Bill.Venables at csiro.au
+032727.html,[Rd] make check-all fails (PR#7784),32727,M. Edward (Ed) Borasky
+032731.html,[Rd] make check-all fails (PR#7784),32731,M. Edward (Ed) Borasky
+032736.html,[Rd] make check-all fails (PR#7784),32736,M. Edward (Ed) Borasky
+033075.html,[Rd] as.numeric method for objects of class &quot;difftime&quot;,33075,M. Edward (Ed) Borasky
+033070.html,[Rd] formals assignment now strips attributres,33070,Patrick Burns
+033077.html,[Rd] formals assignment now strips attributres,33077,Patrick Burns
+032615.html,[Rd] simtest with lm object: depends on order in formula,32615,Christoph Buser
+032984.html,[Rd] Fwd: R - C programm. calling load() from within C code,32984,javier garcia - CEBAS
+032851.html,"[Rd] S4 extends a class, but .Data slot has different class",32851,John Chambers
+032859.html,[Rd] Re: [R] pl/R and MacOS X using R binary,32859,Joe Conway
+033051.html,[Rd] Calling R functions from Java,33051,D0c
+032621.html,[Rd] An exercise in the use of 'substitute',32621,Peter Dalgaard
+032629.html,[Rd] Solaris10/amd64 + SunSutio Compile (PR#7767),32629,Peter Dalgaard
+032643.html,[Rd] Alpha releases from Copenhagen not mirrored?,32643,Peter Dalgaard
+032647.html,[Rd] Error: cannot set length of non-vector,32647,Peter Dalgaard
+032654.html,[Rd] Problems with predict.lm: incorrect SE estimate (PR#7772),32654,Peter Dalgaard
+032701.html,[Rd] R-beta 2004-04-07 build failed on AIX,32701,Peter Dalgaard
+032711.html,[Rd] R-beta 2004-04-07 build failed on AIX,32711,Peter Dalgaard
+032726.html,[Rd] make check-all fails (PR#7784),32726,Peter Dalgaard
+032728.html,[Rd] make check-all fails (PR#7784),32728,Peter Dalgaard
+032732.html,[Rd] make check-all fails (PR#7784),32732,Peter Dalgaard
+032733.html,[Rd] make check-all fails (PR#7784),32733,Peter Dalgaard
+032738.html,[Rd] make check-all fails (PR#7784),32738,Peter Dalgaard
+032742.html,[Rd] strange error with rw2010dev,32742,Peter Dalgaard
+032744.html,[Rd] strange error with rw2010dev,32744,Peter Dalgaard
+032806.html,[Rd] inconsistent fonts generated in postscript file (PR#7795),32806,Peter Dalgaard
+032807.html,[Rd] (no subject),32807,Peter Dalgaard
+032816.html,[Rd] dealing with empty actual arguments matched by '...' formals,32816,Peter Dalgaard
+032835.html,[Rd] citation() chops &quot;Roeland &quot; (PR#7797),32835,Peter Dalgaard
+032843.html,[Rd] RFC: hexadecimal constants and decimal points,32843,Peter Dalgaard
+032915.html,[Rd] Plots with lots of points (PR#7805),32915,Peter Dalgaard
+032925.html,[Rd] Infinite degrees of freedom for F-distribution,32925,Peter Dalgaard
+032953.html,[Rd] RAW types not restored from Rda files (PR#7812),32953,Peter Dalgaard
+032988.html,[Rd] Enhanced version of plot.lm(),32988,Peter Dalgaard
+032994.html,[Rd] tclServiceMode:  stop Tcl/Tk from updating,32994,Peter Dalgaard
+033001.html,[Rd] &quot;wild&quot; function example in optim,33001,Peter Dalgaard
+033006.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33006,Peter Dalgaard
+033030.html,[Rd] Enhanced version of plot.lm(),33030,Peter Dalgaard
+033072.html,[Rd] formals assignment now strips attributres,33072,Peter Dalgaard
+033078.html,[Rd] formals assignment now strips attributres,33078,Peter Dalgaard
+032751.html,[Rd] C Interface to R?,32751,Sean Davis
+032858.html,[Rd] Re: [R] pl/R and MacOS X using R binary,32858,Sean Davis
+032867.html,[Rd] Overloading methods in R,32867,Sean Davis
+032884.html,[Rd] Overloading methods in R,32884,Latchezar Dimitrov
+032641.html,[Rd] Alpha releases from Copenhagen not mirrored?,32641,Dirk Eddelbuettel
+032642.html,[Rd] Alpha releases from Copenhagen not mirrored?,32642,Dirk Eddelbuettel
+032719.html,[Rd] orphaning CRAN packages,32719,Dirk Eddelbuettel
+032938.html,[Rd] Objects in R,32938,Byron Ellis
+032950.html,[Rd] Objects in R,32950,Byron Ellis
+032669.html,[Rd] Install R 2.0 package on R 1.9.1,32669,Paul English
+032671.html,[Rd] Install R 2.0 package on R 1.9.1,32671,Paul English
+032875.html,[Rd] Overloading methods in R,32875,Seth Falcon
+032944.html,[Rd] Objects in R,32944,Seth Falcon
+032977.html,[Rd] Feature request: report the url if 404 error occurs,32977,Seth Falcon
+032936.html,[Rd] Enhanced version of plot.lm(),32936,David Firth
+032942.html,[Rd] Enhanced version of plot.lm(),32942,David Firth
+032685.html,[Rd] HP-UX and IRIX recent builds? Any other rare platforms?,32685,Rich FitzJohn
+032740.html,[Rd] S4 group methods don't dispatch for &quot;Summary&quot;?,32740,Rich FitzJohn
+032890.html,[Rd] Suggestions for manipulating formula objects,32890,Rich FitzJohn
+032619.html,[Rd] Selections from tcltk list boxes,32619,John Fox
+032992.html,[Rd] tclServiceMode:  stop Tcl/Tk from updating,32992,John Fox
+033040.html,[Rd] Enhanced version of plot.lm(),33040,John Fox
+033046.html,[Rd] Enhanced version of plot.lm(),33046,John Fox
+033050.html,[Rd] Enhanced version of plot.lm(),33050,John Fox
+032703.html,[Rd] orphaning CRAN packages,32703,Friedrich.Leisch at tuwien.ac.at
+032838.html,[Rd] citation() chops &quot;Roeland &quot; (PR#7797),32838,Friedrich.Leisch at tuwien.ac.at
+032839.html,[Rd] citation() chops &quot;Roeland &quot; (PR#7797),32839,Friedrich.Leisch at tuwien.ac.at
+032874.html,[Rd] Embedded R and x11,32874,Thomas Friedrichsmeier
+032876.html,[Rd] Re: Embedded R and x11,32876,Thomas Friedrichsmeier
+032883.html,[Rd] Embedded R and x11,32883,Thomas Friedrichsmeier
+032906.html,[Rd] Overloading methods in R,32906,Jeff Gentry
+032910.html,[Rd] Overloading methods in R,32910,Jeff Gentry
+032913.html,[Rd] Overloading methods in R,32913,Jeff Gentry
+032614.html,[Rd] formulas and frames,32614,Charles Geyer
+032633.html,[Rd] formulas and frames,32633,Charles Geyer
+032634.html,[Rd] formulas and frames,32634,Charles Geyer
+032636.html,[Rd] Error: cannot set length of non-vector,32636,Charles Geyer
+032640.html,[Rd] Error: cannot set length of non-vector,32640,Charles Geyer
+032659.html,[Rd] Error: cannot set length of non-vector,32659,Charles Geyer
+032690.html,[Rd] subversion,32690,Charles Geyer
+032802.html,[Rd] MacOS X check summary missing packages,32802,Charles Geyer
+032754.html,[Rd] par()$ask in plot.acf,32754,Paul Gilbert
+032881.html,[Rd] Negative argument for head() and tail(),32881,Vincent Goulet
+032886.html,[Rd] Negative argument for head() and tail(),32886,Vincent Goulet
+032637.html,[Rd] Re: F90,32637,Gorjanc Gregor
+032618.html,[Rd] formulas and frames,32618,Gabor Grothendieck
+032622.html,[Rd] An exercise in the use of 'substitute',32622,Gabor Grothendieck
+032635.html,[Rd] formulas and frames,32635,Gabor Grothendieck
+032667.html,[Rd] future update to loess,32667,Gabor Grothendieck
+032792.html,[Rd] documentation for 'open': some clarification?,32792,Gabor Grothendieck
+032821.html,[Rd] RFC: hexadecimal constants and decimal points,32821,Gabor Grothendieck
+032879.html,[Rd] Overloading methods in R,32879,Gabor Grothendieck
+032894.html,[Rd] Suggestions for manipulating formula objects,32894,Gabor Grothendieck
+032917.html,[Rd] Overloading methods in R,32917,Gabor Grothendieck
+032920.html,[Rd] Overloading methods in R,32920,Gabor Grothendieck
+033052.html,[Rd] [R] strange behaviour of importFrom directive in name space,33052,Florian Hahne
+032868.html,[Rd] make check failure -- R 2.1.0 Windows XP SP2,32868,Conrad Halling
+032656.html,[Rd] intentional changes in rw2010alpha?,32656,Kjetil Brinchmann Halvorsen
+032739.html,[Rd] strange error with rw2010dev,32739,Kjetil Brinchmann Halvorsen
+032746.html,[Rd] cancor bug,32746,Kjetil Brinchmann Halvorsen
+032747.html,[Rd] docu buglet,32747,Kjetil Brinchmann Halvorsen
+033071.html,[Rd] Re: [R] Warning from Rcmd check - data could not find data set,33071,Kjetil Brinchmann Halvorsen
+032707.html,[Rd] new R package BRugs,32707, (Ted Harding)
+032712.html,[Rd] new R package BRugs,32712, (Ted Harding)
+032716.html,[Rd] orphaning CRAN packages,32716, (Ted Harding)
+032720.html,[Rd] orphaning CRAN packages,32720, (Ted Harding)
+032724.html,Pacakge norm (was Re: [Rd] orphaning CRAN packages),32724, (Ted Harding)
+032865.html,[Rd] Compiler flags for portland group compilers on opteron (64 bit),32865,Julie Harold
+033059.html,[Rd] Calling R functions from Java,33059,Markus Helbig
+032789.html,[Rd] How allocate STRSXP outside of gc,32789,Jeffrey Horner
+032646.html,[Rd] Error: cannot set length of non-vector,32646,Kurt Hornik
+032648.html,[Rd] Error: cannot set length of non-vector,32648,Kurt Hornik
+032657.html,[Rd] Error: cannot set length of non-vector,32657,Kurt Hornik
+032663.html,[Rd] R-alpha_2005-03-31: make check fails on Debian 3.0,32663,Kurt Hornik
+032688.html,[Rd] about mantelhaen.test (PR#7779),32688,Kurt Hornik
+032930.html,[Rd] negative p-values from fisher's test (PR#7801),32930,Kurt Hornik
+032616.html,[Rd] Re: simtest with lm object: depends on order in formula,32616,Torsten Hothorn
+033034.html,[Rd] RE: [R] Advice for calling a C function,33034,"Huntsinger, Reid"
+032978.html,[Rd] associating R with .R and .RData files (PR#7818),32978,Seyed Reza Jafarzadeh
+032854.html,[Rd] building recommended packages on Windows,32854,Hiroyuki Kawakatsu
+032860.html,[Rd] building recommended packages on Windows,32860,Hiroyuki Kawakatsu
+032901.html,[Rd] Limitations of generic functions,32901,Tim Keitt
+032771.html,[Rd] How allocate STRSXP outside of gc,32771,Jan T. Kim
+032822.html,[Rd] RFC: hexadecimal constants and decimal points,32822,Jan T. Kim
+032905.html,[Rd] Objects in R,32905,Jan T. Kim
+032788.html,[Rd] documentation for 'open': some clarification?,32788,Na Li
+032638.html,[Rd] Re: F90,32638,"Liaw, Andy"
+032691.html,[Rd] R-beta 2004-04-07 build failed on AIX,32691,"Liaw, Andy"
+032692.html,[Rd] a couple of things about &quot;:&quot;,32692,"Liaw, Andy"
+032699.html,[Rd] a couple of things about &quot;:&quot;,32699,"Liaw, Andy"
+032710.html,[Rd] R-beta 2004-04-07 build failed on AIX,32710,"Liaw, Andy"
+032713.html,[Rd] R-beta 2004-04-07 build failed on AIX,32713,"Liaw, Andy"
+032756.html,[Rd] one suggestion for R-admin,32756,"Liaw, Andy"
+032759.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32759,"Liaw, Andy"
+032761.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32761,"Liaw, Andy"
+032774.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32774,"Liaw, Andy"
+032801.html,[Rd] (no subject),32801,"Liaw, Andy"
+032934.html,[Rd] as.data.frame: Error in &quot;names&lt;-.default&quot; (PR#7808),32934,"Liaw, Andy"
+032708.html,[Rd] new R package BRugs,32708,Uwe Ligges
+032715.html,[Rd] orphaning CRAN packages,32715,Uwe Ligges
+032717.html,[Rd] orphaning CRAN packages,32717,Uwe Ligges
+032721.html,[Rd] orphaning CRAN packages,32721,Uwe Ligges
+032725.html,Pacakge norm (was Re: [Rd] orphaning CRAN packages),32725,Uwe Ligges
+032856.html,[Rd] building recommended packages on Windows,32856,Uwe Ligges
+032963.html,[Rd] Speeding up library loading,32963,Uwe Ligges
+032967.html,[Rd] Speeding up library loading,32967,Uwe Ligges
+033028.html,[Rd] Problems compiling C code on windows,33028,Uwe Ligges
+032689.html,[Rd] about mantelhaen.test (PR#7779),32689,Thomas Lumley
+032693.html,[Rd] a couple of things about &quot;:&quot;,32693,Thomas Lumley
+032696.html,[Rd] complex tangent (PR#7781),32696,Thomas Lumley
+032889.html,[Rd] Suggestions for manipulating formula objects,32889,Thomas Lumley
+032974.html,[Rd] Speeding up library loading,32974,Thomas Lumley
+032996.html,[Rd] &quot;wild&quot; function example in optim,32996,Thomas Lumley
+032993.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),32993,MSchwartz at MedAnalytics.com
+032998.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),32998,MSchwartz at MedAnalytics.com
+032999.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),32999,MSchwartz at MedAnalytics.com
+033004.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33004,MSchwartz at MedAnalytics.com
+033008.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33008,MSchwartz at MedAnalytics.com
+033024.html,[Rd] Re: Ctrl-c crashes R when run as sudo (PR#7819),33024,MSchwartz at MedAnalytics.com
+032927.html,[Rd] R --gui=none and R --help,32927,Don MacQueen
+032718.html,[Rd] orphaning CRAN packages,32718,Martin Maechler
+032741.html,[Rd] strange error with rw2010dev,32741,Martin Maechler
+032743.html,[Rd] strange error with rw2010dev,32743,Martin Maechler
+032749.html,[Rd] exists(&quot;loadings.default&quot;) ...,32749,Martin Maechler
+032827.html,[Rd] recent spam on mailing lists,32827,Martin Maechler
+032833.html,[Rd] ESS 5.2.7 released,32833,Martin Maechler
+032841.html,[Rd] RFC: hexadecimal constants and decimal points,32841,Martin Maechler
+032842.html,[Rd] RFC: hexadecimal constants and decimal points,32842,Martin Maechler
+032878.html,[Rd] Overloading methods in R,32878,Martin Maechler
+032964.html,[Rd] Speeding up library loading,32964,Martin Maechler
+032985.html,[Rd] Enhanced version of plot.lm(),32985,Martin Maechler
+033023.html,"[Rd] smooth.spline(): residuals(), fitted(),...",33023,Martin Maechler
+033027.html,[Rd] Enhanced version of plot.lm(),33027,Martin Maechler
+033031.html,[Rd] Enhanced version of plot.lm(),33031,Martin Maechler
+032935.html,[Rd] Enhanced version of plot.lm(),32935,John Maindonald
+032940.html,[Rd] Enhanced version of plot.lm(),32940,John Maindonald
+032979.html,[Rd] Enhanced version of plot.lm(),32979,John Maindonald
+032980.html,[Rd] Enhanced version of plot.lm(),32980,John Maindonald
+033038.html,[Rd] Enhanced version of plot.lm(),33038,John Maindonald
+033045.html,[Rd] Enhanced version of plot.lm(),33045,John Maindonald
+033048.html,[Rd] Enhanced version of plot.lm(),33048,John Maindonald
+032991.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),32991,Manuel.A.Morales at williams.edu
+033000.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33000,Manuel.A.Morales at williams.edu
+032674.html,[Rd] makeActiveBinding warning,32674,Mark.Bravington at csiro.au
+032877.html,[Rd] callNextMethod(),32877,John Marsland
+032880.html,[Rd] callNextMethod(),32880,John Marsland
+032625.html,[Rd] Building new graphic device drivers with g++,32625,Markku Mielityinen
+032628.html,[Rd] Building new graphic device drivers with g++,32628,Markku Mielityinen
+032632.html,[Rd] Building new graphic device drivers with g++,32632,Markku Mielityinen
+033020.html,[Rd] ncdf with opendap/dods support,33020,Russell Moffitt
+033010.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33010,Manuel Morales
+032639.html,[Rd] Error: cannot set length of non-vector,32639,Duncan Murdoch
+032660.html,[Rd] acf segfault (PR#7771),32660,Duncan Murdoch
+032748.html,[Rd] docu buglet,32748,Duncan Murdoch
+032752.html,[Rd] C Interface to R?,32752,Duncan Murdoch
+032765.html,[Rd] one suggestion for R-admin,32765,Duncan Murdoch
+032766.html,[Rd] IAB (PR#7788),32766,Duncan Murdoch
+032768.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32768,Duncan Murdoch
+032770.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32770,Duncan Murdoch
+032773.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32773,Duncan Murdoch
+032814.html,[Rd] dealing with empty actual arguments matched by '...' formals,32814,Duncan Murdoch
+032831.html,[Rd] RFC: hexadecimal constants and decimal points,32831,Duncan Murdoch
+032834.html,[Rd] A 'true' R-wrapper for C++ classes,32834,Duncan Murdoch
+032840.html,[Rd] RE: A 'true' R-wrapper for C++ classes,32840,Duncan Murdoch
+032845.html,[Rd] Poblem while build a package (PR#7798),32845,Duncan Murdoch
+032855.html,[Rd] building recommended packages on Windows,32855,Duncan Murdoch
+032922.html,[Rd] Bug in Version 2010 (PR#7807),32922,Duncan Murdoch
+032937.html,[Rd] tclServiceMode:  stop Tcl/Tk from updating,32937,Duncan Murdoch
+032941.html,[Rd] Objects in R,32941,Duncan Murdoch
+032948.html,[Rd] Objects in R,32948,Duncan Murdoch
+032973.html,[Rd] Speeding up library loading,32973,Duncan Murdoch
+032982.html,[Rd] Speeding up library loading,32982,Duncan Murdoch
+032986.html,[Rd] Speeding up library loading,32986,Duncan Murdoch
+033003.html,[Rd] tclServiceMode:  stop Tcl/Tk from updating,33003,Duncan Murdoch
+033043.html,[Rd] Re: [R] strange behaviour of importFrom directive in name space,33043,Duncan Murdoch
+032661.html,[Rd] Calling an MPI-based C program in R ,32661,Romain Neugebauer
+032672.html,[Rd] Calling do_inherit from C,32672,Vadim Ogranovich
+032762.html,[Rd] How allocate STRSXP outside of gc,32762,Vadim Ogranovich
+032763.html,[Rd] How allocate STRSXP outside of gc,32763,Vadim Ogranovich
+032776.html,[Rd] How allocate STRSXP outside of gc,32776,Vadim Ogranovich
+032787.html,[Rd] How allocate STRSXP outside of gc,32787,Vadim Ogranovich
+032790.html,[Rd] How allocate STRSXP outside of gc,32790,Vadim Ogranovich
+032932.html,[Rd] RE: [R] when can we expect Prof Tierney's compiled R?,32932,Vadim Ogranovich
+033019.html,[Rd] RE: [R] when can we expect Prof Tierney's compiled R?,33019,Vadim Ogranovich
+032786.html,"[Rd] CONGRATULATION,WINNING NOTIFICATION LETTER",32786,BONO LOTTO/ PRIMITIVA
+032904.html,[Rd] Objects in R,32904,Roger D. Peng
+032970.html,[Rd] Speeding up library loading,32970,Roger D. Peng
+032972.html,[Rd] Speeding up library loading,32972,Roger D. Peng
+032914.html,[Rd] Objects in R,32914,Thomas Petzoldt
+032811.html,[Rd] dealing with empty actual arguments matched by '...' formals,32811,Tony Plate
+032812.html,[Rd] treatment of zero and negative elements in matrix indices,32812,Tony Plate
+032813.html,[Rd] treatment of zero and negative elements in matrix indices,32813,Tony Plate
+032871.html,[Rd] Overloading methods in R,32871,Tony Plate
+032908.html,[Rd] Overloading methods in R,32908,Tony Plate
+033009.html,[Rd] C++ &lt;-&gt; R mapping,33009,Tony Plate
+032677.html,[Rd] HP-UX and IRIX recent builds?  Any other rare platforms?,32677,Martyn Plummer
+032680.html,[Rd] make error in R devel,32680,Martyn Plummer
+032687.html,[Rd] R 2.1.0 (beta) on IRIX,32687,Martyn Plummer
+032862.html,[Rd] R-2.1.0 compilation with Intel icc and ifort,32862,Christophe Pouzat
+032772.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32772,Adaikalavan Ramasamy
+032775.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32775,Adaikalavan Ramasamy
+032624.html,[Rd] print.glm() signif digits (PR#7765),32624,Prof Brian Ripley
+032626.html,[Rd] Building new graphic device drivers with g++,32626,Prof Brian Ripley
+032630.html,[Rd] Solaris10/amd64 + SunSutio Compile (PR#7767),32630,Prof Brian Ripley
+032662.html,[Rd] intentional changes in rw2010alpha?,32662,Prof Brian Ripley
+032664.html,[Rd] R-alpha_2005-03-31: make check fails on Debian 3.0,32664,Prof Brian Ripley
+032675.html,[Rd] Calling do_inherit from C,32675,Prof Brian Ripley
+032676.html,[Rd] HP-UX and IRIX recent builds?  Any other rare platforms?,32676,Prof Brian Ripley
+032679.html,[Rd] make error in R devel,32679,Prof Brian Ripley
+032722.html,Pacakge norm (was Re: [Rd] orphaning CRAN packages),32722,Prof Brian Ripley
+032737.html,[Rd] make check-all fails (PR#7784),32737,Prof Brian Ripley
+032745.html,[Rd] strange error with rw2010dev,32745,Prof Brian Ripley
+032753.html,[Rd] C Interface to R?,32753,Prof Brian Ripley
+032758.html,[Rd] MASS: isoMDS drops names of points in R-2.1.0 (PR#7786),32758,Prof Brian Ripley
+032760.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32760,Prof Brian Ripley
+032769.html,[Rd] patch to add a menu item in Rgui for RSiteSearch,32769,Prof Brian Ripley
+032781.html,[Rd] How allocate STRSXP outside of gc,32781,Prof Brian Ripley
+032791.html,[Rd] documentation for 'open': some clarification?,32791,Prof Brian Ripley
+032796.html,[Rd] dynamic array output by .C,32796,Prof Brian Ripley
+032803.html,[Rd] dynamic array output by .C,32803,Prof Brian Ripley
+032804.html,[Rd] dynamic array output by .C,32804,Prof Brian Ripley
+032805.html,[Rd] inconsistent fonts generated in postscript file (PR#7795),32805,Prof Brian Ripley
+032810.html,[Rd] New developer.r-project.org page,32810,Prof Brian Ripley
+032818.html,[Rd] Using lengthgets() correctly (was SET_LENGTH),32818,Prof Brian Ripley
+032819.html,[Rd] Using lengthgets() correctly (was SET_LENGTH),32819,Prof Brian Ripley
+032820.html,[Rd] RFC: hexadecimal constants and decimal points,32820,Prof Brian Ripley
+032823.html,[Rd] RFC: hexadecimal constants and decimal points,32823,Prof Brian Ripley
+032829.html,[Rd] UnauthorizedAccessException in R(D)COM,32829,Prof Brian Ripley
+032837.html,[Rd] A 'true' R-wrapper for C++ classes,32837,Prof Brian Ripley
+032846.html,[Rd] RFC: hexadecimal constants and decimal points,32846,Prof Brian Ripley
+032848.html,[Rd] Why no BIC.default function?,32848,Prof Brian Ripley
+032857.html,[Rd] Re: [R] pl/R and MacOS X using R binary,32857,Prof Brian Ripley
+032870.html,[Rd] make check failure -- R 2.1.0 Windows XP SP2,32870,Prof Brian Ripley
+032882.html,[Rd] Embedded R and x11,32882,Prof Brian Ripley
+032981.html,[Rd] Feature request: report the url if 404 error occurs,32981,Prof Brian Ripley
+032989.html,[Rd] Enhanced version of plot.lm(),32989,Prof Brian Ripley
+032990.html,[Rd] Re: [R] R-2.1.0 doesn't compile on FreeBSD6-CURRENT,32990,Prof Brian Ripley
+032997.html,[Rd] &quot;wild&quot; function example in optim,32997,Prof Brian Ripley
+033021.html,[Rd] ncdf with opendap/dods support,33021,Prof Brian Ripley
+033022.html,[Rd] RE: [R] when can we expect Prof Tierney's compiled R?,33022,Prof Brian Ripley
+033026.html,[Rd] Problems compiling C code on windows,33026,Prof Brian Ripley
+033053.html,[Rd] R-devel instability,33053,Prof Brian Ripley
+033073.html,[Rd] Re: [R] Warning from Rcmd check - data could not find data set,33073,Prof Brian Ripley
+032853.html,[Rd] chi-square test,32853,Dimitris Rizopoulos
+032929.html,[Rd] as.data.frame: Error in &quot;names&lt;-.default&quot; (PR#7808),32929,Robert.McGehee at geodecapital.com
+032957.html,[Rd] RAqua Crashes Flushing Console,32957,Paul Roebuck
+032704.html,[Rd] new R package BRugs,32704,A.J. Rossini
+032706.html,[Rd] new R package BRugs,32706,A.J. Rossini
+032714.html,[Rd] new R package BRugs,32714,A.J. Rossini
+032873.html,[Rd] Overloading methods in R,32873,A.J. Rossini
+032902.html,[Rd] Overloading methods in R,32902,A.J. Rossini
+032947.html,[Rd] Collade doesn't work for more than 256 files!,32947,A.J. Rossini
+032951.html,[Rd] Objects in R,32951,A.J. Rossini
+033012.html,[Rd] minor doc bug: options.Rd should be updated,33012,Deepayan Sarkar
+032750.html,[Rd] C Interface to R?,32750,Alexander Schinner
+033041.html,[Rd] C Interface to R? New question,33041,Alexander Schinner
+032800.html,[Rd] (no subject),32800,Lars Schouw
+033016.html,[Rd] Re: [R] postscript (eps) / latex / par(mfg=...) / problem!,33016,Marc Schwartz
+032678.html,[Rd] make error in R devel,32678,Gavin Simpson
+032681.html,[Rd] make error in R devel,32681,Gavin Simpson
+032682.html,"[Rd] axis.Date problem, bug(?)",32682,Gavin Simpson
+032683.html,"[Rd] axis.Date problem, bug(?)",32683,Gavin Simpson
+032923.html,[Rd] Infinite degrees of freedom for F-distribution,32923,Gordon Smyth
+032933.html,[Rd] Infinite degrees of freedom for F-distribution,32933,Gordon K Smyth
+032702.html,[Rd] new R package BRugs,32702,Sibylle Sturtz
+032705.html,[Rd] new R package BRugs,32705,Sibylle Sturtz
+032824.html,[Rd] Growing company ignored by Wall Street,32824,Roderick Thomas
+032795.html,[Rd] dynamic array output by .C,32795,Tib
+032797.html,[Rd] dynamic array output by .C,32797,Tib
+032709.html,[Rd] makeActiveBinding warning,32709,Luke Tierney
+033018.html,[Rd] RE: [R] when can we expect Prof Tierney's compiled R?,33018,Luke Tierney
+032817.html,[Rd] SET_LENGTH,32817,Larry Tordsen
+033025.html,[Rd] Problems compiling C code on windows,33025,Victor Trevino
+033029.html,SOLVED RE: [Rd] Problems compiling C code on windows,33029,Victor Trevino
+032665.html,[Rd] future update to loess,32665,Benjamin Tyner
+032798.html,[Rd] dynamic array output by .C,32798,Simon Urbanek
+033002.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33002,Simon Urbanek
+032668.html,[Rd] future update to loess,32668,"Warnes, Gregory R"
+032826.html,[Rd] UnauthorizedAccessException in R(D)COM,32826,WeiQiang.Li at seagate.com
+032828.html,[Rd] UnauthorizedAccessException in R(D)COM,32828,WeiQiang.Li at seagate.com
+032903.html,[Rd] Objects in R,32903,Nathan Whitehouse
+032918.html,[Rd] Objects in R,32918,Nathan Whitehouse
+032852.html,[Rd] chi-square test,32852,Benjamin Chan [BRE]
+032939.html,[Rd] as.data.frame: Error in &quot;names&lt;-.default&quot; (PR#7808),32939,andy_liaw at merck.com
+033062.html,[Rd] hello,33062,ayjvr at fbi.gov
+032815.html,[Rd] about constructing a logit model,32815,ben
+032686.html,[Rd] about mantelhaen.test (PR#7779),32686,chienyu at stat.sinica.edu.tw
+033017.html,[Rd] postscript (eps) / latex / par(mfg=...) / problem! (PR#7820),33017,dan at bolser.co.uk
+032649.html,[Rd] acf segfault (PR#7771),32649,davidhughjones at gmail.com
+032945.html,[Rd] typo in ?&quot;[&quot; (PR#7811),32945,davison at uchicago.edu
+032764.html,[Rd] IAB (PR#7788),32764,doris.soehnlein at iab.de
+032952.html,[Rd] RAW types not restored from Rda files (PR#7812),32952,ellis at stat.harvard.edu
+032777.html,"[Rd] S4 extends a class, but .Data slot has different class",32777,giles.heywood at uk.abnamro.com
+032863.html,[Rd] localeToCharset error for Thai locale (PR#7799),32863,hutcha.s at psu.ac.th
+033042.html,[Rd] Sua mensagem n&#227;o pode ser entregue,33042,iGMailer at mailserver-55.ig.com.br
+032670.html,[Rd] Install R 2.0 package on R 1.9.1,32670,stefano iacus
+032808.html,[Rd] MacOS X check summary missing packages,32808,stefano iacus
+032861.html,[Rd] Re: [R] pl/R and MacOS X using R binary,32861,stefano iacus
+032968.html,[Rd] RAqua Crashes Flushing Console,32968,stefano iacus
+033058.html,[Rd] Calling R functions from Java,33058,stefano iacus
+032755.html,[Rd] MASS: isoMDS drops names of points in R-2.1.0 (PR#7786),32755,jari.oksanen at oulu.fi
+032757.html,[Rd] stripchart: doc of add (PR#7787),32757,jari.oksanen at oulu.fi
+032832.html,[Rd] citation() chops &quot;Roeland &quot; (PR#7797),32832,jari.oksanen at oulu.fi
+032844.html,[Rd] Poblem while build a package (PR#7798),32844,justin.bem at gmail.com
+032847.html,[Rd] Why no BIC.default function?,32847,kwright at eskimo.com
+032850.html,[Rd] Why no BIC.default function?,32850,kwright at eskimo.com
+032767.html,[Rd] IAB (PR#7788),32767,ligges at statistik.uni-dortmund.de
+032924.html,[Rd] Bug in Version 2010 (PR#7807),32924,ligges at statistik.uni-dortmund.de
+032928.html,[Rd] Bug in Version 2010 (PR#7807),32928,ligges at statistik.uni-dortmund.de
+032784.html,[Rd] Sd2Rd command (PR#7791),32784,lunde.eric at mayo.edu
+033074.html,[Rd] (PR#7826) Re: ... print.POSIXct .. infinite recursion,33074,maechler at stat.math.ethz.ch
+032956.html,[Rd] Failed to install gbm_1.4-2 (PR#7814),32956,manager at molbiol.ox.ac.uk
+033063.html,[Rd] Error,33063,matt at olga.net
+032921.html,[Rd] Bug in Version 2010 (PR#7807),32921,mbreuer at ecology.uni-kiel.de
+032782.html,[Rd] Behaviour of array() (PR#7790),32782,mjw at celos.net
+032809.html,[Rd] From China: Want Capital Suppliers &amp; Agent (6%),32809,mliyvz
+032887.html,[Rd] negative p-values from fisher's test (PR#7801),32887,mnason at Niaid.nih.gov
+032650.html,[Rd] Problems with predict.lm: incorrect SE estimate (PR#7772),32650,msa at biostat.mgh.harvard.edu
+032655.html,[Rd] Problems with predict.lm: incorrect SE estimate (PR#7772),32655,msa at biostat.mgh.harvard.edu
+032976.html,[Rd] associating R with .R and .RData files (PR#7818),32976,mulakken1 at llnl.gov
+032651.html,[Rd] Problems with predict.lm: incorrect SE estimate (PR#7772),32651,murdoch at stats.uwo.ca
+032652.html,[Rd] acf segfault (PR#7771),32652,murdoch at stats.uwo.ca
+032658.html,[Rd] acf segfault (PR#7771),32658,murdoch at stats.uwo.ca
+033049.html,[Rd] {Details on virus detected and blocked.} (PR#7822),33049,npnssmtp3/npnet at np.edu.sg
+032730.html,[Rd] make check-all fails (PR#7784),32730,p.dalgaard at biostat.ku.dk
+032734.html,[Rd] make check-all fails (PR#7784),32734,p.dalgaard at biostat.ku.dk
+032955.html,[Rd] RAW types not restored from Rda files (PR#7812),32955,p.dalgaard at biostat.ku.dk
+032694.html,[Rd] palette bug (PR#7780),32694,paul at stat.auckland.ac.nz
+032778.html,[Rd] read.table bug (PR#7789),32778,paul at stat.auckland.ac.nz
+032695.html,[Rd] complex tangent (PR#7781),32695,pfortini at wyeth.com
+032735.html,[Rd] new R package BRugs,32735,plummer at iarc.fr
+032623.html,[Rd] print.glm() signif digits (PR#7765),32623,prathouz at health.bsd.uchicago.edu
+032958.html,[Rd] Notification of removed compressed attachment - ple (PR#7815),32958,replies-discarded at sas.com
+032959.html,[Rd] Mail could not be delivered (PR#7816),32959,replies-discarded at sas.com
+033044.html,[Rd] Rgui crash when &gt;1 figure plotted to single wmf file (PR#7821),33044,rich.fitzjohn at gmail.com
+032631.html,[Rd] Solaris10/amd64 + SunSutio Compile (PR#7767),32631,ripley at stats.ox.ac.uk
+032653.html,[Rd] acf segfault (PR#7771),32653,ripley at stats.ox.ac.uk
+032864.html,[Rd] localeToCharset error for Thai locale (PR#7799),32864,ripley at stats.ox.ac.uk
+032896.html,[Rd] printCoefmat(signif.legend =FALSE) (PR#7802),32896,ripley at stats.ox.ac.uk
+032987.html,[Rd] Failed to install gbm_1.4-2 (PR#7814),32987,ripley at stats.ox.ac.uk
+033007.html,[Rd] Ctrl-c crashes R when run as sudo (PR#7819),33007,ripley at stats.ox.ac.uk
+033032.html,[Rd] as.data.frame: Error in &quot;names&lt;-.default&quot; (PR#7808),33032,ripley at stats.ox.ac.uk
+033033.html,"(PR#7803) [Rd] print.data.frame(), wrong column names alignement, ",33033,ripley at stats.ox.ac.uk
+033039.html,[Rd] Bug in Version 2010 (PR#7807),33039,ripley at stats.ox.ac.uk
+033047.html,(PR#7821) [Rd] Rgui crash when &gt;1 figure plotted to single wmf,33047,ripley at stats.ox.ac.uk
+032885.html,[Rd] Suggestions for manipulating formula objects,32885,rlee at fpcc.net
+032684.html,[Rd] bug in color handling in lattice (PR#7777),32684,rmh at temple.edu
+032627.html,[Rd] Solaris10/amd64 + SunSutio Compile (PR#7767),32627,teru at sodan.ecc.u-tokyo.ac.jp
+032909.html,[Rd] Plots with lots of points (PR#7805),32909,veraf at stat.sc.edu
+032613.html,[Rd] plotCI error when trying to omit upper or lower bars (PR#7764),32613,volker.franz at tuebingen.mpg.de
+032895.html,[Rd] printCoefmat(signif.legend =FALSE) (PR#7802),32895,wolfgang.lederer at stat.uni-muenchen.de
+032799.html,[Rd] inconsistent fonts generated in postscript file (PR#7795),32799,xiangli at gila-fw.bioengr.uic.edu
+032723.html,[Rd] make check-all fails (PR#7784),32723,znmeb at cesmail.net

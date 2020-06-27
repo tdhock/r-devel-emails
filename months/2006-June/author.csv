@@ -1,0 +1,367 @@
+link,Subject,id,author
+037928.html,[Rd] HELP Running R,37928,Pramod Anugu
+038223.html,[Rd] FC5 32-bit vs 64-bit,38223,Jeff Barrett
+037975.html,[Rd] FYI: R-2.3.1pat-win32.exe not on CRAN,37975,Henrik Bengtsson
+038153.html,[Rd] R Wiki: how useful for developers?,38153,Henrik Bengtsson
+038178.html,[Rd] Documentation issues [Was: Function hints],38178,Henrik Bengtsson
+037952.html,[Rd] head() for tables,37952,Ben Bolker
+037953.html,[Rd] trivial typo in ?fisher.test,37953,Ben Bolker
+037955.html,[Rd] trivial typo in ?fisher.test,37955,Ben Bolker
+037987.html,[Rd] help compiling package with g77,37987,Ben Bolker
+037998.html,[Rd] further f77/gfortran,37998,Ben Bolker
+038006.html,[Rd] further f77/gfortran,38006,Ben Bolker
+038109.html,[Rd] separators in data(),38109,Ben Bolker
+038216.html,[Rd] Ops.Date: promote characters to Dates?,38216,Ben Bolker
+038222.html,[Rd] Ops.Date: promote characters to Dates?,38222,Ben Bolker
+038235.html,[Rd] Ops.Date: promote characters to Dates?,38235,Ben Bolker
+038270.html,[Rd] advice on arguments,38270,Ben Bolker
+038242.html,[Rd] UTF-8 and .Rd files,38242,G&#246;ran Brostr&#246;m
+038245.html,[Rd] UTF-8 and .Rd files,38245,G&#246;ran Brostr&#246;m
+038252.html,[Rd] UTF-8 and .Rd files,38252,G&#246;ran Brostr&#246;m
+038220.html,[Rd] Compiling R 2.3.1 on SuSE 8.2 and 10.0: error with	libRlapack.so (PR#9026),38220,Ted Catchpole
+037963.html,[Rd] more on bug 7924,37963,Peter Dalgaard
+038140.html,[Rd] bug in prcomp (PR#8994),38140,Peter Dalgaard
+038156.html,[Rd] MacOS X - R crashes &amp; import problem (PR#9005),38156,Peter Dalgaard
+038203.html,"[Rd] weights in lm, glm (PR#9023)",38203,Peter Dalgaard
+038205.html,"[Rd] weights in lm, glm (PR#9023)",38205,Peter Dalgaard
+038226.html,[Rd] apparent problem in how PDF evaluates its arguments	(PR#9035),38226,Peter Dalgaard
+038230.html,[Rd] [R] assign / environment side effect on R 2.4.0,38230,Peter Dalgaard
+038239.html,[Rd] a new way to crash R? (PR#8981),38239,Peter Dalgaard
+038254.html,[Rd] UTF-8 and .Rd files,38254,Peter Dalgaard
+038261.html,[Rd] UTF-8 and .Rd files,38261,Peter Dalgaard
+037972.html,[Rd] grep() and factors,37972,Sean Davis
+037979.html,[Rd] Editing a package with a NAMESPACE in place,37979,Sean Davis
+037981.html,[Rd] Editing a package with a NAMESPACE in place,37981,Sean Davis
+038253.html,[Rd] UTF-8 and .Rd files,38253,Latchezar Dimitrov
+037969.html,[Rd] grep() and factors,37969,Bill Dunlap
+037973.html,[Rd] grep() and factors,37973,Bill Dunlap
+038133.html,[Rd] download.file() yields incomplete files with	method=&quot;internal&quot;,38133,Bill Dunlap
+037990.html,[Rd] help compiling package with g77,37990,Dirk Eddelbuettel
+038000.html,[Rd] further f77/gfortran,38000,Dirk Eddelbuettel
+038007.html,[Rd] further f77/gfortran,38007,Dirk Eddelbuettel
+038267.html,[Rd] An offer: R packages in Gentoo Land?,38267,Dirk Eddelbuettel
+037951.html,"[Rd] plot.new, trellis and windows plot history (PR#8935)",37951,P Ehlers
+038018.html,[Rd] NAs in unsplit factor,38018,Jeff Enos
+038119.html,[Rd] Package naming best practices,38119,Jeff Enos
+037929.html,[Rd] HELP Running R,37929,Seth Falcon
+037941.html,[Rd] Typo fix for readBin.Rd,37941,Seth Falcon
+037983.html,[Rd] Editing a package with a NAMESPACE in place,37983,Seth Falcon
+037986.html,[Rd] Editing a package with a NAMESPACE in place,37986,Seth Falcon
+038012.html,[Rd] [R] S4 Methods with large numbers of args using memory,38012,Seth Falcon
+038021.html,"[Rd] install.packages(&quot;C&quot;,	dep=TRUE) does not always install indirect dependencies",38021,Seth Falcon
+037977.html,[Rd] contour lines in filled.contour,37977,Romain Francois
+038038.html,[Rd] Rgui crash under Windows,38038,Simone Giannerini
+038040.html,[Rd] Rgui crash under Windows,38040,Simone Giannerini
+037930.html,[Rd] package installation errors,37930,Paul Gilbert
+037936.html,[Rd] task view errors,37936,Paul Gilbert
+038195.html,[Rd] NAMESPACE and bundle,38195,Paul Gilbert
+038197.html,[Rd] NAMESPACE and bundle,38197,Paul Gilbert
+038259.html,[Rd] UTF-8 and .Rd files,38259,Paul Gilbert
+038268.html,[Rd] UTF-8 and .Rd files,38268,Paul Gilbert
+038287.html,[Rd] foo2Args(),38287,Paul Gilbert
+038289.html,[Rd] foo2Args(),38289,Paul Gilbert
+038170.html,[Rd] Delphi (Pascal) headerfiles online | Excel,38170,Sandro C. Goncales
+038123.html,[Rd]  separators in data(),38123,Gregor Gorjanc
+038162.html,[Rd] R Wiki: how useful for developers?,38162,Spencer Graves
+038249.html,[Rd] UTF-8 and .Rd files,38249,Spencer Graves
+038272.html,[Rd] UTF-8 and .Rd files,38272,Spencer Graves
+038150.html,[Rd] R Wiki: how useful for developers?,38150,Philippe Grosjean
+038154.html,[Rd] R Wiki: how useful for developers?,38154,Philippe Grosjean
+038221.html,"[Rd] using withCallingHandlers, how to deal with warning( , immediate. = TRUE)?",38221,Philippe Grosjean
+038244.html,[Rd] New developers section on the R Wiki,38244,Philippe Grosjean
+038247.html,"[Rd] using withCallingHandlers, how to deal with warning( , immediate. = TRUE)?",38247,Philippe Grosjean
+038265.html,[Rd] NAMESPACE and bundle,38265,Philippe Grosjean
+037974.html,[Rd] grep() and factors,37974,Gabor Grothendieck
+038056.html,[Rd] do.call and hist,38056,Gabor Grothendieck
+038124.html,[Rd] separators in data(),38124,Gabor Grothendieck
+038172.html,[Rd] [R] combining tables,38172,Gabor Grothendieck
+038215.html,[Rd] [R] GARCH,38215,Gabor Grothendieck
+038217.html,[Rd] Ops.Date: promote characters to Dates?,38217,Gabor Grothendieck
+038228.html,[Rd] [R] assign / environment side effect on R 2.4.0,38228,Gabor Grothendieck
+038279.html,[Rd] advice on arguments,38279,Gabor Grothendieck
+038282.html,[Rd] typo in ?writeLines,38282,Gabor Grothendieck
+038053.html,[Rd] do.call and hist,38053,Florian Hahne
+038057.html,[Rd] do.call and hist,38057,Florian Hahne
+038023.html,[Rd] Idempotent apply,38023,Robin Hankin
+038168.html,[Rd] [R] combining tables,38168,Robin Hankin
+038166.html,[Rd] Delphi (Pascal) headerfiles online | Excel,38166,Hans-Peter
+038008.html,[Rd] further f77/gfortran,38008,Kasper Daniel Hansen
+038120.html,[Rd] Package naming best practices,38120,Kasper Daniel Hansen
+038190.html,[Rd] .Call and data frames,38190,Kasper Daniel Hansen
+038200.html,[Rd] .Call and data frames,38200,Kasper Daniel Hansen
+037940.html,"[Rd] Helping out - simple bugs to help familiarize with R design,	source, etc",37940,Kevin B. Hendricks
+037943.html,"[Rd] Helping out - simple bugs to help familiarize with R	design, source, etc",37943,Kevin B. Hendricks
+037944.html,"[Rd] Helping out - simple bugs to help familiarize with R	design, source, etc",37944,Kevin B. Hendricks
+037949.html,[Rd] More on bug 7924,37949,Kevin B. Hendricks
+037957.html,[Rd] is there a dump complete object c routine ?,37957,Kevin B. Hendricks
+037958.html,[Rd] more on bug 7924,37958,Kevin B. Hendricks
+037965.html,[Rd] more on bug 7924,37965,Kevin B. Hendricks
+037999.html,[Rd] PATCH: fix for bug 7924,37999,Kevin B. Hendricks
+038002.html,[Rd] do developers need to assign rights to someone,38002,Kevin B. Hendricks
+038103.html,[Rd] Request for Comments: Fix for Bug 8141 (stack overflow),38103,Kevin B. Hendricks
+038113.html,[Rd] More: Hopefully Final Fix for Bug 8141 (C stack overflow in	substituteList),38113,Kevin B. Hendricks
+038122.html,[Rd] statically linked embedded R,38122,Sean Hill
+038152.html,[Rd] building a libR.a for BlueGene/L,38152,Sean Hill
+038236.html,[Rd] rhdf5 package,38236,Sean Hill
+038110.html,[Rd]  Bug or not? (PR#8977),38110,Joerg van den Hoff
+038266.html,[Rd] inconsistent matplot behaviour?,38266,Joerg van den Hoff
+038116.html,[Rd] Bug or not? (PR#8977),38116,Martin Hoffmann
+038102.html,[Rd] Build R-2.3.1 on Red Hat AS release 4,38102,Jennifer
+038145.html,[Rd] Problems embedding R.,38145,Simon Knapp
+037996.html,[Rd] [R] build R with Visual Studio,37996,Jennifer Lai
+038274.html,[Rd] advice on arguments,38274,Eric Lecoutre
+037923.html,[Rd] Bitmap device available for R CMD check?,37923,Friedrich Leisch
+037925.html,[Rd] Bitmap device available for R CMD check?,37925,Friedrich Leisch
+038173.html,[Rd] Wish/suggestion: add output of citation() to package	&quot;manuals&quot;	(PR#9009),38173,Friedrich Leisch
+037960.html,[Rd] more on bug 7924,37960,Hin-Tak Leung
+037961.html,[Rd] Patch: context stack size in gram.y,37961,Hin-Tak Leung
+038005.html,[Rd] do developers need to assign rights to someone,38005,Hin-Tak Leung
+038095.html,[Rd] undesirable rounding off due to 'read.table' (PR#8974),38095,Hin-Tak Leung
+038157.html,[Rd] building a libR.a for BlueGene/L,38157,Hin-Tak Leung
+038193.html,[Rd] .Call and data frames,38193,Hin-Tak Leung
+038194.html,[Rd] .Call and data frames,38194,Hin-Tak Leung
+038248.html,[Rd] UTF-8 and .Rd files,38248,Hin-Tak Leung
+038250.html,[Rd] UTF-8 and .Rd files,38250,Hin-Tak Leung
+038237.html,[Rd] C API to R connections?,38237,Na Li
+037992.html,[Rd] a plead to package developers regarding GCC,37992,"Liaw, Andy"
+037924.html,[Rd] Bitmap device available for R CMD check?,37924,Uwe Ligges
+037938.html,[Rd] task view errors,37938,Uwe Ligges
+037939.html,[Rd] task view errors,37939,Uwe Ligges
+037980.html,[Rd] Editing a package with a NAMESPACE in place,37980,Uwe Ligges
+038042.html,[Rd] Making a windows packages with zip,38042,Uwe Ligges
+038050.html,[Rd] Making a windows packages with zip,38050,Uwe Ligges
+038063.html,[Rd] about integration of a  library into package creation,38063,Uwe Ligges
+038081.html,[Rd] about integration of a  library into package creation,38081,Uwe Ligges
+038135.html,[Rd] Bug in nortest cvm.test package (PR#8980),38135,Uwe Ligges
+038117.html,[Rd] package compile error on RHEL x86_64,38117,Dan Lipsitt
+038130.html,[Rd] package compile error on RHEL x86_64,38130,Dan Lipsitt
+038183.html,[Rd] package compile error on RHEL x86_64 - FIXED,38183,Dan Lipsitt
+037966.html,[Rd] more on bug 7924,37966,Thomas Lumley
+038009.html,[Rd] PATCH: fix for bug 7924,38009,Thomas Lumley
+038051.html,[Rd] Ruuid had non-zero exit status (PR#8965),38051,Thomas Lumley
+038204.html,"[Rd] weights in lm, glm (PR#9023)",38204,Thomas Lumley
+037967.html,[Rd] grep() and factors,37967,Marc Schwartz (via MN)
+037971.html,[Rd] grep() and factors,37971,Marc Schwartz (via MN)
+037985.html,[Rd] grep() and factors,37985,Marc Schwartz (via MN)
+037989.html,[Rd] grep() and factors,37989,Marc Schwartz (via MN)
+037984.html,[Rd] Editing a package with a NAMESPACE in place,37984,Martin Maechler
+037997.html,[Rd] sort() generic? [Re: Suspicious behaviour of sort on POSIXct	..],37997,Martin Maechler
+038064.html,[Rd] about integration of a  library into package creation,38064,Martin Maechler
+038186.html,[Rd] is.Rs_own_BLAS() ?,38186,Martin Maechler
+038280.html,[Rd] [R] zero.print in print.table after adding margins,38280,Martin Maechler
+038281.html,[Rd] inconsistent matplot behaviour?,38281,Martin Maechler
+038188.html,[Rd] Suggestion for all.equal.factor,38188,"McGehee, Robert"
+038198.html,[Rd] Suggestion for all.equal.factor,38198,"McGehee, Robert"
+038088.html,"[Rd] poly(*,*) in lm() (PR#8972)",38088,Bj&#248;rn-Helge Mevik
+038029.html,[Rd] Environment variable MAKE not defined on Windows,38029,Martin Morgan
+038031.html,[Rd] Environment variable MAKE not defined on Windows,38031,Martin Morgan
+038192.html,[Rd] NAMESPACE and bundle,38192,Iago Mosqueira
+038196.html,[Rd] NAMESPACE and bundle,38196,Iago Mosqueira
+038264.html,[Rd] NAMESPACE and bundle,38264,Iago Mosqueira
+037954.html,[Rd] head() for tables,37954,Duncan Murdoch
+037962.html,[Rd] xy.coords(MATRIX) bug in code or documentation (PR#8937),37962,Duncan Murdoch
+037976.html,[Rd] FYI: R-2.3.1pat-win32.exe not on CRAN,37976,Duncan Murdoch
+038017.html,"[Rd] install.packages(&quot;C&quot;, dep=TRUE) does not always install indirect dependencies",38017,Duncan Murdoch
+038028.html,"[Rd] install.packages(&quot;C&quot;, dep=TRUE) does not always install indirect dependencies",38028,Duncan Murdoch
+038030.html,[Rd] Environment variable MAKE not defined on Windows,38030,Duncan Murdoch
+038032.html,[Rd] Environment variable MAKE not defined on Windows,38032,Duncan Murdoch
+038037.html,[Rd] crash on winMenuAddItem (PR#8961),38037,Duncan Murdoch
+038039.html,[Rd] Rgui crash under Windows,38039,Duncan Murdoch
+038043.html,[Rd] Rgui crash under Windows,38043,Duncan Murdoch
+038049.html,[Rd] about integration of a  library into package creation,38049,Duncan Murdoch
+038059.html,[Rd] about integration of a  library into package creation,38059,Duncan Murdoch
+038060.html,[Rd] Making a windows packages with zip,38060,Duncan Murdoch
+038061.html,[Rd] about integration of a  library into package creation,38061,Duncan Murdoch
+038069.html,[Rd] normalizePath() warning,38069,Duncan Murdoch
+038070.html,[Rd] Building R package: make pdf &amp; _masked_by_GlobalEnv,38070,Duncan Murdoch
+038082.html,[Rd] about integration of a  library into package creation,38082,Duncan Murdoch
+038085.html,[Rd] about integration of a  library into package creation,38085,Duncan Murdoch
+038089.html,[Rd] about integration of a  library into package creation,38089,Duncan Murdoch
+038097.html,[Rd] undesirable rounding off due to 'read.table' (PR#8974),38097,Duncan Murdoch
+038146.html,[Rd] Axis line not appearing with axis(tick=FALSE) (PR#8998),38146,Duncan Murdoch
+038148.html,[Rd] bug with boot.sw98 function (PR#8999),38148,Duncan Murdoch
+038149.html,[Rd] Axis line not appearing with axis(tick=FALSE) (PR#8998),38149,Duncan Murdoch
+038161.html,[Rd] [R] Function hints,38161,Duncan Murdoch
+038171.html,[Rd] Documentation issues [Was: Function hints],38171,Duncan Murdoch
+038210.html,[Rd] symbols() draws squares too high (PR#9027),38210,Duncan Murdoch
+038231.html,[Rd] a new way to crash R? (PR#8981),38231,Duncan Murdoch
+038233.html,[Rd] Compiling R and packages with debug information?,38233,Duncan Murdoch
+038238.html,[Rd] a new way to crash R? (PR#8981),38238,Duncan Murdoch
+038241.html,[Rd] a new way to crash R? (PR#8981),38241,Duncan Murdoch
+038271.html,[Rd] advice on arguments,38271,Duncan Murdoch
+038275.html,[Rd] advice on arguments,38275,Duncan Murdoch
+038284.html,[Rd] advice on arguments,38284,Duncan Murdoch
+038286.html,[Rd] typo in ?writeLines,38286,Duncan Murdoch
+038288.html,[Rd] foo2Args(),38288,Duncan Murdoch
+038013.html,[Rd] install.packages() does not warn when 'lib' arg is missing on Linux or Windows,38013,Herve Pages
+038015.html,"[Rd] install.packages(&quot;C&quot;, dep=TRUE) does not always install indirect dependencies",38015,Herve Pages
+038016.html,[Rd] install.packages() does not warn when 'lib' arg is missing on Linux or Windows,38016,Herve Pages
+038027.html,"[Rd] install.packages(&quot;C&quot;, dep=TRUE) does not always install indirect dependencies",38027,Herve Pages
+038033.html,[Rd] install.packages() does not warn when 'lib' arg is missing on Linux or Windows,38033,Herve Pages
+038066.html,[Rd] normalizePath() warning,38066,Roger D. Peng
+038091.html,[Rd] normalizePath() warning,38091,Roger D. Peng
+038163.html,"[Rd] Compiling R with ACML on FC5, gcc 4.1.1",38163,Roger D. Peng
+038147.html,[Rd] Axis line not appearing with axis(tick=FALSE) (PR#8998),38147,Sean Pieper
+037964.html,[Rd] xy.coords(MATRIX) bug in code or documentation (PR#8937),37964,Fran&#231;ois Pinard
+038020.html,[Rd] NAs in unsplit factor,38020,Fran&#231;ois Pinard
+038214.html,[Rd] Documentation detail [was: Merging factor levels.],38214,Fran&#231;ois Pinard
+038273.html,[Rd] UTF-8 and .Rd files,38273,Fran&#231;ois Pinard
+038202.html,[Rd] loading library from network share (PR#8982),38202,Tony Plate
+038111.html,"[Rd] enormous wave on OTC, important statement",38111,Ronnie Pritchett
+038068.html,[Rd] Building R package: make pdf &amp; _masked_by_GlobalEnv,38068,Dan Rabosky
+038071.html,[Rd] Building R package: make pdf &amp; _masked_by_GlobalEnv,38071,Dan Rabosky
+038104.html,[Rd] Building R package: pdf problems,38104,Dan Rabosky
+038127.html,[Rd] download.file() yields incomplete files with	method=&quot;internal&quot;,38127,Johannes Ranke
+038075.html,[Rd] R-2.3.1 does not install on FreeBSD 4.11-RELEASE (PR#8971),38075,Kenji Rikitake
+038078.html,[Rd] R-2.3.1 does not install on FreeBSD 4.11-RELEASE (PR#8971),38078,Kenji Rikitake
+037931.html,[Rd] package installation errors,37931,Prof Brian Ripley
+037933.html,[Rd] error message from help.search(),37933,Prof Brian Ripley
+037942.html,[Rd] Typo fix for readBin.Rd,37942,Prof Brian Ripley
+037978.html,[Rd] grep() and factors,37978,Prof Brian Ripley
+037982.html,[Rd] Editing a package with a NAMESPACE in place,37982,Prof Brian Ripley
+037988.html,[Rd] grep() and factors,37988,Prof Brian Ripley
+037994.html,[Rd] a plead to package developers regarding GCC,37994,Prof Brian Ripley
+038001.html,[Rd] further f77/gfortran,38001,Prof Brian Ripley
+038003.html,[Rd] sort() generic? [Re: Suspicious behaviour of sort on POSIXct ..],38003,Prof Brian Ripley
+038004.html,[Rd] further f77/gfortran,38004,Prof Brian Ripley
+038014.html,[Rd] install.packages() does not warn when 'lib' arg is missing on Linux or Windows,38014,Prof Brian Ripley
+038055.html,[Rd] about integration of a  library into package creation,38055,Prof Brian Ripley
+038073.html,[Rd] R-2.3.1 does not install on FreeBSD 4.11-RELEASE (PR#8971),38073,Prof Brian Ripley
+038074.html,[Rd] Building R package: make pdf &amp; _masked_by_GlobalEnv,38074,Prof Brian Ripley
+038076.html,[Rd] normalizePath() warning,38076,Prof Brian Ripley
+038077.html,[Rd] R-2.3.1 does not install on FreeBSD 4.11-RELEASE (PR#8971),38077,Prof Brian Ripley
+038092.html,[Rd] normalizePath() warning,38092,Prof Brian Ripley
+038093.html,[Rd] about integration of a  library into package creation,38093,Prof Brian Ripley
+038100.html,[Rd] format.POSIXlt drops characters following percent sign (PR#8975),38100,Prof Brian Ripley
+038106.html,[Rd] Build R-2.3.1 on Red Hat AS release 4,38106,Prof Brian Ripley
+038121.html,[Rd] package compile error on RHEL x86_64,38121,Prof Brian Ripley
+038151.html,[Rd] Mathlib help,38151,Prof Brian Ripley
+038159.html,[Rd] building a libR.a for BlueGene/L,38159,Prof Brian Ripley
+038185.html,[Rd] loading library from network share (PR#8982),38185,Prof Brian Ripley
+038187.html,[Rd] is.Rs_own_BLAS() ?,38187,Prof Brian Ripley
+038191.html,[Rd] .Call and data frames,38191,Prof Brian Ripley
+038211.html,[Rd] symbols() draws squares too high (PR#9027),38211,Prof Brian Ripley
+038224.html,[Rd] FC5 32-bit vs 64-bit,38224,Prof Brian Ripley
+038232.html,[Rd] Ops.Date: promote characters to Dates?,38232,Prof Brian Ripley
+038234.html,[Rd] Compiling R and packages with debug information?,38234,Prof Brian Ripley
+038243.html,[Rd] UTF-8 and .Rd files,38243,Prof Brian Ripley
+038251.html,[Rd] UTF-8 and .Rd files,38251,Prof Brian Ripley
+038257.html,[Rd] [R] assign / environment side effect on R 2.4.0,38257,Prof Brian Ripley
+038262.html,[Rd] UTF-8 and .Rd files,38262,Prof Brian Ripley
+038263.html,[Rd] Storage of character vectors in R,38263,Prof Brian Ripley
+038131.html,[Rd] separators in data(),38131,Paul Roebuck
+038164.html,[Rd] Fwd: [R-SIG-Mac] Window titles,38164,Paul Roebuck
+038260.html,[Rd] An offer: R packages in Gentoo Land?,38260,Allen S. Rout
+038277.html,[Rd] advice on arguments,38277,Allen S. Rout
+038285.html,[Rd] advice on arguments,38285,Allen S. Rout
+038213.html,[Rd] Error - Compiling R on a Sun V40Z - R/R-2.2.1,38213,Barry Rowlingson
+038189.html,[Rd] .Call and data frames,38189,Dominick Samperi
+038199.html,[Rd] .Call and data frames,38199,Dominick Samperi
+038034.html,[Rd] Heads up on the gnomeGUI package and pending FC changes,38034,Marc Schwartz
+038096.html,[Rd] undesirable rounding off due to 'read.table' (PR#8974),38096,Gavin Simpson
+038142.html,[Rd] Mathlib help,38142,Bill Szkotnicki
+038010.html,[Rd] Call R From VC++,38010,TB
+038246.html,"[Rd] using withCallingHandlers, how to deal with warning( , immediate. = TRUE)?",38246,Luke Tierney
+038048.html,[Rd] about integration of a  library into package creation,38048,Nicolas Turenne
+038052.html,[Rd] about integration of a  library into package creation,38052,Nicolas Turenne
+038058.html,[Rd] about integration of a  library into package creation,38058,Nicolas Turenne
+038062.html,[Rd] about integration of a  library into package creation,38062,Nicolas Turenne
+038079.html,[Rd] about integration of a  library into package creation,38079,Nicolas Turenne
+038084.html,[Rd] about integration of a  library into package creation,38084,Nicolas Turenne
+038086.html,[Rd] about integration of a  library into package creation,38086,Nicolas Turenne
+038090.html,[Rd] about integration of a  library into package creation,38090,Nicolas Turenne
+038107.html,[Rd] about integration of a  library into package creation,38107,Nicolas Turenne
+038128.html,[Rd] problem to read data into a package,38128,Nicolas Turenne
+038024.html,[Rd] R CMD check and directory/package name,38024,Heather Turner
+038167.html,[Rd] Documentation issues [Was: Function hints],38167,Heather Turner
+038175.html,[Rd] Documentation issues [Was: Function hints],38175,Heather Turner
+038019.html,[Rd] install.packages() does not warn when 'lib' arg is missing	on Linux or Windows,38019,Simon Urbanek
+038158.html,[Rd] MacOS X - R crashes &amp; import problem (PR#9005),38158,Simon Urbanek
+038011.html,[Rd] Questions on how to handle R objects in C,38011,Wen Wan
+037937.html,[Rd] task view errors,37937,Achim Zeileis
+038072.html,[Rd] R-2.3.1 does not install on FreeBSD 4.11-RELEASE (PR#8971),38072,kenji.rikitake at acm.org
+038035.html,[Rd] qunif() behavior with Inf arguments (PR#8958),38035,carnellr at battelle.org
+038169.html,[Rd] Wish/suggestion: add output of citation() to package &quot;manuals&quot;	(PR#9009),38169,gregor.gorjanc at bfro.uni-lj.si
+038240.html,[Rd] a new way to crash R? (PR#8981),38240,p.dalgaard at biostat.ku.dk
+038087.html,[Rd] Ganador del premio (winner of a prize) (PR#8973),38087,juan.felipe at consultant.com
+038206.html,[Rd] Error - Compiling R on a Sun V40Z - R/R-2.2.1 (PR#9024),38206,denny at crosstab.com
+038165.html,[Rd] [R] Function hints,38165,Mark.Bravington at csiro.au
+037991.html,[Rd] Mac OSX printing (PR#8942),37991,pasdirtz at doit.wisc.edu
+038225.html,[Rd] apparent problem in how PDF evaluates its arguments (PR#9035),38225,huber at ebi.ac.uk
+037948.html,"[Rd] plot.new, trellis and windows plot history (PR#8935)",37948,Andrew.Hooker at farmbio.uu.se
+038208.html,[Rd] Compiling R 2.3.1 on SuSE 8.2 and 10.0: error with	libRlapack.so (PR#9026),38208,wolfram at fischer-zim.ch
+038099.html,[Rd] format.POSIXlt drops characters following percent sign	(PR#8975),38099,jhallman at frb.gov
+038132.html,"[Rd] cat, print and documentation disagree (PR#8988)",38132,bailey at galton.uchicago.edu
+038278.html,"[Rd] CFP: CIC-2006, 15th International Conference on Computing,	published by IEEE CS (one week reminder) (PR#9047)",38278,gelbukh at gelbukh.com
+038047.html,[Rd] Link error with glibc-2.4 on linux/PPC (PR#8967),38047,lu_zero at gentoo.org
+038139.html,[Rd] bug in prcomp (PR#8994),38139,KjetilBrinchmannHalvorsen at gmail.com
+038026.html,[Rd] read.fwf only reads one &quot;buffersize&quot; of lines when reading	multiline records (PR#8951),38026,davidhughjones at gmail.com
+038209.html,[Rd] symbols() draws squares too high (PR#9027),38209,michellang at gmail.com
+038143.html,[Rd] Axis line not appearing with axis(tick=FALSE) (PR#8998),38143,sean.pieper at gmail.com
+038083.html,"[Rd] poly(*,*) in lm() (PR#8972)",38083,jenskeienburg at gmx.de
+037993.html,[Rd] Call R From VC++,37993,shilpi harpavat
+038045.html,[Rd] Ruuid had non-zero exit status (PR#8965),38045,zph at herald.ox.ac.uk
+038108.html,[Rd] Bug in nortest cvm.test package (PR#8980),38108,rpowell at horizonenv.com
+038065.html,[Rd] documentation for &quot;Startup&quot; should be clearer about system	Rprofile (PR#8969),38065,htang at hpl.hp.com
+038201.html,"[Rd] weights in lm, glm (PR#9023)",38201,jsignoro at hsph.harvard.edu
+037946.html,[Rd] Irregularity in stem() display (PR#8934),37946,pinard at iro.umontreal.ca
+037956.html,[Rd] xy.coords(MATRIX) bug in code or documentation (PR#8937),37956,pinard at iro.umontreal.ca
+037970.html,[Rd] xy.coords(MATRIX) bug in code or documentation (PR#8937),37970,pinard at iro.umontreal.ca
+038094.html,[Rd] undesirable rounding off due to 'read.table' (PR#8974),38094,overeem at knmi.nl
+038180.html,[Rd] R-2.3.1 MacOSX segfault (PR#9014),38180,diez at kuicr.kyoto-u.ac.jp
+037932.html,[Rd] error message from help.search(),37932,Jean lobry
+038112.html,[Rd] Bug or not? (PR#8977),38112,Jean lobry
+038067.html,[Rd] segfault with layout() after closing X11() device (PR#8970),38067,dmaszle at mendelbio.com
+038118.html,[Rd] loading library from network share (PR#8982),38118,roy_kuraisa at merck.com
+038184.html,[Rd] loading library from network share (PR#8982),38184,roy_kuraisa at merck.com
+038126.html,[Rd] Ganador del premio (Winner of a prize) (PR#8985),38126,juan.felipe at message.com
+038046.html,[Rd] Ruuid had non-zero exit status (PR#8966),38046,manager at molbiol.ox.ac.uk
+037995.html,[Rd] Wishlist: Writing R Extensions suggestions RE: [R] vague	errors on R CMD check for very minimal S4-style package (PR#8944),37995,Steven.Roels at mpi.com
+037950.html,[Rd] YOUR E-MAIL ADDRESS WON THE LOTTERY. (PR#8936),37950,infowinnerslot1 at netscape.net
+038255.html,[Rd] order() (PR#9039),38255,mh.smith at niwa.co.nz
+038125.html,[Rd] download.file() yields incomplete files with method=&quot;internal&quot;,38125,Jan.Kleinn at partnerre.com
+038269.html,[Rd] write.table does not quote col.names properly (PR#9044),38269,mwtoews at sfu.ca
+037947.html,[Rd] documentation bug as S-Plus catches up (PR#8933),37947,maechler at stat.math.ethz.ch
+037959.html,[Rd] xy.coords(MATRIX) bug in code or documentation (PR#8937),37959,maechler at stat.math.ethz.ch
+037968.html,[Rd] xy.coords(MATRIX) bug in code or documentation (PR#8937),37968,maechler at stat.math.ethz.ch
+038218.html,[Rd] Bug in R-intro.html ? (PR#9028),38218,maechler at stat.math.ethz.ch
+038174.html,[Rd] Wish/suggestion: add output of citation() to package	&quot;manuals&quot; (PR#9010),38174,friedrich.leisch at stat.uni-muenchen.de
+037935.html,[Rd] Installation R-2.3.1 on IBM AIX5.3 (PR#8931),37935,ripley at stats.ox.ac.uk
+038054.html,[Rd] Link error with glibc-2.4 on linux/PPC (PR#8967),38054,ripley at stats.ox.ac.uk
+038080.html,[Rd] segfault with layout() after closing X11() device (PR#8970),38080,ripley at stats.ox.ac.uk
+038098.html,[Rd] undesirable rounding off due to 'read.table' (PR#8974),38098,ripley at stats.ox.ac.uk
+038101.html,[Rd] format.POSIXlt drops characters following percent sign	(PR#8976),38101,ripley at stats.ox.ac.uk
+038137.html,"[Rd] cat, print and documentation disagree (PR#8988)",38137,ripley at stats.ox.ac.uk
+038141.html,[Rd] bug in prcomp (PR#8994),38141,ripley at stats.ox.ac.uk
+038181.html,[Rd] loading library from network share (PR#8982),38181,ripley at stats.ox.ac.uk
+038207.html,[Rd] Error - Compiling R on a Sun V40Z - R/R-2.2.1 (PR#9024),38207,ripley at stats.ox.ac.uk
+038227.html,[Rd] (PR#9035) apparent problem in how PDF evaluates its	arguments,38227,ripley at stats.ox.ac.uk
+038229.html,[Rd] a new way to crash R? (PR#8981),38229,ripley at stats.ox.ac.uk
+038256.html,[Rd] order() (PR#9039),38256,ripley at stats.ox.ac.uk
+038105.html,[Rd] Bug or not? (PR#8977),38105,hm at student.ethz.ch
+038182.html,[Rd] Error Condition Re: Invalid request,38182,listproc at sun.soci.niu.edu
+037945.html,[Rd] documentation bug as S-Plus catches up (PR#8933),37945,rmh at temple.edu
+038283.html,[Rd] non-central qt() near zero (PR#9050),38283,tlumley at u.washington.edu
+038138.html,"[Rd] cat, print and documentation disagree (PR#8992)",38138,pdbailey at uchicago.edu
+038114.html,[Rd] a new way to crash R? (PR#8981),38114,jritter at umn.edu
+038025.html,[Rd] R bug - crash of the complete session (PR#8950),38025,korschi at uni-muenster.de
+038129.html,[Rd] S4 class slot name 'names' is not allowed (PR#8768	S4Methods),38129,marsh at uri.edu
+038212.html,[Rd] Bug in R-intro.html ? (PR#9028),38212,hueppop at vogelwarte-helgoland.de
+038036.html,[Rd] crash on winMenuAddItem (PR#8961),38036,thomas.ruf at vu-wien.ac.at
+038219.html,[Rd] error in chol2inv.Rd (PR#9033),38219,d.firth at warwick.ac.uk
+038136.html,[Rd] 3 Bugs in R (with R.crash.log) under OSX 10.4.6,38136,Nomis101 at web.de
+037926.html,[Rd] write.foreign creates incorrect SPSS syntax files when	dataframe contains character variables (PR#8926),37926,uhkeller at web.de
+037927.html,[Rd] write.foreign (SPSS) does not handle NAs properly (PR#8927),37927,uhkeller at web.de
+038160.html,[Rd] write.foreign (SPSS) writes illegal SPSS variable names	(PR#9006),38160,uhkeller at web.de
+037934.html,[Rd] Installation R-2.3.1 on IBM AIX5.3 (PR#8931),37934,tabelow at wias-berlin.de
+038022.html,[Rd] Idempotent apply,38022,hadley wickham
+038041.html,[Rd] Making a windows packages with zip,38041,hadley wickham
+038044.html,[Rd] Making a windows packages with zip,38044,hadley wickham
+038134.html,[Rd] Package naming best practices,38134,hadley wickham
+038176.html,[Rd] [R] Function hints,38176,hadley wickham
+038177.html,[Rd] [R] Function hints,38177,hadley wickham
+038144.html,[Rd] bug with boot.sw98 function (PR#8999),38144,nbmonteiro at yahoo.co.uk
+038258.html,[Rd] Password security problem in RODBC package (PR#9038),38258,bwmoore22 at yahoo.com
+038155.html,[Rd] MacOS X - R crashes &amp; import problem (PR#9005),38155,oliver.balmer at yale.edu
+038276.html,[Rd] plot with NAs in x and type=&quot;s&quot; (PR#9046),38276,lor at zhwin.ch
+038179.html,[Rd] minor typos in ?which and ?apropos (PR#9013),38179,bolker at zoo.ufl.edu

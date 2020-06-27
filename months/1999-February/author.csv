@@ -1,0 +1,84 @@
+link,Subject,id,author
+018718.html,PostScript bugs in R-0.63.1,18718,Peter Dalgaard BSA
+018730.html,bug on cancor (PR#116),18730,Peter Dalgaard BSA
+018739.html,Function parsing (PR#118),18739,Peter Dalgaard BSA
+018742.html,An idea for something better than read.table,18742,Peter Dalgaard BSA
+018744.html,An idea for something better than read.table,18744,Peter Dalgaard BSA
+018752.html,eval problem in Math.data.frame [.. DispathGroup / mean==sum ..] (PR#84),18752,Peter Dalgaard BSA
+018761.html,graphics bug: type=&quot;l&quot; (PR#120),18761,Peter Dalgaard BSA
+018773.html,model.frame mangles time series (PR#121),18773,Peter Dalgaard BSA
+018776.html,model.frame mangles time series (PR#121),18776,Peter Dalgaard BSA
+018779.html,model.frame mangles time series (PR#121),18779,Peter Dalgaard BSA
+018781.html,library help (PR#87),18781,Peter Dalgaard BSA
+018791.html,locator() and log axes (PR#126),18791,Peter Dalgaard BSA
+018797.html,history (PR#127),18797,Peter Dalgaard BSA
+018717.html,PostScript bugs in R-0.63.1,18717,Ben Bolker
+018736.html,wish list,18736,Ben Bolker
+018740.html,Ben Bolker's wish list,18740,Ben Bolker
+018794.html,XML for Data,18794,Rob Creecy
+018775.html,[R] possible bug in loglm (PR#122),18775,D.A.Wooff@durham.ac.uk
+018751.html,eval problem in Math.data.frame [.. DispathGroup / mean==sum ..] (PR#84),18751,Peter Dalgaard
+018753.html,lists (PR#88),18753,Peter Dalgaard
+018754.html,possible bug (PR#91),18754,Peter Dalgaard
+018755.html,possible bug (PR#91),18755,Peter Dalgaard
+018756.html,possible bug (PR#91),18756,Peter Dalgaard
+018757.html,source() / eval() bug ??? (PR#96),18757,Peter Dalgaard
+018758.html,[R] Pairlist &amp; Dataframe (PR#100),18758,Peter Dalgaard
+018759.html,saveload.c (PR#107),18759,Peter Dalgaard
+018764.html,HREFS for private packages - fixed? (PR#19),18764,Peter Dalgaard
+018768.html,menu buglet (PR#12),18768,Peter Dalgaard
+018745.html,dput truncation,18745,Paul Gilbert
+018747.html,more on dput,18747,Paul Gilbert
+018749.html,more on dput,18749,Paul Gilbert
+018765.html,HREFS for private packages - fixed? (PR#19),18765,Paul Gilbert
+018767.html,HREFS for private packages - fixed? (PR#19),18767,Paul Gilbert
+018788.html,An idea for something better than read.table,18788,Kjetil Halvorsen
+018719.html,PostScript bugs in R-0.63.1,18719, (Ted Harding)
+018743.html,An idea for something better than read.table,18743,Kurt Hornik
+018787.html,&quot;as&quot; functions should be generic,18787,Kurt Hornik
+018738.html,Function parsing (PR#118),18738,J.C.Rougier@durham.ac.uk
+018784.html,scan rejects complex (PR#125),18784,John.Peters@tip.csiro.au
+018720.html,PostScript bugs in R-0.63.1,18720,Arne Kovac
+018766.html,HREFS for private packages - fixed? (PR#19),18766,Friedrich Leisch
+018769.html,HREFS for private packages - fixed? (PR#19),18769,Friedrich Leisch
+018770.html,HREFS for private packages - fixed? (PR#19),18770,Friedrich Leisch
+018785.html,"Port of sm library, installing library components",18785,Friedrich Leisch
+018735.html,Inter-application communication protocols for R,18735,Nicholas Lewin
+018772.html,model.frame mangles time series (PR#121),18772,Thomas Lumley
+018774.html,model.frame mangles time series (PR#121),18774,Thomas Lumley
+018722.html,Installing R programs (PROBLEMS !!!!),18722,Martin Maechler
+018723.html,[Fwd] Problems installing R on SunOS 4.1.4,18723,Martin Maechler
+018725.html,Install R-0.63.1 on Solaris7,18725,Martin Maechler
+018734.html,bug on cancor (PR#116),18734,Martin Maechler
+018789.html,[R] rw0632 makes stray .Rhistory orphans,18789,Guido Masarotto
+018721.html,Suggestion,18721,Jean Meloche
+018795.html,XML for Data,18795,Balasubramanian Narasimhan
+018786.html,&quot;as&quot; functions should be generic,18786,Martyn Plummer
+018792.html,An idea for something better than read.table,18792,Martyn Plummer
+018726.html,Install R-0.63.1 on Solaris 7,18726,Prof Brian Ripley
+018727.html,Install R-0.63.1 on Solaris 7,18727,Prof Brian Ripley
+018778.html,[R] possible bug in loglm (PR#122),18778,Prof Brian Ripley
+018783.html,"Port of sm library, installing library components",18783,Prof Brian Ripley
+018733.html,bug on cancor (PR#116),18733,Prof Brian D Ripley
+018737.html,Ben Bolker's wish list,18737,Prof Brian D Ripley
+018748.html,more on dput,18748,Prof Brian D Ripley
+018762.html,graphics bug: type=&quot;l&quot; (PR#120),18762,Prof Brian D Ripley
+018793.html,An idea for something better than read.table,18793,A.J. Rossini
+018724.html,Partial implementation of &quot;symbols&quot;,18724,Yusuke Uchiyama
+018746.html,A subroutine for plotting stars,18746,Yusuke Uchiyama
+018750.html,How to call do_circle from .Internal,18750,Yusuke Uchiyama
+018731.html,load() -&gt; segfault,18731,Gregory R. Warnes
+018728.html,bug on cancor,18728,Kenny Ye
+018780.html,library help (PR#87),18780,jlindsey@alpha.luc.ac.be
+018796.html,history (PR#127),18796,jmhughes@globalnet.co.uk
+018729.html,bug on cancor (PR#116),18729,kye@ams.sunysb.edu
+018760.html,graphics bug: type=&quot;l&quot; (PR#120),18760,mcw@ln.nimh.nih.gov
+018763.html,graphics bug: type=&quot;l&quot; (PR#120),18763,p.dalgaard@biostat.ku.dk
+018799.html,lty=0 -- shouldn't it give an invisible line? (PR#130),18799,p.dalgaard@biostat.ku.dk
+018771.html,model.frame mangles time series (PR#121),18771,pd@biostat.ku.dk
+018782.html,function.html gets clobbered (PR#18),18782,pgilbert@bank-banque-canada.ca
+018741.html,"Problems with warnings from loess under Windows, at least (PR#119)",18741,ripley@stats.ox.ac.uk
+018798.html,Formatting in formatC and format (PR#129),18798,ripley@stats.ox.ac.uk
+018790.html,locator() and log axes (PR#126),18790,thomas@biostat.washington.edu
+018777.html,Text in plot (PR#123),18777,venkat@biosta.mskcc.org
+018732.html,load() -&gt; segfault (PR#117),18732,warnes@biostat.washington.edu

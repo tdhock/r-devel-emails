@@ -1,0 +1,159 @@
+link,Subject,id,author
+023548.html,[Rd] graphics device updating (PR#1189),23548,A.Pout@macaulay.ac.uk
+023427.html,[Rd] Bug list summary (automatic post),23427,Peter Dalgaard BSA
+023430.html,[Rd] segmentation fault with GCC 3.0.2,23430,Peter Dalgaard BSA
+023439.html,[Rd] png output requires X connection (PR#1165),23439,Peter Dalgaard BSA
+023464.html,[Rd] lme: how to extract the variance components?,23464,Peter Dalgaard BSA
+023477.html,[Rd] pearson residuals in glm for binomial response (PR#1175),23477,Peter Dalgaard BSA
+023479.html,[Rd] UseMethod() fails to (PR#1176),23479,Peter Dalgaard BSA
+023499.html,"[Rd] 1.4.0 on Dec 19, feature freeze Dec 5",23499,Peter Dalgaard BSA
+023502.html,[Rd] Bug list summary (automatic post),23502,Peter Dalgaard BSA
+023533.html,[Rd] Table Command (PR#1182),23533,Peter Dalgaard BSA
+023403.html,"[Rd] Look, Watson!  La.svd &amp; ATLAS",23403,Douglas Bates
+023463.html,[Rd] lme: how to extract the variance components?,23463,Douglas Bates
+023481.html,[Rd] DGESDD from Lapack for R-1.4.0?,23481,Douglas Bates
+023506.html,[Rd] contour as a generic function?,23506,Ben Bolker
+023404.html,[Rd] Changes to the methods package,23404,John Chambers
+023446.html,[Rd] Method dispatch in C for primitive functions,23446,John Chambers
+023447.html,[Rd] Methods package:  One of those strategy questions,23447,John Chambers
+023452.html,[Rd] Methods package:  One of those strategy questions,23452,John Chambers
+023547.html,[Rd] New version of methods package,23547,John Chambers
+023534.html,[Rd] Table Command (PR#1182),23534,Manisha Desai
+023400.html,[Rd] problem with help.start() in R (PR#1156),23400,Dinh-Tuan.Pham@imag.fr
+023405.html,[Rd] problem with help.start() in R (PR#1156),23405,Dinh-Tuan.Pham@imag.fr
+023409.html,[Rd] Suggesting to have download.file() reflect a new option,23409,Dirk Eddelbuettel
+023475.html,[Rd] No SONAME in libRmath.so in src/nmath/standalone,23475,Dirk Eddelbuettel
+023431.html,[Rd] devel snapshots on CRAN,23431,Friedrich.Leisch@ci.tuwien.ac.at
+023459.html,[Rd] CVS snapshots on CRAN,23459,Friedrich.Leisch@ci.tuwien.ac.at
+023518.html,[Rd] Using rsync from Windows,23518,Friedrich.Leisch@ci.tuwien.ac.at
+023391.html,[Rd] gcc 3.0.1 problems?,23391,Paul Gilbert
+023395.html,[Rd] Segmentation Fault,23395,Paul Gilbert
+023429.html,[Rd] segmentation fault with GCC 3.0.2,23429,Paul Gilbert
+023453.html,[Rd] modification time warning with R CMD check,23453,Paul Gilbert
+023540.html,[Rd] R CMD check,23540,Paul Gilbert
+023443.html,[Rd] r-gnome: plots go blank directly after R is finished plotting (PR#1167),23443,Kurt Hornik
+023493.html,[Rd] Re: [R] sub directories in the tests directory of a package,23493,Kurt Hornik
+023500.html,[Rd] Re: confusion() -- generic function in package mda -- generally useful?,23500,Kurt Hornik
+023476.html,[Rd] pearson residuals in glm for binomial response (PR#1175),23476,J.T.Kent@leeds.ac.uk
+023504.html,[Rd] contour as a generic function?,23504,Paulo Justiniano Ribeiro Jr
+023449.html,[Rd] modification time warning with R CMD check,23449,David Kane  &lt;David Kane
+023393.html,[Rd] migration to common runtime?,23393,Timothy H. Keitt
+023396.html,[Rd] Erratic behaviour of sammon(),23396,Peter Kleiweg
+023460.html,[Rd] European Water Management News,23460,J A van de Kraats
+023510.html,[Rd] zlib location,23510,Nicholas Lewin-Koh
+023402.html,"[Rd] Look, Watson!  La.svd &amp; ATLAS",23402,"Liaw, Andy"
+023527.html,debugging R-devel  on WinNT (was RE: [Rd] zlib location),23527,"Liaw, Andy"
+023524.html,[Rd] default symbol in plots changed in R-Devel for windows,23524,Uwe Ligges
+023448.html,[Rd] Methods package:  One of those strategy questions,23448,Thomas Lumley
+023450.html,[Rd] modification time warning with R CMD check,23450,Thomas Lumley
+023486.html,[Rd] pearson residuals in glm for binomial response (PR#1175),23486,Thomas Lumley
+023399.html,[Rd] problem with help.start() in R (PR#1156),23399,Martin Maechler
+023418.html,"[Rd] beware of  sapply(x, data.class) == &quot;numeric&quot;",23418,Martin Maechler
+023458.html,[Rd] Small change to &quot;cut.default&quot;,23458,Martin Maechler
+023461.html,[Rd] confusion() -- generic function in package mda -- generally useful?,23461,Martin Maechler
+023503.html,[Rd] segfault using svm from e1071 (PR#1178),23503,Martin Maechler
+023544.html,[Rd] rug(x) clip warning incorrect if par(&quot;xlog&quot;)==TRUE (PR#1188),23544,Martin Maechler
+023507.html,[Rd] segfault using svm from e1071 (PR#1178),23507,David Meyer
+023515.html,[Rd] Using rsync from Windows,23515,David Meyer
+023406.html,[Rd] Help with Windows build,23406,Duncan Murdoch
+023412.html,[Rd] Setting NA from C code,23412,Duncan Murdoch
+023424.html,[Rd] Bug(?) in Makefile.win,23424,Duncan Murdoch
+023426.html,[Rd] Bug(?) in Makefile.win,23426,Duncan Murdoch
+023509.html,[Rd] zlib location,23509,Duncan Murdoch
+023514.html,[Rd] Using rsync from Windows,23514,Duncan Murdoch
+023516.html,[Rd] zlib location,23516,Duncan Murdoch
+023521.html,"[Rd] zip error, missing file",23521,Duncan Murdoch
+023520.html,[Rd] contour as a generic function?,23520,Paul Murrell
+023466.html,[Rd] rhs of == does not work with a list of items. should it ? (PR#1172),23466,Paul.White@dsto.defence.gov.au
+023537.html,[Rd] R CMD check,23537,Martyn Plummer
+023440.html,[Rd] Filled Contour.,23440,H C Pumphrey
+023480.html,[Rd] DGESDD from Lapack for R-1.4.0?,23480,Keith Richards-Dinger
+023483.html,[Rd] DGESDD from Lapack for R-1.4.0?,23483,Keith Richards-Dinger
+023386.html,[Rd] problem with help.start() in R (PR#1156),23386,Prof Brian Ripley
+023387.html,[Rd] problem with help.start() in R (PR#1156),23387,Prof Brian Ripley
+023398.html,[Rd] Erratic behaviour of sammon(),23398,Prof Brian Ripley
+023401.html,[Rd] problem with help.start() in R (PR#1156),23401,Prof Brian Ripley
+023410.html,[Rd] Suggesting to have download.file() reflect a new option,23410,Prof Brian Ripley
+023411.html,[Rd] round() doesnt (PR#1138),23411,Prof Brian Ripley
+023413.html,[Rd] Setting NA from C code,23413,Prof Brian Ripley
+023451.html,[Rd] modification time warning with R CMD check,23451,Prof Brian Ripley
+023454.html,[Rd] Methods package:  One of those strategy questions,23454,Prof Brian Ripley
+023505.html,[Rd] contour as a generic function?,23505,Prof Brian Ripley
+023511.html,[Rd] zlib location,23511,Prof Brian Ripley
+023517.html,[Rd] zlib location,23517,Prof Brian Ripley
+023529.html,[Rd] seek helppage.  Possible clarification?,23529,Prof Brian Ripley
+023531.html,[Rd] seek helppage.  Possible clarification?,23531,Prof Brian Ripley
+023392.html,[Rd] gcc 3.0.1 problems?,23392,Prof Brian D Ripley
+023425.html,[Rd] Bug(?) in Makefile.win,23425,Prof Brian D Ripley
+023484.html,[Rd] DGESDD from Lapack for R-1.4.0?,23484,Prof Brian D Ripley
+023522.html,"[Rd] zip error, missing file",23522,Prof Brian D Ripley
+023525.html,[Rd] default symbol in plots changed in R-Devel for windows,23525,Prof Brian D Ripley
+023389.html,[Rd] problem with help.start() in R (PR#1156),23389,A.J. Rossini
+023482.html,[Rd] DGESDD from Lapack for R-1.4.0?,23482,A.J. Rossini
+023528.html,[Rd] seek helppage.  Possible clarification?,23528,A.J. Rossini
+023530.html,[Rd] seek helppage.  Possible clarification?,23530,A.J. Rossini
+023444.html,[Rd] Small change to &quot;cut.default&quot;,23444,Jonathan Rougier
+023508.html,[Rd] segfault using svm from e1071 (PR#1178),23508,Jan Rychter
+023523.html,[Rd] segfault using svm from e1071 (PR#1178),23523,Jan Rychter
+023441.html,[Rd] Filled Contour.,23441,Deepayan Sarkar
+023487.html,[Rd] png output requires X connection (PR#1165),23487,Telford
+023388.html,[Rd] problem with help.start() in R (PR#1156),23388,Luke Tierney
+023394.html,[Rd] migration to common runtime?,23394,Luke Tierney
+023408.html,"[Rd] Possible bug, Rprof() and scan(pipe()) (PR#1140)",23408,Luke Tierney
+023419.html,[Rd] change in save file format,23419,Luke Tierney
+023470.html,[Rd] rpart:plotcp doesn't allow ylim argument (PR#1171),23470,"Warnes, Gregory R"
+023455.html,[Rd] pdf driver (PR#1168),23455,White.Denis@epamail.epa.gov
+023456.html,[Rd] pdf driver (PR#1169),23456,White.Denis@epamail.epa.gov
+023472.html,[Rd] pdf() behavior (PR#1174),23472,White.Denis@epamail.epa.gov
+023474.html,[Rd] pdf() behavior (PR#1174),23474,White.Denis@epamail.epa.gov
+023462.html,[Rd] lme: how to extract the variance components?,23462,Jean Wu
+023519.html,[Rd] R-ext.html should be R-exts.html in R-lang.html (PR#1180),23519,baron@cattell.psych.upenn.edu
+023542.html,[Rd] anova.glm and explicit contrast matrices (PR#1187),23542,bates@stat.wisc.edu
+023543.html,[Rd] rug(x) clip warning incorrect if par(&quot;xlog&quot;)==TRUE (PR#1188),23543,cberry@tajo.ucsd.edu
+023538.html,[Rd] ltsreg warnings (PR#1184),23538,charlie@stat.umn.edu
+023512.html,[Rd] Bug in dev.print? (PR#1179),23512,dtrenkler@nts6.oec.uni-osnabrueck.de
+023435.html,[Rd] png output requires X connection (PR#1165),23435,edd@debian.org
+023434.html,[Rd] Gnits about setting LD_LIBRARY_PATH from R (PR#1166),23434,edd@debian.org
+023442.html,[Rd] r-gnome: plots go blank directly after R is finished plotting (PR#1167),23442,edd@debian.org
+023445.html,[Rd] r-gnome: plots go blank directly after R is finished plotting (PR#1167),23445,edd@debian.org
+023390.html,[Rd] Update on report PR#1145 (with a cross-reference to PR#1026).,23390,gml4410@ggr.co.uk
+023465.html,[Rd] rpart:plotcp doesn't allow ylim argument (PR#1171),23465,gregory_r_warnes@groton.pfizer.com
+023471.html,[Rd] rpart:plotcp doesn't allow ylim argument (PR#1171),23471,gregory_r_warnes@groton.pfizer.com
+023478.html,[Rd] UseMethod() fails to (PR#1176),23478,hb@maths.lth.se
+023494.html,[Rd] acf mis-feature (PR#1177),23494,hkawakat@sk.tsukuba.ac.jp
+023496.html,[Rd] acf mis-feature (PR#1177),23496,hkawakat@sk.tsukuba.ac.jp
+023497.html,more on [Rd] acf mis-feature (PR#1177),23497,hkawakat@sk.tsukuba.ac.jp
+023501.html,[Rd] segfault using svm from e1071 (PR#1178),23501,jan@rychter.com
+023422.html,[Rd] incorrect xlim error message in image() (PR#1160),23422,janef@stat.berkeley.edu
+023526.html,[Rd] predict.nnet (PR#1181),23526,jcs20@po.cwru.edu
+023416.html,[Rd] stepwise algorithm step() on coxph() (PR#1159),23416,jerome@hivnet.ubc.ca
+023467.html,[Rd] rhs of == does not work with a list of items. should it ? (PR#1173),23467,ligges@statistik.uni-dortmund.de
+023415.html,"[Rd] Possible bug, Rprof() and scan(pipe()) (PR#1140)",23415,macq@llnl.gov
+023532.html,[Rd] Table Command (PR#1182),23532,mdesai@biostat.cpmc.columbia.edu
+023536.html,[Rd] Table Command (PR#1182),23536,mdesai@biostat.cpmc.columbia.edu
+023432.html,[Rd] eqscplot() in library MASS: fails when given only one point (PR#1162),23432,pflugshaupt@geobot.umnw.ethz.ch
+023414.html,[Rd] bug.report()sends empty message (PR#1158),23414,pgilbert@bank-banque-canada.ca
+023539.html,[Rd] documentation for diff (PR#1185),23539,pgilbert@bank-banque-canada.ca
+023385.html,[Rd] strptime bug (PR#1155),23385,ripley@stats.ox.ac.uk
+023407.html,"[Rd] Possible bug, Rprof() and scan(pipe()) (PR#1140)",23407,ripley@stats.ox.ac.uk
+023417.html,[Rd] stepwise algorithm step() on coxph() (PR#1159),23417,ripley@stats.ox.ac.uk
+023423.html,[Rd] incorrect xlim error message in image() (PR#1160),23423,ripley@stats.ox.ac.uk
+023433.html,[Rd] eqscplot() in library MASS: fails when given only one point (PR#1164),23433,ripley@stats.ox.ac.uk
+023436.html,[Rd] png output requires X connection (PR#1165),23436,ripley@stats.ox.ac.uk
+023438.html,[Rd] png output requires X connection (PR#1165),23438,ripley@stats.ox.ac.uk
+023457.html,[Rd] pdf driver (PR#1169),23457,ripley@stats.ox.ac.uk
+023468.html,[Rd] rhs of == does not work with a list of items (PR#1172),23468,ripley@stats.ox.ac.uk
+023469.html,[Rd] rpart:plotcp doesn't allow ylim argument (PR#1171),23469,ripley@stats.ox.ac.uk
+023473.html,[Rd] pdf() behavior (PR#1174),23473,ripley@stats.ox.ac.uk
+023485.html,[Rd] pdf() behavior (PR#1174),23485,ripley@stats.ox.ac.uk
+023495.html,[Rd] acf mis-feature (PR#1177),23495,ripley@stats.ox.ac.uk
+023498.html,more on [Rd] acf mis-feature (PR#1177),23498,ripley@stats.ox.ac.uk
+023513.html,[Rd] Bug in dev.print? (PR#1179),23513,ripley@stats.ox.ac.uk
+023535.html,[Rd] Table Command (PR#1182),23535,ripley@stats.ox.ac.uk
+023545.html,[Rd] anova.glm and explicit contrast matrices (PR#1187),23545,ripley@stats.ox.ac.uk
+023546.html,[Rd] anova.glm and explicit contrast matrices (PR#1187),23546,ripley@stats.ox.ac.uk
+023549.html,[Rd] graphics device updating (PR#1189),23549,ripley@stats.ox.ac.uk
+023437.html,[Rd] png output requires X connection (PR#1165),23437,rmurray@debian.org
+023397.html,[Rd] identify(...plot=F) (PR#1157),23397,rolf@maths.uwa.edu.au
+023428.html,[Rd] x-axis label in persp() (PR#1161),23428,rolf@maths.uwa.edu.au
+023541.html,[Rd] a patch to tapply (PR#1186),23541,vograno@arbitrade.com

@@ -1,0 +1,220 @@
+link,Subject,id,author
+019108.html,[S] uniroot -- doesn't work recursively,19108,Adelchi Azzalini
+018928.html,PLATFORMS Update,18928,Peter Dalgaard BSA
+018931.html,PLATFORMS Update,18931,Peter Dalgaard BSA
+018937.html,tabulate causes segmentation fault (PR#156),18937,Peter Dalgaard BSA
+018941.html,tabulate causes segmentation fault (PR#156),18941,Peter Dalgaard BSA
+018948.html,seg fault with strsplit (PR#158),18948,Peter Dalgaard BSA
+018951.html,Bug list summary (automatic post),18951,Peter Dalgaard BSA
+018974.html,a strange logical bug (PR#162),18974,Peter Dalgaard BSA
+018979.html,a strange logical bug (PR#162),18979,Peter Dalgaard BSA
+018990.html,eigen,18990,Peter Dalgaard BSA
+018997.html,eigen,18997,Peter Dalgaard BSA
+018998.html,eigen,18998,Peter Dalgaard BSA
+019006.html,R/S compatibility in passing a formula,19006,Peter Dalgaard BSA
+019033.html,--nsize and --vsize,19033,Peter Dalgaard BSA
+019041.html,outer fails with group generic operations on factors (PR#166),19041,Peter Dalgaard BSA
+019042.html,outer fails with group generic operations on factors (PR#166),19042,Peter Dalgaard BSA
+019045.html,outer fails with group generic operations on factors (PR#166),19045,Peter Dalgaard BSA
+019049.html,R's UseMethod() does not dispatch on changed class() (PR#167),19049,Peter Dalgaard BSA
+019056.html,R's UseMethod() does not dispatch on changed class() (PR#167),19056,Peter Dalgaard BSA
+019059.html,R's UseMethod() does not dispatch on changed class() (PR#167),19059,Peter Dalgaard BSA
+019061.html,debug,19061,Peter Dalgaard BSA
+019073.html,Bug list summary (automatic post),19073,Peter Dalgaard BSA
+019078.html,Test (PR#172),19078,Peter Dalgaard BSA
+019081.html,GConvert error when using pictex (PR#173),19081,Peter Dalgaard BSA
+019086.html,do.call() mangles expressions in arguments (PR#174),19086,Peter Dalgaard BSA
+019093.html,R on AIX,19093,Peter Dalgaard BSA
+019101.html,options,19101,Peter Dalgaard BSA
+019105.html,R won't compile on Redhat 5.2 (PR#177),19105,Peter Dalgaard BSA
+019106.html,[S] uniroot -- doesn't work recursively,19106,Peter Dalgaard BSA
+019109.html,[S] uniroot -- doesn't work recursively,19109,Peter Dalgaard BSA
+019111.html,[S] uniroot -- doesn't work recursively,19111,Peter Dalgaard BSA
+019112.html,[S] uniroot -- doesn't work recursively,19112,Peter Dalgaard BSA
+019119.html,Multivariate ts -- arithmetic bug [ for SOME time-series ] (PR#178),19119,Peter Dalgaard BSA
+019124.html,another ts problem,19124,Peter Dalgaard BSA
+019125.html,another ts problem,19125,Peter Dalgaard BSA
+018919.html,.External interface,18919,Douglas Bates
+018920.html,.External == .Internal ?,18920,Douglas Bates
+018992.html,eigen,18992,Douglas Bates
+018993.html,eigen,18993,Douglas Bates
+019004.html,Fortran vs C,19004,Douglas Bates
+019005.html,R/S compatibility in passing a formula,19005,Douglas Bates
+019021.html,--nsize and --vsize,19021,Douglas Bates
+019069.html,eigenvalue/eigenvector calculations,19069,Douglas Bates
+019072.html,eigenvalue calculations,19072,Douglas Bates
+019123.html,gdb and f77,19123,Douglas Bates
+018932.html,PLATFORMS Update,18932,Goran Brostrom
+019019.html,R-0.65-April-12 on hpux10.20,19019,U-E59264-Osman F Buyukisik
+018918.html,"GC, Disk Storage, etc",18918,Rob Creecy
+019017.html,"Fortran vs C, easing using Fortran",19017,Albrecht Gebhardt
+019026.html,"Fortran vs C, easing using Fortran",19026,Albrecht Gebhardt
+019047.html,R's UseMethod() does not dispatch on changed class() (PR#167),19047,Robert Gentleman
+019048.html,options,19048,Robert Gentleman
+019055.html,R's UseMethod() does not dispatch on changed class() (PR#167),19055,Robert Gentleman
+019057.html,R's UseMethod() does not dispatch on changed class() (PR#167),19057,Robert Gentleman
+019060.html,debug,19060,Robert Gentleman
+019065.html,R's UseMethod() does not dispatch on changed class() (PR#167),19065,Robert Gentleman
+019067.html,NextMethod,19067,Robert Gentleman
+019084.html,make check isn't quite right,19084,Robert Gentleman
+019097.html,Assigning to a list within a loop (PR#175),19097,Robert Gentleman
+019100.html,options,19100,Robert Gentleman
+019102.html,options and other things,19102,Robert Gentleman
+019115.html,problems with formals and get (PR#151),19115,Robert Gentleman
+018916.html,dput / dget,18916,Paul Gilbert
+018986.html,a strange logical bug (PR#162),18986,Paul Gilbert
+018988.html,eigen,18988,Paul Gilbert
+018989.html,dreaming?,18989,Paul Gilbert
+019024.html,"Fortran vs C, easing using Fortran",19024,Paul Gilbert
+019053.html,R's UseMethod() does not dispatch on changed class() (PR#167),19053,Paul Gilbert
+019066.html,NextMethod,19066,Paul Gilbert
+019068.html,NextMethod,19068,Paul Gilbert
+019070.html,eigenvalue/eigenvector calculations,19070,Paul Gilbert
+019113.html,[R] random sequence,19113,Paul Gilbert
+019117.html,ts,19117,Paul Gilbert
+019122.html,another ts problem,19122,Paul Gilbert
+018915.html,PLATFORMS,18915,Kurt Hornik
+018917.html,add-on packages,18917,Kurt Hornik
+018924.html,PLATFORMS Update,18924,Kurt Hornik
+018930.html,PLATFORMS Update,18930,Kurt Hornik
+018977.html,Error in ppois function (PR#161),18977,Kurt Hornik
+019000.html,IRIX compile (PR#163),19000,Kurt Hornik
+019001.html,IRIX compile (PR#163),19001,Kurt Hornik
+019011.html,"Fortran vs C, easing using Fortran",19011,Kurt Hornik
+019014.html,PLATFORMS,19014,Kurt Hornik
+019013.html,add-on packages,19013,Kurt Hornik
+019023.html,add-on packages,19023,Kurt Hornik
+019036.html,--nsize and --vsize,19036,Kurt Hornik
+019088.html,make check isn't quite right,19088,Kurt Hornik
+019092.html,R on AIX,19092,Kurt Hornik
+018911.html,"GC, Disk Storage, etc",18911,Ross Ihaka
+018922.html,X11 Device Driver,18922,Ross Ihaka
+018926.html,X11 Device Driver,18926,Ross Ihaka
+018966.html,Error in ppois function (PR#161),18966,Ross Ihaka
+018968.html,Error in ppois function (PR#161),18968,Ross Ihaka
+018970.html,a strange logical bug (PR#162),18970,Ross Ihaka
+018991.html,eigen,18991,Ross Ihaka
+018994.html,eigen,18994,Ross Ihaka
+018996.html,eigen,18996,Ross Ihaka
+019002.html,eigen,19002,Ross Ihaka
+019003.html,Fortran vs C,19003,Ross Ihaka
+019009.html,"Fortran vs C, easing using Fortran",19009,Ross Ihaka
+019028.html,"Fortran vs C, easing using Fortran",19028,Ross Ihaka
+019043.html,--nsize and --vsize,19043,Ross Ihaka
+019085.html,do.call() mangles expressions in arguments (PR#174),19085,Ross Ihaka
+019127.html,polygon() help file (PR#181),19127,J.C.Rougier@durham.ac.uk
+018978.html,Compilation problems with R-0.64.0,18978,Arne Kovac
+018984.html,a strange logical bug (PR#162),18984,Arne Kovac
+019094.html,R on AIX,19094,Arne Kovac
+019096.html,R on AIX,19096,Arne Kovac
+018976.html,Error in ppois function (PR#161),18976,Kurt.Hornik@ci.tuwien.ac.at
+018982.html,a strange logical bug (PR#162),18982,Nicholas Lee
+019029.html,--nsize and --vsize,19029,Nicholas Lee
+019030.html,"Fortran vs C, easing using Fortran",19030,Nicholas Lee
+019037.html,--nsize and --vsize,19037,Nicholas Lee
+019039.html,--nsize and --vsize,19039,Nicholas Lee
+018925.html,X11 Device Driver,18925,Friedrich Leisch
+018927.html,legends of barplots,18927,Friedrich Leisch
+018950.html,"Using zip format for help pages, examples, etc.",18950,Friedrich Leisch
+019090.html,R on AIX,19090,Friedrich Leisch
+019095.html,R on AIX,19095,Friedrich Leisch
+019120.html,configure for packages,19120,Friedrich Leisch
+018921.html,.External == .Internal ?,18921,Thomas Lumley
+018933.html,X11 Device Driver,18933,Thomas Lumley
+019022.html,add-on packages,19022,Thomas Lumley
+019080.html,survival5,19080,Thomas Lumley
+018985.html,Compilation problems with R-0.64.0 [AIX],18985,Martin Maechler
+019015.html,eigen,19015,Martin Maechler
+019044.html,outer fails with group generic operations on factors (PR#166),19044,Martin Maechler
+019074.html,eigenvalue calculations,19074,Martin Maechler
+019082.html,GConvert error when using pictex (PR#173)  (PR#150),19082,Martin Maechler
+019091.html,R on AIX,19091,Martin Maechler
+019103.html,[S] uniroot -- doesn't work recursively,19103,Martin Maechler
+019110.html,[S] uniroot -- doesn't work recursively,19110,Martin Maechler
+018934.html,patch against overflows in saveload.c,18934,Jean Meloche
+018935.html,R patch for strsplit,18935,Jean Meloche
+018981.html,a strange logical bug (PR#162),18981,N.J.Lee@statslab.cam.ac.uk
+019107.html,[S] uniroot -- doesn't work recursively,19107,Balasubramanian Narasimhan
+019035.html,make check,19035,Martyn Plummer
+019098.html,mvfft,19098,Martyn Plummer
+019116.html,mvfft (PR#176),19116,Martyn Plummer
+018960.html,submission method &quot;none&quot; of bug.report() -- interaction with ESS ?,18960,Prof Brian Ripley
+019016.html,--nsize and --vsize,19016,Prof Brian Ripley
+019018.html,"Fortran vs C, easing using Fortran",19018,Prof Brian Ripley
+019020.html,R-0.65-April-12 on hpux10.20,19020,Prof Brian Ripley
+019025.html,--nsize and --vsize,19025,Prof Brian Ripley
+019027.html,"Fortran vs C, easing using Fortran",19027,Prof Brian Ripley
+019038.html,--nsize and --vsize,19038,Prof Brian Ripley
+019114.html,[R] random sequence,19114,Prof Brian Ripley
+018914.html,Makefile fix on Solaris 2.7 (PR#155),18914,Prof Brian D Ripley
+018923.html,X11 Device Driver,18923,Prof Brian D Ripley
+018929.html,PLATFORMS Update,18929,Prof Brian D Ripley
+018942.html,&quot;integer&quot; mod ein .C/.Fortran call,18942,Prof Brian D Ripley
+018944.html,deparsing lhs of formula in print.anova.lm (PR#157),18944,Prof Brian D Ripley
+018946.html,"Using zip format for help pages, examples, etc.",18946,Prof Brian D Ripley
+018949.html,"Using zip format for help pages, examples, etc.",18949,Prof Brian D Ripley
+018957.html,chull() wanted?,18957,Prof Brian D Ripley
+018963.html,Error in ppois function (PR#161),18963,Prof Brian D Ripley
+018987.html,a strange logical bug (PR#162),18987,Prof Brian D Ripley
+018995.html,eigen,18995,Prof Brian D Ripley
+019007.html,"Fortran vs C, easing using Fortran",19007,Prof Brian D Ripley
+019008.html,R/S compatibility in passing a formula,19008,Prof Brian D Ripley
+019012.html,"Fortran vs C, easing using Fortran",19012,Prof Brian D Ripley
+019031.html,--nsize and --vsize,19031,Prof Brian D Ripley
+019032.html,--nsize and --vsize,19032,Prof Brian D Ripley
+019071.html,eigenvalue/eigenvector calculations,19071,Prof Brian D Ripley
+019089.html,make check isn't quite right,19089,Prof Brian D Ripley
+018959.html,submission method &quot;none&quot; of bug.report() -- interaction with ESS ?,18959,A.J. Rossini
+018958.html,chol(),18958,Jonathan Rougier
+018954.html,chull() wanted?,18954,Dipl.-Stat. Detlef Steuer
+018938.html,tabulate causes segmentation fault (PR#156),18938,Bill Venables
+018939.html,tabulate causes segmentation fault (PR#156),18939,Bill Venables
+019054.html,R's UseMethod() does not dispatch on changed class() (PR#167),19054,Bill Venables
+019062.html,R's UseMethod() does not dispatch on changed class() (PR#167),19062,Bill Venables
+018912.html,Makefile fix on Solaris 2.7 (PR#155),18912,abb@acm.org
+018943.html,deparsing lhs of formula in print.anova.lm (PR#157),18943,bates@stat.wisc.edu
+019126.html,nlm on a function in the Math group (PR#180),19126,bates@stat.wisc.edu
+018965.html,Error in ppois function (PR#161),18965,ihaka@stat.auckland.ac.nz
+018967.html,Error in ppois function (PR#161),18967,ihaka@stat.auckland.ac.nz
+018969.html,a strange logical bug (PR#162),18969,ihaka@stat.auckland.ac.nz
+018947.html,seg fault with strsplit (PR#158),18947,jlindsey@alpha.luc.ac.be
+018952.html,offsets again (PR#159),18952,jlindsey@alpha.luc.ac.be
+018955.html,core dump (PR#160),18955,jlindsey@alpha.luc.ac.be
+018964.html,a strange logical bug (PR#162),18964,jlindsey@alpha.luc.ac.be
+018983.html,a strange logical bug (PR#162),18983,maechler@stat.ethz.ch
+019046.html,R's UseMethod() does not dispatch on changed class() (PR#167),19046,maechler@stat.math.ethz.ch
+019118.html,Multivariate ts -- arithmetic bug [ for SOME time-series ] (PR#178),19118,maechler@stat.math.ethz.ch
+019128.html,polygon() help file (PR#181),19128,maechler@stat.math.ethz.ch
+018961.html,Error in ppois function (PR#161),18961,mh.smith@auckland.ac.nz
+018999.html,IRIX compile (PR#163),18999,mtim@farm.ecs.umass.edu
+018972.html,Error in ppois function (PR#161),18972,p.dalgaard@biostat.ku.dk
+018973.html,a strange logical bug (PR#162),18973,p.dalgaard@biostat.ku.dk
+018980.html,a strange logical bug (PR#162),18980,p.dalgaard@biostat.ku.dk
+019058.html,R's UseMethod() does not dispatch on changed class() (PR#167),19058,p.dalgaard@biostat.ku.dk
+019063.html,Segfault from evalq(return()) (PR#168),19063,p.dalgaard@biostat.ku.dk
+019064.html,deparse drops () sometimes (PR#169),19064,p.dalgaard@biostat.ku.dk
+019076.html,test2 (PR#171),19076,pd@biostat.ku.dk
+019077.html,Test (PR#172),19077,pd@biostat.ku.dk
+019083.html,do.call() mangles expressions in arguments (PR#174),19083,pd@biostat.ku.dk
+019104.html,R won't compile on Redhat 5.2 (PR#177),19104,pgutwin@us.ibm.com
+019034.html,make check (PR#165),19034,plummer@iarc.fr
+019099.html,mvfft (PR#176),19099,plummer@iarc.fr
+019129.html,par help page  errors (PR#182),19129,plummer@iarc.fr
+019075.html,[MAILER-DAEMON@biostat.ku.dk: Returned mail: /home/sfe1/r-bugs/.forward: line 1: &quot;|/home/sfe1/r-bugs/bin/new_message Rnew&quot;... User r-bugs@biostat.ku.dk doesn't have a valid shell for mailing to programs] (PR#170),19075,pwhiting@fury.ittc.ukans.edu
+019079.html,GConvert error when using pictex (PR#173),19079,pwhiting@sprint.net
+019052.html,R's UseMethod() does not dispatch on changed class() (PR#167),19052,rgentlem@hsph.harvard.edu
+018913.html,Makefile fix on Solaris 2.7 (PR#155),18913,ripley@stats.ox.ac.uk
+018940.html,tabulate causes segmentation fault (PR#156),18940,ripley@stats.ox.ac.uk
+018945.html,deparsing lhs of formula in print.anova.lm (PR#157),18945,ripley@stats.ox.ac.uk
+018953.html,offsets again (PR#159),18953,ripley@stats.ox.ac.uk
+018956.html,offsets again (PR#159),18956,ripley@stats.ox.ac.uk
+018962.html,Error in ppois function (PR#161),18962,ripley@stats.ox.ac.uk
+018971.html,Error in ppois function (PR#161),18971,ripley@stats.ox.ac.uk
+018975.html,a strange logical bug (PR#162),18975,ripley@stats.ox.ac.uk
+019010.html,[R] repeated measurements libraries v0.4 (PR#164),19010,ripley@stats.ox.ac.uk
+019040.html,outer fails with group generic operations on factors (PR#166),19040,ripley@stats.ox.ac.uk
+019050.html,R's UseMethod() does not dispatch on changed class() (PR#167),19050,ripley@stats.ox.ac.uk
+019051.html,R's UseMethod() does not dispatch on changed class() (PR#167),19051,ripley@stats.ox.ac.uk
+019121.html,Problems with setting .Random.seed (PR#179),19121,ripley@stats.ox.ac.uk
+018936.html,tabulate causes segmentation fault (PR#156),18936,wvenable@arcola.stats.adelaide.edu.au
+019087.html,Assigning to a list within a loop (PR#175),19087,wvenable@arcola.stats.adelaide.edu.au

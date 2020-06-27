@@ -1,0 +1,198 @@
+link,Subject,id,author
+073913.html,[Rd] R 3.4.0,73913,Avraham Adler
+073816.html,[Rd] stats::median,73816,Adrian Baddeley
+073878.html,[Rd] Possible issue with R-tools on Windows,73878,Robert Baer
+073882.html,[Rd] Possible issue with R-tools on Windows - Amend subject to RTerm issue,73882,Robert Baer
+073846.html,[Rd] Seeking advice regarding compilation of large libraries using	RTools (Windows),73846,Richard Beare
+073852.html,[Rd] Seeking advice regarding compilation of large libraries using RTools (Windows),73852,Richard Beare
+073866.html,[Rd] Seeking advice regarding compilation of large libraries using RTools (Windows),73866,Richard Beare
+073843.html,[Rd] can we override &quot;if&quot; in R?,73843,Gabriel Becker
+073853.html,[Rd] can we override &quot;if&quot; in R?,73853,Gabriel Becker
+073864.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73864,Gabriel Becker
+073890.html,[Rd] Support for user defined unary functions,73890,Gabriel Becker
+073893.html,[Rd] Support for user defined unary functions,73893,Gabriel Becker
+073903.html,[Rd] Support for user defined unary functions,73903,Gabriel Becker
+073905.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73905,Gabriel Becker
+073909.html,[Rd] Support for user defined unary functions,73909,Gabriel Becker
+073911.html,[Rd] Support for user defined unary functions,73911,Gabriel Becker
+074001.html,[Rd] Transferring ownership of R-managed buffer,74001,Gabriel Becker
+074005.html,[Rd] Transferring ownership of R-managed buffer,74005,Gabriel Becker
+073817.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73817,Henrik Bengtsson
+073822.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73822,Henrik Bengtsson
+073824.html,[Rd] Trouble installing packages when history mechanism is modified by user profile,73824,Henrik Bengtsson
+073825.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73825,Henrik Bengtsson
+073836.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73836,Henrik Bengtsson
+073841.html,[Rd] length(unclass(x)) without unclass(x)?,73841,Henrik Bengtsson
+073987.html,[Rd] A trap for young players with the lapply() function.,73987,Charles C. Berry
+073818.html,[Rd] Bug in nlm(),73818,"Boehnstedt, Marie"
+073875.html,[Rd] problems with RdMacros in file DESCRIPTION,73875,Georgi Boshnakov
+073880.html,[Rd] . Possible issue with R-tools on Windows,73880,Georgi Boshnakov
+073842.html,[Rd] Please add me to bugzilla,73842,Bradley Broom
+073850.html,[Rd] Please add me to bugzilla,73850,Bradley Broom
+073898.html,[Rd] RFC: (in-principle) native unquoting for standard evaluation,73898,Jonathan Carroll
+073902.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73902,Jonathan Carroll
+073923.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73923,Jonathan Carroll
+073876.html,[Rd] Possible issue with coercion in sprintf()?,73876,Evan Cortens
+073827.html,[Rd] can we override &quot;if&quot; in R?,73827,G&#225;bor Cs&#225;rdi
+073829.html,[Rd] can we override &quot;if&quot; in R?,73829,G&#225;bor Cs&#225;rdi
+073837.html,[Rd] can we override &quot;if&quot; in R?,73837,G&#225;bor Cs&#225;rdi
+073856.html,[Rd] Platform dependent native routine registration,73856,G&#225;bor Cs&#225;rdi
+073858.html,[Rd] Platform dependent native routine registration,73858,G&#225;bor Cs&#225;rdi
+073860.html,[Rd] Platform dependent native routine registration,73860,G&#225;bor Cs&#225;rdi
+073907.html,[Rd] R 3.4.0,73907,Peter Dalgaard
+073865.html,[Rd] Seeking advice regarding compilation of large libraries using RTools (Windows),73865,Ray Donnelly
+073835.html,[Rd] can we override &quot;if&quot; in R?,73835,William Dunlap
+073844.html,[Rd] can we override &quot;if&quot; in R?,73844,William Dunlap
+073872.html,"[Rd] Error in formatDL(nm, txt, indent = max(nchar(nm,	&quot;w&quot;)) + 3)",73872,William Dunlap
+073873.html,"[Rd] Error in formatDL(nm, txt, indent = max(nchar(nm,	&quot;w&quot;)) + 3)",73873,William Dunlap
+073886.html,"[Rd] simplify2array(higher=TRUE, listOfSingleRowDataframes)",73886,William Dunlap
+073896.html,[Rd] Support for user defined unary functions,73896,William Dunlap
+073906.html,[Rd] Support for user defined unary functions,73906,William Dunlap
+073910.html,[Rd] Support for user defined unary functions,73910,William Dunlap
+073912.html,[Rd] Support for user defined unary functions,73912,William Dunlap
+073916.html,[Rd] Support for user defined unary functions,73916,William Dunlap
+073936.html,[Rd] Fwd: Possible memory problems with mallloc when called	with .C(),73936,William Dunlap
+073939.html,[Rd] outer not applying a constant function,73939,William Dunlap
+073993.html,[Rd] A trap for young players with the lapply() function.,73993,William Dunlap
+073857.html,[Rd] Platform dependent native routine registration,73857,Dirk Eddelbuettel
+073859.html,[Rd] Platform dependent native routine registration,73859,Dirk Eddelbuettel
+073917.html,[Rd] Support for user defined unary functions,73917,Dirk Eddelbuettel
+073919.html,[Rd] Experimental CXX_STD problem in R 3.4,73919,Dirk Eddelbuettel
+073943.html,[Rd] Incompatible change in R-devel,73943,Dirk Eddelbuettel
+073948.html,[Rd] Incompatible change in R-devel,73948,Dirk Eddelbuettel
+073964.html,[Rd] non-infectious license for R package?,73964,Dirk Eddelbuettel
+073981.html,[Rd] R fails to read repo index on NGINX,73981,Dirk Eddelbuettel
+073983.html,[Rd] R fails to read repo index on NGINX,73983,Dirk Eddelbuettel
+073958.html,[Rd] non-infectious license for R package?,73958,Mario Emmenlauer
+073970.html,[Rd] non-infectious license for R package?,73970,Mario Emmenlauer
+073971.html,[Rd] non-infectious license for R package?,73971,Mario Emmenlauer
+073962.html,[Rd] non-infectious license for R package?,73962,"Ganz, Carl"
+073926.html,[Rd] outer not applying a constant function,73926,"Gebhardt, Albrecht"
+073932.html,"[Rd] Error &quot;Warning in read_symbols_from_dll(so, rarch): this requires 'objdump.exe' to be on the PATH",73932,Christophe Genolini
+073868.html,"[Rd] Error in formatDL(nm, txt, indent = max(nchar(nm, &quot;w&quot;)) + 3)",73868,Spencer Graves
+073870.html,"[Rd] Error in formatDL(nm, txt, indent = max(nchar(nm,	&quot;w&quot;)) + 3)",73870,Spencer Graves
+073874.html,"[Rd] Error in formatDL(nm, txt, indent = max(nchar(nm,	&quot;w&quot;)) + 3)",73874,Spencer Graves
+073954.html,[Rd] RFC: (in-principle) native unquoting for standard evaluation,73954,Lionel Henry
+073955.html,[Rd] RFC: (in-principle) native unquoting for standard evaluation,73955,Lionel Henry
+073889.html,[Rd] Support for user defined unary functions,73889,Jim Hester
+073891.html,[Rd] Support for user defined unary functions,73891,Jim Hester
+073894.html,[Rd] Support for user defined unary functions,73894,Jim Hester
+073900.html,[Rd] Support for user defined unary functions,73900,Jim Hester
+073901.html,[Rd] Support for user defined unary functions,73901,Jim Hester
+073915.html,[Rd] Support for user defined unary functions,73915,Jim Hester
+073888.html,[Rd] Error: memory exhausted (limit reached?),73888,Tomas Kalibera
+073925.html,[Rd] [PATCH] Improve utf8clen and remove utf8_table4,73925,Sahil Kang
+073931.html,[Rd] [PATCH] Improve utf8clen and remove utf8_table4,73931,Sahil Kang
+073997.html,[Rd] Transferring ownership of R-managed buffer,73997,Tim Keitt
+074000.html,[Rd] Transferring ownership of R-managed buffer,74000,Tim Keitt
+074004.html,[Rd] Transferring ownership of R-managed buffer,74004,Tim Keitt
+074006.html,[Rd] Transferring ownership of R-managed buffer,74006,Tim Keitt
+073832.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73832,Michael Lawrence
+073833.html,[Rd] can we override &quot;if&quot; in R?,73833,Michael Lawrence
+073839.html,[Rd] can we override &quot;if&quot; in R?,73839,Michael Lawrence
+073895.html,[Rd] Support for user defined unary functions,73895,Michael Lawrence
+073899.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73899,Michael Lawrence
+073904.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73904,Michael Lawrence
+073924.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73924,Michael Lawrence
+073989.html,[Rd] `[` not recognized as a primitive in certain cases.,73989,Michael Lawrence
+073973.html,[Rd] Documentation of model.frame() and get_all_vars(),73973,Thomas J. Leeper
+074003.html,[Rd] get_all_vars() does not handle rhs matrices in formulae,74003,Thomas J. Leeper
+073879.html,[Rd] Possible issue with R-tools on Windows,73879,Uwe Ligges
+073881.html,[Rd] . Possible issue with R-tools on Windows,73881,Uwe Ligges
+073944.html,[Rd] Hyperbolic tangent different results on Windows and Mac,73944,Uwe Ligges
+073945.html,"[Rd] Error &quot;Warning in read_symbols_from_dll(so, rarch): this requires 'objdump.exe' to be on the PATH",73945,Uwe Ligges
+073887.html,[Rd] Error: memory exhausted (limit reached?),73887,Guillaume MULLER
+073956.html,[Rd] A question on stats::as.hclust.dendrogram,73956,"Ma,Man Chun John"
+073815.html,[Rd] stats::median,73815,Martin Maechler
+073819.html,[Rd] Bug in nlm(),73819,Martin Maechler
+073820.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73820,Martin Maechler
+073831.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73831,Martin Maechler
+073847.html,[Rd] Please add me to bugzilla,73847,Martin Maechler
+073849.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73849,Martin Maechler
+073851.html,[Rd] Please add me to bugzilla,73851,Martin Maechler
+073867.html,[Rd] Bug in nlm(),73867,Martin Maechler
+073883.html,[Rd] named arguments in formula and terms,73883,Martin Maechler
+073892.html,[Rd] Support for user defined unary functions,73892,Martin Maechler
+073935.html,[Rd] outer not applying a constant function,73935,Martin Maechler
+073941.html,[Rd] outer not applying a constant function,73941,Martin Maechler
+073942.html,[Rd] Hyperbolic tangent different results on Windows and Mac,73942,Martin Maechler
+073950.html,[Rd] IO error when writing to disk,73950,Martin Maechler
+073957.html,[Rd] A question on stats::as.hclust.dendrogram,73957,Martin Maechler
+073975.html,[Rd] Error in documentation for ?legend,73975,Martin Maechler
+073976.html,[Rd] Documentation of model.frame() and get_all_vars(),73976,Martin Maechler
+073995.html,[Rd] `[` not recognized as a primitive in certain cases.,73995,Martin Maechler
+073854.html,[Rd] Potential clue for Bug 16975 - lme fixed sigma - inconsistent	REML estimation,73854,Francisco Mauro
+073959.html,[Rd] non-infectious license for R package?,73959,Robert McGehee
+073961.html,[Rd] non-infectious license for R package?,73961,Joris Meys
+073963.html,[Rd] non-infectious license for R package?,73963,Joris Meys
+073965.html,[Rd] non-infectious license for R package?,73965,Joris Meys
+073988.html,[Rd] `[` not recognized as a primitive in certain cases.,73988,Joris Meys
+073991.html,[Rd] `[` not recognized as a primitive in certain cases.,73991,Joris Meys
+073863.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73863,Karl Millar
+073985.html,[Rd] R libcurl does not recognize server certs,73985,Martin Morgan
+073920.html,[Rd] Red: RFC: (in-principle) native unquoting for standard evaluation,73920,John Mount
+073897.html,[Rd] Support for user defined unary functions,73897,Duncan Murdoch
+073927.html,[Rd] [PATCH] Improve utf8clen and remove utf8_table4,73927,Duncan Murdoch
+073855.html,[Rd] length(unclass(x)) without unclass(x)?,73855,Radford Neal
+073928.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73928,Radford Neal
+073848.html,[Rd] Seeking advice regarding compilation of large libraries using RTools (Windows),73848,Jeroen Ooms
+073918.html,[Rd] Experimental CXX_STD problem in R 3.4,73918,Jeroen Ooms
+073937.html,[Rd] Experimental CXX_STD problem in R 3.4,73937,Jeroen Ooms
+073938.html,[Rd] Experimental CXX_STD problem in R 3.4,73938,Jeroen Ooms
+073951.html,[Rd] Hyperbolic tangent different results on Windows and Mac,73951,Jeroen Ooms
+073978.html,[Rd] Hyperbolic tangent different results on Windows and Mac,73978,Jeroen Ooms
+073862.html,[Rd] Bug in sample(),73862,Kellie Ottoboni
+073967.html,[Rd] Error in documentation for ?legend,73967,"POLITZER-AHLES, Stephen [CBS]"
+073969.html,[Rd] Error in documentation for ?legend,73969,"POLITZER-AHLES, Stephen [CBS]"
+073998.html,[Rd] Transferring ownership of R-managed buffer,73998,Herv&#233; Pag&#232;s
+073999.html,[Rd] Transferring ownership of R-managed buffer,73999,Herv&#233; Pag&#232;s
+073861.html,[Rd] Platform dependent native routine registration,73861,Martyn Plummer
+073930.html,[Rd] Experimental CXX_STD problem in R 3.4,73930,Martyn Plummer
+073953.html,[Rd] Experimental CXX_STD problem in R 3.4,73953,Martyn Plummer
+073821.html,[Rd] Trouble installing packages when history mechanism is modified by user profile,73821,Hugo Raguet
+073812.html,[Rd] Test suite failures in R-devel_2017-02-25_r72256,73812,Prof Brian Ripley
+073940.html,[Rd] Incompatible change in R-devel,73940,Prof Brian Ripley
+073946.html,[Rd] Incompatible change in R-devel,73946,Prof Brian Ripley
+073947.html,"[Rd] Error &quot;Warning in read_symbols_from_dll(so, rarch): this requires 'objdump.exe' to be on the PATH",73947,Prof Brian Ripley
+073980.html,[Rd] R fails to read repo index on NGINX,73980,"Roman, John"
+073982.html,[Rd] R fails to read repo index on NGINX,73982,"Roman, John"
+073984.html,[Rd] R libcurl does not recognize server certs,73984,"Roman, John"
+073979.html,[Rd] A trap for young players with the lapply() function.,73979,Barry Rowlingson
+073996.html,[Rd] A trap for young players with the lapply() function.,73996,Enrico Schumann
+073960.html,[Rd] non-infectious license for R package?,73960,Marc Schwartz
+073972.html,[Rd] non-infectious license for R package?,73972,Marc Schwartz
+073813.html,[Rd] Test suite failures in R-rc_2017-02-28_r72286.tar.gz,73813,Peter Simons
+073814.html,[Rd] Test suite failures in R-devel_2017-02-25_r72256,73814,Peter Simons
+073869.html,[Rd] as.POSIXct behaviour,73869,Arunkumar Srinivasan
+073990.html,[Rd] `[` not recognized as a primitive in certain cases.,73990,Lukas Stadler
+074007.html,[Rd] RIOT 2017,74007,Lukas Stadler
+073966.html,[Rd] non-infectious license for R package?,73966,Michael Sumner
+073871.html,[Rd] as.POSIXct behaviour,73871,"Suzen, Mehmet"
+074008.html,[Rd] iconv documentation error,74008,"Therneau, Terry M., Ph.D."
+073974.html,[Rd] A trap for young players with the lapply() function.,73974,Rolf Turner
+073986.html,[Rd] A trap for young players with the lapply() function.,73986,Rolf Turner
+073992.html,[Rd] A trap for young players with the lapply() function.,73992,Rolf Turner
+073994.html,[Rd] A trap for young players with the lapply() function.,73994,Rolf Turner
+074002.html,[Rd] A trap for young players with the lapply() function.,74002,Rolf Turner
+073933.html,[Rd] Fwd: Possible memory problems with mallloc when called with	.C(),73933,Hristo Inouzhe Valdes
+073823.html,[Rd] Control statements with condition with greater than one should give error (not just warning) [PATCH],73823,Hadley Wickham
+073838.html,[Rd] can we override &quot;if&quot; in R?,73838,Hadley Wickham
+073921.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73921,Hadley Wickham
+073922.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73922,Hadley Wickham
+073929.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73929,Hadley Wickham
+073952.html,[Rd] RFC: (in-principle) native unquoting for standard	evaluation,73952,Hadley Wickham
+073877.html,[Rd] named arguments in formula and terms,73877,Achim Zeileis
+073884.html,[Rd] named arguments in formula and terms,73884,Achim Zeileis
+073914.html,[Rd] Hyperbolic tangent different results on Windows and Mac,73914,Rodrigo Zepeda
+073826.html,[Rd] can we override &quot;if&quot; in R?,73826,Da Zheng
+073828.html,[Rd] can we override &quot;if&quot; in R?,73828,Da Zheng
+073830.html,[Rd] can we override &quot;if&quot; in R?,73830,Da Zheng
+073834.html,[Rd] can we override &quot;if&quot; in R?,73834,Da Zheng
+073840.html,[Rd] can we override &quot;if&quot; in R?,73840,Da Zheng
+073968.html,[Rd] Error in documentation for ?legend,73968,peter dalgaard
+073977.html,[Rd] Error in documentation for ?legend,73977,peter dalgaard
+073845.html,[Rd] can we override &quot;if&quot; in R?,73845,Mark.Bravington at data61.csiro.au
+073885.html,"[Rd] strptime(&quot;1&quot;,&quot;%m&quot;) returns NA",73885,frederik at ofb.net
+073934.html,[Rd] IO error when writing to disk,73934,realitix
+073949.html,[Rd] IO error when writing to disk,73949,realitix
+073908.html,[Rd] R 3.4.0,73908,luke-tierney at uiowa.edu

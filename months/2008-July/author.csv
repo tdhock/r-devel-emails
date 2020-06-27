@@ -1,0 +1,248 @@
+link,Subject,id,author
+050132.html,[Rd] Editing the &quot;...&quot; argument,50132,Bengoechea Bartolom&#233; Enrique (SIES 73)
+050185.html,[Rd] Problems with snowfall,50185,Arthur Allignol
+050253.html,[Rd] plot.dendrogram xlim/ylim,50253,Felix Andrews
+050261.html,[Rd] grobX for points?,50261,Felix Andrews
+050267.html,[Rd] grobX for points?,50267,Felix Andrews
+050268.html,[Rd] grid.ls() after grid.remove() fails,50268,Felix Andrews
+050271.html,[Rd] equivalent to &quot;require&quot; for imports? (cairoDevice),50271,Felix Andrews
+050125.html,[Rd] Interface between fractal geometry and statistics,50125,"Antonio, Fabio Di Narzo"
+050137.html,[Rd] package has a loading problem,50137,Yulia Arzhaeva
+050140.html,[Rd] package has a loading problem,50140,Yulia Arzhaeva
+050143.html,[Rd] Suggestion: 20% speed up of which() with two-character mod,50143,Henrik Bengtsson
+050190.html,[Rd] rowSums()/colSums() don't preserve the 'integer' storage	mode,50190,Henrik Bengtsson
+050198.html,[Rd] rowSums()/colSums() don't preserve the 'integer' storage	mode,50198,Henrik Bengtsson
+050214.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50214,Henrik Bengtsson
+050222.html,[Rd] R CMD check test examples with and without Suggest installed,50222,Henrik Bengtsson
+050256.html,[Rd] serialize() to via temporary file is heaps faster than doing	it directly (on Windows),50256,Henrik Bengtsson
+050313.html,[Rd] C versions of serialize/unserialize in packages,50313,Henrik Bengtsson
+050146.html,[Rd] Suggestion: 20% speed up of which() with two-character mod,50146,Charles C. Berry
+050147.html,[Rd] matching predictors and dummies,50147,Charles C. Berry
+050110.html,[Rd] dnbinom unreliable for absurdly large &quot;size&quot; parameter,50110,Ben Bolker
+050108.html,[Rd] update on dnbinom with large &quot;size&quot;,50108,Ben Bolker
+050115.html,[Rd] update on dnbinom with large &quot;size&quot;,50115,Ben Bolker
+050281.html,[Rd] closing View windows after multiple View(x) crashes,50281,Ben Bolker
+050288.html,[Rd] closing View windows after multiple View(x) crashes,50288,Ben Bolker
+050294.html,[Rd] closing View windows after multiple View(x) crashes,50294,Ben Bolker
+050141.html,[Rd] RNGkind() state,50141,Ray Brownrigg
+050224.html,[Rd] confusion about evaluation.,50224,James Bullard
+050150.html,[Rd] multiple names to assign,50150,Patrick Burns
+050242.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50242,Patrick Burns
+050118.html,[Rd] education task view,50118,Ted Byers
+050279.html,[Rd] 'R CMD check' and S4 methods,50279,Yohan Chalabi
+050274.html,[Rd] S4 classes that extend S3 classes,50274,John Chambers
+050096.html,[Rd]  Filename bug in png,50096,Richard Cotton
+050100.html,[Rd] --enable-BLAS-shlib conflict with --with-lapack	in	configure?,50100,Peter Dalgaard
+050102.html,[Rd] Bug repository down Friday,50102,Peter Dalgaard
+050126.html,[Rd] [[ vs. .subset2,50126,Peter Dalgaard
+050239.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50239,Peter Dalgaard
+050263.html,[Rd] the C function drawing a rectangle: heatmap() -&gt; image() -&gt;	do_image() -&gt; GRect() -&gt; GERect() -&gt; rect() -&gt; do_rect() -&gt;	GRect() ??,50263,Peter Dalgaard
+050265.html,[Rd] the C function drawing a rectangle: heatmap() -&gt; image()-&gt; do_image() -&gt; GRect() -&gt; GERect() -&gt; rect(),50265,Peter Dalgaard
+050149.html,[Rd] matching predictors and dummies,50149,Mark Difford
+050079.html,[Rd] spss long labels,50079,Kurt Van Dijck
+050135.html,[Rd]  spss long labels,50135,Kurt Van Dijck
+050165.html,[Rd] spss long labels,50165,Kurt Van Dijck
+050194.html,[Rd] spss endianness bugfix,50194,Kurt Van Dijck
+050199.html,[Rd] symbolic linking to library files,50199,Latchezar (Lucho) Dimitrov
+050213.html,[Rd] symbolic linking libs | thanks!,50213,Latchezar (Lucho) Dimitrov
+050136.html,"[Rd] memory leak in sub(&quot;[range]&quot;,...)",50136,Bill Dunlap
+050142.html,[Rd] memory leak in readline code,50142,Bill Dunlap
+050195.html,[Rd] Checking package help file examples,50195,Bill Dunlap
+050211.html,[Rd] Checking package help file examples,50211,Bill Dunlap
+050285.html,[Rd] closing View windows after multiple View(x) crashes,50285,Bill Dunlap
+050286.html,[Rd] closing View windows after multiple View(x) crashes,50286,Bill Dunlap
+050101.html,[Rd] --enable-BLAS-shlib conflict with	--with-lapack	in	configure?,50101,Dirk Eddelbuettel
+050144.html,[Rd] Type: Frontend ignored in 'Bundle' packages,50144,Dirk Eddelbuettel
+050237.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50237,S Ellison
+050241.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50241,S Ellison
+050188.html,[Rd] Snow or alternative MPI packages on Windows,50188,Jay Emerson
+050262.html,[Rd] the C function drawing a rectangle: heatmap() -&gt; image() -&gt;	do_image() -&gt; GRect() -&gt; GERect() -&gt; rect() -&gt; do_rect() -&gt;	GRect() ??,50262,Zhaoyuan Fang
+050264.html,[Rd] the C function drawing a rectangle: heatmap() -&gt; image()-&gt;	do_image() -&gt; GRect() -&gt; GERect() -&gt; rect(),50264,Zhaoyuan Fang
+050172.html,"[Rd] Embedded R, last errormessage, and stack smashing",50172,Laurent Gautier
+050182.html,"[Rd] Embedded R, last errormessage, and stack smashing",50182,Laurent Gautier
+050217.html,"[Rd] garbage collection, &quot;preserved&quot; variables,	and different outcome depending on &quot;--verbose&quot; or not",50217,Laurent Gautier
+050219.html,"[Rd] garbage collection, &quot;preserved&quot; variables,	and different outcome depending on &quot;--verbose&quot; or not",50219,Laurent Gautier
+050221.html,"[Rd] garbage collection, &quot;preserved&quot; variables,	and different outcome depending on &quot;--verbose&quot; or not",50221,Laurent Gautier
+050228.html,"[Rd] garbage collection, &quot;preserved&quot; variables,	and different outcome depending on &quot;--verbose&quot; or not",50228,Laurent Gautier
+050269.html,[Rd] cairo device and pch=&quot;+&quot;,50269,Laurent Gautier
+050163.html,[Rd] package.skeleton does invalide regular name...,50163,Christophe Genolini
+050122.html,[Rd] Interface between fractal geometry and statistics,50122,Spencer Graves
+050123.html,[Rd] [[ vs. .subset2,50123,Spencer Graves
+050130.html,[Rd] Comparing dimensions in arrays?,50130,Spencer Graves
+050204.html,[Rd] Windows: adding R/bin folder to the PATH variable,50204,Gorjanc Gregor
+050206.html,[Rd] Windows: adding R/bin folder to the PATH variable,50206,Gorjanc Gregor
+050258.html,[Rd] head() for files,50258,Gorjanc Gregor
+050260.html,[Rd] head() for files,50260,Gorjanc Gregor
+050085.html,[Rd] get ...,50085,Gabor Grothendieck
+050121.html,[Rd] [[ vs. .subset2,50121,Gabor Grothendieck
+050124.html,[Rd] [[ vs. .subset2,50124,Gabor Grothendieck
+050207.html,[Rd] Windows: adding R/bin folder to the PATH variable,50207,Gabor Grothendieck
+050223.html,[Rd] License Conflict?,50223,Gabor Grothendieck
+050308.html,[Rd] Name clashes among packages,50308,Gabor Grothendieck
+050151.html,[Rd] multiple names to assign,50151,Kasper Daniel Hansen
+050161.html,[Rd] methods/namespaces/possible bug,50161,Kasper Daniel Hansen
+050164.html,[Rd] methods/namespaces/possible bug,50164,Kasper Daniel Hansen
+050203.html,[Rd] symbolic linking to library files,50203,Kasper Daniel Hansen
+050167.html,[Rd] Checking package vignettes: WARNING,50167,Arne Henningsen
+050171.html,[Rd] Checking package vignettes: WARNING,50171,Arne Henningsen
+050187.html,[Rd] Checking package vignettes: WARNING,50187,Arne Henningsen
+050202.html,[Rd] Checking package help file examples,50202,Arne Henningsen
+050075.html,[Rd] [.data.frame speedup,50075,Tim Hesterberg
+050076.html,[Rd] [.data.frame speedup,50076,Tim Hesterberg
+050078.html,[Rd] [.data.frame speedup,50078,Tim Hesterberg
+050107.html,[Rd] [.data.frame speedup,50107,Tim Hesterberg
+050178.html,"[Rd] Embedded R, last errormessage, and stack smashing",50178,Jeffrey Horner
+050192.html,[Rd] Snow or alternative MPI packages on Windows,50192,Jeffrey Horner
+050180.html,[Rd] split.Date,50180,Kurt Hornik
+050131.html,[Rd] Editing the &quot;...&quot; argument,50131,J. R. M. Hosking
+050215.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50215,J. R. M. Hosking
+050177.html,[Rd] Rinterfaces.h,50177,Peter Jaeger
+050082.html,[Rd] Autoconf / Windows package building problem for device	package,50082,Tadashi Kadowaki
+050093.html,[Rd] Autoconf / Windows package building problem for device	package,50093,Tadashi Kadowaki
+050109.html,[Rd] education task view,50109,G. Jay Kerns
+050116.html,[Rd] education task view,50116,G. Jay Kerns
+050296.html,"[Rd] R, Macports and C++ streams",50296,Kjell Konis
+050311.html,"[Rd] R, Macports and C++ streams",50311,Kjell Konis
+050080.html,[Rd] how to concatenate two strings,50080,"Kurapati,	Ravichandra (Ravichandra)"
+050254.html,[Rd] [R] shQuote and cat,50254,Wacek Kusnierczyk
+050273.html,[Rd] equivalent to &quot;require&quot; for imports? (cairoDevice),50273,Michael Lawrence
+050276.html,[Rd] a package installation problem on windows,50276,Gang Liang
+050246.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50246,Uwe Ligges
+050282.html,[Rd]  R crashes on new laptop,50282,Logickle
+050283.html,[Rd] R crashes on new laptop,50283,Logickle
+050208.html,[Rd] AIX 5.3 --enable-R-shlib --with-x ---with-iconv make error	with R-2.7.0 and R-2.7.1,50208,F&#225;n L&#243;ng
+050186.html,[Rd] AIX 5.3 --enable-R-shlib --with-x ---with-iconv make error	with R-2.7.0 and R-2.7.1,50186,F&#225;n L&#243;ng
+050191.html,[Rd] AIX 5.3 --enable-R-shlib --with-x ---with-iconv make error	with R-2.7.0 and R-2.7.1,50191,F&#225;n L&#243;ng
+050210.html,[Rd] AIX 5.3 --enable-R-shlib --with-x ---with-iconv make error	with R-2.7.0 and R-2.7.1,50210,F&#225;n L&#243;ng
+050106.html,[Rd] [.data.frame speedup,50106,Martin Maechler
+050112.html,[Rd] update on dnbinom with large &quot;size&quot;,50112,Martin Maechler
+050117.html,[Rd] update on dnbinom with large &quot;size&quot;,50117,Martin Maechler
+050129.html,[Rd] [.data.frame speedup,50129,Martin Maechler
+050156.html,[Rd] spss long labels,50156,Martin Maechler
+050157.html,"[Rd] memory leak in sub(&quot;[range]&quot;,...)",50157,Martin Maechler
+050158.html,[Rd] memory leak in readline code,50158,Martin Maechler
+050170.html,[Rd] spss long labels,50170,Martin Maechler
+050226.html,[Rd] License Conflict?,50226,Martin Maechler
+050255.html,[Rd] plot.dendrogram xlim/ylim,50255,Martin Maechler
+050289.html,"[Rd] R-bugs e-mail problems {was &quot;sapply(Date, is.numeric)&quot;}",50289,Martin Maechler
+050290.html,"[Rd] sapply(Date, is.numeric)",50290,Martin Maechler
+050293.html,"[Rd] sapply(Date, is.numeric)",50293,Martin Maechler
+050310.html,"[Rd] sapply(Date, is.numeric)",50310,Martin Maechler
+050139.html,[Rd] RODBC Close Memory Leak Question,50139,Tom McCallum
+050153.html,[Rd] RODBC Seg Fault,50153,Tom McCallum
+050134.html,[Rd] split.Date,50134,"McGehee, Robert"
+050284.html,"[Rd] sapply(Date, is.numeric)",50284,"McGehee, Robert"
+050094.html,[Rd] --enable-BLAS-shlib conflict with --with-lapack in configure?,50094,Bj&#248;rn-Helge Mevik
+050097.html,[Rd] --enable-BLAS-shlib conflict with --with-lapack in	configure?,50097,Bj&#248;rn-Helge Mevik
+050099.html,[Rd] --enable-BLAS-shlib conflict with --with-lapack in	configure?,50099,Bj&#248;rn-Helge Mevik
+050175.html,[Rd] Snow or alternative MPI packages on Windows,50175,Martin Morgan
+050077.html,[Rd] get ...,50077,Duncan Murdoch
+050081.html,[Rd] how to concatenate two strings,50081,Duncan Murdoch
+050087.html,[Rd] get ...,50087,Duncan Murdoch
+050090.html,[Rd] Data editor duplicates pairs of backslashes (PR#11897),50090,Duncan Murdoch
+050092.html,[Rd] Constructing logical expressions dynamically,50092,Duncan Murdoch
+050128.html,[Rd] Editing the &quot;...&quot; argument,50128,Duncan Murdoch
+050154.html,[Rd] dll problem,50154,Duncan Murdoch
+050155.html,[Rd] dll problem,50155,Duncan Murdoch
+050160.html,[Rd] package.skeleton does invalide regular name...,50160,Duncan Murdoch
+050162.html,[Rd] methods/namespaces/possible bug,50162,Duncan Murdoch
+050166.html,[Rd] methods/namespaces/possible bug,50166,Duncan Murdoch
+050218.html,"[Rd] garbage collection, &quot;preserved&quot; variables, and different outcome depending on &quot;--verbose&quot; or not",50218,Duncan Murdoch
+050220.html,"[Rd] garbage collection, &quot;preserved&quot; variables, and different outcome depending on &quot;--verbose&quot; or not",50220,Duncan Murdoch
+050238.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50238,Duncan Murdoch
+050249.html,[Rd] [R] shQuote and cat,50249,Duncan Murdoch
+050251.html,[Rd] [R] shQuote and cat,50251,Duncan Murdoch
+050259.html,[Rd] head() for files,50259,Duncan Murdoch
+050091.html,[Rd] Constructing logical expressions dynamically,50091,Tom Murray
+050266.html,[Rd] grobX for points?,50266,Paul Murrell
+050275.html,[Rd] grid.ls() after grid.remove() fails,50275,Paul Murrell
+050072.html,[Rd] AIX 5.3 --enable-R-shlib make error with R-2.7.1,50072,Ei-ji Nakama
+050189.html,[Rd] AIX 5.3 --enable-R-shlib --with-x ---with-iconv make error	with R-2.7.0 and R-2.7.1,50189,Ei-ji Nakama
+050257.html,[Rd] How to loop through a set of data and to evaluate a function?,50257,NicoNYC
+050145.html,[Rd]  matching predictors and dummies,50145,Jeroen Ooms
+050148.html,[Rd] matching predictors and dummies,50148,Jeroen Ooms
+050248.html,[Rd] [R] shQuote and cat,50248,Vadim Organovich
+050250.html,[Rd] [R] shQuote and cat,50250,Vadim Organovich
+050183.html,[Rd] rowSums()/colSums() don't preserve the 'integer' storage mode,50183,Herve Pages
+050197.html,[Rd] rowSums()/colSums() don't preserve the 'integer' storage mode,50197,Herve Pages
+050235.html,[Rd] Parameter names in nls(),50235,Mark Payne
+050312.html,[Rd] C versions of serialize/unserialize in packages,50312,Roger D. Peng
+050314.html,[Rd] C versions of serialize/unserialize in packages,50314,Roger D. Peng
+050200.html,[Rd] Rcpp from C++,50200,Peter Peyk
+050169.html,[Rd] Checking package vignettes: WARNING,50169,"Pfaff, Bernhard Dr."
+050127.html,[Rd] Editing the &quot;...&quot; argument,50127,Mathieu Ribatet
+050138.html,[Rd] package has a loading problem,50138,Mathieu Ribatet
+050095.html,[Rd] --enable-BLAS-shlib conflict with --with-lapack in configure?,50095,Prof Brian Ripley
+050098.html,[Rd] --enable-BLAS-shlib conflict with --with-lapack in configure?,50098,Prof Brian Ripley
+050104.html,[Rd] GetRNGstate and PutRNGstate,50104,Prof Brian Ripley
+050111.html,[Rd] update on dnbinom with large &quot;size&quot;,50111,Prof Brian Ripley
+050113.html,[Rd] update on dnbinom with large &quot;size&quot;,50113,Prof Brian Ripley
+050205.html,[Rd] Windows: adding R/bin folder to the PATH variable,50205,Prof Brian Ripley
+050216.html,[Rd] multiple names to assign,50216,Prof Brian Ripley
+050225.html,[Rd] confusion about evaluation.,50225,Prof Brian Ripley
+050227.html,[Rd] License Conflict?,50227,Prof Brian Ripley
+050230.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50230,Prof Brian Ripley
+050234.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50234,Prof Brian Ripley
+050236.html,[Rd] Parameter names in nls(),50236,Prof Brian Ripley
+050240.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50240,Prof Brian Ripley
+050243.html,"[Rd] Is text(..., adj) upside down? (Or am I?)",50243,Prof Brian Ripley
+050244.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50244,Prof Brian Ripley
+050270.html,[Rd] cairo device and pch=&quot;+&quot;,50270,Prof Brian Ripley
+050272.html,[Rd] equivalent to &quot;require&quot; for imports? (cairoDevice),50272,Prof Brian Ripley
+050277.html,[Rd] a package installation problem on windows,50277,Prof Brian Ripley
+050278.html,"[Rd] memory leak in sub(&quot;[range]&quot;,...)",50278,Prof Brian Ripley
+050280.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50280,Prof Brian Ripley
+050287.html,[Rd] closing View windows after multiple View(x) crashes,50287,Prof Brian Ripley
+050291.html,"[Rd] sapply(Date, is.numeric)",50291,Prof Brian Ripley
+050292.html,"[Rd] sapply(Date, is.numeric)",50292,Prof Brian Ripley
+050309.html,"[Rd] sapply(Date, is.numeric)",50309,Prof Brian Ripley
+050315.html,[Rd] C versions of serialize/unserialize in packages,50315,Prof Brian Ripley
+050317.html,[Rd] C versions of serialize/unserialize in packages,50317,Prof Brian Ripley
+050133.html,[Rd] experinental revision of the 'snow' package,50133,Markus Schmidberger
+050176.html,[Rd] Snow or alternative MPI packages on Windows,50176,Markus Schmidberger
+050209.html,[Rd] experinental revision of the 'snow' package,50209,Markus Schmidberger
+050229.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50229,"Sklyar, Oleg (London)"
+050231.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50231,"Sklyar, Oleg (London)"
+050119.html,[Rd] Interface between fractal geometry and statistics,50119,Ted
+050084.html,[Rd] get ...,50084,Luke Tierney
+050086.html,[Rd] get ...,50086,Luke Tierney
+050120.html,[Rd] experinental revision of the 'snow' package,50120,Luke Tierney
+050232.html,[Rd] Snow or alternative MPI packages on Windows,50232,Luke Tierney
+050295.html,"[Rd] R, Macports and C++ streams",50295,Ernest Turro
+050298.html,"[Rd] R, Macports and C++ streams",50298,Ernest Turro
+050299.html,"[Rd] R, Macports and C++ streams",50299,Ernest Turro
+050302.html,"[Rd] R, Macports and C++ streams",50302,Ernest Turro
+050303.html,"[Rd] R, Macports and C++ streams",50303,Ernest Turro
+050305.html,"[Rd] R, Macports and C++ streams",50305,Ernest Turro
+050307.html,"[Rd] R, Macports and C++ streams",50307,Ernest Turro
+050316.html,"[Rd] R, Macports and C++ streams",50316,Ernest Turro
+050074.html,[Rd] Autoconf / Windows package building problem for device	package,50074,Simon Urbanek
+050083.html,[Rd] Autoconf / Windows package building problem for device	package,50083,Simon Urbanek
+050173.html,"[Rd] Embedded R, last errormessage, and stack smashing",50173,Simon Urbanek
+050233.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50233,Simon Urbanek
+050245.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50245,Simon Urbanek
+050247.html,[Rd] Clash between 'Cairo' and 'EBImage' packages on Windows,50247,Simon Urbanek
+050252.html,[Rd] [R] shQuote and cat,50252,Simon Urbanek
+050297.html,"[Rd] R, Macports and C++ streams",50297,Simon Urbanek
+050300.html,"[Rd] R, Macports and C++ streams",50300,Simon Urbanek
+050301.html,"[Rd] R, Macports and C++ streams",50301,Simon Urbanek
+050304.html,"[Rd] R, Macports and C++ streams",50304,Simon Urbanek
+050306.html,"[Rd] R, Macports and C++ streams",50306,Simon Urbanek
+050073.html,[Rd] Autoconf / Windows package building problem for device package,50073,Tobias Verbeke
+050114.html,[Rd] education task view,50114,Achim Zeileis
+050089.html,[Rd] Data editor duplicates pairs of backslashes (PR#11897),50089,mtt2108 at columbia.edu
+050184.html,[Rd] rowSums()/colSums() don't preserve the 'integer' storage	mode,50184,Bill.Venables at csiro.au
+050201.html,[Rd] rowSums()/colSums() don't preserve the 'integer' storage	mode,50201,Bill.Venables at csiro.au
+050196.html,[Rd] symbolic linking to library files,50196,egc
+050212.html,[Rd] symbolic linking libs | thanks!,50212,egc
+050105.html,[Rd] Rgui.exe(R.dll) crashes when set the locale to &quot;Korean&quot;	(PR#11903),50105,ksdori at gmail.com
+050168.html,[Rd] Problems with snowfall,50168,giuseppe1.milicia at hsbcib.com
+050174.html,[Rd] Snow or alternative MPI packages on Windows,50174,giuseppe1.milicia at hsbcib.com
+050179.html,[Rd] Snow or alternative MPI packages on Windows,50179,giuseppe1.milicia at hsbcib.com
+050193.html,[Rd] Snow or alternative MPI packages on Windows,50193,giuseppe1.milicia at hsbcib.com
+050071.html,[Rd] Bug in plnorm (PR#11867),50071,maechler at stat.math.ethz.ch
+050181.html,[Rd] Checking package vignettes: WARNING,50181,friedrich.leisch at stat.uni-muenchen.de
+050152.html,[Rd]  dll problem,50152,stephenb
+050103.html,[Rd] GetRNGstate and PutRNGstate,50103,tyler
+050159.html,[Rd] package.skeleton does invalide regular name...,50159,cgenolin at u-paris10.fr
+050088.html,[Rd] AIX 5.3 --enable-R-shlib make error with R-2.7.1,50088,Jagat.K.Sheth at wellsfargo.com

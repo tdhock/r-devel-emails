@@ -1,0 +1,386 @@
+link,Subject,id,author
+044288.html,[Rd] [OT] old news on the home page,44288,"Antonio, Fabio Di Narzo"
+044136.html,[Rd] Wish list,44136,Henrik Bengtsson
+044160.html,[Rd] Which programming paradigm is the most used for make R	packages?,44160,Henrik Bengtsson
+044320.html,[Rd] on.exit called on loading ?,44320,Henrik Bengtsson
+044325.html,[Rd] file.copy,44325,Henrik Bengtsson
+044418.html,[Rd] Inferring dimensions on bitmap device from par(),44418,Henrik Bengtsson
+044422.html,[Rd] Inferring dimensions on bitmap device from par(),44422,Henrik Bengtsson
+044348.html,[Rd] pcre library in R (PR#9319),44348,Daniel Berg
+044349.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44349,Daniel Berg
+044367.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44367,Daniel Berg
+044431.html,[Rd] how to properly extend s3 data.frames with s4 classes?,44431,Tim Bergsma
+044124.html,[Rd] Wish list,44124,Charles C. Berry
+044374.html,[Rd] C vs. C++ as learning and development tool for R,44374,Charles C. Berry
+044490.html,[Rd] Problems with definitions of S4-generics,44490,J &#246; rg Beyer
+044505.html,[Rd] Problems with definitions of S4-generics,44505,J &#246; rg Beyer
+044373.html,[Rd] C vs. C++ as learning and development tool for R,44373,Roger Bivand
+044139.html,[Rd] Am I missing something about debugging?,44139,Ross Boylan
+044141.html,[Rd] Am I missing something about debugging?,44141,Ross Boylan
+044143.html,[Rd] Am I missing something about debugging?,44143,Ross Boylan
+044159.html,[Rd] Which programming paradigm is the most used for make R	packages?,44159,Ross Boylan
+044174.html,[Rd] Am I missing something about debugging?,44174,Ross Boylan
+044321.html,"[Rd] Problems with checking documentation vs data, and a proposal",44321,Ross Boylan
+044323.html,"[Rd] Problems with checking documentation vs data,	and a proposal",44323,Ross Boylan
+044332.html,[Rd] encoding issues even w/o accents,44332,Ross Boylan
+044366.html,[Rd] encoding issues even w/o accents (background on single	quotes),44366,Ross Boylan
+044372.html,[Rd] C vs. C++ as learning and development tool for R,44372,Ross Boylan
+044178.html,[Rd] Parameter changes and segfault when calling C code through	.Call,44178,Michael Braun
+044436.html,[Rd] &quot;[&quot; operator and indexing ambiguity,44436,Bradley Buchsbaum
+044232.html,[Rd] Trailing message on R CMD BATCH,44232,Patrick Burns
+044188.html,[Rd] help for memory problem with 64-bit machines,44188,Jorge Cadima
+044235.html,[Rd] Trailing message on R CMD BATCH,44235,Benilton Carvalho
+044384.html,[Rd] can't plot a line,44384,Benilton Carvalho
+044429.html,[Rd] readBin is much slower for raw input than for a file,44429,Jon Clayden
+044190.html,[Rd] help for memory problem with 64-bit machines,44190,Peter Dalgaard
+044340.html,"[Rd] subsetting matrix by subscript=0,x silently skips.",44340,Peter Dalgaard
+044342.html,[Rd] Building R 2.4.1 on IRIX,44342,Peter Dalgaard
+044345.html,"[Rd] R-bugs, was  subsetting matrix by subscript=0, x silently skips.",44345,Peter Dalgaard
+044376.html,[Rd] C vs. C++ as learning and development tool for R,44376,Peter Dalgaard
+044391.html,[Rd] is it necessary to always register C routines with	R_registerRoutines?,44391,Peter Dalgaard
+044402.html,[Rd] Error in loadNamespace(name) (PR#9464),44402,Peter Dalgaard
+044408.html,[Rd] serialize() takes too long when serializing to a raw vector,44408,Peter Dalgaard
+044495.html,[Rd] possible bug: dev.copy / could not find any X11 fonts,44495,Peter Dalgaard
+044155.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44155,Vladimir Dergachev
+044173.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44173,Vladimir Dergachev
+044191.html,[Rd] help for memory problem with 64-bit machines,44191,Vladimir Dergachev
+044223.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44223,Vladimir Dergachev
+044364.html,[Rd] C vs. C++ as learning and development tool for R,44364,Vladimir Dergachev
+044375.html,[Rd] C vs. C++ as learning and development tool for R,44375,Vladimir Dergachev
+044354.html,[Rd] C vs. C++ as learning and development tool for R,44354,Ramon Diaz-Uriarte
+044468.html,[Rd] Speed of for loops,44468,Ramon Diaz-Uriarte
+044313.html,[Rd] Why does not the command 'length(a &lt;- 1:5) &lt;- 4' not work?,44313,Charles Dupont
+044318.html,[Rd] on.exit called on loading ?,44318,Dirk Eddelbuettel
+044322.html,[Rd] on.exit called on loading ?,44322,Dirk Eddelbuettel
+044358.html,[Rd] C vs. C++ as learning and development tool for R,44358,Dirk Eddelbuettel
+044398.html,[Rd] how to trace what crashes R,44398,Dirk Eddelbuettel
+044151.html,[Rd] Typos in TclInterface.Rd (PR#9436),44151,Stephen Eglen
+044199.html,[Rd] Scoping issues,44199,Chris Eisley
+044225.html,[Rd] Scoping issues,44225,Chris Eisley
+044144.html,[Rd] Am I missing something about debugging?,44144,Byron Ellis
+044152.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44152,Byron Ellis
+044158.html,[Rd] Am I missing something about debugging?,44158,Byron Ellis
+044241.html,[Rd] Perhaps a stupid question about clipboards....,44241,Byron Ellis
+044257.html,[Rd] Perhaps a stupid question about clipboards....,44257,Byron Ellis
+044272.html,[Rd] Perhaps a stupid question about clipboards....,44272,Byron Ellis
+044473.html,[Rd] Speed of for loops,44473,Byron Ellis
+044474.html,[Rd] Speed of for loops,44474,Byron Ellis
+044476.html,[Rd] Speed of for loops,44476,Byron Ellis
+044388.html,[Rd] is it necessary to always register C routines with R_registerRoutines?,44388,Vladimir Eremeev
+044389.html,[Rd] is it necessary to always register C routines with R_registerRoutines?,44389,Vladimir Eremeev
+044397.html,[Rd] how to trace what crashes R,44397,Vladimir Eremeev
+044405.html,[Rd] I have won!,44405,Vladimir Eremeev
+044432.html,[Rd] Rscript on Windows,44432,Vladimir Eremeev
+044161.html,[Rd] Capturing argument values,44161,Seth Falcon
+044180.html,[Rd] Parameter changes and segfault when calling C code through	.Call,44180,Seth Falcon
+044219.html,[Rd] can't compile on OSX: unsetenv header issues,44219,Seth Falcon
+044224.html,[Rd] undocumented name mangling during unlist?,44224,Seth Falcon
+044230.html,[Rd] undocumented name mangling during unlist?,44230,Seth Falcon
+044471.html,[Rd] &quot;[&quot; operator and indexing ambiguity,44471,Seth Falcon
+044487.html,[Rd] S4 initialize or &quot;generating function&quot;,44487,Seth Falcon
+044492.html,[Rd] S4 initialize or &quot;generating function&quot;,44492,Seth Falcon
+044497.html,[Rd] &quot;rep&quot; missing from methods:::.BasicFunsList,44497,Seth Falcon
+044499.html,[Rd] S4 initialize or &quot;generating function&quot;,44499,Seth Falcon
+044177.html,[Rd] pb in regular expression with the character &quot;-&quot; (PR#9437),44177,Fan
+044204.html,[Rd] Scoping issues,44204,John Fox
+044327.html,[Rd] R_ParseVector API change,44327,Thomas Friedrichsmeier
+044336.html,[Rd] Emulating a REPL in frontends,44336,Thomas Friedrichsmeier
+044126.html,[Rd] Wish list,44126,Robert Gentleman
+044469.html,[Rd] calloc bug in RODBC 1.1-7 and later?,44469,Earl F. Glynn
+044238.html,[Rd] Trailing message on R CMD BATCH,44238,Gregor Gorjanc
+044380.html,[Rd] can't plot a line,44380,Spencer Graves
+044135.html,[Rd] Wish list,44135,Philippe Grosjean
+044122.html,[Rd] Wish list,44122,Gabor Grothendieck
+044125.html,[Rd] Wish list,44125,Gabor Grothendieck
+044127.html,[Rd] Wish list,44127,Gabor Grothendieck
+044130.html,[Rd] Wish list,44130,Gabor Grothendieck
+044171.html,[Rd] Which programming paradigm is the most used for make R	packages?,44171,Gabor Grothendieck
+044200.html,[Rd] environmentName,44200,Gabor Grothendieck
+044202.html,[Rd] environmentName,44202,Gabor Grothendieck
+044206.html,[Rd] environmentName,44206,Gabor Grothendieck
+044208.html,[Rd] environmentName,44208,Gabor Grothendieck
+044218.html,[Rd] Wish list,44218,Gabor Grothendieck
+044220.html,[Rd] Wish list,44220,Gabor Grothendieck
+044226.html,[Rd] Scoping issues,44226,Gabor Grothendieck
+044300.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44300,Gabor Grothendieck
+044353.html,[Rd] C vs. C++ as learning and development tool for R,44353,Gabor Grothendieck
+044362.html,[Rd] C vs. C++ as learning and development tool for R,44362,Gabor Grothendieck
+044381.html,[Rd] can't plot a line,44381,Gabor Grothendieck
+044411.html,[Rd] ?mean,44411,Gabor Grothendieck
+044417.html,[Rd] Rscript on Windows with R 2.5.0 dev,44417,Gabor Grothendieck
+044419.html,[Rd] Rscript on Windows,44419,Gabor Grothendieck
+044420.html,[Rd] ?mean,44420,Gabor Grothendieck
+044433.html,[Rd] Rscript on Windows,44433,Gabor Grothendieck
+044456.html,[Rd] Rscript on Windows,44456,Gabor Grothendieck
+044290.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44290,Ulrike Gr&#246;mping
+044296.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44296,Ulrike Gr&#246;mping
+044297.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44297,Ulrike Gr&#246;mping
+044157.html,[Rd] Am I missing something about debugging?,44157,Jeffrey J. Hallman
+044234.html,[Rd] Trailing message on R CMD BATCH,44234,Kasper Daniel Hansen
+044258.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9444),44258,Arne Henningsen
+044289.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9444),44289,Arne Henningsen
+044301.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9444),44301,Arne Henningsen
+044307.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9444),44307,Arne Henningsen
+044331.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9444),44331,Arne Henningsen
+044175.html,[Rd] How to execute R scripts simultaneously from	multiple	threads,44175,Jeffrey Horner
+044256.html,[Rd] Miniscule patch to internet.c,44256,Jeffrey Horner
+044501.html,[Rd] PGF Device,44501,Jeffrey Horner
+044502.html,[Rd] PGF Device,44502,Jeffrey Horner
+044128.html,[Rd] Connections to https: URLs -- IE expert help needed,44128,Kurt Hornik
+044280.html,[Rd] cross tools (was Re: wine and build difference	between	R.2.4.0 and R 2.4.1 windows binaries?),44280,Kurt Hornik
+044377.html,[Rd] uninformative error message in R CMD check (PR#9459),44377,Kurt Hornik
+044305.html,[Rd] R 2.4.0 @ R-project.org,44305,Torsten Hothorn
+044350.html,[Rd] combn implementation,44350,Wolfgang Huber
+044451.html,"[Rd] &quot;[&quot;,	.local and S4 methods (was: &quot;[&quot; operator and indexing ambiguity)",44451,Wolfgang Huber
+044480.html,[Rd] PGF Device,44480,Karl Ove Hufthammer
+044335.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes (PR#9444),44335,Thibaut Jombart
+044507.html,[Rd] Fwd: Unable to load rJava - Undefined Symbol GetCreatedJavaVMs,44507,Rupak Khurana
+044347.html,[Rd] C vs. C++ as learning and development tool for R,44347,"Kimpel, Mark William"
+044369.html,[Rd] C vs. C++ as learning and development tool for R,44369,"Kimpel, Mark William"
+044403.html,[Rd] serialize() takes too long when serializing to a raw vector,44403,Ashish Kulkarni
+044406.html,[Rd] serialize() takes too long when serializing to a raw vector,44406,Ashish Kulkarni
+044133.html,[Rd] Connections to https: URLs -- IE expert help needed,44133,Duncan Temple Lang
+044197.html,[Rd] Connections to https: URLs -- IE expert help needed,44197,Duncan Temple Lang
+044424.html,[Rd] i may have missed something ..,44424,Jan de Leeuw
+044434.html,[Rd] i may have missed something ..,44434,Jan de Leeuw
+044437.html,[Rd] i may have missed something ..,44437,Jan de Leeuw
+044438.html,[Rd] i may have missed something ..,44438,Jan de Leeuw
+044448.html,[Rd] i may have missed something ..,44448,Jan de Leeuw
+044250.html,[Rd] Wishlist: Sweave: allow line breaks after forward	slashes	(PR#9443),44250,Friedrich Leisch
+044326.html,[Rd] [OT] old news on the home page,44326,Friedrich Leisch
+044189.html,[Rd] help for memory problem with 64-bit machines,44189,Hin-Tak Leung
+044193.html,[Rd] help for memory problem with 64-bit machines,44193,Hin-Tak Leung
+044214.html,[Rd] How to execute R scripts simultaneously from	multiple	threads,44214,Hin-Tak Leung
+044215.html,[Rd] (PR#9437) pb in regular expression with the character &quot;-&quot;,44215,Hin-Tak Leung
+044236.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows	binaries?,44236,Hin-Tak Leung
+044246.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44246,Hin-Tak Leung
+044254.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44254,Hin-Tak Leung
+044255.html,[Rd] cross tools (was Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?),44255,Hin-Tak Leung
+044263.html,[Rd] cross tools (was Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?),44263,Hin-Tak Leung
+044265.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44265,Hin-Tak Leung
+044267.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44267,Hin-Tak Leung
+044271.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44271,Hin-Tak Leung
+044273.html,[Rd] Java on 64-bin Linux [was: cross tools (was Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?)],44273,Hin-Tak Leung
+044294.html,[Rd] mingw-cross with R 2.4.x Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44294,Hin-Tak Leung
+044306.html,[Rd] mingw-cross with R 2.4.x Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44306,Hin-Tak Leung
+044309.html,[Rd] mingw-cross with R 2.4.x Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44309,Hin-Tak Leung
+044311.html,[Rd] mingw-cross with R 2.4.x Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44311,Hin-Tak Leung
+044333.html,"[Rd] subsetting matrix by subscript=0,x silently skips.",44333,Hin-Tak Leung
+044341.html,"[Rd] subsetting matrix by subscript=0,x silently skips.",44341,Hin-Tak Leung
+044343.html,[Rd] Building R 2.4.1 on IRIX,44343,Hin-Tak Leung
+044355.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44355,Hin-Tak Leung
+044356.html,[Rd] pcre library in R (PR#9319),44356,Hin-Tak Leung
+044365.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44365,Hin-Tak Leung
+044371.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44371,Hin-Tak Leung
+044404.html,[Rd] serialize() takes too long when serializing to a raw vector,44404,Hin-Tak Leung
+044412.html,[Rd] serialize() takes too long when serializing to a raw vector,44412,Hin-Tak Leung
+044407.html,[Rd] obsolescence,44407,"Liaw, Andy"
+044281.html,[Rd] Package is not on the repository (PR#9450),44281,Uwe Ligges
+044282.html,[Rd] R 2.4.0 on Solaris 10 (PR#9441),44282,Uwe Ligges
+044293.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44293,Uwe Ligges
+044138.html,[Rd] proposal: allowing alternative variance estimators in	glm/lm,44138,Thomas Lumley
+044172.html,[Rd] Which programming paradigm is the most used for make R packages?,44172,Thomas Lumley
+044315.html,[Rd] incorrect result of deriv (PR#9449),44315,Thomas Lumley
+044317.html,[Rd] Why does not the command 'length(a &lt;- 1:5) &lt;- 4' not work?,44317,Thomas Lumley
+044488.html,[Rd] PGF Device,44488,Thomas Lumley
+044217.html,[Rd] Wish list,44217,Martin Maechler
+044243.html,[Rd] Perhaps a stupid question about clipboards....,44243,Martin Maechler
+044284.html,[Rd] help.start()'s error redirection fails to hide mozilla's	&quot;No running window found&quot; message (PR#9452),44284,Martin Maechler
+044351.html,[Rd] combn implementation,44351,Martin Maechler
+044392.html,[Rd] Matrix subsetting {was &quot;... vectorized nested loop...&quot;},44392,Martin Maechler
+044416.html,[Rd] ?mean,44416,Martin Maechler
+044394.html,[Rd] how to properly extend s3 data.frames with s4 classes?,44394,Ulf Martin
+044428.html,[Rd] double integral with C code,44428,Stefano Mazzuco
+044460.html,[Rd] Speed of for loops,44460,Tom McCallum
+044482.html,[Rd] Speed of for loops,44482,Tom McCallum
+044278.html,[Rd] Minor logical bug in rbind.data.frame ?,44278,Steven McKinney
+044176.html,[Rd] How to execute R scripts simultaneously from	multiple	threads,44176,Martin Morgan
+044187.html,[Rd] How to execute R scripts simultaneously	from	multiple	threads,44187,Martin Morgan
+044440.html,[Rd] &quot;[&quot; operator and indexing ambiguity,44440,Martin Morgan
+044123.html,[Rd] Wish list,44123,Duncan Murdoch
+044129.html,[Rd] Wish list,44129,Duncan Murdoch
+044131.html,[Rd] Wish list,44131,Duncan Murdoch
+044132.html,[Rd] Wish list,44132,Duncan Murdoch
+044134.html,[Rd] Wish list,44134,Duncan Murdoch
+044140.html,[Rd] Am I missing something about debugging?,44140,Duncan Murdoch
+044142.html,[Rd] Am I missing something about debugging?,44142,Duncan Murdoch
+044198.html,[Rd] Wish list,44198,Duncan Murdoch
+044201.html,[Rd] environmentName,44201,Duncan Murdoch
+044207.html,[Rd] environmentName,44207,Duncan Murdoch
+044209.html,[Rd] environmentName,44209,Duncan Murdoch
+044211.html,[Rd] round(4.5) does not work (PR#9439),44211,Duncan Murdoch
+044213.html,[Rd] substitute creates an object	whichprints	incorrectly	(PR#9427),44213,Duncan Murdoch
+044237.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44237,Duncan Murdoch
+044247.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44247,Duncan Murdoch
+044252.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes (PR#9443),44252,Duncan Murdoch
+044260.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes (PR#9444),44260,Duncan Murdoch
+044270.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44270,Duncan Murdoch
+044285.html,[Rd] Working with Sweave:  inverse search?,44285,Duncan Murdoch
+044287.html,[Rd] Working with Sweave:  inverse search?,44287,Duncan Murdoch
+044291.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes (PR#9444),44291,Duncan Murdoch
+044292.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44292,Duncan Murdoch
+044302.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes (PR#9444),44302,Duncan Murdoch
+044303.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44303,Duncan Murdoch
+044308.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes (PR#9444),44308,Duncan Murdoch
+044316.html,[Rd] Why does not the command 'length(a &lt;- 1:5) &lt;- 4' not work?,44316,Duncan Murdoch
+044319.html,[Rd] on.exit called on loading ?,44319,Duncan Murdoch
+044328.html,[Rd] R_ParseVector API change,44328,Duncan Murdoch
+044334.html,[Rd] on.exit called on loading ?,44334,Duncan Murdoch
+044338.html,[Rd] Working with Sweave: inverse search?,44338,Duncan Murdoch
+044352.html,[Rd] C vs. C++ as learning and development tool for R,44352,Duncan Murdoch
+044370.html,[Rd] C vs. C++ as learning and development tool for R,44370,Duncan Murdoch
+044399.html,[Rd] how to trace what crashes R,44399,Duncan Murdoch
+044410.html,[Rd] serialize() takes too long when serializing to a raw vector,44410,Duncan Murdoch
+044481.html,[Rd] PGF Device,44481,Duncan Murdoch
+044485.html,[Rd] PGF Device,44485,Duncan Murdoch
+044500.html,[Rd] PGF Device,44500,Paul Murrell
+044503.html,[Rd] PGF Device,44503,Paul Murrell
+044194.html,[Rd] Can't load XML_1.4-0.zip in last R devel,44194,Herve Pages
+044195.html,[Rd] pb in regular expression with the character &quot;-&quot; (PR#9437),44195,Herve Pages
+044279.html,[Rd] R.INSTALL on Windows,44279,Herve Pages
+044324.html,[Rd] file.copy,44324,Herve Pages
+044457.html,[Rd] update.packages() doesn't pick up the highest version of	packages,44457,Herve Pages
+044472.html,[Rd] Speed of for loops,44472,Herve Pages
+044477.html,[Rd] Speed of for loops,44477,Herve Pages
+044222.html,[Rd] klin: a package for solving linear equations with Kronecker	structure,44222,Tamas K Papp
+044458.html,[Rd] function to remove attributes?,44458,Tamas K Papp
+044466.html,[Rd] Speed of for loops,44466,Tamas K Papp
+044486.html,[Rd] possible bug: dev.copy / could not find any X11 fonts,44486,Tamas K Papp
+044261.html,[Rd] Using R as a server to process multiple requests,44261,Simon Pears
+044233.html,[Rd] Trailing message on R CMD BATCH,44233,Roger D. Peng
+044379.html,[Rd] How to evaluate an lm() object for generating warning statement in a function,44379,Roger D. Peng
+044470.html,[Rd] S4 initialize or &quot;generating function&quot;,44470,Thomas Petzoldt
+044491.html,[Rd] S4 initialize or &quot;generating function&quot;,44491,Thomas Petzoldt
+044496.html,[Rd] S4 initialize or &quot;generating function&quot;,44496,Thomas Petzoldt
+044339.html,"[Rd] subsetting matrix by subscript=0,x silently skips.",44339,Tony Plate
+044344.html,"[Rd] subsetting matrix by subscript=0,x silently skips.",44344,Tony Plate
+044441.html,[Rd] &quot;[&quot; operator and indexing ambiguity,44441,Tony Plate
+044415.html,[Rd] &quot;rep&quot; missing from methods:::.BasicFunsList,44415,Stephen Pope
+044378.html,[Rd] How to evaluate an lm() object for generating warning statement in a function,44378,Michael Rennie
+044154.html,[Rd] Which programming paradigm is the most used for make R	packages?,44154,Ricardo Rios
+044170.html,[Rd] Which programming paradigm is the most used for make R	packages?,44170,Ricardo Rios
+044231.html,[Rd] Trailing message on R CMD BATCH,44231,Brian Ripley
+044268.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44268,Brian Ripley
+044390.html,[Rd] is it necessary to always register C routines with R_registerRoutines?,44390,Brian Ripley
+044147.html,[Rd] Typos in TclInterface.Rd (PR#9436),44147,Prof Brian Ripley
+044150.html,[Rd] troubles installing SJava for R,44150,Prof Brian Ripley
+044156.html,[Rd] Which programming paradigm is the most used for make R packages?,44156,Prof Brian Ripley
+044165.html,[Rd] pb in regular expression with the character &quot;-&quot; (PR#9437),44165,Prof Brian Ripley
+044169.html,[Rd] problem with function 'optimise' (PR#9438),44169,Prof Brian Ripley
+044184.html,[Rd] Connections to https: URLs -- IE expert help needed,44184,Prof Brian Ripley
+044192.html,[Rd] help for memory problem with 64-bit machines,44192,Prof Brian Ripley
+044196.html,[Rd] Can't load XML_1.4-0.zip in last R devel,44196,Prof Brian Ripley
+044203.html,[Rd] environmentName,44203,Prof Brian Ripley
+044205.html,[Rd] Scoping issues,44205,Prof Brian Ripley
+044216.html,[Rd] (PR#9437) pb in regular expression with the character &quot;-&quot;,44216,Prof Brian Ripley
+044221.html,[Rd] can't compile on OSX: unsetenv header issues,44221,Prof Brian Ripley
+044229.html,[Rd] undocumented name mangling during unlist?,44229,Prof Brian Ripley
+044240.html,[Rd] Compiling R-devel under Windows,44240,Prof Brian Ripley
+044244.html,[Rd] Perhaps a stupid question about clipboards....,44244,Prof Brian Ripley
+044248.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44248,Prof Brian Ripley
+044259.html,[Rd] Perhaps a stupid question about clipboards....,44259,Prof Brian Ripley
+044262.html,[Rd] cross tools (was Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?),44262,Prof Brian Ripley
+044264.html,[Rd] cross tools (was Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?),44264,Prof Brian Ripley
+044266.html,[Rd] wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44266,Prof Brian Ripley
+044310.html,[Rd] mingw-cross with R 2.4.x Re: wine and build difference between R.2.4.0 and R 2.4.1 windows binaries?,44310,Prof Brian Ripley
+044359.html,[Rd] pcre library in R (PR#9319),44359,Prof Brian Ripley
+044363.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44363,Prof Brian Ripley
+044386.html,[Rd] can't plot a line,44386,Prof Brian Ripley
+044395.html,[Rd] Useful statusbar in RGui,44395,Prof Brian Ripley
+044421.html,[Rd] Inferring dimensions on bitmap device from par(),44421,Prof Brian Ripley
+044425.html,[Rd] i may have missed something ..,44425,Prof Brian Ripley
+044427.html,[Rd] Using Windows API functions in R,44427,Prof Brian Ripley
+044435.html,[Rd] i may have missed something ..,44435,Prof Brian Ripley
+044450.html,[Rd] Fwd: controlling plot height,44450,Prof Brian Ripley
+044483.html,[Rd] PGF Device,44483,Prof Brian Ripley
+044484.html,[Rd] PGF Device,44484,Prof Brian Ripley
+044459.html,[Rd] function to remove attributes?,44459,Prof Brian D Ripley
+044167.html,[Rd] problem with function 'optimise' (PR#9438),44167,Dimitris Rizopoulos
+044166.html,[Rd] Which programming paradigm is the most used for make	R	packages?,44166,Barry Rowlingson
+044360.html,[Rd] obsolescence,44360,Barry Rowlingson
+044385.html,[Rd] can't plot a line,44385,Barry Rowlingson
+044346.html,[Rd] combn implementation,44346,Giampiero Salvi
+044357.html,[Rd] combn implementation,44357,Giampiero Salvi
+044286.html,[Rd] FinancePack and The Mind of the Market,44286,Dominick Samperi
+044361.html,[Rd] C vs. C++ as learning and development tool for R,44361,Dominick Samperi
+044387.html,[Rd] Refreshing the GUI and packing images,44387,Filipe Santos
+044295.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44295,Marc Schwartz
+044299.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44299,Marc Schwartz
+044383.html,[Rd] can't plot a line,44383,Marc Schwartz
+044277.html,[Rd] Memory corruption in dynamically loaded code,44277,Emmanuel Sharef
+044382.html,[Rd] can't plot a line,44382,Emmanuel Sharef
+044444.html,[Rd] &quot;[&quot; operator and indexing ambiguity,44444,Oleg Sklyar
+044465.html,[Rd] Speed of for loops,44465,Oleg Sklyar
+044467.html,[Rd] Step-by-step guide for using C/C++ in R;	WAS:  Speed of for loops,44467,Oleg Sklyar
+044475.html,[Rd] Speed of for loops,44475,Oleg Sklyar
+044461.html,[Rd] CRAN will be down for 15 minutes,44461,Stefan Theussl
+044409.html,[Rd] serialize() takes too long when serializing to a raw vector,44409,Luke Tierney
+044337.html,[Rd] Building R 2.4.1 on IRIX,44337,Atro Tossavainen
+044423.html,[Rd] ?mean,44423,Berwin A Turlach
+044227.html,[Rd] can't compile on OSX: unsetenv header issues,44227,Simon Urbanek
+044228.html,[Rd] can't compile on OSX: unsetenv header issues,44228,Simon Urbanek
+044269.html,[Rd] cross tools (was Re: wine and build difference between	R.2.4.0 and R 2.4.1 windows binaries?),44269,Simon Urbanek
+044329.html,[Rd] R_ParseVector API change,44329,Simon Urbanek
+044368.html,[Rd] Cross-compile errors under R-2.4.0 and R-2.4.1,44368,Simon Urbanek
+044447.html,[Rd] i may have missed something ..,44447,Simon Urbanek
+044493.html,[Rd] Problems with definitions of S4-generics,44493,Simon Urbanek
+044439.html,[Rd] FW: reducing RODBC odbcQuery memory use?,44439,"WILLIE, JILL"
+044148.html,[Rd] How to execute R scripts simultaneously from multiple threads,44148,Erik van Zijst
+044149.html,[Rd] troubles installing SJava for R,44149,Erik van Zijst
+044153.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44153,Erik van Zijst
+044163.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44163,Erik van Zijst
+044183.html,[Rd] How to execute R scripts simultaneously	from	multiple	threads,44183,Erik van Zijst
+044185.html,[Rd] How to execute R scripts simultaneously from	multiple	threads,44185,Erik van Zijst
+044186.html,[Rd] How to execute R scripts simultaneously from multiple	threads,44186,Erik van Zijst
+044479.html,[Rd] segments and arrows generic?,44479,Bill.Venables at csiro.au
+044168.html,[Rd] Am I missing something about debugging?,44168,Mark.Bravington at csiro.au
+044182.html,[Rd] Am I missing something about debugging?,44182,Mark.Bravington at csiro.au
+044212.html,[Rd] substitute creates an object	whichprints	incorrectly	(PR#9427),44212,Mark.Bravington at csiro.au
+044145.html,[Rd] Typos in TclInterface.Rd (PR#9436),44145,S.J.Eglen at damtp.cam.ac.uk
+044312.html,[Rd] histbackback function code needs a change with R 2.4.1 version	(PR#9456),44312,MATILDE.TREVISANI at econ.units.it
+044210.html,[Rd] round(4.5) does not work (PR#9439),44210,cstevenson at edisonresearch.com
+044249.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9443),44249,ahenningsen at email.uni-kiel.de
+044506.html,[Rd] Bug in R editor (PR#9487),44506,cetpaine at gmail.com
+044164.html,[Rd] problem with function 'optimise' (PR#9438),44164,karsten_krug at gmx.net
+044478.html,[Rd] PGF Device,44478,jtxx000
+044449.html,[Rd] Fwd: controlling plot height,44449,t.d. kaplan
+044283.html,[Rd] help.start()'s error redirection fails to hide mozilla's &quot;No	running window found&quot; message (PR#9452),44283,jorgnsn at lcd.uregina.ca
+044162.html,[Rd] pb in regular expression with the character &quot;-&quot; (PR#9437),44162,xiao.gang.fan1 at libertysurf.fr
+044462.html,[Rd] R crashes when used from within rpy (PR#9481),44462,jgp at m-itc.net
+044489.html,[Rd] Bug in 'pchisq' for x=0.0 (PR#9485),44489,nothnagel at medinfo.uni-kiel.de
+044239.html,[Rd] Compiling R-devel under Windows,44239,apjaworski at mmm.com
+044452.html,[Rd] plot.lm (PR#9474),44452,kushler at oakland.edu
+044242.html,[Rd] Installation on CYGWIN Failed (PR#9442),44242,mniu at optonline.net
+044445.html,[Rd] Makevars PKG_LIBS ignored by SHLIB (PR#9473),44445,whorfin at pixar.com
+044454.html,[Rd] misspelling - intension (PR#9470),44454,org.r-project at pooryorick.com
+044276.html,[Rd] incorrect result of deriv (PR#9449),44276,polzehl at pubhealth.ku.dk
+044298.html,[Rd] PR#9279 is not fulfilled,44298,thomas.friedrichsmeier at ruhr-uni-bochum.de
+044413.html,[Rd] Wish: C-API to get parse error messages (PR#9466),44413,thomas.friedrichsmeier at ruhr-uni-bochum.de
+044414.html,[Rd] Wish: C-API to print if R_Visible is TRUE (PR#9467),44414,thomas.friedrichsmeier at ruhr-uni-bochum.de
+044464.html,[Rd] R crashes when used from within rpy (PR#9481),44464,thomas.friedrichsmeier at ruhr-uni-bochum.de
+044179.html,[Rd] pb in regular expression with the character &quot;-&quot; (PR#9437),44179,maechler at stat.math.ethz.ch
+044494.html,[Rd] Bug in 'pchisq' for x=0.0 (PR#9485),44494,maechler at stat.math.ethz.ch
+044330.html,[Rd] uninformative error message in R CMD check (PR#9459),44330,charlie at stat.umn.edu
+044251.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9444),44251,friedrich.leisch at stat.uni-muenchen.de
+044181.html,[Rd] pb in regular expression with the character &quot;-&quot; (PR#9437),44181,ripley at stats.ox.ac.uk
+044245.html,[Rd] Installation on CYGWIN Failed (PR#9442),44245,ripley at stats.ox.ac.uk
+044314.html,[Rd] histbackback function code needs a change with R 2.4.1	(PR#9457),44314,ripley at stats.ox.ac.uk
+044401.html,[Rd] Error in loadNamespace(name) (PR#9464),44401,ripley at stats.ox.ac.uk
+044443.html,[Rd] Error in loadNamespace(name) (PR#9464),44443,ripley at stats.ox.ac.uk
+044446.html,[Rd] Makevars PKG_LIBS ignored by SHLIB (PR#9473),44446,ripley at stats.ox.ac.uk
+044453.html,[Rd] plot.lm (PR#9474),44453,ripley at stats.ox.ac.uk
+044455.html,[Rd] misspelling - intension (PR#9470),44455,ripley at stats.ox.ac.uk
+044463.html,[Rd] R crashes when used from within rpy (PR#9481),44463,ripley at stats.ox.ac.uk
+044498.html,[Rd] Bug in 'pchisq' for x=0.0 (PR#9485),44498,ripley at stats.ox.ac.uk
+044253.html,[Rd] Wishlist: Sweave: allow line breaks after forward slashes	(PR#9445),44253,murdoch at stats.uwo.ca
+044304.html,[Rd] Whine in dual core Windows PC if R uses full CPU capacity,44304,elw at stderr.org
+044393.html,[Rd] Useful statusbar in RGui,44393,talepanda
+044396.html,[Rd] Useful statusbar in RGui,44396,talepanda
+044146.html,[Rd] Am I missing something about debugging?,44146,tshort
+044400.html,[Rd] Error in loadNamespace(name) (PR#9464),44400,r.darnell at uq.edu.au
+044442.html,[Rd] Error in loadNamespace(name) (PR#9464),44442,r.darnell at uq.edu.au
+044137.html,[Rd] proposal: allowing alternative variance estimators in glm/lm,44137,ivo welch
+044275.html,[Rd] R 2.4.0 on Solaris 10 (PR#9441),44275,jraponte77 at yahoo.com
+044274.html,[Rd] Package is not on the repository (PR#9450),44274,alexandrarma at yahoo.com.br
+044426.html,[Rd] Using Windows API functions in R,44426,&#1088;&#1086;&#1074;&#1077;&#1085; &#1040;&#1082;&#1100;&#1072;&#1090;&#1086;&#1080;
+044430.html,[Rd] Using Windows API functions in R,44430,&#1088;&#1086;&#1074;&#1077;&#1085; &#1040;&#1082;&#1100;&#1072;&#1090;&#1086;&#1080;

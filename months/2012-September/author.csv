@@ -1,0 +1,177 @@
+link,Subject,id,author
+064762.html,[Rd] Typo (?) in 'aggregate.formula',64762,Suharto Anggono Suharto Anggono
+064764.html,[Rd] Typo (?) in 'aggregate.formula',64764,Suharto Anggono Suharto Anggono
+064915.html,[Rd] valgrind crashing,64915,Oliver Bandel
+064761.html,[Rd] if(--as-cran)?,64761,Henrik Bengtsson
+064819.html,[Rd] Need to tell R CMD check that a function qr.R is not a	method,64819,Henrik Bengtsson
+064838.html,[Rd] Is invokeRestart(&quot;abort&quot;) unstoppable?,64838,Henrik Bengtsson
+064839.html,[Rd] R crashes when printing a named numeric vector of a specific class - Bug?,64839,Henrik Bengtsson
+064846.html,[Rd] Is invokeRestart(&quot;abort&quot;) unstoppable?,64846,Henrik Bengtsson
+064858.html,[Rd] Risk of readRDS() not detecting race conditions with parallel	saveRDS()?,64858,Henrik Bengtsson
+064868.html,[Rd] Risk of readRDS() not detecting race conditions with parallel saveRDS()?,64868,Henrik Bengtsson
+064869.html,[Rd] Risk of readRDS() not detecting race conditions with parallel saveRDS()?,64869,Henrik Bengtsson
+064882.html,[Rd] problem with vignettes when S4 classes in packages overlap,64882,Roger Bivand
+064835.html,[Rd] R crashes when printing a named numeric vector of a specific class - Bug?,64835,Milan Bouchet-Valat
+064919.html,[Rd] French Toulouse CRAN mirror always down,64919,Milan Bouchet-Valat
+064923.html,[Rd] French Toulouse CRAN mirror always down,64923,Milan Bouchet-Valat
+064872.html,[Rd] R Segfault reported in Fedora 17,64872,Tom Callaway
+064874.html,[Rd] R Segfault reported in Fedora 17,64874,Tom Callaway
+064756.html,[Rd] Environment when NextMethod is used,64756,Winston Chang
+064825.html,[Rd] problem building vignette,64825,Kevin R. Coombes
+064827.html,[Rd] problem building vignette,64827,Kevin R. Coombes
+064842.html,[Rd] valgrind crashing,64842,David
+064843.html,[Rd] valgrind crashing,64843,David
+064757.html,[Rd] Possible page inefficiency in do_matrix in array.c,64757,Matthew Dowle
+064779.html,[Rd] Possible page inefficiency in do_matrix in array.c,64779,Matthew Dowle
+064848.html,[Rd] as.data.frame.character lacks nm= argument,64848,William Dunlap
+064853.html,[Rd] as.data.frame.character lacks nm= argument,64853,William Dunlap
+064867.html,[Rd] Risk of readRDS() not detecting race conditions with parallel	saveRDS()?,64867,William Dunlap
+064900.html,[Rd] should delete.response(response~predictor) return ~predictor?,64900,William Dunlap
+064907.html,[Rd] error on uneven recycling?,64907,William Dunlap
+064766.html,[Rd] if(--as-cran)?,64766,Dirk Eddelbuettel
+064768.html,[Rd] [Patch] Minor glitch in 'Writing R Extensions',64768,Dirk Eddelbuettel
+064793.html,[Rd] if(--as-cran)?,64793,Dirk Eddelbuettel
+064798.html,[Rd] if(--as-cran)?,64798,Dirk Eddelbuettel
+064860.html,[Rd] Reposting mails to R-Core / R-Devel,64860,Dirk Eddelbuettel
+064861.html,[Rd] [Repost 1/3] The X11 device patch,64861,Dirk Eddelbuettel
+064862.html,[Rd] [Repost 2/3] Why fix all.equal for POSIXct at 1 msec?,64862,Dirk Eddelbuettel
+064863.html,[Rd] [Repost 3/3] Minor glitch in 'Writing R Extensions',64863,Dirk Eddelbuettel
+064880.html,[Rd] problem with vignettes when S4 classes in packages overlap,64880,Dirk Eddelbuettel
+064832.html,[Rd] R crashes when printing a named numeric vector of a specific	class - Bug?,64832,Basil Abou El-Komboz
+064845.html,[Rd] R crashes when printing a named numeric vector of a	specific class - Bug?,64845,Basil Abou El-Komboz
+064796.html,[Rd] if(--as-cran)?,64796,John Fox
+064875.html,[Rd] problem with vignettes when S4 classes in packages overlap,64875,Paul Gilbert
+064878.html,[Rd] problem with vignettes when S4 classes in packages overlap,64878,Paul Gilbert
+064889.html,[Rd] CRAN test  / avoidance,64889,Paul Gilbert
+064754.html,[Rd] CRAN check error with no example?,64754,Spencer Graves
+064760.html,[Rd] if(--as-cran)?,64760,Spencer Graves
+064770.html,[Rd] if(--as-cran)?,64770,Spencer Graves
+064772.html,[Rd] if(--as-cran)?,64772,Spencer Graves
+064775.html,[Rd] if(--as-cran)?,64775,Spencer Graves
+064877.html,[Rd] problem with vignettes when S4 classes in packages overlap,64877,Spencer Graves
+064881.html,[Rd] problem with vignettes when S4 classes in packages overlap,64881,Spencer Graves
+064892.html,[Rd] CRAN test / avoidance,64892,Spencer Graves
+064921.html,"[Rd] non-differentiable evaluation points in nlminb(), follow-up of PR#15052",64921,Spencer Graves
+064918.html,[Rd] tcltk capability,64918,Gabor Grothendieck
+064829.html,[Rd] Advice on Namespaces,64829,Bert Gunter
+064833.html,[Rd] Advice on Namespaces,64833,Bert Gunter
+064850.html,[Rd] as.data.frame.character lacks nm= argument,64850,Bert Gunter
+064792.html,[Rd] if(--as-cran)?,64792,Kasper Daniel Hansen
+064799.html,[Rd] if(--as-cran)?,64799,Kasper Daniel Hansen
+064801.html,[Rd] if(--as-cran)?,64801,Kasper Daniel Hansen
+064810.html,[Rd] Cran package checks,64810,Kasper Daniel Hansen
+064811.html,[Rd] if(--as-cran)?,64811,Kasper Daniel Hansen
+064903.html,[Rd] license,64903,Kasper Daniel Hansen
+064815.html,[Rd] Need to tell R CMD check that a function qr.R is not a method,64815,Tim Hesterberg
+064816.html,[Rd] Suggest adding a 'pivot' argument to qr.R,64816,Tim Hesterberg
+064841.html,[Rd] Suggest adding a 'pivot' argument to qr.R,64841,Tim Hesterberg
+064911.html,[Rd] Question lattice SplomT,64911,Christian Hoffmann
+064824.html,[Rd] Arrays Partial unserialization,64824,Wolfgang Huber
+064917.html,[Rd] tcltk capability,64917,Paul Johnson
+064927.html,[Rd] Mirror selection Was: French Toulouse CRAN mirror always down,64927,Alexander Klimov
+064855.html,[Rd] Question about copying arguments in C.,64855,Simon Knapp
+064857.html,[Rd] Question about copying arguments in C.,64857,Simon Knapp
+064870.html,[Rd] Question about copying arguments in C.,64870,Simon Knapp
+064817.html,[Rd] Need to tell R CMD check that a function qr.R is not a	method,64817,Uwe Ligges
+064885.html,[Rd] Rcmd check problem,64885,Uwe Ligges
+064904.html,[Rd] license,64904,Uwe Ligges
+064782.html,[Rd] Vignette question,64782,David L Lorenz
+064784.html,[Rd] Vignette question,64784,David L Lorenz
+064924.html,[Rd] S4method,64924,David L Lorenz
+064926.html,[Rd] S4method,64926,David L Lorenz
+064906.html,[Rd] error on uneven recycling?,64906,Thomas Lumley
+064767.html,[Rd] if(--as-cran)?,64767,Martin Maechler
+064777.html,[Rd] if(--as-cran)?,64777,Martin Maechler
+064804.html,[Rd] if(--as-cran)?,64804,Martin Maechler
+064805.html,[Rd] if(--as-cran)?,64805,Martin Maechler
+064849.html,[Rd] methods cbind2 bind_activation disrupts cbind everywhere,64849,Martin Maechler
+064912.html,[Rd] Segmentation fault when options(max.print	=	.Machine$integer.max),64912,Martin Maechler
+064914.html,[Rd] Segmentation fault when options(max.print =	.Machine$integer.max),64914,Martin Maechler
+064916.html,"[Rd] non-differentiable evaluation points in nlminb(),	follow-up of PR#15052",64916,Sebastian Meyer
+064928.html,"[Rd] non-differentiable evaluation points in nlminb(), follow-up of PR#15052",64928,Sebastian Meyer
+064809.html,[Rd] all.equal on external pointers and environments,64809,Martin Morgan
+064840.html,[Rd] Is invokeRestart(&quot;abort&quot;) unstoppable?,64840,Martin Morgan
+064847.html,[Rd] methods cbind2 bind_activation disrupts cbind everywhere,64847,Martin Morgan
+064859.html,[Rd] methods cbind2 bind_activation disrupts cbind everywhere,64859,Martin Morgan
+064895.html,[Rd] different behavior accessing type-specific as.data.frame inside a function vs inside R shell,64895,Martin Morgan
+064905.html,[Rd] Segmentation fault when options(max.print =	.Machine$integer.max),64905,Martin Morgan
+064913.html,[Rd] Segmentation fault when options(max.print =	.Machine$integer.max),64913,Martin Morgan
+064925.html,[Rd] S4method,64925,Martin Morgan
+064776.html,[Rd] Reference classes use a lot more memory after serialization/unserialization,64776,Jan Mueller
+064753.html,[Rd] CRAN check error with no example?,64753,Duncan Murdoch
+064765.html,[Rd] if(--as-cran)?,64765,Duncan Murdoch
+064769.html,[Rd] if(--as-cran)?,64769,Duncan Murdoch
+064771.html,[Rd] if(--as-cran)?,64771,Duncan Murdoch
+064778.html,[Rd] if(--as-cran)?,64778,Duncan Murdoch
+064781.html,[Rd] if(--as-cran)?,64781,Duncan Murdoch
+064783.html,[Rd] Vignette question,64783,Duncan Murdoch
+064785.html,[Rd] Vignette question,64785,Duncan Murdoch
+064787.html,[Rd] if(--as-cran)?,64787,Duncan Murdoch
+064789.html,[Rd] if(--as-cran)?,64789,Duncan Murdoch
+064794.html,[Rd] if(--as-cran)?,64794,Duncan Murdoch
+064795.html,[Rd] if(--as-cran)?,64795,Duncan Murdoch
+064797.html,[Rd] if(--as-cran)?,64797,Duncan Murdoch
+064800.html,[Rd] if(--as-cran)?,64800,Duncan Murdoch
+064802.html,[Rd] if(--as-cran)?,64802,Duncan Murdoch
+064806.html,[Rd] if(--as-cran)?,64806,Duncan Murdoch
+064812.html,[Rd] if(--as-cran)?,64812,Duncan Murdoch
+064821.html,[Rd] Need to tell R CMD check that a function qr.R is not a	method,64821,Duncan Murdoch
+064826.html,[Rd] problem building vignette,64826,Duncan Murdoch
+064830.html,[Rd] Advice on Namespaces,64830,Duncan Murdoch
+064876.html,[Rd] problem with vignettes when S4 classes in packages overlap,64876,Duncan Murdoch
+064879.html,[Rd] problem with vignettes when S4 classes in packages overlap,64879,Duncan Murdoch
+064884.html,[Rd] Rcmd check problem,64884,Duncan Murdoch
+064888.html,"[Rd] R-devel Digest, Vol 115, Issue 18",64888,Duncan Murdoch
+064898.html,[Rd] Rbuildignore question,64898,Duncan Murdoch
+064893.html,[Rd] example(smooth.spline) fails when function is NOT byte-compiled,64893,Herv&#233; Pag&#232;s
+064844.html,[Rd] valgrind crashing,64844,Prof Brian Ripley
+064851.html,[Rd] as.data.frame.character lacks nm= argument,64851,Prof Brian Ripley
+064896.html,[Rd] example(smooth.spline) fails when function is NOT	byte-compiled,64896,Prof Brian Ripley
+064908.html,[Rd] error on uneven recycling?,64908,Prof Brian Ripley
+064909.html,[Rd] error on uneven recycling?,64909,Prof Brian Ripley
+064834.html,[Rd] R crashes when printing a named numeric vector of a specific class - Bug?,64834,Jeff Ryan
+064852.html,[Rd] methods cbind2 bind_activation disrupts cbind everywhere,64852,Jeff Ryan
+064803.html,[Rd] if(--as-cran)?,64803,Deepayan Sarkar
+064902.html,[Rd] Question lattice SplomT,64902,Deepayan Sarkar
+064886.html,[Rd] problem with vignettes when S4 classes in packages overlap,64886,Michael Sumner
+064780.html,[Rd] if(--as-cran)?,64780,Terry Therneau
+064788.html,[Rd] if(--as-cran)?,64788,Terry Therneau
+064807.html,[Rd] Cran package checks,64807,Terry Therneau
+064887.html,"[Rd] R-devel Digest, Vol 115, Issue 18",64887,Terry Therneau
+064890.html,"[Rd] R-devel Digest, Vol 115, Issue 18",64890,Terry Therneau
+064897.html,[Rd] Rbuildignore question,64897,Terry Therneau
+064899.html,[Rd] Rbuildignore question,64899,Terry Therneau
+064758.html,[Rd] Possible page inefficiency in do_matrix in array.c,64758,Simon Urbanek
+064759.html,[Rd] Possible page inefficiency in do_matrix in array.c,64759,Simon Urbanek
+064791.html,[Rd] Possible page inefficiency in do_matrix in array.c,64791,Simon Urbanek
+064820.html,[Rd] Need to tell R CMD check that a function qr.R is not a	method,64820,Simon Urbanek
+064822.html,[Rd] Need to tell R CMD check that a function qr.R is not a	method,64822,Simon Urbanek
+064856.html,[Rd] Question about copying arguments in C.,64856,Simon Urbanek
+064864.html,[Rd] Question about copying arguments in C.,64864,Simon Urbanek
+064865.html,[Rd] Question about copying arguments in C.,64865,Simon Urbanek
+064866.html,[Rd] Risk of readRDS() not detecting race conditions with	parallel saveRDS()?,64866,Simon Urbanek
+064871.html,[Rd] Question about copying arguments in C.,64871,Simon Urbanek
+064922.html,"[Rd] non-differentiable evaluation points in nlminb(),	follow-up of PR#15052",64922,Ravi Varadhan
+064786.html,[Rd] if(--as-cran)?,64786,"Warnes, Gregory"
+064790.html,[Rd] if(--as-cran)?,64790,"Warnes, Gregory"
+064814.html,[Rd] if(--as-cran)?,64814,"Warnes, Gregory"
+064818.html,[Rd] Need to tell R CMD check that a function qr.R is not a method,64818,"Warnes, Gregory"
+064831.html,[Rd] Suggest adding a 'pivot' argument to qr.R,64831,"Warnes, Gregory"
+064836.html,[Rd] R crashes when printing a named numeric vector of a specific class - Bug?,64836,R. Michael Weylandt
+064929.html,[Rd] Small Extension to license()/licence(),64929,R. Michael Weylandt
+064773.html,[Rd] Environment when NextMethod is used,64773,Hadley Wickham
+064774.html,[Rd] if(--as-cran)?,64774,Hadley Wickham
+064813.html,[Rd] if(--as-cran)?,64813,Hadley Wickham
+064891.html,[Rd] CRAN test / avoidance,64891,Hadley Wickham
+064883.html,[Rd] Rcmd check problem,64883,Qi Zhang
+064894.html,[Rd] different behavior accessing type-specific as.data.frame inside a function vs inside R shell,64894,brian avants
+064828.html,[Rd] Different behavior of the &quot;showArgs&quot; example (R extension manual) between gcc and Visual C++ compiled code,64828,Jean-Michel.Perraud at csiro.au
+064763.html,[Rd] Typo (?) in 'aggregate.formula',64763,peter dalgaard
+064823.html,[Rd] Suggest adding a 'pivot' argument to qr.R,64823,peter dalgaard
+064837.html,[Rd] Suggest adding a 'pivot' argument to qr.R,64837,peter dalgaard
+064854.html,[Rd] as.data.frame.character lacks nm= argument,64854,peter dalgaard
+064873.html,[Rd] R Segfault reported in Fedora 17,64873,peter dalgaard
+064910.html,[Rd] error on uneven recycling?,64910,peter dalgaard
+064808.html,"[Rd] Suggestion: Change default to download.file(..., mode=&quot;wb&quot;) ...instead of mode=&quot;w&quot; with some bells and whistles",64808,steven mosher
+064901.html,[Rd] Defunct of --max-vsize and mem.limits,64901,qwumd
+064920.html,[Rd] French Toulouse CRAN mirror always down,64920,Friedrich.Leisch at r-project.org

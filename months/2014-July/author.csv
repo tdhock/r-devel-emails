@@ -1,0 +1,154 @@
+link,Subject,id,author
+069362.html,[Rd]  a question about optim.R and optim.c in R,69362,Prof J C Nash (U30A)
+069449.html,[Rd] Is the ISC license acceptable for CRAN?,69449,"Adler, Avraham"
+069452.html,[Rd] Is the ISC license acceptable for CRAN?,69452,"Adler, Avraham"
+069478.html,[Rd] listof,69478,Adrian Baddeley
+069391.html,[Rd] Error in compactPDF/find_gs_cmd or documentation?,69391,Henrik Bengtsson
+069457.html,[Rd] Multiple -g flags in R CMD SHLIB,69457,Alan Benson
+069437.html,[Rd] create R package include Fortran source code.,69437,Charles Berry
+069360.html,[Rd] using R functions in a C loop,69360,Enrico Bibbona
+069430.html,[Rd] Licence for datasets in a R-package,69430,Gionata Bocci
+069439.html,[Rd] Licence for datasets in a R-package,69439,Gionata Bocci
+069395.html,[Rd] cummax / cummin for complex numbers,69395,Ben Bolker
+069451.html,[Rd] Is the ISC license acceptable for CRAN?,69451,Ben Bolker
+069337.html,[Rd] Building R on Windows: mkdir of Rtools creates directories with read-only permissions [WEIRD],69337,Milan Bouchet-Valat
+069454.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69454,Luca Braglia
+069465.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69465,Luca Braglia
+069467.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69467,Luca Braglia
+069469.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69469,Luca Braglia
+069471.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69471,Luca Braglia
+069476.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69476,Luca Braglia
+069335.html,[Rd] Error when compiling R with openblas,69335,Alexander Braumann
+069441.html,[Rd] Problems with building a private R-package with Fortran source under Windows,69441,Alexander Braumann
+069414.html,[Rd] request of information about creating DLL from R to be used in	other languages/programs,69414,Ludovic Brossard
+069386.html,[Rd] Namespaces and S4 Generics,69386,John Chambers
+069383.html,[Rd] grouping list of objects in the help system,69383,G&#225;bor Cs&#225;rdi
+069403.html,[Rd] C-API: removing key-value pairs in an environment,69403,G&#225;bor Cs&#225;rdi
+069433.html,[Rd] Licence for datasets in a R-package,69433,G&#225;bor Cs&#225;rdi
+069435.html,[Rd] Licence for datasets in a R-package,69435,G&#225;bor Cs&#225;rdi
+069343.html,[Rd] Rtools -- compiling C dll for 64-bit,69343,"Dalthorp, Daniel"
+069393.html,[Rd] proposed change of check message when VIgnetteBuilder package is not declared as a dependency,69393,Brian Diggs
+069357.html,[Rd] a question about optim.R and optim.c in R,69357,Zhiyuan Dong
+069424.html,[Rd] Displaying database records returned from postgresql to R	through Java,69424,Jason Donnald
+069428.html,[Rd] Question on Code snippet semantics,69428,William Dunlap
+069466.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69466,Christophe Dutang
+069372.html,[Rd] reserving a package name,69372,Adrian Du&#537;a
+069376.html,[Rd] reserving a package name,69376,Adrian Du&#537;a
+069380.html,[Rd] grouping list of objects in the help system,69380,Adrian Du&#537;a
+069384.html,[Rd] grouping list of objects in the help system,69384,Adrian Du&#537;a
+069481.html,"[Rd] single quotes in strings, example block",69481,Adrian Du&#537;a
+069483.html,"[Rd] single quotes in strings, example block",69483,Adrian Du&#537;a
+069485.html,"[Rd] single quotes in strings, example block",69485,Adrian Du&#537;a
+069336.html,[Rd] Error when compiling R with openblas,69336,Dirk Eddelbuettel
+069363.html,[Rd] [OT] Re:   a question about optim.R and optim.c in R,69363,Dirk Eddelbuettel
+069366.html,"[Rd] arguments to .Call(), .External should be read-only?",69366,Dirk Eddelbuettel
+069443.html,[Rd] Question: Publishing R/S objects with WebServices	(SOAP/WSDL),69443,Dirk Eddelbuettel
+069458.html,[Rd] Multiple -g flags in R CMD SHLIB,69458,Dirk Eddelbuettel
+069402.html,[Rd] C-API: removing key-value pairs in an environment,69402,Laurent Gautier
+069404.html,[Rd] C-API: removing key-value pairs in an environment,69404,Laurent Gautier
+069419.html,[Rd] patch about mingwbuild 4.9.1,69419,Yu Gong
+069422.html,[Rd] patch about mingwbuild 4.9.1,69422,Yu Gong
+069358.html,[Rd] a question about optim.R and optim.c in R,69358,Sarah Goslee
+069377.html,[Rd] reserving a package name,69377,Spencer Graves
+069440.html,[Rd] Licence for datasets in a R-package,69440,Spencer Graves
+069468.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69468,Spencer Graves
+069470.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69470,Spencer Graves
+069353.html,[Rd] useDynLib,69353,Gabor Grothendieck
+069434.html,[Rd] Licence for datasets in a R-package,69434,Gabor Grothendieck
+069389.html,"[Rd] how to list external dependencies (i.e., non-R packages)?",69389,Kasper Daniel Hansen
+069392.html,[Rd] cummax / cummin for complex numbers,69392,Michael Haupt
+069398.html,[Rd] cummax / cummin for complex numbers,69398,Michael Haupt
+069446.html,[Rd] Question: Publishing R/S objects with WebServices (SOAP/WSDL),69446,Geoff Jentry
+069426.html,[Rd] Question on Code snippet semantics,69426,Mick Jordan
+069381.html,[Rd] Namespaces and S4 Generics,69381,Roger Koenker
+069388.html,[Rd] Namespaces and S4 Generics,69388,Roger Koenker
+069459.html,[Rd] [R-SIG-Mac]  R-3.1.1 - R CMD INSTALL problem,69459,Roger Koenker
+069461.html,[Rd] [R-SIG-Mac]  R-3.1.1 - R CMD INSTALL problem,69461,Roger Koenker
+069370.html,[Rd] [patch] Rscript off-by-one error in output,69370,Scott Kostyshak
+069396.html,[Rd] cummax / cummin for complex numbers,69396,Duncan Temple Lang
+069338.html,[Rd] R CMD check warning with S3 method,69338,Michael Lawrence
+069367.html,[Rd] Depot for S3 to S4 generics (as in stats4)?,69367,Michael Lawrence
+069399.html,"[Rd] how to list external dependencies (i.e., non-R packages)?",69399,Michael Lawrence
+069477.html,[Rd] making cuda-based R package CRAN friendly,69477,"Liaw, Andy"
+069373.html,[Rd] reserving a package name,69373,Uwe Ligges
+069379.html,[Rd] reserving a package name,69379,Uwe Ligges
+069416.html,[Rd] request of information about creating DLL from R to be used in other languages/programs,69416,Ludovic.Brossard
+069453.html,[Rd] R-3.1.1 - R CMD INSTALL problem,69453,Eduardo M. A. M.Mendes
+069462.html,[Rd] [R-SIG-Mac]  R-3.1.1 - R CMD INSTALL problem,69462,Eduardo M. A. M.Mendes
+069463.html,[Rd] R-3.1.1 - R CMD INSTALL problem,69463,Eduardo M. A. M.Mendes
+069464.html,[Rd] [R-SIG-Mac]  R-3.1.1 - R CMD INSTALL problem,69464,Eduardo M. A. M.Mendes
+069474.html,"[Rd] R-devel Digest, Vol 137, Issue 25",69474,John Maindonald
+069339.html,[Rd] creating a package from a development source tree,69339,Greg Minshall
+069342.html,[Rd] creating a package from a development source tree,69342,Greg Minshall
+069347.html,[Rd] DESCRIPTION.in file causes R CMD check to fail?,69347,Greg Minshall
+069349.html,[Rd] DESCRIPTION.in file causes R CMD check to fail?,69349,Greg Minshall
+069351.html,[Rd] DESCRIPTION.in file causes R CMD check to fail?,69351,Greg Minshall
+069352.html,[Rd] request for &quot;minor&quot; fix to src/library/tools/QC.r,69352,Greg Minshall
+069364.html,"[Rd] arguments to .Call(), .External should be read-only?",69364,Greg Minshall
+069387.html,"[Rd] how to list external dependencies (i.e., non-R packages)?",69387,Greg Minshall
+069417.html,"[Rd] how to list external dependencies (i.e., non-R packages)?",69417,Greg Minshall
+069400.html,[Rd] Reducing RAM usage using UKSM,69400,Varadharajan Mukundan
+069406.html,[Rd] Reducing RAM usage using UKSM,69406,Varadharajan Mukundan
+069411.html,[Rd] Reducing RAM usage using UKSM,69411,Varadharajan Mukundan
+069412.html,[Rd] Reducing RAM usage using UKSM,69412,Varadharajan Mukundan
+069344.html,[Rd] Rtools -- compiling C dll for 64-bit,69344,Duncan Murdoch
+069346.html,[Rd] Rtools -- compiling C dll for 64-bit,69346,Duncan Murdoch
+069348.html,[Rd] DESCRIPTION.in file causes R CMD check to fail?,69348,Duncan Murdoch
+069350.html,[Rd] DESCRIPTION.in file causes R CMD check to fail?,69350,Duncan Murdoch
+069355.html,[Rd] Depot for S3 to S4 generics (as in stats4)?,69355,Duncan Murdoch
+069365.html,"[Rd] arguments to .Call(), .External should be read-only?",69365,Duncan Murdoch
+069382.html,[Rd] grouping list of objects in the help system,69382,Duncan Murdoch
+069415.html,[Rd] request of information about creating DLL from R to be used in other languages/programs,69415,Duncan Murdoch
+069418.html,[Rd] request of information about creating DLL from R to be used in other languages/programs,69418,Duncan Murdoch
+069431.html,[Rd] create R package include Fortran source code.,69431,Duncan Murdoch
+069432.html,[Rd] Licence for datasets in a R-package,69432,Duncan Murdoch
+069450.html,[Rd] Is the ISC license acceptable for CRAN?,69450,Duncan Murdoch
+069455.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69455,Duncan Murdoch
+069482.html,"[Rd] single quotes in strings, example block",69482,Duncan Murdoch
+069484.html,"[Rd] single quotes in strings, example block",69484,Duncan Murdoch
+069369.html,"[Rd] arguments to .Call(), .External should be read-only?",69369,Radford Neal
+069445.html,[Rd] Problems with building a private R-package with Fortran source under Windows,69445,John Nolan
+069472.html,[Rd] [Wishlist] a 'PackageDevelopment' Task View,69472,Darren Norris
+069361.html,[Rd] using R functions in a C loop,69361,Sean O'Riordain
+069438.html,[Rd] Multiple versions of data in a package,69438,"ONKELINX, Thierry"
+069405.html,"[Rd] how to list external dependencies (i.e., non-R packages)?",69405,Jeroen Ooms
+069473.html,[Rd] Parsing and deparsing of escaped unicode characters,69473,Jeroen Ooms
+069356.html,[Rd] blas test problem,69356,Martyn Plummer
+069475.html,[Rd] combining generics/methods from multiple packages,69475,Randall Pruim
+069371.html,[Rd] blas test problem,69371,Prof Brian Ripley
+069378.html,[Rd] reserving a package name,69378,Prof Brian Ripley
+069409.html,[Rd] Reducing RAM usage using UKSM,69409,Prof Brian Ripley
+069421.html,[Rd] patch about mingwbuild 4.9.1,69421,Prof Brian Ripley
+069480.html,[Rd] listof,69480,Prof Brian Ripley
+069442.html,[Rd] Question: Publishing R/S objects with WebServices (SOAP/WSDL),69442,Kurt Schallitz
+069340.html,[Rd] creating a package from a development source tree,69340,Marc Schwartz
+069394.html,[Rd] cummax / cummin for complex numbers,69394,Marc Schwartz
+069397.html,[Rd] cummax / cummin for complex numbers,69397,Marc Schwartz
+069427.html,[Rd] Question on Code snippet semantics,69427,Marc Schwartz
+069486.html,"[Rd] single quotes in strings, example block",69486,Marc Schwartz
+069487.html,[Rd] Interface between R and a Open Load Flow tool (Gridlabd or	OpenDSS),69487,Tom Short
+069390.html,[Rd] Error in compactPDF/find_gs_cmd or documentation?,69390,Jon Olav Skoien
+069413.html,[Rd] capture.output on S4 slot,69413,Dario Strbenac
+069423.html,[Rd] Unlisting Nested Lists of Factors,69423,Dario Strbenac
+069354.html,[Rd] Depot for S3 to S4 generics (as in stats4)?,69354,Sven E. Templer
+069375.html,[Rd] checking whether 'INDEX' is up-to-date ... NO,69375,Sven E. Templer
+069385.html,[Rd] proposed change of check message when VIgnetteBuilder package is not declared as a dependency,69385,Dan Tenenbaum
+069401.html,"[Rd] how to list external dependencies (i.e., non-R packages)?",69401,Dan Tenenbaum
+069407.html,[Rd] How to access a return value of a function that is being traced,69407,Roman Tsegelskyi
+069456.html,[Rd] R-3.1.1 - R CMD INSTALL problem,69456,Simon Urbanek
+069460.html,[Rd] [R-SIG-Mac]  R-3.1.1 - R CMD INSTALL problem,69460,Simon Urbanek
+069341.html,"[Rd] USE_CXX1X, Snow Leopard R binaries + Mavericks",69341,Kevin Ushey
+069448.html,[Rd] Removed 'extern' on R_running_as_main_program in Rinterface.h	-- intentional?,69448,Kevin Ushey
+069420.html,[Rd] request of information about creating DLL from R to be used in other languages/programs,69420,Tobias Verbeke
+069444.html,[Rd] Question: Publishing R/S objects with WebServices (SOAP/WSDL),69444,Tobias Verbeke
+069425.html,[Rd] Multiple versions of data in a package,69425,Chris Wallace
+069408.html,[Rd] Reducing RAM usage using UKSM,69408,Gregory R. Warnes
+069410.html,[Rd] Reducing RAM usage using UKSM,69410,Gregory R. Warnes
+069359.html,[Rd] a question about optim.R and optim.c in R,69359,Michael Weylandt
+069447.html,[Rd] Byte Order Mark in ?connections,69447,Yihui Xie
+069479.html,[Rd] Interface between R and a Open Load Flow tool (Gridlabd or	OpenDSS),69479,Yamshid
+069345.html,[Rd] blas test problem,69345,lejeczek
+069368.html,[Rd] blas test problem,69368,lejeczek
+069374.html,[Rd] blas test problem,69374,lejeczek
+069429.html,[Rd] create R package include Fortran source code.,69429,yiqun yang
+069436.html,[Rd] create R package include Fortran source code.,69436,yiqun yang

@@ -1,0 +1,155 @@
+link,Subject,id,author
+027129.html,[Rd] Increase your penis by 3 inches!   238450 (PR#3601),27129,238450 at excite.com
+027136.html,[Rd] Copy VHS tapes to CD too! 238454 (PR#3607),27136,238454 at hotmail.com
+026993.html,[Rd] Update on &quot;Shift-Return causes segfault (PR#3293)&quot;,26993,Graeme Ambler
+026997.html,[Rd] (PR#3427),26997,Peter Dalgaard BSA
+027003.html,[Rd] unique in versions 1.6.2 and 1.5.1 (PR#3435),27003,Peter Dalgaard BSA
+027012.html,[Rd] Problems Simulating (PR#3471),27012,Peter Dalgaard BSA
+027018.html,[Rd] &quot;na.action&quot; parameter in princomp() (PR#3481),27018,Peter Dalgaard BSA
+027024.html,[Rd] Undefined subroutine &amp;R::Rdconv::fill (PR#3485),27024,Peter Dalgaard BSA
+027044.html,[Rd] (PR#2867),27044,Peter Dalgaard BSA
+027072.html,"[Rd] read.table with option dec=',' (PR#3532)",27072,Peter Dalgaard BSA
+027104.html,[Rd] Recommended way to change defaultPackages under Windows,27104,Douglas Bates
+027041.html,[Rd] Incorrect tick mark length when `tck' != NA (PR#3504),27041,BoersN at pac.dfo-mpo.gc.ca
+027128.html,[Rd] And Natural Manhood booster,27128,Anton Booker
+027115.html,[Rd] Recommended way to change defaultPackages under Windows,27115,David Brahm
+026974.html,[Rd] S4 method setClass prototype definition question,26974,Matthias Burger
+026975.html,[Rd] S4 method and S3 method with same name: potentially dangerous?,26975,Matthias Burger
+026969.html,[Rd] S4 method setClass prototype definition question,26969,John Chambers
+027006.html,"[Rd] Packages, generics, S3 and S4",27006,John Chambers
+027052.html,[Rd] Strategies for S-PLUS compatibility?,27052,John Chambers
+027085.html,[Rd] Revisions of the S4 classes software + ?Documentation,27085,John Chambers
+027026.html,[Rd] friday lunch,27026,Latchezar Dimitrov
+026995.html,[Rd] (PR#3427),26995,Dursun.Bulutoglu at afit.edu
+026984.html,[Rd] R documentation -- buffer overflow? (PR#3400),26984,Dirk Eddelbuettel
+027033.html,[Rd] Density function for non-central t distribution,27033,Claus Ekstroem
+027091.html,[Rd] R won't use http_proxy (PR#3558),27091,Paul Gilbert
+027094.html,[Rd] --max-mem-size (PR#3562),27094,Paul Gilbert
+027122.html,[Rd] Re: [R] Sending emails from R under Windows,27122,Paul Gilbert
+027005.html,[Rd] I am puzzled about something in pnorm in R (PR#3443),27005,Henrik.Seidel at schering.de
+027004.html,"[Rd] Packages, generics, S3 and S4",27004,"Heywood, Giles"
+027007.html,"[Rd] Packages, generics, S3 and S4",27007,"Heywood, Giles"
+027015.html,[Rd] R-1.7.1: modules/X11/X11.c: Rf_allocX11DeviceDesc(),27015,Thomas Hoffmann
+027030.html,[Rd] Undefined subroutine &amp;R::Rdconv::fill (PR#3485),27030,Kurt Hornik
+027031.html,[Rd] How to do get verbatim in Rd files,27031,Kurt Hornik
+027099.html,[Rd] OpenBSD 3.[23] and R-1.7.1,27099,Kurt Hornik
+027116.html,[Rd] Recommended way to change defaultPackages under Windows,27116,Kurt Hornik
+026972.html,[Rd] Use of PKG_FFLAGS on Windows,26972,"Hotz, T."
+027055.html,"[Rd] internal support for dlopen, dlclose etc (darwin port)",27055,Stefano Iacus
+027082.html,[Rd] dlopen/dlclose etc for Darwin,27082,Stefano Iacus
+027061.html,[Rd] calling R from C,27061,"Khamenia, Valery"
+027060.html,[Rd] calling R from C,27060,"Khamenia, Valery"
+027028.html,[Rd] Undefined subroutine &amp;R::Rdconv::fill (PR#3485),27028,"Klinglesmith, Michael T"
+027020.html,[Rd] Rprof,27020,Roger Koenker
+027023.html,[Rd] friday lunch,27023,Roger Koenker
+027029.html,[Rd] apologies,27029,Roger Koenker
+027132.html,[Rd] namespace magic,27132,Roger Koenker
+026985.html,[Rd] R crashes when installing package from CRAN (PR#3399),26985,Renaud Lancelot
+027040.html,[Rd] Integrating R in OpenOffice,27040,Duncan Temple Lang
+027010.html,[Rd] Title obscured when using par(mfrow) (PR#3463),27010,Uwe Ligges
+027014.html,[Rd] Re: [R] How to install a package,27014,Uwe Ligges
+027065.html,[Rd] Bug in file.copy: overwrite=FALSE ignored (PR#3529),27065,Uwe Ligges
+027101.html,[Rd] Re: [R] wireframe: how to remove the frame around my plot?,27101,Uwe Ligges
+027106.html,[Rd] Recommended way to change defaultPackages under Windows,27106,Uwe Ligges
+027063.html,[Rd] calling R from C,27063,Thomas Lumley
+027074.html,[Rd] abs() and negative output from fractions() (PR#3536),27074,Thomas Lumley
+027032.html,[Rd] R CMD check 'package-name' failed   ,27032,Martin Maechler
+027034.html,[Rd] Undefined subroutine &amp;R::Rdconv::fill (PR#3485),27034,Martin Maechler
+027039.html,[Rd] Integrating R in OpenOffice,27039,Harry Mangalam
+027042.html,[Rd] Integrating R in OpenOffice,27042,Harry Mangalam
+027056.html,[Rd] unz(),27056,"Marsland, John"
+027114.html,[Rd] cbind/rbind inconsistency with NULL parameter (PR#3585),27114,Dr. Johannes Martin
+026982.html,[Rd] R documentation -- buffer overflow? (PR#3400),26982,Martin.Schlather at uni-bayreuth.de
+026986.html,[Rd] (PR#3400),26986,Martin.Schlather at uni-bayreuth.de
+026981.html,[Rd] R crashes when installing package from CRAN (PR#3399),26981,Duncan Murdoch
+026996.html,[Rd] Bug in Rd2dvi.sh (or doc error)? (PR#3422),26996,Duncan Murdoch
+026999.html,[Rd] rcmd and directories (cwd; tmpdir) (PR#3429),26999,Duncan Murdoch
+027013.html,[Rd] Re: [R] How to install a package,27013,Duncan Murdoch
+027025.html,[Rd] Rprof,27025,Duncan Murdoch
+027047.html,[Rd] Strategies for S-PLUS compatibility?,27047,Duncan Murdoch
+027053.html,[Rd] Strategies for S-PLUS compatibility?,27053,Duncan Murdoch
+027066.html,[Rd] Bug in file.copy: overwrite=FALSE ignored (PR#3529),27066,Duncan Murdoch
+027067.html,[Rd] Bug in file.copy: overwrite=FALSE ignored (PR#3529),27067,Duncan Murdoch
+027068.html,[Rd] Bug in file.copy: overwrite=FALSE ignored (PR#3529),27068,Duncan Murdoch
+027075.html,[Rd] abs() and negative output from fractions() (PR#3536),27075,Duncan Murdoch
+027095.html,[Rd] --max-mem-size (PR#3562),27095,Duncan Murdoch
+027016.html,[Rd] R-1.7.1: modules/X11/X11.c: Rf_allocX11DeviceDesc(),27016,Paul Murrell
+027021.html,[Rd] R CMD check 'package-name' failed   ,27021,Bernhard Dr. Pfaff
+026989.html,[Rd] Undeliverable Mail,26989,Postmaster
+026971.html,[Rd] Minor error in area() documentation (PR#3378),26971,Prof Brian Ripley
+026973.html,[Rd] Use of PKG_FFLAGS on Windows,26973,Prof Brian Ripley
+026987.html,[Rd] R crashes when installing package from CRAN (PR#3399),26987,Prof Brian Ripley
+026988.html,[Rd] (PR#3400),26988,Prof Brian Ripley
+027045.html,[Rd] (PR#2867),27045,Prof Brian Ripley
+027046.html,[Rd] &quot;na.action&quot; parameter in princomp() (PR#3481),27046,Prof Brian Ripley
+027051.html,[Rd] bringToTop() when some windows been closed (PR#3512),27051,Prof Brian Ripley
+027054.html,[Rd] finename length no check (PR#3466),27054,Prof Brian Ripley
+027057.html,[Rd] arima.sim problems (PR#3495),27057,Prof Brian Ripley
+027071.html,"[Rd] read.table with option dec=',' (PR#3532)",27071,Prof Brian Ripley
+027076.html,[Rd] abs() and negative output from fractions() (PR#3536),27076,Prof Brian Ripley
+027078.html,[Rd] abs() and negative output from fractions() (PR#3536),27078,Prof Brian Ripley
+027087.html,[Rd] bug? (PR#3550),27087,Prof Brian Ripley
+027096.html,[Rd] --max-mem-size (PR#3562),27096,Prof Brian Ripley
+027098.html,[Rd] ref #2655 (PR#3566),27098,Prof Brian Ripley
+027102.html,[Rd] Re: [R] wireframe: how to remove the frame around my plot?,27102,Prof Brian Ripley
+027105.html,[Rd] Recommended way to change defaultPackages under Windows,27105,Prof Brian Ripley
+027112.html,[Rd] (PR#3400),27112,Prof Brian Ripley
+027113.html,[Rd] cbind/rbind inconsistency with NULL parameter (PR#3585),27113,Prof Brian Ripley
+027117.html,[Rd] OpenBSD-alpha and R-1.7.1 problem,27117,Prof Brian Ripley
+027119.html,[Rd] OpenBSD-alpha and R-1.7.1 problem,27119,Prof Brian Ripley
+027123.html,[Rd] cbind/rbind inconsistency with NULL parameter  (PR#3585),27123,Prof Brian Ripley
+027048.html,[Rd] Strategies for S-PLUS compatibility?,27048,Prof Brian D Ripley
+027049.html,[Rd] Strategies for S-PLUS compatibility?,27049,A.J. Rossini
+027077.html,[Rd] abs() and negative output from fractions() (PR#3536),27077,Barry Rowlingson
+027080.html,[Rd] OpenBSD 3.[23] and R-1.7.1,27080,Peter Rye
+027089.html,[Rd] OpenBSD 3.[23] and R-1.7.1,27089,Peter Rye
+027100.html,[Rd] OpenBSD 3.[23] and R-1.7.1,27100,Peter Rye
+027107.html,[Rd] OpenBSD-alpha and R-1.7.1 problem,27107,Peter Rye
+027118.html,[Rd] OpenBSD-alpha and R-1.7.1 problem,27118,Peter Rye
+026991.html,[Rd] Update on &quot;Shift-Return causes segfault (PR#3293)&quot;,26991,Marc Schwartz
+027001.html,[Rd] Mail Delivery failed: returning to sender.,27001,Super-User
+027079.html,[Rd] abs() and negative output from fractions() (PR#3536),27079,Luke Tierney
+027103.html,[Rd] codetools,27103,Luke Tierney
+027081.html,[Rd] OpenBSD 3.[23] and R-1.7.1,27081,Simon Urbanek
+027090.html,[Rd] OpenBSD 3.[23] and R-1.7.1,27090,Simon Urbanek
+027022.html,[Rd] How to do get verbatim in Rd files,27022,"Warnes, Gregory R"
+027083.html,[Rd] How to do get verbatim in Rd files,27083,"Warnes, Gregory R"
+026970.html,[Rd] Minor error in area() documentation (PR#3378),26970,arnima at u.washington.edu
+027008.html,[Rd] Title obscured when using par(mfrow) (PR#3463),27008,brahm at alum.mit.edu
+026979.html,[Rd] bug? exactRankTests install anomaly (PR#3394),26979,dmurdoch at pair.com
+026992.html,[Rd] Bug in Rd2dvi.sh (or doc error)? (PR#3422),26992,dmurdoch at pair.com
+027110.html,[Rd] Soliciting For Business Venture and Partnership. (PR#3584),27110,erickaby12 at starmedia.com
+027073.html,[Rd] abs() and negative output from fractions() (PR#3536),27073,forporphyry at hotmail.com
+027002.html,[Rd] unique in versions 1.6.2 and 1.5.1 (PR#3435),27002,goulard at toulouse.inra.fr
+027093.html,[Rd] --max-mem-size (PR#3562),27093,kjetil brinchmann halvorsen
+027050.html,[Rd] bringToTop() when some windows been closed (PR#3512),27050,hb at maths.lth.se
+026977.html,[Rd] degrees of freedom in nlme() (PR#2384),26977,jerome at hivnet.ubc.ca
+027017.html,[Rd] &quot;na.action&quot; parameter in princomp() (PR#3481),27017,jerome at hivnet.ubc.ca
+027111.html,[Rd] cbind/rbind inconsistency with NULL parameter (PR#3585),27111,jmartin2003 at notamusica.com
+027133.html,[Rd] round to even digit (PR#3604),27133,kbroman at jhsph.edu
+027038.html,[Rd] arima.sim problems (PR#3495),27038,liang at stat.berkeley.edu
+027069.html,"[Rd] read.table with option dec=',' (PR#3532)",27069,lucas at toulouse.inra.fr
+026983.html,[Rd] R documentation -- buffer overflow? (PR#3400),26983,maechler at stat.math.ethz.ch
+027000.html,[Rd] (PR#3427),27000,maechler at stat.math.ethz.ch
+027019.html,[Rd] Undefined subroutine &amp;R::Rdconv::fill (PR#3485),27019,michael.t.klinglesmith at intel.com
+027088.html,[Rd] R won't use http_proxy (PR#3558),27088,michael.watson at bbsrc.ac.uk
+027086.html,[Rd] bug? (PR#3550),27086,mittal at math.arizona.edu
+026978.html,[Rd] bug? exactRankTests install anomaly (PR#3394),26978,mwgrant at adelphia.net
+027009.html,[Rd] finename length no check (PR#3466),27009,nakama at ki.rim.or.jp
+026990.html,[Rd] Installing RSPerl (PR#3415),26990,nisai at lagrange.tampabaywater.org
+026968.html,[Rd] CUSA.COM detected a violation in a document you authored.,26968,noreply at cusa.com
+027084.html,[Rd] Re: I am puzzled about something in pnorm in R (PR#3545),27084,organism at ices.utexas.edu
+027130.html,[Rd] Mac OS 10 (not X11) failure to rotate symbols (PR#3602),27130,p.b.pynsent at bham.ac.uk
+026980.html,[Rd] R crashes when installing package from CRAN (PR#3399),26980,renaud.lancelot at cirad.fr
+027043.html,[Rd] (PR#2867),27043,richard.roger at agric.nsw.gov.au
+027064.html,[Rd] Bug in file.copy: overwrite=FALSE ignored (PR#3529),27064,richard_raubertas at merck.com
+026998.html,[Rd] rcmd and directories (cwd; tmpdir) (PR#3429),26998,roy_kuraisa at merck.com
+027092.html,[Rd] --max-mem-size (PR#3562),27092,slteng at stat.berkeley.edu
+027097.html,[Rd] ref #2655 (PR#3566),27097,slteng at stat.berkeley.edu
+027011.html,[Rd] Problems Simulating (PR#3471),27011,smiles at dept.econ.yorku.ca
+027134.html,[Rd] (&#44305;&#44256;) &#51333;&#47049;&#51228; &#48393;&#53804; &#51208;&#50557;&#54805; &#50517;&#52629;&#50416;&#47112;&#44592;&#53685; &#49548;&#44060;@  (PR#3605),27134,softface456 at netian.com
+027135.html,[Rd] (&#44305;&#44256;) &#51333;&#47049;&#51228; &#48393;&#53804; &#51208;&#50557;&#54805; &#50517;&#52629;&#50416;&#47112;&#44592;&#53685; &#49548;&#44060;@  (PR#3606),27135,softface456 at netian.com
+026967.html,[Rd] autoreply,26967,sue.macrae at utoronto.ca
+027070.html,"[Rd] read.table with option dec=',' (PR#3532)",27070,tplate at blackmesacapital.com
+027121.html,[Rd] cbind/rbind inconsistency with NULL parameter (PR#3595),27121,tplate at blackmesacapital.com
+027127.html,[Rd] Boost your Penis Size 3 to 5 Inches  khaki (PR#3600),27127,zg32mxr628t at 21cn.net

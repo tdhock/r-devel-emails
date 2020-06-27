@@ -1,0 +1,282 @@
+link,Subject,id,author
+065738.html,[Rd] Suggestions for 'diff.default',65738,Suharto Anggono Suharto Anggono
+065754.html,[Rd] 'ecdf': how about exploiting property that 'x' is sorted?,65754,Suharto Anggono Suharto Anggono
+065935.html,[Rd] Simultaneously adding rows and columns by '[&lt;-.data.frame' may	fail,65935,Suharto Anggono Suharto Anggono
+065740.html,[Rd] [R] gettext weirdness,65740,Florent Angly
+065752.html,[Rd] [R] gettext weirdness,65752,Florent Angly
+065849.html,[Rd] stopping finalizers,65849,"Antonio, Fabio Di Narzo"
+065782.html,[Rd] Localization of Rd files,65782,Julien Barnier
+065749.html,[Rd] Contract Syntactic Sugar,65749,Gabriel Becker
+065824.html,[Rd] Contribution,65824,Claudia Beleites
+065844.html,"[Rd] VignetteBuilder: Unlike other package fields, it does not support version specifiers",65844,Henrik Bengtsson
+065854.html,[Rd] Suggestion: Custom filename patterns for non-Sweave vignettes,65854,Henrik Bengtsson
+065866.html,[Rd] Suggestion: Custom filename patterns for non-Sweave	vignettes,65866,Henrik Bengtsson
+065887.html,[Rd] Suggestion: Custom filename patterns for non-Sweave	vignettes,65887,Henrik Bengtsson
+065732.html,[Rd] setGeneric() gives &quot;must supply skeleton&quot; when checking package,65732,Tim Bergsma
+065758.html,[Rd] setGeneric() gives &quot;must supply skeleton&quot; when checking	package,65758,Tim Bergsma
+065878.html,[Rd] Matrix does not build with R trunk since Oct.,65878,Roger Bivand
+065737.html,[Rd] best practice for packages using mclapply to avoid tcltk,65737,Matt Blackwell
+065807.html,[Rd] Regression stars,65807,Ben Bolker
+065815.html,[Rd] Regression stars,65815,Ben Bolker
+065829.html,[Rd] Private environments and/or assignInMyNamespace,65829,Milan Bouchet-Valat
+065835.html,[Rd] Private environments and/or assignInMyNamespace,65835,Milan Bouchet-Valat
+065837.html,[Rd] stringsAsFactors,65837,Milan Bouchet-Valat
+065906.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65906,Milan Bouchet-Valat
+065933.html,[Rd] Small quirks in summary.(g)lm docs,65933,Milan Bouchet-Valat
+065968.html,[Rd] Recommended way to call/import functions from a Suggested package,65968,Milan Bouchet-Valat
+065992.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65992,Milan Bouchet-Valat
+065994.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65994,Milan Bouchet-Valat
+065996.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65996,Milan Bouchet-Valat
+066008.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),66008,Milan Bouchet-Valat
+066009.html,[Rd] conflict between rJava and data.table,66009,Bunny
+065820.html,[Rd] get and exists are not vectorized,65820,Patrick Burns
+065969.html,[Rd] double bracket stripping names,65969,Patrick Burns
+065999.html,[Rd] Fortune?,65999,Patrick Burns
+065982.html,[Rd] double bracket stripping names,65982,Winston Chang
+065891.html,[Rd] Passing R code from webpage,65891,Pierre Chausse
+065976.html,[Rd] Running R scripts with interactive-style evaluation,65976,Jon Clayden
+065852.html,[Rd] Error: 'mcMap' is not an exported object from	'namespace:parallel',65852,"Cook, Malcolm"
+065843.html,[Rd] stringsAsFactors,65843,Nicholas Crookston
+065946.html,[Rd] Recommended way to call/import functions from a Suggested	package,65946,Davor Cubranic
+065962.html,[Rd] Recommended way to call/import functions from a Suggested	package,65962,Davor Cubranic
+065963.html,[Rd] Recommended way to call/import functions from a Suggested	package,65963,Davor Cubranic
+065967.html,[Rd] Recommended way to call/import functions from a Suggested	package,65967,Davor Cubranic
+065775.html,[Rd] ClassNotFoundException when running distributed job using	rJava package,65775,Gaurav Dasgupta
+065832.html,[Rd] stringsAsFactors,65832,Michael Dewey
+065801.html,[Rd] stringsAsFactors,65801,Brian Diggs
+065798.html,[Rd] stringsAsFactors,65798,William Dunlap
+065889.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65889,William Dunlap
+065974.html,[Rd] Running R scripts with interactive-style evaluation,65974,William Dunlap
+065747.html,[Rd] Error building R from SVN - unable to run 'pdflatex' on 'example-1.tex',65747,Dirk Eddelbuettel
+065988.html,[Rd] Keeping up to date with R-devel,65988,Dirk Eddelbuettel
+065990.html,[Rd] Keeping up to date with R-devel,65990,Dirk Eddelbuettel
+065729.html,[Rd] Problem using raw vectors with inline cfunction,65729,Karl Forner
+065771.html,[Rd] Regression stars,65771,John Fox
+065840.html,[Rd] Private environments and/or assignInMyNamespace,65840,John Fox
+065998.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65998,John Fox
+065730.html,[Rd] Problem using raw vectors with inline cfunction,65730,Romain Francois
+065774.html,[Rd] assignInNamespace to create a setwd() replacement: how to use	unlockBinding()?,65774,Michael Friendly
+065784.html,[Rd] assignInNamespace to create a setwd() replacement: how to use unlockBinding()?,65784,Michael Friendly
+065733.html,[Rd] Bug: C-level and _set_rl_word_breaks,65733,Laurent Gautier
+065839.html,[Rd] Regression stars,65839,Charles Geyer
+065812.html,[Rd] Contribution,65812,Parthasarathy Gopavarapu
+065884.html,[Rd] RSetReg.exe,65884,Gabor Grothendieck
+066005.html,[Rd] Return value of S4 validity function,66005,Gabor Grothendieck
+066006.html,[Rd] Return value of S4 validity function,66006,Gabor Grothendieck
+065806.html,[Rd] Private environments and/or assignInMyNamespace,65806,Ulrike Gr&#246;mping
+065830.html,[Rd] Private environments and/or assignInMyNamespace,65830,Ulrike Gr&#246;mping
+065841.html,[Rd] Private environments and/or assignInMyNamespace,65841,Ulrike Gr&#246;mping
+065877.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65877,Bert Gunter
+065942.html,[Rd] limitations to random number generator in 64-bits machines,65942,Bert Gunter
+065865.html,[Rd] Matrix does not build with R trunk since Oct.,65865,Kasper Daniel Hansen
+065876.html,[Rd] Matrix does not build with R trunk since Oct.,65876,Kasper Daniel Hansen
+065929.html,[Rd] best way to extract this meaningful data from a table,65929,Kasper Daniel Hansen
+065770.html,[Rd] Regression stars,65770,Frank Harrell
+065793.html,[Rd] Regression stars,65793,Frank Harrell
+065810.html,[Rd] Regression stars,65810,Frank Harrell
+066001.html,[Rd] Bordered legend icons and Text in plots,66001,James Hawley
+065845.html,[Rd] mapply error with Math (S4 group generic),65845,Robert J. Hijmans
+065847.html,[Rd] mapply error with Math (S4 group generic),65847,Robert J. Hijmans
+065757.html,[Rd] How to use summary.mer inside a package?,65757,Benjamin Hofner
+065731.html,[Rd] best practice for packages using mclapply to avoid tcltk,65731,Paul Johnson
+065759.html,[Rd] best practice for packages using mclapply to avoid tcltk,65759,Paul Johnson
+065971.html,[Rd] Running R scripts with interactive-style evaluation,65971,Marc Aurel Kiefer
+065985.html,[Rd]  Running R scripts with interactive-style evaluation,65985,Marc Aurel Kiefer
+065938.html,[Rd] GC encountered a node (&#8230;) with an unknown SEXP type,65938,Roger Koenker
+065957.html,[Rd] two typos in NEWS.Rd,65957,Scott Kostyshak
+065786.html,[Rd] trouble with accentuated characters in \title tag in Rd file,65786,LaurentRdevel
+065792.html,[Rd] trouble with accentuated characters in \title tag in Rd file,65792,LaurentRdevel
+065950.html,[Rd] Recommended way to call/import functions from a Suggested	package,65950,Mark Leeds
+065951.html,[Rd] Recommended way to call/import functions from a Suggested	package,65951,Mark Leeds
+065858.html,[Rd] Matrix does not build with R trunk since Oct.,65858,Hin-Tak Leung
+065863.html,[Rd] Matrix does not build with R trunk since Oct.,65863,Hin-Tak Leung
+065867.html,[Rd] Matrix does not build with R trunk since Oct.,65867,Hin-Tak Leung
+065869.html,[Rd] Matrix does not build with R trunk since Oct.,65869,Hin-Tak Leung
+065871.html,[Rd] Matrix does not build with R trunk since Oct.,65871,Hin-Tak Leung
+065934.html,[Rd] bug fix Re: Matrix does not build with R trunk since Oct.,65934,Hin-Tak Leung
+065777.html,[Rd] assignInNamespace to create a setwd() replacement: how to use unlockBinding()?,65777,Uwe Ligges
+065778.html,[Rd] How to use summary.mer inside a package?,65778,Uwe Ligges
+065781.html,[Rd] r-forge,65781,Uwe Ligges
+065788.html,[Rd] trouble with accentuated characters in \title tag in Rd file,65788,Uwe Ligges
+065794.html,[Rd] large sysdata.rda file --- strategies?,65794,Uwe Ligges
+065809.html,[Rd] Regression stars,65809,Uwe Ligges
+065814.html,[Rd] Regression stars,65814,Uwe Ligges
+065816.html,[Rd] Regression stars,65816,Uwe Ligges
+065959.html,[Rd] two typos in NEWS.Rd,65959,Uwe Ligges
+065739.html,[Rd] Error building R from SVN - unable to run 'pdflatex' on	'example-1.tex',65739,Jonathon Love
+065743.html,[Rd] Error building R from SVN - unable to run 'pdflatex' on 'example-1.tex',65743,Jonathon Love
+065755.html,[Rd] Error building R from SVN - unable to run 'pdflatex' on 'example-1.tex',65755,Jonathon Love
+065828.html,[Rd] stopping finalizers,65828,Thomas Lumley
+065850.html,[Rd] stopping finalizers,65850,Thomas Lumley
+065872.html,[Rd] stopping finalizers,65872,Thomas Lumley
+065874.html,[Rd] stopping finalizers,65874,Thomas Lumley
+066004.html,[Rd] S3 generics in packages: default method,66004,Thomas Lumley
+066007.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),66007,Thomas Lumley
+065760.html,[Rd] best practice for packages using mclapply to avoid tcltk,65760,Martin Maechler
+065937.html,[Rd] Using SQLBulkOperations in RODBC,65937,Alireza Mahani
+065894.html,[Rd] Passing R code from webpage,65894,Mike Marchywka
+065905.html,[Rd] Passing R code from webpage,65905,Mike Marchywka
+065908.html,[Rd] Passing R code from webpage,65908,Mike Marchywka
+065910.html,[Rd] Passing R code from webpage,65910,Mike Marchywka
+065787.html,[Rd] Regression stars,65787,Norm Matloff
+065791.html,[Rd] Regression stars,65791,Norm Matloff
+065995.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65995,Steven McKinney
+065904.html,[Rd] Passing R code from webpage,65904,Pulkit Mehrotra
+065785.html,[Rd] Arguments passing through dot-dot-dot lose ability to	check for missing()?,65785,Peter Meilstrup
+065932.html,[Rd] quote() vs quote(expr=),65932,Peter Meilstrup
+066000.html,[Rd] Fortune?,66000,Joris Meys
+065734.html,[Rd] setGeneric() gives &quot;must supply skeleton&quot; when checking package,65734,Martin Morgan
+065735.html,[Rd] setGeneric() gives &quot;must supply skeleton&quot; when checking package,65735,Martin Morgan
+065764.html,[Rd] How to NAMESPACE OS-specific importFrom?,65764,Martin Morgan
+065965.html,[Rd] Recommended way to call/import functions from a Suggested package,65965,Martin Morgan
+065741.html,[Rd] Error building R from SVN - unable to run 'pdflatex' on 'example-1.tex',65741,Duncan Murdoch
+065746.html,[Rd] R-lang edit: deparse(1:2) is no longer a good example of the R parser's non-invertibility,65746,Duncan Murdoch
+065795.html,[Rd] Regression stars,65795,Duncan Murdoch
+065799.html,[Rd] stringsAsFactors,65799,Duncan Murdoch
+065802.html,[Rd] stringsAsFactors,65802,Duncan Murdoch
+065811.html,[Rd] Regression stars,65811,Duncan Murdoch
+065817.html,[Rd] Regression stars,65817,Duncan Murdoch
+065826.html,[Rd] Regression stars,65826,Duncan Murdoch
+065834.html,[Rd] Regression stars,65834,Duncan Murdoch
+065836.html,[Rd] stringsAsFactors,65836,Duncan Murdoch
+065838.html,[Rd] stringsAsFactors,65838,Duncan Murdoch
+065842.html,[Rd] Regression stars,65842,Duncan Murdoch
+065846.html,"[Rd] VignetteBuilder: Unlike other package fields, it does not support version specifiers",65846,Duncan Murdoch
+065856.html,[Rd] Suggestion: Custom filename patterns for non-Sweave	vignettes,65856,Duncan Murdoch
+065870.html,[Rd] Suggestion: Custom filename patterns for non-Sweave	vignettes,65870,Duncan Murdoch
+065880.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65880,Duncan Murdoch
+065885.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65885,Duncan Murdoch
+065888.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65888,Duncan Murdoch
+065901.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65901,Duncan Murdoch
+065930.html,[Rd] Including modified R source code in a package,65930,Duncan Murdoch
+065955.html,[Rd] Registering native routines,65955,Duncan Murdoch
+065972.html,[Rd] Running R scripts with interactive-style evaluation,65972,Duncan Murdoch
+065973.html,[Rd] double bracket stripping names,65973,Duncan Murdoch
+065745.html,[Rd] R-lang edit: deparse(1:2) is no longer a good example of the R parser's non-invertibility,65745,Josh O'Brien
+065768.html,[Rd] It's a BUG or a Feature? Generating seq break	comparing	operators,65768,Jari Oksanen
+065991.html,[Rd] Keeping up to date with R-devel,65991,Jari Oksanen
+065825.html,[Rd] Regression stars,65825,Herv&#233; Pag&#232;s
+065827.html,[Rd] Regression stars,65827,Herv&#233; Pag&#232;s
+065977.html,[Rd] Recommended way to call/import functions from a Suggested package,65977,Herv&#233; Pag&#232;s
+065979.html,[Rd] Recommended way to call/import functions from a Suggested package,65979,Herv&#233; Pag&#232;s
+065980.html,[Rd] double bracket stripping names,65980,Herv&#233; Pag&#232;s
+065983.html,[Rd] Recommended way to call/import functions from a Suggested package,65983,Herv&#233; Pag&#232;s
+065890.html,[Rd] Passing R code from webpage,65890,Matevz Pavlic
+065896.html,[Rd] Passing R code from webpage,65896,Matevz Pavlic
+065898.html,[Rd] Passing R code from webpage,65898,Matevz Pavlic
+065902.html,[Rd] Passing R code from webpage,65902,Matevz Pavlic
+065903.html,[Rd] Passing R code from webpage,65903,Matevz Pavlic
+065907.html,[Rd] Passing R code from webpage,65907,Matevz Pavlic
+065909.html,[Rd] Passing R code from webpage,65909,Matevz Pavlic
+065914.html,[Rd] Passing R code from webpage,65914,Matevz Pavlic
+065916.html,[Rd] Passing R code from webpage,65916,Matevz Pavlic
+065926.html,[Rd] Passing R code from webpage,65926,Matevz Pavlic
+065780.html,[Rd] r-forge,65780,Edzer Pebesma
+065766.html,[Rd] It's a BUG or a Feature? Generating seq break comparing	operators,65766,Davide Rambaldi
+065769.html,[Rd] It's a BUG or a Feature? Generating seq break comparing	operators,65769,Davide Rambaldi
+065984.html,[Rd] Keeping up to date with R-devel,65984,Renaud
+065989.html,[Rd] Keeping up to date with R-devel,65989,Renaud
+065742.html,[Rd] [R] gettext weirdness,65742,Prof Brian Ripley
+065744.html,[Rd] Error building R from SVN - unable to run 'pdflatex' on 'example-1.tex',65744,Prof Brian Ripley
+065765.html,[Rd] How to NAMESPACE OS-specific importFrom?,65765,Prof Brian Ripley
+065776.html,[Rd] ClassNotFoundException when running distributed job using rJava package,65776,Prof Brian Ripley
+065783.html,[Rd] Localization of Rd files,65783,Prof Brian Ripley
+065943.html,[Rd] limitations to random number generator in 64-bits machines,65943,Prof Brian Ripley
+065970.html,[Rd] double bracket stripping names,65970,Prof Brian Ripley
+065750.html,[Rd] Contract Syntactic Sugar,65750,Brian Lee Yung Rowe
+065753.html,[Rd] Contract Syntactic Sugar,65753,Brian Lee Yung Rowe
+065818.html,[Rd] Regression stars,65818,Brian Lee Yung Rowe
+065772.html,[Rd] large sysdata.rda file --- strategies?,65772,Dr. Peter Ruckdeschel
+065796.html,[Rd] large sysdata.rda file --- strategies?,65796,Dr. Peter Ruckdeschel
+065900.html,[Rd] Passing R code from webpage,65900,Jeff Ryan
+065855.html,[Rd] Building R from source under Mac OS X 10.8.2?,65855,Dominick Samperi
+065862.html,[Rd] Building R from source under Mac OS X 10.8.2?,65862,Dominick Samperi
+065773.html,[Rd] Regression stars,65773,Marc Schwartz
+065892.html,[Rd] Passing R code from webpage,65892,Marc Schwartz
+065961.html,[Rd] png() problem with R-devel on Mac,65961,Dan Tenenbaum
+065779.html,[Rd] regression stars,65779,Terry Therneau
+065797.html,[Rd] stringsAsFactors,65797,Terry Therneau
+065800.html,[Rd] stringsAsFactors,65800,Terry Therneau
+065804.html,[Rd] stringsAsFactors,65804,Terry Therneau
+065912.html,[Rd] Small suggestion for termplot,65912,Terry Therneau
+065945.html,[Rd] Registering native routines,65945,Terry Therneau
+065960.html,[Rd] Registering native routines,65960,Terry Therneau
+065763.html,"[Rd] [R] slotName defined in object, present in instance, but inaccessible [SCL:4]",65763,"Tim Triche, Jr."
+065789.html,[Rd] Regression stars,65789,"Tim Triche, Jr."
+065790.html,[Rd] Regression stars,65790,"Tim Triche, Jr."
+065822.html,[Rd] Regression stars,65822,"Tim Triche, Jr."
+065954.html,[Rd] Recommended way to call/import functions from a Suggested package,65954,Berwin A Turlach
+065875.html,[Rd] Matrix does not build with R trunk since Oct.,65875,Joshua Ulrich
+065736.html,[Rd] best practice for packages using mclapply to avoid tcltk,65736,Simon Urbanek
+065823.html,[Rd] Regression stars,65823,Simon Urbanek
+065851.html,[Rd] stopping finalizers,65851,Simon Urbanek
+065857.html,[Rd] Building R from source under Mac OS X 10.8.2?,65857,Simon Urbanek
+065859.html,[Rd] Matrix does not build with R trunk since Oct.,65859,Simon Urbanek
+065864.html,[Rd] Matrix does not build with R trunk since Oct.,65864,Simon Urbanek
+065868.html,[Rd] Matrix does not build with R trunk since Oct.,65868,Simon Urbanek
+065879.html,[Rd] Matrix does not build with R trunk since Oct.,65879,Simon Urbanek
+065886.html,[Rd] Matrix does not build with R trunk since Oct.,65886,Simon Urbanek
+065893.html,[Rd] Passing R code from webpage,65893,Simon Urbanek
+065895.html,[Rd] Passing R code from webpage,65895,Simon Urbanek
+065897.html,[Rd] Passing R code from webpage,65897,Simon Urbanek
+065899.html,[Rd] Passing R code from webpage,65899,Simon Urbanek
+065911.html,[Rd] Passing R code from webpage,65911,Simon Urbanek
+065918.html,[Rd] Passing R code from webpage,65918,Simon Urbanek
+065939.html,[Rd] GC encountered a node (&#8230;) with an unknown SEXP type,65939,Simon Urbanek
+065952.html,[Rd] Recommended way to call/import functions from a Suggested	package,65952,Simon Urbanek
+065958.html,[Rd] Issues with installing RBGL package,65958,Simon Urbanek
+065978.html,[Rd] Recommended way to call/import functions from a Suggested	package,65978,Simon Urbanek
+065981.html,[Rd] Recommended way to call/import functions from a Suggested	package,65981,Simon Urbanek
+065986.html,[Rd] Recommended way to call/import functions from a Suggested	package,65986,Simon Urbanek
+065987.html,[Rd] Keeping up to date with R-devel,65987,Simon Urbanek
+065813.html,[Rd] Regression stars,65813,Ravi Varadhan
+065821.html,[Rd] Regression stars,65821,Ravi Varadhan
+066002.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),66002,Ravi Varadhan
+065936.html,[Rd] R_CHECK_FUNCS,65936,Patrick Welche
+065767.html,[Rd] It's a BUG or a Feature? Generating seq break comparing	operators,65767,R. Michael Weylandt
+065808.html,[Rd] Private environments and/or assignInMyNamespace,65808,Hadley Wickham
+065853.html,[Rd] stopping finalizers,65853,Hadley Wickham
+065860.html,[Rd] match.call() and missing arguments in ...,65860,Hadley Wickham
+065861.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65861,Hadley Wickham
+065873.html,[Rd] stopping finalizers,65873,Hadley Wickham
+065881.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65881,Hadley Wickham
+065882.html,[Rd] Printing of anonymous functions in calls is sub-optimal,65882,Hadley Wickham
+065883.html,[Rd] Matrix does not build with R trunk since Oct.,65883,Hadley Wickham
+065913.html,[Rd] Passing R code from webpage,65913,Hadley Wickham
+065915.html,[Rd] quote() vs quote(expr=),65915,Hadley Wickham
+065919.html,[Rd] quote() vs quote(expr=),65919,Hadley Wickham
+065922.html,[Rd] quote() vs quote(expr=),65922,Hadley Wickham
+065923.html,[Rd] quote() vs quote(expr=),65923,Hadley Wickham
+065925.html,[Rd] quote() vs quote(expr=),65925,Hadley Wickham
+065927.html,[Rd] Including modified R source code in a package,65927,Hadley Wickham
+065947.html,[Rd] Recommended way to call/import functions from a Suggested	package,65947,Hadley Wickham
+065953.html,[Rd] Recommended way to call/import functions from a Suggested	package,65953,Hadley Wickham
+065964.html,[Rd] Recommended way to call/import functions from a Suggested	package,65964,Hadley Wickham
+065966.html,[Rd] Recommended way to call/import functions from a Suggested	package,65966,Hadley Wickham
+065975.html,[Rd] double bracket stripping names,65975,Hadley Wickham
+065948.html,[Rd] Recommended way to call/import functions from a Suggested	package,65948,David Winsemius
+065949.html,[Rd] Recommended way to call/import functions from a Suggested	package,65949,David Winsemius
+065805.html,[Rd] stringsAsFactors,65805,Ista Zahn
+065833.html,[Rd] stringsAsFactors,65833,Ista Zahn
+065941.html,[Rd] limitations to random number generator in 64-bits machines,65941,Mauricio Zambrano-Bigiarini
+065944.html,[Rd] limitations to random number generator in 64-bits machines,65944,Mauricio Zambrano-Bigiarini
+065728.html,[Rd] CRAN task views: markdown? better .CSS?,65728,Achim Zeileis
+066003.html,[Rd] Fortune?,66003,Achim Zeileis
+065761.html,[Rd] best practice for packages using mclapply to avoid tcltk,65761,peter dalgaard
+065803.html,[Rd] stringsAsFactors,65803,peter dalgaard
+065819.html,[Rd] Regression stars,65819,peter dalgaard
+065831.html,[Rd] Regression stars,65831,peter dalgaard
+065917.html,[Rd] quote() vs quote(expr=),65917,peter dalgaard
+065920.html,[Rd] quote() vs quote(expr=),65920,peter dalgaard
+065931.html,[Rd] quote() vs quote(expr=),65931,peter dalgaard
+065993.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65993,peter dalgaard
+065997.html,[Rd] nobs() with glm(family=&quot;poisson&quot;),65997,peter dalgaard
+065928.html,[Rd] best way to extract this meaningful data from a table,65928,bryan rasmussen
+065956.html,[Rd] Issues with installing RBGL package,65956,jason tyler
+065848.html,[Rd] stopping finalizers,65848,luke-tierney at uiowa.edu
+065921.html,[Rd] quote() vs quote(expr=),65921,luke-tierney at uiowa.edu
+065924.html,[Rd] quote() vs quote(expr=),65924,luke-tierney at uiowa.edu
+065748.html,[Rd] Contract Syntactic Sugar,65748,ivo welch
+065751.html,[Rd] Contract Syntactic Sugar,65751,ivo welch
+065756.html,[Rd] Money,65756,ivo welch
+065940.html,[Rd] Query over .Fortran call,65940,jing hua zhao

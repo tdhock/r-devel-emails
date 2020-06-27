@@ -1,0 +1,458 @@
+link,Subject,id,author
+042880.html,[Rd] Building R-2.3.1 for Windows with ATLAS,42880,Giuseppe Antonaci
+042778.html,[Rd] Sweave processes \Sexpr in commented LaTeX source	(2.3.1patched and 2.4.0),42778,"Antonio, Fabio Di Narzo"
+042835.html,[Rd] package that has a subdirectory in src,42835,"Armstrong, Whit"
+042849.html,"[Rd] alpha, portable use",42849,Douglas Bates
+042619.html,[Rd] Complete documentation gram.y ??,42619,Patricia Bautista
+042692.html,[Rd] Evaluating R expresions from C,42692,Patricia Bautista
+042894.html,"[Rd] eval(SEXP fn,SEXP rho) in C++ code",42894,Patricia Bautista
+042541.html,[Rd] Unexpected source() behavior in R-devel,42541,Henrik Bengtsson
+042546.html,[Rd] Unexpected source() behavior in R-devel,42546,Henrik Bengtsson
+042616.html,[Rd] R CMD check: unstated dependence on a standard package.,42616,Henrik Bengtsson
+042672.html,"[Rd] example(..., ask=getOption(&quot;example.ask&quot;))",42672,Henrik Bengtsson
+042762.html,[Rd] wishlist --- menu entry [Rgui] misc --- stop current	computation,42762,Henrik Bengtsson
+042823.html,[Rd] Parsing of 10xff,42823,Henrik Bengtsson
+042859.html,[Rd] R CMD check and x11?,42859,Henrik Bengtsson
+042889.html,[Rd] S4 accessors,42889,Henrik Bengtsson
+042495.html,[Rd] S4 changes - sp fails,42495,Roger Bivand
+042497.html,[Rd] S4 changes - sp fails,42497,Roger Bivand
+042506.html,[Rd] S4 changes - sp fails,42506,Roger Bivand
+042533.html,[Rd] S4 changes - sp fails,42533,Roger Bivand
+042872.html,[Rd] standardization of slot access,42872,Roger Bivand
+042854.html,[Rd] S4 accessors,42854,Ross Boylan
+042855.html,[Rd] S4 accessors (corrected),42855,Ross Boylan
+042865.html,[Rd] S4 accessors,42865,Ross Boylan
+042890.html,[Rd] S4 accessors,42890,Ross Boylan
+042845.html,[Rd] apply: new behaviour for factors in R-2.4.0,42845,Christoph Buser
+042906.html,[Rd] apply: new behaviour for factors in R-2.4.0,42906,Christoph Buser
+042801.html,[Rd] Help understanding how nls parses the formula argument to estimate the model,42801,Joe Byers
+042511.html,[Rd] S4 changes - sp fails,42511,John Chambers
+042531.html,[Rd] Update on S4 Method dispatch changes,42531,John Chambers
+042535.html,[Rd] Internal flag for S4 objects,42535,John Chambers
+042574.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42574,John Chambers
+042577.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42577,John Chambers
+042608.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42608,John Chambers
+042612.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42612,John Chambers
+042615.html,[Rd] Matrix package in R-2.4.0alpha,42615,John Chambers
+042638.html,[Rd] S4 Method dispatch in recent 2.4.0alpha,42638,John Chambers
+042678.html,[Rd] S4 Method dispatch in recent 2.4.0alpha,42678,John Chambers
+042699.html,[Rd] attributes of S4 objects,42699,John Chambers
+042702.html,[Rd] setMethod() woes,42702,John Chambers
+042759.html,[Rd] Help for methods,42759,John Chambers
+042793.html,"[Rd] S4 generics, modify() generic and modifyList() ...",42793,John Chambers
+042830.html,[Rd] generics for primitive functions,42830,John Chambers
+042879.html,[Rd] S4 accessors,42879,John Chambers
+042884.html,[Rd] S4 accessors,42884,John Chambers
+042903.html,[Rd] S4 accessors,42903,John Chambers
+042838.html,[Rd] generics for primitive functions,42838,Pr. Jean-Michel Collard
+042501.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42501,Peter Dalgaard
+042509.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42509,Peter Dalgaard
+042536.html,"[Rd] lm, weights and ...",42536,Peter Dalgaard
+042540.html,[Rd] Unexpected source() behavior in R-devel,42540,Peter Dalgaard
+042542.html,[Rd] Unexpected source() behavior in R-devel,42542,Peter Dalgaard
+042555.html,[Rd] Unexpected source() behavior in R-devel,42555,Peter Dalgaard
+042557.html,[Rd] Start of release process for R 2.4.0,42557,Peter Dalgaard
+042571.html,[Rd] ISwR (PR#9204),42571,Peter Dalgaard
+042605.html,[Rd] JPEG struct mismatch on Intel Macs (PR#9209),42605,Peter Dalgaard
+042630.html,"[Rd] install.packages(,type=&quot;source&quot;) broken on Windows",42630,Peter Dalgaard
+042636.html,[Rd] [R] function changes argument (PR#9216),42636,Peter Dalgaard
+042696.html,[Rd] Question about substitute() and function def,42696,Peter Dalgaard
+042712.html,[Rd] Ice cream flavor metaphor in statistical computing,42712,Peter Dalgaard
+042726.html,[Rd] Legend frame error (PR#9236),42726,Peter Dalgaard
+042739.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42739,Peter Dalgaard
+042769.html,[Rd] mgcv in R-2.4.0.alpha,42769,Peter Dalgaard
+042770.html,[Rd] Sweave processes \Sexpr in commented LaTeX	source	(2.3.1patched	and 2.4.0),42770,Peter Dalgaard
+042840.html,[Rd] Problem with tcltk package: tclfile.dir missing?,42840,Peter Dalgaard
+042843.html,[Rd] sprintf behavior (PR#9250),42843,Peter Dalgaard
+042844.html,[Rd] sprintf behavior (PR#9250),42844,Peter Dalgaard
+042907.html,[Rd] Warning on backslash sequences (was sprintf behavior),42907,Peter Dalgaard
+042910.html,[Rd] Warning on backslash sequences (was sprintf behavior),42910,Peter Dalgaard
+042945.html,[Rd] Strange behaviour of the [[ operator,42945,Peter Dalgaard
+042539.html,[Rd] Unexpected source() behavior in R-devel,42539,Sean Davis
+042543.html,[Rd] Unexpected source() behavior in R-devel,42543,Sean Davis
+042545.html,[Rd] Unexpected source() behavior in R-devel,42545,Sean Davis
+042554.html,[Rd] Unexpected source() behavior in R-devel,42554,Sean Davis
+042917.html,[Rd] Accesing R c-code,42917,Sean Davis
+042665.html,[Rd] R Citation through time,42665,Ioannis Dimakos
+042861.html,[Rd] Not all functions work in RSPerl package?,42861,Xianjun Dong
+042604.html,[Rd] enhancement request for labeling help windows in Windows,42604,Bill Dunlap
+042625.html,[Rd] (PR#9202) Re: Bugs with partial name matching,42625,Bill Dunlap
+042691.html,[Rd] Question about substitute() and function def,42691,Bill Dunlap
+042693.html,[Rd] Question about substitute() and function def,42693,Bill Dunlap
+042863.html,[Rd] sprintf behavior (PR#9250),42863,Bill Dunlap
+042882.html,[Rd] Warning on backslash sequences (was sprintf behavior),42882,Bill Dunlap
+042914.html,[Rd] Warning on backslash sequences (was sprintf behavior),42914,Bill Dunlap
+042512.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42512,Dirk Eddelbuettel
+042720.html,"[Rd] R 2.4.0, methods and rebuild management",42720,Dirk Eddelbuettel
+042723.html,"[Rd] R 2.4.0, methods and rebuild management",42723,Dirk Eddelbuettel
+042808.html,[Rd] validity testing as part of '@&lt;-',42808,Byron Ellis
+042544.html,[Rd] Unexpected source() behavior in R-devel,42544,Seth Falcon
+042553.html,[Rd] Unexpected source() behavior in R-devel,42553,Seth Falcon
+042558.html,[Rd] Unexpected source() behavior in R-devel,42558,Seth Falcon
+042661.html,[Rd] problems in installing packages with R version 2.4.0 alpha	(2006-09-05 r39134),42661,Seth Falcon
+042688.html,[Rd] Question about substitute() and function def,42688,Seth Falcon
+042776.html,[Rd] Sweave processes \Sexpr in commented LaTeX	source	(2.3.1patched	and 2.4.0),42776,Seth Falcon
+042779.html,[Rd] Sweave processes \Sexpr in commented LaTeX source	(2.3.1patched and 2.4.0),42779,Seth Falcon
+042797.html,[Rd] Sweave processes \Sexpr in commented LaTeX source,42797,Seth Falcon
+042803.html,[Rd] Package dependencies and imports,42803,Seth Falcon
+042809.html,[Rd] Possible bug in base::namespaceImportFrom?,42809,Seth Falcon
+042839.html,[Rd] Problem with tcltk package: tclfile.dir missing?,42839,Seth Falcon
+042858.html,[Rd] S4 accessors,42858,Seth Falcon
+042864.html,[Rd] S4 accessors,42864,Seth Falcon
+042883.html,[Rd] S4 accessors,42883,Seth Falcon
+042895.html,"[Rd] eval(SEXP fn,SEXP rho) in C++ code",42895,Seth Falcon
+042905.html,[Rd] R CMD build when the package name is different from the	directory name,42905,Seth Falcon
+042944.html,[Rd] Strange behaviour of the [[ operator,42944,Seth Falcon
+042798.html,[Rd] Package dependencies and imports,42798,John Fox
+042804.html,[Rd] Package dependencies and imports,42804,John Fox
+042815.html,[Rd] Package dependencies and imports,42815,John Fox
+042862.html,[Rd] modifs on ls,42862,Romain Francois
+042559.html,[Rd] setMethod(&quot;Summary&quot;),42559,Parlamis Franklin
+042683.html,[Rd] attributes of S4 objects,42683,Parlamis Franklin
+042781.html,[Rd] residual '*tmp*' variable after &quot;[&lt;-&quot; error,42781,Parlamis Franklin
+042806.html,[Rd] validity testing as part of '@&lt;-',42806,Parlamis Franklin
+042824.html,[Rd] validity testing as part of '@&lt;-',42824,Parlamis Franklin
+042827.html,[Rd] generics for primitive functions,42827,Parlamis Franklin
+042831.html,[Rd] generics for primitive functions,42831,Parlamis Franklin
+042891.html,[Rd] potential setClass bug (with user-defined environment),42891,Parlamis Franklin
+042690.html,[Rd] Question about substitute() and function def,42690,Robert Gentleman
+042946.html,[Rd] Strange behaviour of the [[ operator,42946,Robert Gentleman
+042684.html,[Rd] digits in summary.default,42684,Simone Giannerini
+042782.html,"[Rd] alpha, portable use",42782,Paul Gilbert
+042847.html,"[Rd] alpha, portable use",42847,Paul Gilbert
+042850.html,"[Rd] alpha, portable use",42850,Paul Gilbert
+042514.html,[Rd] R crashes in Mac OS 10.4 when Find is used (PR#9192),42514,Rob J Goedman
+042529.html,[Rd] [&lt;-.POSIXlt changes order of attributes (PR#9197),42529,Gregor Gorjanc
+042530.html,[Rd] [&lt;-.POSIXlt changes order of attributes (PR#9197),42530,Gregor Gorjanc
+042646.html,[Rd] R Citation through time,42646,Gregor Gorjanc
+042659.html,[Rd] R Citation through time,42659,Gregor Gorjanc
+042667.html,[Rd] R Citation through time,42667,Gregor Gorjanc
+042671.html,[Rd] Error: package/namespace load failed for 'fortunes',42671,Gregor Gorjanc
+042673.html,[Rd] [Fwd: Byte size in human readable format],42673,Gregor Gorjanc
+042682.html,[Rd] R-devel: rownames of a data.frame,42682,Gregor Gorjanc
+042724.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42724,Gregor Gorjanc
+042734.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42734,Gregor Gorjanc
+042744.html,[Rd] Help for methods,42744,Gregor Gorjanc
+042852.html,[Rd] na.encode in format for Date and POSIXt classes,42852,Gregor Gorjanc
+042885.html,[Rd] S3 methods for cbind/rbind,42885,Vincent Goulet
+042887.html,[Rd] S3 methods for cbind/rbind,42887,Vincent Goulet
+042503.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42503,Gabor Grothendieck
+042525.html,[Rd] R svn log problem,42525,Gabor Grothendieck
+042527.html,[Rd] typo in as.POSIXlt.Rd example,42527,Gabor Grothendieck
+042538.html,"[Rd] lm, weights and ...",42538,Gabor Grothendieck
+042575.html,[Rd] Capturing warnings with capture.output,42575,Gabor Grothendieck
+042623.html,[Rd] Extending [ method to S4 class and drop argument (PR#9211),42623,Gabor Grothendieck
+042647.html,[Rd] unexpected behaviour when defining a function,42647,Gabor Grothendieck
+042648.html,[Rd] unexpected behaviour when defining a function,42648,Gabor Grothendieck
+042729.html,[Rd] An update method for lists?,42729,Gabor Grothendieck
+042746.html,[Rd] Help for methods,42746,Gabor Grothendieck
+042761.html,[Rd] An update method for lists?,42761,Gabor Grothendieck
+042868.html,[Rd] standardization of slot access,42868,Gabor Grothendieck
+042886.html,[Rd] S3 methods for cbind/rbind,42886,Gabor Grothendieck
+042888.html,[Rd] S3 methods for cbind/rbind,42888,Gabor Grothendieck
+042900.html,[Rd] R CMD build when the package name is different from the	directory name,42900,Gabor Grothendieck
+042902.html,[Rd] Warning on backslash sequences (was sprintf behavior),42902,Gabor Grothendieck
+042908.html,[Rd] R CMD build when the package name is different from the	directory name,42908,Gabor Grothendieck
+042909.html,[Rd] Warning on backslash sequences (was sprintf behavior),42909,Gabor Grothendieck
+042931.html,[Rd] Warning: a final empty element has been omitted,42931,Gabor Grothendieck
+042932.html,[Rd] Warning: a final empty element has been omitted,42932,Gabor Grothendieck
+042579.html,[Rd] CRAN problem,42579,Kjetil Halvorsen
+042613.html,[Rd] Matrix package in R-2.4.0alpha,42613,Kjetil Halvorsen
+042755.html,[Rd] wishlist --- menu entry [Rgui] misc --- stop current	computation,42755,Kjetil Halvorsen
+042760.html,[Rd] wishlist --- menu entry [Rgui] misc --- stop current	computation,42760,Kjetil Halvorsen
+042764.html,[Rd] mgcv in R-2.4.0.alpha,42764,Kjetil Halvorsen
+042773.html,[Rd] mgcv in R-2.4.0.alpha,42773,Kjetil Halvorsen
+042774.html,[Rd] mgcv in R-2.4.0.alpha,42774,Kjetil Halvorsen
+042851.html,[Rd] buglet in ?asin,42851,Kjetil Halvorsen
+042505.html,[Rd] as.environment(NULL),42505,Robin Hankin
+042513.html,"[Rd] setMethod(&quot;Logic&quot;, ...)",42513,Robin Hankin
+042547.html,"[Rd] setMethod(&quot;Logic&quot;, ...)",42547,Robin Hankin
+042552.html,[Rd] setMethod(&quot;Summary&quot;),42552,Robin Hankin
+042565.html,[Rd] setMethod(&quot;Summary&quot;),42565,Robin Hankin
+042572.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42572,Robin Hankin
+042599.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42599,Robin Hankin
+042610.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42610,Robin Hankin
+042653.html,[Rd] package.skeleton() in R-2.4.1,42653,Robin Hankin
+042701.html,[Rd] setMethod() woes,42701,Robin Hankin
+042786.html,[Rd] printing of complex numbers in R-alpha,42786,Robin Hankin
+042789.html,[Rd] typesetting a matrix in an Rd file,42789,Robin Hankin
+042792.html,[Rd] printing of complex numbers in R-alpha,42792,Robin Hankin
+042564.html,[Rd] Two submitted packages,42564,Richard M. Heiberger
+042588.html,[Rd] Two submitted packages,42588,Richard M. Heiberger
+042589.html,[Rd] enhancement request for labeling help windows in Windows,42589,Richard M. Heiberger
+042593.html,[Rd] enhancement request for labeling help windows in Windows,42593,Richard M. Heiberger
+042594.html,[Rd] Two submitted packages,42594,Richard M. Heiberger
+042641.html,[Rd] problems in installing packages with R version 2.4.0 alpha (2006-09-05 r39134),42641,Richard M. Heiberger
+042948.html,[Rd] newly introduced lattice bug,42948,Richard M. Heiberger
+042834.html,[Rd] change in output wording causes make check to fail,42834,Kevin B. Hendricks
+042898.html,[Rd] R CMD build when the package name is different from the	directory name,42898,Arne Henningsen
+042904.html,[Rd] R CMD build when the package name is different from the	directory name,42904,Arne Henningsen
+042920.html,[Rd] R CMD build when the package name is different from the	directory name,42920,Arne Henningsen
+042493.html,[Rd] Overriding InitTempDir,42493,Jeffrey Horner
+042517.html,[Rd] Overriding InitTempDir,42517,Jeffrey Horner
+042524.html,[Rd] Overriding InitTempDir,42524,Jeffrey Horner
+042675.html,[Rd] Error: package/namespace load failed for 'fortunes',42675,Jeffrey Horner
+042677.html,[Rd] No more autload() calls in .First.sys() ?,42677,Jeffrey Horner
+042710.html,[Rd] Ice cream flavor metaphor in statistical computing,42710,Jeffrey Horner
+042933.html,[Rd] Possible bug in Rcons_vprintf,42933,Jeffrey Horner
+042617.html,[Rd] R CMD check: unstated dependence on a standard package.,42617,Kurt Hornik
+042569.html,[Rd] Typo in print.default.Rd,42569,Torsten Hothorn
+042697.html,[Rd] digits in summary.default,42697,Karl Ove Hufthammer
+042911.html,[Rd] unable to load lapack.so,42911,Hiroyuki Kawakatsu
+042921.html,[Rd] unable to load lapack.so,42921,Hiroyuki Kawakatsu
+042548.html,[Rd] R-Project logo in SVG format,42548,Friedrich Leisch
+042550.html,[Rd] R-Project logo in SVG format,42550,Friedrich Leisch
+042652.html,[Rd] R Citation through time,42652,Friedrich Leisch
+042670.html,[Rd] R Citation through time,42670,Friedrich Leisch
+042768.html,[Rd] Sweave processes \Sexpr in commented LaTeX	source	(2.3.1patched	and 2.4.0),42768,Friedrich Leisch
+042796.html,[Rd] Sweave processes \Sexpr in commented LaTeX	source	(2.3.1patched and 2.4.0),42796,Friedrich Leisch
+042658.html,[Rd] Memory problems with a custom R package,42658,Hin-Tak Leung
+042740.html,[Rd] Help for methods,42740,Hin-Tak Leung
+042715.html,[Rd] R-base licensing question,42715,Logan Lewis
+042717.html,[Rd] R-base licensing question,42717,Logan Lewis
+042537.html,[Rd] Internal flag for S4 objects,42537,Uwe Ligges
+042640.html,[Rd] Failure to build home-made package on WINDOWS 2000	professional,42640,Uwe Ligges
+042651.html,[Rd] problems in installing packages with R version 2.4.0 alpha (2006-09-05 r39134),42651,Uwe Ligges
+042821.html,[Rd] NAMESPACE,42821,Uwe Ligges
+042923.html,[Rd] R CMD build when the package name is different from the directory name,42923,Uwe Ligges
+042924.html,[Rd] Build error/zlib question,42924,Uwe Ligges
+042586.html,[Rd] (PR#9202) Re: Bugs with partial name matching during partial,42586,Thomas Lumley
+042587.html,[Rd] (PR#9202) Re: Bugs with partial name matching,42587,Thomas Lumley
+042624.html,[Rd] (PR#9202) Re: Bugs with partial name matching,42624,Thomas Lumley
+042825.html,[Rd] validity testing as part of '@&lt;-',42825,Thomas Lumley
+042878.html,[Rd] time_t handling in R,42878,Thomas Lumley
+042928.html,[Rd] error location,42928,Thomas Lumley
+042867.html,[Rd] standardization of slot access,42867,Sebastian P. Luque
+042871.html,[Rd] standardization of slot access,42871,Sebastian P. Luque
+042704.html,[Rd] pdf default version,42704,Marc Schwartz (via MN)
+042705.html,[Rd] pdf default version,42705,Marc Schwartz (via MN)
+042711.html,[Rd] Ice cream flavor metaphor in statistical computing,42711,Marc Schwartz (via MN)
+042775.html,[Rd] Sweave processes \Sexpr in commented LaTeX	source	(2.3.1patched	and 2.4.0),42775,Marc Schwartz (via MN)
+042800.html,[Rd] Sweave processes \Sexpr in commented	LaTeX	source	(2.3.1patched and 2.4.0),42800,Marc Schwartz (via MN)
+042802.html,[Rd] Sweave processes \Sexpr in commented LaTeX source,42802,Marc Schwartz (via MN)
+042919.html,[Rd] Build error/zlib question,42919,James MacDonald
+042817.html,[Rd] R CMD build question,42817,James W. MacDonald
+042927.html,[Rd] Build error/zlib question,42927,James W. MacDonald
+042523.html,[Rd] R-Project logo in SVG format,42523,Don MacQueen
+042551.html,"[Rd] setMethod(&quot;Logic&quot;, ...)",42551,Martin Maechler
+042566.html,[Rd] setMethod(&quot;Summary&quot;),42566,Martin Maechler
+042576.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42576,Martin Maechler
+042598.html,[Rd] (PR#9202) Re: Bugs with partial name matching,42598,Martin Maechler
+042611.html,[Rd] setMethod(&quot;c&quot;) [was: setMethod(&quot;Summary&quot;)],42611,Martin Maechler
+042618.html,[Rd] [R] R drop behavior -- set as option in later version?,42618,Martin Maechler
+042650.html,[Rd] problems in installing packages with R version 2.4.0 alpha	(2006-09-05 r39134),42650,Martin Maechler
+042655.html,[Rd] problems in installing packages with R version 2.4.0 alpha	(2006-09-05 r39134),42655,Martin Maechler
+042695.html,[Rd] digits in summary.default,42695,Martin Maechler
+042707.html,[Rd] An update method for lists?,42707,Martin Maechler
+042713.html,[Rd] Ice cream flavor metaphor in statistical computing,42713,Martin Maechler
+042772.html,[Rd] mgcv in R-2.4.0.alpha,42772,Martin Maechler
+042787.html,"[Rd] S4 generics, modify() generic and modifyList() ...",42787,Martin Maechler
+042790.html,[Rd] printing of complex numbers in R-alpha,42790,Martin Maechler
+042799.html,[Rd] Package dependencies and imports,42799,Martin Maechler
+042811.html,[Rd] Possible bug in base::namespaceImportFrom?,42811,Martin Maechler
+042812.html,[Rd] Package dependencies and imports,42812,Martin Maechler
+042818.html,[Rd] R CMD build question,42818,Martin Maechler
+042940.html,[Rd] Possible bug in Rcons_vprintf,42940,Martin Maechler
+042941.html,[Rd] Strange behaviour of the [[ operator,42941,Martin Maechler
+042597.html,[Rd] (PR#9202) Re: Bugs with partial name matching,42597,Anil Maliyekkel
+042771.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42771,Jos&#233; Matos
+042656.html,[Rd] Memory problems with a custom R package,42656,Tom McCallum
+042873.html,[Rd] time_t handling in R,42873,Tom McCallum
+042626.html,[Rd] Extending [ method to S4 class and drop argument (PR#9211),42626,Martin Morgan
+042826.html,[Rd] validity testing as part of '@&lt;-',42826,Martin Morgan
+042875.html,[Rd] colnames is slow for data.frames with implicit row.names,42875,Martin Morgan
+042877.html,[Rd] colnames is slow for data.frames with implicit row.names,42877,Martin Morgan
+042893.html,[Rd] potential setClass bug (with user-defined environment),42893,Martin Morgan
+042526.html,[Rd] R svn log problem,42526,Duncan Murdoch
+042590.html,[Rd] enhancement request for labeling help windows in Windows,42590,Duncan Murdoch
+042620.html,[Rd] Complete documentation gram.y ??,42620,Duncan Murdoch
+042689.html,[Rd] Question about substitute() and function def,42689,Duncan Murdoch
+042694.html,[Rd] Question about substitute() and function def,42694,Duncan Murdoch
+042716.html,[Rd] R-base licensing question,42716,Duncan Murdoch
+042743.html,[Rd] Help for methods,42743,Duncan Murdoch
+042753.html,[Rd] Help for methods,42753,Duncan Murdoch
+042758.html,[Rd] Rgui.exe plot device &quot;Save as&quot; crash (PR#9237),42758,Duncan Murdoch
+042780.html,[Rd] seq.Date not accepting NULL length.out (PR#9239),42780,Duncan Murdoch
+042807.html,[Rd] validity testing as part of '@&lt;-',42807,Duncan Murdoch
+042822.html,[Rd] NAMESPACE,42822,Duncan Murdoch
+042937.html,[Rd] Help for methods,42937,Duncan Murdoch
+042947.html,[Rd] Strange behaviour of the [[ operator,42947,Duncan Murdoch
+042591.html,[Rd] Two submitted packages,42591,Paul Murrell
+042596.html,[Rd] Two submitted packages,42596,Paul Murrell
+042515.html,[Rd] Thai locale not working on Mac OSX (PR#9175),42515,Ei-ji Nakama
+042735.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42735,Ei-ji Nakama
+042609.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt,42609,Erich Neuwirth
+042846.html,[Rd] Fwd: Selfstarting models for soil hydrology using R,42846,CHRISTIAN OMUTO
+042635.html,[Rd] S4 Method dispatch in recent 2.4.0alpha,42635,"Oosting, J. (PATH)"
+042669.html,[Rd] S4 Method dispatch in recent 2.4.0alpha,42669,"Oosting, J. (PATH)"
+042679.html,[Rd] S4 Method dispatch in recent 2.4.0alpha,42679,"Oosting, J. (PATH)"
+042916.html,[Rd] Accesing R c-code,42916,Patricia Bautista Otero
+042631.html,"[Rd] install.packages(,type=&quot;source&quot;) broken on Windows",42631,Herve Pages
+042934.html,[Rd] Strange behaviour of the [[ operator,42934,Herve Pages
+042580.html,[Rd] serialize changes for 2.4.0,42580,Roger D. Peng
+042869.html,[Rd] standardization of slot access,42869,Roger D. Peng
+042562.html,[Rd] make test-Specific?,42562,Fran&#231;ois Pinard
+042628.html,[Rd] (PR#9202) Re: Bugs with partial name matching,42628,Tony Plate
+042870.html,[Rd] standardization of slot access,42870,Tony Plate
+042494.html,[Rd] S4 changes - sp fails,42494,Prof Brian Ripley
+042496.html,[Rd] S4 changes - sp fails,42496,Prof Brian Ripley
+042502.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42502,Prof Brian Ripley
+042504.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42504,Prof Brian Ripley
+042507.html,[Rd] as.environment(NULL),42507,Prof Brian Ripley
+042510.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42510,Prof Brian Ripley
+042518.html,[Rd] [&lt;-.POSIXlt changes order of attributes (PR#9197),42518,Prof Brian Ripley
+042519.html,[Rd] Overriding InitTempDir,42519,Prof Brian Ripley
+042520.html,[Rd] Interface for package supplied random number generator,42520,Prof Brian Ripley
+042521.html,"[Rd] setMethod(&quot;Logic&quot;, ...)",42521,Prof Brian Ripley
+042522.html,[Rd] Interface for package supplied random number generator,42522,Prof Brian Ripley
+042528.html,[Rd] [&lt;-.POSIXlt changes order of attributes (PR#9197),42528,Prof Brian Ripley
+042532.html,[Rd] [&lt;-.POSIXlt changes order of attributes (PR#9197),42532,Prof Brian Ripley
+042549.html,"[Rd] setMethod(&quot;Logic&quot;, ...)",42549,Prof Brian Ripley
+042560.html,[Rd] (PR#9201) Unable to save a plot containing Chinese (two-byte) Characters,42560,Prof Brian Ripley
+042567.html,[Rd] setMethod(&quot;Summary&quot;),42567,Prof Brian Ripley
+042568.html,[Rd] setMethod(&quot;Summary&quot;),42568,Prof Brian Ripley
+042582.html,[Rd] serialize changes for 2.4.0,42582,Prof Brian Ripley
+042583.html,[Rd] problem in contour/contourLines (PR#9205),42583,Prof Brian Ripley
+042585.html,[Rd] Two submitted packages,42585,Prof Brian Ripley
+042601.html,[Rd] R 2.3.1 and R2.3.0 crash with system() and shell() commands (PR#9207),42601,Prof Brian Ripley
+042614.html,[Rd] Matrix package in R-2.4.0alpha,42614,Prof Brian Ripley
+042633.html,[Rd] [R] function changes argument (PR#9216),42633,Prof Brian Ripley
+042637.html,[Rd] [R] function changes argument (PR#9216),42637,Prof Brian Ripley
+042642.html,[Rd] problems in installing packages with R version 2.4.0 alpha (2006-09-05 r39134),42642,Prof Brian Ripley
+042649.html,[Rd] unexpected behaviour when defining a function,42649,Prof Brian Ripley
+042657.html,[Rd] Memory problems with a custom R package,42657,Prof Brian Ripley
+042664.html,"[Rd] segfault in plot(x, y, col = aFactor) (PR#9221)",42664,Prof Brian Ripley
+042674.html,"[Rd] example(..., ask=getOption(&quot;example.ask&quot;))",42674,Prof Brian Ripley
+042676.html,[Rd] package.skeleton() in R-2.4.1,42676,Prof Brian Ripley
+042714.html,[Rd] pdf default version,42714,Prof Brian Ripley
+042722.html,"[Rd] R 2.4.0, methods and rebuild management",42722,Prof Brian Ripley
+042736.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42736,Prof Brian Ripley
+042738.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42738,Prof Brian Ripley
+042742.html,[Rd] Help for methods,42742,Prof Brian Ripley
+042747.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42747,Prof Brian Ripley
+042748.html,[Rd] Help for methods,42748,Prof Brian Ripley
+042754.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42754,Prof Brian Ripley
+042756.html,[Rd] wishlist --- menu entry [Rgui] misc --- stop current computation,42756,Prof Brian Ripley
+042767.html,[Rd] wishlist --- menu entry [Rgui] misc --- stop current computation,42767,Prof Brian Ripley
+042783.html,"[Rd] alpha, portable use",42783,Prof Brian Ripley
+042784.html,[Rd] residual '*tmp*' variable after &quot;[&lt;-&quot; error,42784,Prof Brian Ripley
+042788.html,"[Rd] S4 generics, modify() generic and modifyList() ...",42788,Prof Brian Ripley
+042791.html,[Rd] printing of complex numbers in R-alpha,42791,Prof Brian Ripley
+042805.html,[Rd] Package dependencies and imports,42805,Prof Brian Ripley
+042810.html,[Rd] residual '*tmp*' variable after &quot;[&lt;-&quot; error,42810,Prof Brian Ripley
+042813.html,[Rd] Package dependencies and imports,42813,Prof Brian Ripley
+042814.html,[Rd] printing of complex numbers in R-alpha,42814,Prof Brian Ripley
+042819.html,[Rd] bug in function rpart (PR#9245),42819,Prof Brian Ripley
+042829.html,[Rd] Regular expressions,42829,Prof Brian Ripley
+042836.html,[Rd] package that has a subdirectory in src,42836,Prof Brian Ripley
+042837.html,[Rd] change in output wording causes make check to fail,42837,Prof Brian Ripley
+042848.html,[Rd] apply: new behaviour for factors in R-2.4.0,42848,Prof Brian Ripley
+042860.html,[Rd] (PR#9254)R script editor fails to read script longer then 1000 chars (non-English language settings),42860,Prof Brian Ripley
+042874.html,[Rd] Warning on backslash sequences (was sprintf behavior),42874,Prof Brian Ripley
+042876.html,[Rd] colnames is slow for data.frames with implicit row.names,42876,Prof Brian Ripley
+042881.html,[Rd] Building R-2.3.1 for Windows with ATLAS,42881,Prof Brian Ripley
+042901.html,[Rd] Warning on backslash sequences (was sprintf behavior),42901,Prof Brian Ripley
+042912.html,[Rd] apply: new behaviour for factors in R-2.4.0,42912,Prof Brian Ripley
+042913.html,[Rd] Warning on backslash sequences (was sprintf behavior),42913,Prof Brian Ripley
+042915.html,[Rd] unable to load lapack.so,42915,Prof Brian Ripley
+042922.html,[Rd] unable to load lapack.so,42922,Prof Brian Ripley
+042925.html,[Rd] Build error/zlib question,42925,Prof Brian Ripley
+042681.html,[Rd] demo names with spaces?,42681,Prof Brian D Ripley
+042622.html,[Rd] Complete documentation gram.y ??,42622,Barry Rowlingson
+042680.html,[Rd] demo names with spaces?,42680,Dominick Samperi
+042820.html,[Rd] NAMESPACE,42820,Dominick Samperi
+042828.html,[Rd] Regular expressions,42828,Dominick Samperi
+042856.html,[Rd] R CMD check and x11?,42856,Dominick Samperi
+042584.html,[Rd] Two submitted packages,42584,Deepayan Sarkar
+042592.html,[Rd] Two submitted packages,42592,Deepayan Sarkar
+042595.html,[Rd] Two submitted packages,42595,Deepayan Sarkar
+042645.html,[Rd] unexpected behaviour when defining a function,42645,Deepayan Sarkar
+042666.html,[Rd] unexpected behaviour when defining a function,42666,Deepayan Sarkar
+042685.html,[Rd] changes in upcoming lattice,42685,Deepayan Sarkar
+042706.html,[Rd] An update method for lists?,42706,Deepayan Sarkar
+042709.html,[Rd] An update method for lists?,42709,Deepayan Sarkar
+042728.html,[Rd] An update method for lists?,42728,Deepayan Sarkar
+042730.html,[Rd] An update method for lists?,42730,Deepayan Sarkar
+042763.html,[Rd] An update method for lists?,42763,Deepayan Sarkar
+042639.html,[Rd] Failure to build home-made package on WINDOWS 2000 professional,42639,Joost Schalken
+042654.html,[Rd] Failure to build home-made package on WINDOWS 2000	professional,42654,Joost Schalken
+042718.html,[Rd] pdf default version,42718,Marc Schwartz
+042765.html,[Rd] Sweave processes \Sexpr in commented LaTeX source	(2.3.1patched	and 2.4.0),42765,Marc Schwartz
+042719.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42719,Gavin Simpson
+042727.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42727,Gavin Simpson
+042737.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42737,Gavin Simpson
+042752.html,[Rd] Using \u2030 in plot axis label -&gt; stack smashing,42752,Gavin Simpson
+042926.html,[Rd] error location,42926,Peter Stencel
+042578.html,[Rd] Capturing warnings with capture.output,42578,Luke Tierney
+042918.html,[Rd] Documentation patch for 'match' and 'palette',42918,Michael Toews
+042899.html,[Rd] unloadNamespace inside .Last.lib,42899,Benjamin Tyner
+042606.html,[Rd] JPEG struct mismatch on Intel Macs (PR#9209),42606,Simon Urbanek
+042703.html,[Rd] pdf default version,42703,Kevin Wright
+042785.html,[Rd] A Call for a Smaller R Core Package,42785,Zepu Zhang
+039318.html,"[Rd] Dringend, GESCHAEFTSVORSCHLAG. (PR#9223)",39318,jbakker at aliceadsl.fr
+042725.html,[Rd] Legend frame error (PR#9236),42725,tgibson at augustcouncil.com
+042794.html,[Rd] Not all functions work in RSPerl package? (PR#9242),42794,xianjun.dong at bccs.uib.no
+042508.html,[Rd] [&lt;-.POSIXlt changes order of attributes (PR#9197),42508,gregor.gorjanc at bfro.uni-lj.si
+042853.html,[Rd] Wish: change behaviour of header in read.fwf (PR#9252),42853,gregor.gorjanc at bfro.uni-lj.si
+042816.html,[Rd] bug in function rpart (PR#9245),42816,yma at biostat.bsc.gwu.edu
+042660.html,[Rd] mcnemar.test helpfile (PR#9220),42660,candrews at buffalo.edu
+042644.html,[Rd] Readline bug (PR#9217),42644,kamila.naxerova at childrens.harvard.edu
+042700.html,[Rd] How to create the couple of  files .rdb and .rdx,42700,Alex.Randriamiharisoa at chuv.ch
+042766.html,[Rd] An update method for lists?,42766,Mark.Bravington at csiro.au
+042498.html,[Rd] round() increases or decreases (PR#9195),42498,gael.millot at curie.fr
+042686.html,[Rd] Legend Title missing (PR#9226),42686,mok2 at enthalpy.physics.buffalo.edu
+042629.html,"[Rd] install.packages(,type=&quot;source&quot;) broken on Windows",42629,hpages at fhcrc.org
+042943.html,[Rd] Strange behaviour of the [[ operator (PR#9263),42943,hpages at fhcrc.org
+042627.html,[Rd] Extending [ method to S4 class and drop argument (PR#9211),42627,mtmorgan at fhcrc.org
+042516.html,"[Rd] read.ssd (foreign) 'wishes': enable long variable names,	add output object to windows example",42516,gcbooma
+042777.html,[Rd] seq.Date not accepting NULL length.out (PR#9239),42777,Robert.McGehee at geodecapital.com
+042621.html,[Rd] Extending [ method to S4 class and drop argument (PR#9211),42621,jverzani at gmail.com
+042668.html,[Rd] make check error (PR#9222),42668,oceanclear at gmial.com
+042841.html,[Rd] sprintf behavior (PR#9250),42841,michael.bauer at lo-res.org
+042795.html,[Rd] Sweave processes \Sexpr in commented LaTeX source,42795,Jean lobry
+042832.html,"[Rd] Incomplete loading of files into Windows script editor,	suspected bug regarding non-standard EOL marker handling (PR#9248)",42832,klaus.thul at mac.com
+042643.html,[Rd] Failure to build home-made package on WINDOWS 2000	professional,42643,miguel manese
+042500.html,[Rd] round() increases or decreases (PR#9195),42500,berwin at maths.uwa.edu.au
+042662.html,"[Rd] segfault in plot(x, y, col = aFactor) (PR#9221)",42662,bhx5 at mevik.net
+042687.html,[Rd] Legend Title missing (PR#9226),42687,mschwartz at mn.rr.com
+042581.html,[Rd] problem in contour/contourLines (PR#9205),42581,dheide at nld.ds.mpg.de
+042607.html,[Rd] JPEG struct mismatch on Intel Macs (PR#9209),42607,simon.urbanek at r-project.org
+042939.html,[Rd] lowess: parameter 'delta' has no effect (PR#9264),42939,p.c.j.kleiweg at rug.nl
+042731.html,[Rd] Rgui.exe plot device &quot;Save as&quot; crash (PR#9237),42731,mwtoews at sfu.ca
+042757.html,[Rd] Rgui.exe plot device &quot;Save as&quot; crash (PR#9237),42757,mwtoews at sfu.ca
+042603.html,[Rd] JPEG struct mismatch on Intel Macs (PR#9209),42603,spector at stat.berkeley.edu
+042663.html,"[Rd] segfault in plot(x, y, col = aFactor) (PR#9221)",42663,maechler at stat.math.ethz.ch
+042561.html,[Rd] (PR#9201) Unable to save a plot containing Chinese	(two-byte),42561,ripley at stats.ox.ac.uk
+042602.html,[Rd] R 2.3.1 and R2.3.0 crash with system() and shell()	commands (PR#9208),42602,ripley at stats.ox.ac.uk
+042634.html,[Rd] [R] function changes argument (PR#9216),42634,ripley at stats.ox.ac.uk
+042833.html,[Rd] (PR#9248) Incomplete loading of files into Windows script,42833,ripley at stats.ox.ac.uk
+042842.html,[Rd] sprintf behavior (PR#9250),42842,ripley at stats.ox.ac.uk
+042896.html,[Rd] (PR#9248) Incomplete loading of files into Windows script,42896,ripley at stats.ox.ac.uk
+042897.html,[Rd] 'St9bad_alloc' (PR#9261),42897,ripley at stats.ox.ac.uk
+042632.html,[Rd] [R] function changes argument (PR#9216),42632,murdoch at stats.uwo.ca
+042732.html,[Rd] Rgui.exe plot device &quot;Save as&quot; crash (PR#9237),42732,murdoch at stats.uwo.ca
+042733.html,[Rd] Rgui.exe plot device &quot;Save as&quot; crash (PR#9237),42733,murdoch at stats.uwo.ca
+042938.html,[Rd] Strange behaviour of the [[ operator (PR#9263),42938,murdoch at stats.uwo.ca
+042556.html,[Rd] Unable to save a plot containing Chinese (two-byte) Characters	(PR#9201),42556,stranak at ufal.ms.mff.cuni.cz
+042563.html,[Rd] Bugs with partial name matching during partial replacement	(PR#9202),42563,amaliy1 at uic.edu
+042499.html,[Rd] Date conversion with as.POSIXct and as.POSIXlt (PR#9196),42499,erich.neuwirth at univie.ac.at
+042892.html,[Rd] 'St9bad_alloc' (PR#9261),42892,watplatt at us.ibm.com
+042866.html,[Rd] Infinite Loop when installing a package from source (PR#9258),42866,charles.dupont at vanderbilt.edu
+042857.html,[Rd] R script editor fails to read script longer then 1000 chars	(non-English language settings) (PR#9254),42857,shtirlitz at verizon.net
+042698.html,[Rd] Help on &quot;title&quot; wrongly specifies axis label font (PR#9230),42698,wilder at well.ox.ac.uk
+042534.html,"[Rd] lm, weights and ...",42534,hadley wickham
+042573.html,[Rd] Capturing warnings with capture.output,42573,hadley wickham
+042708.html,[Rd] An update method for lists?,42708,hadley wickham
+042721.html,[Rd] Help for methods,42721,hadley wickham
+042741.html,[Rd] Help for methods,42741,hadley wickham
+042745.html,[Rd] Help for methods,42745,hadley wickham
+042749.html,[Rd] Help for methods,42749,hadley wickham
+042750.html,[Rd] Help for methods,42750,hadley wickham
+042751.html,[Rd] Help for methods,42751,hadley wickham
+042929.html,[Rd] Warning: a final empty element has been omitted,42929,hadley wickham
+042930.html,[Rd] Warning: a final empty element has been omitted,42930,hadley wickham
+042935.html,[Rd] Help for methods,42935,hadley wickham
+042936.html,[Rd] Help for methods,42936,hadley wickham
+042942.html,[Rd] Help for methods,42942,hadley wickham
+042600.html,[Rd] R 2.3.1 and R2.3.0 crash with system() and shell() commands	(PR#9207),42600,Johannes.Prix at wu-wien.ac.at
+042570.html,[Rd] ISwR (PR#9204),42570,phillip.endicott at zoology.oxford.ac.uk

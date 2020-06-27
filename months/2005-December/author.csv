@@ -1,0 +1,262 @@
+link,Subject,id,author
+035890.html,[Rd] make pkg-* R-2.2.1 Windows,35890,AJB
+035848.html,[Rd] NextMethod causes R 2.2.0 to crash (PR#8416),35848,Henrik Bengtsson
+035856.html,[Rd] CRAN and R v2.2.1 for Windows,35856,Henrik Bengtsson
+035846.html,[Rd] NextMethod causes R 2.2.0 to crash (PR#8416),35846,Bill.Venables at csiro.au
+035849.html,[Rd] NextMethod causes R 2.2.0 to crash (PR#8416),35849,Bill.Venables at csiro.au
+035775.html,[Rd] external pointers,35775,Roger Bivand
+035765.html,[Rd] external pointers,35765,Ross Boylan
+035761.html,[Rd] segfault following a detach,35761,James Bullard
+035897.html,[Rd] Rserve setSEXP command,35897,Chris Burke
+035899.html,[Rd] Rserve setSEXP command,35899,Chris Burke
+035764.html,[Rd] weights in nls,35764,Patrick Burns
+035809.html,[Rd] Linking C/C++ GUI to R.dll,35809,Chad.P.Jenness at wellsfargo.com
+035812.html,[Rd] Linking C/C++ GUI to R.dll,35812,Chad.P.Jenness at wellsfargo.com
+035816.html,[Rd] Linking C/C++ GUI to R.dll,35816,Chad.P.Jenness at wellsfargo.com
+035785.html,[Rd] extension to missing()? {was &quot;hist() ... helpful warning?	(PR#8376)&quot;},35785,Andrew Clausen
+035718.html,[Rd] [R] computing the variance,35718,Peter Dalgaard
+035723.html,[Rd] R 2.2.1 scheduled for Dec 20.,35723,Peter Dalgaard
+035735.html,[Rd] qt for df &lt; 1,35735,Peter Dalgaard
+035781.html,[Rd] [R] data.frame() size,35781,Peter Dalgaard
+035790.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389),35790,Peter Dalgaard
+035800.html,[Rd] Building R with f2c - still needed?,35800,Peter Dalgaard
+035811.html,[Rd] CRAN task view: Multivariate,35811,Peter Dalgaard
+035815.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389)	(maybe a documentation deficiency?),35815,Peter Dalgaard
+035858.html,[Rd] CRAN and R v2.2.1 for Windows,35858,Peter Dalgaard
+035861.html,[Rd] random output with sub(fixed = TRUE),35861,Peter Dalgaard
+035868.html,[Rd] R-bugs e-mail {was ... (Debian Bug 344248): ...},35868,Peter Dalgaard
+035869.html,[Rd] R-bugs e-mail {was ... (Debian Bug 344248): ...},35869,Peter Dalgaard
+035918.html,[Rd] Problems with calloc function.,35918,Marcelo Damasceno
+035872.html,[Rd] Coercing from a local class to a foreign one,35872,Sean Davis
+035756.html,[Rd] [R] data.frame() size,35756,Matthew Dowle
+035778.html,[Rd] [R] data.frame() size,35778,Matthew Dowle
+035801.html,[Rd] Building R with f2c - still needed?,35801,Dirk Eddelbuettel
+035855.html,[Rd] (Debian Bug 344248): R segfaults when pressing Delete	(PR#8422),35855,Dirk Eddelbuettel
+035883.html,[Rd] cairo anyone?,35883,Dirk Eddelbuettel
+035891.html,[Rd] (Debian Bug 344248): R segfaults when pressing	Delete	(PR#8422),35891,Dirk Eddelbuettel
+035845.html,[Rd] suggestion: link oneway.test on kruskal.test page,35845,P Ehlers
+035878.html,[Rd] Windows crash in confint() with nls fit (PR#8428),35878,P Ehlers
+035766.html,[Rd] external pointers,35766,Byron Ellis
+035768.html,[Rd] segfault following a detach,35768,Byron Ellis
+035786.html,[Rd] external pointers,35786,Byron Ellis
+035881.html,[Rd] cairo anyone?,35881,Byron Ellis
+035892.html,[Rd] cairo anyone?,35892,Byron Ellis
+035915.html,[Rd] Enhancement request: anonymous connections,35915,Byron Ellis
+035934.html,[Rd] reinventing the wheel....,35934,Byron Ellis
+035930.html,[Rd] Acknowledgments in package documentation,35930,Jeff Enos
+035752.html,[Rd] ID for machine?,35752,Seth Falcon
+035905.html,[Rd] Enhancement request: anonymous connections,35905,Seth Falcon
+035910.html,[Rd] Enhancement request: anonymous connections,35910,Seth Falcon
+035925.html,[Rd] 'sessionInfo()' instead of 'version',35925,Seth Falcon
+035942.html,[Rd] Collaborator Wanted: permutation test package,35942,Phillip Good
+035908.html,[Rd] NaN in R distribution functions,35908,Gregor Gorjanc
+035916.html,[Rd] NaN in R distribution functions,35916,Gregor Gorjanc
+035734.html,[Rd] typo in `eurodist',35734,Spencer Graves
+035707.html,[Rd] download.file() online help,35707,Philippe Grosjean
+035739.html,[Rd] typo in `eurodist',35739,Gabor Grothendieck
+035741.html,[Rd] typo in `eurodist',35741,Gabor Grothendieck
+035758.html,[Rd] [R] data.frame() size,35758,Gabor Grothendieck
+035795.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389)	(maybe a documentation deficiency?),35795,Gabor Grothendieck
+035933.html,[Rd] xy.coords,35933,Gabor Grothendieck
+035936.html,[Rd] xy.coords,35936,Gabor Grothendieck
+035938.html,[Rd] xy.coords,35938,Gabor Grothendieck
+035940.html,[Rd] xy.coords,35940,Gabor Grothendieck
+035943.html,[Rd] xy.coords,35943,Gabor Grothendieck
+035945.html,[Rd] New R folder names bring out Windows batch file bug,35945,Gabor Grothendieck
+035947.html,[Rd] xy.coords,35947,Gabor Grothendieck
+035948.html,[Rd] New R folder names bring out Windows batch file bug,35948,Gabor Grothendieck
+035738.html,[Rd] grid graphics gpar(fill) argument and jpeg device,35738,Florian Hahne
+035894.html,[Rd] cygwin and tar -- still?,35894,Jeff D. Hamann
+035829.html,[Rd] R for Windows GUI Front-End Problem (PR#3364),35829,Kasper Daniel Hansen
+035717.html,[Rd] [R] computing the variance,35717, (Ted Harding)
+035720.html,[Rd] [R] computing the variance,35720, (Ted Harding)
+035737.html,[Rd] typo in `eurodist',35737, (Ted Harding)
+035726.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8367),35726,Heather.Turner at warwick.ac.uk
+035804.html,[Rd] CRAN task view: Multivariate,35804,Paul Hewson
+035835.html,[Rd] Overlaying lattice plots,35835,"Hillary, Richard M"
+035837.html,[Rd] Overlaying lattice plots,35837,"Hillary, Richard M"
+035729.html,[Rd] typo in `eurodist',35729,Torsten Hothorn
+035763.html,[Rd] an Update on the &quot;Woods&quot; package--classification and	constrained L1 regression for binary response,35763,"Izmirlian, Grant (NIH/NCI) [E]"
+035767.html,[Rd] segfault following a detach,35767,"Izmirlian, Grant (NIH/NCI) [E]"
+035887.html,[Rd] can someone help me understand LAM/MPI and Rmpi for use on a	cluster,35887,"Izmirlian, Grant (NIH/NCI) [E]"
+035896.html,[Rd] Portability and Memory Issues for R-package,35896,KNygren at us.imshealth.com
+035900.html,[Rd] Portability and Memory Issues for R-package,35900,KNygren at us.imshealth.com
+035902.html,[Rd] Portability and Memory Issues for R-package,35902,KNygren at us.imshealth.com
+035904.html,[Rd] Portability and Memory Issues for R-package,35904,KNygren at us.imshealth.com
+035692.html,[Rd] guidelines on &quot;depends&quot; versus &quot;suggests&quot; and R versions,35692,David Kane
+035753.html,[Rd] ID for machine?,35753,Janusz Kawczak
+035744.html,[Rd] Blocking problem with embeded R (windows),35744,Simon Knapp
+035746.html,[Rd]  Blocking problem with embeded R (windows),35746,Simon Knapp
+035725.html,"[Rd] problems with initialize-method,	difference between Win XP &amp; Linux",35725,Matthias Kohl
+035762.html,[Rd] segfault following a detach,35762,Duncan Temple Lang
+035882.html,[Rd] cairo anyone?,35882,Duncan Temple Lang
+035912.html,[Rd] .Call not counting parameters consistently (PR#8450),35912,Duncan Temple Lang
+035759.html,[Rd] [R] data.frame() size,35759,Hin-Tak Leung
+035780.html,[Rd] [R] data.frame() size,35780,Hin-Tak Leung
+035760.html,[Rd] [R] data.frame() size,35760,"Liaw, Andy"
+035871.html,[Rd] png support for R 2.2.1 (PR#8425),35871,Uwe Ligges
+035895.html,[Rd] cygwin and tar -- still?,35895,Uwe Ligges
+035931.html,[Rd] Acknowledgments in package documentation,35931,Uwe Ligges
+035722.html,[Rd] [R] computing the variance,35722,Thomas Lumley
+035817.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389) (maybe a documentation deficiency?),35817,Thomas Lumley
+035840.html,[Rd] 2 x 2 chisq.test (PR#8415),35840,Thomas Lumley
+035831.html,[Rd] package unlisted (PR#8410),35831,MSchwartz at mn.rr.com
+035852.html,[Rd] (Debian Bug 344248): R segfaults when pressing Delete	(PR#8421),35852,MSchwartz at mn.rr.com
+035701.html,[Rd] all.equal() for mismatching names {was &quot;Enlightenment	sought...&quot;},35701,Martin Maechler
+035703.html,[Rd] t() dropping NULL dimnames {was &quot;all.equal() for mismatching	names...&quot;},35703,Martin Maechler
+035716.html,[Rd] [R] computing the variance,35716,Martin Maechler
+035732.html,[Rd] typo in `eurodist',35732,Martin Maechler
+035777.html,[Rd] extension to missing()? {was &quot;hist() ... helpful warning?	(PR#8376)&quot;},35777,Martin Maechler
+035788.html,[Rd] correct address for R-bugs ..,35788,Martin Maechler
+035833.html,[Rd] SVN-REVSION altered when building R-devel out of tree from last snapshot,35833,Martin Maechler
+035842.html,"[Rd] pmin(), pmax() - slower than necessary for common cases",35842,Martin Maechler
+035854.html,[Rd] R-bugs e-mail {was ...  (Debian Bug 344248): ...},35854,Martin Maechler
+035923.html,[Rd] 'sessionInfo()' instead of 'version',35923,Martin Maechler
+035772.html,[Rd] external pointers,35772,Mark.Bravington at csiro.au
+035774.html,[Rd] external pointers,35774,Mark.Bravington at csiro.au
+035750.html,[Rd] ID for machine?,35750,"McGehee, Robert"
+035747.html,[Rd] How to implement package-specific options?,35747,Bj&#248;rn-Helge Mevik
+035805.html,[Rd] R-beta: configure problem (tcltk) on 64 bit Red Hat EL,35805,Bj&#248;rn-Helge Mevik
+035818.html,[Rd] R-beta: configure problem (tcltk) on 64 bit Red Hat EL,35818,Bj&#248;rn-Helge Mevik
+035922.html,[Rd] Inconsistent IEEE 754/IEC 60559 rounding behavior (PR#8452),35922,Micah_Altman at harvard.edu
+035693.html,[Rd] (not just!) Windows R CMD build &lt;pkg&gt; leftovers,35693,Martin Morgan
+035708.html,[Rd] download.file() online help,35708,Duncan Murdoch
+035719.html,[Rd] [R] computing the variance,35719,Duncan Murdoch
+035749.html,[Rd] ID for machine?,35749,Duncan Murdoch
+035754.html,[Rd] ID for machine?,35754,Duncan Murdoch
+035857.html,[Rd] CRAN and R v2.2.1 for Windows,35857,Duncan Murdoch
+035866.html,[Rd] random output with sub(fixed = TRUE),35866,Duncan Murdoch
+035901.html,[Rd] Portability and Memory Issues for R-package,35901,Duncan Murdoch
+035903.html,[Rd] Portability and Memory Issues for R-package,35903,Duncan Murdoch
+035906.html,[Rd] Enhancement request: anonymous connections,35906,Duncan Murdoch
+035914.html,[Rd] .Call not counting parameters consistently (PR#8450),35914,Duncan Murdoch
+035921.html,[Rd] 'sessionInfo()' instead of 'version',35921,Duncan Murdoch
+035926.html,[Rd] 'sessionInfo()' instead of 'version',35926,Duncan Murdoch
+035935.html,[Rd] xy.coords,35935,Duncan Murdoch
+035937.html,[Rd] xy.coords,35937,Duncan Murdoch
+035939.html,[Rd] xy.coords,35939,Duncan Murdoch
+035941.html,[Rd] xy.coords,35941,Duncan Murdoch
+035944.html,[Rd] xy.coords,35944,Duncan Murdoch
+035946.html,[Rd] New R folder names bring out Windows batch file bug,35946,Duncan Murdoch
+035721.html,[Rd] font inclusions in pdf files,35721,Paul Murrell
+035742.html,[Rd] grid graphics gpar(fill) argument and jpeg device,35742,Paul Murrell
+035802.html,[Rd] R-beta on AIX5.2,35802,Ei-ji Nakama
+035743.html,[Rd] typo in `eurodist',35743,Jari Oksanen
+035832.html,[Rd] SVN-REVSION altered when building R-devel out of tree from	last snapshot,35832,Herve Pages
+035859.html,[Rd] SVN-REVSION altered when building R-devel out of tree from last snapshot,35859,Herve Pages
+035864.html,[Rd] Build error on Mac OS X,35864,Herve Pages
+035874.html,[Rd] Build error on Mac OS X,35874,Herve Pages
+035880.html,[Rd] Build error on Mac OS X,35880,Herve Pages
+035888.html,[Rd] Build error on Mac OS X,35888,Herve Pages
+035823.html,[Rd] R for Windows GUI Front-End Problem (PR#3364),35823,Pathik
+035694.html,[Rd] import of Namespaces,35694,Roger Peng
+035807.html,[Rd] Building R-devel with ACML,35807,Roger Peng
+035860.html,[Rd] random output with sub(fixed = TRUE),35860,Roger D. Peng
+035862.html,[Rd] random output with sub(fixed = TRUE),35862,Roger D. Peng
+035705.html,[Rd] t() dropping NULL dimnames {was &quot;all.equal() for	mismatching names...&quot;},35705,Andrew Piskorski
+035740.html,[Rd] typo in `eurodist',35740,Tony Plate
+035791.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389) (maybe a documentation deficiency?),35791,Tony Plate
+035814.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389) (maybe a documentation deficiency?),35814,Tony Plate
+035689.html,[Rd] \dQuote{} in \code{} not processed,35689,Prof Brian Ripley
+035695.html,[Rd] tuned BLAS,35695,Prof Brian Ripley
+035696.html,[Rd] (not just!) Windows R CMD build &lt;pkg&gt; leftovers,35696,Prof Brian Ripley
+035699.html,[Rd] Enlightenment sought and a possible buglet in vector.Rd,35699,Prof Brian Ripley
+035700.html,[Rd] Enlightenment sought and a possible buglet in vector.Rd,35700,Prof Brian Ripley
+035724.html,[Rd] Problem with fitdistr for gamma in R 2.2.0,35724,Prof Brian Ripley
+035730.html,[Rd] typo in `eurodist',35730,Prof Brian Ripley
+035736.html,[Rd] qt for df &lt; 1,35736,Prof Brian Ripley
+035745.html,[Rd] Blocking problem with embeded R (windows),35745,Prof Brian Ripley
+035748.html,[Rd] How to implement package-specific options?,35748,Prof Brian Ripley
+035776.html,[Rd] external pointers,35776,Prof Brian Ripley
+035779.html,[Rd] [R] data.frame() size,35779,Prof Brian Ripley
+035787.html,[Rd] external pointers,35787,Prof Brian Ripley
+035797.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389) (maybe a documentation deficiency?),35797,Prof Brian Ripley
+035798.html,[Rd] R_PROFILE on Windows,35798,Prof Brian Ripley
+035799.html,[Rd] Building R with f2c - still needed?,35799,Prof Brian Ripley
+035803.html,[Rd] R-beta on AIX5.2,35803,Prof Brian Ripley
+035806.html,[Rd] R-beta: configure problem (tcltk) on 64 bit Red Hat EL,35806,Prof Brian Ripley
+035808.html,[Rd] Building R-devel with ACML,35808,Prof Brian Ripley
+035810.html,[Rd] Linking C/C++ GUI to R.dll,35810,Prof Brian Ripley
+035820.html,[Rd] R-beta: configure problem (tcltk) on 64 bit Red Hat EL,35820,Prof Brian Ripley
+035821.html,[Rd] Building R with f2c - still needed?,35821,Prof Brian Ripley
+035828.html,[Rd] Bug in acepack (PR#2352),35828,Prof Brian Ripley
+035863.html,[Rd] random output with sub(fixed = TRUE),35863,Prof Brian Ripley
+035884.html,[Rd] Build error on Mac OS X,35884,Prof Brian Ripley
+035886.html,[Rd] Windows crash in confint() with nls fit (PR#8428),35886,Prof Brian Ripley
+035893.html,[Rd] make pkg-* R-2.2.1 Windows,35893,Prof Brian Ripley
+035909.html,[Rd] NaN in R distribution functions,35909,Prof Brian Ripley
+035919.html,[Rd] Problems with calloc function.,35919,Prof Brian Ripley
+035928.html,[Rd] 'sessionInfo()' instead of 'version',35928,Prof Brian Ripley
+035751.html,[Rd] ID for machine?,35751,Dimitris Rizopoulos
+035794.html,[Rd] R_PROFILE on Windows,35794,Fernando Henrique Ferraz P. da Rosa
+035917.html,[Rd] reinventing the wheel....,35917,A.J. Rossini
+035690.html,[Rd] \dQuote{} in \code{} not processed,35690,Gavin Simpson
+035715.html,[Rd] Compiling R under AIX 4.3,35715,Reinhard Sy
+035755.html,[Rd] qt for df &lt; 1,35755,Luke Tierney
+035697.html,[Rd] Enlightenment sought and a possible buglet in vector.Rd,35697,Berwin A Turlach
+035710.html,[Rd] Enlightenment sought and a possible buglet in vector.Rd,35710,Berwin A Turlach
+035711.html,[Rd] Enlightenment sought and a possible buglet in vector.Rd,35711,Berwin A Turlach
+035773.html,[Rd] external pointers,35773,Simon Urbanek
+035826.html,[Rd] AppleScript commands don't execute until mouse over	console window (PR#8405),35826,Simon Urbanek
+035867.html,[Rd] Build error on Mac OS X,35867,Simon Urbanek
+035889.html,[Rd] cairo anyone?,35889,Simon Urbanek
+035898.html,[Rd] Rserve setSEXP command,35898,Simon Urbanek
+035784.html,[Rd] FW: Bug in sum() with named data frame arguments,35784,Gregory Warnes
+035841.html,[Rd] Problems with Windows Cross compile,35841,"Warnes, Gregory R"
+035844.html,[Rd] Problems with Windows Cross compile,35844,"Warnes, Gregory R"
+035843.html,[Rd] Problems with Windows Cross compile,35843,Jun Yan
+035782.html,[Rd] Problems with sending data to FORTRAN subrutine,35782,Ales Ziberna
+035879.html,[Rd] minor windows dialogue box problem-&quot;File/Change dir...&quot;	(PR#8430),35879,andrew at demandresponse.com
+035824.html,[Rd] nls: constraints (lower/upper) (PR#8401),35824,bolker at zoo.ufl.edu
+035873.html,[Rd] Windows crash in confint() with nls fit (PR#8428),35873,bolker at zoo.ufl.edu
+035877.html,[Rd] Windows crash in confint() with nls fit (PR#8428),35877,bolker at zoo.ufl.edu
+035691.html,[Rd] Edwin Private web case review and big savin's on our	health enhancers. (PR#8360),35691,briscoee at slamdek.com
+035830.html,[Rd] package unlisted (PR#8410),35830,chtorres at linux.ime.usp.br
+035838.html,[Rd] 2 x 2 chisq.test (PR#8415),35838,cig69410 at syd.odn.ne.jp
+035769.html,[Rd] inconsistency between plot(hist(...)) and hist(...) (PR#8376),35769,clausen at econ.upenn.edu
+035771.html,[Rd] (PR#8376 inconsistency between plot(hist(...)) and	hist(...),35771,clausen at econ.upenn.edu
+035698.html,[Rd] Bernie Now you can enjoy the convenience of ordering	mitigating products from your house at a time that is	convenient for you. (PR#8362),35698,darius at wog.com.au
+035851.html,[Rd] (Debian Bug 344248): R segfaults when pressing Delete (PR#8420),35851,edd at debian.org
+035819.html,[Rd] Free patent searching (PR#8396),35819,ereeves at freepatentsonline.com
+035834.html,[Rd] Overlaying lattice plots,35834,ernesto
+035836.html,"[Rd] Overlaying lattice plots - SORRY,	WRONG MAILING LIST ADDRESS",35836,ernesto
+035932.html,[Rd] PROTECT SEXP in stl map,35932,finle014
+035796.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389)	(maybe a documentation deficiency?),35796,ggrothendieck at gmail.com
+035907.html,[Rd] update.packages() and loaded packages (PR#8448),35907,gregor.gorjanc at bfro.uni-lj.si
+035706.html,[Rd] H0T DEMANDING MEDs AT 8O% OFF FOR 2 DAYS 0NLY letter (PR#8365),35706,iwomm03ox at digdat.com
+035825.html,[Rd] AppleScript commands don't execute until mouse over console	window (PR#8405),35825,jp-www at dcs.gla.ac.uk
+035733.html,[Rd] qt for df &lt; 1,35733,roger koenker
+035757.html,[Rd] qt for df &lt; 1,35757,roger koenker
+035920.html,[Rd] 'sessionInfo()' instead of 'version',35920,roger koenker
+035924.html,[Rd] 'sessionInfo()' instead of 'version',35924,roger koenker
+035847.html,"[Rd] I do understand there are other plans to do,	but this one is truly significant. (PR#8417)",35847,kolby at netcityhk.com
+035913.html,[Rd] .Call not counting parameters consistently (PR#8450),35913,ligges at statistik.uni-dortmund.de
+035822.html,[Rd] notification (PR#8400),35822,maureen.vins at virgin.net
+035875.html,[Rd] Windows crash in confint() with nls fit (PR#8428),35875,murdoch at stats.uwo.ca
+035876.html,[Rd] Windows crash in confint() with nls fit (PR#8428),35876,murdoch at stats.uwo.ca
+035911.html,[Rd] .Call not counting parameters consistently (PR#8450),35911,murdoch at stats.uwo.ca
+035688.html,[Rd] Gesch&#228;ftliches Angebot (PR#8359),35688,muzenda80 at yahoo.co.uk
+035702.html,[Rd] R CMD INSTALL fails if cd prints stuff to stdout ... (PR#8363),35702,p.lijnzaad at med.uu.nl
+035712.html,[Rd] ???UNSURE??? Re: (PR#8363) R CMD INSTALL fails if cd prints,35712,p.lijnzaad at med.uu.nl
+035728.html,[Rd] ???UNSURE??? Re: (PR#8363) R CMD INSTALL fails if cd prints,35728,p.lijnzaad at med.uu.nl
+035783.html,[Rd] notification (PR#8383),35783,patricia.peter at virgin.net
+035789.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389),35789,rasche at molgen.mpg.de
+035792.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389),35792,rasche at molgen.mpg.de
+035704.html,[Rd] (PR#8363) R CMD INSTALL fails if cd prints stuff to stdout,35704,ripley at stats.ox.ac.uk
+035713.html,[Rd] ???UNSURE??? Re: (PR#8363) R CMD INSTALL fails if cd prints,35713,ripley at stats.ox.ac.uk
+035727.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8367),35727,ripley at stats.ox.ac.uk
+035770.html,[Rd] (PR#8376 inconsistency between plot(hist(...)) and	hist(...),35770,ripley at stats.ox.ac.uk
+035793.html,[Rd] 0/1 vector for indexing leads to funny behaviour (PR#8389),35793,ripley at stats.ox.ac.uk
+035839.html,[Rd] 2 x 2 chisq.test (PR#8415),35839,ripley at stats.ox.ac.uk
+035850.html,[Rd] NextMethod causes R 2.2.0 to crash (PR#8416),35850,ripley at stats.ox.ac.uk
+035853.html,[Rd] (Debian Bug 344248): R segfaults when pressing Delete	(PR#8422),35853,ripley at stats.ox.ac.uk
+035929.html,[Rd] 'last.warning' problem at startup; package Matrix (PR#8453),35929,ripley at stats.ox.ac.uk
+035870.html,[Rd] png support for R 2.2.1 (PR#8425),35870,sbrohee at ulb.ac.be
+035731.html,[Rd] typo in `eurodist',35731,torsten at hothorn.de
+035827.html,[Rd] Bug in acepack (PR#2352),35827,vikram at mayin.org
+035709.html,[Rd] font inclusions in pdf files,35709,ivo welch
+035714.html,"[Rd] R-devel Digest, Vol 34, Issue 5",35714,ivo welch
+035865.html,[Rd] R-bugs e-mail {was ... (Debian Bug 344248): ...},35865,hadley wickham
+035885.html,[Rd] cairo anyone?,35885,hadley wickham
+035927.html,[Rd] 'last.warning' problem at startup; package Matrix (PR#8453),35927,winjohn at webone.com.au
+035813.html,[Rd] R 2.2.0 + Oracle 10g + Windows XP,35813,jing hua zhao

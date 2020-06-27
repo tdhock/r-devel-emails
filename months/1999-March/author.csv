@@ -1,0 +1,112 @@
+link,Subject,id,author
+018835.html,: for factors (PR#139),18835,Andreas.Weingessel@ci.tuwien.ac.at
+018871.html,Missing Warning in : (PR#148),18871,Andreas.Weingessel@ci.tuwien.ac.at
+018907.html,image + x11 (PR#153),18907,Andreas.Weingessel@ci.tuwien.ac.at
+018803.html,&quot;xpdrows.data.frame&quot; (PR#131),18803,Peter Dalgaard BSA
+018805.html,Inconsistencies with is.function,18805,Peter Dalgaard BSA
+018812.html,IRIX problem `gammal' [Andreas Krause ... Re: splus shell escapes],18812,Peter Dalgaard BSA
+018816.html,Difficulties with egcs-1.0.3 on RedHat 5.2?,18816,Peter Dalgaard BSA
+018817.html,Difficulties with egcs-1.0.3 on RedHat 5.2?,18817,Peter Dalgaard BSA
+018820.html,bessel_?.c constants (fwd),18820,Peter Dalgaard BSA
+018831.html,funfits (PR#137),18831,Peter Dalgaard BSA
+018837.html,: for factors (PR#139),18837,Peter Dalgaard BSA
+018845.html,log plots fail with NAs (PR#141),18845,Peter Dalgaard BSA
+018850.html,y with diaeresis (PR#143),18850,Peter Dalgaard BSA
+018851.html,R-bugs -- was: Re: y with diaeresis (PR#143),18851,Peter Dalgaard BSA
+018852.html,y with diaeresis (PR#143),18852,Peter Dalgaard BSA
+018863.html,Problems with Postscript output,18863,Peter Dalgaard BSA
+018865.html,nlm docs (PR#146),18865,Peter Dalgaard BSA
+018868.html,readline() (PR#147),18868,Peter Dalgaard BSA
+018870.html,[R] Change of parsing parameters to functions between 0.63.1  and 0.63.3 ?,18870,Peter Dalgaard BSA
+018873.html,[R] Change of parsing parameters to functions between 0.63.1  and 0.63.3 ?,18873,Peter Dalgaard BSA
+018876.html,readline() (PR#147),18876,Peter Dalgaard BSA
+018897.html,problems with formals and get (PR#151),18897,Peter Dalgaard BSA
+018902.html,ctest wishlist,18902,Peter Dalgaard BSA
+018815.html,Difficulties with egcs-1.0.3 on RedHat 5.2?,18815,Douglas Bates
+018878.html,"Using zip format for help pages, examples, etc.",18878,Douglas Bates
+018891.html,"Using zip format for help pages, examples, etc.",18891,Douglas Bates
+018899.html,Prototype nls library for R using closures,18899,Douglas Bates
+018904.html,Documenting data sets,18904,Douglas Bates
+018821.html,"March7th R-devel,hpux10.20,egcs-2.93.03 19990124",18821,U-E59264-Osman F Buyukisik
+018834.html,.Alias and memory,18834,Paul Gilbert
+018841.html,[R] re: smp in Linux,18841,Paul Gilbert
+018859.html,(-2) %% 12,18859,Paul Gilbert
+018892.html,linear search,18892,Paul Gilbert
+018800.html,[R] rw0632 makes stray .Rhistory orphans,18800,Kjetil Halvorsen
+018802.html,replacement for qqnorm,18802,Kjetil Halvorsen
+018804.html,Inconsistencies with is.function,18804,Kjetil Halvorsen
+018900.html,R PLATFORMS,18900,Kurt Hornik
+018901.html,ctest wishlist,18901,Kurt Hornik
+018906.html,Documenting data sets,18906,Kurt Hornik
+018808.html,[R] How to set axis labels?,18808,Ross Ihaka
+018894.html,linear search,18894,Ross Ihaka
+018862.html,Problems with Postscript output,18862,Arne Kovac
+018813.html,IRIX problem `gammal' [Andreas Krause ... Re: splus shell escapes],18813,Andreas Krause
+018848.html,[R] re: smp in Linux,18848,Nicholas Lee
+018885.html,"Using zip format for help pages, examples, etc.",18885,Nicholas Lee
+018858.html,[R] e1071 and netpbm,18858,Friedrich Leisch
+018866.html,R-0.63.3 package on IRIX 6.5 machine (PR#145),18866,Friedrich Leisch
+018847.html,[R] re: smp in Linux,18847,Thomas Lumley
+018893.html,linear search,18893,Thomas Lumley
+018811.html,IRIX problem `gammal' [Andreas Krause ... Re: splus shell escapes],18811,Martin Maechler
+018839.html,[R] R and kron,18839,Martin Maechler
+018854.html,R packages and test code,18854,Martin Maechler
+018861.html,(-2) %% 12 --- was a bug fix in 0.63.3  {{and musings about S ..}},18861,Martin Maechler
+018872.html,[R] Change of parsing parameters to functions between 0.63.1  and 0.63.3 ?,18872,Martin Maechler
+018874.html,nlm docs (PR#146),18874,Martin Maechler
+018877.html,[R] Change of parsing parameters to functions between 0.63.1  and 0.63.3 ?,18877,Martin Maechler
+018827.html,summary() of lm() problem (PR#135),18827,Guido Masarotto
+018828.html,summary() of lm() problem (PR#135),18828,Guido Masarotto
+018881.html,anova.lm bug,18881,Jean Meloche
+018814.html,[Andreas Krause &lt;Andreas.Krause@genedata.com&gt;] Re: splus shell escapes,18814,Balasubramanian Narasimhan
+018884.html,"Using zip format for help pages, examples, etc.",18884,Martyn Plummer
+018887.html,"Using zip format for help pages, examples, etc.",18887,Martyn Plummer
+018889.html,"Using zip format for help pages, examples, etc.",18889,Martyn Plummer
+018822.html,"March7th R-devel,hpux10.20,egcs-2.93.03 19990124",18822,Prof Brian Ripley
+018838.html,.Alias and memory,18838,Prof Brian Ripley
+018886.html,"Using zip format for help pages, examples, etc.",18886,Prof Brian Ripley
+018890.html,"Using zip format for help pages, examples, etc.",18890,Prof Brian Ripley
+018807.html,[R] How to set axis labels?,18807,Prof Brian D Ripley
+018880.html,"Using zip format for help pages, examples, etc.",18880,Prof Brian D Ripley
+018905.html,Documenting data sets,18905,Prof Brian D Ripley
+018810.html,[Andreas Krause &lt;Andreas.Krause@genedata.com&gt;] Re: splus shell escapes,18810,A.J. Rossini
+018853.html,R packages and test code,18853,A.J. Rossini
+018855.html,R packages and test code,18855,A.J. Rossini
+018836.html,.Alias and memory,18836,Jonathan Rougier
+018840.html,[R] R and kron,18840,Jonathan Rougier
+018857.html,Extension to outer(),18857,Jonathan Rougier
+018883.html,plot.formula and pch= (PR#149),18883,Jonathan Rougier
+018888.html,"Using zip format for help pages, examples, etc.",18888,Jonathan Rougier
+018818.html,bessel_?.c constants,18818,Gregory R. Warnes
+018819.html,bessel_?.c constants (fwd),18819,Gregory R. Warnes
+018909.html,&quot;dump&quot; Splus -&gt; R,18909,Gregory R. Warnes
+018910.html,"GC, Disk Storage, etc",18910,Gregory R. Warnes
+018882.html,R: error report (PR#150),18882,adelchi.azzalini@jrc.it
+018825.html,summary() of lm() problem (PR#135),18825,fears@roycastle.liv.ac.uk
+018849.html,y with diaeresis (PR#143),18849,guido@hal.stat.unipd.it
+018867.html,readline() (PR#147),18867,holzer@stat.math.ethz.ch
+018895.html,problems with formals and get (PR#151),18895,jlindsey@alpha.luc.ac.be
+018860.html,R-0.63.3 package on IRIX 6.5 machine (PR#145),18860,jsarma@cs.gmu.edu
+018801.html,&quot;xpdrows.data.frame&quot; (PR#131),18801,khal@alumni.uv.es
+018908.html,example(dotplot) is broken in 0633 (PR#154),18908,khal@alumni.uv.es
+018823.html,example(.) partly broken (since 0.63.3) --&gt; patch (PR#134),18823,maechler@stat.math.ethz.ch
+018824.html,example(.) partly broken (since 0.63.3) --&gt; patch (PR#134),18824,maechler@stat.math.ethz.ch
+018832.html,[R] bug? and New bug. (PR#138),18832,maechler@stat.math.ethz.ch
+018833.html,[R] bug? and New bug. --- patch for pt() only (PR#138),18833,maechler@stat.math.ethz.ch
+018829.html,funfits (PR#137),18829,novo@uiuc.edu
+018842.html,rbind dimnames with complex (PR#140),18842,oncley@ucar.edu
+018843.html,log plots fail with NAs (PR#141),18843,oncley@ucar.edu
+018844.html,exists finds objects lots of places! (PR#142),18844,oncley@ucar.edu
+018806.html,[R] zero-offset matrices (PR#132),18806,p.dalgaard@biostat.ku.dk
+018809.html,system (PR#133),18809,p.dalgaard@biostat.ku.dk
+018879.html,plot.formula and pch= (PR#149),18879,p.dalgaard@biostat.ku.dk
+018896.html,problems with formals and get (PR#151),18896,p.dalgaard@biostat.ku.dk
+018864.html,nlm docs (PR#146),18864,plindsey@alpha.luc.ac.be
+018869.html,readline() (PR#147),18869,plummer@iarc.fr
+018875.html,readline() (PR#147),18875,plummer@iarc.fr
+018898.html,readline() (PR#147),18898,plummer@iarc.fr
+018826.html,Bug in lm.wfit with zero weights in 0.63.3 (PR#136),18826,ripley@stats.ox.ac.uk
+018830.html,funfits (PR#137),18830,ripley@stats.ox.ac.uk
+018903.html,Example(persp) fails in 0.63.4 and 0.64 (PR#152),18903,ripley@stats.ox.ac.uk
+018846.html,exists finds objects lots of places! (PR#142),18846,thomas@biostat.washington.edu
+018856.html,glm throws erroneous(?)'names attribute must be the same length as the vector' (PR#144),18856,wagman@enteract.com

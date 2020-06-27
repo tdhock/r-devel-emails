@@ -1,0 +1,176 @@
+link,Subject,id,author
+025686.html,[Rd] R-1.6.2 on Jan.10,25686,Peter Dalgaard BSA
+025703.html,[Rd] Bug list summary (automatic post),25703,Peter Dalgaard BSA
+025725.html,[Rd] Determining the break points by hist() leads to errors (PR#2432),25725,Peter Dalgaard BSA
+025727.html,"[Rd] RNG.c: unif_rand, MARSAGLIA_MULTICARRY (PR#2437)",25727,Peter Dalgaard BSA
+025776.html,[Rd] infinite loop in make for src/unix (PR#2477),25776,Peter Dalgaard BSA
+025780.html,[Rd] Bug list summary (automatic post),25780,Peter Dalgaard BSA
+025817.html,[Rd] survival bug? (PR#2499),25817,Peter Dalgaard BSA
+025849.html,[Rd] r-bugs web site temporarily down,25849,Peter Dalgaard BSA
+025851.html,[Rd] hist (PR#2512),25851,Peter Dalgaard BSA
+025862.html,[Rd] summary.table parameter bug (PR#2514),25862,Peter Dalgaard BSA
+025855.html,[Rd] minor error in documentation of pmax in base (PR#2513),25855,Jonathan Baron
+025857.html,[Rd] minor error in documentation of pmax in base (PR#2513),25857,Jonathan Baron
+025836.html,[Rd] Re: Matrix Package for R,25836,Douglas Bates
+025822.html,[Rd] Name spaces and behavior of overloaded functions?,25822,Henrik Bengtsson
+025833.html,Suggestion for improvement of the plot.histogram() function (Was: FW: [Rd] Name spaces and behavior of overloaded functions?),25833,Henrik Bengtsson
+025815.html,[Rd] rmultinom() -- how \\ via own C code?,25815,Ben Bolker
+025818.html,[Rd] help page for anova.glm/variation between S-PLUS and R behavior,25818,Ben Bolker
+025758.html,[Rd] Methods package is now attached by default,25758,John Chambers
+025765.html,[Rd] Methods package is now attached by default,25765,John Chambers
+025770.html,[Rd] Methods package is now attached by default,25770,John Chambers
+025773.html,[Rd] UseMethod change; isas-tests; all.equal,25773,John Chambers
+025784.html,[Rd] UseMethod; all.equal; isas-tests,25784,John Chambers
+025846.html,[Rd] Possible bug in socketConnection (PR#2511),25846,DEd@novonordisk.com
+025835.html,[Rd] Re: [R] calling sweave function from latex,25835,Friedrich.Leisch@univie.ac.at
+025759.html,[Rd] Methods package is now attached by default,25759,Jeff Gentry
+025761.html,[Rd] Methods package is now attached by default,25761,Jeff Gentry
+025775.html,[Rd] infinite loop in make for src/unix (PR#2477),25775,Paul Gilbert
+025687.html,[Rd] rounding errors in max.col(),25687,Philippe Grosjean
+025690.html,[Rd] rounding errors in max.col(),25690,Philippe Grosjean
+025712.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25712,Philippe Grosjean
+025718.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25718,Philippe Grosjean
+025722.html,[Rd] trySilent (was try.Silent),25722,Kurt Hornik
+025739.html,[Rd] ctest package: wilcox.test() produces integer overflow (PR#2453),25739,Kurt Hornik
+025769.html,[Rd] Methods package is now attached by default,25769,Kurt Hornik
+025821.html,[Rd] rmultinom() -- how \\ via own C code?,25821,Kurt Hornik
+025771.html,[Rd] Methods package is now attached by default,25771,Torsten Hothorn
+025781.html,[Rd] package mvtnorm: sigma parameter in pmvnorm() (PR#2478),25781,Torsten Hothorn
+025762.html,[Rd] read.table bug in Mac OS X (PR#2469),25762,Stefano Iacus
+025792.html,[Rd] Macintosh rm162 fails read.table() from sample (PR#2485),25792,Stefano Iacus
+025783.html,[Rd] bug in CrossTable (package:gregmisc) (PR#2480),25783,John_Hendrickx@yahoo.com
+025719.html,[Rd] try.Silent,25719,Paulo Justiniano Ribeiro Jr
+025723.html,[Rd] trySilent (was try.Silent),25723,Paulo Justiniano Ribeiro Jr
+025693.html,[Rd] APL?,25693,Kaluga
+025858.html,[Rd] hist (PR#2512),25858,Peter Kleiweg
+025697.html,[Rd] lm.fit peak memory usage,25697,Laurens Leerink
+025689.html,[Rd] Re: [R-SIG-Mac]4. Exit Gifi Gnome problem,25689,Jan de Leeuw
+025750.html,[Rd] Re: [R] Announce: pmg -- menu driven GUI using RGtk,25750,Jan de Leeuw
+025805.html,[Rd] new function: showcolors {base},25805,Nicholas Lewin-Koh
+025696.html,[Rd] save bug (PR#2418),25696,"Liaw, Andy"
+025854.html,[Rd] minor error in documentation of pmax in base (PR#2513),25854,"Liaw, Andy"
+025856.html,[Rd] minor error in documentation of pmax in base (PR#2513),25856,"Liaw, Andy"
+025766.html,[Rd] supplying gradient to constrOptim(),25766,Thomas Lumley
+025787.html,[Rd] Methods package is now attached by default,25787,Thomas Lumley
+025825.html,[Rd] The function 'any' (PR#2503),25825,Thomas Lumley
+025793.html,[Rd] Methods package is now attached by default,25793,Martin Maechler
+025806.html,[Rd] new function: showcolors {base},25806,Martin Maechler
+025812.html,[Rd] hist() with option &quot;sub&quot; (PR#2492),25812,Martin Maechler
+025814.html,[Rd] rmultinom() -- how \\ via own C code?,25814,Martin Maechler
+025848.html,[Rd] Embedding R in C++,25848,Martin Maechler
+025831.html,[Rd] print.default and attributes,25831,Mark.Bravington@csiro.au
+025841.html,[Rd] print.default and attributes,25841,Mark.Bravington@csiro.au
+025823.html,[Rd] Timezone (PR#2501),25823,Michael.Jacob@bruker-axs.de
+025692.html,[Rd] R-1.6.2 on Jan.10,25692,Duncan Murdoch
+025698.html,[Rd] save bug (PR#2418),25698,Duncan Murdoch
+025699.html,[Rd] save bug (PR#2418),25699,Duncan Murdoch
+025709.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25709,Duncan Murdoch
+025716.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25716,Duncan Murdoch
+025745.html,[Rd] Warning appears after update.packages() (PR#2459),25745,Duncan Murdoch
+025752.html,[Rd] file.choose (PR#2465),25752,Duncan Murdoch
+025804.html,[Rd] new function: showcolors {base},25804,Duncan Murdoch
+025730.html,[Rd] NASDAQ ALERT - NATK Revenues UP 1594% - Signs $55 Million Deal................... sjyga (PR#2439),25730,Nasdaq_Newsdesk_5@xo.com
+025757.html,[Rd] supplying gradient to constrOptim(),25757,Roger Peng
+025779.html,[Rd] Typo in ?Startup documentation,25779,Roger Peng
+025786.html,[Rd] Methods package is now attached by default,25786,Roger Peng
+025839.html,[Rd] vector passed to `if' in `pgamma',25839,Roger Peng
+025763.html,[Rd] Methods package is now attached by default,25763,Prof Brian D Ripley
+025830.html,[Rd] Re: (PR#2504) User error in trying a non-CRAN site which is way old,25830,Prof Brian D Ripley
+025859.html,[Rd] hist (PR#2512),25859,Prof Brian D Ripley
+025861.html,[Rd] summary.table parameter bug (PR#2514),25861,Prof Brian D Ripley
+025826.html,[Rd] (no subject),25826,Steve S
+025789.html,[Rd] [R] proposal: lattice/levelplot: panel.catlevelplot,25789,Deepayan Sarkar
+025801.html,[Rd] [R] proposal: lattice/levelplot: panel.catlevelplot,25801,Deepayan Sarkar
+025790.html,[Rd] bug in CrossTable (package:gregmisc) (PR#2480),25790,Marc Schwartz
+025844.html,[Rd] Embedding R in C++,25844,Zed A. Shaw
+025732.html,"[Rd] RNG.c: unif_rand, MARSAGLIA_MULTICARRY (PR#2437)",25732,Richard Simard
+025734.html,[Rd] trySilent (was try.Silent),25734,Luke Tierney
+025829.html,[Rd] Name spaces and behavior of overloaded functions?,25829,Luke Tierney
+025778.html,[Rd] infinite loop in make for src/unix (PR#2477),25778,John Van Voorhis
+025729.html,[Rd] Suggested modification to shell command,25729,"Wright, Kevin"
+025700.html,[Rd] R-devel cross-building,25700,Jun Yan
+025785.html,[Rd] [R] proposal: lattice/levelplot: panel.catlevelplot,25785,Wolfram Fischer - Z/I/M
+025796.html,[Rd] vcd: mosaicplot() with labels written into cells,25796,Wolfram Fischer - Z/I/M
+025797.html,[Rd] text() does not accept data of type POSIXlt (PR#2487),25797,Wolfram Fischer - Z/I/M
+025798.html,[Rd] [R] proposal: lattice/levelplot: panel.catlevelplot,25798,Wolfram Fischer - Z/I/M
+025799.html,[Rd] proposal: lattice/levelplot with zlim,25799,Wolfram Fischer - Z/I/M
+025800.html,[Rd] proposal: lattice/panel.levelplot with show.z.values,25800,Wolfram Fischer - Z/I/M
+025802.html,[Rd] new function: showcolors {base},25802,Wolfram Fischer - Z/I/M
+025803.html,[Rd] new function: twotailed.colors {base},25803,Wolfram Fischer - Z/I/M
+025853.html,[Rd] minor error in documentation of pmax in base (PR#2513),25853,baron@cattell.psych.upenn.edu
+025738.html,[Rd] ctest package: wilcox.test() produces integer overflow (PR#2453),25738,bates@stat.wisc.edu
+025694.html,[Rd] save bug (PR#2418),25694,bert_gunter@merck.com
+025735.html,[Rd] Rprofile.site assignments occur in base package (PR#2448),25735,bert_gunter@merck.com
+025746.html,[Rd] file.choose (PR#2465),25746,bert_gunter@merck.com
+025733.html,[Rd] Re: Movies (PR#2442),25733,big@boss.com
+025741.html,[Rd] Account wird gelöscht (PR#2455),25741,dfrgh@allesklar.de
+025754.html,[Rd] read.table bug in Mac OS X (PR#2469),25754,gwgilc@wm.edu
+025810.html,[Rd] table() with option &quot;exclude=NULL&quot; (PR#2491),25810,kjetil brinchmann halvorsen
+025728.html,[Rd] typo in documentation for lda in MASS (PR#2438),25728,htang@hpl.hp.com
+025788.html,[Rd] Macintosh rm162 fails read.table() from sample (PR#2485),25788,iceman@prado.com
+025743.html,[Rd] Warning appears after update.packages() (PR#2459),25743,jdiaz-saiz@uh.edu
+025747.html,[Rd] Wrong constants in sj function (sm library) (PR#2467),25747,jechacon@unex.es
+025702.html,[Rd] degrees of freedom in nlme() (PR#2384),25702,jerome@hivnet.ubc.ca
+025742.html,[Rd] chron package: delimiter for dates (PR#2458),25742,jerome@hivnet.ubc.ca
+025777.html,[Rd] package mvtnorm: sigma parameter in pmvnorm() (PR#2478),25777,jerome@hivnet.ubc.ca
+025807.html,[Rd] table() with option &quot;exclude=NULL&quot; (PR#2491),25807,jerome@hivnet.ubc.ca
+025809.html,[Rd] hist() with option &quot;sub&quot; (PR#2492),25809,jerome@hivnet.ubc.ca
+025827.html,[Rd] Add-on bug? Win fracdiff failed from http://www.stat.unipg.it/stat/statlib/R/CRAN/ (PR#2504),25827,jussi.makinen@valtiokonttori.fi
+025774.html,[Rd] infinite loop in make for src/unix (PR#2477),25774,jvv@cs.umd.edu
+025737.html,[Rd] Docu buglet in stripchart.Rd (PR#2450),25737,kjetil@entelnet.bo
+025816.html,[Rd] survival bug? (PR#2499),25816,korner@eco.umnw.ethz.ch
+025736.html,[Rd] Rprofile.site assignments occur in base package (PR#2448),25736,ligges@statistik.uni-dortmund.de
+025782.html,[Rd] package mvtnorm: sigma parameter in pmvnorm() (PR#2478),25782,ligges@statistik.uni-dortmund.de
+025811.html,[Rd] hist() with option &quot;sub&quot; (PR#2492),25811,ligges@statistik.uni-dortmund.de
+025828.html,[Rd] Add-on bug? Win fracdiff failed from http://www.stat.unipg.it/stat/statlib/R/CRAN/ (PR#2505),25828,ligges@statistik.uni-dortmund.de
+025824.html,[Rd] The function 'any' (PR#2503),25824,louisept@pweh.com
+025708.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25708,maechler@stat.math.ethz.ch
+025710.html,[Rd] integer coercion when indexing and subsetting (PR#2430),25710,maechler@stat.math.ethz.ch
+025813.html,[Rd] hist() with option &quot;sub&quot; (PR#2492),25813,maechler@stat.math.ethz.ch
+025837.html,[Rd] empty array indexing with dimnames -&gt; erroneous error (PR#2507),25837,maechler@stat.math.ethz.ch
+025845.html,[Rd] empty array indexing with dimnames (PR#2507),25845,maechler@stat.math.ethz.ch
+025704.html,[Rd] plot.ts don't accept ylab (PR#2428),25704,maeder@iac.umnw.ethz.ch
+025767.html,[Rd] BANDS WANTED FOR NEW YORK TV MUSIC SHOW,25767,markafterdark
+025768.html,[Rd] BANDS WANTED FOR NEW YORK TV MUSIC SHOW (PR#2472),25768,markafterdark@aol.com
+025749.html,[Rd] Warning appears after update.packages() (PR#2459),25749,murdoch@stats.uwo.ca
+025707.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25707,phgrosjean@sciviews.org
+025711.html,[Rd] weird breaks in hist (PR#2431),25711,reinhold.koch@unibas.ch
+025717.html,[Rd] weird breaks in hist (PR#2431),25717,reinhold.koch@unibas.ch
+025688.html,[Rd] rounding errors in max.col(),25688,ripley@stats.ox.ac.uk
+025691.html,[Rd] rounding errors in max.col(),25691,ripley@stats.ox.ac.uk
+025695.html,[Rd] save bug (PR#2418),25695,ripley@stats.ox.ac.uk
+025701.html,[Rd] R-devel cross-building,25701,ripley@stats.ox.ac.uk
+025705.html,[Rd] plot.ts don't accept ylab (PR#2428),25705,ripley@stats.ox.ac.uk
+025706.html,[Rd] Re: [R-SIG-Mac]4. Exit Gifi Gnome problem,25706,ripley@stats.ox.ac.uk
+025713.html,[Rd] weird breaks in hist (PR#2431),25713,ripley@stats.ox.ac.uk
+025714.html,[Rd] weird breaks in hist (PR#2431),25714,ripley@stats.ox.ac.uk
+025715.html,[Rd] Undocumented bahavior of as.integer() (PR#2430),25715,ripley@stats.ox.ac.uk
+025720.html,[Rd] weird breaks in hist (PR#2431),25720,ripley@stats.ox.ac.uk
+025721.html,[Rd] trySilent (was try.Silent),25721,ripley@stats.ox.ac.uk
+025731.html,[Rd] Suggested modification to shell command,25731,ripley@stats.ox.ac.uk
+025740.html,(PR#2453) [Rd] ctest package: wilcox.test() produces integer,25740,ripley@stats.ox.ac.uk
+025748.html,[Rd] Wrong constants in sj function (sm library) (PR#2467),25748,ripley@stats.ox.ac.uk
+025751.html,[Rd] password-protected HTTP proxies,25751,ripley@stats.ox.ac.uk
+025753.html,[Rd] file.choose (PR#2465),25753,ripley@stats.ox.ac.uk
+025755.html,[Rd] read.table bug in Mac OS X (PR#2469),25755,ripley@stats.ox.ac.uk
+025756.html,[Rd] read.table bug in Mac OS X (PR#2469),25756,ripley@stats.ox.ac.uk
+025760.html,[Rd] Methods package is now attached by default,25760,ripley@stats.ox.ac.uk
+025764.html,[Rd] Methods package is now attached by default,25764,ripley@stats.ox.ac.uk
+025772.html,[Rd] Methods package is now attached by default,25772,ripley@stats.ox.ac.uk
+025791.html,[Rd] Macintosh rm162 fails read.table() from sample (PR#2485),25791,ripley@stats.ox.ac.uk
+025795.html,[Rd] text() does not accept data of type POSIXlt (PR#2487),25795,ripley@stats.ox.ac.uk
+025808.html,[Rd] table() with option &quot;exclude=NULL&quot; (PR#2491),25808,ripley@stats.ox.ac.uk
+025832.html,[Rd] print.default and attributes,25832,ripley@stats.ox.ac.uk
+025834.html,[Rd] printing of attributes does not dispatch on class (PR#2506),25834,ripley@stats.ox.ac.uk
+025838.html,[Rd] Re: Matrix Package for R,25838,ripley@stats.ox.ac.uk
+025840.html,[Rd] vector passed to `if' in `pgamma',25840,ripley@stats.ox.ac.uk
+025842.html,[Rd] empty array indexing with dimnames (PR#2507),25842,ripley@stats.ox.ac.uk
+025843.html,[Rd] print.default and attributes,25843,ripley@stats.ox.ac.uk
+025847.html,[Rd] Embedding R in C++,25847,ripley@stats.ox.ac.uk
+025852.html,[Rd] hist (PR#2512),25852,ripley@stats.ox.ac.uk
+025860.html,[Rd] summary.table parameter bug (PR#2514),25860,rreeve@liposcience.com
+025726.html,"[Rd] RNG.c: unif_rand, MARSAGLIA_MULTICARRY (PR#2437)",25726,simardr@IRO.UMontreal.CA
+025850.html,[Rd] hist (PR#2512),25850,surko@salk.edu
+025744.html,[Rd] apropos() with partial name (PR#2461),25744,u9801539@leonard.anu.edu.au
+025724.html,[Rd] Determining the break points by hist() leads to errors (PR#2432),25724,volker.franz@tuebingen.mpg.de
+025794.html,[Rd] text() does not accept data of type POSIXlt (PR#2487),25794,wolfram@fischer-zim.ch

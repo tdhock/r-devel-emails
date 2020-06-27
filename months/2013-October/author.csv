@@ -1,0 +1,249 @@
+link,Subject,id,author
+067712.html,[Rd] Version of L-BFGS-B used in optim etc,67712,Prof J C Nash (U30A)
+067720.html,[Rd] user defined macros in Rd files,67720,R. Michael Weylandt &lt;michael.weylandt at gmail.com&gt;
+067615.html,"[Rd] For numeric x, as.character(x) doesn't always match signif(x,	15)",67615,Suharto Anggono Suharto Anggono
+067834.html,[Rd] R 3.1.0 and C++11,67834,Whit Armstrong
+067745.html,[Rd] Internally accessing ref class methods with .self$x is different from .self[['x']],67745,Gabriel Becker
+067747.html,[Rd] Internally accessing ref class methods with .self$x is different from .self[['x']],67747,Gabriel Becker
+067768.html,[Rd] Question about selective importing of package functions...,67768,Gabriel Becker
+067785.html,[Rd] Assigning empty symbol to variable.,67785,Gabriel Becker
+067786.html,[Rd] Assigning empty symbol to variable.,67786,Gabriel Becker
+067852.html,[Rd] Huge performance difference between implicit and explicit	print,67852,Gabriel Becker
+067800.html,[Rd] possible Sweave problem in rdevel build on Debian 6.0.8?,67800,Skye Bender-deMoll
+067803.html,[Rd] possible Sweave problem in rdevel build on Debian 6.0.8?,67803,Skye Bender-deMoll
+067807.html,[Rd] appropriate work-around for problems with a specific plot device (Rstudio)?,67807,Skye Bender-deMoll
+067657.html,[Rd] read.table() with quoted integers,67657,Henrik Bengtsson
+067660.html,[Rd] read.table() with quoted integers,67660,Henrik Bengtsson
+067698.html,[Rd] http://r.research.att.com/ (daily R binaries for OSX) seems to	be down,67698,Henrik Bengtsson
+067710.html,[Rd] user defined macros in Rd files,67710,Henrik Bengtsson
+067715.html,[Rd] install.packages() removes package on Windows,67715,Henrik Bengtsson
+067722.html,[Rd] user defined macros in Rd files,67722,Henrik Bengtsson
+067723.html,[Rd] Compatibility with R 2.15.x: Makefile for (non-Sweave)	vignettes in vignettes/?,67723,Henrik Bengtsson
+067724.html,[Rd] reg.finalizer(): Is it safe for the finalizer function to attach/load a package?,67724,Henrik Bengtsson
+067726.html,[Rd] Compatibility with R 2.15.x: Makefile for (non-Sweave) vignettes in vignettes/?,67726,Henrik Bengtsson
+067818.html,[Rd] advise on Depends,67818,Henrik Bengtsson
+067631.html,[Rd] version comparison puzzle,67631,Ben Bolker
+067729.html,[Rd] Q-Q plot scaling in plot.lm(); bug or thinko?,67729,Ben Bolker
+067653.html,[Rd] read.table() with quoted integers,67653,Milan Bouchet-Valat
+067654.html,[Rd] read.table() with quoted integers,67654,Milan Bouchet-Valat
+067756.html,[Rd] Suggestions for an &quot;official&quot; place to store permissions/options for a package?,67756,Milan Bouchet-Valat
+067808.html,[Rd] appropriate work-around for problems with a specific plot device (Rstudio)?,67808,Milan Bouchet-Valat
+067623.html,[Rd] C++ debugging help needed,67623,Ross Boylan
+067626.html,[Rd] C++ debugging help needed,67626,Ross Boylan
+067740.html,[Rd] [Rocks-Discuss] Two R editiosn in Unix cluster systems,67740,Adam Brenner
+067636.html,[Rd] check warning  with .onLoad() and setClass(),67636,John Chambers
+067662.html,[Rd] check warning  with .onLoad() and setClass(),67662,John Chambers
+067753.html,[Rd] Possible problem with namespaceImportFrom() and methods	for generic primitive functions,67753,John Chambers
+067816.html,[Rd] advise on Depends,67816,John Chambers
+067820.html,[Rd] advise on Depends,67820,John Chambers
+067842.html,"[Rd] unloadNamespace, getPackageName and &quot;Created a package name xxx &quot; warning",67842,John Chambers
+067744.html,[Rd] Internally accessing ref class methods with .self$x is	different from .self[['x']],67744,Winston Chang
+067746.html,[Rd] Internally accessing ref class methods with .self$x is different from .self[['x']],67746,Winston Chang
+067642.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67642,Imanuel Costigan
+067665.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67665,Imanuel Costigan
+067667.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67667,Imanuel Costigan
+067675.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67675,Imanuel Costigan
+067663.html,[Rd] Allow semantic versioning for packages,67663,G&#225;bor Cs&#225;rdi
+067671.html,[Rd] Allow semantic versioning for packages,67671,G&#225;bor Cs&#225;rdi
+067674.html,[Rd] Allow semantic versioning for packages,67674,G&#225;bor Cs&#225;rdi
+067691.html,[Rd] Allow semantic versioning for packages,67691,G&#225;bor Cs&#225;rdi
+067696.html,[Rd] Allow semantic versioning for packages,67696,G&#225;bor Cs&#225;rdi
+067833.html,[Rd] Package size NOTE in R CMD check,67833,G&#225;bor Cs&#225;rdi
+067837.html,"[Rd] Imports, importFrom slow (for Matrix)",67837,G&#225;bor Cs&#225;rdi
+067839.html,"[Rd] Imports, importFrom slow (for Matrix)",67839,G&#225;bor Cs&#225;rdi
+067840.html,"[Rd] Imports, importFrom slow (for Matrix)",67840,G&#225;bor Cs&#225;rdi
+067700.html,[Rd] How to write R data frame to HDFS using rhdfs?,67700,Gaurav Dasgupta
+067713.html,[Rd] Replacing the Random Number Generator in Stand Alone Library,67713,Nigel Delaney
+067739.html,[Rd] FW: Replacing the Random Number Generator in Stand Alone	Library,67739,Nigel Delaney
+067702.html,[Rd] Version of L-BFGS-B used in optim etc,67702,David Duffy
+067728.html,[Rd] how to prevent default argument values from being found,67728,William Dunlap
+067620.html,[Rd] C++ debugging help needed,67620,Dirk Eddelbuettel
+067646.html,[Rd] check warning  with .onLoad() and setClass(),67646,Dirk Eddelbuettel
+067652.html,[Rd] check warning  with .onLoad() and setClass(),67652,Dirk Eddelbuettel
+067677.html,[Rd] R 3.1.0 and C++11,67677,Dirk Eddelbuettel
+067688.html,[Rd] R 3.1.0 and C++11,67688,Dirk Eddelbuettel
+067765.html,[Rd] Question about selective importing of package functions...,67765,Dirk Eddelbuettel
+067782.html,[Rd] About integrating R inside a C++ software,67782,Dirk Eddelbuettel
+067817.html,[Rd] advise on Depends,67817,Dirk Eddelbuettel
+067849.html,[Rd] Where to drop a python script?,67849,Dirk Eddelbuettel
+067749.html,[Rd] Q-Q plot scaling in plot.lm(); bug or thinko?,67749,S Ellison
+067750.html,[Rd] Possible tweak to R intro - was RE: [R] Subseting a data.frame	-,67750,S Ellison
+067752.html,[Rd] Possible problem with namespaceImportFrom() and methods for generic primitive functions,67752,Karl Forner
+067841.html,"[Rd] unloadNamespace,	getPackageName and &quot;Created a package name xxx &quot; warning",67841,Karl Forner
+067618.html,[Rd] C++ debugging help needed,67618,Romain Francois
+067622.html,[Rd] C++ debugging help needed,67622,Romain Francois
+067625.html,[Rd] C++ debugging help needed,67625,Romain Francois
+067649.html,[Rd] bug/infelicity in citation(&quot;base&quot;),67649,Michael Friendly
+067681.html,[Rd] [Windows] Behaviour of shell on error,67681,Renaud Gaujoux
+067741.html,[Rd] randomForest: Numeric deviation between 32/64 Windows builds,67741,Rosenberger  George
+067770.html,[Rd] Question about selective importing of package functions...,67770,Paul Gilbert
+067819.html,[Rd] advise on Depends,67819,Paul Gilbert
+067853.html,[Rd] Where to drop a python script?,67853,Paul Gilbert
+067857.html,[Rd] Where to drop a python script?,67857,Paul Gilbert
+067859.html,[Rd] Where to drop a python script?,67859,Paul Gilbert
+067775.html,"[Rd] lapply(ts(1:2), length) inconsistent answers",67775,Spencer Graves
+067637.html,[Rd] Including R code from another package...,67637,Jonathan Greenberg
+067754.html,[Rd] Suggestions for an &quot;official&quot; place to store permissions/options for a package?,67754,Jonathan Greenberg
+067760.html,[Rd] Question about selective importing of package functions...,67760,Jonathan Greenberg
+067762.html,[Rd] Question about selective importing of package functions...,67762,Jonathan Greenberg
+067764.html,[Rd] Question about selective importing of package functions...,67764,Jonathan Greenberg
+067766.html,[Rd] Question about selective importing of package functions...,67766,Jonathan Greenberg
+067847.html,[Rd] Where to drop a python script?,67847,Jonathan Greenberg
+067763.html,[Rd] Question about selective importing of package functions...,67763,Gabor Grothendieck
+067823.html,[Rd] Multivariate time series in R 3 vs R 2,67823,Gabor Grothendieck
+067851.html,[Rd] Huge performance difference between implicit and explicit	print,67851,Gabor Grothendieck
+067779.html,[Rd] Possible tweak to R intro - was RE: [R] Subseting a data.frame -,67779,Bert Gunter
+067704.html,[Rd] user defined macros in Rd files,67704,Kasper Daniel Hansen
+067805.html,[Rd] advise on Depends,67805,Kasper Daniel Hansen
+067759.html,[Rd] Subversion log no longer being updated daily,67759,Berend Hasselman
+067773.html,[Rd] Subversion log no longer being updated daily,67773,Berend Hasselman
+067692.html,[Rd] graphics:persp - suggestion,67692,Christoph H&#228;ni
+067676.html,[Rd] Compiler warning: function returns address of local variable,67676,Gevis Inko
+067748.html,[Rd] Parallel R expression evaluations,67748,JaiReddy
+067758.html,[Rd] Parallel R expression evaluations,67758,JaiReddy
+067734.html,[Rd] Two R editiosn in Unix cluster systems,67734,Paul Johnson
+067843.html,"[Rd] unique(1:3,nmax=1) freezes R",67843,Helske Jouni
+067641.html,[Rd] [PATCH] file.access returns success for NA,67641,Scott Kostyshak
+067656.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67656,Scott Kostyshak
+067719.html,[Rd] [PATCH] minor suggestions for R-ints manual,67719,Scott Kostyshak
+067635.html,[Rd] check warning  with .onLoad() and setClass(),67635,Rainer M Krug
+067644.html,[Rd] check warning  with .onLoad() and setClass(),67644,Rainer M Krug
+067648.html,[Rd] check warning  with .onLoad() and setClass(),67648,Rainer M Krug
+067655.html,[Rd] check warning  with .onLoad() and setClass(),67655,Rainer M Krug
+067680.html,[Rd] SOLVED:  check warning  with .onLoad() and setClass(),67680,Rainer M Krug
+067682.html,[Rd] search for variable in package in .GlobalEnv first,67682,Rainer M Krug
+067684.html,[Rd] SOLVED: search for variable in package in .GlobalEnv first,67684,Rainer M Krug
+067736.html,[Rd] Two R editiosn in Unix cluster systems,67736,Peter Langfelder
+067814.html,[Rd] advise on Depends,67814,Michael Lawrence
+067639.html,[Rd] Including R code from another package...,67639,Uwe Ligges
+067640.html,[Rd] R-3.0.2 - Win7_64 - alone_decoder.c: Permission denied	error,67640,Uwe Ligges
+067809.html,[Rd] appropriate work-around for problems with a specific plot device (Rstudio)?,67809,"Lorenz, David"
+067828.html,[Rd] R CMD check problem with R 3.0.2,67828,Martin Maechler
+067844.html,"[Rd] Imports, importFrom slow (for Matrix)",67844,Martin Maechler
+067845.html,"[Rd] Imports, importFrom slow (for Matrix)",67845,Martin Maechler
+067629.html,[Rd] Error in &quot;Writing R Extensions&quot;,67629,John Maindonald
+067738.html,[Rd] Two R editiosn in Unix cluster systems,67738,Steven McKinney
+067612.html,[Rd] read.table() with quoted integers,67612,Peter Meilstrup
+067613.html,[Rd] read.table() with quoted integers,67613,Peter Meilstrup
+067659.html,[Rd] read.table() with quoted integers,67659,Peter Meilstrup
+067661.html,[Rd] read.table() with quoted integers,67661,Peter Meilstrup
+067846.html,"[Rd] unique(1:3,nmax=1) freezes R",67846,Joris Meys
+067774.html,[Rd] Building Windows package .zip files,67774,Martin Morgan
+067856.html,[Rd] tar warnings in R-3.0.2 RC when R is installed by a different (non-root) user,67856,Martin Morgan
+067616.html,[Rd] C++ debugging help needed,67616,Duncan Murdoch
+067617.html,[Rd] C++ debugging help needed,67617,Duncan Murdoch
+067621.html,[Rd] C++ debugging help needed,67621,Duncan Murdoch
+067624.html,[Rd] C++ debugging help needed,67624,Duncan Murdoch
+067627.html,[Rd] C++ debugging help needed,67627,Duncan Murdoch
+067628.html,[Rd] C++ debugging help needed,67628,Duncan Murdoch
+067647.html,[Rd] read.table() with quoted integers,67647,Duncan Murdoch
+067664.html,[Rd] C++ debugging help needed,67664,Duncan Murdoch
+067683.html,[Rd] search for variable in package in .GlobalEnv first,67683,Duncan Murdoch
+067686.html,[Rd] C++ debugging help needed,67686,Duncan Murdoch
+067693.html,[Rd] graphics:persp - suggestion,67693,Duncan Murdoch
+067694.html,[Rd] graphics:persp - suggestion,67694,Duncan Murdoch
+067703.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,67703,Duncan Murdoch
+067707.html,[Rd] user defined macros in Rd files,67707,Duncan Murdoch
+067711.html,[Rd] user defined macros in Rd files,67711,Duncan Murdoch
+067721.html,[Rd] user defined macros in Rd files,67721,Duncan Murdoch
+067727.html,[Rd] missing documentation entries ... WARNING,67727,Duncan Murdoch
+067757.html,[Rd] Suggestions for an &quot;official&quot; place to store permissions/options for a package?,67757,Duncan Murdoch
+067761.html,[Rd] Question about selective importing of package functions...,67761,Duncan Murdoch
+067767.html,[Rd] Question about selective importing of package functions...,67767,Duncan Murdoch
+067769.html,[Rd] Question about selective importing of package functions...,67769,Duncan Murdoch
+067777.html,[Rd] Subversion log no longer being updated daily,67777,Duncan Murdoch
+067799.html,[Rd] interrupting Sweave leaves open sink connection,67799,Duncan Murdoch
+067804.html,[Rd] interrupting Sweave leaves open sink connection,67804,Duncan Murdoch
+067813.html,[Rd] R CMD check problem with R 3.0.2,67813,Duncan Murdoch
+067825.html,[Rd] R CMD check problem with R 3.0.2,67825,Duncan Murdoch
+067791.html,[Rd] png(type='cairo'): point symbols without boarders are not anti-aliased?,67791,Paul Murrell
+067679.html,[Rd] Compiler warning: function returns address of local	variable,67679,Radford Neal
+067670.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67670,Sean O'Riordain
+067855.html,[Rd] Huge performance difference between implicit and explicit	print,67855,Sean O'Riordain
+067643.html,[Rd]  read.table() with quoted integers,67643,Jens Oehlschl&#228;gel
+067634.html,[Rd] version comparison puzzle,67634,Jari Oksanen
+067725.html,[Rd] Compatibility with R 2.15.x: Makefile for	(non-Sweave)	vignettes in vignettes/?,67725,Jari Oksanen
+067784.html,[Rd] Assigning empty symbol to variable.,67784,Jeroen Ooms
+067792.html,[Rd] About integrating R inside a C++ software,67792,Jeroen Ooms
+067788.html,[Rd] Set operation generics,67788,Herv&#233; Pag&#232;s
+067797.html,[Rd] Set operation generics,67797,Herv&#233; Pag&#232;s
+067821.html,[Rd] advise on Depends,67821,Herv&#233; Pag&#232;s
+067701.html,[Rd] How to write R data frame to HDFS using rhdfs?,67701,Brian G. Peterson
+067619.html,[Rd] C++ debugging help needed,67619,Martyn Plummer
+067633.html,[Rd] version comparison puzzle,67633,Martyn Plummer
+067685.html,[Rd] C++ debugging help needed,67685,Martyn Plummer
+067687.html,[Rd] R 3.1.0 and C++11,67687,Martyn Plummer
+067815.html,[Rd] Multivariate time series in R 3 vs R 2,67815,Martyn Plummer
+067632.html,[Rd] predictions in nlme without fixed covariantes,67632,Prof Brian Ripley
+067678.html,[Rd] Compiler warning: function returns address of local	variable,67678,Prof Brian Ripley
+067732.html,[Rd] discrepancy between r cmd check --as-cran and messages at submission,67732,Prof Brian Ripley
+067742.html,[Rd] randomForest: Numeric deviation between 32/64 Windows	builds,67742,Prof Brian Ripley
+067776.html,[Rd] Possible tweak to R intro - was RE: [R] Subseting a data.frame -,67776,Prof Brian Ripley
+067801.html,[Rd] possible Sweave problem in rdevel build on Debian 6.0.8?,67801,Prof Brian Ripley
+067836.html,[Rd] Package size NOTE in R CMD check,67836,Prof Brian Ripley
+067838.html,"[Rd] Imports, importFrom slow (for Matrix)",67838,Prof Brian Ripley
+067854.html,[Rd] Where to drop a python script?,67854,Prof Brian Ripley
+067858.html,[Rd] Where to drop a python script?,67858,Prof Brian Ripley
+067829.html,[Rd] missing documentation entries ... WARNING,67829,Luis Rodriguez
+067830.html,[Rd] missing documentation entries ... WARNING,67830,Luis Rodriguez
+067730.html,[Rd] missing documentation entries ... WARNING,67730,Luis Rodr&#237;guez
+067718.html,[Rd] C++ debugging help needed,67718,Dominick Samperi
+067699.html,[Rd] http://r.research.att.com/ (daily R binaries for OSX) seems to	be down,67699,Marc Schwartz
+067848.html,[Rd] Where to drop a python script?,67848,Marc Schwartz
+067716.html,[Rd] install.packages() removes package on Windows,67716,Jon Olav Skoien
+067638.html,[Rd] Including R code from another package...,67638,Greg Snow
+067798.html,[Rd] interrupting Sweave leaves open sink connection,67798,Michael Sumner
+067832.html,[Rd] interrupting Sweave leaves open sink connection,67832,Michael Sumner
+067755.html,[Rd] Suggestions for an &quot;official&quot; place to store	permissions/options for a package?,67755,Reijo Sund
+067690.html,[Rd] uninformative error message when building package: &#8216;x&#8217; must be an atomic vector,67690,Dan Tenenbaum
+067697.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,67697,Dan Tenenbaum
+067714.html,[Rd] install.packages() removes package on Windows,67714,Dan Tenenbaum
+067717.html,[Rd] install.packages() removes package on Windows,67717,Dan Tenenbaum
+067827.html,[Rd] R CMD check issue with R 3.0.2,67827,Terry Therneau
+067645.html,[Rd] read.table() with quoted integers,67645,Joshua Ulrich
+067650.html,[Rd] read.table() with quoted integers,67650,Joshua Ulrich
+067651.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67651,Joshua Ulrich
+067666.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67666,Joshua Ulrich
+067733.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67733,Joshua Ulrich
+067668.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67668,Simon Urbanek
+067669.html,[Rd] Allow semantic versioning for packages,67669,Simon Urbanek
+067672.html,[Rd] Possible POSIXlt / wday glitch &amp; bugs.r-project.org status,67672,Simon Urbanek
+067673.html,[Rd] Allow semantic versioning for packages,67673,Simon Urbanek
+067689.html,[Rd] Allow semantic versioning for packages,67689,Simon Urbanek
+067695.html,[Rd] Allow semantic versioning for packages,67695,Simon Urbanek
+067751.html,[Rd] Parallel R expression evaluations,67751,Simon Urbanek
+067771.html,[Rd] Parallel R expression evaluations,67771,Simon Urbanek
+067772.html,[Rd] Subversion log no longer being updated daily,67772,Simon Urbanek
+067794.html,[Rd] png(type='cairo'): point symbols without boarders are not	anti-aliased?,67794,Simon Urbanek
+067824.html,[Rd] R CMD check problem with R 3.0.2,67824,Simon Urbanek
+067810.html,[Rd] R CMD check problem with R 3.0.2,67810,Sanford Weisberg
+067705.html,[Rd] No warning for conflicting methods?,67705,Hadley Wickham
+067709.html,[Rd] No warning for conflicting methods?,67709,Hadley Wickham
+067783.html,[Rd] Set operation generics,67783,Hadley Wickham
+067795.html,[Rd] Set operation generics,67795,Hadley Wickham
+067850.html,[Rd] Huge performance difference between implicit and explicit print,67850,Hadley Wickham
+067781.html,[Rd] About integrating R inside a C++ software,67781,Tambellini William
+067614.html,[Rd] read.table() with quoted integers,67614,David Winsemius
+067630.html,[Rd] Error in &quot;Writing R Extensions&quot;,67630,Yihui Xie
+067706.html,[Rd] user defined macros in Rd files,67706,Yihui Xie
+067708.html,[Rd] user defined macros in Rd files,67708,Yihui Xie
+067789.html,[Rd] png(type='cairo'): point symbols without boarders are not	anti-aliased?,67789,Yihui Xie
+067790.html,[Rd] png(type='cairo'): point symbols without boarders are not	anti-aliased?,67790,Yihui Xie
+067793.html,[Rd] png(type='cairo'): point symbols without boarders are not	anti-aliased?,67793,Yihui Xie
+067796.html,[Rd] png(type='cairo'): point symbols without boarders are not	anti-aliased?,67796,Yihui Xie
+067811.html,[Rd] R CMD check problem with R 3.0.2,67811,Yihui Xie
+067812.html,[Rd] appropriate work-around for problems with a specific plot device (Rstudio)?,67812,Yihui Xie
+067831.html,[Rd] R CMD check problem with R 3.0.2,67831,Yihui Xie
+067737.html,[Rd] Two R editiosn in Unix cluster systems,67737,Ista Zahn
+067731.html,[Rd] discrepancy between r cmd check --as-cran and messages at	submission,67731,corentin barbu
+067735.html,[Rd] discrepancy between r cmd check --as-cran and messages at	submission,67735,corentin barbu
+067658.html,[Rd] read.table() with quoted integers,67658,peter dalgaard
+067743.html,[Rd] Replacing the Random Number Generator in Stand Alone	Library,67743,peter dalgaard
+067778.html,[Rd] Possible tweak to R intro - was RE: [R] Subseting a	data.frame -,67778,peter dalgaard
+067780.html,[Rd] Parallel R expression evaluations,67780,peter dalgaard
+067802.html,[Rd] possible Sweave problem in rdevel build on Debian 6.0.8?,67802,peter dalgaard
+067835.html,[Rd] R 3.1.0 and C++11,67835,romain at r-enthusiasts.com
+067787.html,[Rd] Assigning empty symbol to variable.,67787,luke-tierney at uiowa.edu
+067806.html,[Rd] Multivariate time series in R 3 vs R 2,67806,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;
+067822.html,[Rd] Multivariate time series in R 3 vs R 2,67822,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;
+067826.html,[Rd] Multivariate time series in R 3 vs R 2,67826,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;

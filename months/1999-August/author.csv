@@ -1,0 +1,119 @@
+link,Subject,id,author
+019493.html,bug ? wilcox() (PR#243),19493,ATurpin@discoveriesinsight.org
+019471.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19471,Peter Dalgaard BSA
+019474.html,"cbind is not generic as claimed, omits labels where S has them (PR#240)",19474,Peter Dalgaard BSA
+019476.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19476,Peter Dalgaard BSA
+019482.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19482,Peter Dalgaard BSA
+019499.html,bug ? wilcox() (PR#243),19499,Peter Dalgaard BSA
+019511.html,weighted.residuals() ?,19511,Peter Dalgaard BSA
+019516.html,Installation problem on Redhat 6.0 (PR#247),19516,Peter Dalgaard BSA
+019542.html,date() should not append a final &quot;\n&quot; ?!?,19542,Peter Dalgaard BSA
+019545.html,Bug list summary (automatic post),19545,Peter Dalgaard BSA
+019550.html,broken link in R FAQ page? (PR#255),19550,Peter Dalgaard BSA
+019551.html,broken link in R FAQ page? (PR#255),19551,Peter Dalgaard BSA
+019563.html,Compiling R under Caldera Open Linux 2.2 (PR#260),19563,Peter Dalgaard BSA
+019565.html,interface w/ emacs (PR#261),19565,Peter Dalgaard BSA
+019570.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19570,Peter Dalgaard BSA
+019572.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19572,Peter Dalgaard BSA
+019576.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19576,Peter Dalgaard BSA
+019577.html,Suggestion for  qqplot() improvement,19577,Peter Dalgaard BSA
+019579.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19579,Peter Dalgaard BSA
+019581.html,Suggestion for  qqplot() improvement,19581,Peter Dalgaard BSA
+019583.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19583,Peter Dalgaard BSA
+019556.html,Greek letters in outer margins. (PR#258),19556,BXC@NOVO.dk
+019463.html,Advice interfacing to an imaging library,19463,Richard Beare
+019468.html,R internals,19468,Richard Beare
+019530.html,R-devel Aug18 version on hpux10.20,19530,U-E59264-Osman F Buyukisik
+019467.html,Memory profiling/benchmarking,19467,Lyndon Drake
+019484.html,ts and defaults,19484,Paul Gilbert
+019486.html,ts and defaults,19486,Paul Gilbert
+019489.html,ts and defaults,19489,Paul Gilbert
+019504.html,INSTALL script does not handle spaces in pathnames correctly (PR#242),19504,Kurt Hornik
+019508.html,R Add-on Packages,19508,Kurt Hornik
+019521.html,configure / linking problem when using hdf5,19521,Kurt Hornik
+019533.html,R-devel Aug18 version on hpux10.20,19533,Kurt Hornik
+019537.html,bug: R says &quot;Floating exception&quot; on DEC-Alpha w/OSF1 (PR#252),19537,Kurt Hornik
+019539.html,date() should not append a final &quot;\n&quot; ?!?,19539,Kurt Hornik
+019541.html,date() should not append a final &quot;\n&quot; ?!?,19541,Kurt Hornik
+019552.html,broken link in R FAQ page? (PR#255),19552,Kurt Hornik
+019475.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19475,Ross Ihaka
+019478.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19478,Ross Ihaka
+019479.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19479,Ross Ihaka
+019488.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19488,Ross Ihaka
+019494.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19494,Ross Ihaka
+019495.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19495,Ross Ihaka
+019522.html,ts in R (again),19522,Ross Ihaka
+019531.html,axis ignores srt/crt (PR#249),19531,Ross Ihaka
+019553.html,Error in ?text (PR#256),19553,J.C.Rougier@durham.ac.uk
+019465.html,Advice interfacing to an imaging library,19465,Duncan Temple Lang
+019535.html,date() should not append a final &quot;\n&quot; ?!?,19535,Friedrich Leisch
+019526.html,axis ignores srt/crt (PR#249),19526,Thomas Lumley
+019559.html,R without X11? (PR#259),19559,Thomas Lumley
+019498.html,cm.colors bug (PR#244),19498,Martin Maechler
+019507.html,weighted.residuals() ?,19507,Martin Maechler
+019512.html,weighted.residuals() ?,19512,Martin Maechler
+019518.html,"strange scan, count.fields --&gt; BUG",19518,Martin Maechler
+019520.html,configure / linking problem when using hdf5,19520,Martin Maechler
+019525.html,axis ignores srt/crt (PR#249),19525,Martin Maechler
+019528.html,diag(); feature freeze; please beta-test..,19528,Martin Maechler
+019534.html,date() should not append a final &quot;\n&quot; ?!?,19534,Martin Maechler
+019538.html,date() should not append a final &quot;\n&quot; ?!?,19538,Martin Maechler
+019540.html,date() should not append a final &quot;\n&quot; ?!?,19540,Martin Maechler
+019543.html,date() should not append a final &quot;\n&quot; ?!?,19543,Martin Maechler
+019555.html,Error in ?text (PR#256),19555,Martin Maechler
+019575.html,Suggestion for  qqplot() improvement,19575,Martin Maechler
+019560.html,Compilation of R under Caldera OpenLinux 2.2,19560,John Maindonald
+019561.html,Compiling R under Caldera Open Linux 2.2,19561,John Maindonald
+019464.html,Advice interfacing to an imaging library,19464,Balasubramanian Narasimhan
+019496.html,ts and defaults,19496,Martyn Plummer
+019501.html,Is a ts of length one a ts? (PR#245),19501,Martyn Plummer
+019503.html,Is a ts of length one a ts? (PR#245),19503,Martyn Plummer
+019506.html,Is a ts of length one a ts? (PR#245),19506,Martyn Plummer
+019505.html,Is a ts of length one a ts? (PR#245),19505,Prof Brian Ripley
+019529.html,feature freeze; please beta-test..,19529,Prof Brian Ripley
+019485.html,ts and defaults,19485,Prof Brian D Ripley
+019487.html,ts and defaults,19487,Prof Brian D Ripley
+019490.html,ts and defaults,19490,Prof Brian D Ripley
+019502.html,Is a ts of length one a ts? (PR#245),19502,Prof Brian D Ripley
+019509.html,R Add-on Packages,19509,Prof Brian D Ripley
+019514.html,Installation problem on Redhat 6.0 (PR#247),19514,Prof Brian D Ripley
+019515.html,ts in R (again),19515,Prof Brian D Ripley
+019523.html,ts in R (again),19523,Prof Brian D Ripley
+019532.html,R-devel Aug18 version on hpux10.20,19532,Prof Brian D Ripley
+019548.html,Strange 'Unimplemented feature in rep' error (PR#254),19548,Prof Brian D Ripley
+019566.html,interface w/ emacs (PR#261),19566,Prof Brian D Ripley
+019567.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19567,Prof Brian D Ripley
+019569.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19569,Prof Brian D Ripley
+019578.html,Suggestion for  qqplot() improvement,19578,Prof Brian D Ripley
+019580.html,Suggestion for  qqplot() improvement,19580,Prof Brian D Ripley
+019573.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19573,A.J. Rossini
+019527.html,diag(),19527,Jonathan Rougier
+019510.html,R Add-on Packages,19510,Adrian Trapletti
+019517.html,"strange scan, count.fields",19517,Adrian Trapletti
+019568.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19568,Alexander Volovics
+019571.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19571,Alexander Volovics
+019574.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19574,Alexander Volovics
+019582.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19582,Alexander Volovics
+019466.html,EPS compliance of postscript device: initclip operator (PR#238),19466,dajm@deeq.demon.co.uk
+019497.html,cm.colors bug (PR#244),19497,david_m_potter@groton.pfizer.com
+019564.html,interface w/ emacs (PR#261),19564,gautier@lion-ag.de
+019477.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19477,ihaka@stat.auckland.ac.nz
+019480.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19480,ihaka@stat.auckland.ac.nz
+019558.html,R without X11? (PR#259),19558,jnf@pcisys.net
+019562.html,Compiling R under Caldera Open Linux 2.2 (PR#260),19562,john.maindonald@anu.edu.au
+019492.html,INSTALL script does not handle spaces in pathnames correctly (PR#242),19492,lyndon@kcbbs.gen.nz
+019519.html,scan() + error interferes with count.fields() in some cases (PR#248),19519,maechler@stat.math.ethz.ch
+019544.html,seg.fault for some illegal .Random.seed (new since 0.64) (PR#253),19544,maechler@stat.math.ethz.ch
+019557.html,Error in ?text (PR#256),19557,maechler@stat.math.ethz.ch
+019536.html,bug: R says &quot;Floating exception&quot; on DEC-Alpha w/OSF1 (PR#252),19536,mlthomps@yayoi.mt.m-kagaku.co.jp
+019483.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19483,p.dalgaard@biostat.ku.dk
+019547.html,Strange 'Unimplemented feature in rep' error (PR#254),19547,prechelt@ira.uka.de
+019470.html,"cbind is not generic as claimed, omits labels where S has them (PR#239)",19470,ripley@stats.ox.ac.uk
+019472.html,"cbind is not generic as claimed, omits labels where S has them (PR#240)",19472,ripley@stats.ox.ac.uk
+019481.html,"cbind is not generic as claimed, omits labels where S has them (PR#241)",19481,ripley@stats.ox.ac.uk
+019500.html,Is a ts of length one a ts? (PR#245),19500,ripley@stats.ox.ac.uk
+019513.html,Installation problem on Redhat 6.0 (PR#247),19513,rprice@honlab.nmfs.hawaii.edu
+019546.html,For Serious Marketers ONLY                                                   zovbs,19546,tbmzuotvux@white-star.com
+019524.html,axis ignores srt/crt (PR#249),19524,thomas@biostat.washington.edu
+019549.html,broken link in R FAQ page? (PR#255),19549,tian@chico.ma.adfa.edu.au
+019554.html,dimnames names lost when subscripting (PR#257),19554,weingessel@ci.tuwien.ac.at

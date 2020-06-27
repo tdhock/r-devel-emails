@@ -1,0 +1,135 @@
+link,Subject,id,author
+073649.html,[Rd] help(clusterApply) (parallel package),73649,Viechtbauer Wolfgang (SP)
+073597.html,[Rd] unlicense,73597,Avraham Adler
+073688.html,[Rd] Unexpected EOF in R-patched_2017-01-30,73688,Avraham Adler
+073690.html,[Rd] Unexpected EOF in R-patched_2017-01-30,73690,Avraham Adler
+073666.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73666,Suharto Anggono Suharto Anggono
+073684.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73684,Suharto Anggono Suharto Anggono
+073648.html,[Rd] Undefined behavior of head() and tail() with n = 0,73648,Florent Angly
+073660.html,[Rd] Undefined behavior of head() and tail() with n = 0,73660,Florent Angly
+073567.html,[Rd] [R] Problems when trying to install and load package &quot;rzmq&quot;,73567,Whit Armstrong
+073570.html,[Rd] [R] Problems when trying to install and load package &quot;rzmq&quot;,73570,Whit Armstrong
+073608.html,[Rd] bug in rbind?,73608,Krzysztof Banas
+073624.html,[Rd] How to handle INT8 data,73624,Gabriel Becker
+073631.html,[Rd] How to handle INT8 data,73631,Gabriel Becker
+073635.html,[Rd] How to handle INT8 data,73635,Gabriel Becker
+073562.html,[Rd] utils::ls.str(): Partial argument name 'digits' to seq()	(should be digits.d?),73562,Henrik Bengtsson
+073571.html,"[Rd] cat(s, file): infinite loop of &quot;invalid char string in output conversion&quot; warnings with UTF-8 encoding",73571,Henrik Bengtsson
+073645.html,[Rd] parallel::mc*: Is it possible for a child process to know it	is a fork?,73645,Henrik Bengtsson
+073650.html,[Rd] parallel::mc*: Is it possible for a child process to know it is a fork?,73650,Henrik Bengtsson
+073657.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73657,Henrik Bengtsson
+073668.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73668,Henrik Bengtsson
+073674.html,[Rd] cross-platform portable code in CRAN Repository Policy,73674,Henrik Bengtsson
+073676.html,[Rd] Subject: Milestone: 10000 packages on CRAN,73676,Henrik Bengtsson
+073654.html,[Rd] :  strptime bug,73654,Georgi Boshnakov
+073681.html,"[Rd] R-devel Digest, Vol 167, Issue 25",73681,Georgi Boshnakov
+073621.html,"[Rd] xtabs(), factors and NAs",73621,Milan Bouchet-Valat
+073640.html,"[Rd] xtabs(), factors and NAs",73640,Milan Bouchet-Valat
+073579.html,[Rd] accelerating matrix multiply,73579,"Cohn, Robert S"
+073592.html,[Rd] accelerating matrix multiply,73592,"Cohn, Robert S"
+073606.html,[Rd] accelerating matrix multiply,73606,"Cohn, Robert S"
+073647.html,[Rd] Upgrading a package to which other packages are LinkingTo,73647,G&#225;bor Cs&#225;rdi
+073672.html,[Rd] cross-platform portable code in CRAN Repository Policy,73672,G&#225;bor Cs&#225;rdi
+073577.html,"[Rd] strsplit(perl=TRUE),	gregexpr(perl=TRUE) very slow for long strings",73577,William Dunlap
+073627.html,[Rd] How to handle INT8 data,73627,William Dunlap
+073655.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73655,William Dunlap
+073656.html,[Rd] Undefined behavior of head() and tail() with n = 0,73656,William Dunlap
+073556.html,[Rd] Definition of uintptr_t in Rinterface.h,73556,Dirk Eddelbuettel
+073588.html,"[Rd] bug with strptime, %OS, and &quot;.&quot;",73588,Dirk Eddelbuettel
+073598.html,[Rd] calling native routines in another package (Sec 5.4.2	of	Writing R Extensions),73598,Dirk Eddelbuettel
+073601.html,[Rd] unlicense,73601,Dirk Eddelbuettel
+073637.html,[Rd] How to handle INT8 data,73637,Dirk Eddelbuettel
+073643.html,[Rd] How to handle INT8 data,73643,Dirk Eddelbuettel
+073673.html,[Rd] cross-platform portable code in CRAN Repository Policy,73673,Dirk Eddelbuettel
+073557.html,[Rd] Definition of uintptr_t in Rinterface.h,73557,Laurent Gautier
+073559.html,[Rd] Definition of uintptr_t in Rinterface.h,73559,Laurent Gautier
+073595.html,[Rd] calling native routines in another package (Sec 5.4.2 of	Writing R Extensions),73595,Charles Geyer
+073596.html,[Rd] unlicense,73596,Charles Geyer
+073604.html,[Rd] unlicense,73604,Charles Geyer
+073617.html,[Rd] unlicense,73617,Charles Geyer
+073620.html,[Rd] unlicense,73620,Charles Geyer
+073581.html,[Rd] problem with print.generic(x)deparse(substitute(x)),73581,Spencer Graves
+073583.html,[Rd] problem with print.generic(x)deparse(substitute(x)),73583,Spencer Graves
+073584.html,[Rd] problem with print.generic(x)deparse(substitute(x)),73584,Spencer Graves
+073663.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73663,Gabor Grothendieck
+073638.html,[Rd] How to handle INT8 data,73638,Kasper Daniel Hansen
+073634.html,[Rd] How to handle INT8 data,73634,Peter Haverty
+073619.html,[Rd] unlicense,73619,Kurt Hornik
+073590.html,[Rd] R 'base' returning 0 as sum of NAs,73590,Alex Ivan Howard
+073568.html,[Rd] seq.int/seq.default,73568,Mick Jordan
+073573.html,[Rd] seq.int/seq.default,73573,Mick Jordan
+073574.html,[Rd] seq.int/seq.default,73574,Mick Jordan
+073605.html,[Rd] accelerating matrix multiply,73605,Tomas Kalibera
+073609.html,[Rd] accelerating matrix multiply,73609,Tomas Kalibera
+073644.html,[Rd] NaN behavior of cumsum,73644,Tomas Kalibera
+073611.html,[Rd] parallel::detectCores() bug on Raspberry Pi B+,73611,Mikko Korpela
+073603.html,[Rd] unlicense,73603,Uwe Ligges
+073613.html,[Rd] unlicense,73613,Uwe Ligges
+073636.html,[Rd] How to handle INT8 data,73636,Willem Ligtenberg
+073563.html,[Rd] utils::ls.str(): Partial argument name 'digits' to	seq()	(should be digits.d?),73563,Martin Maechler
+073572.html,[Rd] seq.int/seq.default,73572,Martin Maechler
+073575.html,[Rd] seq.int/seq.default,73575,Martin Maechler
+073576.html,[Rd] seq.int/seq.default,73576,Martin Maechler
+073578.html,[Rd] seq.int/seq.default,73578,Martin Maechler
+073585.html,[Rd] accelerating matrix multiply,73585,Martin Maechler
+073632.html,"[Rd] xtabs(), factors and NAs",73632,Martin Maechler
+073651.html,[Rd] Undefined behavior of head() and tail() with n = 0,73651,Martin Maechler
+073652.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73652,Martin Maechler
+073659.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73659,Martin Maechler
+073661.html,[Rd] Undefined behavior of head() and tail() with n = 0,73661,Martin Maechler
+073667.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73667,Martin Maechler
+073678.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73678,Martin Maechler
+073687.html,"[Rd] RFC: tapply(*, ..., init.value = NA)",73687,Martin Maechler
+073675.html,[Rd] Matrix package breaks as.matrix method,73675,Robert McGehee
+073682.html,[Rd] Matrix package breaks as.matrix method,73682,Robert McGehee
+073686.html,[Rd] rnbinom Returns Error that says optional argument is	missing,73686,Joris Meys
+073612.html,[Rd] unlicense,73612,Karl Millar
+073614.html,[Rd] unlicense,73614,Karl Millar
+073591.html,[Rd] R 'base' returning 0 as sum of NAs,73591,Duncan Murdoch
+073599.html,[Rd] unlicense,73599,Duncan Murdoch
+073670.html,[Rd] cross-platform portable code in CRAN Repository Policy,73670,Duncan Murdoch
+073580.html,[Rd] accelerating matrix multiply,73580,Radford Neal
+073569.html,[Rd] [R] Problems when trying to install and load package &quot;rzmq&quot;,73569,Jeroen Ooms
+073586.html,[Rd] [R] Problems when trying to install and load package &quot;rzmq&quot;,73586,Jeroen Ooms
+073639.html,[Rd] How to handle INT8 data,73639,Jeroen Ooms
+073646.html,[Rd] parallel::mc*: Is it possible for a child process to know it is a fork?,73646,Jeroen Ooms
+073623.html,[Rd] How to handle INT8 data,73623,Nicolas Paris
+073626.html,[Rd] How to handle INT8 data,73626,Nicolas Paris
+073628.html,[Rd] How to handle INT8 data,73628,Nicolas Paris
+073630.html,[Rd] How to handle INT8 data,73630,Nicolas Paris
+073633.html,[Rd] How to handle INT8 data,73633,Nicolas Paris
+073616.html,[Rd] unlicense,73616,Brian G. Peterson
+073610.html,"[Rd] strptime(&quot;1&quot;,&quot;%m&quot;) returns NA",73610,Martyn Plummer
+073555.html,[Rd] Definition of uintptr_t in Rinterface.h,73555,Prof Brian Ripley
+073680.html,[Rd] Subject: Milestone: 10000 packages on CRAN,73680,Prof Brian Ripley
+073685.html,[Rd] rnbinom Returns Error that says optional argument is missing,73685,Thomas Roh
+073602.html,[Rd] unlicense,73602,Deepayan Sarkar
+073664.html,[Rd] Suggestion: barplot function,73664,Marc Schwartz
+073671.html,[Rd] cross-platform portable code in CRAN Repository Policy,73671,Marc Schwartz
+073564.html,[Rd] .Internal for functions in distn.R,73564,Lukas Stadler
+073622.html,[Rd] NaN behavior of cumsum,73622,Lukas Stadler
+073560.html,[Rd] varimax implementation in stats package,73560,Sebastian Starke
+073625.html,[Rd] How to handle INT8 data,73625,Murray Stokely
+073629.html,[Rd] How to handle INT8 data,73629,Murray Stokely
+073642.html,[Rd] bug in rbind?,73642,Joshua Ulrich
+073593.html,"[Rd] bug with strptime, %OS, and &quot;.&quot;",73593,"Upton, Stephen (Steve) (CIV)"
+073558.html,[Rd] Definition of uintptr_t in Rinterface.h,73558,Simon Urbanek
+073615.html,[Rd] unlicense,73615,Kevin Ushey
+073677.html,[Rd] Subject: Milestone: 10000 packages on CRAN,73677,Ravi Varadhan
+073641.html,[Rd] How to handle INT8 data,73641,Hadley Wickham
+073669.html,[Rd] cross-platform portable code in CRAN Repository Policy,73669,Da Zheng
+073679.html,[Rd] cross-platform portable code in CRAN Repository Policy,73679,Da Zheng
+073561.html,[Rd] varimax implementation in stats package,73561,peter dalgaard
+073566.html,[Rd] [R] Problems when trying to install and load package &quot;rzmq&quot;,73566,peter dalgaard
+073582.html,[Rd] problem with print.generic(x)deparse(substitute(x)),73582,peter dalgaard
+073618.html,[Rd] unlicense,73618,peter dalgaard
+073689.html,[Rd] Unexpected EOF in R-patched_2017-01-30,73689,peter dalgaard
+073662.html,[Rd] Suggestion: barplot function,73662,danielrenato at lycos.com
+073587.html,"[Rd] bug with strptime, %OS, and &quot;.&quot;",73587,frederik at ofb.net
+073589.html,"[Rd] bug with strptime, %OS, and &quot;.&quot;",73589,frederik at ofb.net
+073594.html,"[Rd] bug with strptime, %OS, and &quot;.&quot;",73594,frederik at ofb.net
+073600.html,[Rd] unlicense,73600,frederik at ofb.net
+073607.html,"[Rd] strptime(&quot;1&quot;,&quot;%m&quot;) returns NA",73607,frederik at ofb.net
+073565.html,[Rd] .Internal for functions in distn.R,73565,luke-tierney at uiowa.edu
+073653.html,[Rd] strptime bug,73653,rob vech
+073658.html,[Rd] :  strptime bug [no more!],73658,rob vech

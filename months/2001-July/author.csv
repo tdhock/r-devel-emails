@@ -1,0 +1,168 @@
+link,Subject,id,author
+022807.html,[Rd] Bug list summary (automatic post),22807,Peter Dalgaard BSA
+022811.html,"[Rd] predict.lm(...., se=T), with 1-column model matrix (PR#1018)",22811,Peter Dalgaard BSA
+022813.html,[Rd] Don't test my example; list of Rd macros?,22813,Peter Dalgaard BSA
+022815.html,"[Rd] read.spss, R 1.3.0, win2k",22815,Peter Dalgaard BSA
+022841.html,[Rd] Extra lines when bty=&quot;n&quot; (PR#1021),22841,Peter Dalgaard BSA
+022857.html,[Rd] AnonCVS,22857,Peter Dalgaard BSA
+022863.html,[Rd] data(package = &quot;..&quot;) gives extraneous warning (PR#1024),22863,Peter Dalgaard BSA
+022869.html,[Rd] Access to cran.us.r-project.org,22869,Peter Dalgaard BSA
+022876.html,[Rd] polyroot() (PR#751),22876,Peter Dalgaard BSA
+022880.html,[R] RE: [Rd] too many arguments in foreign function call,22880,Peter Dalgaard BSA
+022890.html,"[Rd] read.spss, R 1.3.0, win2k",22890,Peter Dalgaard BSA
+022896.html,[Rd] Summary:  too many arguments in foreign function call,22896,Peter Dalgaard BSA
+022902.html,[Rd] bug in eval,22902,Peter Dalgaard BSA
+022904.html,[Rd] Bug list summary (automatic post),22904,Peter Dalgaard BSA
+022907.html,[Rd] hang-up with log=&quot;x&quot; and segments (PR#1030),22907,Peter Dalgaard BSA
+022926.html,[Rd] Why not in Debian distro?,22926,Peter Dalgaard BSA
+022942.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22942,Peter Dalgaard BSA
+022949.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22949,Peter Dalgaard BSA
+022856.html,[Rd] AnonCVS,22856,Douglas Bates
+022867.html,[Rd] Access to cran.us.r-project.org,22867,Douglas Bates
+022945.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22945,Douglas Bates
+022870.html,[Rd] Function calls and UseMethod.,22870,Henrik Bengtsson
+022782.html,[Rd] indexing,22782,Ben Bolker
+022797.html,[Rd] indexing,22797,Ben Bolker
+022799.html,[Rd] feature request: readline,22799,Ben Bolker
+022935.html,[Rd] Re: forwarded message from Ross Ihaka,22935,Kevin Buhr
+022817.html,[Rd] The ... argument,22817,John Chambers
+022819.html,[Rd] The ... argument,22819,John Chambers
+022889.html,[R] RE: [Rd] too many arguments in foreign function call,22889,John Chambers
+022898.html,[Rd] Summary:  too many arguments in foreign function call,22898,John Chambers
+022903.html,[Rd] angle/density in barplots/polygon,22903,Tom Cook
+022923.html,[Rd] Why not in Debian distro?,22923,Zsombor Cseres-Gergely
+022925.html,[Rd] Why not in Debian distro?,22925,Zsombor Cseres-Gergely
+022830.html,[Rd] Re: [R] Problems using Computer Modern fonts,22830,Brian D'Urso
+022835.html,[Rd] Problems using Computer Modern fonts,22835,Brian D'Urso
+022894.html,[Rd] Problems using Computer Modern fonts,22894,Brian D'Urso
+022916.html,[Rd] empty drop=F in [,22916,Paul Gilbert
+022801.html,[Rd] typos (PR#1013),22801,Kurt Hornik
+022802.html,[Rd] documentation t.test (PR#1014),22802,Kurt Hornik
+022808.html,[Rd] Re: [R] How to build R-1.3.0 under HP-UX  11.00,22808,Kurt Hornik
+022809.html,[Rd] plot.mts() with type=&quot;p&quot; (PR#1010),22809,Kurt Hornik
+022821.html,[Rd] Re: Re: [R] How to build R-1.3.0 under HP-UX  11.00,22821,Kurt Hornik
+022822.html,[Rd] Re: Re: [R] How to build R-1.3.0 under HP-UX  11.00,22822,Kurt Hornik
+022843.html,[Rd] update.packages and incorrect &quot;Version&quot; (PR#1022),22843,Kurt Hornik
+022862.html,[Rd] data(package = &quot;..&quot;) gives extraneous warning (PR#1024),22862,Kurt Hornik
+022864.html,[Rd] data(package = &quot;..&quot;) gives extraneous warning (PR#1024),22864,Kurt Hornik
+022865.html,[Rd] unbalanced braces in Rd files,22865,Kurt Hornik
+022873.html,[Rd] forwarded message from Inge Monika,22873,Kurt Hornik
+022884.html,[Rd] cmdscale in package mva (PR#1027),22884,Kurt Hornik
+022888.html,[Rd] cmdscale in package mva (PR#1027),22888,Kurt Hornik
+022891.html,[Rd] Re: argument ordering (was &lt;blank&gt;),22891,Kurt Hornik
+022905.html,[Rd] Rd2dvi - script (PR#1029),22905,Kurt Hornik
+022934.html,[Rd] Re: [Omega-remote] Installing RSPython with R 1.3.0,22934,Kurt Hornik
+022936.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22936,Kurt Hornik
+022938.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22938,Kurt Hornik
+022838.html,"[Rd] segments(*, col = c(..,NA,..)) {was &quot;color NA ...&quot;}",22838,Ross Ihaka
+022839.html,[Rd] stripchart() labels,22839,Ross Ihaka
+022930.html,[Rd] angle/density in barplots/polygon,22930,Ross Ihaka
+022827.html,[Rd] Object finalization,22827,Timothy H. Keitt
+022928.html,[Rd] Why not in Debian distro?,22928,Timothy H. Keitt
+022943.html,[Rd] &quot;internal&quot; keyword,22943,Timothy H. Keitt
+022836.html,[Rd] .Call and Mandrake 8.0 (PR#1020),22836,Duncan Temple Lang
+022849.html,[Rd] too many arguments in foreign function call,22849,Duncan Temple Lang
+022886.html,[Rd] cmdscale in package mva (PR#1027),22886,Duncan Temple Lang
+022912.html,[Rd] Re: [Omega-remote] Installing RSPython with R 1.3.0,22912,Duncan Temple Lang
+022814.html,"[Rd] read.spss, R 1.3.0, win2k",22814,Uwe Ligges
+022922.html,[Rd] winedt (PR#1033),22922,Uwe Ligges
+022833.html,"[Rd] Suggestion: min(...,na.rm=T)",22833,Agustin Lobo
+022804.html,"[Rd] read.spss, R 1.3.0, win2k",22804,Thomas Lumley
+022837.html,"[Rd] Suggestion: min(...,na.rm=T)",22837,Thomas Lumley
+022823.html,"[Rd] color NA is allowed, but &quot;NA&quot; is not ... (yet)",22823,Martin Maechler
+022824.html,"[Rd] segments(*, col = c(..,NA,..)) {was &quot;color NA ...&quot;}",22824,Martin Maechler
+022832.html,[Rd] Problems using Computer Modern fonts,22832,Martin Maechler
+022908.html,[Rd] angle/density in barplots/polygon,22908,Martin Maechler
+022828.html,[Rd] stripchart() labels,22828,John Maindonald
+022812.html,[Rd] Don't test my example; list of Rd macros?,22812,Duncan Murdoch
+022846.html,[Rd] Mis-matched braces in Rd files (PR#1019),22846,Duncan Murdoch
+022875.html,[Rd] too many arguments in foreign function call,22875,Duncan Murdoch
+022897.html,[Rd] Summary: too many arguments in foreign function call,22897,Duncan Murdoch
+022826.html,"[Rd] segments(*, col = c(..,NA,..)) {was &quot;color NA ...&quot;}",22826,Paul Murrell
+022831.html,[Rd] stripchart() labels,22831,Paul Murrell
+022877.html,[Rd] Re: argument ordering (was &lt;blank&gt;),22877,Paul Murrell
+022909.html,[Rd] hang-up with log=&quot;x&quot; and segments (PR#1030),22909,Paul Murrell
+022924.html,[Rd] Why not in Debian distro?,22924,H C Pumphrey
+022792.html,[Rd] plot.mts() with type=&quot;p&quot; (PR#1010),22792,Ray.Brownrigg@mcs.vuw.ac.nz
+022919.html,[Rd] bug in pretty() (PR#1032),22919,Prof Brian Ripley
+022789.html,[Rd] text.rpart: Unwanted NA labels on terminal nodes (PR#1009),22789,Prof Brian D Ripley
+022796.html,[Rd] html help on R language (PR#1012),22796,Prof Brian D Ripley
+022882.html,[R] RE: [Rd] too many arguments in foreign function call,22882,Prof Brian D Ripley
+022887.html,"[Rd] read.spss, R 1.3.0, win2k",22887,Prof Brian D Ripley
+022917.html,[Rd] empty drop=F in [,22917,Prof Brian D Ripley
+022944.html,[Rd] &quot;internal&quot; keyword,22944,Prof Brian D Ripley
+022783.html,[Rd] ReleaseLargeFreeVectors SIGSEGV (?) (PR#1008),22783,Roger.Bivand@nhh.no
+022790.html,[Rd] (PR#1008) SIGSEGV began at 1.2.0,22790,Roger.Bivand@nhh.no
+022791.html,[Rd] (PR#1008) SIGSEGV under 1.1.1 too,22791,Roger.Bivand@nhh.no
+022851.html,[Rd] AnonCVS,22851,A.J. Rossini
+022852.html,[Rd] AnonCVS,22852,A.J. Rossini
+022854.html,[Rd] AnonCVS,22854,A.J. Rossini
+022858.html,[Rd] AnonCVS,22858,A.J. Rossini
+022859.html,[Rd] AnonCVS,22859,A.J. Rossini
+022860.html,[Rd] AnonCVS,22860,A.J. Rossini
+022868.html,[Rd] Access to cran.us.r-project.org,22868,A.J. Rossini
+022911.html,[Rd] Re: [Omega-remote] Installing RSPython with R 1.3.0,22911,A.J. Rossini
+022913.html,[Rd] Re: [Omega-remote] Installing RSPython with R 1.3.0,22913,A.J. Rossini
+022927.html,[Rd] Why not in Debian distro?,22927,A.J. Rossini
+022929.html,[Rd] marshalling/serializing of R objects for later execution?,22929,A.J. Rossini
+022845.html,[Rd] Addition to ?formula,22845,Jonathan Rougier
+022816.html,[Rd] The ... argument,22816,Deepayan Sarkar
+022818.html,[Rd] The ... argument,22818,Deepayan Sarkar
+022820.html,[Rd] The ... argument,22820,Deepayan Sarkar
+022901.html,[Rd] bug in eval,22901,Deepayan Sarkar
+022940.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22940,Setzer.Woodrow@epamail.epa.gov
+022946.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22946,Setzer.Woodrow@epamail.epa.gov
+022947.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22947,Setzer.Woodrow@epamail.epa.gov
+022829.html,[Rd] Object finalization,22829,Luke Tierney
+022842.html,[Rd] update.packages and incorrect &quot;Version&quot; (PR#1022),22842,Torsten.Hothorn@rzmail.uni-erlangen.de
+022933.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22933,Thomas Vogels
+022937.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22937,Thomas Vogels
+022939.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22939,Thomas Vogels
+022874.html,[Rd] too many arguments in foreign function call,22874,"Warnes, Gregory R"
+022878.html,[R] RE: [Rd] too many arguments in foreign function call,22878,"Warnes, Gregory R"
+022879.html,[R] RE: [Rd] too many arguments in foreign function call,22879,"Warnes, Gregory R"
+022895.html,[Rd] Summary:  too many arguments in foreign function call,22895,"Warnes, Gregory R"
+022941.html,[Rd] Problems with RPython when stdin is not a terminal,22941,"Warnes, Gregory R"
+022847.html,[Rd] AnonCVS,22847,Gregory R. Warnes
+022848.html,[Rd] too many arguments in foreign function call,22848,Gregory R. Warnes
+022855.html,[Rd] too many arguments in foreign function call,22855,Gregory R. Warnes
+022910.html,[Rd] Installing RSPython with R 1.3.0,22910,Gregory R. Warnes
+022794.html,[Rd] plot.mts() with type=&quot;p&quot; (PR#1010),22794,Achim Zeileis
+022798.html,[Rd] typos (PR#1013),22798,bolker@zoo.ufl.edu
+022795.html,[Rd] html help on R language (PR#1012),22795,canjels@yahoo.com
+022840.html,[Rd] Extra lines when bty=&quot;n&quot; (PR#1021),22840,ce@biostat.ku.dk
+022803.html,[Rd] R 1.3  on iMacs (PR#1015),22803,con@maths.uwa.edu.au
+022918.html,[Rd] bug in pretty() (PR#1032),22918,deepayan@stat.wisc.edu
+022805.html,[Rd] Title of bundled packages in the library index (PR#1017),22805,henrikb@braju.com
+022786.html,[Rd] text.rpart: Unwanted NA labels on terminal nodes (PR#1009),22786,john.maindonald@anu.edu.au
+022810.html,"[Rd] predict.lm(...., se=T), with 1-column model matrix (PR#1018)",22810,john.maindonald@anu.edu.au
+022800.html,[Rd] documentation t.test (PR#1014),22800,laurent@cbs.dtu.dk
+022872.html,[Rd] make check failure on SGI-IRIX6.5 (PR#1026),22872,laurent@cbs.dtu.dk
+022883.html,[Rd] cmdscale in package mva (PR#1027),22883,laurent@cbs.dtu.dk
+022834.html,[Rd] .Call and Mandrake 8.0 (PR#1020),22834,lcottret@yahoo.fr
+022900.html,[Rd] Knowledge is Power cm,22900,lenn@bullsandbears.com
+022850.html,[Rd] data(package = &quot;..&quot;) gives extraneous warning (PR#1024),22850,maechler@stat.math.ethz.ch
+022915.html,[Rd] glm.control() is not properly documented.. (PR#1031),22915,maechler@stat.math.ethz.ch
+022780.html,[Rd] ks.test doesn't compute correct empirical distribution if there are ties in the data (PR#1007),22780,mcdowella@mcdowella.demon.co.uk
+022787.html,(PR#1007) [Rd] ks.test doesn't compute correct empirical distribution if there are ties in the data,22787,mcdowella@mcdowella.demon.co.uk
+022825.html,[Rd] Mis-matched braces in Rd files (PR#1019),22825,murdoch@stats.uwo.ca
+022861.html,[Rd] ordered factors in tree package - bug? (PR#1025),22861,murphyk@cs.berkeley.edu
+022893.html,[Rd] Rd2dvi - script (PR#1029),22893,olefc@math.auc.dk
+022871.html,[Rd] polyroot() (PR#751),22871,p.dalgaard@biostat.ku.dk
+022948.html,[Rd] nlme: bug in getCovariateFormula (PR#1038),22948,p.dalgaard@biostat.ku.dk
+022881.html,[Rd] Re: abline() AND rect() do not obey &quot;xpd&quot; (clipping) (PR#750),22881,paul@stat.auckland.ac.nz
+022793.html,[Rd] R-intro suggestions part II (PR#1011),22793,pauljohn@ukans.edu
+022853.html,[Rd] AnonCVS,22853,plastictyranny@aol.com
+022781.html,(PR#1007) [Rd] ks.test doesn't compute correct empirical,22781,ripley@stats.ox.ac.uk
+022785.html,[Rd] Fail to build R (PR#1005),22785,ripley@stats.ox.ac.uk
+022788.html,(PR#1007) [Rd] ks.test doesn't compute correct empirical,22788,ripley@stats.ox.ac.uk
+022806.html,[Rd] Title of bundled packages in the library index (PR#1017),22806,ripley@stats.ox.ac.uk
+022885.html,[Rd] cmdscale in package mva (PR#1027),22885,ripley@stats.ox.ac.uk
+022921.html,[Rd] winedt (PR#1033),22921,ripley@stats.ox.ac.uk
+022932.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22932,ripley@stats.ox.ac.uk
+022892.html,"[Rd] bug in the interface of ESS, R for linux, S+6 for linux (PR#1028)",22892,rmh@surfer.sbm.temple.edu
+022906.html,[Rd] hang-up with log=&quot;x&quot; and segments (PR#1030),22906,sc@paracelsus.fdm.uni-freiburg.de
+022784.html,[Rd] Fail to build R (PR#1005),22784,sherwin@nlm.nih.gov
+022920.html,[Rd] winedt (PR#1033),22920,thomas.pesl@arcs.ac.at
+022931.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22931,vogels@cmu.edu
+022844.html,[Rd] data function (PR#1023),22844,wild@stat.auckland.ac.nz

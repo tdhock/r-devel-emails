@@ -1,0 +1,399 @@
+link,Subject,id,author
+038440.html,[Rd] Shared Library Support for AIX?,38440,Matthew Beason
+038364.html,[Rd] attributes of environments,38364,Henrik Bengtsson
+038489.html,[Rd] Fwd: Generating valid R code using R,38489,Henrik Bengtsson
+038549.html,[Rd] png() and image(),38549,Henrik Bengtsson
+038552.html,[Rd] png() and image(),38552,Henrik Bengtsson
+038555.html,[Rd] file.copy() of non-existing file creates empty file,38555,Henrik Bengtsson
+038590.html,[Rd] pari/gp interface,38590,Henrik Bengtsson
+038603.html,[Rd] pari/gp interface,38603,Henrik Bengtsson
+038626.html,[Rd] Package digest broken under R v2.4.0 devel,38626,Henrik Bengtsson
+038633.html,[Rd] Package digest broken under R v2.4.0 devel,38633,Henrik Bengtsson
+038643.html,[Rd] [R] HTTP User-Agent header,38643,Henrik Bengtsson
+038536.html,[Rd] Patch to allow negative argument in head() and tail(),38536,Charles C. Berry
+038517.html,[Rd] possibly stupid question about RPM building,38517,Ben Bolker
+038624.html,[Rd] bug with rpois (PR#9106),38624,Ben Bolker
+038303.html,[Rd] An offer: R packages in Gentoo Land?,38303,M. Edward (Ed) Borasky
+038449.html,[Rd] Dropping unused levels of a factor that has &quot;NA&quot; as a level,38449,"Brahm, David"
+038667.html,[Rd] NIST StRD linear regression,38667,"Carnell, Rob C"
+038316.html,[Rd] S4 object type available for testing,38316,John Chambers
+038397.html,[Rd] attributes of environments,38397,John Chambers
+038418.html,[Rd] validObject() -&gt; slow down ?! [was &quot;package:Matrix handling ...&quot;],38418,John Chambers
+038652.html,[Rd] compiling packages for windows,38652,Ken Cheung
+038556.html,[Rd] compiling R | multi-Opteron | BLAS source,38556,Evan Cooch
+038569.html,[Rd] compiling R | multi-Opteron | BLAS source,38569,Evan Cooch
+038572.html,[Rd] R and ACML,38572,Evan Cooch
+038573.html,[Rd] R and ACML,38573,Evan Cooch
+038585.html,[Rd] R and ACML,38585,Evan Cooch
+038655.html,[Rd] R | vnc | X11 fonts,38655,Evan Cooch
+038657.html,[Rd] R | vnc | X11 fonts,38657,Evan Cooch
+038658.html,[Rd] R | vnc | X11 fonts,38658,Evan Cooch
+038305.html,"[Rd] Installation, permissions of /usr/local/lib/R (PR#9054)",38305,Peter Dalgaard
+038347.html,[Rd] read.table() errors with tab as separator (PR#9061),38347,Peter Dalgaard
+038353.html,[Rd] read.table() errors with tab as separator (PR#9061),38353,Peter Dalgaard
+038356.html,[Rd] read.table() errors with tab as separator (PR#9061),38356,Peter Dalgaard
+038386.html,[Rd] BUG in &quot; == &quot; ? (PR#9065),38386,Peter Dalgaard
+038439.html,[Rd] [R] Date Format,38439,Peter Dalgaard
+038447.html,[Rd] Dropping unused levels of a factor that has &quot;NA&quot; as a level,38447,Peter Dalgaard
+038450.html,[Rd] Linux/MacOSX and &quot;X11 protocol error: BadWindow...&quot;	warnings,38450,Peter Dalgaard
+038490.html,[Rd] Fwd: Generating valid R code using R,38490,Peter Dalgaard
+038656.html,[Rd] R | vnc | X11 fonts,38656,Peter Dalgaard
+038674.html,[Rd] Warning when indexing data.frame with FALSE,38674,Peter Dalgaard
+038595.html,[Rd] Install R-patched_2006-07-13 on i386-pc-solaris2.10 with Sun	Studio 11,38595,Latchezar Dimitrov
+038609.html,[Rd] Install R-patched_2006-07-13 on i386-pc-solaris2.10 with	Sun Studio 11,38609,Latchezar Dimitrov
+038648.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for sorted data?,38648,Bill Dunlap
+038650.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for sorted data?,38650,Bill Dunlap
+038334.html,[Rd] Classes and methods,38334,Sebastien Durand
+038329.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38329,Dirk Eddelbuettel
+038333.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38333,Dirk Eddelbuettel
+038475.html,[Rd] chron vs. POSIX,38475,Dirk Eddelbuettel
+038478.html,[Rd] chron vs. POSIX,38478,Dirk Eddelbuettel
+038526.html,[Rd] illegal operation in debian (PR#9086),38526,Dirk Eddelbuettel
+038538.html,[Rd] illegal operation in debian (PR#9086),38538,Dirk Eddelbuettel
+038592.html,[Rd] mean(NA) returns -(1+.Machine$integer.max) (PR#9097),38592,Dirk Eddelbuettel
+038607.html,[Rd] R CMD SHLIB flags,38607,Dirk Eddelbuettel
+038651.html,[Rd] Package digest broken under R v2.4.0 devel,38651,Dirk Eddelbuettel
+038408.html,[Rd] vignette(&quot;introduction&quot;) causes &quot;Error in sprintf(&quot;	(PR#9069),38408,Chris Evans
+038421.html,[Rd] vignette(&quot;introduction&quot;) causes &quot;Error in sprintf(&quot;	(PR#9069),38421,Chris Evans
+038422.html,[Rd] Add .git to SCM excludes for build and INSTALL scripts,38422,Seth Falcon
+038433.html,[Rd] Add .git to SCM excludes for build and INSTALL scripts,38433,Seth Falcon
+038514.html,[Rd] documentation for argument to screen (PR#9085),38514,Seth Falcon
+038548.html,[Rd] DESCRIPTION and PACKAGES files.,38548,Seth Falcon
+038599.html,[Rd] largest acceptable lookup table in a package,38599,Seth Falcon
+038621.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38621,Seth Falcon
+038634.html,[Rd] [R] HTTP User-Agent header,38634,Seth Falcon
+038646.html,[Rd] [R] HTTP User-Agent header,38646,Seth Falcon
+038660.html,[Rd] download.file crashes on OSX,38660,Seth Falcon
+038663.html,[Rd] [R] HTTP User-Agent header,38663,Seth Falcon
+038448.html,[Rd] Linux/MacOSX and &quot;X11 protocol error: BadWindow...&quot; warnings,38448,David Firth
+038641.html,[Rd] [R] HTTP User-Agent header,38641,Robert Gentleman
+038644.html,[Rd] [R] HTTP User-Agent header,38644,Robert Gentleman
+038645.html,[Rd] [R] HTTP User-Agent header,38645,Robert Gentleman
+038683.html,[Rd] [R] HTTP User-Agent header,38683,Robert Gentleman
+038292.html,[Rd] foo2Args(),38292,Paul Gilbert
+038690.html,[Rd] Modiefied GJR &amp; Time Varying Skewed-t,38690,Diana Glaeser
+038297.html,[Rd] Test for argument in ...,38297,Gregor Gorjanc
+038299.html,[Rd] Test for argument in ...,38299,Gregor Gorjanc
+038300.html,[Rd] Test for argument in ...,38300,Gregor Gorjanc
+038307.html,[Rd] Test for argument in ...,38307,Gregor Gorjanc
+038308.html,[Rd] Test for argument in ...,38308,Gregor Gorjanc
+038309.html,[Rd] &quot;Template&quot; for model.matrix functions,38309,Gregor Gorjanc
+038522.html,[Rd] Bug?: summary() fails after use of na.action=&quot;na.exclude&quot; in	lm(),38522,Gregor Gorjanc
+038559.html,[Rd] Making a patch,38559,Gregor Gorjanc
+038566.html,[Rd] RFC: Redefining length(&lt;POSIXlt&gt;) ?,38566,Gregor Gorjanc
+038578.html,[Rd] Package Unit Testing,38578,Gregor Gorjanc
+038583.html,[Rd] Making a patch,38583,Gregor Gorjanc
+038582.html,[Rd] Package Unit Testing,38582,Gregor Gorjanc
+038498.html,[Rd] Patch to allow negative argument in head() and tail(),38498,Vincent Goulet
+038515.html,[Rd] Patch to allow negative argument in head() and tail(),38515,Vincent Goulet
+038602.html,[Rd] Patch to allow negative argument in head() and tail(),38602,Vincent Goulet
+038341.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38341,Philippe Grosjean
+038344.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38344,Philippe Grosjean
+038290.html,[Rd] foo2Args(),38290,Gabor Grothendieck
+038298.html,[Rd] Test for argument in ...,38298,Gabor Grothendieck
+038301.html,[Rd] Test for argument in ...,38301,Gabor Grothendieck
+038339.html,[Rd] attributes of environments,38339,Gabor Grothendieck
+038358.html,[Rd] attributes of environments,38358,Gabor Grothendieck
+038360.html,[Rd] attributes of environments,38360,Gabor Grothendieck
+038363.html,[Rd] attributes of environments,38363,Gabor Grothendieck
+038366.html,[Rd] attributes of environments,38366,Gabor Grothendieck
+038367.html,[Rd] attributes of environments,38367,Gabor Grothendieck
+038372.html,[Rd] attributes of environments,38372,Gabor Grothendieck
+038373.html,[Rd] attributes of environments,38373,Gabor Grothendieck
+038375.html,[Rd] attributes of environments,38375,Gabor Grothendieck
+038377.html,[Rd] attributes of environments,38377,Gabor Grothendieck
+038379.html,[Rd] attributes of environments,38379,Gabor Grothendieck
+038394.html,[Rd] Modifying parsed code,38394,Gabor Grothendieck
+038405.html,[Rd] [R] string problems with &quot;\\&quot; (Windows),38405,Gabor Grothendieck
+038407.html,[Rd] vignette(&quot;introduction&quot;) causes &quot;Error in sprintf(&quot;	(PR#9069),38407,Gabor Grothendieck
+038409.html,[Rd] vignette(&quot;introduction&quot;) causes &quot;Error in sprintf(&quot;	(PR#9069),38409,Gabor Grothendieck
+038476.html,[Rd] chron vs. POSIX,38476,Gabor Grothendieck
+038481.html,[Rd] chron vs. POSIX,38481,Gabor Grothendieck
+038483.html,[Rd] chron vs. POSIX,38483,Gabor Grothendieck
+038486.html,[Rd] chron vs. POSIX,38486,Gabor Grothendieck
+038488.html,[Rd] Matrices given to pt? [was: [R] for loops and counters],38488,Gabor Grothendieck
+038491.html,[Rd] [R] put R on a web server,38491,Gabor Grothendieck
+038493.html,[Rd] multiplying multidimensional arrays (was: Re: [R] Manipulation	involving arrays),38493,Gabor Grothendieck
+038547.html,[Rd] How do I modify an exported function in a locked	environment?,38547,Gabor Grothendieck
+038564.html,[Rd] RFC: Redefining length(&lt;POSIXlt&gt;) ?,38564,Gabor Grothendieck
+038581.html,[Rd] pari/gp interface,38581,Gabor Grothendieck
+038600.html,[Rd] largest acceptable lookup table in a package,38600,Gabor Grothendieck
+038639.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38639,Gabor Grothendieck
+038654.html,[Rd] compiling packages for windows,38654,Gabor Grothendieck
+038512.html,[Rd] documentation for argument to screen (PR#9085),38512,Douglas Grove
+038423.html,[Rd] invalid alignment error in R-2.4.0,38423,Robin Hankin
+038427.html,[Rd] invalid alignment error in R-2.4.0,38427,Robin Hankin
+038431.html,[Rd] invalid alignment error in R-2.4.0,38431,Robin Hankin
+038580.html,[Rd] pari/gp interface,38580,Robin Hankin
+038598.html,[Rd] largest acceptable lookup table in a package,38598,Robin Hankin
+038330.html,[Rd] Final patch for bug 8141 - rewriting substituteList,38330,Kevin B. Hendricks
+038508.html,[Rd] Final patch for bug 8141 - rewriting substituteList,38508,Kevin B. Hendricks
+038619.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically	for sorted data?,38619,Kevin B. Hendricks
+038636.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38636,Kevin B. Hendricks
+038640.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38640,Kevin B. Hendricks
+038649.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38649,Kevin B. Hendricks
+038653.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38653,Kevin B. Hendricks
+038659.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38659,Kevin B. Hendricks
+038662.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38662,Kevin B. Hendricks
+038676.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for so,38676,Kevin B. Hendricks
+038686.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38686,Kevin B. Hendricks
+038400.html,[Rd] comment causes browser() to exit (PR#9063),38400,Tim Hesterberg
+038472.html,[Rd] R as shell script,38472,Jeffrey Horner
+038444.html,[Rd] Dropping unused levels of a factor that has &quot;NA&quot; as a level,38444,J. Hosking
+038579.html,[Rd] Package Unit Testing,38579,Torsten Hothorn
+038419.html,[Rd] Unexpected difference in Bounding Box of PDF graphics between 2.3.1p and 2.4 (PR#9070),38419,Wolfgang Huber
+038550.html,[Rd] png() and image(),38550,Wolfgang Huber
+038563.html,[Rd] png() and image(),38563,Wolfgang Huber
+038635.html,[Rd] [R] HTTP User-Agent header,38635,"James P. Howard, II"
+038304.html,"[Rd] Installation, permissions of /usr/local/lib/R (PR#9054)",38304,Thibaut Jombart
+038465.html,[Rd] Call R function from Java,38465,Adam Kapelner
+038682.html,[Rd] lazyLoadDBfetch error,38682,"Kimpel, Mark William"
+038537.html,[Rd] Post CGI forms with built-in R function?,38537,Duncan Temple Lang
+038539.html,[Rd] Post CGI forms with built-in R function?,38539,Duncan Temple Lang
+038412.html,[Rd] vignette(&quot;introduction&quot;) causes &quot;Error in sprintf(&quot;	(PR#9069),38412,Friedrich Leisch
+038453.html,[Rd] Sweave processes comments incorrectly (PR#9073),38453,Friedrich Leisch
+038414.html,[Rd] Unexpected difference in Bounding Box of PDF graphics between 2.3.1p and 2.4 (PR#9070),38414,Hin-Tak Leung
+038457.html,[Rd] Converting SEXP to primitive C types,38457,Hin-Tak Leung
+038553.html,[Rd] png() and image(),38553,Hin-Tak Leung
+038565.html,[Rd] png() and image(),38565,Hin-Tak Leung
+038584.html,[Rd] R and ACML,38584,Hin-Tak Leung
+038684.html,[Rd] building windows packages under wine/linux and cross-compiling.,38684,Hin-Tak Leung
+038399.html,[Rd] comment causes browser() to exit (PR#9063),38399,"Liaw, Andy"
+038568.html,[Rd] compiling R | multi-Opteron | BLAS source,38568,"Liaw, Andy"
+038311.html,[Rd] Package Unit Testing,38311,Uwe Ligges
+038327.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38327,Uwe Ligges
+038342.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38342,Uwe Ligges
+038670.html,[Rd] R sources: .tgz oder .tar.gz,38670,Uwe Ligges
+038318.html,[Rd] &quot;Template&quot; for model.matrix functions,38318,Thomas Lumley
+038319.html,[Rd] noncentral F-distributed random numbers (PR#9055),38319,Thomas Lumley
+038357.html,[Rd] attributes of environments,38357,Thomas Lumley
+038359.html,[Rd] attributes of environments,38359,Thomas Lumley
+038362.html,[Rd] attributes of environments,38362,Thomas Lumley
+038404.html,[Rd] often unnecessary duplicate in sapply / as.vector,38404,Thomas Lumley
+038435.html,[Rd] often unnecessary duplicate in sapply / as.vector,38435,Thomas Lumley
+038446.html,[Rd] often unnecessary duplicate in sapply / as.vector,38446,Thomas Lumley
+038459.html,[Rd] string-length limitations,38459,Thomas Lumley
+038532.html,[Rd] Bug?: summary() fails after use of na.action=&quot;na.exclude&quot; in lm(),38532,Thomas Lumley
+038577.html,[Rd] persistent C++ objects,38577,Thomas Lumley
+038605.html,[Rd] .Call question,38605,Thomas Lumley
+038606.html,[Rd] R CMD SHLIB flags,38606,Thomas Lumley
+038625.html,[Rd] bug with rpois (PR#9106),38625,Thomas Lumley
+038638.html,[Rd] R uses private function in libc (PR#9107),38638,Thomas Lumley
+038678.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for sorted data?,38678,Thomas Lumley
+038474.html,[Rd] chron vs. POSIX,38474,Sebastian Luque
+038477.html,[Rd] chron vs. POSIX,38477,Sebastian Luque
+038479.html,[Rd] chron vs. POSIX,38479,Sebastian Luque
+038312.html,[Rd] Package Unit Testing,38312,Martin Maechler
+038323.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38323,Martin Maechler
+038325.html,[Rd] [R] zero.print in print.table after adding margins,38325,Martin Maechler
+038380.html,"[Rd] RFC: more generous print.table(*, zero.print = .) behavior",38380,Martin Maechler
+038413.html,[Rd] validObject() -&gt; slow down ?! [was &quot;package:Matrix handling	...&quot;],38413,Martin Maechler
+038425.html,[Rd] invalid alignment error in R-2.4.0,38425,Martin Maechler
+038426.html,[Rd] Add .git to SCM excludes for build and INSTALL scripts,38426,Martin Maechler
+038428.html,[Rd] invalid alignment error in R-2.4.0,38428,Martin Maechler
+038430.html,[Rd] invalid alignment error in R-2.4.0,38430,Martin Maechler
+038500.html,[Rd] Patch to allow negative argument in head() and tail(),38500,Martin Maechler
+038521.html,[Rd] Patch to allow negative argument in head() and tail(),38521,Martin Maechler
+038562.html,[Rd] RFC: Redefining length(&lt;POSIXlt&gt;) ?,38562,Martin Maechler
+038610.html,[Rd] % symbol in .Rd files?,38610,Martin Maechler
+038611.html,[Rd] SystemRequirements (was  DESCRIPTION and PACKAGES files ),38611,Martin Maechler
+038616.html,[Rd] % symbol in .Rd files?,38616,Martin Maechler
+038618.html,[Rd] % symbol in .Rd files?,38618,Martin Maechler
+038647.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for sorted data?,38647,Martin Maechler
+038669.html,[Rd] NIST StRD linear regression,38669,Martin Maechler
+038313.html,"[Rd] Installation, permissions of /usr/local/lib/R (PR#9054)",38313,Jori Mantysalo
+038518.html,[Rd] [BioC] Errors using biocLite on Apple OS X,38518,Steven McKinney
+038543.html,[Rd] How do I modify an exported function in a locked environment?,38543,Steven McKinney
+038495.html,[Rd] [R] put R on a web server,38495,Elio Mineo
+038391.html,[Rd] often unnecessary duplicate in sapply / as.vector,38391,Martin Morgan
+038445.html,[Rd] often unnecessary duplicate in sapply / as.vector,38445,Martin Morgan
+038468.html,[Rd] [R] Continuation and parse,38468,Martin Morgan
+038291.html,[Rd] foo2Args(),38291,Duncan Murdoch
+038322.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38322,Duncan Murdoch
+038326.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38326,Duncan Murdoch
+038331.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38331,Duncan Murdoch
+038332.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38332,Duncan Murdoch
+038335.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38335,Duncan Murdoch
+038338.html,[Rd] options(&quot;quit.with.no.save&quot;),38338,Duncan Murdoch
+038350.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38350,Duncan Murdoch
+038351.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38351,Duncan Murdoch
+038352.html,[Rd] attributes of environments,38352,Duncan Murdoch
+038361.html,[Rd] attributes of environments,38361,Duncan Murdoch
+038371.html,[Rd] attributes of environments,38371,Duncan Murdoch
+038374.html,[Rd] attributes of environments,38374,Duncan Murdoch
+038376.html,[Rd] attributes of environments,38376,Duncan Murdoch
+038378.html,[Rd] attributes of environments,38378,Duncan Murdoch
+038392.html,[Rd] Modifying parsed code,38392,Duncan Murdoch
+038411.html,[Rd] [R] string problems with &quot;\\&quot; (Windows),38411,Duncan Murdoch
+038480.html,[Rd] chron vs. POSIX,38480,Duncan Murdoch
+038482.html,[Rd] chron vs. POSIX,38482,Duncan Murdoch
+038484.html,[Rd] chron vs. POSIX,38484,Duncan Murdoch
+038561.html,[Rd] Making a patch,38561,Duncan Murdoch
+038615.html,[Rd] how to start local scope?,38615,Duncan Murdoch
+038632.html,[Rd] substitute(INDICES) in by.data.frame returns invalid	multi-line name (PR#9108),38632,Duncan Murdoch
+038574.html,[Rd] persistent C++ objects,38574,Tamas K Papp
+038576.html,[Rd] persistent C++ objects,38576,Tamas K Papp
+038613.html,[Rd] how to start local scope?,38613,Tamas K Papp
+038381.html,[Rd] R installation glitches.,38381,Bo Peng
+038614.html,[Rd] how to start local scope?,38614,Roger D. Peng
+038527.html,[Rd] illegal operation in debian (PR#9086),38527,"Perez Martin, Agustin"
+038534.html,[Rd] illegal operation in debian (PR#9086),38534,"Perez Martin, Agustin"
+038441.html,[Rd] Converting SEXP to primitive C types,38441,Michael Petrovich
+038487.html,[Rd] Matrices given to pt? [was: [R] for loops and counters],38487,Fran&#231;ois Pinard
+038516.html,[Rd] Patch to allow negative argument in head() and tail(),38516,Fran&#231;ois Pinard
+038531.html,[Rd] Patch to allow negative argument in head() and tail(),38531,Fran&#231;ois Pinard
+038588.html,[Rd] Making a patch,38588,Tony Plate
+038589.html,[Rd] obscure bug in format.default?,38589,Tony Plate
+038438.html,[Rd] [R] Date Format,38438,Martyn Plummer
+038454.html,[Rd] [R] Date Format,38454,Martyn Plummer
+038597.html,[Rd] WSEAS,38597,WSEAS Publications
+038627.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for sorted data?,38627,Brian D Ripley
+038340.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38340,Prof Brian Ripley
+038343.html,[Rd] prefix 'R_' when calling external code,38343,Prof Brian Ripley
+038345.html,[Rd] problem getting R 2.3.1 svn r38481 to pass make check-all,38345,Prof Brian Ripley
+038349.html,[Rd] read.table() errors with tab as separator (PR#9061),38349,Prof Brian Ripley
+038354.html,[Rd] read.table() errors with tab as separator (PR#9061),38354,Prof Brian Ripley
+038396.html,[Rd] Modifying parsed code,38396,Prof Brian Ripley
+038416.html,[Rd] Unexpected difference in Bounding Box of PDF graphics between 2.3.1p and 2.4 (PR#9070),38416,Prof Brian Ripley
+038417.html,[Rd] Unexpected difference in Bounding Box of PDF graphics between (PR#9072),38417,Prof Brian Ripley
+038420.html,[Rd] Unexpected difference in Bounding Box of PDF graphics between 2.3.1p and 2.4 (PR#9070),38420,Prof Brian Ripley
+038429.html,[Rd] invalid alignment error in R-2.4.0,38429,Prof Brian Ripley
+038432.html,[Rd] often unnecessary duplicate in sapply / as.vector,38432,Prof Brian Ripley
+038436.html,[Rd] often unnecessary duplicate in sapply / as.vector,38436,Prof Brian Ripley
+038442.html,[Rd] Converting SEXP to primitive C types,38442,Prof Brian Ripley
+038443.html,[Rd] often unnecessary duplicate in sapply / as.vector,38443,Prof Brian Ripley
+038452.html,[Rd] Shared Library Support for AIX?,38452,Prof Brian Ripley
+038455.html,[Rd] [R] Date Format,38455,Prof Brian Ripley
+038460.html,[Rd] string-length limitations,38460,Prof Brian Ripley
+038463.html,[Rd] Call R function from Java,38463,Prof Brian Ripley
+038503.html,[Rd] Matrices given to pt? [was: [R] for loops and counters],38503,Prof Brian Ripley
+038507.html,[Rd] send a list from R to C,38507,Prof Brian Ripley
+038511.html,[Rd] documentation for argument to screen (PR#9085),38511,Prof Brian Ripley
+038513.html,[Rd] documentation for argument to screen (PR#9085),38513,Prof Brian Ripley
+038520.html,[Rd] possibly stupid question about RPM building,38520,Prof Brian Ripley
+038523.html,[Rd] Dropping unused levels of a factor that has &quot;NA&quot; as a level,38523,Prof Brian Ripley
+038528.html,[Rd] illegal operation in debian (PR#9086),38528,Prof Brian Ripley
+038535.html,[Rd] illegal operation in debian (PR#9086),38535,Prof Brian Ripley
+038541.html,[Rd] [R] Continuation and parse,38541,Prof Brian Ripley
+038544.html,[Rd] DESCRIPTION and PACKAGES files.,38544,Prof Brian Ripley
+038546.html,[Rd] How do I modify an exported function in a locked	environment?,38546,Prof Brian Ripley
+038594.html,[Rd] pari/gp interface,38594,Prof Brian Ripley
+038596.html,[Rd] Install R-patched_2006-07-13 on i386-pc-solaris2.10 with Sun Studio 11,38596,Prof Brian Ripley
+038642.html,[Rd] [R] HTTP User-Agent header,38642,Prof Brian Ripley
+038665.html,[Rd] Parametric links for glm?,38665,Prof Brian Ripley
+038668.html,[Rd] NIST StRD linear regression,38668,Prof Brian Ripley
+038673.html,[Rd] Warning when indexing data.frame with FALSE,38673,Prof Brian Ripley
+038685.html,[Rd] building windows packages under wine/linux and	cross-compiling.,38685,Prof Brian Ripley
+038551.html,[Rd] [R] insert insertRow?,38551,Prof Brian D Ripley
+038389.html,[Rd] BUG in &quot; == &quot; ? (PR#9065),38389,Dimitris Rizopoulos
+038558.html,[Rd] Making a patch,38558,Andrew Robinson
+038560.html,[Rd] Making a patch,38560,Andrew Robinson
+038604.html,[Rd] .Call question,38604,"Rossi, Peter E."
+038542.html,[Rd] DESCRIPTION and PACKAGES files.,38542,Allen S. Rout
+038545.html,[Rd] DESCRIPTION and PACKAGES files.,38545,Allen S. Rout
+038570.html,[Rd] SystemRequirements (was  DESCRIPTION and PACKAGES files ),38570,Allen S. Rout
+038437.html,[Rd] RcppTemplate 4.0 with data frame support,38437,Dominick Samperi
+038571.html,[Rd] % symbol in .Rd files?,38571,Dominick Samperi
+038612.html,[Rd] % symbol in .Rd files?,38612,Dominick Samperi
+038617.html,[Rd] % symbol in .Rd files?,38617,Dominick Samperi
+038620.html,[Rd] % symbol in .Rd files?,38620,Dominick Samperi
+038402.html,[Rd] possible bug in grid,38402,Deepayan Sarkar
+038533.html,[Rd] Post CGI forms with built-in R function?,38533,Mike Schaffer
+038540.html,[Rd] Post CGI forms with built-in R function?,38540,Mike Schaffer
+038554.html,[Rd] Problems Reading from Socket,38554,Mike Schaffer
+038506.html,[Rd] send a list from R to C,38506,J&#246;rn Schulz
+038509.html,[Rd] send a list from R to C,38509,J&#246;rn Schulz
+038324.html,[Rd] problem getting R 2.3.1 svn r38481 to pass make check-all,38324,Gavin Simpson
+038348.html,[Rd] problem getting R 2.3.1 svn r38481 to pass make check-all,38348,Gavin Simpson
+038388.html,[Rd] BUG in &quot; == &quot; ? (PR#9065),38388,Gavin Simpson
+038501.html,[Rd] raw data documentation,38501,Heinz Tuechler
+038302.html,[Rd] prefix 'R_' when calling external code,38302,Benjamin Tyner
+038328.html,"[Rd] options(&quot;quit.with.no.save&quot;), and Windows installer changes",38328,Simon Urbanek
+038336.html,[Rd] options(&quot;quit.with.no.save&quot;),38336,Simon Urbanek
+038337.html,[Rd] double-quote tab crashes R (PR#9058),38337,Simon Urbanek
+038365.html,[Rd] attributes of environments,38365,Simon Urbanek
+038369.html,[Rd] problem with batch mode (PR#9062),38369,Simon Urbanek
+038370.html,[Rd] attributes of environments,38370,Simon Urbanek
+038398.html,[Rd] Call R function from Java,38398,Simon Urbanek
+038403.html,[Rd] Call R function from Java,38403,Simon Urbanek
+038456.html,[Rd] invalid alignment error in R-2.4.0,38456,Simon Urbanek
+038466.html,[Rd] Call R function from Java,38466,Simon Urbanek
+038529.html,[Rd] [BioC] Errors using biocLite on Apple OS X,38529,Simon Urbanek
+038530.html,[Rd] ASCII dump from an REXP (JRI),38530,Simon Urbanek
+038608.html,[Rd] Installation package of R-GUI (PR#9098),38608,Simon Urbanek
+038497.html,[Rd] multiplying multidimensional arrays (was: Re: [R] Manipulation involving arrays),38497,RAVI VARADHAN
+038470.html,[Rd] R as shell script,38470,Juha Vierinen
+038499.html,[Rd] R as shell script,38499,Juha Vierinen
+038464.html,[Rd] writeForeignSAS and potential extensions,38464,Stephen Weigand
+038467.html,[Rd] writeForeignSAS and potential extensions,38467,Stephen D. Weigand
+038401.html,[Rd] Call R function from Java,38401,Vincent Yau
+038575.html,"[Rd] residuals.glm for glm(..., y = FALSE)",38575,Achim Zeileis
+038679.html,[Rd] bug in format.default: trim=TRUE does not always work as	advertised (PR#9114),38679,tplate at acm.org
+038393.html,[Rd] Call R function from Java,38393,zana adeb
+038346.html,[Rd] read.table() errors with tab as separator (PR#9061),38346,John.Maindonald at anu.edu.au
+038306.html,"[Rd] Installation, permissions of /usr/local/lib/R (PR#9054)",38306,p.dalgaard at biostat.ku.dk
+038557.html,[Rd] Problems Reading from Socket,38557,mschaff at bu.edu
+038415.html,[Rd] Unexpected difference in Bounding Box of PDF graphics	between (PR#9072),38415,hin-tak.leung at cimr.cam.ac.uk
+038496.html,[Rd] Re :  [R] Date Format,38496,pierre clauss
+038630.html,[Rd] substitute(INDICES) in by.data.frame returns invalid	multi-line name (PR#9108),38630,pkensche at cmbi.ru.nl
+038502.html,[Rd] R-2.3.1.tar.gz does not contain VR bundle (PR#9084),38502,jarno.tuimala at csc.fi
+038505.html,[Rd] R-2.3.1.tar.gz does not contain VR bundle (PR#9084),38505,jtuimala at csc.fi
+038368.html,[Rd] problem with batch mode (PR#9062),38368,tenney at cse.wustl.edu
+038410.html,[Rd] Unexpected difference in Bounding Box of PDF graphics between	2.3.1p and 2.4 (PR#9070),38410,huber at ebi.ac.uk
+038677.html,[Rd] Choropleths maps of the USA states (PR#9111),38677,mlcarvalho at fc.ul.pt
+038383.html,[Rd] LOESS (PR#9064),38383,lamp at few.eur.nl
+038510.html,[Rd] documentation for argument to screen (PR#9085),38510,dgrove at fhcrc.org
+038680.html,[Rd] Bug in title() crashes R (PR#9115),38680,Robert.McGehee at geodecapital.com
+038471.html,[Rd] dweibull retuns NaN instead of Inf (PR#9080),38471,goran.brostrom at gmail.com
+038601.html,[Rd] Installation package of R-GUI (PR#9098),38601,moser.frederic at gmail.com
+038623.html,[Rd] bug with rpois (PR#9106),38623,rdpeng at gmail.com
+038296.html,[Rd] noncentral F-distributed random numbers (PR#9055),38296,longor at iastate.edu
+038385.html,[Rd] BUG in &quot; == &quot; ? (PR#9065),38385,eric.durand at imag.fr
+038293.html,[Rd] Rdconv --type=Ssgm drops singleton keywords (PR#9051),38293,bill at insightful.com
+038382.html,[Rd] comment causes browser() to exit (PR#9063),38382,timh at insightful.com
+038321.html,[Rd] double-quote tab crashes R (PR#9058),38321,jb at johnbear.net
+038473.html,[Rd] dialog box does not go away (PR#9081),38473,plorch at kent.edu
+038664.html,[Rd] Parametric links for glm?,38664,roger koenker
+038666.html,[Rd] Parametric links for glm?,38666,roger koenker
+038310.html,[Rd] Package Unit Testing,38310,miguel manese
+038320.html,[Rd] Package Unit Testing,38320,miguel manese
+038622.html,[Rd] bug with rpois (PR#9106),38622,dolive at math.siu.edu
+038434.html,[Rd] Sweave processes comments incorrectly (PR#9073),38434,krc at mdacc.tmc.edu
+038492.html,[Rd] subsetting a matrix by conditions (PR#9082),38492,zhuang at moho.ess.ucla.edu
+038451.html,[Rd] read.spss() cannot import some SPSS files (PR#9074),38451,tim.bock at numbers.net.au
+038406.html,[Rd] vignette(&quot;introduction&quot;) causes &quot;Error in sprintf(&quot; (PR#9069),38406,chris at psyctc.org
+038628.html,[Rd] R uses private function in libc (PR#9107),38628,quanah at stanford.edu
+038637.html,[Rd] R uses private function in libc (PR#9107),38637,quanah at stanford.edu
+038294.html,[Rd] Rdconv --type=Ssgm drops singleton keywords (PR#9051),38294,maechler at stat.math.ethz.ch
+038315.html,[Rd] plot with NAs in x and type=&quot;s&quot; (PR#9046),38315,maechler at stat.math.ethz.ch
+038591.html,[Rd] mean(NA) returns -(1+.Machine$integer.max) (PR#9097),38591,btyner at stat.purdue.edu
+038586.html,[Rd] valgrind complains about save (PR#9096),38586,charlie at stat.umn.edu
+038355.html,[Rd] write.table does not quote col.names properly (PR#9044),38355,ripley at stats.ox.ac.uk
+038384.html,[Rd] LOESS (PR#9064),38384,ripley at stats.ox.ac.uk
+038387.html,[Rd] User Error (was LOESS (PR#9064)),38387,ripley at stats.ox.ac.uk
+038485.html,[Rd] dweibull retuns NaN instead of Inf (PR#9080),38485,ripley at stats.ox.ac.uk
+038494.html,[Rd] subsetting a matrix by conditions (PR#9082),38494,ripley at stats.ox.ac.uk
+038504.html,[Rd] R-2.3.1.tar.gz does not contain VR bundle (PR#9084),38504,ripley at stats.ox.ac.uk
+038525.html,[Rd] illegal operation in debian (PR#9086),38525,ripley at stats.ox.ac.uk
+038567.html,[Rd] png() and image(),38567,ripley at stats.ox.ac.uk
+038587.html,[Rd] valgrind complains about save (PR#9096),38587,ripley at stats.ox.ac.uk
+038593.html,[Rd] mean(NA) returns -(1+.Machine$integer.max) (PR#9097),38593,ripley at stats.ox.ac.uk
+038629.html,[Rd] R uses private function in libc (PR#9107),38629,ripley at stats.ox.ac.uk
+038675.html,[Rd] R uses private function in libc (PR#9107),38675,ripley at stats.ox.ac.uk
+038631.html,[Rd] substitute(INDICES) in by.data.frame returns	invalid	multi-line (PR#9109),38631,murdoch at stats.uwo.ca
+038469.html,[Rd] utils package: .Rd to .dvi (PR#9079),38469,rmh at temple.edu
+038661.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for so,38661,tshort
+038681.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for so,38681,tshort
+038524.html,[Rd] illegal operation in debian (PR#9086),38524,agustin.perez at umh.es
+038314.html,"[Rd] Installation, permissions of /usr/local/lib/R (PR#9054)",38314,Jori.Mantysalo at uta.fi
+038295.html,"[Rd] Installation, permissions of /usr/local/lib/R (PR#9054)",38295,jori.mantysalo at uta.fi
+038462.html,[Rd] Call R function from Java,38462,way4thesub
+038519.html,[Rd] ASCII dump from an REXP (JRI),38519,way4thesub
+038390.html,[Rd] Modifying parsed code,38390,hadley wickham
+038395.html,[Rd] Modifying parsed code,38395,hadley wickham
+038671.html,[Rd] Warning when indexing data.frame with FALSE,38671,hadley wickham
+038672.html,[Rd] Warning when indexing data.frame with FALSE,38672,hadley wickham
+038458.html,[Rd] string-length limitations,38458,jake wilson
+038461.html,[Rd] string-length limitations,38461,jake wilson
+038317.html,[Rd] Business Offer (PR#9056),38317,xaiowng at yahoo.co.uk
+038424.html,[Rd] Documentation: add a bit note (PR#9066),38424,feimingchen at yahoo.com

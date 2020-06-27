@@ -1,0 +1,149 @@
+link,Subject,id,author
+064351.html,[Rd] Fast Kendall's Tau,64351,"Adler, Avraham"
+064356.html,[Rd] Fast Kendall's Tau,64356,"Adler, Avraham"
+064357.html,[Rd] Fast Kendall's tau,64357,"Adler, Avraham"
+064334.html,[Rd] Build fails with sysdata.rda in R dir,64334,Alastair
+064352.html,[Rd] Packaging Error,64352,Mayank Bansal
+064237.html,[Rd] R CMD check: Sys.getenv(&quot;R_GSCMD&quot;) cannot contain full pathname (contrary to docs),64237,Henrik Bengtsson
+064254.html,[Rd] suggest that as.double( something double ) not make a copy,64254,Henrik Bengtsson
+064330.html,[Rd] Ctrl-C at the Rterm prompt is remembered (unless pressing	ENTER).,64330,Henrik Bengtsson
+064227.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64227,Ben Bolker
+064358.html,[Rd] semi-trivial documentation suggestion,64358,Ben Bolker
+064239.html,[Rd] length-0 list as dimnames,64239,Benilton Carvalho
+064241.html,[Rd] length-0 list as dimnames,64241,Benilton Carvalho
+064301.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64301,Winston Chang
+064318.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64318,Winston Chang
+064346.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64346,Winston Chang
+064292.html,[Rd] x11 icon and class,64292,Davor Cubranic
+064248.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64248,Matthew Dowle
+064269.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64269,Matthew Dowle
+064253.html,[Rd] suggest that as.double( something double ) not make a copy,64253,Matthew Dowle
+064256.html,[Rd] suggest that as.double( something double ) not make a copy,64256,Matthew Dowle
+064257.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64257,Matthew Dowle
+064259.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64259,Matthew Dowle
+064261.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64261,Matthew Dowle
+064264.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64264,Matthew Dowle
+064288.html,[Rd] How to change name of .so/.dll,64288,Matthew Dowle
+064293.html,[Rd] How to change name of .so/.dll,64293,Matthew Dowle
+064294.html,[Rd] How to change name of .so/.dll,64294,Matthew Dowle
+064296.html,[Rd] How to change name of .so/.dll,64296,Matthew Dowle
+064297.html,[Rd] How to change name of .so/.dll,64297,Matthew Dowle
+064299.html,[Rd] How to change name of .so/.dll,64299,Matthew Dowle
+064303.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64303,Matthew Dowle
+064308.html,[Rd] R and C pointers,64308,Adrian Du&#351;a
+064310.html,[Rd] R and C pointers,64310,Adrian Du&#351;a
+064323.html,[Rd] debug R objects at C level,64323,Adrian Du&#351;a
+064326.html,[Rd] debug R objects at C level,64326,Adrian Du&#351;a
+064282.html,[Rd] x11 icon and class,64282,Dirk Eddelbuettel
+064283.html,[Rd]  Multiple sub-architecture: linking issue,64283,Dirk Eddelbuettel
+064286.html,[Rd] Multiple sub-architecture: linking issue,64286,Dirk Eddelbuettel
+064312.html,[Rd] how to manipulate dput output format,64312,Dirk Eddelbuettel
+064342.html,[Rd] Win 64 package build - ERROR: loading failed for 'x64',64342,Dirk Eddelbuettel
+064300.html,[Rd] tcltk wish: Add tclObj.raw method for converting raw vectors to tclObj,64300,Charlie F
+064338.html,[Rd] globalVariables(),64338,John Fox
+064343.html,[Rd] globalVariables(),64343,John Fox
+064242.html,[Rd] tcltk wish: Add tclObj.raw method for converting raw vectors	to tclObj,64242,Charlie Friedemann
+064245.html,[Rd] stumped on re-building package vignette,64245,Michael Friendly
+064230.html,"[Rd] Problems building R on Solaris (gcc 4.6, 64 bit)",64230,Chander Ganesan
+064233.html,"[Rd] Problems building R on Solaris (gcc 4.6, 64 bit)",64233,Chander Ganesan
+064270.html,[Rd] Multiple sub-architecture: problem installing RCurl,64270,Renaud Gaujoux
+064271.html,[Rd] Multiple sub-architecture: linking issue,64271,Renaud Gaujoux
+064274.html,[Rd] Multiple sub-architecture: linking issue,64274,Renaud Gaujoux
+064285.html,[Rd] Multiple sub-architecture: linking issue,64285,Renaud Gaujoux
+064289.html,[Rd] Multiple sub-architecture: linking issue,64289,Renaud Gaujoux
+064322.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64322,Renaud Gaujoux
+064360.html,[Rd] [Suggestion] Installation of CRAN packages that depend on Bioconductor packages,64360,Renaud Gaujoux
+064224.html,[Rd] Requests for vignette clarification (re: Writing R	Extensions),64224,Paul Gilbert
+064279.html,[Rd] Convert &quot;\&quot; to &quot;/&quot;?,64279,Spencer Graves
+064281.html,[Rd] Convert &quot;\&quot; to &quot;/&quot;?,64281,Spencer Graves
+064333.html,[Rd] Vignettes are not being (re)built.,64333,Jeff Hamann
+064344.html,[Rd] Win 64 package build - ERROR: loading failed for 'x64',64344,Kasper Daniel Hansen
+064251.html,[Rd] suggest that as.double( something double ) not make a copy,64251,Tim Hesterberg
+064223.html,[Rd] Requests for vignette clarification (re: Writing R Extensions),64223,Paul Johnson
+064225.html,[Rd] Requests for vignette clarification (re: Writing R	Extensions),64225,Paul Johnson
+064290.html,[Rd] stumped on re-building package vignette,64290,Paul Johnson
+064291.html,[Rd] Working on a Vignette called Rcheology,64291,Paul Johnson
+064268.html,[Rd] x11 icon and class,64268,Philip Johnson
+064302.html,[Rd] x11 icon and class,64302,Philip Johnson
+064329.html,[Rd] package slot of generic &quot;[&quot; and missing env at target?,64329,Hin-Tak Leung
+064331.html,[Rd] package slot of generic &quot;[&quot; and missing env at target?,64331,Hin-Tak Leung
+064219.html,[Rd] Dependencies on recommended packages,64219,Uwe Ligges
+064327.html,[Rd] Have download.packages consider non-CRAN repositories,64327,Uwe Ligges
+064336.html,[Rd] Build fails with sysdata.rda in R dir,64336,Uwe Ligges
+064337.html,[Rd] Have download.packages consider non-CRAN repositories,64337,Uwe Ligges
+064232.html,[Rd] Memory leak during instantiation of a reference class?,64232,Sander Maijers
+064220.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64220,Joan Maspons
+064222.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64222,Joan Maspons
+064287.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64287,Joan Maspons
+064314.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64314,Martin Morgan
+064316.html,[Rd] S4 Reference Classes: declaring public and private methods,64316,Martin Morgan
+064317.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64317,Martin Morgan
+064298.html,[Rd] How to change name of .so/.dll,64298,Duncan Murdoch
+064324.html,[Rd] debug R objects at C level,64324,Duncan Murdoch
+064325.html,[Rd] Have download.packages consider non-CRAN repositories,64325,Duncan Murdoch
+064353.html,[Rd] Fast Kendall's Tau,64353,Duncan Murdoch
+064277.html,"[Rd] R-devel Digest, Vol 112, Issue 8",64277,John C Nash
+064304.html,[Rd] Reference class inheritance using matrix/array class,64304,EJ Nikelski
+064339.html,[Rd] Win 64 package build - ERROR: loading failed for 'x64',64339,John Nolan
+064341.html,[Rd] Win 64 package build - ERROR: loading failed for 'x64',64341,John Nolan
+064243.html,[Rd] problem in compililng c code using R CMD SHLIB,64243,Arathy Ram
+064228.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64228,Prof Brian Ripley
+064229.html,[Rd] R CMD check: Sys.getenv(&quot;R_GSCMD&quot;) cannot contain full pathname (contrary to docs),64229,Prof Brian Ripley
+064231.html,"[Rd] Problems building R on Solaris (gcc 4.6, 64 bit)",64231,Prof Brian Ripley
+064235.html,[Rd] model.frame and predvars,64235,Prof Brian Ripley
+064247.html,[Rd] problem in compililng c code using R CMD SHLIB,64247,Prof Brian Ripley
+064255.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64255,Prof Brian Ripley
+064258.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64258,Prof Brian Ripley
+064260.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64260,Prof Brian Ripley
+064262.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64262,Prof Brian Ripley
+064335.html,[Rd] Vignettes are not being (re)built.,64335,Prof Brian Ripley
+064340.html,[Rd] Win 64 package build - ERROR: loading failed for 'x64',64340,Prof Brian Ripley
+064354.html,[Rd] Fast Kendall's Tau,64354,Prof Brian Ripley
+064218.html,[Rd] Dependencies on recommended packages,64218,Nick Sabbe
+064320.html,[Rd] Have download.packages consider non-CRAN repositories,64320,Ingmar Schuster
+064321.html,[Rd] Have download.packages consider non-CRAN repositories,64321,Ingmar Schuster
+064328.html,[Rd] Have download.packages consider non-CRAN repositories,64328,Ingmar Schuster
+064332.html,[Rd] Have download.packages consider non-CRAN repositories,64332,Ingmar Schuster
+064280.html,[Rd] Convert &quot;\&quot; to &quot;/&quot;?,64280,G See
+064359.html,[Rd] Fast Kendall's Tau,64359,David Simcha
+064305.html,[Rd] Build fails with sysdata.rda in R dir,64305,Vitalie Spinu
+064319.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64319,Kohske Takahashi
+064238.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64238,Dan Tenenbaum
+064234.html,[Rd] model.frame and predvars,64234,Terry Therneau
+064236.html,[Rd] model.frame and predvars,64236,Terry Therneau
+064355.html,[Rd] Fast Kendall's tau,64355,Terry Therneau
+064306.html,[Rd] S4 Reference Classes: declaring public and private methods,64306,Janko Thyson
+064221.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64221,"Tim Triche, Jr."
+064246.html,[Rd] problem in compililng c code using R CMD SHLIB,64246,Joshua Ulrich
+064240.html,[Rd] length-0 list as dimnames,64240,Simon Urbanek
+064244.html,[Rd] problem in compililng c code using R CMD SHLIB,64244,Simon Urbanek
+064252.html,[Rd] suggest that as.double( something double ) not make a copy,64252,Simon Urbanek
+064263.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64263,Simon Urbanek
+064266.html,[Rd] Lack of -O2 (or -O) gcc compiler flag causes package	installation failure,64266,Simon Urbanek
+064273.html,[Rd] Multiple sub-architecture: linking issue,64273,Simon Urbanek
+064276.html,[Rd] Multiple sub-architecture: linking issue,64276,Simon Urbanek
+064284.html,[Rd] Multiple sub-architecture: linking issue,64284,Simon Urbanek
+064295.html,[Rd] How to change name of .so/.dll,64295,Simon Urbanek
+064309.html,[Rd] R and C pointers,64309,Simon Urbanek
+064311.html,[Rd] how to manipulate dput output format,64311,Simon Urbanek
+064347.html,[Rd] how to manipulate dput output format,64347,Simon Urbanek
+064349.html,[Rd] how to manipulate dput output format,64349,Simon Urbanek
+064275.html,[Rd] Interaction parameter for split(),64275,R. Michael Weylandt
+064313.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64313,Hadley Wickham
+064315.html,[Rd] &quot;Incompatible methods&quot; for overloaded operator,64315,Hadley Wickham
+064217.html,[Rd] possible bug in &quot;R Editor&quot;,64217,Wincent
+064272.html,[Rd] Working with optim in C,64272,Edward Worbis
+064226.html,[Rd] Requests for vignette clarification (re: Writing R	Extensions),64226,Yihui Xie
+064265.html,[Rd] Lack of -O2 (or -O) gcc compiler flag causes package installation failure,64265,alexholehouse
+064267.html,[Rd] Lack of -O2 (or -O) gcc compiler flag causes package installation failure,64267,alexholehouse
+064361.html,[Rd] An extreme quantile of the geometric distribution,64361,michael.baudin at contrib.scilab.org
+064363.html,[Rd] An extreme quantile of the geometric distribution,64363,michael.baudin at contrib.scilab.org
+064250.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64250,peter dalgaard
+064362.html,[Rd] An extreme quantile of the geometric distribution,64362,peter dalgaard
+064364.html,[Rd] An extreme quantile of the geometric distribution,64364,peter dalgaard
+064278.html,[Rd] -lgsl -lgslcblas fatal error no such file or directory,64278,kevinpw
+064249.html,[Rd] 7 arguments passed to .Internal(identical) which requires 6,64249,luke-tierney at uiowa.edu
+064307.html,[Rd] how to manipulate dput output format,64307,andre zege
+064345.html,[Rd] how to manipulate dput output format,64345,andre zege
+064348.html,[Rd] how to manipulate dput output format,64348,andre zege
+064350.html,[Rd] how to manipulate dput output format,64350,andre zege

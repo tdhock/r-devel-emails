@@ -1,0 +1,107 @@
+link,Subject,id,author
+019588.html,Problems compiling R65.0 (PR#262),19588,Peter Dalgaard BSA
+019591.html,diag(),19591,Peter Dalgaard BSA
+019602.html,matplot(... panel.first=..) fails  &lt;==&gt; dealing with &quot;...&quot; (PR#267),19602,Peter Dalgaard BSA
+019606.html,Bug list summary (automatic post),19606,Peter Dalgaard BSA
+019608.html,sys.on.exit appears non-functional (PR#269),19608,Peter Dalgaard BSA
+019614.html,[R] read.table bug,19614,Peter Dalgaard BSA
+019618.html,problem in R.sh.in script (PR#273),19618,Peter Dalgaard BSA
+019628.html,axis() produces junk on DEC alpha (PR#274),19628,Peter Dalgaard BSA
+019644.html,lambda error update,19644,Peter Dalgaard BSA
+019647.html,lambda error update (PR#282),19647,Peter Dalgaard BSA
+019650.html,Bug list summary (automatic post),19650,Peter Dalgaard BSA
+019654.html,Private data libraries (idea &amp; trick),19654,Peter Dalgaard BSA
+019661.html,Private data libraries (idea &amp; trick),19661,Peter Dalgaard BSA
+019671.html,chol() dimnames,19671,Peter Dalgaard BSA
+019675.html,chol() dimnames,19675,Peter Dalgaard BSA
+019679.html,Collating sequences are used inconsistently. (PR#289),19679,Peter Dalgaard BSA
+019674.html,chol() dimnames,19674,Douglas Bates
+019595.html,recent R versions on alpha-osf-4,19595,Richard Beare
+019599.html,suggestion: postscript paper=user,19599,Li Dongfeng
+019584.html,[R] R --gnome segfaults on RH 6.0 with R-0.65.0,19584,Lyndon Drake
+019627.html,axis() produces junk on DEC alpha (PR#274),19627,Albrecht Gebhardt
+019632.html,chisqsim broken on alpha - solved + next bug in fft found,19632,Albrecht Gebhardt
+019611.html,Fortran character strings,19611,Kurt Hornik
+019613.html,[R] read.table bug,19613,Kurt Hornik
+019660.html,Private data libraries (idea &amp; trick),19660,Kurt Hornik
+019652.html,model.matrix() (PR#285),19652,J.C.Rougier@durham.ac.uk
+019585.html,Problems compiling R65.0.,19585,Patrick Lindsey
+019615.html,Fortran character strings,19615,Thomas Lumley
+019590.html,diag(),19590,Martin Maechler
+019596.html,diag(),19596,Martin Maechler
+019600.html,Proposal for improved grid()  [non-backward compatible],19600,Martin Maechler
+019625.html,cin et al,19625,Martin Maechler
+019657.html,R's startup : .Rprofile &amp; .Renviron  -- info and RFC,19657,Martin Maechler
+019663.html,RFC: enhancement for sapply() : do.names,19663,Martin Maechler
+019667.html,boxplot()'s return value names,19667,Martin Maechler
+019684.html,date() in win version,19684,Martin Maechler
+019685.html,getenv() can't differentiate  &quot;defined but empty&quot; and &quot;undefined&quot;,19685,Martin Maechler
+019687.html,getenv() can't differentiate  &quot;defined but empty&quot; and &quot;undefined&quot;,19687,Martin Maechler
+019605.html,Compiling R under Caldera Open Linux 2.2,19605,Jack N.
+019680.html,"read.fwf, perl on win",19680,Erich Neuwirth
+019682.html,"read.fwf, perl on win",19682,Erich Neuwirth
+019683.html,date() in win version,19683,Erich Neuwirth
+019688.html,"perl on win32, again",19688,Erich Neuwirth
+019656.html,analysis of multivariate normal (missing values),19656,Alvaro A. Novo
+019603.html,Fortran character strings,19603,Prof Brian Ripley
+019670.html,chol() dimnames,19670,Prof Brian Ripley
+019676.html,chol() dimnames,19676,Prof Brian Ripley
+019612.html,Fortran character strings,19612,Prof Brian D Ripley
+019638.html,install/libraries on solaris2.6 (PR#280),19638,Prof Brian D Ripley
+019658.html,R's startup : .Rprofile &amp; .Renviron  -- info and RFC,19658,Prof Brian D Ripley
+019662.html,argument PACKAGE in .C/.Fortran,19662,Prof Brian D Ripley
+019664.html,R's startup : .Rprofile &amp; .Renviron  -- info and RFC,19664,Prof Brian D Ripley
+019681.html,"read.fwf, perl on win",19681,Prof Brian D Ripley
+019686.html,getenv() can't differentiate  &quot;defined but empty&quot; and &quot;undefined&quot;,19686,Prof Brian D Ripley
+019659.html,analysis of multivariate normal (missing values),19659,A.J. Rossini
+019589.html,diag(),19589,Jonathan Rougier
+019669.html,chol() dimnames,19669,Jonathan Rougier
+019672.html,chol() dimnames,19672,Jonathan Rougier
+019673.html,chol() dimnames,19673,Jonathan Rougier
+019649.html,Updated tseries package,19649,Adrian Trapletti
+019655.html,model.matrix() (PR#285),19655,Bill Venables
+019690.html,Error compiling R on RS6000 (PR#290),19690,Thomas Vogels
+019641.html,&quot;Error:  incorrect number of arguments to lambda&quot;,19641,Matthew Wiener
+019643.html,lambda error update,19643,Matthew Wiener
+019645.html,lambda error update,19645,Matthew Wiener
+019619.html,axis() produces junk on DEC alpha (PR#274),19619,albrecht.gebhardt@uni-klu.ac.at
+019621.html,axis() produces junk on DEC alpha (PR#274),19621,albrecht.gebhardt@uni-klu.ac.at
+019631.html,chisqsim broken on alpha - solved + next bug in fft found (PR#277),19631,albrecht.gebhardt@uni-klu.ac.at
+019677.html,configure bug with IRIX 6.5 (Makedep) (PR#288),19677,caves@yorvic.york.ac.uk
+019593.html,trouble with the 'exclude' parameter of factor() (PR#265),19593,gautier@lion-ag.de
+019604.html,Compiling R under Caldera Open Linux 2.2 (PR#268),19604,jnf@pcisys.net
+019592.html,R 0.65.x bug :  attach()/eval() {was &quot;lib.source() within library()&quot;} (PR#264),19592,maechler@stat.math.ethz.ch
+019601.html,matplot(... panel.first=..) fails  &lt;==&gt; dealing with &quot;...&quot; (PR#267),19601,maechler@stat.math.ethz.ch
+019623.html,axis() produces junk on DEC alpha (PR#274),19623,maechler@stat.math.ethz.ch
+019633.html,buglet in lm.influence() -- easy fix but... (PR#278),19633,maechler@stat.math.ethz.ch
+019635.html,plot ( &lt;aov.obj&gt; ) failed -- easy fix (PR#279),19635,maechler@stat.math.ethz.ch
+019636.html,plot ( &lt;aov.obj&gt; ) failed -- easy fix (PR#279),19636,maechler@stat.math.ethz.ch
+019639.html,mtext(. col = ...) stopped working in 0.65.0 (PR#281),19639,maechler@stat.math.ethz.ch
+019668.html,"text( col=, cex=, font=) : doesn't allow more than length-1 arg (PR#287)",19668,maechler@stat.math.ethz.ch
+019616.html,problem in R.sh.in script (PR#272),19616,oka@debian.or.jp
+019617.html,problem in R.sh.in script (PR#273),19617,oka@debian.or.jp
+019665.html,segmentation fault in R (PR#286),19665,oka@debian.or.jp
+019597.html,[R] data frame component replacement: feature or bug? (PR#266),19597,p.dalgaard@biostat.ku.dk
+019598.html,[R] data frame component replacement: feature or bug? (PR#266),19598,p.dalgaard@biostat.ku.dk
+019646.html,lambda error update (PR#282),19646,p.dalgaard@biostat.ku.dk
+019648.html,hsv strangeness (PR#283),19648,p.dalgaard@biostat.ku.dk
+019609.html,R with Windows 95 (PR#271),19609,pascal.grandeau@wanadoo.fr
+019689.html,Error compiling R on RS6000 (PR#290),19689,pgutwin@us.ibm.com
+019586.html,Problems compiling R65.0 (PR#262),19586,plindsey@alpha.luc.ac.be
+019587.html,Problems sourcing functions with R65.0 (PR#263),19587,plindsey@alpha.luc.ac.be
+019651.html,quasi-likelihood in glm (PR#284),19651,plummer@iarc.fr
+019594.html,trouble with the 'exclude' parameter of factor() (PR#265),19594,ripley@stats.ox.ac.uk
+019607.html,sys.on.exit appears non-functional (PR#269),19607,ripley@stats.ox.ac.uk
+019610.html,R with Windows 95 (PR#271),19610,ripley@stats.ox.ac.uk
+019620.html,axis() produces junk on DEC alpha (PR#274),19620,ripley@stats.ox.ac.uk
+019622.html,axis() produces junk on DEC alpha (PR#274),19622,ripley@stats.ox.ac.uk
+019624.html,axis() produces junk on DEC alpha (PR#274),19624,ripley@stats.ox.ac.uk
+019626.html,R with a broken finite() (was [R] Problems with R-0.65.0) (PR#275),19626,ripley@stats.ox.ac.uk
+019630.html,chisqsim broken on alpha (was Re: axis() produces junk on DEC (PR#276),19630,ripley@stats.ox.ac.uk
+019634.html,chisqsim broken on alpha - solved + next bug in fft found (PR#277),19634,ripley@stats.ox.ac.uk
+019642.html,install/libraries on solaris2.6 (PR#280),19642,ripley@stats.ox.ac.uk
+019653.html,quasi-likelihood in glm (PR#284),19653,ripley@stats.ox.ac.uk
+019666.html,segmentation fault in R (PR#286),19666,ripley@stats.ox.ac.uk
+019678.html,Collating sequences are used inconsistently. (PR#289),19678,ripley@stats.ox.ac.uk
+019637.html,install/libraries on solaris2.6 (PR#280),19637,ulrich.poetter@ruhr-uni-bochum.de
+019640.html,install/libraries on solaris2.6 (PR#280),19640,ulrich.poetter@ruhr-uni-bochum.de

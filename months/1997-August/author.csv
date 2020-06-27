@@ -1,0 +1,195 @@
+link,Subject,id,author
+017389.html,R-alpha: .RData zapped by system shutdown,17389,Peter Dalgaard BSA
+017390.html,R-alpha: One-row frames don't work,17390,Peter Dalgaard BSA
+017401.html,R-alpha: scale(),17401,Peter Dalgaard BSA
+017404.html,R-alpha: .Options$digits  do not (always) work.,17404,Peter Dalgaard BSA
+017409.html,R-alpha: Version 0.50-a1 patches,17409,Peter Dalgaard BSA
+017413.html,R-alpha: Environment strangeness,17413,Peter Dalgaard BSA
+017420.html,R-alpha: R 0.50.a2 shortest segfault ...,17420,Peter Dalgaard BSA
+017421.html,R-alpha: Re: R 0.50.a2 - unlist() still broken,17421,Peter Dalgaard BSA
+017428.html,R-alpha: expressions in graphs,17428,Peter Dalgaard BSA
+017445.html,R-alpha: frame tools,17445,Peter Dalgaard BSA
+017459.html,R-alpha: R 0.50.a3: title( .. adj= x)  AND  mtext( .. adj= x),17459,Peter Dalgaard BSA
+017469.html,R-alpha: .Options$digits do not (always) work.,17469,Peter Dalgaard BSA
+017476.html,R-alpha: .Options$digits  do not (always) work.,17476,Peter Dalgaard BSA
+017486.html,R-alpha: Re: R-beta: Bug or feature?  [+ better histograms],17486,Peter Dalgaard BSA
+017487.html,R-alpha: Re: R-beta: .C and dyn.load for Windows,17487,Peter Dalgaard BSA
+017505.html,R-alpha: libf2c as a shared library,17505,Peter Dalgaard BSA
+017506.html,R-alpha: axes &amp; plot boundary,17506,Peter Dalgaard BSA
+017517.html,R-alpha: new class for chisquare tests?,17517,Peter Dalgaard BSA
+017518.html,R-alpha: ECDFs,17518,Peter Dalgaard BSA
+017519.html,R-alpha: another ctest question,17519,Peter Dalgaard BSA
+017525.html,R-alpha: axes &amp; plot boundary,17525,Peter Dalgaard BSA
+017540.html,R-alpha: apply(),17540,Peter Dalgaard BSA
+017542.html,R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ ),17542,Peter Dalgaard BSA
+017554.html,R-alpha: R documentation problems,17554,Peter Dalgaard BSA
+017577.html,R-alpha: ?bug in [.data.frame,17577,Peter Dalgaard BSA
+017498.html,R-alpha: The Template Numerical Toolkit and R,17498,Douglas Bates
+017478.html,R-alpha: Compiling 0.49 on IRIX6.1,17478,Dr X Cai
+017415.html,R-alpha: Environment strangeness,17415,Robert Gentleman
+017435.html,R-alpha:  unlist(..) forever..,17435,Robert Gentleman
+017460.html,R-alpha: .Options$digits  do not (always) work.,17460,Robert Gentleman
+017474.html,R-alpha: .Options$digits  do not (always) work.,17474,Robert Gentleman
+017541.html,R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ ),17541,Robert Gentleman
+017565.html,"R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?",17565,Robert Gentleman
+017453.html,R-alpha: Matrix Class,17453,Paul Gilbert
+017458.html,R-alpha: error.handler,17458,Paul Gilbert
+017472.html,R-alpha: update on patching,17472,Paul Gilbert
+017510.html,R-alpha: f2c,17510,Paul Gilbert
+017535.html,R-alpha: RHOME,17535,Paul Gilbert
+017558.html,R-alpha: HTML help,17558,Paul Gilbert
+017562.html,R-alpha: Re: missing' BB functions,17562,Paul Gilbert
+017572.html,R-alpha: pow_ii,17572,Paul Gilbert
+017574.html,R-alpha: HTML help,17574,Paul Gilbert
+017384.html,R-alpha: Bugs in R-0.50-a1.,17384,Kurt Hornik
+017386.html,R-alpha: R 0.50.a1 bug in do_title(),17386,Kurt Hornik
+017385.html,R-alpha: R 0.50.a1 graphics,17385,Kurt Hornik
+017387.html,R-alpha: R-beta: RPM package for R,17387,Kurt Hornik
+017393.html,R-alpha: `axes' argument for barplot(),17393,Kurt Hornik
+017397.html,R-alpha: ports ...,17397,Kurt Hornik
+017392.html,R-alpha: pow_dd,17392,Kurt Hornik
+017396.html,R-alpha: scale(),17396,Kurt Hornik
+017394.html,R-alpha: sd2rd version 0.1-5,17394,Kurt Hornik
+017395.html,R-alpha: ???,17395,Kurt Hornik
+017398.html,R-alpha: Re: your mail,17398,Kurt Hornik
+017412.html,R-alpha: Environment strangeness,17412,Kurt Hornik
+017417.html,R-alpha: R 0.50.a2,17417,Kurt Hornik
+017419.html,R-alpha: R 0.50.a2 shortest segfault ...,17419,Kurt Hornik
+017418.html,R-alpha: R color problem,17418,Kurt Hornik
+017416.html,R-alpha: Version 0.50-a1 patches,17416,Kurt Hornik
+017436.html,R-alpha: R 0.50.a3:  adj?,17436,Kurt Hornik
+017437.html,R-alpha: CFLAGS in config.site,17437,Kurt Hornik
+017438.html,R-alpha: R 0.50.a3 family.lm(),17438,Kurt Hornik
+017442.html,R-alpha: frame tools,17442,Kurt Hornik
+017439.html,R-alpha: R 0.50.a3 problem with `make tests',17439,Kurt Hornik
+017441.html,R-alpha: R 0.50.a3:  patch for man/palette,17441,Kurt Hornik
+017443.html,R-alpha: R 0.50.a3 minor remark,17443,Kurt Hornik
+017444.html,R-alpha: Second patch for 0.50-a1,17444,Kurt Hornik
+017440.html,R-alpha: R 0.50.a3  tapply patch,17440,Kurt Hornik
+017462.html,R-alpha: another minor problem,17462,Kurt Hornik
+017463.html,R-alpha: frame tools,17463,Kurt Hornik
+017465.html,R-alpha: 'Matrix' &amp; 'matrix' Class,17465,Kurt Hornik
+017466.html,R-alpha: plotting empirical distribution function -- plot.step,17466,Kurt Hornik
+017467.html,R-alpha: 'Matrix' &amp; 'matrix' Class,17467,Kurt Hornik
+017485.html,R-alpha: Re: R-beta: Bug or feature?  [+ better histograms],17485,Kurt Hornik
+017489.html,R-alpha: ECDFs,17489,Kurt Hornik
+017491.html,R-alpha: A few bugs in R-0.50-a3.,17491,Kurt Hornik
+017513.html,R-alpha: new class for chisquare tests?,17513,Kurt Hornik
+017512.html,R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch,17512,Kurt Hornik
+017511.html,R-alpha: ECDFs,17511,Kurt Hornik
+017514.html,R-alpha: Mutivariate Analysis,17514,Kurt Hornik
+017515.html,R-alpha: a question on terminology,17515,Kurt Hornik
+017516.html,R-alpha: another ctest question,17516,Kurt Hornik
+017529.html,R-alpha: libf2c as a shared library,17529,Kurt Hornik
+017528.html,R-alpha: names for .RData,17528,Kurt Hornik
+017530.html,R-alpha: apply(),17530,Kurt Hornik
+017534.html,R-alpha: a question on terminology,17534,Kurt Hornik
+017544.html,R-alpha: barplot(),17544,Kurt Hornik
+017545.html,R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ ),17545,Kurt Hornik
+017546.html,R-alpha: Re:  .Options$digits do not (always) work,17546,Kurt Hornik
+017547.html,R-alpha: R documentation boilerplates,17547,Kurt Hornik
+017548.html,R-alpha: apply(),17548,Kurt Hornik
+017549.html,R-alpha: tapply() strangeness,17549,Kurt Hornik
+017552.html,R-alpha: R documentation problems,17552,Kurt Hornik
+017553.html,R-alpha: Differences R/S,17553,Kurt Hornik
+017555.html,R-alpha: `missing' BB functions,17555,Kurt Hornik
+017557.html,R-alpha: R FAQ,17557,Kurt Hornik
+017566.html,R-alpha: Re:  barplot,17566,Kurt Hornik
+017405.html,R-alpha: pow_dd,17405,Ross Ihaka
+017406.html,"R-alpha: Re: pow_dd &amp; pow_di [was f2clib.c  etc..] --  yes, please !",17406,Ross Ihaka
+017408.html,R-alpha: Version 0.50-a1 patches,17408,Ross Ihaka
+017425.html,R-alpha: Colors,17425,Ross Ihaka
+017429.html,R-alpha: expressions in graphs,17429,Ross Ihaka
+017430.html,R-alpha: Second patch for 0.50-a1,17430,Ross Ihaka
+017434.html,R-alpha: Second patch for 0.50-a1:   cut(.) fails .. -- PATCH (?!),17434,Ross Ihaka
+017447.html,R-alpha: eigen,17447,Ross Ihaka
+017448.html,R-alpha: Matrix Class,17448,Ross Ihaka
+017461.html,R-alpha: R 0.50.a3: title( .. adj= x)  AND  mtext( .. adj= x),17461,Ross Ihaka
+017473.html,R-alpha: frame tools,17473,Ross Ihaka
+017482.html,R-alpha: autoload  -- cool!,17482,Ross Ihaka
+017502.html,R-alpha: thoughts on batch and fortran,17502,Ross Ihaka
+017504.html,R-alpha: libf2c as a shared library,17504,Ross Ihaka
+017520.html,R-alpha: axes &amp; plot boundary,17520,Ross Ihaka
+017523.html,R-alpha: class for chisquare tests; Thoughts on print &amp; summary,17523,Ross Ihaka
+017526.html,R-alpha: a question on terminology,17526,Ross Ihaka
+017570.html,R-alpha: Proposal for a new R doc source format,17570,Ross Ihaka
+017568.html,R-alpha: Proposal for a new R doc source format,17568,Friedrich Leisch
+017571.html,R-alpha: Proposal for a new R doc source format,17571,Friedrich Leisch
+017501.html,R-alpha: thoughts on batch and fortran,17501,Jim Lindsey
+017531.html,R-alpha: eigen,17531,Jim Lindsey
+017550.html,R-alpha: eigen and batch,17550,Jim Lindsey
+017488.html,R-alpha: A few bugs in R-0.50-a3.,17488,Patrick Lindsey
+017407.html,R-alpha: f2c compatibility,17407,Thomas Lumley
+017423.html,R-alpha: browser(),17423,Thomas Lumley
+017427.html,R-alpha: expressions in graphs,17427,Thomas Lumley
+017446.html,R-alpha: eigen,17446,Thomas Lumley
+017449.html,R-alpha: Matrix Class,17449,Thomas Lumley
+017455.html,R-alpha: 'Matrix' &amp; 'matrix' Class,17455,Thomas Lumley
+017456.html,R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch,17456,Thomas Lumley
+017470.html,R-alpha: Matrix: I surrender,17470,Thomas Lumley
+017479.html,R-alpha: library(),17479,Thomas Lumley
+017480.html,R-alpha: autoload again,17480,Thomas Lumley
+017484.html,R-alpha: (minor?) S-R inconsistency:  NULL =~= list()  -- useful is.ALL function,17484,Thomas Lumley
+017490.html,R-alpha: ECDFs,17490,Thomas Lumley
+017492.html,R-alpha: tapply,17492,Thomas Lumley
+017496.html,"R-alpha: R-0.50-a3: [logical, drop = FALSE] -- bug in R (and S-plus)",17496,Thomas Lumley
+017497.html,R-alpha: R-0.50-a3(+) Method despatching bug ?,17497,Thomas Lumley
+017499.html,R-alpha: names for .RData,17499,Thomas Lumley
+017509.html,R-alpha: thoughts on batch and fortran,17509,Thomas Lumley
+017537.html,R-alpha: apply(),17537,Thomas Lumley
+017538.html,R-alpha: eigen,17538,Thomas Lumley
+017539.html,R-alpha: terms,17539,Thomas Lumley
+017543.html,R-alpha: plots and batch mode,17543,Thomas Lumley
+017561.html,R-alpha: tapply() strangeness,17561,Thomas Lumley
+017563.html,"R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?",17563,Thomas Lumley
+017564.html,R-alpha: eigen and batch,17564,Thomas Lumley
+017573.html,R-alpha: Re: pow_ii,17573,Thomas Lumley
+017576.html,R-alpha: ?bug in [.data.frame,17576,Thomas Lumley
+017388.html,R-alpha: Re: ?&quot;+&quot;; ALIAS(Arithmetic),17388,Martin Maechler
+017391.html,R-alpha: 0.50-a1 -- &quot;more lost comments&quot;,17391,Martin Maechler
+017399.html,R-alpha: scale(),17399,Martin Maechler
+017400.html,"R-alpha: Re: pow_dd &amp; pow_di [was f2clib.c  etc..] --  yes, please !",17400,Martin Maechler
+017402.html,R-alpha: Excuse the German post to R-devel...,17402,Martin Maechler
+017403.html,R-alpha: .Options$digits  do not (always) work.,17403,Martin Maechler
+017410.html,R-alpha: Version 0.50-a1 patches -- New and old bugs..,17410,Martin Maechler
+017411.html,R-alpha: R-0.50-a{1|2} : Yet another shortest SEGFAULT  --- + PATCH,17411,Martin Maechler
+017414.html,R-alpha: Environment strangeness,17414,Martin Maechler
+017422.html,R-alpha: R color problem  (col=0 is wrong; col=1 S incompatible),17422,Martin Maechler
+017426.html,"R-alpha: Colors -- Comment: yes, great !!",17426,Martin Maechler
+017431.html,R-alpha: Second patch for 0.50-a1:   cut(.) fails ..,17431,Martin Maechler
+017432.html,R-alpha:  unlist(..) forever..,17432,Martin Maechler
+017433.html,R-alpha: Second patch for 0.50-a1:   cut(.) fails .. -- PATCH (?!),17433,Martin Maechler
+017450.html,R-alpha: 'Matrix' &amp; 'matrix' Class,17450,Martin Maechler
+017451.html,R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch,17451,Martin Maechler
+017452.html,R-alpha: R 0.50.a3: title( .. adj= x)  AND  mtext( .. adj= x),17452,Martin Maechler
+017454.html,R-alpha: yet another remaining buglet,17454,Martin Maechler
+017457.html,"R-alpha: attach( &lt;data.frame&gt; , pos = 1) -- does not work.   detach(., save=..)",17457,Martin Maechler
+017464.html,R-alpha: plotting empirical distribution function -- plot.step,17464,Martin Maechler
+017468.html,R-alpha: .Options$digits  do not (always) work.,17468,Martin Maechler
+017471.html,R-alpha: Re: R-beta: compiling R-5.0 on IRIX6.1,17471,Martin Maechler
+017477.html,R-alpha: Re: R-beta:  R-0.49 on IRIX6.1 does not compile,17477,Martin Maechler
+017481.html,R-alpha: autoload  -- cool!,17481,Martin Maechler
+017483.html,R-alpha: (minor?) S-R inconsistency:  NULL =~= list()  -- useful is.ALL function,17483,Martin Maechler
+017493.html,R-alpha:  tapply patch -- Thomas version?,17493,Martin Maechler
+017494.html,R-alpha: R-0.50-a3(+) Method despatching bug ?,17494,Martin Maechler
+017495.html,"R-alpha: R-0.50-a3: [logical, drop = FALSE] -- bug in R (and S-plus)",17495,Martin Maechler
+017500.html,"R-alpha:  [logical, drop = FALSE] -- my silliness ..",17500,Martin Maechler
+017503.html,R-alpha: thoughts on batch (stop on error),17503,Martin Maechler
+017521.html,R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch,17521,Martin Maechler
+017522.html,R-alpha: class for chisquare tests; Thoughts on print &amp; summary,17522,Martin Maechler
+017524.html,R-alpha: a question on terminology,17524,Martin Maechler
+017527.html,R-alpha: a question on terminology,17527,Martin Maechler
+017532.html,R-alpha: eigen,17532,Martin Maechler
+017533.html,R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ ),17533,Martin Maechler
+017556.html,R-alpha: batch   q(save = 'no'),17556,Martin Maechler
+017559.html,"R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?",17559,Martin Maechler
+017567.html,R-alpha: (minor?) S/R inconsistency:  mode(unclass(terms(...))),17567,Martin Maechler
+017575.html,"SUMMARY: R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl",17575,Martin Maechler
+017507.html,R-alpha: libf2c as a shared library,17507,Martyn Plummer
+017536.html,R-alpha: apply(),17536,Martyn Plummer
+017551.html,R-alpha: ts problems,17551,Martyn Plummer
+017569.html,R-alpha: Proposal for a new R doc source format,17569,Martyn Plummer
+017560.html,"R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?",17560,Anthony Rossini
+017424.html,R-alpha: Re: R-beta: ?faq example of scoping,17424,Luke Tierney
+017508.html,R-alpha: thoughts on batch and fortran,17508,Luke Tierney
+017475.html,R-alpha: .Options$digits  do not (always) work.,17475,Bill Venables

@@ -1,0 +1,243 @@
+link,Subject,id,author
+071147.html,[Rd] CRAN check for package on Sparc Solaris,71147,Viechtbauer Wolfgang (STAT)
+071149.html,[Rd] CRAN check for package on Sparc Solaris,71149,Viechtbauer Wolfgang (STAT)
+071167.html,[Rd] CRAN check for package on Sparc Solaris,71167,Viechtbauer Wolfgang (STAT)
+071236.html,[Rd] NEWS.md support on CRAN,71236,Baptiste Auguie
+071237.html,[Rd] NEWS.md support on CRAN,71237,Baptiste Auguie
+071266.html,[Rd] MetaCran website v1.0.0-alpha,71266,Gabriel Becker
+071269.html,[Rd] MetaCran website v1.0.0-alpha,71269,Gabriel Becker
+071275.html,[Rd] MetaCran website v1.0.0-alpha,71275,Gabriel Becker
+071291.html,[Rd] S4 inheritance and old class,71291,Gabriel Becker
+071081.html,[Rd] Shouldn't vector indexing with negative out-of-range index	give an error?,71081,Henrik Bengtsson
+071095.html,[Rd] Shouldn't vector indexing with negative out-of-range index give an error?,71095,Henrik Bengtsson
+071100.html,[Rd] capabilities(&quot;X11&quot;): Force refresh from within R? (... and minor documentation issue),71100,Henrik Bengtsson
+071105.html,[Rd] R Language Definition: Subsetting matrices with negative indices is *not* an error,71105,Henrik Bengtsson
+071107.html,[Rd] R Language Definition: Subsetting matrices with negative indices is *not* an error,71107,Henrik Bengtsson
+071109.html,"[Rd] PATCH: library(..., quietly=TRUE) still outputs &quot;Loading required package: ...&quot; (forgot to pass down 'quietly')",71109,Henrik Bengtsson
+071131.html,[Rd] WISH: A more informative abor message than &quot;aborting ...&quot;,71131,Henrik Bengtsson
+071132.html,[Rd] Why is the diag function so slow (for extraction)?,71132,Henrik Bengtsson
+071138.html,[Rd] Why is the diag function so slow (for extraction)?,71138,Henrik Bengtsson
+071143.html,[Rd] Alternative for wildcard gnu extension in Makevars,71143,Henrik Bengtsson
+071161.html,[Rd] Creating a vignette which depends on a non-distributable	file,71161,Henrik Bengtsson
+071188.html,[Rd] Alternative for wildcard gnu extension in Makevars,71188,Henrik Bengtsson
+071192.html,[Rd] install.packages() / update.packages() sometimes outputs to stdout and sometimes to stderr [and menu() &amp; readline()],71192,Henrik Bengtsson
+071193.html,[Rd] The function cummax() seems to have a bug.,71193,Henrik Bengtsson
+071199.html,[Rd] How best to get around shadowing of executables by system()'s prepending of directories to Windows' PATH?,71199,Henrik Bengtsson
+071239.html,[Rd] MetaCran website v1.0.0-alpha,71239,Henrik Bengtsson
+071272.html,[Rd] MetaCran website v1.0.0-alpha,71272,Henrik Bengtsson
+071279.html,[Rd] MetaCran website v1.0.0-alpha,71279,Henrik Bengtsson
+071262.html,[Rd] building with tcltk on Ubuntu 14.04,71262,Ben Bolker
+071264.html,[Rd] building with tcltk on Ubuntu 14.04,71264,Ben Bolker
+071101.html,[Rd] Why is the diag function so slow (for extraction)?,71101,Steve Bronder
+071125.html,[Rd] Why is the diag function so slow (for extraction)?,71125,Steve Bronder
+071119.html,[Rd] Windows environmental variables,71119,Simon Byrne
+071087.html,[Rd] Shouldn't vector indexing with negative out-of-range index	give an error?,71087,John Chambers
+071215.html,[Rd] NEWS.md support on CRAN,71215,Imanuel Costigan
+071217.html,[Rd] NEWS.md support on CRAN,71217,Imanuel Costigan
+071230.html,[Rd] NEWS.md support on CRAN,71230,Imanuel Costigan
+071233.html,[Rd] NEWS.md support on CRAN,71233,Imanuel Costigan
+071234.html,[Rd] NEWS.md support on CRAN,71234,Imanuel Costigan
+071298.html,[Rd] NEWS.md support on CRAN,71298,Imanuel Costigan
+071250.html,[Rd] Unicode display problem with data frames under Windows,71250,Richard Cotton
+071258.html,[Rd] Unicode display problem with data frames under Windows,71258,Richard Cotton
+071063.html,[Rd] R CMD check and missing imports from base packages,71063,G&#225;bor Cs&#225;rdi
+071089.html,[Rd] R SVN server is down,71089,G&#225;bor Cs&#225;rdi
+071137.html,[Rd] Alternative for wildcard gnu extension in Makevars,71137,G&#225;bor Cs&#225;rdi
+071148.html,[Rd] CRAN check for package on Sparc Solaris,71148,G&#225;bor Cs&#225;rdi
+071156.html,[Rd] Reading exit code of pipe(),71156,G&#225;bor Cs&#225;rdi
+071223.html,[Rd] NEWS.md support on CRAN,71223,G&#225;bor Cs&#225;rdi
+071224.html,[Rd] MetaCran website v1.0.0-alpha,71224,G&#225;bor Cs&#225;rdi
+071226.html,[Rd] NEWS.md support on CRAN,71226,G&#225;bor Cs&#225;rdi
+071229.html,[Rd] NEWS.md support on CRAN,71229,G&#225;bor Cs&#225;rdi
+071247.html,[Rd] MetaCran website v1.0.0-alpha,71247,G&#225;bor Cs&#225;rdi
+071260.html,[Rd] MetaCran website v1.0.0-alpha,71260,G&#225;bor Cs&#225;rdi
+071268.html,[Rd] MetaCran website v1.0.0-alpha,71268,G&#225;bor Cs&#225;rdi
+071270.html,[Rd] MetaCran website v1.0.0-alpha,71270,G&#225;bor Cs&#225;rdi
+071271.html,[Rd] MetaCran website v1.0.0-alpha,71271,G&#225;bor Cs&#225;rdi
+071274.html,[Rd] MetaCran website v1.0.0-alpha,71274,G&#225;bor Cs&#225;rdi
+071276.html,[Rd] MetaCran website v1.0.0-alpha,71276,G&#225;bor Cs&#225;rdi
+071144.html,[Rd] example fails during R CMD CHECK but works interactively?,71144,Charles Determan
+071146.html,[Rd] example fails during R CMD CHECK but works interactively?,71146,Charles Determan
+071169.html,[Rd] example fails during R CMD CHECK but works interactively?,71169,Charles Determan
+071157.html,[Rd] Reading exit code of pipe(),71157,William Dunlap
+071135.html,[Rd] Alternative for wildcard gnu extension in Makevars,71135,Dirk Eddelbuettel
+071141.html,[Rd] Alternative for wildcard gnu extension in Makevars,71141,Dirk Eddelbuettel
+071171.html,[Rd] example fails during R CMD CHECK but works interactively?,71171,Dirk Eddelbuettel
+071173.html,[Rd] example fails during R CMD CHECK but works interactively?,71173,Dirk Eddelbuettel
+071185.html,[Rd] That 'make check-all' problem with the survival package,71185,Dirk Eddelbuettel
+071221.html,[Rd] NEWS.md support on CRAN,71221,Dirk Eddelbuettel
+071246.html,[Rd] MetaCran website v1.0.0-alpha,71246,Dirk Eddelbuettel
+071263.html,[Rd] building with tcltk on Ubuntu 14.04,71263,Dirk Eddelbuettel
+071288.html,[Rd] building with tcltk on Ubuntu 14.04,71288,Dirk Eddelbuettel
+071104.html,[Rd] MAX_NUM_DLLS too low ?,71104,Karl Forner
+071112.html,[Rd] Wrong MD5 checksums in R 3.2.0,71112,Tal Galili
+071116.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71116,Tal Galili
+071118.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71118,Tal Galili
+071197.html,[Rd] A &quot;bug&quot; in plot.dendrogram - can't plot lty with character	color,71197,Tal Galili
+071204.html,[Rd] Probably a &quot;bug&quot; in the dendextend package,71204,Tal Galili
+071248.html,[Rd] Probably a &quot;bug&quot; in the dendextend package,71248,Tal Galili
+071064.html,[Rd] C-API: check whether R has been initialized ?,71064,Laurent Gautier
+071066.html,[Rd] C-API: check whether R has been initialized ?,71066,Laurent Gautier
+071068.html,[Rd] C-API: check whether R has been initialized ?,71068,Laurent Gautier
+071075.html,[Rd] C-API: check whether R has been initialized ?,71075,Laurent Gautier
+071165.html,[Rd] Defining Constant variable in a package,71165,Christophe Genolini
+071176.html,[Rd] Defining Constant variable in a package,71176,Christophe Genolini
+071078.html,[Rd] Print output during long tests?,71078,Paul Gilbert
+071213.html,[Rd] returnValue(),71213,Gabor Grothendieck
+071214.html,[Rd] returnValue(),71214,Gabor Grothendieck
+071108.html,[Rd] R Language Definition: Subsetting matrices with negative indices is *not* an error,71108,Bert Gunter
+071124.html,[Rd] LDFLAGS defined in R_MAKEVARS_USER file is ignored for R CMD	SHLIB on Windows,71124,Jim Hester
+071150.html,[Rd] LDFLAGS defined in R_MAKEVARS_USER file is ignored for R CMD SHLIB on Windows,71150,Jim Hester
+071073.html,[Rd] Print output during long tests?,71073,Toby Hocking
+071219.html,[Rd] NEWS.md support on CRAN,71219,Kurt Hornik
+071287.html,[Rd] S4 inheritance and old class,71287,Julien Id&#233;
+071168.html,[Rd] Error when comparing two variables within a dataframe and print relevant observations,71168,Keith Jewell
+071190.html,[Rd] The function cummax() seems to have a bug.,71190,Dongcan Jiang
+071158.html,[Rd] Reading exit code of pipe(),71158,Tim Keitt
+071235.html,[Rd] MetaCran website v1.0.0-alpha,71235,Rainer M Krug
+071134.html,[Rd] Alternative for wildcard gnu extension in Makevars,71134,Jan van der Laan
+071136.html,[Rd] Alternative for wildcard gnu extension in Makevars,71136,Jan van der Laan
+071142.html,[Rd] Alternative for wildcard gnu extension in Makevars,71142,Jan van der Laan
+071202.html,[Rd] Alternative for wildcard gnu extension in Makevars,71202,Jan van der Laan
+071062.html,[Rd] Add first() and last() to utils?,71062,Michael Lawrence
+071090.html,[Rd] Problem with adding slots to S4 object,71090,Michael Lawrence
+071174.html,[Rd] Defining Constant variable in a package,71174,Michael Lawrence
+071292.html,[Rd] S4 inheritance and old class,71292,Michael Lawrence
+071181.html,[Rd] That 'make check-all' problem with the survival package,71181,Hin-Tak Leung
+071184.html,[Rd] That 'make check-all' problem with the survival package,71184,Hin-Tak Leung
+071191.html,[Rd] That 'make check-all' problem with the survival package,71191,Hin-Tak Leung
+071103.html,[Rd] Package check error: cannot extract package,71103,Uwe Ligges
+071183.html,[Rd] That 'make check-all' problem with the survival package,71183,Uwe Ligges
+071245.html,[Rd] MetaCran website v1.0.0-alpha,71245,Uwe Ligges
+071249.html,[Rd] MetaCran website v1.0.0-alpha,71249,Uwe Ligges
+071088.html,[Rd] Integrate R in perl6,71088,Florian Losch
+071086.html,[Rd] Shouldn't vector indexing with negative out-of-range	index	give an error?,71086,Martin Maechler
+071091.html,[Rd] Shouldn't vector indexing with negative out-of-range index	give an error?,71091,Martin Maechler
+071113.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71113,Martin Maechler
+071123.html,"[Rd] PATCH: library(..., quietly=TRUE) still outputs &quot;Loading required package: ...&quot; (forgot to pass down 'quietly')",71123,Martin Maechler
+071127.html,[Rd] S4 method dispatch sometimes leads to incorrect when object loaded from file?,71127,Martin Maechler
+071128.html,[Rd] Why is the diag function so slow (for extraction)?,71128,Martin Maechler
+071133.html,[Rd] Unexpected failure when calling new() with unnamed arg and,71133,Martin Maechler
+071194.html,[Rd] \alias{} --&gt; rather \concept{} for conceptual &quot;links&quot; to help	pages,71194,Martin Maechler
+071203.html,[Rd] Probably a &quot;bug&quot; in the dendextend package,71203,Martin Maechler
+071207.html,[Rd] Fix for bug in arima function,71207,Martin Maechler
+071208.html,[Rd] The R Foundation announces new mailing list 'R-package-devel',71208,Martin Maechler
+071210.html,[Rd] Fix for bug in arima function,71210,Martin Maechler
+071280.html,[Rd] MetaCran website v1.0.0-alpha,71280,Martin Maechler
+071283.html,[Rd] Fix for bug in arima function,71283,Martin Maechler
+071285.html,[Rd] building with tcltk on Ubuntu 14.04,71285,Martin Maechler
+071300.html,"[Rd] Compiling 64bit static library for Windows (Rtools33, MSYS2, cross-compile on linux)",71300,Sue McDonald
+071255.html,[Rd] Unicode display problem with data frames under Windows,71255,Peter Meissner
+071259.html,[Rd] Unicode display problem with data frames under Windows,71259,Peter Meissner
+071111.html,[Rd] S4 method dispatch sometimes leads to incorrect when object loaded from file?,71111,Martin Morgan
+071126.html,[Rd] S4 method dispatch sometimes leads to incorrect when object loaded from file?,71126,Martin Morgan
+071129.html,[Rd] S4 method dispatch sometimes leads to incorrect when object loaded from file?,71129,Martin Morgan
+071162.html,[Rd] Creating a vignette which depends on a non-distributable file,71162,Martin Morgan
+071172.html,[Rd] example fails during R CMD CHECK but works interactively?,71172,Martin Morgan
+071290.html,[Rd] S4 inheritance and old class,71290,Martin Morgan
+071065.html,[Rd] C-API: check whether R has been initialized ?,71065,Duncan Murdoch
+071067.html,[Rd] C-API: check whether R has been initialized ?,71067,Duncan Murdoch
+071096.html,[Rd] IdntoAscii issue with KERNEL32.dll on 64-bit R on Windows Server 2003 x64 SP2,71096,Duncan Murdoch
+071099.html,[Rd] IdntoAscii issue with KERNEL32.dll on 64-bit R on Windows Server 2003 x64 SP2,71099,Duncan Murdoch
+071115.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71115,Duncan Murdoch
+071117.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71117,Duncan Murdoch
+071120.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71120,Duncan Murdoch
+071216.html,[Rd] NEWS.md support on CRAN,71216,Duncan Murdoch
+071220.html,[Rd] NEWS.md support on CRAN,71220,Duncan Murdoch
+071227.html,[Rd] NEWS.md support on CRAN,71227,Duncan Murdoch
+071228.html,[Rd] NEWS.md support on CRAN,71228,Duncan Murdoch
+071231.html,[Rd] NEWS.md support on CRAN,71231,Duncan Murdoch
+071232.html,[Rd] NEWS.md support on CRAN,71232,Duncan Murdoch
+071238.html,[Rd] NEWS.md support on CRAN,71238,Duncan Murdoch
+071240.html,[Rd] NEWS.md support on CRAN,71240,Duncan Murdoch
+071252.html,[Rd] Unicode display problem with data frames under Windows,71252,Duncan Murdoch
+071253.html,[Rd] Unicode display problem with data frames under Windows,71253,Duncan Murdoch
+071256.html,[Rd] Unicode display problem with data frames under Windows,71256,Duncan Murdoch
+071281.html,[Rd] NEWS.md support on CRAN,71281,Duncan Murdoch
+071301.html,"[Rd] Compiling 64bit static library for Windows (Rtools33, MSYS2, cross-compile on linux)",71301,Duncan Murdoch
+071140.html,[Rd] Why is the diag function so slow (for extraction)?,71140,Radford Neal
+071094.html,[Rd] IdntoAscii issue with KERNEL32.dll on 64-bit R on Windows Server 2003 x64 SP2,71094,Vinh Nguyen
+071098.html,[Rd] IdntoAscii issue with KERNEL32.dll on 64-bit R on Windows Server 2003 x64 SP2,71098,Vinh Nguyen
+071195.html,[Rd] How best to get around shadowing of executables by system()'s prepending of directories to Windows' PATH?,71195,Josh O'Brien
+071200.html,[Rd] How best to get around shadowing of executables by system()'s prepending of directories to Windows' PATH?,71200,Josh O'Brien
+071286.html,[Rd] building with tcltk on Ubuntu 14.04,71286,Jari Oksanen
+071072.html,[Rd] Problem with adding slots to S4 object,71072,Thierry Onkelinx
+071074.html,[Rd] Print output during long tests?,71074,Thierry Onkelinx
+071084.html,[Rd] Problem with adding slots to S4 object,71084,Thierry Onkelinx
+071092.html,[Rd] Problem with adding slots to S4 object,71092,Thierry Onkelinx
+071152.html,[Rd] Reading exit code of pipe(),71152,Jeroen Ooms
+071159.html,[Rd] Reading exit code of pipe(),71159,Jeroen Ooms
+071243.html,[Rd] NEWS.md support on CRAN,71243,Jeroen Ooms
+071302.html,"[Rd] Compiling 64bit static library for Windows (Rtools33, MSYS2, cross-compile on linux)",71302,Jeroen Ooms
+071097.html,[Rd] Shouldn't vector indexing with negative out-of-range index give an error?,71097,Herv&#233; Pag&#232;s
+071130.html,[Rd] Unexpected failure when calling new() with unnamed arg and,71130,Herv&#233; Pag&#232;s
+071151.html,[Rd] Unexpected failure when calling new() with unnamed arg and,71151,Herv&#233; Pag&#232;s
+071198.html,[Rd] \alias{} --&gt; rather \concept{} for conceptual &quot;links&quot; to help pages,71198,Herv&#233; Pag&#232;s
+071206.html,[Rd] Fix for bug in arima function,71206,Patrick Perry
+071212.html,[Rd] Fix for bug in arima function,71212,Patrick Perry
+071282.html,[Rd] Fix for bug in arima function,71282,Patrick Perry
+071175.html,[Rd] example fails during R CMD CHECK but works interactively?,71175,Martyn Plummer
+071205.html,[Rd] Is the parallel package the right place for locking	functionality?,71205,Ivan Popivanov
+071293.html,[Rd] Why my messages are filtered from the list?,71293,Ivan Popivanov
+071295.html,[Rd] Why my messages are filtered from the list?,71295,Ivan Popivanov
+071122.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71122,Brian Ripley
+071154.html,[Rd] CRAN check for package on Sparc Solaris,71154,Prof Brian Ripley
+071164.html,[Rd] Installation using iconv from glibc,71164,Prof Brian Ripley
+071222.html,[Rd] NEWS.md support on CRAN,71222,Prof Brian Ripley
+071303.html,"[Rd] Compiling 64bit static library for Windows (Rtools33, MSYS2, cross-compile on linux)",71303,Prof Brian Ripley
+071201.html,[Rd] How best to get around shadowing of executables by system()'s prepending of directories to Windows' PATH?,71201,"Roebuck,Paul L"
+071186.html,[Rd] That 'make check-all' problem with the survival package,71186,Marc Schwartz
+071163.html,[Rd] Installation using iconv from glibc,71163,"Smith, Virgil"
+071189.html,[Rd] Installation using iconv from glibc,71189,"Smith, Virgil"
+071254.html,[Rd] foreach hangs when using doMPI on Windows with Microsoft MPI,71254,"Teller, David"
+071145.html,[Rd] example fails during R CMD CHECK but works interactively?,71145,Dan Tenenbaum
+071273.html,[Rd] MetaCran website v1.0.0-alpha,71273,Dan Tenenbaum
+071178.html,[Rd] Installation error with R-devel,71178,"Therneau, Terry M., Ph.D."
+071180.html,[Rd] Installation error with R-devel --solved,71180,"Therneau, Terry M., Ph.D."
+071244.html,[Rd] MetaCran website v1.0.0-alpha,71244,"Tim Triche, Jr."
+071277.html,[Rd] MetaCran website v1.0.0-alpha,71277,"Tim Triche, Jr."
+071278.html,[Rd] MetaCran website v1.0.0-alpha,71278,"Tim Triche, Jr."
+071069.html,[Rd] C-API: check whether R has been initialized ?,71069,Simon Urbanek
+071177.html,[Rd] Alternative for wildcard gnu extension in Makevars,71177,Simon Urbanek
+071257.html,[Rd] MetaCran website v1.0.0-alpha,71257,Simon Urbanek
+071297.html,[Rd] Why my messages are filtered from the list?,71297,Simon Urbanek
+071139.html,[Rd] Alternative for wildcard gnu extension in Makevars,71139,Kevin Ushey
+071153.html,[Rd] Reading exit code of pipe(),71153,Kevin Ushey
+071179.html,[Rd] Installation error with R-devel,71179,Kevin Ushey
+071242.html,[Rd] NEWS.md support on CRAN,71242,Kevin Ushey
+071102.html,[Rd] Package check error: cannot extract package,71102,S&#246;ren Vogel
+071160.html,[Rd] Creating a vignette which depends on a non-distributable file,71160,January Weiner
+071182.html,[Rd] Creating a vignette which depends on a non-distributable	file,71182,January Weiner
+071071.html,[Rd] Define replacement functions,71071,Hadley Wickham
+071079.html,[Rd] Define replacement functions,71079,Hadley Wickham
+071170.html,[Rd] example fails during R CMD CHECK but works interactively?,71170,Hadley Wickham
+071267.html,[Rd] MetaCran website v1.0.0-alpha,71267,Hadley Wickham
+071294.html,[Rd] Why my messages are filtered from the list?,71294,David Winsemius
+071296.html,[Rd] Why my messages are filtered from the list?,71296,David Winsemius
+071196.html,[Rd] How best to get around shadowing of executables by system()'s prepending of directories to Windows' PATH?,71196,Yihui Xie
+071218.html,[Rd] NEWS.md support on CRAN,71218,Yihui Xie
+071225.html,[Rd] NEWS.md support on CRAN,71225,Yihui Xie
+071241.html,[Rd] NEWS.md support on CRAN,71241,Yihui Xie
+071265.html,[Rd] MetaCran website v1.0.0-alpha,71265,Yihui Xie
+071251.html,[Rd] Unicode display problem with data frames under Windows,71251,Ista Zahn
+071166.html,[Rd] Error when comparing two variables within a dataframe and print relevant observations,71166,bw1984
+071261.html,[Rd] Compatibility issue between lme4 and kml (operateur &quot;[&quot;),71261,cgenolin
+071076.html,[Rd] Print output during long tests?,71076,peter dalgaard
+071083.html,[Rd] Why is the diag function so slow (for extraction)?,71083,peter dalgaard
+071106.html,[Rd] R Language Definition: Subsetting matrices with negative	indices is *not* an error,71106,peter dalgaard
+071110.html,[Rd] R Language Definition: Subsetting matrices with negative	indices is *not* an error,71110,peter dalgaard
+071114.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71114,peter dalgaard
+071121.html,[Rd] Wrongly checked MD5 checksums in R 3.2.0's windows binary,71121,peter dalgaard
+071155.html,[Rd] Why is the diag function so slow (for extraction)?,71155,peter dalgaard
+071209.html,[Rd] Fix for bug in arima function,71209,peter dalgaard
+071211.html,[Rd] Fix for bug in arima function,71211,peter dalgaard
+071284.html,[Rd] Fix for bug in arima function,71284,peter dalgaard
+071299.html,[Rd] NEWS.md support on CRAN,71299,peter dalgaard
+071080.html,[Rd] Why is the diag function so slow (for extraction)?,71080,franknarf
+071082.html,[Rd] Matlab Program to R,71082,franknarf
+071093.html,[Rd] Integrate R in perl6,71093,grondilu
+071289.html,[Rd] S4 inheritance and old class,71289,julien_ide
+071070.html,[Rd] Define replacement functions,71070,soeren.vogel at posteo.ch
+071077.html,[Rd] Define replacement functions,71077,soeren.vogel at posteo.ch
+071085.html,[Rd] Why is the diag function so slow (for extraction)?,71085,luke-tierney at uiowa.edu
+071187.html,[Rd] Why is the diag function so slow (for extraction)?,71187,luke-tierney at uiowa.edu

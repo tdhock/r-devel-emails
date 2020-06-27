@@ -1,0 +1,106 @@
+link,Subject,id,author
+072979.html,[Rd] Is it intentional that the Fortran optimization flags changefrom O3 to O2 on Windows?,72979,Avraham Adler
+072980.html,[Rd] Setting Gnu++11 when compiling R-devel on Windows,72980,Avraham Adler
+072975.html,[Rd] table(exclude = NULL) always includes NA,72975,Suharto Anggono Suharto Anggono
+072985.html,[Rd] table(exclude = NULL) always includes NA,72985,Suharto Anggono Suharto Anggono
+072992.html,[Rd] table(exclude = NULL) always includes NA,72992,Suharto Anggono Suharto Anggono
+072997.html,[Rd] table(exclude = NULL) always includes NA,72997,Suharto Anggono Suharto Anggono
+073010.html,[Rd] 'droplevels' inappropriate change,73010,Suharto Anggono Suharto Anggono
+073032.html,[Rd] 'droplevels' inappropriate change,73032,Suharto Anggono Suharto Anggono
+072938.html,[Rd] Creating shared object with BASE in EXPORTS on Windows,72938,Kyle Baron
+072973.html,[Rd] Quote symbol names under EXPORTS in tmp.def on Windows,72973,Kyle Baron
+072987.html,[Rd] Quote symbol names under EXPORTS in tmp.def on Windows,72987,Kyle Baron
+072957.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based R successor?,72957,Kenny Bell
+072960.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based R successor?,72960,Kenny Bell
+073011.html,[Rd] Milestone: 9000 packages on CRAN,73011,Henrik Bengtsson
+073028.html,"[Rd] sort.int(c(2, NA, 4), index.return=TRUE, na.last=NA, method)$ix differ for method=&quot;radix&quot; and &quot;shell&quot;/&quot;quick&quot; (+ new default in R-devel)",73028,Henrik Bengtsson
+072944.html,[Rd] save/load + all.equal on reference class objects,72944,Ben Bolker
+073020.html,[Rd] feature request for non-sweave vignettes,73020,Patrick Brown
+072945.html,[Rd] strange behavior in 'inherits' check for loaded S4 object,72945,John Chambers
+072961.html,[Rd] Extra copies of objects in environments when using $ operator?,72961,Winston Chang
+072964.html,[Rd] Extra copies of objects in environments when using $	operator?,72964,Winston Chang
+073041.html,[Rd] New strptime conversion specification for ordinal suffixes,73041,Michael Chirico
+072954.html,[Rd] findInterval(all.inside=TRUE) for degenerate 'vec' arguments,72954,William Dunlap
+073038.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73038,William Dunlap
+073003.html,[Rd] can't build from source: error: template with C linkage,73003,Dirk Eddelbuettel
+073009.html,[Rd] summary.default rounding on numeric seems inconsistent with other R behaviors,73009,Dirk Eddelbuettel
+073042.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73042,Dirk Eddelbuettel
+073008.html,[Rd] summary.default rounding on numeric seems inconsistent with other R behaviors,73008,Simone Giannerini
+072976.html,"[Rd] problem with abine(lm(...)) for plot(y~x, log='xy')",72976,Spencer Graves
+073014.html,[Rd] Milestone: 9000 packages on CRAN,73014,Spencer Graves
+073000.html,[Rd] can't build from source: error: template with C linkage,73000,Jarrod Hadfield
+073005.html,[Rd] can't build from source: error: template with C linkage,73005,Jarrod Hadfield
+073016.html,[Rd] CC on Bug 16932?,73016,James Hiebert
+072939.html,[Rd] A request regarding R GUI,72939,S Iqbal
+072949.html,[Rd] seq.int does not return a sequence of integers sometimes,72949,Paul Johnson
+072955.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based	R successor?,72955,Andrew Judson
+072966.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based R successor?,72966,Tim Keitt
+073034.html,[Rd] CRAN packages maintained by you,73034,Roger Koenker
+073035.html,[Rd] mcparallel / mccollect,73035,Michel Lang
+073029.html,"[Rd] sort.int(c(2, NA, 4), index.return=TRUE, na.last=NA, method)$ix differ for method=&quot;radix&quot; and &quot;shell&quot;/&quot;quick&quot; (+ new default in R-devel)",73029,Michael Lawrence
+072948.html,[Rd] [R] Fwd: Help: malloc/free deadlock in unsafe signal	handler 'Rf_onsigusr1',72948,Ming Li
+072974.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72974,Uwe Ligges
+072958.html,[Rd] findInterval(all.inside=TRUE) for degenerate 'vec'	arguments,72958,Martin Maechler
+072970.html,[Rd] ifelse() woes ... can we agree on a  ifelse2() ?,72970,Martin Maechler
+072978.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72978,Martin Maechler
+072981.html,[Rd] table(exclude = NULL) always includes NA,72981,Martin Maechler
+072982.html,[Rd] table(exclude = NULL) always includes NA,72982,Martin Maechler
+072988.html,[Rd] table(exclude = NULL) always includes NA,72988,Martin Maechler
+072989.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72989,Martin Maechler
+072991.html,[Rd] table(exclude = NULL) always includes NA,72991,Martin Maechler
+072993.html,[Rd] table(exclude = NULL) always includes NA,72993,Martin Maechler
+072994.html,[Rd] table(exclude = NULL) always includes NA,72994,Martin Maechler
+072996.html,[Rd] table(exclude = NULL) always includes NA,72996,Martin Maechler
+072998.html,[Rd] table(exclude = NULL) always includes NA,72998,Martin Maechler
+073001.html,[Rd] axis.POSIXct and axis.Date fail for reversed axes,73001,Martin Maechler
+073012.html,[Rd] 'droplevels' inappropriate change,73012,Martin Maechler
+073018.html,[Rd] summary.default rounding on numeric seems inconsistent with other R behaviors,73018,Martin Maechler
+073019.html,[Rd] summary.default rounding on numeric seems inconsistent with other R behaviors,73019,Martin Maechler
+073025.html,[Rd] &quot;plot.ts&quot; doesn't respect the value of &quot;pch&quot; (+ blocked	from Bugzilla signups),73025,Martin Maechler
+073027.html,[Rd] summary.default rounding on numeric seems inconsistent	with other R behaviors,73027,Martin Maechler
+073030.html,[Rd] &quot;plot.ts&quot; doesn't respect the value of &quot;pch&quot; (+ blocked from Bugzilla signups),73030,Martin Maechler
+073031.html,[Rd] &quot;plot.ts&quot; doesn't respect the value of &quot;pch&quot; (+ blocked from Bugzilla signups),73031,Martin Maechler
+073033.html,[Rd] 'droplevels' inappropriate change,73033,Martin Maechler
+073040.html,[Rd] 'droplevels' inappropriate change,73040,Martin Maechler
+072999.html,[Rd] axis.POSIXct and axis.Date fail for reversed axes,72999,William May
+073006.html,[Rd] summary.default rounding on numeric seems inconsistent with	other R behaviors,73006,John Mount
+073021.html,[Rd] summary.default rounding on numeric seems inconsistent	with other R behaviors,73021,John Mount
+072940.html,[Rd] A request regarding R GUI,72940,Duncan Murdoch
+072951.html,[Rd] seq.int does not return a sequence of integers sometimes,72951,Duncan Murdoch
+072972.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72972,Duncan Murdoch
+073017.html,[Rd] CC on Bug 16932?,73017,Duncan Murdoch
+073022.html,[Rd] feature request for non-sweave vignettes,73022,Duncan Murdoch
+073039.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73039,Duncan Murdoch
+072952.html,[Rd] [FORGED] Re:  polypath winding rule with transparency,72952,Paul Murrell
+073004.html,[Rd] can't build from source: error: template with C linkage,73004,Martyn Plummer
+073007.html,[Rd] summary.default rounding on numeric seems inconsistent with other R behaviors,73007,Jim Porzak
+072984.html,[Rd] bug in nlme::getVarCov,72984,James Pustejovsky
+073037.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73037,Mark Roberts
+072971.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72971,Bob Rudis
+073013.html,[Rd] Milestone: 9000 packages on CRAN,73013,Bob Rudis
+072950.html,[Rd] seq.int does not return a sequence of integers sometimes,72950,Marc Schwartz
+072967.html,[Rd] Will there be 2016 issues of The R Journal?,72967,Gordon K Smyth
+073002.html,[Rd] POSIX &lt;&gt; character comparison is locale dependent,73002,Vitalie Spinu
+072946.html,[Rd] polypath winding rule with transparency,72946,Michael Sumner
+072947.html,[Rd] polypath winding rule with transparency,72947,Michael Sumner
+072953.html,[Rd] [FORGED] Re:  polypath winding rule with transparency,72953,Michael Sumner
+073036.html,[Rd] mcparallel / mccollect,73036,Simon Urbanek
+072943.html,[Rd] strange behavior in 'inherits' check for loaded S4 object,72943,Kevin Ushey
+073015.html,[Rd] Milestone: 9000 packages on CRAN,73015,Ravi Varadhan
+073023.html,[Rd] &quot;plot.ts&quot; doesn't respect the value of &quot;pch&quot; (+ blocked from Bugzilla signups),73023,Gregory Werbin
+073026.html,[Rd] &quot;plot.ts&quot; doesn't respect the value of &quot;pch&quot; (+ blocked from Bugzilla signups),73026,Gregory Werbin
+072959.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based R successor?,72959,Hadley Wickham
+072963.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based R successor?,72963,Hadley Wickham
+072990.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72990,Hadley Wickham
+072995.html,[Rd] ifelse() woes ... can we agree on a ifelse2() ?,72995,Hadley Wickham
+073024.html,[Rd] &quot;plot.ts&quot; doesn't respect the value of &quot;pch&quot; (+ blocked	from Bugzilla signups),73024,David Winsemius
+072986.html,[Rd] Suppress LaTeX log during R CMD build,72986,Yihui Xie
+072965.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp based R successor?,72965,Ista Zahn
+072968.html,[Rd] Will there be 2016 issues of The R Journal?,72968,Achim Zeileis
+072956.html,[Rd] What happened to Ross Ihaka's proposal for a Common Lisp	based R successor?,72956,peter dalgaard
+072977.html,"[Rd] problem with abine(lm(...)) for plot(y~x, log='xy')",72977,peter dalgaard
+072969.html,[Rd] vector finalizers,72969,frederik at ofb.net
+072941.html,[Rd] Accessing R engine with Delphi,72941,wellington at sophiainformatica.com.br
+072942.html,[Rd] [R] Fwd: Help: malloc/free deadlock in unsafe signal handler 'Rf_onsigusr1',72942,luke-tierney at uiowa.edu
+072962.html,[Rd] Extra copies of objects in environments when using $ operator?,72962,luke-tierney at uiowa.edu
+072983.html,[Rd] vector finalizers,72983,luke-tierney at uiowa.edu

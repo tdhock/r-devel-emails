@@ -1,0 +1,132 @@
+link,Subject,id,author
+078663.html,[Rd] improving the performance of install.packages,78663,Avraham Adler
+078634.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78634,Gabriel Becker
+078635.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78635,Gabriel Becker
+078653.html,[Rd] Questions on the R C API,78653,Gabriel Becker
+078664.html,[Rd] improving the performance of install.packages,78664,Gabriel Becker
+078685.html,[Rd] calls with comment attribute,78685,Gabriel Becker
+078669.html,[Rd] improving the performance of install.packages,78669,Henrik Bengtsson
+078696.html,[Rd] _R_CHECK_LENGTH_1_LOGIC2_ setting and Rstudio ..,78696,Henrik Bengtsson
+078703.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78703,Henrik Bengtsson
+078704.html,[Rd] Suggestion: Make _R_CHECK_LENGTH_1_LOGIC2_=warn the default for R 3.6.2,78704,Henrik Bengtsson
+078712.html,[Rd]  Suggestion: Make _R_CHECK_LENGTH_1_LOGIC2_=warn the default for R 3.6.2,78712,Henrik Bengtsson
+078714.html,[Rd]  Suggestion: Make _R_CHECK_LENGTH_1_LOGIC2_=warn the default for R 3.6.2,78714,Henrik Bengtsson
+078726.html,[Rd]  Patch idea: an environment variable for setting the user ID,78726,Henrik Bengtsson
+078718.html,[Rd] Why is matrix product slower when matrix has very small values?,78718,Hilmar Berger
+078657.html,[Rd] improving the performance of install.packages,78657,Joshua Bradley
+078659.html,[Rd] improving the performance of install.packages,78659,Joshua Bradley
+078673.html,[Rd] improving the performance of install.packages,78673,Joshua Bradley
+078700.html,[Rd] S3 methods in packages. Change in R 4.0.0?,78700,Herbert Braselmann
+078716.html,[Rd] S3 methods in packages. Change in R 4.0.0?,78716,Herbert Braselmann
+078626.html,[Rd] [External] R C api for 'inherits' S3 and S4 objects,78626,G&#225;bor Cs&#225;rdi
+078690.html,[Rd] R 3.6.2 scheduled for December 12,78690,Peter Dalgaard
+078656.html,[Rd] Social Media Trackers on www.r-project.org,78656,Christopher David Desjardins
+078646.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78646,William Dunlap
+078660.html,[Rd] improving the performance of install.packages,78660,William Dunlap
+078666.html,[Rd] improving the performance of install.packages,78666,William Dunlap
+078683.html,[Rd] calls with comment attribute,78683,William Dunlap
+078687.html,[Rd] calls with comment attribute,78687,William Dunlap
+078698.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78698,William Dunlap
+078675.html,[Rd] improving the performance of install.packages,78675,Dirk Eddelbuettel
+078731.html,[Rd] Can't build R 3.6.1 or 3.5.3 on Ubuntu 18.04 LTS,78731,Dirk Eddelbuettel
+078733.html,"[Rd]  class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) -- and S3 dispatch",78733,Dirk Eddelbuettel
+078721.html,[Rd] `body&lt;-` removes the class attributes,78721,Antoine Fabri
+078748.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78748,Laurent Gautier
+078749.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78749,Laurent Gautier
+078750.html,[Rd] Inconsistent behavior for the C AP's R_ParseVector() ?,78750,Laurent Gautier
+078717.html,[Rd] Why is matrix product slower when matrix has very small values?,78717,Florian Gerber
+078622.html,[Rd] R C api for 'inherits' S3 and S4 objects,78622,Jan Gorecki
+078624.html,[Rd] [External]  R C api for 'inherits' S3 and S4 objects,78624,Jan Gorecki
+078629.html,[Rd] [External]  R C api for 'inherits' S3 and S4 objects,78629,Jan Gorecki
+078734.html,"[Rd]  class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) -- and S3 dispatch",78734,Jan Gorecki
+078677.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78677,Bryan Hanson
+078650.html,[Rd] Questions on the R C API,78650,Wang Jiefei
+078631.html,[Rd] Getting error in rbindlist,78631,Tomas Kalibera
+078632.html,[Rd] Getting error in rbindlist,78632,Tomas Kalibera
+078707.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78707,Tomas Kalibera
+078711.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78711,Tomas Kalibera
+078713.html,[Rd]  Suggestion: Make _R_CHECK_LENGTH_1_LOGIC2_=warn the default for R 3.6.2,78713,Tomas Kalibera
+078741.html,[Rd] error in parallel:::sendMaster,78741,Tomas Kalibera
+078743.html,[Rd] error in parallel:::sendMaster,78743,Tomas Kalibera
+078746.html,[Rd] calls with comment attribute,78746,Tomas Kalibera
+078737.html,[Rd] error in parallel:::sendMaster,78737,Andreas Kersting
+078738.html,[Rd] error in parallel:::sendMaster,78738,Andreas Kersting
+078742.html,[Rd] error in parallel:::sendMaster,78742,Andreas Kersting
+078744.html,[Rd] error in parallel:::sendMaster,78744,Andreas Kersting
+078628.html,[Rd] R C api for 'inherits' S3 and S4 objects,78628,Michael Lawrence
+078740.html,[Rd] Troubles using numeric in s4 class union,78740,Michael Lawrence
+078715.html,[Rd] readBin should check that its endian argument is a legal value,78715,Jennifer Lyon
+078620.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78620,Martin Maechler
+078621.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78621,Martin Maechler
+078676.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78676,Martin Maechler
+078679.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78679,Martin Maechler
+078694.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78694,Martin Maechler
+078695.html,[Rd] _R_CHECK_LENGTH_1_LOGIC2_ setting  and Rstudio ..,78695,Martin Maechler
+078705.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78705,Martin Maechler
+078706.html,[Rd]  Suggestion: Make _R_CHECK_LENGTH_1_LOGIC2_=warn the default for R 3.6.2,78706,Martin Maechler
+078708.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78708,Martin Maechler
+078709.html,"[Rd]  Inappropriate class(o)[!inherits(o,&quot;AsIs&quot;)] in get_all_vars",78709,Martin Maechler
+078710.html,"[Rd]  Inappropriate class(o)[!inherits(o,&quot;AsIs&quot;)] in get_all_vars",78710,Martin Maechler
+078722.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) -- and S3 dispatch",78722,Martin Maechler
+078736.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78736,Martin Maechler
+078739.html,[Rd] Troubles using numeric in s4 class union,78739,Martin Maechler
+078745.html,[Rd] head.matrix can return 1000s of columns ..,78745,Martin Maechler
+078643.html,[Rd] Questions on the R C API,78643,Morgan Morgan
+078651.html,[Rd] Questions on the R C API,78651,Morgan Morgan
+078720.html,[Rd] Aggregate function FR,78720,Morgan Morgan
+078638.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78638,Duncan Murdoch
+078640.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78640,Duncan Murdoch
+078647.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78647,Duncan Murdoch
+078658.html,[Rd] improving the performance of install.packages,78658,Duncan Murdoch
+078665.html,[Rd] improving the performance of install.packages,78665,Duncan Murdoch
+078668.html,[Rd] improving the performance of install.packages,78668,Duncan Murdoch
+078672.html,[Rd] improving the performance of install.packages,78672,Duncan Murdoch
+078678.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78678,Duncan Murdoch
+078686.html,[Rd] calls with comment attribute,78686,Duncan Murdoch
+078701.html,[Rd] S3 methods in packages. Change in R 4.0.0?,78701,Duncan Murdoch
+078725.html,[Rd] Can't build R 3.6.1 or 3.5.3 on Ubuntu 18.04 LTS,78725,Jeroen Ooms
+078645.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78645,"Pages, Herve"
+078649.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78649,"Pages, Herve"
+078661.html,[Rd] improving the performance of install.packages,78661,"Pages, Herve"
+078662.html,[Rd] improving the performance of install.packages,78662,"Pages, Herve"
+078667.html,[Rd] improving the performance of install.packages,78667,"Pages, Herve"
+078670.html,[Rd] improving the performance of install.packages,78670,"Pages, Herve"
+078671.html,[Rd] improving the performance of install.packages,78671,"Pages, Herve"
+078680.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78680,"Pages, Herve"
+078682.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78682,"Pages, Herve"
+078691.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78691,"Pages, Herve"
+078693.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78693,"Pages, Herve"
+078633.html,[Rd] Getting error in rbindlist,78633,Hugh Parsonage
+078630.html,[Rd] Getting error in rbindlist,78630,Anshul Saravgi
+078719.html,[Rd] Why is matrix product slower when matrix has very small values?,78719,Serguei Sokol
+078681.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78681,Abby Spurdle
+078684.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78684,Abby Spurdle
+078697.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78697,Abby Spurdle
+078723.html,[Rd] Can't build R 3.6.1 or 3.5.3 on Ubuntu 18.04 LTS,78723,Saren Tasciyan
+078730.html,[Rd] Can't build R 3.6.1 or 3.5.3 on Ubuntu 18.04 LTS,78730,Saren Tasciyan
+078732.html,[Rd] Can't build R 3.6.1 or 3.5.3 on Ubuntu 18.04 LTS,78732,Saren Tasciyan
+078623.html,[Rd] [External]  R C api for 'inherits' S3 and S4 objects,78623,"Tierney, Luke"
+078627.html,[Rd] [External]  R C api for 'inherits' S3 and S4 objects,78627,"Tierney, Luke"
+078728.html,[Rd] switch to reference counting in R-devel,78728,"Tierney, Luke"
+078689.html,[Rd] Troubles using numeric in s4 class union,78689,Ezra Tucker
+078636.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78636,Rolf Turner
+078639.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78639,Rolf Turner
+078641.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78641,Rolf Turner
+078644.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78644,Rolf Turner
+078648.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78648,Rolf Turner
+078654.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78654,Rolf Turner
+078735.html,[Rd] BUG?: A copy of base::`+` (primitive) is not a clone but a &quot;pointer&quot;,78735,Benjamin Tyner
+078699.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78699,D&#233;nes T&#243;th
+078727.html,[Rd]  Patch idea: an environment variable for setting the user ID,78727,D&#233;nes T&#243;th
+078637.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78637,I&#241;aki Ucar
+078652.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78652,I&#241;aki Ucar
+078625.html,[Rd] [External]  R C api for 'inherits' S3 and S4 objects,78625,Simon Urbanek
+078642.html,[Rd] Puzzled about a new method for &quot;[&quot;.,78642,Hadley Wickham
+078674.html,[Rd] improving the performance of install.packages,78674,Hadley Wickham
+078692.html,"[Rd] class(&lt;matrix&gt;) |--&gt; c(&quot;matrix&quot;, &quot;arrary&quot;) [was &quot;head.matrix ...&quot;]",78692,Hadley Wickham
+078655.html,[Rd] set.seed() in a package,78655,Marvin Wright
+078688.html,[Rd] calls with comment attribute,78688,peter dalgaard
+078724.html,[Rd] Can't build R 3.6.1 or 3.5.3 on Ubuntu 18.04 LTS,78724,peter dalgaard
+078729.html,[Rd] switch to reference counting in R-devel,78729,peter dalgaard
+078702.html,"[Rd] Inappropriate class(o)[!inherits(o,&quot;AsIs&quot;)] in get_all_vars",78702,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com
+078747.html,"[Rd]  Inappropriate class(o)[!inherits(o,&quot;AsIs&quot;)] in get_all_vars",78747,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com

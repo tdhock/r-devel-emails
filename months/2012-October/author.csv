@@ -1,0 +1,212 @@
+link,Subject,id,author
+065031.html,[Rd] R CMD check --force-biarch,65031,Russell G. Almond
+064999.html,[Rd] Multithreaded code in .Call interface,64999,Rob Anderson
+065012.html,[Rd] Multithreaded code in .Call interface,65012,Rob Anderson
+065022.html,[Rd] Licensing concerns in porting S-Plus code to R libraries,65022,Louis Bajuk-Yorgan
+065099.html,[Rd] Namespace Dependencies not required,65099,Mayank Bansal
+065065.html,[Rd] 12-bit functionality in tiff package,65065,Joseph Barry
+065073.html,[Rd] 12-bit functionality in tiff package,65073,Joseph Barry
+064949.html,[Rd] Creating functions programmatically,64949,Gabriel Becker
+064952.html,[Rd] Creating functions programmatically,64952,Gabriel Becker
+065121.html,[Rd] Retrieving data from aspx pages,65121,Gabriel Becker
+064940.html,[Rd] Fastest non-overlapping binning mean function out there?,64940,Henrik Bengtsson
+064961.html,[Rd] Fastest non-overlapping binning mean function out there?,64961,Henrik Bengtsson
+064992.html,[Rd] setTimeLimit(): Is it possible to get the current time limits?,64992,Henrik Bengtsson
+065016.html,"[Rd] Do *not* pass '...' to NextMethod() - it'll do it for you; missing documentation, a bug or just me?",65016,Henrik Bengtsson
+065018.html,"[Rd] Do *not* pass '...' to NextMethod() - it'll do it for you; missing documentation, a bug or just me?",65018,Henrik Bengtsson
+065029.html,"[Rd] Do *not* pass '...' to NextMethod() - it'll do it for you; missing documentation, a bug or just me?",65029,Henrik Bengtsson
+065135.html,[Rd] file.symlink() creates zero-size file/link on Windows	7/NTFS/admin,65135,Henrik Bengtsson
+065021.html,[Rd] What's your opinion about the Transparency Layer feature of	Oracle R Enterprise?,65021,Ben Bolker
+065060.html,[Rd] suppress *specific* warnings?,65060,Ben Bolker
+065062.html,[Rd] suppress *specific* warnings?,65062,Ben Bolker
+065072.html,[Rd] 12-bit functionality in tiff package,65072,Ben Bolker
+065095.html,[Rd] trivial typo in relist.Rd,65095,Ben Bolker
+065107.html,[Rd] contr.sum() and contrast names,65107,Milan Bouchet-Valat
+065113.html,[Rd] contr.sum() and contrast names,65113,Milan Bouchet-Valat
+064937.html,[Rd] False positive note about ambiguous dispatch,64937,John Chambers
+065028.html,[Rd] S4 fails to initialize linear hierarchies with intermediate VIRTUAL classes,65028,John Chambers
+065109.html,[Rd] Class generator functions for reference classes,65109,John Chambers
+065130.html,[Rd] Class generator functions for reference classes,65130,John Chambers
+065136.html,[Rd] Class generator functions for reference classes,65136,John Chambers
+064974.html,[Rd] Problems with install.packages when Ncpus &gt; 1,64974,Winston Chang
+064976.html,[Rd] Problems with install.packages when Ncpus &gt; 1,64976,Winston Chang
+065132.html,[Rd] install.packages() fails if .libPaths() set,65132,Winston Chang
+065003.html,[Rd] How deep can/should lists be nested?,65003,Richard Cotton
+065006.html,[Rd] How deep can/should lists be nested?,65006,Richard Cotton
+065054.html,[Rd] R-2.15.1 CMD CHECK output: &quot;Call Sequence&quot;,65054,Mark Cowley
+065059.html,[Rd] R-2.15.1 CMD CHECK output: &quot;Call Sequence&quot;,65059,Mark Cowley
+065116.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65116,Matthew Dowle
+065119.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65119,Matthew Dowle
+065128.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65128,Matthew Dowle
+064994.html,[Rd] simplify2array edge case,64994,William Dunlap
+065050.html,[Rd] setting option in function,65050,William Dunlap
+064932.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge?,64932,Dirk Eddelbuettel
+065020.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65020,Dirk Eddelbuettel
+065025.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65025,Dirk Eddelbuettel
+065027.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65027,Dirk Eddelbuettel
+065036.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65036,Dirk Eddelbuettel
+065046.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65046,Dirk Eddelbuettel
+065057.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65057,Dirk Eddelbuettel
+065102.html,[Rd] R 2.15.2 still missing two files useful with the X11 icon patch,65102,Dirk Eddelbuettel
+064930.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge?,64930,S Ellison
+064954.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge? - resolved,64954,S Ellison
+065108.html,[Rd] contr.sum() and contrast names,65108,John Fox
+065117.html,[Rd] contr.sum() and contrast names,65117,John Fox
+065068.html,[Rd] Spurious warning when calling data() ?,65068,Laurent Gautier
+065070.html,[Rd] Spurious warning when calling data() ?,65070,Laurent Gautier
+065045.html,[Rd] setting option in function,65045,Charles Geyer
+065051.html,[Rd] setting option in function,65051,Charles Geyer
+064934.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge?,64934,Paul Gilbert
+065103.html,[Rd] R 2.15.2 make check failure on 32-bit --with-blas=&quot;-lgoto2&quot;,65103,Paul Gilbert
+065105.html,[Rd] R 2.15.2 make check failure on 32-bit --with-blas=&quot;-lgoto2&quot;,65105,Paul Gilbert
+065120.html,[Rd] Retrieving data from aspx pages,65120,Paul Gilbert
+065122.html,[Rd] Retrieving data from aspx pages,65122,Paul Gilbert
+065129.html,[Rd] Retrieving data from aspx pages,65129,Paul Gilbert
+065134.html,[Rd] Retrieving data from aspx pages,65134,Paul Gilbert
+064933.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge?,64933,Spencer Graves
+064935.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge?,64935,Spencer Graves
+065013.html,[Rd] Licensing concerns in porting S-Plus code to R libraries,65013,Chris Green
+064989.html,[Rd] Capturing environment associated with a promise,64989,Gabor Grothendieck
+065019.html,[Rd] What's your opinion about the Transparency Layer feature of	Oracle R Enterprise?,65019,Xiaobo Gu
+064970.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64970,Bert Gunter
+064971.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64971,Bert Gunter
+064972.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64972,Bert Gunter
+064997.html,[Rd] as.data.frame.matrix() returns an invalid object,64997,Bert Gunter
+065015.html,[Rd] possible bug in print.bibentry,65015,Kasper Daniel Hansen
+065026.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65026,Kasper Daniel Hansen
+064979.html,[Rd] malloc error in tab-completion: OS X,64979,Berend Hasselman
+065023.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65023,Keith Jewell
+065106.html,[Rd] R 2.15.2 still missing two files useful with the X11 icon	patch,65106,Philip Johnson
+065002.html,[Rd] installation of R (2.14.1 and 2.15.1) fails due to [reg-packages.Rout] Error,65002,Oliver Kullmann
+065133.html,[Rd] R_SVN_REVISION breakage on current R trunk.,65133,Hin-Tak Leung
+064977.html,[Rd] Problems with install.packages when Ncpus &gt; 1,64977,Uwe Ligges
+065009.html,[Rd] problem with OSX binary package build?,65009,Uwe Ligges
+065039.html,[Rd] R 64bit for Windows on Windows 2012 server running Microsoft&#8217;s Hyper-V 2012?,65039,Uwe Ligges
+065040.html,[Rd] Mac and Windows binaries of rJava broken for R-devel?,65040,Uwe Ligges
+065043.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65043,Uwe Ligges
+065056.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65056,Uwe Ligges
+065124.html,[Rd] install.packages() fails if .libPaths() set,65124,Uwe Ligges
+065126.html,[Rd] install.packages() fails if .libPaths() set,65126,Uwe Ligges
+065082.html,[Rd] Getting ordered factor levels from C,65082,Mark Lilback
+065088.html,[Rd] Getting ordered factor levels from C,65088,Mark Lilback
+064986.html,[Rd] Effect of the R framework on ctype.c,64986,Sylvain Loiseau
+064982.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64982,Thomas Lumley
+065047.html,[Rd] setting option in function,65047,Thomas Lumley
+065034.html,[Rd] simplify2array edge case,65034,Martin Maechler
+065058.html,[Rd] Change in the RNG implementation?,65058,Martin Maechler
+065089.html,[Rd] suppress *specific* warnings?,65089,Martin Maechler
+065098.html,[Rd] suppress *specific* warnings?,65098,Martin Maechler
+064956.html,[Rd] Creating functions programmatically,64956,Peter Meilstrup
+064958.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64958,Peter Meilstrup
+064965.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64965,Peter Meilstrup
+064968.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64968,Peter Meilstrup
+065033.html,[Rd] --enable-R-shlib and external BLAS/LAPACK libraries,65033,Bj&#248;rn-Helge Mevik
+065008.html,[Rd] problem with OSX binary package build?,65008,Richard D. Morey
+065011.html,[Rd] problem with OSX binary package build?,65011,Richard D. Morey
+065076.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65076,Richard D. Morey
+065079.html,"[Rd] concurrent requests (Rook, but I think the question is more general)",65079,Richard D. Morey
+065081.html,"[Rd] concurrent requests (Rook, but I think the question is more general)",65081,Richard D. Morey
+065086.html,"[Rd] concurrent requests (Rook, but I think the question is more general)",65086,Richard D. Morey
+065091.html,"[Rd] concurrent requests (Rook, but I think the question is more general)",65091,Richard D. Morey
+065093.html,"[Rd] concurrent requests (Rook, but I think the question is more general)",65093,Richard D. Morey
+064945.html,[Rd] Fastest non-overlapping binning mean function out there?,64945,Martin Morgan
+064955.html,[Rd] Fastest non-overlapping binning mean function out there?,64955,Martin Morgan
+064962.html,[Rd] identical() fails to compare isS4(&lt;S4 instance&gt;) to TRUE,64962,Martin Morgan
+064964.html,[Rd] identical() fails to compare isS4(&lt;S4 instance&gt;) to TRUE,64964,Martin Morgan
+064967.html,[Rd] identical() fails to compare isS4(&lt;S4 instance&gt;) to TRUE,64967,Martin Morgan
+064973.html,[Rd] identical() fails to compare isS4(&lt;S4 instance&gt;) to TRUE,64973,Martin Morgan
+065024.html,[Rd] S4 fails to initialize linear hierarchies with intermediate VIRTUAL classes,65024,Martin Morgan
+065061.html,[Rd] suppress *specific* warnings?,65061,Martin Morgan
+065066.html,[Rd] suppress *specific* warnings?,65066,Martin Morgan
+065097.html,[Rd] parallel::pvec FUN types differ when v is a list;	code simplifications?,65097,Martin Morgan
+064931.html,[Rd] Is there an automatic method for updating an existing CRAN package from R-forge?,64931,Duncan Murdoch
+064948.html,[Rd] Creating functions programmatically,64948,Duncan Murdoch
+064963.html,[Rd] identical() fails to compare isS4(&lt;S4 instance&gt;) to TRUE,64963,Duncan Murdoch
+064966.html,[Rd] identical() fails to compare isS4(&lt;S4 instance&gt;) to TRUE,64966,Duncan Murdoch
+064985.html,[Rd] Capturing environment associated with a promise,64985,Duncan Murdoch
+065004.html,[Rd] How deep can/should lists be nested?,65004,Duncan Murdoch
+065014.html,[Rd] Licensing concerns in porting S-Plus code to R libraries,65014,Duncan Murdoch
+065052.html,[Rd] Change in the RNG implementation?,65052,Duncan Murdoch
+065069.html,[Rd] Spurious warning when calling data() ?,65069,Duncan Murdoch
+065090.html,[Rd] suppress *specific* warnings?,65090,Duncan Murdoch
+065096.html,[Rd] trivial typo in relist.Rd,65096,Duncan Murdoch
+064939.html,[Rd] Minor edit to R-ints doc will be needed for R-2.15.2: axis() no longer uses .Internal(),64939,Josh O'Brien
+064960.html,"[Rd] How to build a list with missing values? What is missing, anyway?",64960,Josh O'Brien
+065118.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65118,"ONKELINX, Thierry"
+064936.html,[Rd] False positive note about ambiguous dispatch,64936,Herv&#233; Pag&#232;s
+064938.html,[Rd] False positive note about ambiguous dispatch,64938,Herv&#233; Pag&#232;s
+064941.html,[Rd] Fastest non-overlapping binning mean function out there?,64941,Herv&#233; Pag&#232;s
+064942.html,[Rd] Fastest non-overlapping binning mean function out there?,64942,Herv&#233; Pag&#232;s
+064993.html,[Rd] as.data.frame.matrix() returns an invalid object,64993,Herv&#233; Pag&#232;s
+065030.html,[Rd] Mac and Windows binaries of rJava broken for R-devel?,65030,Herv&#233; Pag&#232;s
+065048.html,[Rd] Mac and Windows binaries of rJava broken for R-devel?,65048,Herv&#233; Pag&#232;s
+065049.html,[Rd] Change in the RNG implementation?,65049,Herv&#233; Pag&#232;s
+065063.html,[Rd] Change in the RNG implementation?,65063,Herv&#233; Pag&#232;s
+065074.html,[Rd] Typos/omissions/inconsistencies in man page for clusterApply,65074,Herv&#233; Pag&#232;s
+065084.html,[Rd] Shouldn't the \usage section tell the truth?,65084,Herv&#233; Pag&#232;s
+065137.html,[Rd] Incomplete list of default fields in man page for	available.packages(),65137,Herv&#233; Pag&#232;s
+064943.html,[Rd] Minor edit to R-ints doc will be needed for R-2.15.2: axis() no longer uses .Internal(),64943,Prof Brian Ripley
+064975.html,[Rd] Problems with install.packages when Ncpus &gt; 1,64975,Prof Brian Ripley
+064980.html,[Rd] malloc error in tab-completion: OS X,64980,Prof Brian Ripley
+064981.html,[Rd] malloc error in tab-completion: OS X,64981,Prof Brian Ripley
+064998.html,[Rd] R CMD SHLIB error bad value (core2) for -mtune= switch,64998,Prof Brian Ripley
+065001.html,[Rd] Multithreaded code in .Call interface,65001,Prof Brian Ripley
+065005.html,[Rd] How deep can/should lists be nested?,65005,Prof Brian Ripley
+065007.html,[Rd] Translations in R 2.15.2-to-be,65007,Prof Brian Ripley
+065038.html,[Rd] R CMD check --force-biarch,65038,Prof Brian Ripley
+065042.html,[Rd] Addition of plot=F argument to termplot,65042,Prof Brian Ripley
+065055.html,[Rd] R-2.15.1 CMD CHECK output: &quot;Call Sequence&quot;,65055,Prof Brian Ripley
+065071.html,[Rd] Spurious warning when calling data() ?,65071,Prof Brian Ripley
+065101.html,[Rd] suppress *specific* warnings?,65101,Prof Brian Ripley
+065104.html,[Rd] R 2.15.2 make check failure on 32-bit --with-blas=&quot;-lgoto2&quot;,65104,Prof Brian Ripley
+065032.html,[Rd] R 64bit for Windows on Windows 2012 server running Microsoft&#8217;s Hyper-V 2012?,65032,Matthew Schall
+065035.html,"[Rd] Rcmd_environ and R_LIBS_{USER,SITE}",65035,Gavin Simpson
+065138.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65138,Justin Talbot
+065077.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65077,Dan Tenenbaum
+065092.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65092,Dan Tenenbaum
+064944.html,[Rd] Fastest non-overlapping binning mean function out there?,64944,Terry Therneau
+065041.html,[Rd] Addition of plot=F argument to termplot,65041,Terry Therneau
+064988.html,[Rd] Effect of the R framework on ctype.c,64988,Simon Urbanek
+065010.html,[Rd] problem with OSX binary package build?,65010,Simon Urbanek
+065017.html,"[Rd] Do *not* pass '...' to NextMethod() - it'll do it for you;	missing documentation, a bug or just me?",65017,Simon Urbanek
+065037.html,[Rd] R CMD check --force-biarch,65037,Simon Urbanek
+065078.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65078,Simon Urbanek
+065080.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65080,Simon Urbanek
+065083.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65083,Simon Urbanek
+065085.html,[Rd] Getting ordered factor levels from C,65085,Simon Urbanek
+065087.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65087,Simon Urbanek
+065094.html,"[Rd] concurrent requests (Rook,	but I think the question is more general)",65094,Simon Urbanek
+064978.html,[Rd] malloc error in tab-completion: OS X,64978,R. Michael Weylandt
+065114.html,[Rd] Retrieving data from aspx pages,65114,R. Michael Weylandt
+064946.html,[Rd] Creating functions programmatically,64946,Hadley Wickham
+064947.html,[Rd] Creating functions programmatically,64947,Hadley Wickham
+064950.html,[Rd] Creating functions programmatically,64950,Hadley Wickham
+064951.html,[Rd] Creating functions programmatically,64951,Hadley Wickham
+064957.html,[Rd] Creating functions programmatically,64957,Hadley Wickham
+064959.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64959,Hadley Wickham
+064984.html,[Rd] Capturing environment associated with a promise,64984,Hadley Wickham
+064990.html,[Rd] Capturing environment associated with a promise,64990,Hadley Wickham
+064991.html,[Rd] Capturing environment associated with a promise,64991,Hadley Wickham
+064995.html,[Rd] Unevaluated .Call,64995,Hadley Wickham
+065111.html,[Rd] install.packages() fails if .libPaths() set,65111,Hadley Wickham
+065123.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65123,Hadley Wickham
+065125.html,[Rd] install.packages() fails if .libPaths() set,65125,Hadley Wickham
+065127.html,[Rd] install.packages() fails if .libPaths() set,65127,Hadley Wickham
+065131.html,[Rd] Class generator functions for reference classes,65131,Hadley Wickham
+065110.html,[Rd] data.frame() args in transform(),65110,Ken Williams
+065075.html,[Rd] R CMD SHLIB error bad value (core2) for -mtune= switch,65075,David Winsemius
+065044.html,[Rd] customize building package vignettes,65044,Yihui Xie
+064953.html,[Rd] Creating functions programmatically,64953,peter dalgaard
+064969.html,"[Rd] How to build a list with missing values? What is missing,	anyway?",64969,peter dalgaard
+064983.html,[Rd] malloc error in tab-completion: OS X,64983,peter dalgaard
+065000.html,[Rd] as.data.frame.matrix() returns an invalid object,65000,peter dalgaard
+065100.html,[Rd] suppress *specific* warnings?,65100,peter dalgaard
+065115.html,[Rd] Retrieving data from aspx pages,65115,peter dalgaard
+065112.html,[Rd] Retrieving data from aspx pages,65112,jose ramon mazaira
+065139.html,[Rd] Retrieving data from aspx pages,65139,jose ramon mazaira
+065140.html,[Rd] Retrieving data from aspx pages,65140,jose ramon mazaira
+064996.html,[Rd] R CMD SHLIB error bad value (core2) for -mtune= switch,64996,smzyij
+065067.html,[Rd] R CMD SHLIB error bad value (core2) for -mtune= switch,65067,smzyij
+065053.html,[Rd] Wait for user input with readline(),65053,torekp
+064987.html,[Rd] Capturing environment associated with a promise,64987,luke-tierney at uiowa.edu
+065064.html,[Rd] suppress *specific* warnings?,65064,luke-tierney at uiowa.edu

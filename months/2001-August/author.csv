@@ -1,0 +1,162 @@
+link,Subject,id,author
+023059.html,[Rd] cex.axis in barplot() (PR#1070),23059,Jerome Asselin
+022954.html,[Rd] arrows()/log scale/clipping (?) (PR#1039),22954,Peter Dalgaard BSA
+022958.html,"[Rd] Next release of R, August 31st",22958,Peter Dalgaard BSA
+022961.html,"[Rd] xtabs, drop.unused.levels (PR#1041)",22961,Peter Dalgaard BSA
+022967.html,[Rd] Bug list summary (automatic post),22967,Peter Dalgaard BSA
+022969.html,[Rd] bugs.r-project.org down for a while,22969,Peter Dalgaard BSA
+022974.html,[Rd] bugs.r-project.org down for a while,22974,Peter Dalgaard BSA
+022979.html,"[Rd] R 1.3.0 bug: after &quot;y _ 10; x[[1]] _ y&quot;, assigning to &quot;y[1]&quot; modifies &quot;x&quot; (PR#1043)",22979,Peter Dalgaard BSA
+022988.html,[Rd] bug (and fix) in seq.POSIXt (PR#1046),22988,Peter Dalgaard BSA
+022993.html,[Rd] re: transparency,22993,Peter Dalgaard BSA
+022994.html,[Rd] Bug repository,22994,Peter Dalgaard BSA
+023005.html,[Rd] Inconsistent behaviour of is.vector? (PR#1052),23005,Peter Dalgaard BSA
+023008.html,[Rd] R-devel.tar.gz,23008,Peter Dalgaard BSA
+023021.html,[Rd] lm() (PR#1059),23021,Peter Dalgaard BSA
+023042.html,[Rd] Bug list summary (automatic post),23042,Peter Dalgaard BSA
+023075.html,Bug report numbers. Re: Interrupts (was Re: [Rd] X11 protocol errors ...) (PR#1069),23075,Peter Dalgaard BSA
+023082.html,[Rd] Wierd problem comparing numeric values and list using == (PR#1073),23082,Peter Dalgaard BSA
+023089.html,[Rd] Wierd problem comparing numeric values and list using == (PR#1076),23089,Peter Dalgaard BSA
+023093.html,"[Rd] is.environment, as.environment, and NULL",23093,Peter Dalgaard BSA
+023099.html,"[Rd] is.environment, as.environment, and NULL",23099,Peter Dalgaard BSA
+023116.html,[Rd] --quiet flag sets echo option to TRUE (PR#1083),23116,Peter Dalgaard BSA
+023076.html,[Rd] RFC: type conversion in read.table,23076,John Chambers
+023092.html,"[Rd] is.environment, as.environment, and NULL",23092,John Chambers
+023012.html,[Rd] Computer Modern Fonts in R,23012,Brian D'Urso
+023024.html,[Rd] lm() (PR#1059),23024,Joaquin Diaz-Saiz
+023055.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23055,John W. Eaton
+022981.html,[Rd] Why not in Debian distro?,22981,Dirk Eddelbuettel
+022983.html,[Rd] Why not in Debian distro?,22983,Dirk Eddelbuettel
+023041.html,[Rd] Excel -&gt; *.CSV in Unix (Linux) command line?,23041,Dirk Eddelbuettel
+022996.html,[Rd] re: transparency,22996,Byron Ellis
+022998.html,[Rd] re: transparency,22998,Byron Ellis
+023036.html,[Rd] Excel -&gt; *.CSV in Unix (Linux) command line?,23036,Byron Ellis
+023070.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23070,Byron Ellis
+023007.html,[Rd] R-devel.tar.gz,23007,Paul Gilbert
+023013.html,[Rd] documented but missing from the code (PR#1054),23013,Paul Gilbert
+022950.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22950,Kurt Hornik
+022952.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22952,Kurt Hornik
+022968.html,[Rd] panel.loess,22968,Kurt Hornik
+023001.html,[Rd] Rnews 2001/3,23001,Kurt Hornik
+023006.html,[Rd] Inconsistent behaviour of is.vector? (PR#1052),23006,Kurt Hornik
+023014.html,[Rd] documented but missing from the code (PR#1054),23014,Kurt Hornik
+023018.html,[Rd] documented but missing from the code (PR#1054),23018,Kurt Hornik
+023029.html,"[Rd] system.file(&quot;&quot;,package) (PR#1062)",23029,Kurt Hornik
+023035.html,[Rd] Excel -&gt; *.CSV in Unix (Linux) command line?,23035,Kurt Hornik
+023047.html,[Rd] X11 protocol errors after all x11 devices are closed (PR#1065),23047,Kurt Hornik
+023086.html,[Rd] typo in lines.Rd (PR#1075),23086,Kurt Hornik
+023094.html,"[Rd] is.environment, as.environment, and NULL",23094,Kurt Hornik
+023112.html,[Rd] RFC: type conversion in read.table,23112,Kurt Hornik
+022985.html,[Rd] Palette changes on redraw (PR#1045),22985,Ross Ihaka
+022995.html,[Rd] re: transparency,22995,Ross Ihaka
+023003.html,[Rd] Inconsistent behaviour of is.vector? (PR#1052),23003,J.C.Rougier@durham.ac.uk
+023019.html,[Rd] lm() (PR#1059),23019,JDiaz-Saiz@uh.edu
+023101.html,[Rd] Suggested change to documentation,23101,Timothy H. Keitt
+023103.html,[Rd] Suggested change to documentation,23103,Timothy H. Keitt
+023072.html,[Rd] postscript &amp; ps.options documentation (PR#1071),23072,Kevin.Wright@pioneer.com
+023039.html,[Rd] interrupting Sys.sleep (PR#1063),23039,Jan de Leeuw
+023067.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23067,Jan de Leeuw
+022964.html,"[Rd] xtabs, drop.unused.levels (PR#1041)",22964,Martin Lenze
+023058.html,[Rd] cex.axis in barplot() (PR#1070),23058,Uwe Ligges
+022992.html,[Rd] re: transparency,22992,Thomas Lumley
+023034.html,"[Rd] system.file(&quot;&quot;,package) (PR#1062)",23034,Thomas Lumley
+023045.html,[Rd] interrupting Sys.sleep (PR#1063),23045,Thomas Lumley
+023068.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23068,Thomas Lumley
+023009.html,[Rd] R-devel.tar.gz,23009,Martin Maechler
+023017.html,[Rd] scale() generic {was &quot;documented but missing...&quot;},23017,Martin Maechler
+023026.html,[Rd] Excel -&gt; *.CSV in Unix (Linux) command line?,23026,Martin Maechler
+023032.html,[Rd] Excel -&gt; *.CSV in Unix (Linux) command line?,23032,Martin Maechler
+023097.html,[Rd] colorbar legend for image(),23097,Martin Maechler
+023098.html,[Rd] log10 error ?? (PR#1077),23098,Martin Maechler
+023100.html,[Rd] colorbar legend for image(),23100,Martin Maechler
+023061.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23061,Duncan Murdoch
+022963.html,[Rd] arrows()/log scale/clipping (?) (PR#1039),22963,Paul Murrell
+023106.html,"[Rd] problem in plot(), combining log=&quot;y&quot; with type=&quot;s&quot; (PR#1078)",23106,Paul Murrell
+022965.html,[Rd] String Length Limit (PR#1040),22965,Prof Brian Ripley
+022971.html,"[Rd] Next release of R, August 31st",22971,Prof Brian Ripley
+022973.html,"[Rd] Next release of R, August 31st",22973,Prof Brian Ripley
+022986.html,No subject,22986,Prof Brian Ripley
+022991.html,[Rd] bug in dummy.coef.lm? (PR#1048),22991,Prof Brian Ripley
+023037.html,[Rd] Excel -&gt; *.CSV in Unix (Linux) command line?,23037,Prof Brian Ripley
+023043.html,[Rd] Re: [R] Problem using GLM in a loop (fwd),23043,Prof Brian Ripley
+023062.html,[Rd] Fortran routines from LINPACK in S+ but not R,23062,Prof Brian Ripley
+023073.html,[Rd] RFC: type conversion in read.table,23073,Prof Brian Ripley
+023077.html,[Rd] Reading Inf and NaN values under windows (PR#1072),23077,Prof Brian Ripley
+023096.html,"[Rd] is.environment, as.environment, and NULL",23096,Prof Brian Ripley
+022962.html,"[Rd] xtabs, drop.unused.levels (PR#1041)",22962,Prof Brian D Ripley
+022982.html,[Rd] Why not in Debian distro?,22982,Prof Brian D Ripley
+022997.html,[Rd] re: transparency,22997,Prof Brian D Ripley
+023016.html,[Rd] crt1.o skipped at configure time ? (PR#1057),23016,Prof Brian D Ripley
+023031.html,"[Rd] system.file(&quot;&quot;,package) (PR#1062)",23031,Prof Brian D Ripley
+023069.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23069,Prof Brian D Ripley
+023102.html,[Rd] Suggested change to documentation,23102,Prof Brian D Ripley
+023113.html,[Rd] RFC: type conversion in read.table,23113,Prof Brian D Ripley
+023114.html,[Rd] RFC: type conversion in read.table,23114,A.J. Rossini
+022966.html,[Rd] panel.loess,22966,Deepayan Sarkar
+023104.html,"[Rd] problem in plot(), combining log=&quot;y&quot; with type=&quot;s&quot; (PR#1078)",23104,Setzer.Woodrow@epamail.epa.gov
+022980.html,"[Rd] R 1.3.0 bug: after &quot;y _ 10; x[[1]] _ y&quot;, assigning to &quot;y[1]&quot; modifies &quot;x&quot; (PR#1043)",22980,Luke Tierney
+023053.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23053,Luke Tierney
+023066.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23066,Luke Tierney
+023071.html,Interrupts (was Re: [Rd] X11 protocol errors ...),23071,Luke Tierney
+023022.html,[Rd] lm() (PR#1059),23022,"Venables, Bill (CMIS, Cleveland)"
+023050.html,[Rd] X11 protocol errors after all x11 devices are closed (PR#1065),23050,Thomas Vogels
+022951.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22951,Thomas J Vogels
+022955.html,[Rd] Compiling R (1.3.0) on AIX (4.3) fails (PR#1034),22955,Thomas J Vogels
+023079.html,[Rd] RE: Variable lables (was Re: [R] Reading SAS version 8 data into,23079,"Warnes, Gregory R"
+022959.html,[Rd] Summary: too many arguments in foreign function call,22959,Gregory R. Warnes
+023115.html,[Rd] --quiet flag sets echo option to TRUE (PR#1083),23115,a296180@mica.fmr.com
+022990.html,[Rd] bug in dummy.coef.lm? (PR#1048),22990,adrian@maths.uwa.edu.au
+022953.html,[Rd] arrows()/log scale/clipping (?) (PR#1039),22953,bolker@zoo.ufl.edu
+022977.html,"[Rd] R 1.3.0 bug: after &quot;y _ 10; x[[1]] _ y&quot;, assigning to &quot;y[1]&quot; modifies &quot;x&quot; (PR#1043)",22977,buhr@stat.wisc.edu
+023095.html,[Rd] log10 error ?? (PR#1077),23095,christian.hoffmann@wsl.ch
+022987.html,[Rd] bug (and fix) in seq.POSIXt (PR#1046),22987,dmiddleton@fisheries.gov.fk
+023060.html,[Rd] Fortran routines from LINPACK in S+ but not R,23060,fharrell@virginia.edu
+023063.html,[Rd] Fortran routines from LINPACK in S+ but not R,23063,fharrell@virginia.edu
+023081.html,[Rd] Re: Variable lables (was Re: [R] Reading SAS version 8 data into,23081,fharrell@virginia.edu
+023080.html,[Rd] Wierd problem comparing numeric values and list using == (PR#1073),23080,gregory_r_warnes@groton.pfizer.com
+022970.html,"[Rd] Next release of R, August 31st",22970,kjetil halvorsen
+022972.html,"[Rd] Next release of R, August 31st",22972,kjetil halvorsen
+023020.html,[Rd] lm() (PR#1059),23020,kjetil halvorsen
+023052.html,[Rd] cutree (PR#1067),23052,heydebre@molgen.mpg.de
+022975.html,[Rd] cannot assign to NULL dimnames (PR#1042),22975,htang@hpl.hp.com
+023000.html,[Rd] error in ksmooth C code + patch (PR#1050),23000,htang@hpl.hp.com
+023002.html,[Rd] erappin' - daily morning update 8-13-01 (PR#1051),23002,info@eminidaytrading.com
+023044.html,[Rd] GREAT DEAL (PR#1064),23044,jamesmeyers@etex.net
+023027.html,[Rd] error message in chol() (PR#1061),23027,jerome@stat.ubc.ca
+023040.html,[Rd] error message in chol() (PR#1061),23040,jerome@stat.ubc.ca
+023057.html,[Rd] cex.axis in barplot() (PR#1070),23057,jerome@stat.ubc.ca
+023087.html,[Rd] Wierd problem comparing numeric values and list using == (PR#1076),23087,jmc@research.bell-labs.com
+022999.html,[Rd] predict.mlm: Error: Object &quot;X&quot; not found (PR#1049),22999,john.holena@reverecapital.com
+023056.html,Interrupts (was Re: [Rd] X11 protocol errors ...) (PR#1069),23056,jwe@bevo.che.wisc.edu
+023015.html,[Rd] crt1.o skipped at configure time ? (PR#1057),23015,laurent@cbs.dtu.dk
+023107.html,[Rd] bug in histogram rendering (PR#1080),23107,ljlehou@sandia.gov
+023054.html,Interrupts (was Re: [Rd] X11 protocol errors ...) (PR#1068),23054,luke@nokomis.stat.umn.edu
+023049.html,[Rd] X11 protocol errors after all x11 devices are closed (PR#1065),23049,maechler@stat.math.ethz.ch
+023078.html,[Rd] cutree (PR#1067),23078,maechler@stat.math.ethz.ch
+022960.html,"[Rd] xtabs, drop.unused.levels (PR#1041)",22960,martin.lenze@to.com
+023048.html,[Rd] Corrupted binary?? (PR#1066),23048,maslcgr@bath.ac.uk
+022984.html,[Rd] Palette changes on redraw (PR#1045),22984,p.dalgaard@biostat.ku.dk
+023010.html,[Rd] documented but missing from the code (PR#1054),23010,pgilbert@bank-banque-canada.ca
+022978.html,[Rd] Polymarsall.c (PR#1044),22978,pleu@hotmail.com
+023074.html,[Rd] Reading Inf and NaN values under windows (PR#1072),23074,plummer@iarc.fr
+023109.html,[Rd] problems installing R on Solaris 2.8 machine (PR#1081),23109,pollari@sun3.oulu.fi
+022956.html,[Rd] String Length Limit (PR#1040),22956,possolo@crd.ge.com
+023111.html,[Rd] =?big5?B?tfizpbZWrMm3c67RqHQgLS2hbanKvKShQsV2pE+hQrRjpua7ULdMr7otLb9ztfg=?= (PR#1082),23111,replypro@mcgraw-hill.com.tw
+022957.html,[Rd] String Length Limit (PR#1040),22957,ripley@stats.ox.ac.uk
+022976.html,[Rd] cannot assign to NULL dimnames (PR#1042),22976,ripley@stats.ox.ac.uk
+022989.html,[Rd] [&lt;-.data.frame bug (PR#1047),22989,ripley@stats.ox.ac.uk
+023004.html,[Rd] Inconsistent behaviour of is.vector? (PR#1052),23004,ripley@stats.ox.ac.uk
+023011.html,[Rd] documented but missing from the code (PR#1054),23011,ripley@stats.ox.ac.uk
+023030.html,"[Rd] system.file(&quot;&quot;,package) (PR#1062)",23030,ripley@stats.ox.ac.uk
+023033.html,[Rd] error message in chol() (PR#1061),23033,ripley@stats.ox.ac.uk
+023046.html,[Rd] X11 protocol errors after all x11 devices are closed (PR#1065),23046,ripley@stats.ox.ac.uk
+023064.html,(PR#1065)[Rd] X11 protocol errors after all x11 devices are,23064,ripley@stats.ox.ac.uk
+023065.html,[Rd] cex.axis in barplot() (PR#1070),23065,ripley@stats.ox.ac.uk
+023108.html,[Rd] bug in histogram rendering (PR#1080),23108,ripley@stats.ox.ac.uk
+023085.html,[Rd] typo in lines.Rd (PR#1075),23085,stephen@cogsci.ed.ac.uk
+023105.html,[Rd] Array.rd - typos and suggestion (PR#1079),23105,stephen@cogsci.ed.ac.uk
+023091.html,[Rd] colorbar legend for image(),23091,thomas.baumann@ch.tum.de
+023028.html,"[Rd] system.file(&quot;&quot;,package) (PR#1062)",23028,tlumley@u.washington.edu
+023038.html,[Rd] interrupting Sys.sleep (PR#1063),23038,tlumley@u.washington.edu
+023023.html,[Rd] Error in report. (PR#1060),23023,xoaquin@computer.org
+023025.html,[Rd] lm() (PR#1059),23025,xoaquin@computer.org

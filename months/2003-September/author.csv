@@ -1,0 +1,240 @@
+link,Subject,id,author
+027476.html,"[Rd] Message (&quot;Your message dated Fri, 5 Sep 2003 22:59:13...&quot;)",27476,L-Soft list server at SURFnet (The Netherlands) (1.8e)
+027666.html,[Rd] Worried about scratching your favorite movie? 239542 (PR#4303),27666,239542 at yahoo.com
+027637.html,[Rd] documentation search: problem with links (PR#4254),27637,David A. T. Andrews
+027688.html,[Rd] ENC: Fw: BOICOTE AO CASSETA&amp;PLANETA: PRESS&#195;O TOTAL  NO CONGRESSO,27688,Anjinha
+027461.html,[Rd] fisher.test() gives wrong confidence interval (PR#4019),27461,Peter Dalgaard BSA
+027485.html,[Rd] bug in crossprod? (PR#4092),27485,Peter Dalgaard BSA
+027504.html,[Rd] R 1.8.0 alpha,27504,Peter Dalgaard BSA
+027507.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27507,Peter Dalgaard BSA
+027511.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27511,Peter Dalgaard BSA
+027527.html,"[Rd] win.metafile, devga, tkrplot in R 1.8.0",27527,Peter Dalgaard BSA
+027536.html,[Rd] bug or feature? (PR#4150),27536,Peter Dalgaard BSA
+027552.html,[Rd] Documentation of colSums et. al (PR#4154),27552,Peter Dalgaard BSA
+027567.html,[Rd] RAqua too hungry of cpu time,27567,Peter Dalgaard BSA
+027622.html,[Rd] grep in version 1.8 (PR#4231),27622,Peter Dalgaard BSA
+027631.html,[Rd] PR#2894,27631,Peter Dalgaard BSA
+027633.html,[Rd] documentation search: problem with links (PR#4254),27633,Peter Dalgaard BSA
+027643.html,[Rd] R compiled under windows 64 bit???,27643,Peter Dalgaard BSA
+027644.html,[Rd] Feature freeze + beta version,27644,Peter Dalgaard BSA
+027647.html,[Rd] partial matching in data frame subscripting,27647,Peter Dalgaard BSA
+027652.html,[Rd] tkinsert (PR#4289),27652,Peter Dalgaard BSA
+027658.html,[Rd] Documentation of ``Extract'' re. drop argument (PR#4297),27658,Peter Dalgaard BSA
+027676.html,[Rd] does isGeneric work differently in 1.8.0 ?,27676,Peter Dalgaard BSA
+027569.html,[Rd] couldn't find function &quot;setClass&quot;,27569,Douglas Bates
+027661.html,[Rd] Re: [BioC] 64-bit CPUs and bioconductor,27661,Douglas Bates
+027517.html,[Rd] extending boxplot with space() argument?,27517,Ben Bolker
+027548.html,[Rd] glitch in terms documentation (PR#4146),27548,Ross Boylan
+027550.html,[Rd] Documentation of colSums et. al (PR#4154),27550,David Brahm
+027646.html,[Rd] partial matching in data frame subscripting,27646,Patrick Burns
+027654.html,[Rd] partial matching in data frame subscripting,27654,Patrick Burns
+027451.html,[Rd] Documentation responsibility for functions and methods,27451,John Chambers
+027459.html,[Rd] completeSubclasses() methods bug (PR#4051),27459,John Chambers
+027473.html,[Rd] S4 Method Collisions with &quot;[&quot; (PR#4075),27473,John Chambers
+027475.html,[Rd] namespaces and S4 methods/classes,27475,John Chambers
+027477.html,[Rd] S4 Method Collisions with &quot;[&quot; (PR#4075),27477,John Chambers
+027489.html,[Rd] setAs() and namespaces,27489,John Chambers
+027490.html,[Rd] namespaces and S4 methods/classes,27490,John Chambers
+027496.html,[Rd] R-devel on Solaris 8,27496,John Chambers
+027571.html,[Rd] couldn't find function &quot;setClass&quot;,27571,John Chambers
+027574.html,[Rd] couldn't find function &quot;setClass&quot;,27574,John Chambers
+027578.html,[Rd] couldn't find function &quot;setClass&quot;,27578,John Chambers
+027581.html,[Rd] getGenerics is wrong in 1.8.0 alpha (PR#4184),27581,John Chambers
+027686.html,"[Rd] infinite recursion during pkg installation w/ methods, setAs",27686,John Chambers
+027687.html,[Rd] does isGeneric work differently in 1.8.0 ?,27687,John Chambers
+027521.html,[Rd] New package in Bioconductor: externalVector,27521,Saikat DebRoy
+027603.html,[Rd] Matrix subassignment with NA subscripts,27603,Saikat DebRoy
+027604.html,[Rd] Matrix subassignment with NA subscripts,27604,Saikat DebRoy
+027453.html,[Rd] An XML format for block designs,27453,Peter Dobcsanyi
+027518.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27518,Dirk Eddelbuettel
+027537.html,[Rd] R 1.8.0 (to be) and RPy 0.3.1,27537,Dirk Eddelbuettel
+027538.html,[Rd] R 1.8.0 (to be) and RPy 0.3.1,27538,Dirk Eddelbuettel
+027458.html,[Rd] Updated power.t.test,27458,Claus Ekstroem
+027541.html,[Rd] Problem building methods package?,27541,Byron Ellis
+027597.html,[Rd] Sweave: option family=...,27597,Wolfram Fischer
+027535.html,[Rd] bug or feature? (PR#4150),27535,John Fox
+027487.html,[Rd] Frederic Ibanez absent de l'Observatoire,27487,Frederic_Ibanez
+027503.html,[Rd] sweave problem,27503,Friedrich.Leisch at ci.tuwien.ac.at
+027510.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27510,Friedrich.Leisch at ci.tuwien.ac.at
+027512.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27512,Friedrich.Leisch at ci.tuwien.ac.at
+027526.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27526,Friedrich.Leisch at ci.tuwien.ac.at
+027606.html,[Rd] Sweave: option family=...,27606,Friedrich.Leisch at ci.tuwien.ac.at
+027623.html,[Rd] grep in version 1.8 (PR#4231),27623,Friedrich.Leisch at ci.tuwien.ac.at
+027630.html,[Rd] grep in version 1.8 (PR#4231),27630,Friedrich.Leisch at ci.tuwien.ac.at
+027598.html,[Rd] function 'density' in r-devel,27598,Laurent Gautier
+027494.html,[Rd] R-devel on Solaris 8,27494,Jeff Gentry
+027520.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27520,Jeff Gentry
+027568.html,[Rd] couldn't find function &quot;setClass&quot;,27568,Jeff Gentry
+027570.html,[Rd] couldn't find function &quot;setClass&quot;,27570,Jeff Gentry
+027492.html,[Rd] pacf lags,27492,Paul Gilbert
+027495.html,[Rd] pacf lags,27495,Paul Gilbert
+027553.html,[Rd] extended usage of data(),27553,Paul Gilbert
+027629.html,[Rd] grep in version 1.8 (PR#4231),27629,Paul Gilbert
+027645.html,[Rd] build in directory different from source,27645,Paul Gilbert
+027669.html,[Rd] Tutorial docs... move from R-help,27669,Paul Gilbert
+027641.html,[Rd] R compiled under windows 64 bit???,27641,Alex Gracian
+027488.html,[Rd] Accuracy problems in summary()? (PR#4101),27488,Graeme.Ambler at bristol.ac.uk
+027514.html,[Rd] rank(*) with NAs -- new option &quot;keep&quot; desired,27514,Gabor Grothendieck
+027539.html,[Rd] bug or feature? (PR#4150),27539,Gabor Grothendieck
+027554.html,[Rd] Documentation of colSums et. al (PR#4154),27554,Douglas Grove
+027576.html,[Rd] couldn't find function &quot;setClass&quot;,27576,Kurt Hornik
+027584.html,[Rd] couldn't find function &quot;setClass&quot;,27584,Kurt Hornik
+027596.html,[Rd] couldn't find function &quot;setClass&quot;,27596,Kurt Hornik
+027556.html,[Rd] `var' broken in 1.8.0 alpha (2003-09-15),27556,Torsten Hothorn
+027560.html,[Rd] `var' broken in 1.8.0 alpha (2003-09-15),27560,Torsten Hothorn
+027595.html,[Rd] dwilcox (PR#4212),27595,Torsten Hothorn
+027599.html,[Rd] function 'density' in r-devel,27599,Torsten Hothorn
+027466.html,[Rd] darwin build with latest gcc from apple,27466,Stefano Iacus
+027465.html,[Rd] binary packages for RAqua,27465,Stefano Iacus
+027470.html,[Rd] darwin build with latest gcc from apple,27470,Stefano Iacus
+027531.html,[Rd] RAqua R 1.8.0 (alpha),27531,Stefano Iacus
+027532.html,[Rd] RAqua R 1.8.0 (alpha),27532,Stefano Iacus
+027533.html,[Rd] RAqua R 1.8.0 (alpha),27533,Stefano Iacus
+027543.html,[Rd] Problem building methods package?,27543,Stefano Iacus
+027555.html,[Rd] RAqua too hungry of cpu time,27555,Stefano Iacus
+027566.html,[Rd] RAqua too hungry of cpu time,27566,Stefano Iacus
+027610.html,[Rd] XML package for Darwin,27610,Stefano Iacus
+027614.html,[Rd] XML package for Darwin,27614,Stefano Iacus
+027680.html,[Rd] cpu time &amp; RAqua,27680,Stefano Iacus
+027481.html,[Rd] namespaces and S4 methods/classes,27481,Ross Ihaka
+027667.html,[Rd] hist will not use parameter xaxs (PR#4219),27667,Ross Ihaka
+027502.html,[Rd] sweave problem,27502,Rafael A. Irizarry
+027663.html,[Rd] PRIVATE AND CONFIDENTIAL.,27663,Philip Kabila
+027660.html,[Rd] Plea For Assistance,27660,David Kamara
+027697.html,[Rd] another dump/source problem?,27697,Peter Kleiweg
+027700.html,[Rd] dump/source problem with hclust object (PR#4361),27700,Peter Kleiweg
+027454.html,[Rd] Re: [R] help file extension (fwd),27454,Roger Koenker
+027600.html,[Rd] non-numeric binary ops?,27600,Roger Koenker
+027480.html,[Rd] (no subject),27480,Eddie Kohler
+027471.html,[Rd] Problem with S4 slots in C code (PR#4073),27471,L.T.Kell at cefas.co.uk
+027601.html,[Rd] dwilcox (PR#4212),27601,Mark Lamias
+027474.html,[Rd] Problem with S4 slots in C code (PR#4073),27474,Duncan Temple Lang
+027468.html,[Rd] darwin build with latest gcc from apple,27468,Jan de Leeuw
+027612.html,[Rd] XML package for Darwin,27612,Jan de Leeuw
+027699.html,[Rd] dump/source problem with hclust object (PR#4361),27699,"Liaw, Andy"
+027588.html,[Rd] var() doesn't work for R-1.8.0,27588,Uwe Ligges
+027634.html,[Rd] creates directory that can't be deleted (PR#4246),27634,Uwe Ligges
+027636.html,[Rd] RODBC access to MS-Excel (PR#4266),27636,Uwe Ligges
+027642.html,[Rd] R compiled under windows 64 bit???,27642,Uwe Ligges
+027579.html,[Rd] How does &quot;subset&quot; replace arguments? (PR#4193),27579,Thomas Lumley
+027705.html,[Rd] eigin of matrix of NaNs (PR#4366),27705,Thomas Lumley
+027639.html,[Rd] documentation search: problem with links (PR#4254),27639,MSchwartz at medanalytics.com
+027497.html,[Rd] Accuracy problems in summary()?  (PR#4101),27497,Martin Maechler
+027509.html,[Rd] rank(*) with NAs -- new option &quot;keep&quot; desired,27509,Martin Maechler
+027515.html,[Rd] rank(*) with NAs -- new option &quot;keep&quot; desired,27515,Martin Maechler
+027558.html,[Rd] `var' broken in 1.8.0 alpha (2003-09-15),27558,Martin Maechler
+027564.html,[Rd] `var' broken in 1.8.0 alpha (2003-09-15),27564,Martin Maechler
+027585.html,[Rd] couldn't find function &quot;setClass&quot;,27585,Martin Maechler
+027586.html,[Rd] the empty class name,27586,Martin Maechler
+027651.html,[Rd] build in directory different from source,27651,Martin Maechler
+027682.html,"[Rd] infinite recursion during pkg installation w/ methods, setAs",27682,Martin Maechler
+027640.html,[Rd] getAnywhere (PR#4275),27640,Mark.Bravington at csiro.au
+027650.html,[Rd] tkinsert (PR#4289),27650,Mark.Bravington at csiro.au
+027590.html,[Rd] possible bug in diag(),27590,"Marsland, John"
+027690.html,[Rd] Adding Tk extensions to R for windows,27690,"Marsland, John"
+027692.html,[Rd] Adding Tk extensions to R for windows,27692,"Marsland, John"
+027498.html,[Rd] Welcome to THEREALBLACKFREAKS ,27498,THEREALBLACKFREAKS Moderator
+027448.html,[Rd] Re: [R] File Reading Problem (PR#4043),27448,Duncan Murdoch
+027486.html,[Rd] bug in crossprod? (PR#4092),27486,Duncan Murdoch
+027513.html,[Rd] R 1.8.0 alpha,27513,Duncan Murdoch
+027534.html,[Rd] bug or feature? (PR#4150),27534,Duncan Murdoch
+027617.html,[Rd] grep in version 1.8 (PR#4231),27617,Duncan Murdoch
+027621.html,[Rd] grep in version 1.8 (PR#4231),27621,Duncan Murdoch
+027625.html,[Rd] grep in version 1.8 (PR#4231),27625,Duncan Murdoch
+027691.html,[Rd] Adding Tk extensions to R for windows,27691,Duncan Murdoch
+027693.html,[Rd] Adding Tk extensions to R for windows,27693,Duncan Murdoch
+027500.html,[Rd] Please reply to unsubscribe from THEREALBLACKFREAKS ,27500,Yahoo! Groups Notification
+027501.html,[Rd] You have been unsubscribed from THEREALBLACKFREAKS ,27501,Yahoo! Groups Notification
+027462.html,[Rd] 7_ Size DOES Matter_ uy nsw e (PR#4026),27462,INTERNATIONAL RIBBONS AND PAPER
+027522.html,[Rd] Problem in scan() (PR#4128),27522,Paul.Bayer at gleichsam.de
+027493.html,[Rd] pacf lags,27493,Roger D. Peng
+027449.html,[Rd] Re: [R] File Reading Problem (PR#4043),27449,Prof Brian Ripley
+027457.html,[Rd] Last line in .Rprofile must have newline (PR#4056),27457,Prof Brian Ripley
+027516.html,[Rd] rank(*) with NAs -- new option &quot;keep&quot; desired,27516,Prof Brian Ripley
+027523.html,[Rd] Problem in scan() (PR#4128),27523,Prof Brian Ripley
+027525.html,"[Rd] win.metafile, devga, tkrplot in R 1.8.0",27525,Prof Brian Ripley
+027529.html,[Rd] glitch in terms documentation (PR#4146),27529,Prof Brian Ripley
+027542.html,[Rd] Problem building methods package?,27542,Prof Brian Ripley
+027546.html,[Rd] configure problem in R-devel caused by conditionals,27546,Prof Brian Ripley
+027549.html,[Rd] glitch in terms documentation (PR#4146),27549,Prof Brian Ripley
+027572.html,[Rd] couldn't find function &quot;setClass&quot;,27572,Prof Brian Ripley
+027573.html,[Rd] couldn't find function &quot;setClass&quot;,27573,Prof Brian Ripley
+027583.html,[Rd] couldn't find function &quot;setClass&quot;,27583,Prof Brian Ripley
+027620.html,[Rd] remove me please,27620,Kimberly Robinson
+027456.html,[Rd] identify() seg.faults (PR#4057),27456,Roger.Bivand at nhh.no
+027506.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27506,A.J. Rossini
+027508.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27508,A.J. Rossini
+027519.html,[Rd] potentially nasty interaction between R 1.8.0 and tetex,27519,A.J. Rossini
+027619.html,[Rd] grep in version 1.8 (PR#4231),27619,A.J. Rossini
+027577.html,[Rd] How does &quot;subset&quot; replace arguments? (PR#4193),27577,Deepayan Sarkar
+027602.html,[Rd] possible bug in diag(),27602,Deepayan Sarkar
+027618.html,[Rd] grep in version 1.8 (PR#4231),27618,Deepayan Sarkar
+027628.html,[Rd] grep in version 1.8 (PR#4231),27628,Deepayan Sarkar
+027638.html,[Rd] documentation search: problem with links (PR#4254),27638,Marc Schwartz
+027544.html,[Rd] R on BeOS,27544,Ole Sieling
+027675.html,[Rd] does isGeneric work differently in 1.8.0 ?,27675,Thomas Stabla
+027545.html,[Rd] configure problem in R-devel caused by conditionals,27545,Simon Urbanek
+027565.html,[Rd] RAqua too hungry of cpu time,27565,Simon Urbanek
+027591.html,[Rd] possible bug in diag(),27591,Simon Urbanek
+027592.html,[Rd] R on BeOS,27592,Simon Urbanek
+027698.html,[Rd] Adding Tk extensions to R for windows,27698,Simon Urbanek
+027505.html,[Rd] zero inflated models,27505,Maren Wellenreuther
+027524.html,"[Rd] win.metafile, devga, tkrplot in R 1.8.0",27524,James Wettenhall
+027551.html,[Rd] R Object models,27551,Nathan Whitehouse
+027464.html,[Rd] Suggestion for 'contrasts' help page,27464,Kevin Wright
+027467.html,[Rd] &quot;euro&quot; (PR#4071),27467,a9709233 at unet.univie.ac.at
+027673.html,[Rd] homepage should not use frames (PR#4316),27673,andyj at tazman.princeton.edu
+027681.html,[Rd] Calling C fn crashes (PR#4281),27681,ashenfluff at yahoo.com
+027530.html,[Rd] bug or feature? (PR#4150),27530,axel.benz at iao.fhg.de
+027575.html,[Rd] How does &quot;subset&quot; replace arguments? (PR#4193),27575,axel.benz at iao.fhg.de
+027460.html,[Rd] fisher.test() gives wrong confidence interval (PR#4019),27460,cberry at tajo.ucsd.edu
+027615.html,[Rd] New Marketing tool,27615,ceo102W1hDH at globalgiftware.net
+027452.html,[Rd] completeSubclasses() methods bug (PR#4051),27452,colin at colinsmith.org
+027472.html,[Rd] S4 Method Collisions with &quot;[&quot; (PR#4075),27472,colin at colinsmith.org
+027657.html,[Rd] Documentation of ``Extract'' re. drop argument (PR#4297),27657,david.meyer at ci.tuwien.ac.at
+027540.html,[Rd] Documentation of colSums et. al (PR#4154),27540,dgrove at fhcrc.org
+027446.html,[Rd] Re: [R] File Reading Problem (PR#4043),27446,dmurdoch at pair.com
+027677.html,[Rd] (fwd) package inst directory copied too early? (PR#4329),27677,dmurdoch at pair.com
+027678.html,[Rd] (fwd) package inst directory copied too early? (PR#4330),27678,dmurdoch at pair.com
+027648.html,[Rd] k-means (PR#4285),27648,dquintero at epm.net
+027664.html,[Rd] Amazing secret to picking up women  fs (PR#4301),27664,fqvgl07wa at msn.com
+027613.html,[Rd] grep in version 1.8 (PR#4231),27613,gblevins at mn.rr.com
+027455.html,[Rd] Last line in .Rprofile must have newline (PR#4056),27455,hb at maths.lth.se
+027683.html,[Rd] colours in dotchart (PR#4343),27683,i.wilson at maths.abdn.ac.uk
+027478.html,[Rd] Frederic Ibanez absent de l'Observatoire (PR#4084),27478,ibanez at obs-vlfr.fr
+027702.html,[Rd] another dump/source problem? (PR#4364),27702,ihaka at stat.auckland.ac.nz
+027482.html,[Rd] bug in crossprod? (PR#4092),27482,iwhite at staffmail.ed.ac.uk
+027580.html,"[Rd] hclust: median, centroid (PR#4195)",27580,kleiweg at let.rug.nl
+027582.html,[Rd] plot.hclust: dendrogram too large for window (PR#4197),27582,kleiweg at let.rug.nl
+027696.html,[Rd] dump/source problem with hclust object (PR#4361),27696,kleiweg at let.rug.nl
+027632.html,[Rd] documentation search: problem with links (PR#4254),27632,kvanhorn at ksvanhorn.com
+027469.html,[Rd] &quot;euro&quot; (PR#4071),27469,ligges at statistik.uni-dortmund.de
+027484.html,[Rd] bug in crossprod? (PR#4092),27484,ligges at statistik.uni-dortmund.de
+027607.html,[Rd] hist will not use parameter xaxs (PR#4219),27607,ligges at statistik.uni-dortmund.de
+027616.html,[Rd] grep in version 1.8 (PR#4231),27616,ligges at statistik.uni-dortmund.de
+027684.html,[Rd] colours in dotchart (PR#4343),27684,ligges at statistik.uni-dortmund.de
+027685.html,[Rd] colours in dotchart (PR#4343),27685,ligges at statistik.uni-dortmund.de
+027491.html,[Rd] Accuracy problems in summary()? (PR#4101),27491,maechler at stat.math.ethz.ch
+027695.html,[Rd] plot.hclust: dendrogram too large for window (PR#4197),27695,maechler at stat.math.ethz.ch
+027593.html,[Rd] dwilcox (PR#4212),27593,mark.lamias at grizzard.com
+027594.html,[Rd] dwilcox (PR#4213),27594,mark.lamias at grizzard.com
+027635.html,[Rd] RODBC access to MS-Excel (PR#4266),27635,michael.hecht at geocities.com
+027609.html,[Rd] PR#2867,27609,mmaclenn at nmdp.org
+027605.html,[Rd] hist will not use parameter xaxs (PR#4219),27605,mwall at diversa.com
+027450.html,[Rd] File in use error (PR#4047),27450,oakeley at fmi.ch
+027447.html,[Rd] Re: [R] File Reading Problem (PR#4044),27447,p.dalgaard at biostat.ku.dk
+027589.html,[Rd] strptime (PR#4204),27589,pliu3 at ncsu.edu
+027499.html,[Rd] Problem with 'drop' for 1-D arrays? (PR#4110),27499,richard_raubertas at merck.com
+027557.html,[Rd] getGenerics is wrong in 1.8.0 alpha (PR#4184),27557,ripley at stats.ox.ac.uk
+027528.html,[Rd] glitch in terms documentation (PR#4146),27528,ross at biostat.ucsf.edu
+027659.html,[Rd] merge.data.frame problem (PR#4299),27659,sundar.dorai-raj at pdf.com
+027662.html,[Rd] do you need to get laid? inzulkfbxvw co tfpv (PR#4300),27662,t0wangvdjj at yahoo.com
+027626.html,[Rd] PR#2894,27626,tim.massingham at ebi.ac.uk
+027627.html,[Rd] Re: PR#2894,27627,tim.massingham at ebi.ac.uk
+027463.html,[Rd] Blocked delivery of your email to nceba@endemol.co.za,27463,virus_alert at netsurit.com
+027547.html,[Rd] bug or feature? (PR#4150),27547,w.huber at dkfz-heidelberg.de
+027649.html,[Rd] k-means (PR#4285),27649,w.huber at dkfz-heidelberg.de
+027587.html,[Rd] var() doesn't work for R-1.8.0,27587,bin wang
+027689.html,[Rd] Adding Tk extensions to R for windows,27689,wettenhall at wehi.EDU.AU
+027624.html,[Rd] creates directory that can't be deleted (PR#4246),27624,xiaobao_wang at yahoo.com
+027665.html,[Rd] wear pheromones and get laid w (PR#4302),27665,yt45tovk at yahoo.com

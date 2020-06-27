@@ -1,0 +1,123 @@
+link,Subject,id,author
+075812.html,[Rd] Possible \uxxx typos in documents,75812,Korpela Mikko (MML)
+075874.html,[Rd]  Possible bug in package installation when R_ICU_LOCALE is set,75874,Korpela Mikko (MML)
+075890.html,[Rd] predict.glm returns different results for the same model,75890,Avraham Adler
+075818.html,[Rd] Reminder: R Project Contributed Documentation Still Frozen,75818,Juan Telleria Ruiz de Aguirre
+075803.html,[Rd] Part of fastpass in 'sort.list' can make sorting unstable,75803,Suharto Anggono Suharto Anggono
+075899.html,[Rd] Result of 'seq' doesn't use compact internal representation,75899,Suharto Anggono Suharto Anggono
+075896.html,[Rd] [Bug report] Chinese characters are not handled correctly in Rterm for Windows,75896,Azure
+075796.html,[Rd] Base R examples that write to current working directory,75796,Gabe Becker
+075804.html,[Rd] Part of fastpass in 'sort.list' can make sorting unstable,75804,Gabe Becker
+075882.html,[Rd] mean(x) for ALTREP,75882,Gabe Becker
+075805.html,[Rd] solve.default(): solve.qr() or qr.solve() in warning,75805,Henrik Bengtsson
+075903.html,[Rd] Bug in RScript.exe for 3.5.0,75903,Henrik Bengtsson
+075806.html,[Rd] suggested patch for messages,75806,Ben Bolker
+075814.html,[Rd] Fwd: suggested patch for messages,75814,Ben Bolker
+075786.html,[Rd] recordPlot/replayPlot not working with saveRDS/readRDS,75786,Winston Chang
+075794.html,[Rd] [FORGED] recordPlot/replayPlot not working with saveRDS/readRDS,75794,Winston Chang
+075822.html,[Rd] alpha transparency doesn't work for lines when xpd=TRUE,75822,Jiaxuan Chen
+075800.html,[Rd] potential file.copy() or documentation bug when copy.date = TRUE,75800,G&#225;bor Cs&#225;rdi
+075811.html,[Rd] possible bug: stderr() connection truncates output at 8191 characters when R_Consolefile is not used,75811,G&#225;bor Cs&#225;rdi
+075884.html,[Rd]  readLines() for non-blocking pipeline behaves differently in R 3.5,75884,G&#225;bor Cs&#225;rdi
+075895.html,[Rd] debugonce() functions are not considered as debugged,75895,G&#225;bor Cs&#225;rdi
+075824.html,[Rd] alpha transparency doesn't work for lines when xpd=TRUE,75824,William Dunlap
+075827.html,[Rd] strange warning: data() error?,75827,William Dunlap
+075832.html,[Rd] odd assignInNamespace / setGeneric interaction,75832,William Dunlap
+075844.html,[Rd] odd assignInNamespace / setGeneric interaction,75844,William Dunlap
+075868.html,[Rd] disappearing tempdir(),75868,William Dunlap
+075849.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75849,Dirk Eddelbuettel
+075853.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75853,Dirk Eddelbuettel
+075855.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75855,Dirk Eddelbuettel
+075902.html,[Rd] Bug in RScript.exe for 3.5.0,75902,Simone Giannerini
+075836.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75836,Spencer Graves
+075845.html,[Rd] Spam to R-* list posters,75845,Spencer Graves
+075870.html,[Rd] extendrange(): suggested improvement,75870,Marius Hofert
+075819.html,"[Rd] packageDate() segfaults, if used without argument",75819,Rainer Hurling
+075821.html,"[Rd] packageDate() segfaults, if used without argument",75821,Rainer Hurling
+075869.html,[Rd] Bug in RScript.exe for 3.5.0,75869,Kerry Jackson
+075879.html,[Rd] Bug in RScript.exe for 3.5.0,75879,Kerry Jackson
+075880.html,[Rd] Bug in RScript.exe for 3.5.0,75880,Kerry Jackson
+075888.html,[Rd] Bug in RScript.exe for 3.5.0,75888,Kerry Jackson
+075798.html,"[Rd] utils::unzip ignores overwrite argument, effectively",75798,Tomas Kalibera
+075799.html,[Rd]  [Bug report] Chinese characters are not handled correctly in Rterm for Windows,75799,Tomas Kalibera
+075801.html,[Rd]  potential file.copy() or documentation bug when copy.date = TRUE,75801,Tomas Kalibera
+075807.html,[Rd]  [bug report] Cyrillic letter &quot;&#1103;&quot; interrupts script execution via R source function,75807,Tomas Kalibera
+075808.html,[Rd]  [bug report] Cyrillic letter &quot;&#1103;&quot; interrupts script execution via R source function,75808,Tomas Kalibera
+075810.html,"[Rd] file.copy(from=Directory, to=File) oddity",75810,Tomas Kalibera
+075838.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75838,Tomas Kalibera
+075841.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75841,Tomas Kalibera
+075858.html,[Rd]  R CMD build then check fails on R-devel due to serialization version,75858,Tomas Kalibera
+075872.html,[Rd] Bug in RScript.exe for 3.5.0,75872,Tomas Kalibera
+075877.html,[Rd] Bug in RScript.exe for 3.5.0,75877,Tomas Kalibera
+075878.html,[Rd] Bug in RScript.exe for 3.5.0,75878,Tomas Kalibera
+075881.html,[Rd] Bug in RScript.exe for 3.5.0,75881,Tomas Kalibera
+075898.html,[Rd] Bug in RScript.exe for 3.5.0,75898,Tomas Kalibera
+075904.html,[Rd] Bug in RScript.exe for 3.5.0,75904,Tomas Kalibera
+075829.html,[Rd] Experimental package for asan-usan checks,75829,Tim Keitt
+075784.html,[Rd] Mention the case of logical(0) in ?stopifnot,75784,Scott Kostyshak
+075871.html,[Rd] readLines() for non-blocking pipeline behaves differently in R 3.5,75871,Randy Lai
+075886.html,[Rd] embeded R application on Windows prints broken character.,75886,Randy Lai
+075833.html,[Rd] odd assignInNamespace / setGeneric interaction,75833,Michael Lawrence
+075846.html,[Rd] odd assignInNamespace / setGeneric interaction,75846,Michael Lawrence
+075873.html,[Rd]  readLines() for non-blocking pipeline behaves differently in R 3.5,75873,Michael Lawrence
+075883.html,[Rd]  readLines() for non-blocking pipeline behaves differently in R 3.5,75883,Michael Lawrence
+075885.html,[Rd]  readLines() for non-blocking pipeline behaves differently in R 3.5,75885,Michael Lawrence
+075857.html,[Rd] Bug 16719: kruskal.test documentation for formula,75857,Thomas Levine
+075867.html,[Rd] data.table not available as win binary for R 3.5,75867,Mark van der Loo
+075788.html,[Rd] Base R examples that write to current working directory,75788,Martin Maechler
+075789.html,[Rd] [FORGED] recordPlot/replayPlot not working with saveRDS/readRDS,75789,Martin Maechler
+075791.html,[Rd] names lost in functions from packages installed by R-devel r74500,75791,Martin Maechler
+075792.html,[Rd] names lost in functions from packages installed by R-devel r74500,75792,Martin Maechler
+075797.html,[Rd] Base R examples that write to current working directory,75797,Martin Maechler
+075817.html,[Rd] Fwd: suggested patch for messages,75817,Martin Maechler
+075820.html,"[Rd] packageDate() segfaults, if used without argument",75820,Martin Maechler
+075839.html,[Rd] odd assignInNamespace / setGeneric interaction,75839,Martin Maechler
+075843.html,[Rd] Spam to R-* list posters,75843,Martin Maechler
+075847.html,[Rd] Minor glitch in optim(),75847,Martin Maechler
+075860.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75860,Martin Maechler
+075875.html,[Rd] extendrange(): suggested improvement,75875,Martin Maechler
+075894.html,[Rd] predict.glm returns different results for the same model,75894,Martin Maechler
+075835.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75835,Steven McKinney
+075861.html,[Rd] data.table not available as win binary for R 3.5,75861,Joris Meys
+075863.html,[Rd] data.table not available as win binary for R 3.5 yet?,75863,Joris Meys
+075864.html,[Rd] data.table not available as win binary for R 3.5 yet?,75864,Joris Meys
+075866.html,[Rd] Compile issues when building survival package from source,75866,Joris Meys
+075891.html,[Rd] predict.glm returns different results for the same model,75891,Joris Meys
+075815.html,[Rd] In base R: argument `list` does not accept lists,75815,Duncan Murdoch
+075837.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75837,Duncan Murdoch
+075850.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75850,Duncan Murdoch
+075856.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75856,Duncan Murdoch
+075865.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75865,Duncan Murdoch
+075892.html,[Rd] predict.glm returns different results for the same model,75892,Duncan Murdoch
+075900.html,[Rd]  Result of 'seq' doesn't use compact internal representation,75900,Duncan Murdoch
+075787.html,[Rd] [FORGED] recordPlot/replayPlot not working with saveRDS/readRDS,75787,Paul Murrell
+075795.html,[Rd] [FORGED] recordPlot/replayPlot not working with saveRDS/readRDS,75795,Paul Murrell
+075831.html,[Rd] Minor glitch in optim(),75831,J C Nash
+075905.html,[Rd] system() and system2() do not use long filenames on Windows,75905,Hong Ooi
+075862.html,[Rd] data.table not available as win binary for R 3.5,75862,Jeroen Ooms
+075813.html,[Rd] In base R: argument `list` does not accept lists,75813,Johannes Rauh
+075790.html,[Rd] names lost in functions from packages installed by R-devel r74500,75790,Francois Rousset
+075785.html,[Rd] inappropriate warning in latticeExtra,75785,Deepayan Sarkar
+075848.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75848,Peter Simons
+075852.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75852,Peter Simons
+075854.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75854,Peter Simons
+075859.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75859,Peter Simons
+075840.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75840,Serguei Sokol
+075842.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75842,Serguei Sokol
+075876.html,[Rd] mean(x) for ALTREP,75876,Serguei Sokol
+075802.html,[Rd] survival updates and testing,75802,"Therneau, Terry M., Ph.D."
+075825.html,[Rd] strange warning: data() error?,75825,"Therneau, Terry M., Ph.D."
+075901.html,[Rd]  Result of 'seq' doesn't use compact internal representation,75901,Luke Tierney
+075834.html,"[Rd] R Bug: write.table for matrix of more than 2, 147, 483, 648 elements",75834,"Tousey, Colton"
+075889.html,[Rd] predict.glm returns different results for the same model,75889,Hadley Wickham
+075893.html,[Rd] predict.glm returns different results for the same model,75893,Hadley Wickham
+075823.html,[Rd] alpha transparency doesn't work for lines when xpd=TRUE,75823,David Winsemius
+075826.html,[Rd] strange warning: data() error?,75826,David Winsemius
+075828.html,[Rd] strange warning: data() error?,75828,David Winsemius
+075887.html,[Rd] embeded R application on Windows prints broken character.,75887,David Winsemius
+075851.html,[Rd] R 3.5.0 fails its regression test suite on Linux/x86_64,75851,Ricardo Wurmus
+075897.html,[Rd] Bug in RScript.exe for 3.5.0,75897,Yihui Xie
+075816.html,[Rd] In base R: argument `list` does not accept lists,75816,Ista Zahn
+075830.html,[Rd] strange warning: data() error?,75830,peter dalgaard
+075793.html,[Rd] names lost in functions from packages installed by R-devel r74500,75793,luke-tierney at uiowa.edu
+075809.html,[Rd] Part of fastpass in 'sort.list' can make sorting unstable,75809,luke-tierney at uiowa.edu

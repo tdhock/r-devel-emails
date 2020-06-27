@@ -1,0 +1,243 @@
+link,Subject,id,author
+064049.html,[Rd] R Installation Manual - ATLAS BLAS guidance that is not in the current version,64049,"Adler, Avraham"
+064051.html,[Rd] Compiling R on Windows XP - Rgui crashes yet Rterm works,64051,"Adler, Avraham"
+064059.html,[Rd] Compiling R on Windows XP - Rgui crashes yet Rterm works,64059,"Adler, Avraham"
+064216.html,[Rd] R Installation Manual - ATLAS BLAS guidance that is not in the current version,64216,"Adler, Avraham"
+064114.html,[Rd] test suites for packages,64114,Whit Armstrong
+063997.html,[Rd] How to create data frame column name in a function,63997,Rui Barradas
+064207.html,[Rd] virtual superclasses,64207,Bart
+064171.html,[Rd] test suites for packages,64171,Claudia Beleites
+064145.html,[Rd] Best way to locate R executable from within R?,64145,Henrik Bengtsson
+064147.html,[Rd] Best way to locate R executable from within R?,64147,Henrik Bengtsson
+064152.html,[Rd] Best way to locate R executable from within R?,64152,Henrik Bengtsson
+064213.html,[Rd] R CMD check: Sys.getenv(&quot;R_GSCMD&quot;) cannot contain full pathname (contrary to docs),64213,Henrik Bengtsson
+064144.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64144,Ben Bolker
+064007.html,[Rd] loading multiple CSV files into a single data frame,64007,"Cook, Malcolm"
+064132.html,[Rd] test suites for packages,64132,"Cook, Malcolm"
+064143.html,[Rd] Codoc mismatch for roxygen-documented foo&lt;- functions,64143,Richard Cotton
+064164.html,[Rd] Expected behaviour of is.unsorted?,64164,Richard Cotton
+063976.html,[Rd] fast version of split.data.frame or conversion from	data.frame to list of its rows,63976,Matthew Dowle
+064120.html,[Rd] test suites for packages,64120,Matthew Dowle
+064162.html,[Rd] Expected behaviour of is.unsorted?,64162,Matthew Dowle
+064177.html,[Rd] Expected behaviour of is.unsorted?,64177,Matthew Dowle
+064180.html,[Rd] Expected behaviour of is.unsorted?,64180,Matthew Dowle
+064182.html,[Rd] Expected behaviour of is.unsorted?,64182,Matthew Dowle
+064187.html,[Rd] Expected behaviour of is.unsorted?,64187,Matthew Dowle
+064139.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64139,Christophe Dutang
+064010.html,[Rd] Setting up a windows system for rcpp,64010,Dirk Eddelbuettel
+064024.html,[Rd] looking for adice on bigmemory framework with C++ and	java	interoperability,64024,Dirk Eddelbuettel
+064030.html,[Rd] unlist crashes 32-bit R on WinXP when use.names=TRUE,64030,Dirk Eddelbuettel
+064045.html,"[Rd] R CMD check linking errors, when interfacing c++",64045,Dirk Eddelbuettel
+064202.html,[Rd] [patch] Behavior of .C() and .Fortran() when	given	double(0) or integer(0).,64202,Dirk Eddelbuettel
+064025.html,[Rd] looking for adice on bigmemory framework with C++ and java	interoperability,64025,Jay Emerson
+064013.html,[Rd] add sessionInfo() option to &quot;save&quot;,64013,Robert M. Flight
+064206.html,[Rd] Out of date instructions to build R using MKL,64206,Elliott Forney
+064212.html,[Rd] Out of date instructions to build R using MKL,64212,Elliott Forney
+064054.html,[Rd] setting global options for a package,64054,Michael Friendly
+064129.html,[Rd] Distributing Executables.,64129,Daniel Fuka
+064133.html,[Rd] Distributing Executables.,64133,Daniel Fuka
+064050.html,"[Rd] url, readLines, source behind a proxy",64050,Renaud Gaujoux
+064196.html,[Rd] equivalent to source() inside a package,64196,Paul Gilbert
+064019.html,"[Rd] f951.exe: sorry, unimplemented: 64-bit mode not compiled",64019,Spencer Graves
+064026.html,"[Rd] f951.exe: sorry, unimplemented: 64-bit mode not compiled",64026,Spencer Graves
+063982.html,[Rd] A doubt about substitute() after delayedAssign(),63982,Philippe Grosjean
+064003.html,[Rd] loading multiple CSV files into a single data frame,64003,Gabor Grothendieck
+064150.html,[Rd] Best way to locate R executable from within R?,64150,Gabor Grothendieck
+064153.html,[Rd] Best way to locate R executable from within R?,64153,Gabor Grothendieck
+064154.html,[Rd] Best way to locate R executable from within R?,64154,Gabor Grothendieck
+064159.html,[Rd] Best way to locate R executable from within R?,64159,Gabor Grothendieck
+064161.html,[Rd] Best way to locate R executable from within R?,64161,Gabor Grothendieck
+064200.html,"[Rd] Curry: proposed new functional programming, er, function.",64200,Gabor Grothendieck
+064080.html,[Rd] Problem compiling package LogicReg - make Error 255,64080,E.D. Gutierrez
+064083.html,[Rd] Problem compiling package LogicReg - make Error 255,64083,E.D. Gutierrez
+064112.html,[Rd] r-devel fails tests for parallel,64112,Kasper Daniel Hansen
+064116.html,[Rd] r-devel fails tests for parallel,64116,Kasper Daniel Hansen
+064122.html,[Rd] r-devel fails tests for parallel,64122,Kasper Daniel Hansen
+064194.html,[Rd] equivalent to source() inside a package,64194,Wei Hao
+063980.html,[Rd] The constant part of the log-likelihood in StructTS,63980,Jouni Helske
+064097.html,[Rd] R-devel on FreeBSD: new C99 functions don't build,64097,Rainer Hurling
+064100.html,[Rd] R-devel on FreeBSD: new C99 functions don't build,64100,Rainer Hurling
+064137.html,[Rd] R-devel on FreeBSD: new C99 functions don't build,64137,Rainer Hurling
+064009.html,[Rd] Setting up a windows system for rcpp,64009,Owe Jessen
+063998.html,[Rd] Proposal: model.data,63998,Paul Johnson
+064000.html,[Rd] Proposal: model.data,64000,Paul Johnson
+064014.html,[Rd] Proposal: model.data,64014,Paul Johnson
+064184.html,[Rd] modifying some package code,64184,Charles Determan Jr
+064186.html,[Rd] modifying some package code,64186,Charles Determan Jr
+064018.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0).,64018,Pavel N. Krivitsky
+064033.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0).,64033,Pavel N. Krivitsky
+064034.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0). --- Missing C file.,64034,Pavel N. Krivitsky
+064066.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0) (repost).,64066,Pavel N. Krivitsky
+064199.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0).,64199,Pavel N. Krivitsky
+064203.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0).,64203,Pavel N. Krivitsky
+063994.html,[Rd] Decompressing raw vectors in memory,63994,Duncan Temple Lang
+064057.html,[Rd] setting global options for a package,64057,Duncan Temple Lang
+063990.html,[Rd] The constant part of the log-likelihood in StructTS,63990,Mark Leeds
+064072.html,[Rd] R package dependency issues when namespace is not attached,64072,Uwe Ligges
+064081.html,[Rd] Problem compiling package LogicReg - make Error 255,64081,Uwe Ligges
+064082.html,[Rd] Problem compiling package LogicReg - make Error 255,64082,Uwe Ligges
+064111.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64111,Uwe Ligges
+064115.html,[Rd] test suites for packages,64115,Uwe Ligges
+064118.html,[Rd] test suites for packages,64118,Uwe Ligges
+064121.html,[Rd] test suites for packages,64121,Uwe Ligges
+064126.html,[Rd] Cannot Install Custom Package On Windows7 64-bit,64126,Uwe Ligges
+064136.html,[Rd] bug in R version 2.15.0 (2012-03-30)?,64136,Uwe Ligges
+064176.html,"[Rd] Curry: proposed new functional programming, er, function.",64176,Yike Lu
+064195.html,"[Rd] Curry: proposed new functional programming, er, function.",64195,Yike Lu
+064198.html,"[Rd] Curry: proposed new functional programming, er, function.",64198,Yike Lu
+064210.html,"[Rd] Curry: proposed new functional programming, er, function.",64210,Yike Lu
+064004.html,[Rd] The constant part of the log-likelihood in StructTS,64004,Thomas Lumley
+064037.html,[Rd] How to list package dependency on a Bioconductor package?,64037,Steven Lund
+064209.html,[Rd] fractional seconds in POSIXct,64209,Sebastian P. Luque
+064015.html,[Rd] Proposal: model.data,64015,Martin Maechler
+064138.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64138,Joan Maspons
+064140.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64140,Joan Maspons
+064040.html,[Rd] How to list package dependency on a Bioconductor package?,64040,Martin Morgan
+064076.html,[Rd] R package dependency issues when namespace is not attached,64076,Martin Morgan
+064079.html,[Rd] R package dependency issues when namespace is not attached,64079,Martin Morgan
+063983.html,[Rd] A doubt about substitute() after delayedAssign(),63983,Duncan Murdoch
+063986.html,[Rd] --as-cran error,63986,Duncan Murdoch
+064028.html,[Rd] unlist crashes 32-bit R on WinXP when use.names=TRUE,64028,Duncan Murdoch
+064029.html,[Rd] unlist crashes 32-bit R on WinXP when use.names=TRUE,64029,Duncan Murdoch
+064031.html,[Rd] unlist crashes 32-bit R on WinXP when use.names=TRUE,64031,Duncan Murdoch
+064032.html,[Rd] unlist crashes 32-bit R on WinXP when use.names=TRUE,64032,Duncan Murdoch
+064036.html,[Rd] file 2 is not in sorted order error building unsuffered consequences,64036,Duncan Murdoch
+064041.html,[Rd] file 2 is not in sorted order error building unsuffered consequences,64041,Duncan Murdoch
+064058.html,[Rd] setting global options for a package,64058,Duncan Murdoch
+064061.html,[Rd] Problems with 64bit dll compile in R-2.15.0,64061,Duncan Murdoch
+064064.html,[Rd] Passing externalptr to .C(),64064,Duncan Murdoch
+064065.html,[Rd] Replacements for stdout and stderr guaranteed to be open in all versions of R,64065,Duncan Murdoch
+064068.html,[Rd] Replacements for stdout and stderr guaranteed to be open in all versions of R,64068,Duncan Murdoch
+064070.html,[Rd] R package dependency issues when namespace is not attached,64070,Duncan Murdoch
+064075.html,[Rd] R package dependency issues when namespace is not attached,64075,Duncan Murdoch
+064077.html,[Rd] R package dependency issues when namespace is not attached,64077,Duncan Murdoch
+064085.html,[Rd] Vignette problem,64085,Duncan Murdoch
+064089.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64089,Duncan Murdoch
+064104.html,[Rd] Evaluation without using the parent frame,64104,Duncan Murdoch
+064166.html,[Rd] Expected behaviour of is.unsorted?,64166,Duncan Murdoch
+064178.html,[Rd] Expected behaviour of is.unsorted?,64178,Duncan Murdoch
+064181.html,[Rd] Expected behaviour of is.unsorted?,64181,Duncan Murdoch
+064183.html,[Rd] Expected behaviour of is.unsorted?,64183,Duncan Murdoch
+064189.html,[Rd] Expected behaviour of is.unsorted?,64189,Duncan Murdoch
+064093.html,[Rd] Object-oriented programming (OOP),64093,Alfredo Naime
+064043.html,"[Rd] f951.exe: sorry, unimplemented: 64-bit mode not compiled",64043,Balasubramanian Narasimhan
+064092.html,[Rd] How to set up an object to share data across diverse functions,64092,John C Nash
+064165.html,[Rd] prcomp with previously scaled data: predict with 'newdata'	wrong,64165,Jari Oksanen
+064167.html,[Rd] prcomp with previously scaled data: predict with	'newdata'	wrong,64167,Jari Oksanen
+064069.html,[Rd] R package dependency issues when namespace is not attached,64069,Jeroen Ooms
+064073.html,[Rd] R package dependency issues when namespace is not attached,64073,Jeroen Ooms
+064078.html,[Rd] R package dependency issues when namespace is not attached,64078,Jeroen Ooms
+064125.html,[Rd] Cannot Install Custom Package On Windows7 64-bit,64125,Steve Pederson
+064127.html,[Rd] Cannot Install Custom Package On Windows7 64-bit,64127,Steve Pederson
+063999.html,[Rd] Proposal: model.data,63999,Brian G. Peterson
+064001.html,[Rd] Proposal: model.data,64001,Brian G. Peterson
+064117.html,[Rd] test suites for packages,64117,Brian G. Peterson
+063975.html,[Rd] fast version of split.data.frame or conversion from data.frame to list of its rows,63975,Antonio Piccolboni
+063979.html,[Rd] fast version of split.data.frame or conversion from data.frame to list of its rows,63979,Antonio Piccolboni
+063984.html,[Rd] fast version of split.data.frame or conversion from data.frame to list of its rows,63984,Antonio Piccolboni
+064101.html,[Rd] Ghost RefClasses,64101,Tyler Pirtle
+063977.html,[Rd] fast version of split.data.frame or conversion from data.frame to list of its rows,63977,Prof Brian Ripley
+063989.html,[Rd] Decompressing raw vectors in memory,63989,Prof Brian Ripley
+063992.html,[Rd] Decompressing raw vectors in memory,63992,Prof Brian Ripley
+064071.html,[Rd] R Installation Manual - ATLAS BLAS guidance that is not in the current version,64071,Prof Brian Ripley
+064105.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0).,64105,Prof Brian Ripley
+064106.html,[Rd] StructTS Examples,64106,Prof Brian Ripley
+064107.html,[Rd] The constant part of the log-likelihood in StructTS,64107,Prof Brian Ripley
+064110.html,[Rd] Passing externalptr to .C(),64110,Prof Brian Ripley
+064113.html,[Rd] r-devel fails tests for parallel,64113,Prof Brian Ripley
+064119.html,[Rd] r-devel fails tests for parallel,64119,Prof Brian Ripley
+064128.html,[Rd] R-devel on FreeBSD: new C99 functions don't build,64128,Prof Brian Ripley
+064131.html,[Rd] Distributing Executables.,64131,Prof Brian Ripley
+064175.html,[Rd] New S3 methods for optional package,64175,Prof Brian Ripley
+064205.html,[Rd] Slow do.call when having an error,64205,Prof Brian Ripley
+064208.html,[Rd] Out of date instructions to build R using MKL,64208,Prof Brian Ripley
+064215.html,[Rd] possible bug in &quot;R Editor&quot;,64215,Prof Brian Ripley
+064149.html,[Rd] bug in R version 2.15.0 (2012-03-30)?,64149,"Roebuck,Paul L"
+064012.html,[Rd] fast version of split.data.frame or conversion from	data.frame to list of its rows,64012,Jeff Ryan
+064155.html,[Rd] Capturing signals from within external libs,64155,Jeffrey Ryan
+064170.html,[Rd] Capturing signals from within external libs,64170,Jeffrey Ryan
+064173.html,[Rd] Capturing signals from within external libs,64173,Jeffrey Ryan
+064163.html,[Rd] giving a datasets list,64163,CHAMPELY STEPHANE
+064062.html,[Rd] Passing externalptr to .C(),64062,Rick Sayre
+064108.html,[Rd] Passing externalptr to .C(),64108,Rick Sayre
+064174.html,[Rd] New S3 methods for optional package,64174,Jon Olav Skoien
+064179.html,[Rd] New S3 methods for optional package,64179,Jon Olav Skoien
+064063.html,[Rd] Replacements for stdout and stderr guaranteed to be open in all versions of R,64063,David Sterratt
+064067.html,[Rd] Replacements for stdout and stderr guaranteed to be open in all versions of R,64067,David Sterratt
+064099.html,[Rd] R-devel on FreeBSD: new C99 functions don't build,64099,Murray Stokely
+064123.html,[Rd] r-devel fails tests for parallel,64123,Murray Stokely
+064044.html,"[Rd] R CMD check linking errors, when interfacing c++",64044,Zalan Szakolci
+064046.html,"[Rd] R CMD check linking errors, when interfacing c++",64046,Zalan Szakolci
+064048.html,"[Rd] R CMD check linking errors, when interfacing c++",64048,Zalan Szakolci
+064060.html,[Rd] Problems with 64bit dll compile in R-2.15.0,64060,Marian K Talbert
+064146.html,[Rd] Best way to locate R executable from within R?,64146,Dan Tenenbaum
+064084.html,[Rd] Vignette problem,64084,Terry Therneau
+064091.html,[Rd] Vignette problem,64091,Terry Therneau
+064102.html,[Rd] Evaluation without using the parent frame,64102,Terry Therneau
+064109.html,[Rd] Evaluation without the parent frame,64109,Terry Therneau
+064142.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64142,"Tim Triche, Jr."
+064027.html,[Rd] unlist crashes 32-bit R on WinXP when use.names=TRUE,64027,Joshua Ulrich
+064141.html,[Rd] Patch to add Beta binomial distribution. Mentor needed!,64141,Joshua Ulrich
+063981.html,[Rd] fast version of split.data.frame or conversion from	data.frame to list of its rows,63981,Simon Urbanek
+064008.html,[Rd] loading multiple CSV files into a single data frame,64008,Simon Urbanek
+064021.html,"[Rd] f951.exe: sorry, unimplemented: 64-bit mode not compiled",64021,Simon Urbanek
+064022.html,[Rd] looking for adice on bigmemory framework with C++ and java	interoperability,64022,Simon Urbanek
+064039.html,[Rd] How to list package dependency on a Bioconductor package?,64039,Simon Urbanek
+064042.html,[Rd] How to list package dependency on a Bioconductor package?,64042,Simon Urbanek
+064047.html,"[Rd] R CMD check linking errors, when interfacing c++",64047,Simon Urbanek
+064056.html,[Rd] setting global options for a package,64056,Simon Urbanek
+064124.html,[Rd] r-devel fails tests for parallel,64124,Simon Urbanek
+064130.html,[Rd] Distributing Executables.,64130,Simon Urbanek
+064134.html,[Rd] Distributing Executables.,64134,Simon Urbanek
+064148.html,[Rd] Best way to locate R executable from within R?,64148,Simon Urbanek
+064151.html,[Rd] Best way to locate R executable from within R?,64151,Simon Urbanek
+064156.html,[Rd] Capturing signals from within external libs,64156,Simon Urbanek
+064157.html,[Rd] Best way to locate R executable from within R?,64157,Simon Urbanek
+064158.html,[Rd] Best way to locate R executable from within R?,64158,Simon Urbanek
+064160.html,[Rd] Best way to locate R executable from within R?,64160,Simon Urbanek
+064172.html,[Rd] Capturing signals from within external libs,64172,Simon Urbanek
+064185.html,[Rd] modifying some package code,64185,Simon Urbanek
+064188.html,[Rd] modifying some package code,64188,Simon Urbanek
+064201.html,[Rd] [patch] Behavior of .C() and .Fortran() when given	double(0) or integer(0).,64201,Simon Urbanek
+064211.html,[Rd] fractional seconds in POSIXct,64211,Simon Urbanek
+063978.html,[Rd] The constant part of the log-likelihood in StructTS,63978,Ravi Varadhan
+063988.html,[Rd] The constant part of the log-likelihood in StructTS,63988,Ravi Varadhan
+064011.html,[Rd] The constant part of the log-likelihood in StructTS,64011,Ravi Varadhan
+064204.html,[Rd] Slow do.call when having an error,64204,Alon Wasserman
+064086.html,[Rd] StructTS Examples,64086,R. Michael Weylandt
+064095.html,[Rd] Object-oriented programming (OOP),64095,R. Michael Weylandt
+063987.html,[Rd] Decompressing raw vectors in memory,63987,Hadley Wickham
+063991.html,[Rd] Decompressing raw vectors in memory,63991,Hadley Wickham
+063993.html,[Rd] Decompressing raw vectors in memory,63993,Hadley Wickham
+063995.html,[Rd] Decompressing raw vectors in memory,63995,Hadley Wickham
+064193.html,"[Rd] Curry: proposed new functional programming, er, function.",64193,Hadley Wickham
+064197.html,"[Rd] Curry: proposed new functional programming, er, function.",64197,Hadley Wickham
+064035.html,[Rd] file 2 is not in sorted order error building unsuffered	consequences,64035,Joshua Wiley
+064038.html,[Rd] file 2 is not in sorted order error building unsuffered	consequences,64038,Joshua Wiley
+064053.html,[Rd] file 2 is not in sorted order error building unsuffered	consequences,64053,Joshua Wiley
+064074.html,[Rd] R package dependency issues when namespace is not attached,64074,Joshua Wiley
+064191.html,[Rd] columnames changes behaviour of formula,64191,Joshua Wiley
+064192.html,[Rd] columnames changes behaviour of formula,64192,Joshua Wiley
+064135.html,[Rd] bug in R version 2.15.0 (2012-03-30)?,64135,Wincent
+064214.html,[Rd] possible bug in &quot;R Editor&quot;,64214,Wincent
+064055.html,[Rd] setting global options for a package,64055,Kevin Wright
+064016.html,[Rd] add sessionInfo() option to &quot;save&quot;,64016,Yihui Xie
+064168.html,[Rd] [R] how to remove the 'promise' attribute of an R object	(.Random.seed)?,64168,Yihui Xie
+063985.html,[Rd] --as-cran error,63985,Mauricio Zambrano-Bigiarini
+064190.html,[Rd] columnames changes behaviour of formula,64190,robin hankin
+064087.html,[Rd] update.formula simplify = FALSE,64087,isubirana
+064002.html,[Rd] loading multiple CSV files into a single data frame,64002,victor jimenez
+064005.html,[Rd] loading multiple CSV files into a single data frame,64005,victor jimenez
+064094.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64094,jthetzel
+064098.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64098,jthetzel
+064088.html,[Rd] Package does not have a NAMESPACE and should be re-installed,64088,walcott3 at msu.edu
+064006.html,[Rd] loading multiple CSV files into a single data frame,64006,oliver
+064017.html,[Rd] How to create data frame column name in a function,64017,pvshankar
+064052.html,[Rd] Can two RConnection's  interact with one another ?,64052,sanre6
+064169.html,[Rd] [R] how to remove the 'promise' attribute of an R object (.Random.seed)?,64169,luke-tierney at uiowa.edu
+064090.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64090,walcotteric
+064096.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64096,walcotteric
+064103.html,[Rd] Package does not have a NAMESPACE and should be	re-installed,64103,walcotteric
+063996.html,[Rd] Problem using RBloomberg blpConnect,63996,wuffmeister
+064020.html,[Rd] looking for adice on bigmemory framework with C++ and java	interoperability,64020,andre zege
+064023.html,[Rd] looking for adice on bigmemory framework with C++ and java	interoperability,64023,andre zege

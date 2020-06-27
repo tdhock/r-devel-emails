@@ -1,0 +1,74 @@
+link,Subject,id,author
+018614.html,Export Market for Security Products,18614,4details
+018560.html,Strange behaviour of lm,18560,Peter Dalgaard BSA
+018561.html,Strange behaviour of lm,18561,Peter Dalgaard BSA
+018569.html,hist(),18569,Peter Dalgaard BSA
+018580.html,[R] 0.63 missing .pl files in etc?,18580,Peter Dalgaard BSA
+018590.html,more on &quot;[&lt;-&quot;,18590,Peter Dalgaard BSA
+018602.html,list assignment,18602,Peter Dalgaard BSA
+018605.html,PDF Library,18605,Peter Dalgaard BSA
+018612.html,Experimental support for `batch` under MsWindows,18612,Peter Dalgaard BSA
+018616.html,Experimental support for `batch` under MsWindows,18616,Peter Dalgaard BSA
+018621.html,hist(),18621,Peter Dalgaard BSA
+018613.html,Additional autoconf test for linuxppc/mklinux,18613,Fred Bacon
+018558.html,Using rsync against CRAN master,18558,Douglas Bates
+018603.html,PDF Library,18603,Gerry Brush
+018566.html,Nov 5 R-devel build on hpux10.20,18566,U-E59264-Osman F Buyukisik
+018553.html,RNG,18553,Paul Gilbert
+018556.html,RNG,18556,Paul Gilbert
+018571.html,Solaris make for 0.63 failing,18571,Paul Gilbert
+018574.html,Solaris make for 0.63 failing,18574,Paul Gilbert
+018575.html,Solaris make for 0.63 failing,18575,Paul Gilbert
+018583.html,&quot;[&lt;-&quot;,18583,Paul Gilbert
+018584.html,more on &quot;[&lt;-&quot;,18584,Paul Gilbert
+018585.html,RINSTALL with doc clobbers function.html,18585,Paul Gilbert
+018587.html,&quot;[&quot; not &quot;[&lt;-&quot;,18587,Paul Gilbert
+018591.html,RINSTALL with doc clobbers function.html,18591,Paul Gilbert
+018598.html,more on RINSTALL with doc clobbers function.html,18598,Paul Gilbert
+018599.html,list assignment,18599,Paul Gilbert
+018601.html,[R] configure on Solaris 2.6 for R-0.63,18601,Paul Gilbert
+018625.html,[R] R functionality,18625,Paul Gilbert
+018617.html,as.list,18617,Kjetil Halvorsen
+018581.html,[R] 0.63 missing .pl files in etc?,18581,Kurt Hornik
+018582.html,Solaris make for 0.63 failing,18582,Kurt Hornik
+018555.html,CRAN now also rsync-able,18555,Friedrich Leisch
+018557.html,CRAN now also rsync-able,18557,Friedrich Leisch
+018565.html,reported ?RNG bug,18565,Thomas Lumley
+018578.html,Solaris make for 0.63 failing,18578,Thomas Lumley
+018579.html,survival4 updated,18579,Thomas Lumley
+018606.html,PDF Library,18606,Thomas Lumley
+018618.html,BSD style sockets for R,18618,Thomas Lumley
+018622.html,"Saving memory usage -- .C(....., DUP = FALSE)  danger?",18622,Thomas Lumley
+018552.html,windows nt (PR#59) -- users vs. &quot;administrator&quot;,18552,Martin Maechler
+018562.html,Proposal for discussion:  COLNAMES &amp; ROWNAMES,18562,Martin Maechler
+018564.html,Proposal for discussion:  COLNAMES &amp; ROWNAMES,18564,Martin Maechler
+018568.html,[COL/ROW]NAMES -&gt; [col/row]names with new arg..,18568,Martin Maechler
+018593.html,RINSTALL with doc clobbers function.html,18593,Martin Maechler
+018594.html,[jar@oriole.er.usgs.gov: Re: [R] loading fortran with Redhat 5.1],18594,Martin Maechler
+018619.html,hist(),18619,Martin Maechler
+018620.html,"Saving memory usage -- .C(....., DUP = FALSE)  danger?",18620,Martin Maechler
+018559.html,Strange behaviour of lm,18559,Guido Masarotto
+018567.html,Clipping and (device)_Text,18567,Guido Masarotto
+018607.html,[R] installing R packages in Windows?,18607,Guido Masarotto
+018610.html,Experimental support for `batch` under MsWindows,18610,Guido Masarotto
+018588.html,&quot;[&quot; not &quot;[&lt;-&quot;,18588,Martyn Plummer
+018595.html,&quot;[&quot; not &quot;[&lt;-&quot;,18595,Martyn Plummer
+018600.html,Loss of attributes from arithmetic comparisons,18600,Martyn Plummer
+018623.html,Rcgi announcement,18623,Mark J Ray
+018554.html,RNG,18554,Prof Brian Ripley
+018572.html,hist(),18572,Prof Brian Ripley
+018573.html,Solaris make for 0.63 failing,18573,Prof Brian Ripley
+018576.html,Solaris make for 0.63 failing,18576,Prof Brian Ripley
+018577.html,Solaris make for 0.63 failing,18577,Prof Brian Ripley
+018586.html,more on &quot;[&lt;-&quot;,18586,Prof Brian Ripley
+018589.html,&quot;[&quot; not &quot;[&lt;-&quot;,18589,Prof Brian Ripley
+018592.html,RINSTALL with doc clobbers function.html,18592,Prof Brian Ripley
+018604.html,PDF Library,18604,Prof Brian Ripley
+018608.html,[R] installing R packages in Windows?,18608,Prof Brian Ripley
+018624.html,[R] R functionality,18624,Prof Brian Ripley
+018597.html,[jar@oriole.er.usgs.gov: Re: [R] loading fortran with Redhat 5.1],18597,Prof Brian D Ripley
+018615.html,Experimental support for `batch` under MsWindows,18615,Prof Brian D Ripley
+018611.html,Experimental support for `batch` under MsWindows,18611,A.J. Rossini
+018570.html,hist(),18570,Bill Simpson
+018609.html,[R] installing R packages in Windows?,18609,Luke Tierney
+018563.html,no subject (file transmission),18563,Mai Zhou

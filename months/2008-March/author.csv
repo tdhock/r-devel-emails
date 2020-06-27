@@ -1,0 +1,313 @@
+link,Subject,id,author
+048648.html,[Rd] extract function &quot;[&quot; and empty index,48648,Bengoechea Bartolom&#233; Enrique (SIES 73)
+048693.html,[Rd] 'merge' function: behavior w.r.t. NAs in the key column,48693,Simon Anders
+048740.html,[Rd] 'merge' function: behavior w.r.t. NAs in the key column,48740,Simon Anders
+048777.html,[Rd] idea for GSoC: an R package for fitting Bayesian Hierarchical	Models,48777,"Antonio, Fabio Di Narzo"
+048781.html,[Rd] idea for GSoC: an R package for fitting Bayesian	Hierarchical Models,48781,"Antonio, Fabio Di Narzo"
+048785.html,[Rd] idea for GSoC: an R package for fitting Bayesian	Hierarchical Models,48785,"Antonio, Fabio Di Narzo"
+048788.html,[Rd] idea for GSoC: an R package for fitting Bayesian	Hierarchical Models,48788,"Antonio, Fabio Di Narzo"
+048595.html,[Rd] invalid regular expression '[a-Z]',48595,Henrik Bengtsson
+048598.html,[Rd] invalid regular expression '[a-Z]',48598,Henrik Bengtsson
+048599.html,[Rd] invalid regular expression '[a-Z]',48599,Henrik Bengtsson
+048601.html,[Rd] invalid regular expression '[a-Z]',48601,Henrik Bengtsson
+048602.html,[Rd] Argument &quot;nomatch&quot; matched by multiple actual arguments ...	%in% -&gt; match?!?,48602,Henrik Bengtsson
+048610.html,[Rd] Memory allocation error in 2.6.2 (PR#10903),48610,Henrik Bengtsson
+048611.html,[Rd] Argument &quot;nomatch&quot; matched by multiple actual arguments	... %in% -&gt; match?!?,48611,Henrik Bengtsson
+048691.html,[Rd] write function (PR#10953),48691,Henrik Bengtsson
+048689.html,[Rd] write function (PR#10953),48689,Hilmar Berger
+048670.html,[Rd] R-console vs. bash console (execution halted),48670,Roger Bivand
+048822.html,[Rd] S4 slot with NA default,48822,Roger Bivand
+048621.html,[Rd] merging environments,48621,Ben Bolker
+048681.html,[Rd] graphics defaults,48681,Ben Bolker
+048758.html,[Rd] choose incorrect for fractional and some negative integer	values (PR#10766),48758,Ben Bolker
+048784.html,[Rd] idea for GSoC: an R package for fitting Bayesian	Hierarchical Models,48784,Ben Bolker
+048786.html,[Rd] idea for GSoC: an R package for fitting Bayesian	Hierarchical Models,48786,Ben Bolker
+048830.html,[Rd] Google Summer of Code: cross-listing,48830,Ben Bolker
+048812.html,[Rd] Incorrect behavior in 64-bit version (PR#11034) (solved),48812,Lodewijk Bonebakker
+048763.html,[Rd] R_ParseVector problem: it's cutting off after the decimal point,48763,Roland Boubela
+048626.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48626,Patrick Burns
+048667.html,[Rd] Rtools and GCC4 problem,48667,Joe Byers
+048802.html,[Rd] DLL problem,48802,"Carson, John"
+048729.html,[Rd] Utilities for methods,48729,John Chambers
+048795.html,[Rd] revision 44805 breaks promptMethods(),48795,John Chambers
+048878.html,[Rd] package.skeleton.S4,48878,John Chambers
+048853.html,[Rd] norm_rand() in R-extension vs rnorm in R ---which is better?,48853,Kyeongmi Cheon
+048745.html,[Rd] Error in code2LazyLoadDB,48745,Tony Chiang
+048751.html,[Rd] Error in code2LazyLoadDB,48751,Tony Chiang
+048612.html,[Rd] javareconf (PR#10905),48612,Vic.Bancroft at Choicepoint.Com
+048661.html,[Rd] crossprod is slower than t(AA)%*BB,48661,Ole Fredslund Christensen
+048668.html,[Rd] R-console vs. bash console (execution halted),48668,Lienert  Christophe
+048628.html,[Rd] [patch] add=TRUE in plot.default(),48628,Andrew Clausen
+048633.html,[Rd] [patch] add=TRUE in plot.default(),48633,Andrew Clausen
+048634.html,[Rd] [patch] add=TRUE in plot.default(),48634,Andrew Clausen
+048638.html,[Rd] [patch] add=TRUE in plot.default(),48638,Andrew Clausen
+048708.html,[Rd] [patch] add=TRUE in plot.default(),48708,Andrew Clausen
+048676.html,"[Rd] Using a binary package built on 2.6.X with 2.7.0, on OSX",48676,Gabor Csardi
+048799.html,"[Rd] R 2.7.0 scheduled for April 22, prereleases in progress",48799,Peter Dalgaard
+048805.html,[Rd] Incorrect behavior in 64-bit version (PR#11034),48805,Peter Dalgaard
+048825.html,[Rd] S4 slot with NA default,48825,Peter Dalgaard
+048834.html,[Rd] Misc/List Search Path from keyboard (PR#11036),48834,Peter Dalgaard
+048631.html,[Rd] [patch] add=TRUE in plot.default(),48631,Henrique Dallazuanna
+048718.html,[Rd] Roxygen,48718,Peter Danenberg
+048724.html,[Rd] Google summer of Code,48724,Peter Danenberg
+048750.html,[Rd] Roxygen,48750,Peter Danenberg
+048752.html,[Rd] Roxygen,48752,Peter Danenberg
+048759.html,[Rd] Roxygen,48759,Peter Danenberg
+048760.html,[Rd] Roxygen,48760,Peter Danenberg
+048769.html,[Rd] Roxygen,48769,Peter Danenberg
+048771.html,[Rd] Roxygen,48771,Peter Danenberg
+048590.html,[Rd] SEXP size management.,48590,Charles Danko
+048592.html,[Rd] SEXP size management.,48592,Charles Danko
+048821.html,[Rd] S4 slot with NA default,48821,Vladimir Dergachev
+048701.html,[Rd] 'merge' function: behavior w.r.t. NAs in the key column,48701,Bill Dunlap
+048755.html,[Rd] 'merge' function: behavior w.r.t. NAs in the key column,48755,Bill Dunlap
+048594.html,[Rd] embedFonts() side-effect under 2.6.2 ?,48594,Dirk Eddelbuettel
+048597.html,[Rd] embedFonts() side-effect under 2.6.2 ?,48597,Dirk Eddelbuettel
+048726.html,[Rd] Roxygen,48726,Manuel J. A. Eugster
+048756.html,[Rd] Roxygen,48756,Manuel J. A. Eugster
+048583.html,[Rd] using Chi-square test with a certain number of degrees of	freedom ?,48583,Frank Feng
+048629.html,[Rd] extract function &quot;[&quot; and empty index,48629,Laurent Gautier
+048636.html,[Rd] extract function &quot;[&quot; and empty index,48636,Laurent Gautier
+048674.html,[Rd] Subsetting vectors/arrays using factors can be seen as	misleading,48674,Laurent Gautier
+048687.html,[Rd] Subsetting vectors/arrays using factors can be seen as	misleading,48687,Laurent Gautier
+048704.html,[Rd] Experimental R_has_slot() utility,48704,Laurent Gautier
+048707.html,[Rd] Experimental R_has_slot() utility,48707,Laurent Gautier
+048613.html,[Rd] Great tool,48613,Christophe Genolini
+048869.html,[Rd] package.skeleton.S4,48869,Christophe Genolini
+048870.html,[Rd] tests Rin and Rout,48870,Christophe Genolini
+048697.html,[Rd] Buggy Kinderman-Ramage (PR#2846),48697,Paul Gilbert
+048880.html,[Rd] tests Rin and Rout,48880,Paul Gilbert
+048782.html,[Rd] problem with 'install.packages',48782,Spencer Graves
+048623.html,[Rd] merging environments,48623,Gabor Grothendieck
+048625.html,[Rd] merging environments,48625,Gabor Grothendieck
+048630.html,[Rd] extract function &quot;[&quot; and empty index,48630,Gabor Grothendieck
+048635.html,[Rd] [patch] add=TRUE in plot.default(),48635,Gabor Grothendieck
+048640.html,[Rd] [patch] add=TRUE in plot.default(),48640,Gabor Grothendieck
+048642.html,[Rd] [patch] add=TRUE in plot.default(),48642,Gabor Grothendieck
+048730.html,[Rd] cut.Date and cut.POSIXt problem,48730,Gabor Grothendieck
+048734.html,[Rd] cut.Date and cut.POSIXt problem,48734,Gabor Grothendieck
+048735.html,[Rd] cut.Date and cut.POSIXt problem,48735,Gabor Grothendieck
+048842.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11045),48842,Gabor Grothendieck
+048844.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11045),48844,Gabor Grothendieck
+048855.html,[Rd] data(lh) time serie parameters,48855,Gabor Grothendieck
+048856.html,[Rd] callCC in 2.7.0,48856,Gabor Grothendieck
+048858.html,[Rd] callCC in 2.7.0,48858,Gabor Grothendieck
+048859.html,[Rd] callCC in 2.7.0,48859,Gabor Grothendieck
+048861.html,[Rd] callCC in 2.7.0,48861,Gabor Grothendieck
+048863.html,[Rd] callCC in 2.7.0,48863,Gabor Grothendieck
+048864.html,[Rd] callCC in 2.7.0,48864,Gabor Grothendieck
+048866.html,[Rd] callCC in 2.7.0,48866,Gabor Grothendieck
+048649.html,[Rd] Re Bessel functions of complex argument,48649,Robin Hankin
+048820.html,[Rd] S4 slot with NA default,48820,Robin Hankin
+048875.html,[Rd] tests Rin and Rout,48875,Robin Hankin
+048754.html,[Rd] Roxygen,48754,Kasper Daniel Hansen
+048709.html,[Rd] [patch] add=TRUE in plot.default(),48709,Christos Hatzis
+048700.html,[Rd] (no subject),48700,David Henderson
+048848.html,[Rd] A patch for extending pdf device to embed popup text and web	links,48848,Tadashi Kadowaki
+048849.html,[Rd] A patch for extending pdf device to embed popup text and	web links,48849,Tadashi Kadowaki
+048823.html,[Rd] S4 slot with NA default,48823,Christian Kohler
+048791.html,[Rd] resampling from string when it runs across multiple lines,48791,Suraaga Kulkarni
+048738.html,[Rd] installing R packages from command line in Windows,48738,Alberto Labarga
+048793.html,[Rd] revision 44805 breaks promptMethods(),48793,Michael Lawrence
+048696.html,[Rd] Buggy Kinderman-Ramage (PR#2846),48696,Shengqiao Li
+048705.html,[Rd] Buggy Kinderman-Ramage (PR#2846),48705,Shengqiao Li
+048744.html,[Rd] how to exclude terms preceded by - from model frame,48744,"Liaw, Andy"
+048653.html,[Rd] Check errors using R2.6.2,48653,Uwe Ligges
+048736.html,[Rd] Win-builder offline,48736,Uwe Ligges
+048783.html,[Rd] problem with 'install.packages',48783,Uwe Ligges
+048815.html,[Rd] DLL problem,48815,Uwe Ligges
+048578.html,[Rd] patch for random.c,48578,Martin Maechler
+048616.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48616,Martin Maechler
+048645.html,[Rd] Re Bessel functions of complex argument,48645,Martin Maechler
+048647.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48647,Martin Maechler
+048664.html,[Rd] write.table with row.names=FALSE unnecessarily slow?,48664,Martin Maechler
+048665.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48665,Martin Maechler
+048672.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48672,Martin Maechler
+048677.html,[Rd] bug with R CMP SHLIB (PR#10945),48677,Martin Maechler
+048706.html,[Rd] Experimental R_has_slot() utility,48706,Martin Maechler
+048818.html,[Rd] cut.Date and cut.POSIXt problem,48818,Martin Maechler
+048874.html,[Rd] tests Rin and Rout,48874,Martin Maechler
+048876.html,[Rd] tests Rin and Rout,48876,Martin Maechler
+048800.html,[Rd] R 64 on Intel Mac check problem,48800,Georgios Marentakis
+048808.html,[Rd] R 64 on Intel Mac check problem,48808,Georgios Marentakis
+048837.html,[Rd] R 64 on Intel Mac check problem,48837,Georgios Marentakis
+048581.html,[Rd] DataTime field when converting between database formats,48581,Tom McCallum
+048678.html,[Rd] [Fwd: Re:  bug with R CMP SHLIB (PR#10945)],48678,Fernando Miguez
+048576.html,[Rd] Problems initializing an extended S4 class,48576,Martin Morgan
+048654.html,[Rd] write.table with row.names=FALSE unnecessarily slow?,48654,Martin Morgan
+048655.html,[Rd] write.table with row.names=FALSE unnecessarily slow?,48655,Martin Morgan
+048596.html,[Rd] invalid regular expression '[a-Z]',48596,Duncan Murdoch
+048608.html,[Rd] parser failed on correct formula (PR#10901),48608,Duncan Murdoch
+048615.html,[Rd] Installing latest version under Windows (PR#10908),48615,Duncan Murdoch
+048622.html,[Rd] merging environments,48622,Duncan Murdoch
+048632.html,[Rd] [patch] add=TRUE in plot.default(),48632,Duncan Murdoch
+048637.html,[Rd] [patch] add=TRUE in plot.default(),48637,Duncan Murdoch
+048650.html,[Rd] [patch] add=TRUE in plot.default(),48650,Duncan Murdoch
+048690.html,[Rd] write function (PR#10953),48690,Duncan Murdoch
+048702.html,[Rd] crazy behavior after Error (PR#10956),48702,Duncan Murdoch
+048714.html,[Rd] how to get access to C++ Objects,48714,Duncan Murdoch
+048768.html,"[Rd] code optimization,analysis",48768,Duncan Murdoch
+048770.html,[Rd] Roxygen,48770,Duncan Murdoch
+048794.html,[Rd] Inaccurate qgamma() (PR#11030),48794,Duncan Murdoch
+048840.html,[Rd] cpu usage high with windows change dir / winDialogString (PR#11045),48840,Duncan Murdoch
+048843.html,[Rd] cpu usage high with windows change dir / winDialogString (PR#11045),48843,Duncan Murdoch
+048845.html,[Rd] cpu usage high with windows change dir / winDialogString (PR#11045),48845,Duncan Murdoch
+048846.html,[Rd] cpu usage high with windows change dir / winDialogString (PR#11045),48846,Duncan Murdoch
+048882.html,[Rd] Compile dll in Windows XP,48882,Duncan Murdoch
+048867.html,[Rd] norm_rand() in R-extension vs rnorm in R ---which is	better?,48867,Daniel Nordlund
+048831.html,[Rd] R 64 on Intel Mac check problem,48831,Bill Northcott
+048833.html,[Rd] R 64 on Intel Mac check problem,48833,Bill Northcott
+048851.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11045),48851,Sean O'Riordain
+048852.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11045),48852,Sean O'Riordain
+048847.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11045),48847,Sean O'Riordain
+048881.html,[Rd] Compile dll in Windows XP,48881,"Pavlidis, Polykarpos"
+048732.html,[Rd] cut.Date and cut.POSIXt problem,48732,Roger D. Peng
+048737.html,[Rd] cut.Date and cut.POSIXt problem,48737,Roger D. Peng
+048817.html,[Rd] cut.Date and cut.POSIXt problem,48817,Roger D. Peng
+048827.html,[Rd] suppressing 'download.file' progress window,48827,Roger D. Peng
+048829.html,[Rd] suppressing 'download.file' progress window,48829,Roger D. Peng
+048710.html,[Rd] optim: why is REPORT not used in SANN?,48710,Thomas Petzoldt
+048801.html,[Rd] problem with 'install.packages',48801,Tony Plate
+048579.html,[Rd] Problems initializing an extended S4 class,48579,Jim Regetz
+048600.html,[Rd] invalid regular expression '[a-Z]',48600,Prof Brian Ripley
+048646.html,[Rd] Re Bessel functions of complex argument,48646,Prof Brian Ripley
+048651.html,[Rd] Bindings for updated widgets in Tk 8.5.x,48651,Prof Brian Ripley
+048656.html,[Rd] Check errors using R2.6.2,48656,Prof Brian Ripley
+048658.html,[Rd] Check errors using R2.6.2,48658,Prof Brian Ripley
+048660.html,[Rd] write.table with row.names=FALSE unnecessarily slow?,48660,Prof Brian Ripley
+048663.html,[Rd] crossprod is slower than t(AA)%*BB,48663,Prof Brian Ripley
+048669.html,[Rd] R-console vs. bash console (execution halted),48669,Prof Brian Ripley
+048671.html,[Rd] Rtools and GCC4 problem,48671,Prof Brian Ripley
+048683.html,[Rd] Making custom unary operators in R,48683,Prof Brian Ripley
+048685.html,[Rd] graphics defaults,48685,Prof Brian Ripley
+048686.html,[Rd] Subsetting vectors/arrays using factors can be seen as misleading,48686,Prof Brian Ripley
+048699.html,[Rd] Buggy Kinderman-Ramage (PR#2846),48699,Prof Brian Ripley
+048712.html,[Rd] Problems building rpm for R-2.6.2 on Opensuse Factory,48712,Prof Brian Ripley
+048722.html,[Rd] Problems building rpm for R-2.6.2 on Opensuse Factory,48722,Prof Brian Ripley
+048739.html,[Rd] installing R packages from command line in Windows,48739,Prof Brian Ripley
+048743.html,[Rd] 'merge' function: behavior w.r.t. NAs in the key column,48743,Prof Brian Ripley
+048746.html,[Rd] Error in code2LazyLoadDB,48746,Prof Brian Ripley
+048747.html,[Rd] how to exclude terms preceded by - from model frame,48747,Prof Brian Ripley
+048753.html,[Rd] pdf device problem (PR#10995),48753,Prof Brian Ripley
+048767.html,[Rd] R_ParseVector problem: it's cutting off after the decimal point,48767,Prof Brian Ripley
+048773.html,[Rd] Problem with Makefile.win and environment variable,48773,Prof Brian Ripley
+048776.html,[Rd] Problem with Makefile.win and environment variable,48776,Prof Brian Ripley
+048779.html,[Rd] Problem with Makefile.win and environment variable,48779,Prof Brian Ripley
+048797.html,[Rd] regexp with [:upper:] (PR#11032),48797,Prof Brian Ripley
+048806.html,[Rd] R 64 on Intel Mac check problem,48806,Prof Brian Ripley
+048809.html,[Rd] R 64 on Intel Mac check problem,48809,Prof Brian Ripley
+048826.html,[Rd] S4 slot with NA default,48826,Prof Brian Ripley
+048828.html,[Rd] suppressing 'download.file' progress window,48828,Prof Brian Ripley
+048838.html,[Rd] R 64 on Intel Mac check problem,48838,Prof Brian Ripley
+048871.html,[Rd] tests Rin and Rout,48871,Prof Brian Ripley
+048792.html,[Rd] resampling from string when it runs across multiple lines,48792,Dimitris Rizopoulos
+048652.html,[Rd] Check errors using R2.6.2,48652,"Rossi, Peter E."
+048657.html,[Rd] Check errors using R2.6.2,48657,"Rossi, Peter E."
+048618.html,[Rd] [R] R-Logo,48618,Barry Rowlingson
+048684.html,[Rd] graphics defaults,48684,Deepayan Sarkar
+048766.html,[Rd] cut.Date and cut.POSIXt problem,48766,Marc Schwartz
+048819.html,[Rd] cut.Date and cut.POSIXt problem,48819,Marc Schwartz
+048591.html,[Rd] SEXP size management.,48591,Oleg Sklyar
+048593.html,[Rd] SEXP size management.,48593,Oleg Sklyar
+048813.html,[Rd] as.POSIXct/as.POSIXlt generics,48813,"Sklyar, Oleg (MI London)"
+048582.html,"[Rd] Clipping using par(plt=..., xpd=FALSE) inconsistencies",48582,Greg Snow
+048711.html,[Rd] Problems building rpm for R-2.6.2 on Opensuse Factory,48711,Detlef Steuer
+048762.html,[Rd] Problems building rpm for R-2.6.2 on Opensuse Factory,48762,Detlef Steuer
+048860.html,[Rd] callCC in 2.7.0,48860,Luke Tierney
+048862.html,[Rd] callCC in 2.7.0,48862,Luke Tierney
+048865.html,[Rd] callCC in 2.7.0,48865,Luke Tierney
+048703.html,[Rd] get number of clusters,48703,Stefan Tomzeck
+048585.html,[Rd] patch for random.c,48585,Berwin A Turlach
+048587.html,[Rd] A patch,48587,Berwin A Turlach
+048588.html,[Rd] A patch,48588,Berwin A Turlach
+048617.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48617,Berwin A Turlach
+048659.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48659,Berwin A Turlach
+048666.html,[Rd] NA warnings for r&lt;distr&gt;() {aka &quot;patch for random.c&quot;},48666,Berwin A Turlach
+048589.html,[Rd] Problems in builtin editor -- memory leak? graphics	plugin? (PR#10887),48589,Simon Urbanek
+048620.html,[Rd] Build options for R,48620,Simon Urbanek
+048679.html,[Rd] bug with R CMP SHLIB (PR#10945),48679,Simon Urbanek
+048824.html,[Rd] S4 slot with NA default,48824,Simon Urbanek
+048832.html,[Rd] R 64 on Intel Mac check problem,48832,Simon Urbanek
+048713.html,[Rd] how to get access to C++ Objects,48713,Adrian Mart&#237;nez Vargas
+048698.html,[Rd] dump() function (PR#10954),48698,Achim Zeileis
+048619.html,[Rd] Build options for R,48619,Scott Zentz
+048839.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11045),48839,seanpor at acm.org
+048694.html,[Rd] dump() function (PR#10954),48694,MorozZbigniew at aster.pl
+048803.html,[Rd] wishlist: add functions to calculate noncentrality parameters	(PR#11033),48803,Jerry.Lewis at biogenidec.com
+048810.html,[Rd] choose fails a fundamental property of binomial coefficients	(PR#11035),48810,Jerry.Lewis at biogenidec.com
+048748.html,[Rd] choose incorrect for fractional and some negative integer	values (PR#10766),48748,jerry.lewis at biogenidec.com
+048604.html,[Rd] Press delete key three times in R-2.6.1 to get	segmentation (PR#10898),48604,marc_schwartz at comcast.net
+048749.html,[Rd] pdf device problem (PR#10995),48749,prokaj at cs.elte.hu
+048798.html,[Rd] regexp with [:upper:] (PR#11032),48798,Mark.Bravington at csiro.au
+048796.html,[Rd] regexp with [:upper:] (PR#11032),48796,mark.bravington at csiro.au
+048577.html,[Rd] Problem creating Makefile.win to build package using Visual C++,48577,cstrato
+048772.html,[Rd] Problem with Makefile.win and environment variable,48772,cstrato
+048775.html,[Rd] Problem with Makefile.win and environment variable,48775,cstrato
+048778.html,[Rd] Problem with Makefile.win and environment variable,48778,cstrato
+048780.html,[Rd] Problem with Makefile.win and environment variable,48780,cstrato
+048586.html,[Rd] Problems in builtin editor -- memory leak? graphics plugin?	(PR#10887),48586,tw at deciph.com
+048889.html,[Rd] (PR#11054) &quot;Writing R Extensions&quot;: bad example with CAR,48889,anders at ebi.ac.uk
+048890.html,[Rd] (PR#11054) &quot;Writing R Extensions&quot;: bad example with CAR,48890,anders at ebi.ac.uk
+048888.html,[Rd] callCC in 2.7.0,48888,f.jamitzky
+048695.html,[Rd] crazy behavior after Error (PR#10956),48695,somorcik at fmph.uniba.sk
+048680.html,[Rd] Making custom unary operators in R,48680,Trevor.L.Davis at frb.gov
+048692.html,[Rd] Making custom unary operators in R,48692,Trevor.L.Davis at frb.gov
+048868.html,[Rd] &quot;Writing R Extensions&quot;: bad example with CAR / CDR as lvalues	(PR#11054),48868,sanders at fs.tum.de
+048580.html,[Rd] Losing attributes in data.frame() (PR#10873),48580,gunter.berton at gene.com
+048731.html,[Rd] [GSoC] - few general questions,48731,gginiu
+048675.html,[Rd] bug with R CMP SHLIB (PR#10945),48675,anais.khuong at gmail.com
+048720.html,"[Rd] glm poisson, method='ML' (PR#10985)",48720,claire.saraux at gmail.com
+048673.html,[Rd] dan.bolser has invited you to Spokeo,48673,dan.bolser at gmail.com
+048857.html,[Rd] callCC in 2.7.0,48857,h.wickham at gmail.com
+048811.html,[Rd] Misc/List Search Path from keyboard (PR#11036),48811,richardwreed at gmail.com
+048728.html,[Rd] substitute with plots (PR#10987),48728,bob.ohara at helsinki.fi
+048607.html,"[Rd] apply(x, 2,	mean) fails if x is a data frame containing a matrix (PR#10902)",48607,timh at insightful.com
+048764.html,"[Rd] code optimization,analysis",48764,m jacobson
+048765.html,[Rd] Installation error message with 2.6.2-win32 (PR#11007),48765,kzembowe at jhuccp.org
+048854.html,[Rd] data(lh) time serie parameters,48854,Jean lobry
+048877.html,[Rd] data(lh) time serie parameters,48877,Jean lobry
+048609.html,[Rd] Memory allocation error in 2.6.2 (PR#10903),48609,bosap at metro.dst.or.us
+048688.html,[Rd] write function (PR#10953),48688,efremov at mpiz-koeln.mpg.de
+048614.html,[Rd] Installing latest version under Windows (PR#10908),48614,Royomopito at nchecr.unsw.edu.au
+048603.html,[Rd] Press delete key three times in R-2.6.1 to get segmentation	fault (PR#10892),48603,org.r-project at pooryorick.com
+048605.html,[Rd] Press delete key three times in R-2.6.1 to get	segmentation (PR#10899),48605,org.r-project at pooryorick.com
+048716.html,"[Rd] Documentation of par, 'xaxs', (PR#10975)",48716,dgrove at scharp.org
+048741.html,[Rd] ambiguous example in as.Date() documentation (PR#10990),48741,nhorton at scinix.smith.edu
+048814.html,[Rd] choose fails a fundamental property of binomial	coefficients (PR#11035),48814,maechler at stat.math.ethz.ch
+048816.html,[Rd] choose fails a fundamental property of binomial	coefficients (PR#11035),48816,maechler at stat.math.ethz.ch
+048761.html,[Rd] Roxygen,48761,Manuel.Eugster at stat.uni-muenchen.de
+048789.html,[Rd] Roxygen,48789,Manuel.Eugster at stat.uni-muenchen.de
+048723.html,[Rd] Google summer of Code,48723,friedrich.leisch at stat.uni-muenchen.de
+048725.html,[Rd] Google summer of Code,48725,friedrich.leisch at stat.uni-muenchen.de
+048584.html,[Rd] Losing attributes in data.frame() (PR#10873),48584,ripley at stats.ox.ac.uk
+048719.html,[Rd] Inconsistency in gsub in R.2.6.2 (PR#10978),48719,ripley at stats.ox.ac.uk
+048721.html,"[Rd] glm poisson, method='ML' (PR#10985)",48721,ripley at stats.ox.ac.uk
+048807.html,[Rd] Incorrect behavior in 64-bit version (PR#11034),48807,ripley at stats.ox.ac.uk
+048835.html,[Rd] Misc/List Search Path from keyboard (PR#11036),48835,ripley at stats.ox.ac.uk
+048836.html,[Rd] Misc/List Search Path from keyboard (PR#11036),48836,ripley at stats.ox.ac.uk
+048872.html,[Rd] S4: dumpMethod (PR#11053),48872,ripley at stats.ox.ac.uk
+048873.html,[Rd] (PR#11054) &quot;Writing R Extensions&quot;: bad example with CAR /,48873,ripley at stats.ox.ac.uk
+048879.html,[Rd] (PR#11054) &quot;Writing R Extensions&quot;: bad example with CAR /,48879,ripley at stats.ox.ac.uk
+048643.html,[Rd] source(echo=TRUE) bug (was: [R] source() behavior I don't	understand) (PR#10923),48643,murdoch at stats.uwo.ca
+048790.html,[Rd] Inaccurate qgamma() (PR#11030),48790,murdoch at stats.uwo.ca
+048841.html,[Rd] cpu usage high with windows change dir / winDialogString	(PR#11051),48841,murdoch at stats.uwo.ca
+048804.html,[Rd] Incorrect behavior in 64-bit version (PR#11034),48804,lodewijk.bonebakker at sun.com
+048644.html,[Rd] source(echo=TRUE) bug (was: [R] source() (PR#10924),48644,rmh at temple.edu
+048727.html,[Rd] Wrong function name in R-ext manual (PR#10986),48727,nsoranzo at tiscali.it
+048850.html,[Rd] S4: dumpMethod (PR#11053),48850,cgenolin at u-paris10.fr
+048886.html,[Rd] tests Rin and Rout,48886,cgenolin at u-paris10.fr
+048887.html,[Rd] tests Rin and Rout,48887,cgenolin at u-paris10.fr
+048662.html,[Rd] Wishlist: Factor correlations in factanal (PR#10931),48662,uhkeller at web.de
+048624.html,[Rd] merging environments,48624,hadley wickham
+048639.html,[Rd] [patch] add=TRUE in plot.default(),48639,hadley wickham
+048641.html,[Rd] [patch] add=TRUE in plot.default(),48641,hadley wickham
+048682.html,[Rd] graphics defaults,48682,hadley wickham
+048733.html,[Rd] Roxygen,48733,hadley wickham
+048757.html,[Rd] Roxygen,48757,hadley wickham
+048774.html,[Rd] Roxygen,48774,hadley wickham
+048787.html,[Rd] idea for GSoC: an R package for fitting Bayesian	Hierarchical Models,48787,hadley wickham
+048717.html,[Rd] Inconsistency in gsub in R.2.6.2 (PR#10978),48717,christian.buchta at wu-wien.ac.at
+048715.html,[Rd] Accessing vector elements by a factor (PR#10971),48715,dennis.walvoort at wur.nl
+048742.html,[Rd] The use of command 'file.choose' seems to make R console crash	(PR#10994),48742,juryef at yahoo.com
+048606.html,[Rd] parser failed on correct formula (PR#10901),48606,revitalyr at yandex.ru
+048627.html,[Rd] embedFonts() side-effect under 2.6.2 ?,48627,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;

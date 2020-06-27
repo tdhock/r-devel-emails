@@ -1,0 +1,263 @@
+link,Subject,id,author
+032479.html,[Rd] Compiling &quot;R Embedded&quot; examples,32479,Mauron Laurent (KETR 31)
+032507.html,[Rd] Compiling &quot;R Embedded&quot; examples,32507,Mauron Laurent (KETR 31)
+032532.html,[Rd] Compiling &quot;R Embedded&quot; examples,32532,Mauron Laurent (KETR 31)
+032535.html,[Rd] Compiling &quot;R Embedded&quot; examples,32535,Mauron Laurent (KETR 31)
+032475.html,[Rd] authentication support question,32475,Vincent Carey 525-2265
+032482.html,[Rd] authentication support question,32482,Vincent Carey 525-2265
+032612.html,[Rd] R-alpha_2005-03-31: make check fails on Debian 3.0,32612,Bj&#248;rn-Helge Mevik
+032382.html,[Rd] How to use Rmpi?,32382,Alessandro Balboni
+032528.html,[Rd] can R_do_slot_assign change slot type,32528,Douglas Bates
+032337.html,[Rd] Re: [R] H-F corr.: covariance matrix for interaction effect,32337,Bela Bauer
+032510.html,[Rd] Writing R documentation,32510,Suzette Blanchard
+032606.html,[Rd] setAs between a new S4 class and &quot;POSIXlt&quot;,32606,Christoph Buser
+032583.html,[Rd] S4 methods semantics questions,32583,John Chambers
+032484.html,[Rd] translation R into Russian,32484,DIG
+032346.html,[Rd] R 2.1.0 scheduled for April 18,32346,Peter Dalgaard
+032376.html,[Rd] Bug in handling of promises?,32376,Peter Dalgaard
+032423.html,[Rd] Incorrect calculation of loop in R.2.0.1 (PR#7724),32423,Peter Dalgaard
+032425.html,[Rd] unexpected behaviour of expression(sum()),32425,Peter Dalgaard
+032438.html,[Rd] Lemon drops,32438,Peter Dalgaard
+032440.html,[Rd] Lemon drops,32440,Peter Dalgaard
+032521.html,Alpha releases Re: [Rd] trouble building r-devel,32521,Peter Dalgaard
+032338.html,[Rd] Can crc32() assume to be available at the C level?,32338,Dirk Eddelbuettel
+032412.html,[Rd] CRAN Task Views: ctv package available,32412,Dirk Eddelbuettel
+032581.html,[Rd] can R_do_slot_assign change slot type,32581,Byron Ellis
+032582.html,[Rd] S4 methods semantics questions,32582,Byron Ellis
+032586.html,[Rd] S4 methods semantics questions,32586,Byron Ellis
+032341.html,[Rd] Error on Windows installing package to non-default library,32341,Seth Falcon
+032343.html,[Rd] Error on Windows installing package to non-default library,32343,Seth Falcon
+032383.html,[Rd] How to use Rmpi?,32383,Seth Falcon
+032488.html,"[Rd] Trouble debugging with gdb, R on Windows",32488,Seth Falcon
+032491.html,"[Rd] Trouble debugging with gdb, R on Windows",32491,Seth Falcon
+032500.html,[Rd] Buglet in install.packages warning message,32500,Seth Falcon
+032515.html,[Rd] trouble building r-devel,32515,Seth Falcon
+032585.html,[Rd] S4 methods semantics questions,32585,Seth Falcon
+032502.html,[Rd] Re: [R-SIG-Mac] NaN and linear algebra,32502,David Firth
+032368.html,[Rd] Does cat(&quot;\a&quot;) ring a bell?,32368,John Fox
+032367.html,[Rd] Does cat(&quot;\a&quot;) ring a bell?,32367,Friedrich.Leisch at tuwien.ac.at
+032534.html,[Rd] edit(vignette(...)),32534,Friedrich.Leisch at tuwien.ac.at
+032579.html,[Rd] CRAN website: link targets,32579,Gregor GORJANC
+032352.html,[Rd] eapply weirdness/bug,32352,Robert Gentleman
+032354.html,[Rd] spatstat on Win98 (PR#7715),32354,Georg.Roth at pubhealth.ku.dk
+032355.html,[Rd] spatstat(2) (PR#7716),32355,Georg.Roth at uni-koeln.de
+032404.html,[Rd] CRAN Task Views: ctv package available,32404,Paul Gilbert
+032406.html,[Rd] CRAN Task Views: ctv package available,32406,Paul Gilbert
+032410.html,[Rd] CRAN Task Views: ctv package available,32410,Paul Gilbert
+032416.html,[Rd] CRAN Task Views: ctv package available,32416,Paul Gilbert
+032497.html,[Rd] loadings generic?,32497,Paul Gilbert
+032498.html,[Rd] --with-readline=yes,32498,Paul Gilbert
+032499.html,[Rd] edit(vignette(...)),32499,Paul Gilbert
+032506.html,[Rd] loadings generic?,32506,Paul Gilbert
+032417.html,[Rd] CRAN Task Views: ctv package available,32417,Gorjanc Gregor
+032420.html,[Rd] CRAN Task Views: ctv package available,32420,Gorjanc Gregor
+032427.html,[Rd] Use of htest class for different tests,32427,Gorjanc Gregor
+032431.html,[Rd] Package Installation in RGui (PR#7262),32431,Gorjanc Gregor
+032433.html,FW: [Rd] Package Installation in RGui (PR#7262),32433,Gorjanc Gregor
+032592.html,[Rd] F90,32592,Gorjanc Gregor
+032448.html,[Rd] Lemon drops,32448,Gabor Grothendieck
+032552.html,"[Rd] sub('^', .....) bugs (PR#7742)",32552,Gabor Grothendieck
+032572.html,[Rd] rw2010alpha,32572,Gabor Grothendieck
+032588.html,[Rd] na.omit error message,32588,Gabor Grothendieck
+032591.html,[Rd] na.omit error message,32591,Gabor Grothendieck
+032595.html,[Rd] strange error with rw2010dev,32595,Kjetil Brinchmann Halvorsen
+032459.html,[Rd] Trigonometric functions (PR#7728),32459,Robin Hankin
+032594.html,[Rd] RGUI font problem (PR#7749),32594,Christos Hatzis
+032429.html,[Rd] Use of htest class for different tests,32429,Torsten Hothorn
+032378.html,[Rd] create a R package,32378,Wolfgang Huber
+032391.html,[Rd] R_alloc with more than 2GB (PR#7721),32391,Wolfgang Huber
+032392.html,[Rd] R_alloc with more than 2GB (PR#7721),32392,Wolfgang Huber
+032504.html,[Rd] PR#6904,32504,Jonathan.Swinton at astrazeneca.com
+032347.html,[Rd] Underscore character in Rd files,32347,Martin Keller-Ressel
+032451.html,[Rd] Trigonometric functions (PR#7728),32451,Peter Kleiweg
+032577.html,[Rd] NaN and linear algebra,32577,Kjell Konis
+032340.html,[Rd] Profiling C functions called from R.,32340,Pavel N. Krivitsky
+032508.html,[Rd] Compiling &quot;R Embedded&quot; examples,32508,Duncan Temple Lang
+032379.html,[Rd] delay of warning for things in .Rprofile,32379,"Liaw, Andy"
+032384.html,[Rd] dealing with package bundles (was RE: [R] Gregmisc),32384,"Liaw, Andy"
+032443.html,[Rd] syntax error in memory.c when building R-devel on AIX,32443,"Liaw, Andy"
+032446.html,[Rd] syntax error in memory.c when building R-devel on AIX,32446,"Liaw, Andy"
+032570.html,[Rd] RE: [R] Mapping actual to expected columns for princomp object,32570,"Liaw, Andy"
+032415.html,[Rd] Package Installation in RGui (PR#7262),32415,Uwe Ligges
+032432.html,[Rd] Package Installation in RGui (PR#7262),32432,Uwe Ligges
+032494.html,[Rd] package.skeleton,32494,Uwe Ligges
+032518.html,[Rd] trouble building r-devel,32518,Uwe Ligges
+032519.html,[Rd] Writing R documentation,32519,Uwe Ligges
+032525.html,[Rd] trouble building r-devel,32525,Uwe Ligges
+032574.html,[Rd] rw2010alpha,32574,Uwe Ligges
+032450.html,[Rd] Trigonometric functions (PR#7728),32450,Thomas Lumley
+032452.html,[Rd] Trigonometric functions (PR#7728),32452,Thomas Lumley
+032596.html,[Rd] strange error with rw2010dev,32596,Thomas Lumley
+032489.html,[Rd] package.skeleton,32489,James MacDonald
+032530.html,[Rd] Segfault with savePlot,32530,James MacDonald
+032430.html,[Rd] Use of htest class for different tests,32430,Martin Maechler
+032437.html,[Rd] Small suggestion for stripchart help,32437,Martin Maechler
+032495.html,[Rd] package.skeleton,32495,Martin Maechler
+032501.html,[Rd] Buglet in install.packages warning message,32501,Martin Maechler
+032505.html,[Rd] loadings generic?,32505,Martin Maechler
+032550.html,[Rd] NaN and linear algebra,32550,Martin Maechler
+032411.html,[Rd] delay() has been deprecated for 2.1.0,32411,Mark.Bravington at csiro.au
+032414.html,[Rd] delay() has been deprecated for 2.1.0,32414,Mark.Bravington at csiro.au
+032435.html,[Rd] delay() has been deprecated for 2.1.0,32435,Mark.Bravington at csiro.au
+032509.html,[Rd] trouble building r-devel,32509,Mark.Bravington at csiro.au
+032514.html,[Rd] trouble building r-devel,32514,Mark.Bravington at csiro.au
+032516.html,[Rd] trouble building r-devel,32516,Mark.Bravington at csiro.au
+032353.html,[Rd] Does anyone care about &quot;wait&quot; in Windows bug.report()?,32353,Duncan Murdoch
+032364.html,[Rd] Does cat(&quot;\a&quot;) ring a bell?,32364,Duncan Murdoch
+032371.html,[Rd] Does cat(&quot;\a&quot;) ring a bell?,32371,Duncan Murdoch
+032372.html,[Rd] Bug in handling of promises?,32372,Duncan Murdoch
+032374.html,[Rd] Bug in handling of promises?,32374,Duncan Murdoch
+032375.html,[Rd] Bug in handling of promises?,32375,Duncan Murdoch
+032401.html,[Rd] delay() has been deprecated for 2.1.0,32401,Duncan Murdoch
+032461.html,[Rd] function-like macros undefined,32461,Duncan Murdoch
+032492.html,"[Rd] Trouble debugging with gdb, R on Windows",32492,Duncan Murdoch
+032512.html,[Rd] trouble building r-devel,32512,Duncan Murdoch
+032524.html,[Rd] trouble building r-devel,32524,Duncan Murdoch
+032573.html,[Rd] rw2010alpha,32573,Duncan Murdoch
+032597.html,[Rd] RGUI font problem (PR#7749),32597,Duncan Murdoch
+032547.html,[Rd] forcing R CMD COMPILE,32547,Pedro Ribeiro de Andrade Neto
+032556.html,[Rd] forcing R CMD COMPILE,32556,Pedro Ribeiro de Andrade Neto
+032564.html,[Rd] forcing R CMD COMPILE,32564,Pedro Ribeiro de Andrade Neto
+032578.html,[Rd] forcing R CMD COMPILE,32578,Pedro Ribeiro de Andrade Neto
+032513.html,[Rd] NaN and linear algebra,32513,Bill Northcott
+032546.html,[Rd] NaN and linear algebra,32546,Bill Northcott
+032554.html,[Rd] NaN and linear algebra,32554,Bill Northcott
+032569.html,[Rd] NaN and linear algebra,32569,Bill Northcott
+032366.html,[Rd] Does cat(&quot;\a&quot;) ring a bell?,32366,Vadim Ogranovich
+032453.html,[Rd] How to store void* on 64 bit machines,32453,Vadim Ogranovich
+032458.html,[Rd] function-like macros undefined,32458,Vadim Ogranovich
+032470.html,Write Barrier: was: [Rd] function-like macros undefined,32470,Vadim Ogranovich
+032473.html,Write Barrier: was: [Rd] function-like macros undefined,32473,Vadim Ogranovich
+032517.html,[Rd] can R_do_slot_assign change slot type,32517,Vadim Ogranovich
+032536.html,[Rd] documentation on seek needs update,32536,Vadim Ogranovich
+032539.html,[Rd] documentation on seek *does not* need update,32539,Vadim Ogranovich
+032568.html,[Rd] RE: improved [Qurb #879958],32568,Miles Paschini
+032541.html,[Rd] make install fails with makeinfo &lt; 4.7,32541,Roger D. Peng
+032543.html,[Rd] make install fails with makeinfo &lt; 4.7,32543,Roger D. Peng
+032576.html,[Rd] saving errors/warnings (conditions),32576,Roger D. Peng
+032360.html,[Rd] R crashes using the em function of package mclust (PR#7719),32360,Brian D Ripley
+032553.html,"[Rd] sub('^', .....) bugs (PR#7742)",32553,Brian D Ripley
+032339.html,[Rd] Can crc32() assume to be available at the C level?,32339,Prof Brian Ripley
+032342.html,[Rd] Error on Windows installing package to non-default library,32342,Prof Brian Ripley
+032349.html,[Rd] Underscore character in Rd files,32349,Prof Brian Ripley
+032358.html,[Rd] &quot;make check-all&quot; fails on R-devel 2005/03/07 (PR#7718),32358,Prof Brian Ripley
+032370.html,[Rd] PR#7718,32370,Prof Brian Ripley
+032373.html,[Rd] Bug in handling of promises?,32373,Prof Brian Ripley
+032380.html,[Rd] delay of warning for things in .Rprofile,32380,Prof Brian Ripley
+032385.html,[Rd] dealing with package bundles (was RE: [R] Gregmisc),32385,Prof Brian Ripley
+032387.html,[Rd] dealing with package bundles (was RE: [R] Gregmisc),32387,Prof Brian Ripley
+032390.html,[Rd] R_alloc with more than 2GB (PR#7721),32390,Prof Brian Ripley
+032396.html,[Rd] unexpected behaviour of expression(sum()),32396,Prof Brian Ripley
+032397.html,[Rd] R_alloc with more than 2GB (PR#7721),32397,Prof Brian Ripley
+032403.html,[Rd] unexpected behaviour of expression(sum()),32403,Prof Brian Ripley
+032424.html,[Rd] unexpected behaviour of expression(sum()),32424,Prof Brian Ripley
+032426.html,[Rd] unexpected behaviour of expression(sum()),32426,Prof Brian Ripley
+032445.html,[Rd] syntax error in memory.c when building R-devel on AIX,32445,Prof Brian Ripley
+032455.html,[Rd] How to store void* on 64 bit machines,32455,Prof Brian Ripley
+032456.html,[Rd] returning NULL from .Call call,32456,Prof Brian Ripley
+032457.html,[Rd] How to store void* on 64 bit machines,32457,Prof Brian Ripley
+032463.html,[Rd] minor iconvlist() bug in r-devel,32463,Prof Brian Ripley
+032465.html,[Rd] minor iconvlist() bug in r-devel,32465,Prof Brian Ripley
+032467.html,[Rd] minor iconvlist() bug in r-devel,32467,Prof Brian Ripley
+032474.html,Write Barrier: was: [Rd] function-like macros undefined,32474,Prof Brian Ripley
+032478.html,[Rd] authentication support question,32478,Prof Brian Ripley
+032520.html,[Rd] pch=NA (PR#7737),32520,Prof Brian Ripley
+032522.html,Alpha releases Re: [Rd] trouble building r-devel,32522,Prof Brian Ripley
+032523.html,[Rd] --with-readline=yes,32523,Prof Brian Ripley
+032526.html,[Rd] trouble building r-devel,32526,Prof Brian Ripley
+032533.html,[Rd] Compiling &quot;R Embedded&quot; examples,32533,Prof Brian Ripley
+032537.html,[Rd] Compiling &quot;R Embedded&quot; examples,32537,Prof Brian Ripley
+032538.html,[Rd] documentation on seek *does not* need update,32538,Prof Brian Ripley
+032540.html,[Rd] documentation on seek *does not* need update,32540,Prof Brian Ripley
+032542.html,[Rd] make install fails with makeinfo &lt; 4.7,32542,Prof Brian Ripley
+032545.html,[Rd] make install fails with makeinfo &lt; 4.7,32545,Prof Brian Ripley
+032548.html,[Rd] forcing R CMD COMPILE,32548,Prof Brian Ripley
+032551.html,"[Rd] sub('^', .....) bugs (PR#7742)",32551,Prof Brian Ripley
+032555.html,"[Rd] sub('^', .....) bugs (PR#7742)",32555,Prof Brian Ripley
+032557.html,[Rd] forcing R CMD COMPILE,32557,Prof Brian Ripley
+032561.html,[Rd] NaN and linear algebra,32561,Prof Brian Ripley
+032566.html,[Rd] forcing R CMD COMPILE,32566,Prof Brian Ripley
+032567.html,[Rd] interp.surface() error (PR#7745),32567,Prof Brian Ripley
+032580.html,[Rd] CRAN website: link targets,32580,Prof Brian Ripley
+032590.html,[Rd] RGUI font problem (PR#7749),32590,Prof Brian Ripley
+032600.html,[Rd] improved pairs.formula?,32600,Prof Brian Ripley
+032602.html,[Rd] improved pairs.formula?,32602,Prof Brian Ripley
+032603.html,[Rd] RGUI font problem (PR#7749),32603,Prof Brian Ripley
+032608.html,[Rd] zapsmall (PR#7755),32608,Prof Brian Ripley
+032611.html,[Rd] Mistype in CRAN mirror list(doc/CRAN_mirrors.csv) (PR#7759),32611,Prof Brian Ripley
+032531.html,[Rd] Segfault with savePlot,32531,Prof Brian D Ripley
+032503.html,[Rd] initial Hessian in optim's BFGS,32503,Dimitris Rizopoulos
+032490.html,"[Rd] Trouble debugging with gdb, R on Windows",32490,Paul Roebuck
+032558.html,[Rd] forcing R CMD COMPILE,32558,Paul Roebuck
+032393.html,[Rd] unexpected behaviour of expression(sum()),32393,Deepayan Sarkar
+032402.html,[Rd] unexpected behaviour of expression(sum()),32402,Deepayan Sarkar
+032421.html,[Rd] unexpected behaviour of expression(sum()),32421,Deepayan Sarkar
+032462.html,[Rd] minor iconvlist() bug in r-devel,32462,Deepayan Sarkar
+032464.html,[Rd] minor iconvlist() bug in r-devel,32464,Deepayan Sarkar
+032466.html,[Rd] minor iconvlist() bug in r-devel,32466,Deepayan Sarkar
+032386.html,[Rd] dealing with package bundles (was RE: [R] Gregmisc),32386,Marc Schwartz
+032388.html,[Rd] dealing with package bundles (was RE: [R] Gregmisc),32388,Marc Schwartz
+032395.html,[Rd] unexpected behaviour of expression(sum()),32395,Marc Schwartz
+032407.html,[Rd] unexpected behaviour of expression(sum()),32407,Marc Schwartz
+032439.html,[Rd] Lemon drops,32439,Marc Schwartz
+032441.html,[Rd] Lemon drops,32441,Marc Schwartz
+032444.html,[Rd] Lemon drops,32444,Marc Schwartz
+032454.html,[Rd] returning NULL from .Call call,32454,Oleg Sklyar
+032398.html,[Rd] How to use Rmpi?,32398,Luke Tierney
+032413.html,[Rd] delay() has been deprecated for 2.1.0,32413,Luke Tierney
+032418.html,[Rd] delay() has been deprecated for 2.1.0,32418,Luke Tierney
+032447.html,[Rd] syntax error in memory.c when building R-devel on AIX,32447,Luke Tierney
+032472.html,Write Barrier: was: [Rd] function-like macros undefined,32472,Luke Tierney
+032599.html,[Rd] improved pairs.formula?,32599,Berwin A Turlach
+032601.html,[Rd] improved pairs.formula?,32601,Berwin A Turlach
+032605.html,[Rd] improved pairs.formula?,32605,Berwin A Turlach
+032344.html,[Rd] Processing files with AlphaX and R 2.0.1,32344,Craig Barton Upright
+032345.html,[Rd] Processing files with AlphaX and R 2.0.1,32345,Craig Barton Upright
+032409.html,[Rd] Customizable R_HOME at build time,32409,Simon Urbanek
+032471.html,Write Barrier: was: [Rd] function-like macros undefined,32471,Simon Urbanek
+032529.html,[Rd] NaN and linear algebra,32529,Simon Urbanek
+032560.html,[Rd] NaN and linear algebra,32560,Simon Urbanek
+032575.html,float vs double on Macs [was Re: [Rd] NaN and linear algebra],32575,Simon Urbanek
+032394.html,[Rd] Package Installation in RGui (PR#7262),32394,Keith Wong
+032381.html,[Rd] CRAN Task Views: ctv package available,32381,Achim Zeileis
+032405.html,[Rd] CRAN Task Views: ctv package available,32405,Achim Zeileis
+032408.html,[Rd] CRAN Task Views: ctv package available,32408,Achim Zeileis
+032419.html,[Rd] CRAN Task Views: ctv package available,32419,Achim Zeileis
+032442.html,[Rd] Lemon drops,32442,Achim Zeileis
+032350.html,[Rd] (no subject),32350,admin at ordo.org
+032562.html,[Rd] NaN and linear algebra,32562,apjaworski at mmm.com
+032511.html,[Rd] pch=NA (PR#7737),32511,arnima at u.washington.edu
+032359.html,[Rd] R crashes using the em function of package mclust (PR#7719),32359,becker at kfs.oeaw.ac.at
+032362.html,[Rd] R crashes using the em function of package mclust (PR#7719),32362,becker at kfs.oeaw.ac.at
+032589.html,[Rd] RGUI font problem (PR#7749),32589,christos at nuverabio.com
+032460.html,[Rd] Documentation: add link from &quot;::&quot; to &quot;get&quot; (PR#7729),32460,dkoschuetzki at gmx.de
+032609.html,[Rd] Preference for convenience and super value (PR#7758),32609,giovanty at certportal.com
+032389.html,[Rd] R_alloc with more than 2GB (PR#7721),32389,huber at ebi.ac.uk
+032365.html,[Rd] Does cat(&quot;\a&quot;) ring a bell?,32365,stefano iacus
+032496.html,[Rd] Re: [R-SIG-Mac] NaN and linear algebra,32496,stefano iacus
+032559.html,[Rd] NaN and linear algebra,32559,stefano iacus
+032593.html,[Rd] R fails to start (PR#7747),32593,stefano iacus
+032422.html,[Rd] Incorrect calculation of loop in R.2.0.1 (PR#7724),32422,iad at columbia.edu
+032428.html,[Rd] ks.test (Kolmogorov-Smirnov) (PR#7725),32428,jpnolan at american.edu
+032584.html,[Rd] R fails to start (PR#7747),32584,kirschenbaumss at npt.nuwc.navy.mil
+032434.html,[Rd] Small suggestion for stripchart help,32434,kwright at eskimo.com
+032356.html,[Rd] spatstat on Win98 (PR#7715),32356,ligges at statistik.uni-dortmund.de
+032549.html,"[Rd] sub('^', .....) bugs (PR#7742)",32549,maechler at stat.math.ethz.ch
+032493.html,[Rd] RE: Hi,32493,mailerndr at trademe.co.nz
+032610.html,[Rd] Mistype in CRAN mirror list(doc/CRAN_mirrors.csv) (PR#7759),32610,mokada at md.tsukuba.ac.jp
+032544.html,[Rd] demo(graphics) (PR#7740),32544,molzon at ms.uky.edu
+032361.html,[Rd] R crashes using the em function of package mclust (PR#7719),32361,murdoch at stats.uwo.ca
+032565.html,[Rd] interp.surface() error (PR#7745),32565,murdoch at stats.uwo.ca
+032598.html,[Rd] RGUI font problem (PR#7749),32598,murdoch at stats.uwo.ca
+032604.html,[Rd] RGUI font problem (PR#7749),32604,ripley at stats.ox.ac.uk
+032449.html,[Rd] Trigonometric functions (PR#7728),32449,s.ruiter at ru.nl
+032487.html,[Rd] 2 possible bugs in function validObject (PR#7735),32487,scott.chasalow at bms.com
+032363.html,[Rd] Dear Friend. (PR#7720),32363,sshari11 at gmx.de
+032563.html,[Rd] interp.surface() error (PR#7745),32563,takahama at andrew.cmu.edu
+032607.html,[Rd] zapsmall (PR#7755),32607,vosp at mail.ecu.edu
+032486.html,[Rd] multiple Labels in .png plots (PR#7733),32486,wb at arb-phys.uni-dortmund.de
+032351.html,[Rd] Free flights in April (PR#7714),32351,webster at ryanairmail.com
+032587.html,[Rd] Typo in setClass.Rd (PR#7748),32587,weigand.stephen at charter.net
+032377.html,[Rd] create a R package,32377,xt_wang at cse.concordia.ca
+032357.html,[Rd] &quot;make check-all&quot; fails on R-devel 2005/03/07 (PR#7718),32357,znmeb at cesmail.net
+032369.html,[Rd] PR#7718,32369,znmeb at cesmail.net

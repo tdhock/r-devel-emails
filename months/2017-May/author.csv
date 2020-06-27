@@ -1,0 +1,207 @@
+link,Subject,id,author
+074197.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74197,Viechtbauer Wolfgang (SP)
+074205.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74205,Viechtbauer Wolfgang (SP)
+074206.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74206,Viechtbauer Wolfgang (SP)
+074175.html,[Rd] R 3.4 and mclapply assertion failure - is this a bug?,74175,Yan Alperovych
+074222.html,[Rd] Potential Bug in convolve {stats},74222,George Anastasiou
+074270.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74270,Suharto Anggono Suharto Anggono
+074294.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74294,Suharto Anggono Suharto Anggono
+074307.html,[Rd] What to do re 'replacing previous import' errors,74307,Ronald Barry
+074277.html,[Rd] problem running test on a system without /etc/localtime,74277,Henrik Bengtsson
+074364.html,[Rd] RProfmem output format,74364,Henrik Bengtsson
+074218.html,[Rd] A few suggestions and perspectives from a PhD student,74218,Hilmar Berger
+074221.html,[Rd] A few suggestions and perspectives from a PhD student,74221,Hilmar Berger
+074257.html,[Rd] [bug] droplevels() also drop object attributes (comment&#8230;),74257,Serge Bibauw
+074192.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74192,Simon Bonner
+074296.html,[Rd] Bug: floating point bug in nclass.FD can cause hist() to crash,74296,Sietse Brouwer
+074311.html,[Rd] Bug: floating point bug in nclass.FD can cause hist() to	crash,74311,Sietse Brouwer
+074189.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74189,Nick Brown
+074193.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74193,Nick Brown
+074195.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74195,Nick Brown
+074200.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74200,Nick Brown
+074207.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74207,Nick Brown
+074316.html,[Rd] [R] Somewhat obscure bug in R 3.4.0 building from source,74316,Peter Carbonetto
+074301.html,[Rd] Inconsistency in handling of numeric input with %d by sprintf,74301,Michael Chirico
+074325.html,[Rd] Inconsistency in handling of numeric input with %d by	sprintf,74325,Michael Chirico
+074326.html,[Rd] Inconsistency in handling of numeric input with %d by	sprintf,74326,Michael Chirico
+074283.html,[Rd] [R] R-3.4.0 fails test,74283,Patrick Connolly
+074298.html,[Rd] [R] R-3.4.0 fails test,74298,Patrick Connolly
+074322.html,[Rd] Inconsistency in handling of numeric input with %d by	sprintf,74322,Evan Cortens
+074327.html,[Rd] Inconsistency in handling of numeric input with %d by	sprintf,74327,Evan Cortens
+074177.html,[Rd] potential bug in simulate.lm when gaussian(link != &quot;identity&quot;),74177,Alexandre Courtiol
+074226.html,[Rd] Bug simulate.lm() --&gt; needs credential to report it,74226,Alexandre Courtiol
+074313.html,[Rd] [R] Somewhat obscure bug in R 3.4.0 building from source,74313,Peter Dalgaard
+074196.html,[Rd] Possible bug in how POSIXct is printed,74196,"Deonarine, Ajay"
+074178.html,[Rd] R 3.4 and mclapply assertion failure - is this a bug?,74178,Matt Dowle
+074227.html,[Rd] R-3.3.3/R-3.4.0 change in sys.call(sys.parent()),74227,William Dunlap
+074243.html,[Rd] R-3.3.3/R-3.4.0 change in sys.call(sys.parent()),74243,William Dunlap
+074303.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74303,William Dunlap
+074224.html,[Rd] registering Fortran routines in R packages,74224,Christophe Dutang
+074230.html,[Rd] registering Fortran routines in R packages,74230,Christophe Dutang
+074234.html,[Rd] registering Fortran routines in R packages,74234,Christophe Dutang
+074240.html,[Rd] xrealloc namespace conflict,74240,Dirk Eddelbuettel
+074241.html,[Rd] bug report: nlme model-fitting crashes with R 3.4.0,74241,Dirk Eddelbuettel
+074276.html,[Rd] problem running test on a system without /etc/localtime,74276,Dirk Eddelbuettel
+074348.html,[Rd] Rounding in print.summaryDefault(),74348,Dirk Eddelbuettel
+074203.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74203,"Fox, John"
+074345.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74345,GlenB
+074353.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74353,GlenB
+074354.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74354,GlenB
+074360.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74360,GlenB
+074365.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74365,GlenB
+074211.html,[Rd] deparse(substitute(x)) fails in implied call to an S3 print	method,74211,Spencer Graves
+074213.html,[Rd] deparse(substitute(x)) fails in implied call to an S3 print method,74213,Spencer Graves
+074288.html,[Rd] SUGGESTION: R Base Packages,74288,Spencer Graves
+074297.html,[Rd] Bug: floating point bug in nclass.FD can cause hist() to crash,74297,Spencer Graves
+074204.html,[Rd] A few suggestions and perspectives from a PhD student,74204,Gabor Grothendieck
+074185.html,[Rd] complex tests failure,74185,Kasper Daniel Hansen
+074187.html,[Rd] complex tests failure,74187,Kasper Daniel Hansen
+074210.html,[Rd] complex tests failure,74210,Kasper Daniel Hansen
+074305.html,[Rd] test fails when requesting LC_CTYPE,74305,Kasper Daniel Hansen
+074306.html,[Rd] test fails when requesting LC_CTYPE,74306,Kasper Daniel Hansen
+074314.html,[Rd] test fails when requesting LC_CTYPE,74314,Kasper Daniel Hansen
+074225.html,[Rd] registering Fortran routines in R packages,74225,Berend Hasselman
+074231.html,[Rd] registering Fortran routines in R packages,74231,Berend Hasselman
+074233.html,[Rd] registering Fortran routines in R packages,74233,Berend Hasselman
+074336.html,[Rd] precision of do_arith() in arithmetic.c,74336,Berend Hasselman
+074347.html,[Rd] Rounding in print.summaryDefault(),74347,Arne Henningsen
+074351.html,[Rd] Rounding in print.summaryDefault(),74351,Arne Henningsen
+074220.html,[Rd] A few suggestions and perspectives from a PhD student,74220,Lionel Henry
+074273.html,[Rd] Consider increasing the size of HSIZE,74273,Jim Hester
+074295.html,[Rd] Interpreting R memory profiling statistics from Rprof() and	gc(),74295,Joy
+074174.html,[Rd] Byte compilation with window&lt;- in R3.4.0,74174,Tomas Kalibera
+074186.html,[Rd] complex tests failure,74186,Tomas Kalibera
+074188.html,[Rd] complex tests failure,74188,Tomas Kalibera
+074198.html,[Rd] complex tests failure,74198,Tomas Kalibera
+074235.html,[Rd] R-3.3.3/R-3.4.0 change in sys.call(sys.parent()),74235,Tomas Kalibera
+074304.html,[Rd] Null pointer dereference?,74304,Tomas Kalibera
+074342.html,[Rd] Inconsistency in handling of numeric input with %d by sprintf,74342,Tomas Kalibera
+074344.html,[Rd] Bug in R 3.4.0: R CMD Sweave return value is 1 on success (instead of 0),74344,Tomas Kalibera
+074357.html,[Rd] Interpreting R memory profiling statistics from Rprof() and gc(),74357,Tomas Kalibera
+074315.html,[Rd] [PATCH] Ensure correct order of evaluation in macro,74315,Sahil Kang
+074323.html,[Rd] [PATCH] Ensure correct order of evaluation in macro,74323,Sahil Kang
+074341.html,[Rd] [PATCH] Ensure correct order of evaluation in macro,74341,Sahil Kang
+074332.html,[Rd] reg-tests-1d.R fails in r72721,74332,Hiroyuki Kawakatsu
+074335.html,[Rd] reg-tests-1d.R fails in r72721,74335,Hiroyuki Kawakatsu
+074338.html,[Rd] reg-tests-1d.R fails in r72721,74338,Hiroyuki Kawakatsu
+074171.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and	UTF-32 ?,74171,Jack Kelley
+074172.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and	UTF-32 ?,74172,Jack Kelley
+074333.html,[Rd] precision of do_arith() in arithmetic.c,74333,M Kim
+074343.html,[Rd] Bug in R 3.4.0: R CMD Sweave return value is 1 on success (instead of 0),74343,Roman Kiselev
+074201.html,[Rd] A few suggestions and perspectives from a PhD student,74201,Antonin Klima
+074214.html,[Rd] A few suggestions and perspectives from a PhD student,74214,Antonin Klima
+074236.html,[Rd] bug report: nlme model-fitting crashes with R 3.4.0,74236,"Langbehn, Douglas"
+074181.html,[Rd] Generate reproducible output independently of the build	path,74181,Ximin Luo
+074247.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74247,Martin Maechler
+074251.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74251,Martin Maechler
+074254.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74254,Martin Maechler
+074256.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74256,Martin Maechler
+074263.html,[Rd] [bug] droplevels() also drop object attributes (comment&#8230;),74263,Martin Maechler
+074264.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74264,Martin Maechler
+074272.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74272,Martin Maechler
+074278.html,[Rd] problem running test on a system without /etc/localtime,74278,Martin Maechler
+074282.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74282,Martin Maechler
+074293.html,[Rd] [R] R-3.4.0 fails test,74293,Martin Maechler
+074300.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74300,Martin Maechler
+074309.html,[Rd] test fails when requesting LC_CTYPE,74309,Martin Maechler
+074310.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74310,Martin Maechler
+074361.html,[Rd] stats::line() does not produce correct Tukey line when n	mod 6 is 2 or 3,74361,Martin Maechler
+074363.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74363,Martin Maechler
+074375.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74375,Martin Maechler
+074275.html,[Rd] problem running test on a system without /etc/localtime,74275,Kirill Maslinsky
+074281.html,[Rd] problem running test on a system without /etc/localtime,74281,Kirill Maslinsky
+074329.html,[Rd] Allow dot in RHS of update.formula's old formula,74329,Robert McGehee
+074302.html,[Rd] Null pointer dereference?,74302,Zubin Mevawalla
+074219.html,[Rd] A few suggestions and perspectives from a PhD student,74219,Joris Meys
+074286.html,[Rd] [R] R-3.4.0 fails test,74286,Joris Meys
+074287.html,[Rd] [R] R-3.4.0 fails test,74287,Joris Meys
+074318.html,[Rd] help pages base R not rendered correctly?,74318,Joris Meys
+074320.html,[Rd] help pages base R not rendered correctly?,74320,Joris Meys
+074324.html,[Rd] Inconsistency in handling of numeric input with %d by	sprintf,74324,Joris Meys
+074346.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74346,Joris Meys
+074349.html,[Rd] Rounding in print.summaryDefault(),74349,Joris Meys
+074350.html,[Rd] Rounding in print.summaryDefault(),74350,Joris Meys
+074367.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74367,Joris Meys
+074369.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74369,Joris Meys
+074370.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74370,Joris Meys
+074373.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74373,Joris Meys
+074170.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and UTF-32 ?,74170,Duncan Murdoch
+074173.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and UTF-32 ?,74173,Duncan Murdoch
+074182.html,[Rd] Any progress on write.csv fileEncoding for UTF-16 and UTF-32 ?,74182,Duncan Murdoch
+074190.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74190,Duncan Murdoch
+074212.html,[Rd] deparse(substitute(x)) fails in implied call to an S3 print method,74212,Duncan Murdoch
+074223.html,"[Rd] source(), parse(), and foreign UTF-8 characters",74223,Duncan Murdoch
+074229.html,"[Rd] source(), parse(), and foreign UTF-8 characters",74229,Duncan Murdoch
+074308.html,[Rd] What to do re 'replacing previous import' errors,74308,Duncan Murdoch
+074312.html,[Rd] [R] Somewhat obscure bug in R 3.4.0 building from source,74312,Duncan Murdoch
+074319.html,[Rd] help pages base R not rendered correctly?,74319,Duncan Murdoch
+074328.html,[Rd] [PATCH] Ensure correct order of evaluation in macro,74328,Duncan Murdoch
+074334.html,[Rd] reg-tests-1d.R fails in r72721,74334,Duncan Murdoch
+074337.html,[Rd] reg-tests-1d.R fails in r72721,74337,Duncan Murdoch
+074339.html,[Rd] reg-tests-1d.R fails in r72721,74339,Duncan Murdoch
+074352.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74352,Duncan Murdoch
+074262.html,[Rd] Error messages in replayPlot(),74262,Paul Murrell
+074217.html,"[Rd] source(), parse(), and foreign UTF-8 characters",74217,Kirill M&#252;ller
+074228.html,"[Rd] source(), parse(), and foreign UTF-8 characters",74228,Kirill M&#252;ller
+074232.html,[Rd] registering Fortran routines in R packages,74232,Jari Oksanen
+074250.html,[Rd] Error messages in replayPlot(),74250,Jeroen Ooms
+074179.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74179,Herv&#233; Pag&#232;s
+074183.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74183,Herv&#233; Pag&#232;s
+074184.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74184,Herv&#233; Pag&#232;s
+074260.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74260,Herv&#233; Pag&#232;s
+074261.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74261,Herv&#233; Pag&#232;s
+074274.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74274,Herv&#233; Pag&#232;s
+074238.html,[Rd] bug report: nlme model-fitting crashes with R 3.4.0,74238,Erwan Le Pennec
+074209.html,[Rd] xrealloc namespace conflict,74209,Patrick Perry
+074239.html,[Rd] xrealloc namespace conflict,74239,Patrick Perry
+074246.html,[Rd] xrealloc namespace conflict,74246,Patrick Perry
+074242.html,[Rd] bug report: nlme model-fitting crashes with R 3.4.0,74242,Martyn Plummer
+074244.html,[Rd] bug report: nlme model-fitting crashes with R 3.4.0,74244,Martyn Plummer
+074291.html,[Rd] [R] R-3.4.0 fails test,74291,Martyn Plummer
+074299.html,[Rd] [R] R-3.4.0 fails test,74299,Martyn Plummer
+074331.html,[Rd] Getting an R bugzilla account,74331,Martyn Plummer
+074266.html,[Rd] Wish for arima function: add a data argument and a formula-type for regressors,74266,Olivier Renaud
+074317.html,[Rd] [R] Somewhat obscure bug in R 3.4.0 building from source,74317,Prof Brian Ripley
+074237.html,[Rd] R-3.3.3/R-3.4.0 change in sys.call(sys.parent()),74237,Deepayan Sarkar
+074245.html,[Rd] R-3.3.3/R-3.4.0 change in sys.call(sys.parent()),74245,Deepayan Sarkar
+074289.html,[Rd] SUGGESTION: R Base Packages,74289,Marc Schwartz
+074248.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74248,Serguei Sokol
+074249.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74249,Serguei Sokol
+074253.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74253,Serguei Sokol
+074258.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74258,Serguei Sokol
+074265.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74265,Serguei Sokol
+074267.html,[Rd] tweaking Sys.timezone(),74267,Serguei Sokol
+074356.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74356,Serguei Sokol
+074358.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74358,Serguei Sokol
+074359.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74359,Serguei Sokol
+074362.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74362,Serguei Sokol
+074366.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74366,Serguei Sokol
+074368.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74368,Serguei Sokol
+074372.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74372,Serguei Sokol
+074374.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74374,Serguei Sokol
+074330.html,[Rd] Getting an R bugzilla account,74330,Nathan Sosnovske
+074340.html,[Rd] Getting an R bugzilla account,74340,Nathan Sosnovske
+074279.html,[Rd] SUGGESTION: R Base Packages,74279,"TELLERIA RUIZ DE AGUIRRE, JUAN"
+074284.html,[Rd] SUGGESTION: R Base Packages,74284,"TELLERIA RUIZ DE AGUIRRE, JUAN"
+074176.html,[Rd] R 3.4 and mclapply assertion failure - is this a bug?,74176,Simon Urbanek
+074216.html,[Rd] A few suggestions and perspectives from a PhD student,74216,Hadley Wickham
+074202.html,[Rd] A few suggestions and perspectives from a PhD student,74202,Ista Zahn
+074215.html,[Rd] A few suggestions and perspectives from a PhD student,74215,Ista Zahn
+074180.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74180,peter dalgaard
+074191.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74191,peter dalgaard
+074194.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74194,peter dalgaard
+074199.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74199,peter dalgaard
+074208.html,[Rd] lm() gives different results to lm.ridge() and SPSS,74208,peter dalgaard
+074252.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74252,peter dalgaard
+074255.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74255,peter dalgaard
+074271.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74271,peter dalgaard
+074285.html,[Rd] [R] R-3.4.0 fails test,74285,peter dalgaard
+074290.html,[Rd] [R] R-3.4.0 fails test,74290,peter dalgaard
+074292.html,[Rd] [R] R-3.4.0 fails test,74292,peter dalgaard
+074321.html,[Rd] help pages base R not rendered correctly?,74321,peter dalgaard
+074355.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74355,peter dalgaard
+074371.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74371,peter dalgaard
+074280.html,[Rd] SUGGESTION: R Base Packages,74280,frederik at ofb.net
+074259.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74259,luke-tierney at uiowa.edu
+074268.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74268,luke-tierney at uiowa.edu
+074269.html,[Rd] stopifnot() does not stop at first non-TRUE argument,74269,luke-tierney at uiowa.edu

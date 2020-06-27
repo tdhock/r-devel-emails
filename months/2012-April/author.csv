@@ -1,0 +1,215 @@
+link,Subject,id,author
+063967.html,[Rd] creating a package in R,63967,R. Michael Weylandt &lt;michael.weylandt at gmail.com&gt;
+063902.html,[Rd] combining large list of data.frames,63902,Patrick Aboyoun
+063868.html,[Rd] eval a SYMSXP from C,63868,Whit Armstrong
+063870.html,[Rd] eval a SYMSXP from C,63870,Whit Armstrong
+063903.html,[Rd] R CMD check -- non S3 method warning,63903,Whit Armstrong
+063897.html,[Rd] combining large list of data.frames,63897,Cole Beck
+063917.html,[Rd] combining large list of data.frames,63917,Cole Beck
+063914.html,[Rd] csv version of data in an R object,63914,Gabriel Becker
+063873.html,[Rd] Minor bug: plot.table and Axis.table (partially) ignore graphical parameters (patch included),63873,Martin Becker
+063763.html,[Rd] R datasets ownership(copyright) and license,63763,Claudia Beleites
+063782.html,[Rd] Unlikely use case of debug() that cause R to crash,63782,Henrik Bengtsson
+063799.html,[Rd] R CMD check returns NOTE about package data set as global	variable,63799,Henrik Bengtsson
+063809.html,[Rd] Proposal: Mechanism for controlling the amount of testing 'R CMD check' performs,63809,Henrik Bengtsson
+063822.html,[Rd] unexpectedly high memory use in R 2.14.0,63822,Henrik Bengtsson
+063846.html,[Rd] Vignette questions,63846,Henrik Bengtsson
+063864.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63864,Henrik Bengtsson
+063871.html,[Rd] R --debug crashes R on Windows,63871,Henrik Bengtsson
+063875.html,"[Rd] url, readLines, source behind a proxy",63875,Henrik Bengtsson
+063876.html,[Rd] R --debug crashes R on Windows,63876,Henrik Bengtsson
+063878.html,[Rd] Setting up the NAMESPACE file &quot;automatically&quot; during R CMD	build?,63878,Henrik Bengtsson
+063892.html,[Rd] Column(row)wise minimum and maximum,63892,Henrik Bengtsson
+063901.html,[Rd] R CMD check: Sys.getenv(&quot;R_GSCMD&quot;) cannot contain full pathname (contrary to docs),63901,Henrik Bengtsson
+063923.html,"[Rd] url, readLines, source behind a proxy",63923,Henrik Bengtsson
+063974.html,"[Rd] file.copy(src, src, recursive=TRUE) causes a segfault (Was: Re: R CMD check . segfault on re-building vignettes)",63974,Henrik Bengtsson
+063885.html,[Rd] C - R integration: Memory Issues,63885,Nikolaos Bezirgiannidis
+063898.html,[Rd] C - R integration: Memory Issues,63898,Nikolaos Bezirgiannidis
+063853.html,[Rd] R CMD check with non-standard .libPaths,63853,Ben Bolker
+063855.html,[Rd] no carriage returns in BATCH output from 2.15.0,63855,Patrick Burns
+063767.html,[Rd] R datasets ownership(copyright) and license,63767,Ted Byers
+063802.html,[Rd] issue with base:::namespaceImportMethods,63802,John Chambers
+063959.html,[Rd] globalVariables(),63959,John Chambers
+063780.html,[Rd] &quot;NA&quot; vs. NA,63780,Kevin R. Coombes
+063877.html,[Rd] R --debug crashes R on Windows,63877,Kevin R. Coombes
+063815.html,[Rd] Byte compilation of packages on CRAN,63815,Matthew Dowle
+063825.html,[Rd] Byte compilation of packages on CRAN,63825,Matthew Dowle
+063861.html,"[Rd] I wish xlim=c(0, NA) would work. How about I send you a patch?",63861,William Dunlap
+063893.html,[Rd] Column(row)wise minimum and maximum,63893,William Dunlap
+063774.html,[Rd] &quot;NA&quot; vs. NA,63774,Adrian Dusa
+063776.html,[Rd] &quot;NA&quot; vs. NA,63776,Adrian Dusa
+063778.html,[Rd] &quot;NA&quot; vs. NA,63778,Adrian Dusa
+063804.html,[Rd] Display instruction text on package load,63804,Dirk Eddelbuettel
+063854.html,[Rd] R CMD check with non-standard .libPaths,63854,Dirk Eddelbuettel
+063887.html,[Rd] C - R integration: Memory Issues,63887,Dirk Eddelbuettel
+063928.html,[Rd] Using other peoples packages from within	C-based	R-extension,63928,Dirk Eddelbuettel
+063785.html,[Rd] R datasets ownership(copyright) and license,63785,S Ellison
+063927.html,[Rd] Specifying a function as not being and  S3 Class function,63927,S Ellison
+063872.html,"[Rd] url, readLines, source behind a proxy",63872,Renaud Gaujoux
+063881.html,"[Rd] url, readLines, source behind a proxy",63881,Renaud Gaujoux
+063918.html,"[Rd] url, readLines, source behind a proxy",63918,Renaud Gaujoux
+063820.html,[Rd] Vignette questions,63820,Paul Gilbert
+063834.html,[Rd] Vignette questions,63834,Paul Gilbert
+063765.html,[Rd] R datasets ownership(copyright) and license,63765,Spencer Graves
+063766.html,[Rd] R datasets ownership(copyright) and license,63766,Spencer Graves
+063773.html,[Rd] R datasets ownership(copyright) and license,63773,Spencer Graves
+063781.html,[Rd] R datasets ownership(copyright) and license,63781,Spencer Graves
+063964.html,[Rd] A doubt about substitute() after delayedAssign(),63964,Philippe Grosjean
+063906.html,[Rd] Problem with args,63906,Gabor Grothendieck
+063908.html,[Rd] Problem with args,63908,Gabor Grothendieck
+063910.html,[Rd] Problem with args,63910,Gabor Grothendieck
+063762.html,[Rd] R datasets ownership(copyright) and license,63762,Yaroslav Halchenko
+063768.html,[Rd] R datasets ownership(copyright) and license,63768,Yaroslav Halchenko
+063771.html,[Rd] R datasets ownership(copyright) and license,63771,Yaroslav Halchenko
+063867.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63867,Kasper Daniel Hansen
+063775.html,[Rd] &quot;NA&quot; vs. NA,63775, (Ted Harding)
+063932.html,[Rd] Write unix format files on windows and vice versa,63932, (Ted Harding)
+063958.html,[Rd] How does .Fortran &quot;dqrls&quot; work?,63958,Berend Hasselman
+063972.html,[Rd] The constant part of the log-likelihood in StructTS,63972,Jouni Helske
+063808.html,[Rd] Add DUP = FALSE when tabulate() calls .C(&quot;R_tabulate&quot;,63808,Tim Hesterberg
+063943.html,[Rd] Use of R in C#,63943,Joel
+063858.html,"[Rd] I wish xlim=c(0, NA) would work. How about I send you a patch?",63858,Paul Johnson
+063904.html,[Rd] csv version of data in an R object,63904,Max Kuhn
+063811.html,[Rd] Higher Resolution Icons for Windows / Mac,63811,Mark Lang
+063783.html,[Rd] issue with base:::namespaceImportMethods,63783,Michael Lawrence
+063803.html,[Rd] Display instruction text on package load,63803,Thomas J. Leeper
+063807.html,[Rd] Display instruction text on package load,63807,Thomas J. Leeper
+063895.html,[Rd] Column(row)wise minimum and maximum,63895,Steve Lianoglou
+063935.html,[Rd] Strange behavior of model.frame() when given subset,63935,"Liaw, Andy"
+063936.html,[Rd] Strange behavior of model.frame() when given subset,63936,"Liaw, Andy"
+063826.html,[Rd] Vignette questions,63826,Uwe Ligges
+063827.html,[Rd] Vignette questions,63827,Uwe Ligges
+063828.html,[Rd] Vignette questions,63828,Uwe Ligges
+063835.html,[Rd] Vignette questions,63835,Uwe Ligges
+063847.html,[Rd] R-2.15.0 and Exporting Methods Converted To S4 Generic,63847,Uwe Ligges
+063856.html,[Rd] no carriage returns in BATCH output from 2.15.0,63856,Uwe Ligges
+063947.html,[Rd] Strange bug in my package,63947,Uwe Ligges
+063860.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63860,David L Lorenz
+063956.html,[Rd] How does .Fortran &quot;dqrls&quot; work?,63956,David L Lorenz
+063841.html,[Rd] LazyData and CSV files in data/,63841,Sebastian P. Luque
+063886.html,"[Rd] I wish xlim=c(0, NA) would work. How about I send you a patch?",63886,"MacQueen, Don"
+063761.html,[Rd] CRAN policies,63761,Martin Maechler
+063848.html,[Rd] [patch] giving library() a 'version' argument,63848,Martin Maechler
+063926.html,[Rd] Creating model frame from R formula inside compiled code,63926,Alireza Mahani
+063938.html,[Rd] delayedAssign changing values,63938,"McGehee, Robert"
+063945.html,[Rd] delayedAssign changing values,63945,"McGehee, Robert"
+063787.html,[Rd] R CMD check returns NOTE about package data set as global	variable,63787,Brad McNeney
+063789.html,[Rd] R CMD check returns NOTE about package data set as global variable,63789,Brad McNeney
+063795.html,[Rd] R CMD check returns NOTE about package data set as global variable,63795,Brad McNeney
+063796.html,[Rd] R CMD check returns NOTE about package data set as global variable,63796,Brad McNeney
+063973.html,[Rd] R CMD check . segfault on re-building vignettes,63973,Sebastian Meyer
+063968.html,[Rd] creating a package in R,63968,Joris Meys
+063850.html,[Rd] R-2.15.0 and Exporting Methods Converted To S4 Generic,63850,Martin Morgan
+063777.html,[Rd] &quot;NA&quot; vs. NA,63777,Duncan Murdoch
+063786.html,[Rd] Compatibility problem with R-2.9.0 and R-2.14.0,63786,Duncan Murdoch
+063806.html,[Rd] Display instruction text on package load,63806,Duncan Murdoch
+063829.html,[Rd] [patch] giving library() a 'version' argument,63829,Duncan Murdoch
+063837.html,[Rd] [patch] giving library() a 'version' argument,63837,Duncan Murdoch
+063840.html,[Rd] [patch] giving library() a 'version' argument,63840,Duncan Murdoch
+063857.html,[Rd] no carriage returns in BATCH output from 2.15.0,63857,Duncan Murdoch
+063859.html,"[Rd] I wish xlim=c(0, NA) would work. How about I send you a patch?",63859,Duncan Murdoch
+063863.html,"[Rd] I wish xlim=c(0, NA) would work. How about I send you a patch?",63863,Duncan Murdoch
+063869.html,[Rd] eval a SYMSXP from C,63869,Duncan Murdoch
+063874.html,[Rd] R --debug crashes R on Windows,63874,Duncan Murdoch
+063880.html,[Rd] R-2.15 compile error: fatal error: internal consistency failure,63880,Duncan Murdoch
+063925.html,[Rd] Using other peoples packages from within C-based	R-extension,63925,Duncan Murdoch
+063931.html,[Rd] Write unix format files on windows and vice versa,63931,Duncan Murdoch
+063937.html,[Rd] checkPoFiles function added to R-devel,63937,Duncan Murdoch
+063957.html,[Rd] How does .Fortran &quot;dqrls&quot; work?,63957,Duncan Murdoch
+063965.html,[Rd] A doubt about substitute() after delayedAssign(),63965,Duncan Murdoch
+063954.html,[Rd] Some graphical parameters don't works in plot.table and	plot.TukeyHSD.,63954,Cleber N.Borges
+063953.html,[Rd] Use of R in C#,63953,Joel Nybeck
+063934.html,[Rd] Strange bug in my package,63934,"ONKELINX, Thierry"
+063793.html,[Rd] R CMD check returns NOTE about package data set as global variable,63793,Herv&#233; Pag&#232;s
+063797.html,[Rd] R CMD check returns NOTE about package data set as global variable,63797,Herv&#233; Pag&#232;s
+063800.html,[Rd] R CMD check returns NOTE about package data set as global variable,63800,Herv&#233; Pag&#232;s
+063798.html,[Rd] R CMD check returns NOTE about package data set as global variable,63798,Brian G. Peterson
+063913.html,[Rd] Sending lists using .C,63913,Brian G. Peterson
+063921.html,[Rd] Where to store and how to load support data ?,63921,Charles Plessy
+063922.html,[Rd] Specifying a function as not being and  S3 Class function,63922,Matt Pocernich
+063849.html,[Rd] Reference Class import() behaviour,63849,Simon Potter
+063929.html,[Rd] Write unix format files on windows and vice versa,63929,Andrew Redd
+063788.html,[Rd] R CMD check returns NOTE about package data set as global variable,63788,Prof Brian Ripley
+063791.html,[Rd] R CMD check returns NOTE about package data set as global variable,63791,Prof Brian Ripley
+063805.html,[Rd] Display instruction text on package load,63805,Prof Brian Ripley
+063810.html,[Rd] Add DUP = FALSE when tabulate() calls .C(&quot;R_tabulate&quot;,63810,Prof Brian Ripley
+063823.html,[Rd] Byte compilation of packages on CRAN,63823,Prof Brian Ripley
+063830.html,[Rd] [patch] giving library() a 'version' argument,63830,Prof Brian Ripley
+063882.html,[Rd] R-2.15 compile error: fatal error: internal consistency failure,63882,Prof Brian Ripley
+063905.html,[Rd] R CMD check -- non S3 method warning,63905,Prof Brian Ripley
+063916.html,"[Rd] url, readLines, source behind a proxy",63916,Prof Brian Ripley
+063920.html,[Rd] nobs.glm,63920,Prof Brian Ripley
+063963.html,[Rd] Unable to install rggobi in R 2.15,63963,Prof Brian Ripley
+063812.html,[Rd] R CMD check returns NOTE about package data set as global variable,63812,"Roebuck,Paul L"
+063839.html,[Rd] [patch] giving library() a 'version' argument,63839,"Roebuck,Paul L"
+063843.html,[Rd] R-2.15.0 and Exporting Methods Converted To S4 Generic,63843,"Roebuck,Paul L"
+063844.html,[Rd] [patch] giving library() a 'version' argument,63844,"Roebuck,Paul L"
+063911.html,[Rd] csv version of data in an R object,63911,Barry Rowlingson
+063933.html,[Rd] Using other peoples packages from within C-based	R-extension,63933,Jeffrey Ryan
+063862.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63862,Marc Schwartz
+063896.html,[Rd] Column(row)wise minimum and maximum,63896,Holger Schwender
+063960.html,[Rd] Unable to install rggobi in R 2.15,63960,Indrajit Sengupta
+063961.html,[Rd] Creating a package which contains stand-alone C code,63961,Rajen Shah
+063971.html,[Rd] Creating a package which contains stand-alone C code,63971,Rajen Shah
+063944.html,[Rd] Use of R in C#,63944,Jonathan Shore
+063865.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63865,Greg Snow
+063852.html,[Rd] Creating a reference manual during R CMD build,63852,Dan Tenenbaum
+063814.html,[Rd] Vignette questions,63814,Terry Therneau
+063831.html,[Rd] Vignette questions,63831,Terry Therneau
+063883.html,[Rd] Method=df for coxph in survival package,63883,Terry Therneau
+063884.html,"[Rd] url, readLines, source behind a proxy",63884,Joshua Ulrich
+063899.html,[Rd] C - R integration: Memory Issues,63899,Simon Urbanek
+063907.html,[Rd] Problem with args,63907,Simon Urbanek
+063909.html,[Rd] Problem with args,63909,Simon Urbanek
+063946.html,[Rd] delayedAssign changing values,63946,Simon Urbanek
+063949.html,[Rd] delayedAssign changing values,63949,Simon Urbanek
+063962.html,[Rd] Creating a package which contains stand-alone C code,63962,Simon Urbanek
+063888.html,[Rd] Column(row)wise minimum and maximum,63888,Ravi Varadhan
+063891.html,[Rd] Column(row)wise minimum and maximum,63891,Ravi Varadhan
+063894.html,[Rd] Column(row)wise minimum and maximum,63894,Ravi Varadhan
+063764.html,[Rd] R datasets ownership(copyright) and license,63764,Hadley Wickham
+063769.html,[Rd] R datasets ownership(copyright) and license,63769,Hadley Wickham
+063770.html,[Rd] R datasets ownership(copyright) and license,63770,Hadley Wickham
+063772.html,[Rd] R datasets ownership(copyright) and license,63772,Hadley Wickham
+063779.html,[Rd] R datasets ownership(copyright) and license,63779,Hadley Wickham
+063790.html,[Rd] R CMD check returns NOTE about package data set as global	variable,63790,Hadley Wickham
+063813.html,[Rd] [patch] giving library() a 'version' argument,63813,Ken Williams
+063824.html,[Rd] [patch] giving library() a 'version' argument,63824,Ken Williams
+063833.html,[Rd] [patch] giving library() a 'version' argument,63833,Ken Williams
+063836.html,[Rd] [patch] giving library() a 'version' argument,63836,Ken Williams
+063838.html,[Rd] [patch] giving library() a 'version' argument,63838,Ken Williams
+063842.html,[Rd] [patch] giving library() a 'version' argument,63842,Ken Williams
+063851.html,[Rd] [patch] giving library() a 'version' argument,63851,Ken Williams
+063919.html,[Rd] nobs.glm,63919,Wincent
+063939.html,[Rd] nobs.glm,63939,Wincent
+063816.html,[Rd] Vignette questions,63816,Yihui Xie
+063845.html,[Rd] Vignette questions,63845,Yihui Xie
+063866.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63866,baptiste auguie
+063817.html,[Rd] Vignette questions,63817,"beleites,claudia"
+063912.html,[Rd] Sending lists using .C,63912,chris90nz
+063792.html,[Rd] R CMD check returns NOTE about package data set as global	variable,63792,peter dalgaard
+063794.html,[Rd] R CMD check returns NOTE about package data set as global	variable,63794,peter dalgaard
+063801.html,[Rd] R CMD check returns NOTE about package data set as global	variable,63801,peter dalgaard
+063819.html,[Rd] unexpectedly high memory use in R 2.14.0,63819,peter dalgaard
+063951.html,[Rd] delayedAssign changing values,63951,peter dalgaard
+063900.html,[Rd] Using 'dimname names' in aperm() and apply(),63900,ghostwheel
+063915.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63915,ghostwheel
+063940.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63940,ghostwheel
+063941.html,"[Rd] I wish xlim=c(0,	NA) would work. How about I send you a patch?",63941,ghostwheel
+063948.html,[Rd] delayedAssign changing values,63948,ghostwheel
+063950.html,[Rd] delayedAssign changing values,63950,ghostwheel
+063784.html,[Rd] Compatibility problem with R-2.9.0 and R-2.14.0,63784,harold.petithomme
+063969.html,[Rd] creating a package in R,63969,steven mosher
+063966.html,[Rd] creating a package in R,63966,nossa
+063952.html,[Rd] Use of R in C#,63952,notoriousnoah
+063889.html,[Rd] Column(row)wise minimum and maximum,63889,oliver
+063890.html,[Rd] Column(row)wise minimum and maximum,63890,oliver
+063924.html,[Rd] Using other peoples packages from within C-based R-extension,63924,oliver
+063930.html,[Rd] Using other peoples packages from within C-based R-extension,63930,oliver
+063955.html,[Rd] How does .Fortran &quot;dqrls&quot; work?,63955,cberry at tajo.ucsd.edu
+063942.html,[Rd] How does .Fortran &quot;dqrls&quot; work?,63942,yangleicq
+063970.html,[Rd] How does .Fortran &quot;dqrls&quot; work?,63970,yangleicq
+063818.html,[Rd] unexpectedly high memory use in R 2.14.0,63818,andre zege
+063821.html,[Rd] unexpectedly high memory use in R 2.14.0,63821,andre zege
+063832.html,[Rd] unexpectedly high memory use in R 2.14.0,63832,andre zege
+063879.html,[Rd] R-2.15 compile error: fatal error: internal consistency failure,63879,andre zege

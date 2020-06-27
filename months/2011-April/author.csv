@@ -1,0 +1,393 @@
+link,Subject,id,author
+060646.html,[Rd] useDynLib in older versions e.g. (2.10),60646,Tobias Abenius
+060651.html,[Rd] useDynLib in older versions e.g. (2.10),60651,Tobias Abenius
+060520.html,[Rd] duplicates() function,60520,B77S
+060445.html,[Rd] Activating a Regular Binding,60445,Gabriel Becker
+060394.html,[Rd] logos,60394,Claudia Beleites
+060398.html,[Rd] reg.finalizer(): Multiple finalizers?,60398,Henrik Bengtsson
+060402.html,"[Rd] Inconsistency: sort(NULL)/sort.int(NULL) does not throw an error, cf. order(NULL), sort.int(NULL, index.return=TRUE), ...",60402,Henrik Bengtsson
+060427.html,[Rd] Rtools questions,60427,Henrik Bengtsson
+060430.html,[Rd] R CMD check for 2.13 rc,60430,Henrik Bengtsson
+060443.html,[Rd] Rtools questions,60443,Henrik Bengtsson
+060556.html,[Rd] Signal handling / alarm timeouts,60556,Henrik Bengtsson
+060563.html,[Rd] Excited about the near future...,60563,Henrik Bengtsson
+060487.html,[Rd] stats/arima.c memory allocation,60487,Matteo Bertini
+060524.html,[Rd] pd,60524,Ben Bolker
+060565.html,"[Rd] bug in hist.POSIXt , hist.Date",60565,Ben Bolker
+060739.html,[Rd] request for R-exts addition,60739,Ben Bolker
+060465.html,[Rd] super basic questions about S4 classes,60465,Andreas Borg
+060414.html,[Rd] Names of a data set in a package,60414,G&#246;ran Brostr&#246;m
+060420.html,[Rd] Names of a data set in a package,60420,G&#246;ran Brostr&#246;m
+060424.html,[Rd] Names of a data set in a package,60424,G&#246;ran Brostr&#246;m
+060620.html,[Rd] self-referential representations in S4,60620,James Bullard
+060731.html,[Rd] median and data frames,60731,Patrick Burns
+060761.html,[Rd] median and data frames,60761,Patrick Burns
+060746.html,[Rd] MDX package?,60746,Kevin Burton
+060389.html,[Rd] Phrase &quot;package writer&quot; in R-exts,60389,Ted Byers
+060418.html,[Rd] question about assignment warnings for replacement methods,60418,Marc Carlson
+060422.html,[Rd] question about assignment warnings for replacement methods,60422,Marc Carlson
+060442.html,[Rd] S4 generic functions/methods vs enclosures,60442,John Chambers
+060458.html,[Rd] How to debug reference classes?,60458,John Chambers
+060462.html,[Rd] How to debug reference classes?,60462,John Chambers
+060628.html,[Rd] self-referential representations in S4,60628,John Chambers
+060677.html,[Rd] problem subsetting of a reference class,60677,John Chambers
+060566.html,[Rd] Reading 64-bit integers,60566,Jon Clayden
+060600.html,[Rd] How to get R to compile with PNG support,60600,Karl-Dieter Crisman
+060644.html,[Rd] How to get R to compile with PNG support,60644,Karl-Dieter Crisman
+060645.html,[Rd] How to get R to compile with PNG support,60645,Karl-Dieter Crisman
+060663.html,[Rd] How to get R to compile with PNG support,60663,Karl-Dieter Crisman
+060674.html,[Rd] How to get R to compile with PNG support,60674,Karl-Dieter Crisman
+060387.html,[Rd] Phrase &quot;package writer&quot; in R-exts,60387,Davor Cubranic
+060396.html,[Rd] Phrase &quot;package writer&quot; in R-exts,60396,Davor Cubranic
+060529.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60529,Davor Cubranic
+060619.html,[Rd] Sweave tokens not in column 1: enhancement request,60619,David.Epstein
+060643.html,[Rd] Sweave tokens not in column 1: enhancement request,60643,David.Epstein
+060577.html,[Rd] Using GSL Routines,60577,Mohit Dayal
+060590.html,[Rd] Tail Call Elimination?,60590,Mohit Dayal
+060602.html,[Rd] Dangerous Bug with IF function of R,60602,Brian Diggs
+060718.html,[Rd] help.request() for packages?,60718,Matthew Dowle
+060409.html,[Rd] [[.data.frame oddity,60409,William Dunlap
+060478.html,[Rd] duplicates() function,60478,William Dunlap
+060532.html,[Rd] sort.int(S3object) strips class but not the is.object flag,60532,William Dunlap
+060533.html,[Rd] sort.int(S3object) strips class but not the is.object flag,60533,William Dunlap
+060550.html,"[Rd] all.equal(data.frame(package_version()),	...) infinite recursion",60550,William Dunlap
+060630.html,[Rd] Make as.factor an S3 generic?,60630,William Dunlap
+060758.html,[Rd] median and data frames,60758,William Dunlap
+060617.html,[Rd] An update of the Distribustions man page,60617,Christophe Dutang
+060728.html,[Rd] on the Distribution task view,60728,Christophe Dutang
+060730.html,[Rd] Wish R Core had a standard format (or generic function) for &quot;newdata&quot; objects,60730,Christophe Dutang
+060435.html,[Rd] Rcheck Directory,60435,Dirk Eddelbuettel
+060570.html,[Rd] Problem with dyn.load in R 2.13.0,60570,Dirk Eddelbuettel
+060656.html,[Rd] How to get R to compile with PNG support,60656,Dirk Eddelbuettel
+060657.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60657,Dirk Eddelbuettel
+060659.html,[Rd] BOOST libraries,60659,Dirk Eddelbuettel
+060664.html,[Rd] How to get R to compile with PNG support,60664,Dirk Eddelbuettel
+060703.html,[Rd] possible minor doc clarification?,60703,Peter Ehlers
+060738.html,[Rd] median and data frames,60738,S Ellison
+060399.html,[Rd] Suggests and examples,60399,Jay Emerson
+060401.html,[Rd] Suggests and examples,60401,Jay Emerson
+060597.html,[Rd] sessionInfo() and byte compiler,60597,Allan Engelhardt
+060639.html,[Rd] possible minor bug in fisher.test,60639,"Fay, Michael (NIH/NIAID) [E]"
+060706.html,[Rd] Interrupting C++ code execution,60706,Thomas Friedrichsmeier
+060483.html,"[Rd] Consistency of messages from R CMD {check,build,install}",60483,Michael Friendly
+060381.html,[Rd] Adding a &quot;description&quot; meta-tag to the R homepage,60381,Tal Galili
+060397.html,[Rd] Adding a &quot;description&quot; meta-tag to the R homepage,60397,Tal Galili
+060595.html,[Rd] Patching &quot;update.packages&quot; to enable updating of only a user defined subset of packages,60595,Tal Galili
+060649.html,[Rd] Patching &quot;update.packages&quot; to enable updating of only a user defined subset of packages,60649,Tal Galili
+060769.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60769,Chad Goymer
+060436.html,[Rd] Rtools questions,60436,Spencer Graves
+060423.html,[Rd] Rtools questions,60423,Spencer Graves
+060437.html,[Rd] Rtools questions,60437,Spencer Graves
+060431.html,[Rd] Rtools questions,60431,Spencer Graves
+060433.html,[Rd] Rtools questions,60433,Spencer Graves
+060494.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60494,Spencer Graves
+060496.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60496,Spencer Graves
+060497.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60497,Spencer Graves
+060503.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60503,Spencer Graves
+060531.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60531,Spencer Graves
+060538.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60538,Spencer Graves
+060408.html,[Rd] Rtools and MinGW,60408,Gabor Grothendieck
+060415.html,[Rd] Names of a data set in a package,60415,Gabor Grothendieck
+060421.html,[Rd] Names of a data set in a package,60421,Gabor Grothendieck
+060429.html,[Rd] Rtools questions,60429,Gabor Grothendieck
+060432.html,[Rd] Rtools questions,60432,Gabor Grothendieck
+060439.html,[Rd] Rtools questions,60439,Gabor Grothendieck
+060502.html,[Rd] Rtools questions,60502,Gabor Grothendieck
+060611.html,[Rd] help with eval(),60611,Gabor Grothendieck
+060662.html,[Rd] R CMD Sweave versus Sweave() on Windows,60662,Gabor Grothendieck
+060726.html,[Rd] Wish R Core had a standard format (or generic function) for &quot;newdata&quot; objects,60726,Gabor Grothendieck
+060749.html,[Rd] error while checking package size during Rcmd check,60749,Gabor Grothendieck
+060750.html,[Rd] error while checking package size during Rcmd check,60750,Gabor Grothendieck
+060474.html,[Rd] duplicates() function,60474,Kasper Daniel Hansen
+060576.html,[Rd] Problem with dyn.load in R 2.13.0 -- the real problem,60576,Kasper Daniel Hansen
+060655.html,[Rd] R CMD Sweave versus Sweave() on Windows,60655,Kasper Daniel Hansen
+060692.html,[Rd] Loading a package,60692,Kasper Daniel Hansen
+060492.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60492, (Ted Harding)
+060767.html,[Rd] median and data frames,60767,Tim Hesterberg
+060552.html,[Rd] parse_Rd raises error when example section contains a quoted	percent character,60552,Jeffrey Horner
+060553.html,[Rd] parse_Rd raises error when example section contains a quoted percent character,60553,Jeffrey Horner
+060448.html,[Rd] Proposed modification to decompose() and plot.decomposed.ts(),60448,Rob J Hyndman
+060603.html,[Rd]  R fails on Windows 2008 Server,60603,Shawna JOB
+060537.html,[Rd] Conditional &quot;Suggests&quot;,60537,Geoff Jentry
+060542.html,[Rd] Conditional &quot;Suggests&quot;,60542,Geoff Jentry
+060548.html,[Rd] Conditional &quot;Suggests&quot;,60548,Geoff Jentry
+060489.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about	You?,60489,Paul Johnson
+060716.html,[Rd] Wish R Core had a standard format (or generic function) for	&quot;newdata&quot; objects,60716,Paul Johnson
+060729.html,[Rd] Wish R Core had a standard format (or generic function) for &quot;newdata&quot; objects,60729,Paul Johnson
+060736.html,[Rd] median and data frames,60736,Paul Johnson
+060546.html,[Rd] Conditional &quot;Suggests&quot;,60546,Friedrich Leisch
+060627.html,[Rd] Sweave tokens not in column 1: enhancement request,60627,Friedrich Leisch
+060382.html,[Rd] &quot;R CMD check&quot; accepts but &quot;R CMD INSTALL&quot; rejects a tar ball.,60382,Hin-Tak Leung
+060383.html,[Rd] Fw: Re: core Matrix package segfaulted on R CMD check --use-gct,60383,Hin-Tak Leung
+060385.html,[Rd] &quot;R CMD check&quot; accepts but &quot;R CMD INSTALL&quot; rejects a tar	ball.,60385,Hin-Tak Leung
+060392.html,[Rd] &quot;R CMD check&quot; accepts but &quot;R CMD INSTALL&quot; rejects a tar	ball.,60392,Hin-Tak Leung
+060447.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60447,Hin-Tak Leung
+060451.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60451,Hin-Tak Leung
+060460.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60460,Hin-Tak Leung
+060459.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60459,Hin-Tak Leung
+060480.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60480,Hin-Tak Leung
+060519.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60519,Hin-Tak Leung
+060754.html,[Rd] R CMD check and Suggests Packages,60754,Steve Lianoglou
+060400.html,[Rd] Suggests and examples,60400,Uwe Ligges
+060527.html,[Rd] R CMD build --resave-data,60527,Uwe Ligges
+060528.html,[Rd] duplicates() function,60528,Uwe Ligges
+060567.html,[Rd] R CMD build --resave-data,60567,Uwe Ligges
+060587.html,[Rd] DESCRIPTION file and Rd examples,60587,Uwe Ligges
+060650.html,[Rd] useDynLib in older versions e.g. (2.10),60650,Uwe Ligges
+060652.html,[Rd] useDynLib in older versions e.g. (2.10),60652,Uwe Ligges
+060690.html,[Rd] How to create vignette.pdf for R-2.13.0?,60690,Uwe Ligges
+060691.html,[Rd] Loading a package,60691,Uwe Ligges
+060693.html,"[Rd] R 2.13.0-beta for Windows, file.copy() throws suspicious errors due to default value of copy.mode",60693,Uwe Ligges
+060695.html,[Rd] How to create vignette.pdf for R-2.13.0?,60695,Uwe Ligges
+060699.html,[Rd] How to create vignette.pdf for R-2.13.0?,60699,Uwe Ligges
+060725.html,[Rd] How to create vignette.pdf for R-2.13.0?,60725,Uwe Ligges
+060615.html,[Rd] Dangerous Bug with IF function of R,60615,Robert Lowe
+060593.html,[Rd] DESCRIPTION file and Rd examples,60593,Thomas Lumley
+060449.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60449,Martin Maechler
+060450.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60450,Martin Maechler
+060453.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60453,Martin Maechler
+060518.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60518,Martin Maechler
+060514.html,[Rd] R CMD build now removes empty dirs,60514,Martin Maechler
+060562.html,[Rd] R CMD build --resave-data,60562,Martin Maechler
+060614.html,[Rd] Dangerous Bug with IF function of R,60614,Martin Maechler
+060685.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60685,Martin Maechler
+060686.html,[Rd] An update of the Distribustions man page,60686,Martin Maechler
+060753.html,[Rd] request for R-exts addition,60753,Martin Maechler
+060755.html,[Rd] median and data frames,60755,Martin Maechler
+060770.html,[Rd] Kendall's tau code,60770,Martin Maechler
+060484.html,[Rd] Compression of largish expression array files in the	DAAGbio/inst/doc directory?,60484,John Maindonald
+060486.html,[Rd] Compression of largish expression array files in the	DAAGbio/inst/doc directory?,60486,John Maindonald
+060404.html,[Rd] Rtools and MinGW,60404,Thomas Mang
+060406.html,[Rd] Rtools and MinGW,60406,Thomas Mang
+060647.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60647,Sean Robert McGuffee
+060666.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60666,Sean Robert McGuffee
+060670.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60670,Sean Robert McGuffee
+060671.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60671,Sean Robert McGuffee
+060673.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60673,Sean Robert McGuffee
+060679.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60679,Sean Robert McGuffee
+060682.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60682,Sean Robert McGuffee
+060684.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60684,Sean Robert McGuffee
+060720.html,[Rd] Interrupting C++ code execution,60720,Sean Robert McGuffee
+060733.html,[Rd] Thread synchronization [Was: Interrupting C++ code	execution],60733,Sean Robert McGuffee
+060467.html,[Rd] Invalid connection after closing?,60467,Joris Meys
+060472.html,[Rd] Invalid connection after closing?,60472,Joris Meys
+060543.html,[Rd] proposal for adapting code of function gl(),60543,Joris Meys
+060545.html,[Rd] proposal for adapting code of function gl(),60545,Joris Meys
+060564.html,"[Rd] bug in hist.POSIXt , hist.Date",60564,Joris Meys
+060580.html,[Rd] Postscript can be very slow in R 2.13-0,60580,Stephen Milborrow
+060571.html,[Rd] Problem with dyn.load in R 2.13.0,60571,Martin Morgan
+060589.html,[Rd] DESCRIPTION file and Rd examples,60589,Martin Morgan
+060622.html,[Rd] Package Name Not Found Warning,60622,Martin Morgan
+060624.html,[Rd] Package Name Not Found Warning,60624,Martin Morgan
+060629.html,[Rd] Make as.factor an S3 generic?,60629,Martin Morgan
+060637.html,[Rd] Make as.factor an S3 generic?,60637,Martin Morgan
+060638.html,[Rd] Make as.factor an S3 generic?,60638,Martin Morgan
+060757.html,[Rd] R CMD check and Suggests Packages,60757,Martin Morgan
+060762.html,[Rd] Windows Rzlib.dll gzopen and friends,60762,Martin Morgan
+060407.html,[Rd] Rtools and MinGW,60407,Duncan Murdoch
+060419.html,[Rd] question about assignment warnings for replacement methods,60419,Duncan Murdoch
+060426.html,[Rd] Rtools questions,60426,Duncan Murdoch
+060438.html,[Rd] Rtools questions,60438,Duncan Murdoch
+060441.html,[Rd] Rtools questions,60441,Duncan Murdoch
+060468.html,[Rd] duplicates() function,60468,Duncan Murdoch
+060470.html,[Rd] Invalid connection after closing?,60470,Duncan Murdoch
+060473.html,[Rd] duplicates() function,60473,Duncan Murdoch
+060490.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60490,Duncan Murdoch
+060491.html,[Rd] Rtools questions,60491,Duncan Murdoch
+060495.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60495,Duncan Murdoch
+060500.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60500,Duncan Murdoch
+060501.html,[Rd] deparse operators in expressions,60501,Duncan Murdoch
+060509.html,[Rd] deparse operators in expressions,60509,Duncan Murdoch
+060534.html,[Rd] sort.int(S3object) strips class but not the is.object flag,60534,Duncan Murdoch
+060535.html,[Rd] duplicates() function,60535,Duncan Murdoch
+060536.html,[Rd] sort.int(S3object) strips class but not the is.object flag,60536,Duncan Murdoch
+060540.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60540,Duncan Murdoch
+060549.html,[Rd] Text differencing code in R?,60549,Duncan Murdoch
+060610.html,[Rd] help with eval(),60610,Duncan Murdoch
+060618.html,[Rd] Sweave support added to rgl package,60618,Duncan Murdoch
+060634.html,[Rd] Sweave support added to rgl package,60634,Duncan Murdoch
+060635.html,[Rd] Sweave support added to rgl package,60635,Duncan Murdoch
+060642.html,[Rd] Sweave support added to rgl package,60642,Duncan Murdoch
+060654.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60654,Duncan Murdoch
+060668.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60668,Duncan Murdoch
+060675.html,[Rd] Sweave support added to rgl package,60675,Duncan Murdoch
+060705.html,[Rd] How to create vignette.pdf for R-2.13.0?,60705,Duncan Murdoch
+060708.html,[Rd] How to create vignette.pdf for R-2.13.0?,60708,Duncan Murdoch
+060710.html,[Rd] How to create vignette.pdf for R-2.13.0?,60710,Duncan Murdoch
+060722.html,[Rd] Wish R Core had a standard format (or generic function) for &quot;newdata&quot; objects,60722,Duncan Murdoch
+060744.html,[Rd] GPLv2-only code in R?,60744,Duncan Murdoch
+060380.html,[Rd] SurviveGotoBLAS2 for Win64 (RC release),60380,Ei-ji Nakama
+060700.html,[Rd] possible minor doc clarification?,60700,Sean O'Riordain
+060481.html,[Rd] question about assignment warnings for replacement methods,60481,Herv&#233; Pag&#232;s
+060510.html,[Rd] question about assignment warnings for replacement methods,60510,Herv&#233; Pag&#232;s
+060511.html,[Rd] R CMD build now removes empty dirs,60511,Herv&#233; Pag&#232;s
+060512.html,[Rd] R CMD build --resave-data,60512,Herv&#233; Pag&#232;s
+060557.html,[Rd] R CMD build --resave-data,60557,Herv&#233; Pag&#232;s
+060561.html,[Rd] R CMD build --resave-data,60561,Herv&#233; Pag&#232;s
+060568.html,[Rd] R CMD build --resave-data,60568,Herv&#233; Pag&#232;s
+060763.html,[Rd] R CMD build processes inst/doc/Makefile only if there are vignette files?,60763,Herv&#233; Pag&#232;s
+060579.html,[Rd] S4 plus &lt;tab&gt;,60579,James Perkins
+060653.html,[Rd] R CMD Sweave versus Sweave() on Windows,60653,"Pfaff, Bernhard Dr."
+060660.html,[Rd] R CMD Sweave versus Sweave() on Windows,60660,"Pfaff, Bernhard Dr."
+060689.html,[Rd] Loading a package,60689,Orin Richards
+060405.html,[Rd] Rtools and MinGW,60405,Prof Brian Ripley
+060411.html,[Rd] Use keep.source for function in package with lazy loading,60411,Prof Brian Ripley
+060466.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60466,Prof Brian Ripley
+060477.html,[Rd] Invalid connection after closing?,60477,Prof Brian Ripley
+060485.html,[Rd] Compression of largish expression array files in the DAAGbio/inst/doc directory?,60485,Prof Brian Ripley
+060499.html,[Rd] Use keep.source for function in package with lazy loading,60499,Prof Brian Ripley
+060525.html,[Rd] Inconsistency between rowMeans documentation and reality?,60525,Prof Brian Ripley
+060596.html,[Rd] R script in batch mode,60596,Prof Brian Ripley
+060606.html,[Rd] Statonnector fails (was Re: R fails on Windows 2008 Server),60606,Prof Brian Ripley
+060612.html,[Rd] help with eval(),60612,Prof Brian Ripley
+060636.html,[Rd] Make as.factor an S3 generic?,60636,Prof Brian Ripley
+060648.html,[Rd] Window binary packages built for R 2.13.0 do not work in 2.10.0 (was useDynLib in older versions e.g. (2.10)),60648,Prof Brian Ripley
+060658.html,[Rd] R CMD Sweave versus Sweave() on Windows,60658,Prof Brian Ripley
+060745.html,[Rd] GPLv2-only code in R?,60745,Prof Brian Ripley
+060752.html,[Rd] R CMD check and Suggests Packages,60752,Prof Brian Ripley
+060766.html,[Rd] R CMD build processes inst/doc/Makefile only if there are vignette files?,60766,Prof Brian Ripley
+060390.html,[Rd] Adding a &quot;description&quot; meta-tag to the R homepage,60390,"Roebuck,Paul L"
+060539.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60539,"Roebuck,Paul L"
+060513.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60513,Barry Rowlingson
+060737.html,[Rd] Interrupting C++ code execution,60737,Andrew Runnalls
+060719.html,[Rd] help.request() for packages?,60719,Jeffrey Ryan
+060591.html,[Rd] Tail Call Elimination?,60591,Dominick Samperi
+060599.html,[Rd] Tail Call Elimination?,60599,Dominick Samperi
+060633.html,[Rd] Sweave support added to rgl package,60633,Dominick Samperi
+060641.html,[Rd] Sweave support added to rgl package,60641,Dominick Samperi
+060488.html,[Rd] duplicates() function,60488,Petr Savicky
+060547.html,[Rd] duplicates() function,60547,Petr Savicky
+060604.html,[Rd] Dangerous Bug with IF function of R,60604,Petr Savicky
+060680.html,[Rd] Patch for hist.Date() function in datetime.R,60680,Marc Schwartz
+060454.html,"[Rd] R 2.13.0-beta for Windows, file.copy() throws suspicious errors due to default value of copy.mode",60454,Sharpie
+060626.html,[Rd] How to get R to compile with PNG support,60626,Sharpie
+060631.html,[Rd] Sweave support added to rgl package,60631,Sharpie
+060632.html,[Rd] Patching &quot;update.packages&quot; to enable updating of only a user defined subset of packages,60632,Sharpie
+060678.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60678,Sharpie
+060681.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60681,Sharpie
+060661.html,[Rd] How to get R to compile with PNG support,60661,Matt Shotwell
+060412.html,[Rd] Inconsistency between rowMeans documentation and reality?,60412,Gavin Simpson
+060526.html,[Rd] Inconsistency between rowMeans documentation and reality?,60526,Gavin Simpson
+060742.html,[Rd] GPLv2-only code in R?,60742,Brett Smith
+060410.html,[Rd] Use keep.source for function in package with lazy loading,60410,Greg Snow
+060416.html,[Rd] Use keep.source for function in package with lazy loading,60416,Greg Snow
+060607.html,[Rd] Use keep.source for function in package with lazy loading,60607,Greg Snow
+060748.html,[Rd] Wish R Core had a standard format (or generic function) for &quot;newdata&quot; objects,60748,Greg Snow
+060555.html,[Rd] Signal handling / alarm timeouts,60555,Murray Stokely
+060428.html,[Rd] R CMD check for 2.13 rc,60428,Dario Strbenac
+060434.html,[Rd] Rcheck Directory,60434,Dario Strbenac
+060446.html,[Rd] R CMD check for 2.13 rc,60446,Dario Strbenac
+060583.html,[Rd] DESCRIPTION file and Rd examples,60583,Dario Strbenac
+060592.html,[Rd] DESCRIPTION file and Rd examples,60592,Dario Strbenac
+060621.html,[Rd] Package Name Not Found Warning,60621,Dario Strbenac
+060623.html,[Rd] Package Name Not Found Warning,60623,Dario Strbenac
+060625.html,[Rd] Package Name Not Found Warning,60625,Dario Strbenac
+060751.html,[Rd] R CMD check and Suggests Packages,60751,Dario Strbenac
+060765.html,[Rd] R CMD check and Suggests Packages,60765,Dario Strbenac
+060379.html,[Rd] Problem running &quot;make bitmapdll&quot; with R-2.13 beta r55221	on Windows,60379,Dan Tenenbaum
+060569.html,[Rd] Problem with dyn.load in R 2.13.0,60569,Terry Therneau
+060573.html,[Rd] Problem with dyn.load in R 2.13.0 -- the real problem,60573,Terry Therneau
+060575.html,[Rd] Problem with dyn.load in R 2.13.0,60575,Terry Therneau
+060585.html,[Rd] predict(),60585,Terry Therneau
+060586.html,[Rd] predict(),60586,Terry Therneau
+060609.html,[Rd] help with eval(),60609,Terry Therneau
+060616.html,"[Rd] R-devel Digest, Vol 98, Issue 19",60616,Terry Therneau
+060727.html,[Rd] standard format for newdata objects,60727,Terry Therneau
+060581.html,[Rd] Possible bug in 'relist()' and/or 'as.relistable()',60581,Janko Thyson
+060469.html,[Rd] duplicates() function,60469,Joshua Ulrich
+060476.html,[Rd] duplicates() function,60476,Joshua Ulrich
+060672.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60672,Joshua Ulrich
+060384.html,[Rd] &quot;R CMD check&quot; accepts but &quot;R CMD INSTALL&quot; rejects a tar	ball.,60384,Simon Urbanek
+060386.html,[Rd] &quot;R CMD check&quot; accepts but &quot;R CMD INSTALL&quot; rejects a tar	ball.,60386,Simon Urbanek
+060395.html,[Rd] logos,60395,Simon Urbanek
+060425.html,[Rd] Rtools questions,60425,Simon Urbanek
+060456.html,[Rd] anyway to get R unevaluated expr independent on arguments,60456,Simon Urbanek
+060482.html,[Rd] question about assignment warnings for replacement methods,60482,Simon Urbanek
+060530.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What,60530,Simon Urbanek
+060558.html,[Rd] R CMD build --resave-data,60558,Simon Urbanek
+060560.html,[Rd] R CMD build --resave-data,60560,Simon Urbanek
+060572.html,[Rd] Problem with dyn.load in R 2.13.0,60572,Simon Urbanek
+060574.html,[Rd] Problem with dyn.load in R 2.13.0 -- the real problem,60574,Simon Urbanek
+060582.html,[Rd] Possible bug in 'relist()' and/or 'as.relistable()',60582,Simon Urbanek
+060588.html,[Rd] DESCRIPTION file and Rd examples,60588,Simon Urbanek
+060665.html,[Rd] How to get R to compile with PNG support,60665,Simon Urbanek
+060667.html,[Rd] FW: [Rcpp-devel] Question on 5.6 Interfacing C++ code,60667,Simon Urbanek
+060669.html,[Rd] How to get R to compile with PNG support,60669,Simon Urbanek
+060683.html,[Rd] using autoconf in packages [Was: Question on 5.6 Interfacing	C++ code],60683,Simon Urbanek
+060698.html,[Rd] Interrupting C++ code execution,60698,Simon Urbanek
+060701.html,[Rd] Interrupting C++ code execution,60701,Simon Urbanek
+060702.html,[Rd] Interrupting C++ code execution,60702,Simon Urbanek
+060715.html,[Rd] Interrupting C++ code execution,60715,Simon Urbanek
+060723.html,[Rd] Thread synchronization [Was: Interrupting C++ code execution],60723,Simon Urbanek
+060734.html,[Rd] Thread synchronization [Was: Interrupting C++ code	execution],60734,Simon Urbanek
+060756.html,[Rd] R CMD check and Suggests Packages,60756,Simon Urbanek
+060515.html,[Rd] open.exe Virus W32.ATRAPS,60515,Costas Vorlow
+060391.html,[Rd] Adding a &quot;description&quot; meta-tag to the R homepage,60391,Hadley Wickham
+060413.html,[Rd] Bug in as.data.frame.POSIXct?,60413,Hadley Wickham
+060471.html,[Rd] duplicates() function,60471,Hadley Wickham
+060493.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60493,Hadley Wickham
+060505.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60505,Hadley Wickham
+060541.html,[Rd] Conditional &quot;Suggests&quot;,60541,Hadley Wickham
+060559.html,[Rd] R CMD build --resave-data,60559,Hadley Wickham
+060759.html,[Rd] median and data frames,60759,Hadley Wickham
+060760.html,[Rd] R CMD check and Suggests Packages,60760,Hadley Wickham
+060403.html,[Rd] [R-sig-ME] Documentation for the glm module in jags/rjags?,60403,Wincent
+060393.html,[Rd] Phrase &quot;package writer&quot; in R-exts,60393,Kevin Wright
+060498.html,[Rd] deparse operators in expressions,60498,Yihui Xie
+060507.html,[Rd] deparse operators in expressions,60507,Yihui Xie
+060687.html,"[Rd] R 2.13.0-beta for Windows, file.copy() throws suspicious errors due to default value of copy.mode",60687,Yihui Xie
+060741.html,[Rd] patch about recent cairo device on win32,60741,Gong Yu
+060743.html,[Rd] cairo device on win32 without gtk2,60743,Gong Yu
+060747.html,[Rd] problems of new cairo device on win32,60747,Gong Yu
+060417.html,[Rd] super basic questions about S4 classes,60417,A Zege
+060440.html,[Rd] S4 generic functions/methods vs enclosures,60440,A Zege
+060444.html,[Rd] S4 generic functions/methods vs enclosures,60444,A Zege
+060452.html,[Rd] How to debug reference classes?,60452,A Zege
+060475.html,[Rd] How to debug reference classes?,60475,A Zege
+060676.html,[Rd] problem subsetting of a reference class,60676,A Zege
+060455.html,[Rd] anyway to get R unevaluated expr independent on arguments,60455,"Zheng, Xin (NIH) [C]"
+060457.html,[Rd] anyway to get R unevaluated expr independent on arguments,60457,"Zheng, Xin (NIH) [C]"
+060740.html,[Rd] Interrupting C++ code execution,60740,peterhepperger at arcor.de
+060697.html,[Rd] Interrupting C++ code execution,60697,schattenpflanze at arcor.de
+060712.html,[Rd] Interrupting C++ code execution,60712,schattenpflanze at arcor.de
+060713.html,[Rd] Interrupting C++ code execution,60713,schattenpflanze at arcor.de
+060714.html,[Rd] Interrupting C++ code execution,60714,schattenpflanze at arcor.de
+060721.html,[Rd] grid stringHeight,60721,baptiste auguie
+060764.html,[Rd] grid stringHeight,60764,baptiste auguie
+060461.html,[Rd] How to debug reference classes?,60461,Mark.Bravington at csiro.au
+060463.html,[Rd] How to debug reference classes?,60463,Mark.Bravington at csiro.au
+060688.html,[Rd] How to create vignette.pdf for R-2.13.0?,60688,cstrato
+060694.html,[Rd] How to create vignette.pdf for R-2.13.0?,60694,cstrato
+060696.html,[Rd] How to create vignette.pdf for R-2.13.0?,60696,cstrato
+060704.html,[Rd] How to create vignette.pdf for R-2.13.0?,60704,cstrato
+060707.html,[Rd] How to create vignette.pdf for R-2.13.0?,60707,cstrato
+060709.html,[Rd] How to create vignette.pdf for R-2.13.0?,60709,cstrato
+060711.html,[Rd] How to create vignette.pdf for R-2.13.0?,60711,cstrato
+060717.html,[Rd] How to create vignette.pdf for R-2.13.0?,60717,cstrato
+060735.html,[Rd] How to create vignette.pdf for R-2.13.0?,60735,cstrato
+060388.html,[Rd] Adding a &quot;description&quot; meta-tag to the R homepage,60388,peter dalgaard
+060479.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60479,peter dalgaard
+060464.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60464,peter dalgaard
+060504.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What	about You?,60504,peter dalgaard
+060508.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What	about You?,60508,peter dalgaard
+060523.html,[Rd] open.exe Virus W32.ATRAPS,60523,peter dalgaard
+060544.html,[Rd] proposal for adapting code of function gl(),60544,peter dalgaard
+060551.html,[Rd] proposal for adapting code of function gl(),60551,peter dalgaard
+060554.html,[Rd] parse_Rd raises error when example section contains a	quoted percent character,60554,peter dalgaard
+060584.html,[Rd] [R] predict(),60584,peter dalgaard
+060613.html,[Rd] help with eval(),60613,peter dalgaard
+060640.html,[Rd] possible minor bug in fisher.test,60640,peter dalgaard
+060724.html,[Rd] Wish R Core had a standard format (or generic function)	for &quot;newdata&quot; objects,60724,peter dalgaard
+060732.html,[Rd] median and data frames,60732,peter dalgaard
+060578.html,[Rd] Using GSL Routines,60578,robin hankin
+060594.html,[Rd] R script in batch mode,60594,jusce
+060768.html,[Rd] Kendall's tau code,60768,SeshanV at mskcc.org
+060521.html,[Rd] pd,60521,marc rousseau
+060601.html,[Rd] Dangerous Bug with IF function of R,60601,salmajj
+060605.html,[Rd] Dangerous Bug with IF function of R,60605,salmajj
+060516.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60516,luke-tierney at uiowa.edu
+060517.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60517,luke-tierney at uiowa.edu
+060506.html,[Rd] Wish there were a &quot;strict mode&quot; for R interpreter. What about You?,60506,luke-tierney at uiowa.edu
+060598.html,[Rd] Tail Call Elimination?,60598,luke-tierney at uiowa.edu
+060608.html,[Rd] Tail Call Elimination?,60608,luke-tierney at uiowa.edu
+060522.html,[Rd] &#37319;&#36141;&#27969;&#31243;&#20248;&#21270;&#21450;&#20379;&#24212;&#21830;&#35780;&#20272;&#19982;&#31649;&#29702;,60522,&#20379;&#24212;&#21830;&#31649;&#29702;

@@ -1,0 +1,205 @@
+link,Subject,id,author
+070176.html,[Rd] R string comparisons may vary with platform (plain text),70176,Stuart Ambler
+070178.html,[Rd] R string comparisons may vary with platform (plain text),70178,Stuart Ambler
+070207.html,[Rd] Feature request: mixing `...` (three dots) with other formal arguments in S4 methods,70207,Gabriel Becker
+070211.html,[Rd] Feature request: mixing `...` (three dots) with other formal arguments in S4 methods,70211,Gabriel Becker
+070024.html,[Rd] Trouble installing Rcpp on AIX - missing &quot;execinfo.h&quot;,70024,Mike Beddo
+070082.html,[Rd] Citation if copying R base code,70082,Henrik Bengtsson
+070100.html,[Rd] package vignettes build in the same R process?,70100,Henrik Bengtsson
+070137.html,[Rd] How to maintain memory in R extension,70137,Henrik Bengtsson
+070155.html,"[Rd] Error &quot;promise already under evaluation ...&quot; with function(x,	dim=dim(x))",70155,Henrik Bengtsson
+070156.html,[Rd] Code tools for identifying which package A functions package B	use?,70156,Henrik Bengtsson
+070158.html,[Rd] Code tools for identifying which package A functions package B use?,70158,Henrik Bengtsson
+070170.html,[Rd] Cursor not behaving properly,70170,Henrik Bengtsson
+070179.html,[Rd] R string comparisons may vary with platform (plain text),70179,Henrik Bengtsson
+070180.html,"[Rd] Rprof(...,	memory.profiling=TRUE) to profile C memory allocation?",70180,Henrik Bengtsson
+070184.html,"[Rd] Error &quot;promise already under evaluation ...&quot; with function(x, dim=dim(x))",70184,Henrik Bengtsson
+070185.html,"[Rd] Error &quot;promise already under evaluation ...&quot; with function(x, dim=dim(x))",70185,Henrik Bengtsson
+070104.html,[Rd] organisation of packages &amp; CRAN,70104,Ben Bolker
+070107.html,[Rd] organisation of packages &amp; CRAN,70107,Ben Bolker
+070108.html,[Rd] organisation of packages &amp; CRAN,70108,Ben Bolker
+070111.html,[Rd] organisation of packages &amp; CRAN,70111,Ben Bolker
+070115.html,[Rd] ambiguity in the documented return value of Null() from	package MASS,70115,Georgi Boshnakov
+070190.html,[Rd] problem with setGroupGeneric from package methods,70190,Georgi Boshnakov
+070138.html,[Rd] Non-webby links on Windows web page,70138,"Boylan, Ross"
+070149.html,[Rd] Non-webby links on Windows web page,70149,"Boylan, Ross"
+070150.html,[Rd] Non-webby links on Windows web page,70150,Winston Chang
+070174.html,[Rd] Large size shared library,70174,"Chen, Han"
+070118.html,[Rd] Cursor not behaving properly,70118,Kaiyin Zhong (Victor Chung)
+070165.html,[Rd] ShortRead::FastqStreamer and parallelization,70165,"Cook, Malcolm"
+070012.html,[Rd] Options that are local to the package that sets them,70012,G&#225;bor Cs&#225;rdi
+070015.html,[Rd] Options that are local to the package that sets them,70015,G&#225;bor Cs&#225;rdi
+070016.html,[Rd] Options that are local to the package that sets them,70016,G&#225;bor Cs&#225;rdi
+070021.html,[Rd] Options that are local to the package that sets them,70021,G&#225;bor Cs&#225;rdi
+070022.html,[Rd] Options that are local to the package that sets them,70022,G&#225;bor Cs&#225;rdi
+070067.html,"[Rd] r-release, r-oldrel",70067,G&#225;bor Cs&#225;rdi
+070086.html,[Rd] Citation if copying R base code,70086,G&#225;bor Cs&#225;rdi
+070089.html,[Rd] Citation if copying R base code,70089,G&#225;bor Cs&#225;rdi
+070095.html,"[Rd] r-release, r-oldrel",70095,G&#225;bor Cs&#225;rdi
+070103.html,[Rd] organisation of packages &amp; CRAN,70103,G&#225;bor Cs&#225;rdi
+070106.html,[Rd] organisation of packages &amp; CRAN,70106,G&#225;bor Cs&#225;rdi
+070113.html,[Rd] organisation of packages &amp; CRAN,70113,G&#225;bor Cs&#225;rdi
+070128.html,[Rd] How to maintain memory in R extension,70128,G&#225;bor Cs&#225;rdi
+070173.html,"[Rd] r-release, r-oldrel",70173,G&#225;bor Cs&#225;rdi
+070127.html,[Rd] How to maintain memory in R extension,70127,Zheng Da
+070136.html,[Rd] How to maintain memory in R extension,70136,Zheng Da
+070018.html,[Rd] Trouble installing Rcpp on AIX - missing &quot;execinfo.h&quot;,70018,Edward Davignon
+070014.html,[Rd] Options that are local to the package that sets them,70014,William Dunlap
+070119.html,[Rd] ambiguity in the documented return value of Null() from package MASS,70119,William Dunlap
+070134.html,[Rd] Problem with build and check,70134,William Dunlap
+070023.html,[Rd] Trouble installing Rcpp on AIX - missing &quot;execinfo.h&quot;,70023,Dirk Eddelbuettel
+070032.html,[Rd] Trouble installing Rcpp on AIX - missing &quot;execinfo.h&quot;,70032,Dirk Eddelbuettel
+070038.html,[Rd] Trouble installing Rcpp on AIX - missing &quot;execinfo.h&quot;,70038,Dirk Eddelbuettel
+070056.html,[Rd] Linking to the BH package introduces CRAN warnings,70056,Dirk Eddelbuettel
+070064.html,[Rd] Linking to the BH package introduces CRAN warnings,70064,Dirk Eddelbuettel
+070071.html,[Rd] Linking to the BH package introduces CRAN warnings,70071,Dirk Eddelbuettel
+070075.html,[Rd] Linking to the BH package introduces CRAN warnings,70075,Dirk Eddelbuettel
+070076.html,[Rd] Linking to the BH package introduces CRAN warnings,70076,Dirk Eddelbuettel
+070208.html,[Rd] testing dontrun  examples,70208,Dirk Eddelbuettel
+070074.html,[Rd] Linking to the BH package introduces CRAN warnings,70074,Romain Francois
+070058.html,[Rd] Linking to the BH package introduces CRAN warnings,70058,Romain Fran&#231;ois
+070060.html,[Rd] Linking to the BH package introduces CRAN warnings,70060,Romain Fran&#231;ois
+070078.html,[Rd] Linking to the BH package introduces CRAN warnings,70078,Romain Fran&#231;ois
+070131.html,[Rd] Problem with  build and check,70131,Paul Gilbert
+070145.html,[Rd] Changing style for the Sweave vignettes,70145,Paul Gilbert
+070191.html,[Rd] testing dontrun  examples,70191,Paul Gilbert
+070193.html,[Rd] testing dontrun  examples,70193,Paul Gilbert
+070205.html,[Rd] testing dontrun  examples,70205,Paul Gilbert
+070109.html,[Rd] organisation of packages &amp; CRAN,70109,Spencer Graves
+070112.html,[Rd] organisation of packages &amp; CRAN,70112,Spencer Graves
+070114.html,[Rd] organisation of packages &amp; CRAN,70114,Spencer Graves
+070192.html,[Rd] testing dontrun  examples,70192,Spencer Graves
+070013.html,[Rd] Options that are local to the package that sets them,70013,Gabor Grothendieck
+070019.html,[Rd] Options that are local to the package that sets them,70019,Gabor Grothendieck
+070214.html,[Rd] Using FPP preprocessor for Fortran Code,70214,Michael Hahsler
+070157.html,[Rd] Code tools for identifying which package A functions package B use?,70157,Kasper Daniel Hansen
+070040.html,"[Rd] Building R package: &#8220;Found 'rand', possibly from 'rand' (C)&#8221; NOTE when checking package",70040,Berend Hasselman
+070171.html,[Rd] Cursor not behaving properly,70171,Larissa Hauer
+070098.html,[Rd] package vignettes build in the same R process?,70098,Wolfgang Huber
+070141.html,[Rd] Changing style for the Sweave vignettes,70141,S&#248;ren H&#248;jsgaard
+070121.html,[Rd] subscripting a data.frame (without changing row order) changes internal row.names,70121,Dr Gregory Jefferis
+070124.html,[Rd] subscripting a data.frame (without changing row order) changes internal row.names,70124,Dr Gregory Jefferis
+070195.html,[Rd] testing dontrun examples,70195,Tim Keitt
+070044.html,[Rd] Holding a large number of SEXPs in C++,70044,Simon Knapp
+070052.html,[Rd] Holding a large number of SEXPs in C++,70052,Simon Knapp
+070167.html,[Rd] Cursor not behaving properly,70167,Scott Kostyshak
+070169.html,[Rd] Cursor not behaving properly,70169,Scott Kostyshak
+070110.html,[Rd] organisation of packages &amp; CRAN,70110,Michael Lawrence
+070197.html,[Rd] Problem understanding behaviour of versionCheck for	loadNamespace (and when versions for Imports packages are checked),70197,Geoff Lee
+070201.html,[Rd] Problem understanding behaviour of versionCheck for	loadNamespace (and when versions for Imports packages are checked),70201,Geoff Lee
+070202.html,[Rd] Problem understanding behaviour of versionCheck for	loadNamespace (and when versions for Imports packages are checked),70202,Geoff Lee
+070210.html,[Rd] Problem understanding behaviour of versionCheck for	loadNamespace (and when versions for Imports packages are checked),70210,Geoff Lee
+070213.html,[Rd] Problem understanding behaviour of versionCheck for	loadNamespace (and when versions for Imports packages are checked),70213,Geoff Lee
+070029.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70029,Uwe Ligges
+070034.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70034,Uwe Ligges
+070041.html,"[Rd] Building R package: &#8220;Found 'rand', possibly from 'rand' (C)&#8221; NOTE when checking package",70041,Uwe Ligges
+070094.html,"[Rd] r-release, r-oldrel",70094,Uwe Ligges
+070096.html,"[Rd] r-release, r-oldrel",70096,Uwe Ligges
+070168.html,[Rd] nchar reporting wrong width when zero-space character is	present?,70168,Mark van der Loo
+070186.html,[Rd] R string comparisons may vary with platform (plain text),70186,Mark van der Loo
+070045.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70045,Martin Maechler
+070069.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70069,Martin Maechler
+070117.html,[Rd] ambiguity in the documented return value of Null()	from	package MASS,70117,Martin Maechler
+070120.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70120,Martin Maechler
+070151.html,[Rd] Correction in help(factanal),70151,John Maindonald
+070080.html,[Rd] Citation if copying R base code,70080,Peter Meissner
+070087.html,[Rd] Citation if copying R base code,70087,Peter Meissner
+070092.html,[Rd] Citation if copying R base code,70092,Peter Meissner
+070048.html,[Rd] Unexplicable difference between 2 R installations regarding	reading numbers,70048,Joris Meys
+070050.html,[Rd] Unexplicable difference between 2 R installations regarding reading numbers,70050,Joris Meys
+070020.html,[Rd] Options that are local to the package that sets them,70020,Martin Morgan
+070037.html,[Rd] package vignettes build in the same R process?,70037,Martin Morgan
+070129.html,[Rd] How to maintain memory in R extension,70129,Martin Morgan
+070144.html,[Rd] Changing style for the Sweave vignettes,70144,Martin Morgan
+070183.html,[Rd] R string comparisons may vary with platform (plain text),70183,Martin Morgan
+070011.html,[Rd] proposed: minor change to error message,70011,Duncan Murdoch
+070033.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70033,Duncan Murdoch
+070036.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70036,Duncan Murdoch
+070043.html,[Rd] package vignettes build in the same R process?,70043,Duncan Murdoch
+070046.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70046,Duncan Murdoch
+070070.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70070,Duncan Murdoch
+070079.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70079,Duncan Murdoch
+070081.html,[Rd] Citation if copying R base code,70081,Duncan Murdoch
+070088.html,[Rd] Citation if copying R base code,70088,Duncan Murdoch
+070091.html,[Rd] Citation if copying R base code,70091,Duncan Murdoch
+070099.html,[Rd] package vignettes build in the same R process?,70099,Duncan Murdoch
+070105.html,[Rd] organisation of packages &amp; CRAN,70105,Duncan Murdoch
+070133.html,[Rd] Problem with  build and check,70133,Duncan Murdoch
+070146.html,[Rd] Problem with build and check,70146,Duncan Murdoch
+070159.html,"[Rd] Error &quot;promise already under evaluation ...&quot; with function(x, dim=dim(x))",70159,Duncan Murdoch
+070161.html,[Rd] common base functions stripping S3 class,70161,Duncan Murdoch
+070163.html,[Rd] common base functions stripping S3 class,70163,Duncan Murdoch
+070164.html,[Rd] common base functions stripping S3 class,70164,Duncan Murdoch
+070177.html,[Rd] R string comparisons may vary with platform (plain text),70177,Duncan Murdoch
+070196.html,[Rd] testing dontrun  examples,70196,Duncan Murdoch
+070198.html,[Rd] Problem understanding behaviour of versionCheck for loadNamespace (and when versions for Imports packages are checked),70198,Duncan Murdoch
+070199.html,[Rd] Problem understanding behaviour of versionCheck for loadNamespace (and when versions for Imports packages are checked),70199,Duncan Murdoch
+070200.html,[Rd] Problem understanding behaviour of versionCheck for loadNamespace (and when versions for Imports packages are checked),70200,Duncan Murdoch
+070204.html,[Rd] Problem understanding behaviour of versionCheck for loadNamespace (and when versions for Imports packages are checked),70204,Duncan Murdoch
+070030.html,[Rd]  ScalarLogical and setAttrib,70030,Radford Neal
+070188.html,[Rd]  Error &quot;promise already under evaluation ...&quot;,70188,Radford Neal
+070126.html,[Rd] segfault with readDCF on R 3.1.2 on AIX 6.1 when using	install.packages,70126,Vinh Nguyen
+070139.html,[Rd] Non-webby links on Windows web page,70139,Jeroen Ooms
+070026.html,[Rd] ScalarLogical and setAttrib,70026,Herv&#233; Pag&#232;s
+070027.html,[Rd] ScalarLogical and setAttrib,70027,Herv&#233; Pag&#232;s
+070142.html,[Rd] Changing style for the Sweave vignettes,70142,Brian G. Peterson
+070068.html,[Rd] [R] Calculation of cross-correlation in ccf,70068,Martyn Plummer
+070172.html,[Rd] Cursor not behaving properly,70172,Martyn Plummer
+070203.html,[Rd] p.adjust on a vector including NA values,70203,Johannes Rainer
+070166.html,[Rd] ShortRead::FastqStreamer and parallelization,70166,Prof Brian Ripley
+070175.html,[Rd] Large size shared library,70175,Prof Brian Ripley
+070182.html,[Rd] R string comparisons may vary with platform (plain text),70182,Prof Brian Ripley
+070101.html,[Rd] R CMD CHECK --run-donttest ignored,70101,Francois Rousset
+070102.html,[Rd] organisation of packages &amp; CRAN,70102,Steven Sagaert
+070132.html,[Rd] Problem with  build and check,70132,Enrico Schumann
+070057.html,[Rd] Volunteers for Google Code-in mentor &amp; co-admin/admin,70057,Gaurav Sehrawat
+070028.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70028,Peter Simons
+070031.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70031,Peter Simons
+070035.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70035,Peter Simons
+070077.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70077,Peter Simons
+070154.html,[Rd] Changing style for the Sweave vignettes,70154,Gordon K Smyth
+070189.html,[Rd] How to read variable nr of chars from a Server Socket?,70189,Vitalie Spinu
+070160.html,[Rd] common base functions stripping S3 class,70160,Murat Tasan
+070130.html,[Rd] Problem with  build and check,70130,"Therneau, Terry M., Ph.D."
+070206.html,[Rd] Feature request: mixing `...` (three dots) with other formal arguments in S4 methods,70206,Janko Thyson
+070209.html,[Rd] Feature request: mixing `...` (three dots) with other formal arguments in S4 methods,70209,Janko Thyson
+070212.html,[Rd] Feature request: mixing `...` (three dots) with other formal arguments in S4 methods,70212,Janko Thyson
+070054.html,[Rd] [R] Calculation of cross-correlation in ccf,70054,Sami Toppinen
+070122.html,[Rd] subscripting a data.frame (without changing row order) changes internal row.names,70122,Joshua Ulrich
+070135.html,[Rd] Problem with build and check,70135,Joshua Ulrich
+070047.html,[Rd] Holding a large number of SEXPs in C++,70047,Simon Urbanek
+070049.html,[Rd] Unexplicable difference between 2 R installations	regarding reading numbers,70049,Simon Urbanek
+070053.html,[Rd] Holding a large number of SEXPs in C++,70053,Simon Urbanek
+070123.html,[Rd] subscripting a data.frame (without changing row order) changes internal row.names,70123,Kevin Ushey
+070039.html,"[Rd] Building R package: &#8220;Found 'rand', possibly from 'rand' (C)&#8221; NOTE when checking package",70039,January Weiner
+070042.html,"[Rd] Building R package: &#8220;Found 'rand', possibly from 'rand' (C)&#8221; NOTE when checking package",70042,January Weiner
+070140.html,[Rd] Changing style for the Sweave vignettes,70140,January Weiner
+070143.html,[Rd] Changing style for the Sweave vignettes,70143,January Weiner
+070147.html,[Rd] Changing style for the Sweave vignettes,70147,January Weiner
+070025.html,[Rd] ScalarLogical and setAttrib,70025,Hadley Wickham
+070062.html,[Rd] Linking to the BH package introduces CRAN warnings,70062,Hadley Wickham
+070084.html,[Rd] Citation if copying R base code,70084,Hadley Wickham
+070085.html,[Rd] Citation if copying R base code,70085,Hadley Wickham
+070090.html,[Rd] Citation if copying R base code,70090,Hadley Wickham
+070162.html,[Rd] common base functions stripping S3 class,70162,Hadley Wickham
+070194.html,[Rd] testing dontrun examples,70194,Hadley Wickham
+070093.html,[Rd] Pkg creation: Sweave: multiple files vignette: Error in R CMD check,70093,Yihui Xie
+070148.html,[Rd] Changing style for the Sweave vignettes,70148,Yihui Xie
+070073.html,[Rd] R 3.1.1 and 3.1.2 both fail their test suites,70073,peter dalgaard
+070097.html,"[Rd] r-release, r-oldrel",70097,peter dalgaard
+070116.html,[Rd] ambiguity in the documented return value of Null() from	package MASS,70116,peter dalgaard
+070152.html,[Rd] Correction in help(factanal),70152,peter dalgaard
+070153.html,[Rd] Correction in help(factanal),70153,peter dalgaard
+070181.html,[Rd] R string comparisons may vary with platform (plain text),70181,peter dalgaard
+070017.html,[Rd] Appropriately Crediting Use of R Source Code in Package,70017,brodie gaslam
+070125.html,[Rd] Should R Packages Unload Dynamic Libraries When They Unload?,70125,brodie gaslam
+070187.html,[Rd] tools::testInstalledBasic,70187,richard h
+070055.html,[Rd] Linking to the BH package introduces CRAN warnings,70055,kaveh
+070059.html,[Rd] Linking to the BH package introduces CRAN warnings,70059,kaveh
+070061.html,[Rd] Linking to the BH package introduces CRAN warnings,70061,kaveh
+070063.html,[Rd] Linking to the BH package introduces CRAN warnings,70063,kaveh
+070065.html,[Rd] Linking to the BH package introduces CRAN warnings,70065,kaveh
+070066.html,[Rd] Linking to the BH package introduces CRAN warnings,70066,kaveh
+070072.html,[Rd] Linking to the BH package introduces CRAN warnings,70072,kaveh
+070051.html,[Rd] Pkg creation: Sweave: multiple files vignette: Error in R CMD	check,70051,rolandh at uni-muenster.de
+070083.html,[Rd] Pkg creation: Sweave: multiple files vignette: Error in R CMD check,70083,rolandh at uni-muenster.de

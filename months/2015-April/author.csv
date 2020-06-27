@@ -1,0 +1,132 @@
+link,Subject,id,author
+071013.html,[Rd] Title case in DESCRIPTION for package where a word is a function name,71013,Prof J C Nash (U30A)
+071017.html,[Rd] Title case in DESCRIPTION for package where a word is a function name,71017,Prof J C Nash (U30A)
+071019.html,[Rd] Title case in DESCRIPTION for package where a word is a function namei,71019,Prof J C Nash (U30A)
+070954.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70954,Avraham Adler
+071001.html,[Rd] alternate licensing for package data?,71001,Avraham Adler
+070987.html,[Rd] shlib problems with Intel compiler,70987,Andy Jacobson (NOAA Affiliate)
+070998.html,[Rd] shlib problems with Intel compiler,70998,Andy Jacobson (NOAA Affiliate)
+070932.html,[Rd] evaluation in transform versus within,70932,Gabriel Becker
+070934.html,[Rd] evaluation in transform versus within,70934,Gabriel Becker
+071045.html,[Rd] R CMD check and missing imports from base packages,71045,Gabriel Becker
+070941.html,[Rd] Package compilation woes on submission.,70941,Henrik Bengtsson
+071020.html,[Rd] Title case in DESCRIPTION for package where a word is a function namei,71020,Henrik Bengtsson
+070993.html,[Rd] alternate licensing for package data?,70993,Roger Bivand
+070950.html,[Rd] misspellings,70950,Ben Bolker
+070991.html,[Rd] alternate licensing for package data?,70991,Ben Bolker
+071000.html,[Rd] alternate licensing for package data?,71000,Ben Bolker
+071005.html,[Rd] model frames and update(),71005,Ben Bolker
+071014.html,[Rd] Title case in DESCRIPTION for package where a word is a	function name,71014,Ben Bolker
+071016.html,[Rd] Title case in DESCRIPTION for package where a word is a	function name,71016,Ben Bolker
+071048.html,[Rd] model.matrix and na.action,71048,Ben Bolker
+071041.html,"[Rd] Formula evaluation, environments and attached packages",71041,Milan Bouchet-Valat
+071044.html,"[Rd] Formula evaluation, environments and attached packages",71044,Milan Bouchet-Valat
+071040.html,[Rd] R CMD check and missing imports from base packages,71040,Winston Chang
+071021.html,"[Rd] Development version of R: Improved nchar(),	nzchar() but changed API",71021,James Cloos
+070948.html,[Rd] Testing R packages on Solaris Studio,70948,G&#225;bor Cs&#225;rdi
+071010.html,"[Rd] Development version of R: Improved nchar(), nzchar() but changed API",71010,G&#225;bor Cs&#225;rdi
+071012.html,"[Rd] Development version of R: Improved nchar(), nzchar() but changed API",71012,G&#225;bor Cs&#225;rdi
+071036.html,[Rd] R CMD check and missing imports from base packages,71036,G&#225;bor Cs&#225;rdi
+071042.html,[Rd] R CMD check and missing imports from base packages,71042,G&#225;bor Cs&#225;rdi
+071046.html,[Rd] R CMD check and missing imports from base packages,71046,G&#225;bor Cs&#225;rdi
+071051.html,[Rd] R CMD check and missing imports from base packages,71051,G&#225;bor Cs&#225;rdi
+071052.html,[Rd] R CMD check and missing imports from base packages,71052,G&#225;bor Cs&#225;rdi
+071054.html,[Rd] R CMD check and missing imports from base packages,71054,G&#225;bor Cs&#225;rdi
+071057.html,[Rd] R CMD check and missing imports from base packages,71057,G&#225;bor Cs&#225;rdi
+070981.html,[Rd] quieting the &quot;apparent S3 methods&quot; warning,70981,Gergely Dar&#243;czi
+070944.html,[Rd] typo in R-exts.html section 6.9,70944,William Dunlap
+070972.html,[Rd] Redefining {,70972,William Dunlap
+070973.html,[Rd] Redefining {,70973,William Dunlap
+071004.html,[Rd] model frames and update(),71004,William Dunlap
+071055.html,[Rd] R CMD check and missing imports from base packages,71055,William Dunlap
+070996.html,[Rd] alternate licensing for package data?,70996,Dirk Eddelbuettel
+071003.html,[Rd] CRAN submit page down,71003,Dirk Eddelbuettel
+071033.html,[Rd] install.packages no longer respects quiet = TRUE ?,71033,Dirk Eddelbuettel
+071009.html,"[Rd] Development version of R: Improved nchar(), nzchar() but changed API",71009,G&#246;k&#231;en Eraslan
+071011.html,"[Rd] Development version of R: Improved nchar(), nzchar() but changed API",71011,G&#246;k&#231;en Eraslan
+071047.html,[Rd] dimnames returned by function apply,71047,"Fischer, Bernd"
+071056.html,[Rd] R CMD check and missing imports from base packages,71056,Paul Gilbert
+070942.html,"[Rd] PCRE, and setting C-,	LD- and CPP-FLAGS for a local r-devel installation",70942,Jesper G&#229;din
+070951.html,"[Rd] PCRE, and setting C-, LD- and CPP-FLAGS for a local r-devel installation (Part 2)",70951,Jesper G&#229;din
+070986.html,[Rd] Bug 15899 - Omitted 'extern' on 'R_running_as_main_program' after refactor can cause linker errors for applications embedding R,70986,Jack Howarth
+070945.html,[Rd] typo in R-exts.html section 6.9,70945,Harris A. Jaffee
+070940.html,[Rd] Package compilation woes on submission.,70940,Aravind Jayaraman
+070969.html,[Rd] Redefining {,70969,Mick Jordan
+071037.html,[Rd] --interactive and -f/-e,71037,Mick Jordan
+071060.html,[Rd] --interactive and -f/-e,71060,Mick Jordan
+070988.html,[Rd] Typo in src/scripts/config,70988,Tim Keitt
+070961.html,[Rd] RObjectTables freezes in R 3.2.0 RC on 32bit systems,70961,Duncan Temple Lang
+070936.html,[Rd] evaluation in transform versus within,70936,Michael Lawrence
+071015.html,[Rd] Title case in DESCRIPTION for package where a word is a function name,71015,Uwe Ligges
+071023.html,[Rd] CRAN submit page down,71023,Uwe Ligges
+071024.html,"[Rd] Development version of R: Improved nchar(), nzchar() but changed API",71024,Mark van der Loo
+070946.html,[Rd] RFC: sigma() in package:stats ?,70946,Martin Maechler
+070955.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70955,Martin Maechler
+070962.html,[Rd] RObjectTables freezes in R 3.2.0 RC on 32bit systems,70962,Martin Maechler
+070963.html,[Rd] RFC: sigma() in package:stats ?,70963,Martin Maechler
+070970.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70970,Martin Maechler
+070974.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70974,Martin Maechler
+070995.html,[Rd] Bug 15899 - Omitted 'extern' on 'R_running_as_main_program' after refactor can cause linker errors for applications embedding R,70995,Martin Maechler
+071007.html,"[Rd] Development version of R: Improved nchar(),	nzchar() but changed API",71007,Martin Maechler
+071030.html,"[Rd] Development version of R: Improved nchar(), nzchar() but changed API",71030,Martin Maechler
+071038.html,[Rd] --interactive and -f/-e,71038,Martin Maechler
+071058.html,[Rd] R CMD check and missing imports from base packages,71058,Martin Maechler
+071059.html,[Rd] dimnames returned by function apply,71059,Martin Maechler
+071061.html,[Rd] dimnames returned by function apply,71061,Martin Maechler
+070931.html,[Rd] evaluation in transform versus within,70931,Joris Meys
+070935.html,[Rd] evaluation in transform versus within,70935,Joris Meys
+070938.html,[Rd] evaluation in transform versus within,70938,Joris Meys
+071053.html,[Rd] R CMD check and missing imports from base packages,71053,Martin Morgan
+070933.html,[Rd] evaluation in transform versus within,70933,Duncan Murdoch
+070937.html,[Rd] evaluation in transform versus within,70937,Duncan Murdoch
+071049.html,[Rd] R CMD check and missing imports from base packages,71049,Duncan Murdoch
+071050.html,[Rd] R CMD check and missing imports from base packages,71050,John Nolan
+070947.html,[Rd] Testing R packages on Solaris Studio,70947,Jeroen Ooms
+070957.html,[Rd] RObjectTables freezes in R 3.2.0 RC on 32bit systems,70957,Jeroen Ooms
+070959.html,[Rd] RObjectTables freezes in R 3.2.0 RC on 32bit systems,70959,Jeroen Ooms
+070964.html,[Rd] RObjectTables freezes in R 3.2.0 RC on 32bit systems,70964,Jeroen Ooms
+070980.html,[Rd] truncated warning messages,70980,Jeroen Ooms
+070953.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70953,Herv&#233; Pag&#232;s
+070956.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70956,Herv&#233; Pag&#232;s
+070975.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70975,Herv&#233; Pag&#232;s
+070976.html,[Rd] behavior of as.integer(&quot;5000000000&quot;),70976,Herv&#233; Pag&#232;s
+070979.html,[Rd] truncated warning messages,70979,Herv&#233; Pag&#232;s
+070983.html,[Rd] truncated warning messages,70983,Herv&#233; Pag&#232;s
+070984.html,[Rd] Fix for bug in arima function,70984,Patrick Perry
+070994.html,[Rd] alternate licensing for package data?,70994,Brian G. Peterson
+070992.html,[Rd] alternate licensing for package data?,70992,Martyn Plummer
+070997.html,[Rd] shlib problems with Intel compiler,70997,Martyn Plummer
+070999.html,[Rd] shlib problems with Intel compiler,70999,Martyn Plummer
+070982.html,[Rd] Adding lock capabilities to parallel?,70982,Ivan Popivanov
+071022.html,[Rd] CRAN submit page down,71022,William Revelle
+071029.html,[Rd] CRAN submit page down,71029,William Revelle
+070943.html,"[Rd] PCRE, and setting C-, LD- and CPP-FLAGS for a local r-devel installation",70943,Prof Brian Ripley
+071034.html,[Rd] install.packages no longer respects quiet = TRUE ?,71034,Prof Brian Ripley
+070977.html,[Rd] R-3.2.0 Fedora 21 heads up,70977,Dominick Samperi
+071026.html,[Rd] Inconsistency when naming a vector,71026,"Suzen, Mehmet"
+070939.html,[Rd] request: check version requirements of Suggests package during R CMD build if install required,70939,Dan Tenenbaum
+070967.html,[Rd] Does (will) CRAN provide consistent integrity verification,70967,Dan Tenenbaum
+071002.html,[Rd] model frames and update(),71002,"Therneau, Terry M., Ph.D."
+071008.html,[Rd] model.frames and update,71008,"Therneau, Terry M., Ph.D."
+071043.html,"[Rd] Formula evaluation, environments and attached packages",71043,Heather Turner
+071027.html,[Rd] Inconsistency when naming a vector,71027,Kevin Ushey
+070952.html,[Rd] typo in R-exts.html section 6.9,70952,Ravi Varadhan
+071035.html,[Rd] Add first() and last() to utils?,71035,Gregory Warnes
+071025.html,[Rd] Inconsistency when naming a vector,71025,Hadley Wickham
+071031.html,[Rd] install.packages no longer respects quiet = TRUE ?,71031,Hadley Wickham
+071032.html,[Rd] Inconsistency when naming a vector,71032,Hadley Wickham
+071039.html,[Rd] R CMD INSTALL and windows paths with ampersands,71039,Hadley Wickham
+070966.html,[Rd] Does (will) CRAN provide consistent integrity verification,70966,"Younce, Matt"
+071006.html,[Rd] model frames and update(),71006,Achim Zeileis
+070968.html,[Rd] Does (will) CRAN provide consistent integrity verification,70968,billy am
+070965.html,[Rd] Call R function in C in &quot;optim fashion&quot;,70965,bstr
+070949.html,[Rd] typo in R-exts.html section 6.9,70949,peter dalgaard
+070971.html,[Rd] Redefining {,70971,peter dalgaard
+070978.html,[Rd] R-3.2.0 Fedora 21 heads up,70978,peter dalgaard
+070985.html,[Rd] Fix for bug in arima function,70985,peter dalgaard
+070989.html,[Rd] Typo in src/scripts/config,70989,peter dalgaard
+071018.html,[Rd] Title case in DESCRIPTION for package where a word is a	function namei,71018,peter dalgaard
+071028.html,[Rd] Inconsistency when naming a vector,71028,peter dalgaard
+070990.html,[Rd] RObjectTables freezes in R 3.2.0 RC on 32bit systems,70990,luke-tierney at uiowa.edu
+070958.html,[Rd] Embedded R with interactive support,70958,&#26286;&#22914;&#38634;
+070960.html,"[Rd] R_Visible for embedded R, version 2.13.2",70960,&#26286;&#22914;&#38634;

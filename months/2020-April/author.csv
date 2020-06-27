@@ -1,0 +1,161 @@
+link,Subject,id,author
+079381.html,[Rd] Rtools and R 4.0.0?,79381,Avraham Adler
+079322.html,[Rd] Suggestion/opinions: add a `absolute` param to `normalizePath()` to force returning an absolute path,79322,Dean Attali
+079331.html,[Rd] Suggestion/opinions: add a `absolute` param to `normalizePath()` to force returning an absolute path,79331,Dean Attali
+079271.html,[Rd] Rtools and R 4.0.0?,79271,Gabriel Becker
+079275.html,[Rd] Rtools and R 4.0.0?,79275,Gabriel Becker
+079290.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79290,Gabriel Becker
+079292.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79292,Gabriel Becker
+079310.html,[Rd] detect -&gt;,79310,Gabriel Becker
+079323.html,[Rd] Suggestion/opinions: add a `absolute` param to `normalizePath()` to force returning an absolute path,79323,Gabriel Becker
+079380.html,[Rd] Rtools and R 4.0.0?,79380,Gabriel Becker
+079320.html,[Rd] stringsAsFactors,79320,Henrik Bengtsson
+079339.html,[Rd]  Add a new environment variable switch for the 'large version' check,79339,Henrik Bengtsson
+079341.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79341,Henrik Bengtsson
+079378.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79378,Henrik Bengtsson
+079386.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79386,Henrik Bengtsson
+079296.html,[Rd] missing binaries in R-devel windows snapshot 78175,79296,"Bravington, Mark (Data61, Hobart)"
+079299.html,[Rd] missing binaries in R-devel windows snapshot 78175,79299,"Bravington, Mark (Data61, Hobart)"
+079303.html,[Rd] missing binaries in R-devel windows snapshot 78175,79303,"Bravington, Mark (Data61, Hobart)"
+079254.html,[Rd] Rtools and R 4.0.0?,79254,Steve Bronder
+079343.html,[Rd] Read.Spss use $variable.labels as attributes instead of read/write.dta's $var.labels,79343,Ellie Chen
+079397.html,[Rd] Translations and snprintf on Windows,79397,Michael Chirico
+079256.html,[Rd]  The finalizer of the externalPtr does not work when closing R?,79256,G&#225;bor Cs&#225;rdi
+079302.html,[Rd] missing binaries in R-devel windows snapshot 78175,79302,G&#225;bor Cs&#225;rdi
+079308.html,[Rd] detect -&gt;,79308,G&#225;bor Cs&#225;rdi
+079311.html,[Rd] detect -&gt;,79311,G&#225;bor Cs&#225;rdi
+079369.html,[Rd] parse data wrong for R 4.0. raw strings,79369,G&#225;bor Cs&#225;rdi
+079371.html,[Rd] [External]  parse data wrong for R 4.0. raw strings,79371,G&#225;bor Cs&#225;rdi
+079398.html,[Rd] Use of MathJax (or something similar) in .Rd files,79398,G&#225;bor Cs&#225;rdi
+079373.html,[Rd] R 4.0.0 is released,79373,Peter Dalgaard
+079408.html,[Rd]  [External] Re: R 4.0.0 build error with sysdata.rda on ppc64el architecture,79408,Peter Dalgaard
+079286.html,[Rd] [SPAM]  Hard memory limit of 16GB under Windows?,79286,Michael Dewey
+079319.html,[Rd] detect -&gt;,79319,William Dunlap
+079330.html,[Rd] detect -&gt;,79330,William Dunlap
+079336.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79336,William Dunlap
+079307.html,[Rd] detect -&gt;,79307,Adrian Du&#537;a
+079312.html,[Rd] detect -&gt;,79312,Adrian Du&#537;a
+079324.html,[Rd] detect -&gt;,79324,Adrian Du&#537;a
+079326.html,[Rd] detect -&gt;,79326,Adrian Du&#537;a
+079332.html,[Rd] detect -&gt;,79332,Adrian Du&#537;a
+079283.html,[Rd] Rtools and R 4.0.0?,79283,Dirk Eddelbuettel
+079334.html,[Rd]  Add a new environment variable switch for the 'large version' check,79334,Dirk Eddelbuettel
+079351.html,[Rd] Demo for linking native routines between R packages,79351,Dirk Eddelbuettel
+079354.html,[Rd] How to find detritis rejected by &quot;R CMD check&quot; on Debian?,79354,Dirk Eddelbuettel
+079382.html,[Rd] R 4.0.0 build error with sysdata.rda on ppc64el architecture,79382,Dirk Eddelbuettel
+079391.html,[Rd]  R 4.0.0 build error with sysdata.rda on ppc64el architecture,79391,Dirk Eddelbuettel
+079405.html,[Rd]  R 4.0.0 build error with sysdata.rda on ppc64el architecture,79405,Dirk Eddelbuettel
+079409.html,[Rd]  [External] Re: R 4.0.0 build error with sysdata.rda on ppc64el architecture,79409,Dirk Eddelbuettel
+079316.html,[Rd] Poor family objects error messages,79316,"GILLIBERT, Andre"
+079346.html,[Rd]  Add a new environment variable switch for the 'large version' check,79346,Jan Gorecki
+079358.html,[Rd] Demo for linking native routines between R packages,79358,Jan Gorecki
+079389.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79389,Jan Gorecki
+079353.html,[Rd] How to find detritis rejected by &quot;R CMD check&quot; on Debian?,79353,Spencer Graves
+079392.html,[Rd] &quot;not a valid win32 application&quot; with rtools40-x86_65.exe on Windows 10,79392,Spencer Graves
+079359.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79359,Gabor Grothendieck
+079361.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79361,Gabor Grothendieck
+079388.html,[Rd] grid 4.0 generates wrong results when adding two complex units by sum(),79388,"Gu, Zuguang"
+079305.html,[Rd] Long model specification causes aov() to abort with error,79305,Jan Hauffa
+079328.html,[Rd] Suggestion/opinions: add a `absolute` param to `normalizePath()` to force returning an absolute path,79328,Jim Hester
+079329.html,[Rd] Add a new environment variable switch for the 'large version' check,79329,Jim Hester
+079278.html,[Rd] Hard memory limit of 16GB under Windows?,79278,Samuel Granjeaud IR/Inserm
+079280.html,[Rd] Hard memory limit of 16GB under Windows?,79280,Samuel Granjeaud IR/Inserm
+079293.html,[Rd] Hard memory limit of 16GB under Windows?,79293,Samuel Granjeaud IR/Inserm
+079255.html,[Rd] The finalizer of the externalPtr does not work when closing R?,79255,Wang Jiefei
+079259.html,[Rd]  [External] The finalizer of the externalPtr does not work when closing R?,79259,Wang Jiefei
+079257.html,[Rd]  The finalizer of the externalPtr does not work when closing R?,79257,Tomas Kalibera
+079279.html,[Rd] Hard memory limit of 16GB under Windows?,79279,Tomas Kalibera
+079281.html,[Rd] Hard memory limit of 16GB under Windows?,79281,Tomas Kalibera
+079327.html,[Rd] Suggestion/opinions: add a `absolute` param to `normalizePath()` to force returning an absolute path,79327,Tomas Kalibera
+079410.html,[Rd]  [External] Re: R 4.0.0 build error with sysdata.rda on ppc64el architecture,79410,Tomas Kalibera
+079365.html,[Rd] R not running under lldb? (osx),79365,Tim Keitt
+079367.html,[Rd] R not running under lldb? (osx),79367,Tim Keitt
+079314.html,[Rd] stringsAsFactors,79314,Karolis Koncevi&#269;ius
+079291.html,[Rd] ASAN,79291,Ivan Krylov
+079325.html,[Rd] detect -&gt;,79325,Ivan Krylov
+079357.html,[Rd] How to find detritis rejected by &quot;R CMD check&quot; on Debian?,79357,Ivan Krylov
+079265.html,[Rd]  Help useRs to use R's own Time/Date objects more efficiently,79265,Mark Leeds
+079269.html,[Rd] [External] Re: Help useRs to use R's own Time/Date objects more efficiently,79269,Mark Leeds
+079403.html,[Rd] Possible documentation problem/bug?,79403,Dominic Littlewood
+079260.html,[Rd] Help useRs to use R's own Time/Date objects more efficiently,79260,Martin Maechler
+079301.html,[Rd] missing binaries in R-devel windows snapshot 78175,79301,Martin Maechler
+079309.html,[Rd] stringsAsFactors,79309,Martin Maechler
+079313.html,[Rd] Long model specification causes aov() to abort with error,79313,Martin Maechler
+079318.html,[Rd] stringsAsFactors,79318,Martin Maechler
+079362.html,[Rd] stringsAsFactors and type.convert(),79362,Martin Maechler
+079364.html,[Rd] stringsAsFactors and type.convert(),79364,Martin Maechler
+079321.html,[Rd] stringsAsFactors and type.convert(),79321,Arni Magnusson
+079363.html,[Rd] stringsAsFactors and type.convert(),79363,Arni Magnusson
+079340.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79340,Michael Mahoney
+079298.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79298,Nicolas Mailhot
+079306.html,[Rd] stringsAsFactors,79306,Duncan Murdoch
+079356.html,[Rd] How to find detritis rejected by &quot;R CMD check&quot; on Debian?,79356,Duncan Murdoch
+079400.html,[Rd] Use of MathJax (or something similar) in .Rd files,79400,Duncan Murdoch
+079401.html,[Rd] Use of MathJax (or something similar) in .Rd files,79401,Duncan Murdoch
+079251.html,[Rd] [FORGED]  Any help needed in prep of 4.0.0?,79251,Paul Murrell
+079252.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79252,Paul Murrell
+079268.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79268,Paul Murrell
+079276.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79276,Paul Murrell
+079289.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79289,Paul Murrell
+079294.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79294,Paul Murrell
+079295.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79295,Paul Murrell
+079390.html,[Rd]  grid 4.0 generates wrong results when adding two complex units by sum(),79390,Paul Murrell
+079262.html,[Rd]  Help useRs to use R's own Time/Date objects more efficiently,79262,J C Nash
+079284.html,[Rd] Hard memory limit of 16GB under Windows?,79284,Thierry Onkelinx
+079273.html,[Rd] Rtools and R 4.0.0?,79273,Jeroen Ooms
+079274.html,[Rd] Rtools and R 4.0.0?,79274,Jeroen Ooms
+079297.html,[Rd] missing binaries in R-devel windows snapshot 78175,79297,Jeroen Ooms
+079300.html,[Rd] missing binaries in R-devel windows snapshot 78175,79300,Jeroen Ooms
+079304.html,[Rd] missing binaries in R-devel windows snapshot 78175,79304,Jeroen Ooms
+079374.html,[Rd] Rtools and R 4.0.0?,79374,Jeroen Ooms
+079396.html,[Rd]  &quot;not a valid win32 application&quot; with rtools40-x86_65.exe on Windows 10,79396,Jeroen Ooms
+079287.html,[Rd] Hard memory limit of 16GB under Windows?,79287,Herv&#233; Pag&#232;s
+079379.html,[Rd] Rtools and R 4.0.0?,79379,Herv&#233; Pag&#232;s
+079315.html,[Rd] stringsAsFactors,79315,Hugh Parsonage
+079270.html,[Rd] Rtools and R 4.0.0?,79270,Prof Brian Ripley
+079282.html,[Rd] Hard memory limit of 16GB under Windows?,79282,Marc Schwartz
+079333.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79333,Sokol Serguei
+079337.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79337,Sokol Serguei
+079338.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79338,Sokol Serguei
+079344.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79344,Sokol Serguei
+079347.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79347,Sokol Serguei
+079360.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79360,Sokol Serguei
+079404.html,[Rd] Possible documentation problem/bug?,79404,Sokol Serguei
+079264.html,[Rd]  Help useRs to use R's own Time/Date objects more efficiently,79264,Abby Spurdle
+079266.html,[Rd]  Help useRs to use R's own Time/Date objects more efficiently,79266,Abby Spurdle
+079277.html,[Rd] RIOT 2020,79277,Stepan
+079375.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79375,Shian Su
+079377.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79377,Shian Su
+079383.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79383,Shian Su
+079385.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79385,Shian Su
+079288.html,[Rd] ASAN,79288,"Therneau, Terry M., Ph.D."
+079261.html,[Rd]  Help useRs to use R's own Time/Date objects more efficiently,79261,I&#241;aki Ucar
+079272.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79272,I&#241;aki Ucar
+079394.html,[Rd]  R 4.0.0 build error with sysdata.rda on ppc64el architecture,79394,I&#241;aki Ucar
+079335.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79335,Simon Urbanek
+079345.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79345,Simon Urbanek
+079366.html,[Rd] R not running under lldb? (osx),79366,Simon Urbanek
+079368.html,[Rd] R not running under lldb? (osx),79368,Simon Urbanek
+079376.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79376,Simon Urbanek
+079384.html,[Rd] mclapply returns NULLs on MacOS when running GAM,79384,Simon Urbanek
+079393.html,[Rd]  &quot;not a valid win32 application&quot; with rtools40-x86_65.exe on Windows 10,79393,Simon Urbanek
+079253.html,[Rd] Rtools and R 4.0.0?,79253,Kevin Ushey
+079285.html,[Rd] Rtools and R 4.0.0?,79285,Kevin Ushey
+079406.html,[Rd] Use of MathJax (or something similar) in .Rd files,79406,Ravi Varadhan
+079349.html,[Rd] Demo for linking native routines between R packages,79349,Davis Vaughan
+079352.html,[Rd] Demo for linking native routines between R packages,79352,Davis Vaughan
+079395.html,[Rd] Use of MathJax (or something similar) in .Rd files,79395,"Viechtbauer, Wolfgang (SP)"
+079399.html,[Rd] Use of MathJax (or something similar) in .Rd files,79399,"Viechtbauer, Wolfgang (SP)"
+079402.html,[Rd] Use of MathJax (or something similar) in .Rd files,79402,"Viechtbauer, Wolfgang (SP)"
+079342.html,[Rd] suggestion: &quot;.&quot; in [lsv]apply(),79342,"Voeten, C.C."
+079348.html,[Rd] Demo for linking native routines between R packages,79348,"Zhang, Jitao David"
+079350.html,[Rd] Demo for linking native routines between R packages,79350,"Zhang, Jitao David"
+079355.html,[Rd] Demo for linking native routines between R packages,79355,"Zhang, Jitao David"
+079317.html,[Rd] stringsAsFactors,79317,peter dalgaard
+079387.html,[Rd]  R 4.0.0 build error with sysdata.rda on ppc64el architecture,79387,peter dalgaard
+079263.html,[Rd] Possible Bug In Validation of UTF-8 Sequences,79263,brodie gaslam
+079258.html,[Rd]  [External] The finalizer of the externalPtr does not work when closing R?,79258,iuke-tier at ey m at iii at g oii uiow at  at edu
+079267.html,[Rd] [External] Re: Help useRs to use R's own Time/Date objects more efficiently,79267,iuke-tier at ey m at iii at g oii uiow at  at edu
+079370.html,[Rd] [External]  parse data wrong for R 4.0. raw strings,79370,iuke-tier at ey m at iii at g oii uiow at  at edu
+079372.html,[Rd] [External]  parse data wrong for R 4.0. raw strings,79372,iuke-tier at ey m at iii at g oii uiow at  at edu
+079407.html,[Rd]  [External] Re: R 4.0.0 build error with sysdata.rda on ppc64el architecture,79407,iuke-tier at ey m at iii at g oii uiow at  at edu

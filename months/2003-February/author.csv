@@ -1,0 +1,137 @@
+link,Subject,id,author
+025924.html,[Rd] Fwd: DVDs to CDs?? (PR#2554),25924,Alphonse4978t@americamail.net
+025919.html,[Rd] RAV AntiVirus scan results,25919,RAV AntiVirus
+025872.html,[Rd] r-bugs web site temporarily UP,25872,Peter Dalgaard BSA
+025885.html,[Rd] R/S indexing difference,25885,Peter Dalgaard BSA
+025894.html,[Rd] Bug list summary (automatic post),25894,Peter Dalgaard BSA
+025900.html,[Rd] Bug in socketConnection (PR#2535),25900,Peter Dalgaard BSA
+025904.html,[Rd] Pearson's residuals in logistic regression (PR#2539),25904,Peter Dalgaard BSA
+025906.html,[Rd] mean function on correlation matrices (PR#2540),25906,Peter Dalgaard BSA
+025911.html,[Rd] cbind rises floating point exception (PR#2541),25911,Peter Dalgaard BSA
+025929.html,[Rd] R won't compile on FreeBSD 5.0 (PR#2562),25929,Peter Dalgaard BSA
+025940.html,[Rd] Bug list summary (automatic post),25940,Peter Dalgaard BSA
+025958.html,[Rd] require vs library,25958,Peter Dalgaard BSA
+025961.html,[Rd] nested assignment (PR#2575),25961,Peter Dalgaard BSA
+025952.html,[Rd] Re: [R] Who to decide what a generic function should look like?,25952,Henrik Bengtsson
+025923.html,[Rd] Fwd: SystemWorks 2003 Saves you time and money (PR#2553),25923,Bernadette9502j@post-modern.org
+025883.html,[Rd] RE: [R] barplot default colors,25883,Ben Bolker
+025916.html,[Rd] colSums etc. documentation (PR#2545),25916,David Brahm
+025948.html,[Rd] Perl question,25948,David Brahm
+025977.html,[Rd] sample (PR#2546),25977,Patrick Burns
+025987.html,[Rd] class(x) &lt;- error,25987,John Chambers
+025913.html,[Rd] Compilers on Solaris: beware!,25913,Albert Chin
+025878.html,"[Rd] new procedural language for PostgreSQL, PL/R",25878,Joe Conway
+025893.html,[Rd] 1.7.0 build error in debian stable i386,25893,Dirk Eddelbuettel
+025898.html,[Rd] 1.7.0 build error in debian stable i386,25898,Dirk Eddelbuettel
+025947.html,[Rd] Perl question,25947,Dirk Eddelbuettel
+025993.html,[Rd] [Package car/data.ellipse]: confidence intervals off  by factor sqrt(2)??? (PR#2584),25993,Volker Franz
+025890.html,[Rd] Verbosity when using urls in R-devel,25890,Jeff Gentry
+025907.html,[Rd] Ruuid package,25907,Jeff Gentry
+025908.html,[Rd] Re: Ruuid package,25908,Jeff Gentry
+025980.html,[Rd] class(x) &lt;- error,25980,Paul Gilbert
+025925.html,[Rd] match.arg,25925,Spencer Graves
+025926.html,[Rd] match.arg,25926,Spencer Graves
+025965.html,[Rd] match.arg,25965,Spencer Graves
+025962.html,[Rd] Re: [R] Who to decide what a generic function should look like?,25962,Philippe Grosjean
+025932.html,[Rd] R won't compile on FreeBSD 5.0 (PR#2562),25932,Eric van Gyzen
+025866.html,[Rd] summary.table parameter bug (PR#2514),25866,Kurt Hornik
+025876.html,[Rd] summary.table bug in parameter (and fix) (PR#2526),25876,Kurt Hornik
+025931.html,[Rd] R won't compile on FreeBSD 5.0 (PR#2562),25931,Kurt Hornik
+025983.html,[Rd] R-devel problems,25983,Kurt Hornik
+025922.html,[Rd] eigen() error: R Version 1.6.1 on Mac OS X (PR#2550),25922,Stefano Iacus
+025986.html,[Rd] class(x) &lt;- error,25986,Ross Ihaka
+025892.html,[Rd] 1.7.0 build error in debian stable i386,25892,Robert King
+025886.html,[Rd] make fails for 1.7.0 on mac os x 10.1,25886,Roger Koenker
+025970.html,[Rd] R-devel problems,25970,Jan de Leeuw
+025973.html,[Rd] R-devel problems,25973,Jan de Leeuw
+025982.html,[Rd] R-devel problems,25982,Jan de Leeuw
+025985.html,[Rd] R-devel problems,25985,Jan de Leeuw
+025995.html,[Rd] nice combo on os x,25995,Jan de Leeuw
+025996.html,[Rd] bundle-loader,25996,Jan de Leeuw
+025998.html,[Rd] R-devel/R-patched crossed with Xterm/IDLE,25998,Jan de Leeuw
+025950.html,[Rd] Perl question,25950,Michael Na Li
+025875.html,[Rd] RE: [R] Bus error with xyplot,25875,"Liaw, Andy"
+025963.html,[Rd] match.arg,25963,Martin Maechler
+025951.html,[Rd] POSIX problem in New Zealand (PR#2570),25951,Arni Magnusson
+025997.html,[Rd] unwanted coercion of length 0 vectors (PR#2587),25997,Mark.Bravington@csiro.au
+025920.html,"[Rd] plot(date, y) versus plot(y ~ date)",25920,Duncan Murdoch
+025944.html,[Rd] Re: [R] Who to decide what a generic function should look like?,25944,Duncan Murdoch
+025946.html,[Rd] Perl question,25946,Duncan Murdoch
+025978.html,[Rd] New Windows snapshot of 1.7.0 available,25978,Duncan Murdoch
+025877.html,[Rd] RE: [R] Bus error with xyplot,25877,Paul Murrell
+025933.html,[Rd] R as analysis server for very large data sets,25933,George Ostrouchov
+025949.html,[Rd] Perl question,25949,Roger Peng
+025953.html,[Rd] unsubscribe,25953,Asheka Rahman
+025891.html,[Rd] Verbosity when using urls in R-devel,25891,Prof Brian D Ripley
+025918.html,[Rd] Line rendering in windows - bug?,25918,Steve Roberts
+025991.html,[Rd] [Package car/data.ellipse]: confidence intervals off  by factor sqrt(2)??? (PR#2584),25991,Deepayan Sarkar
+025942.html,[Rd] [ANN] ObveRsive WoRkbench MS1 Release,25942,Zed A. Shaw
+025930.html,[Rd] R won't compile on FreeBSD 5.0 (PR#2562),25930,Luke Tierney
+025935.html,"[Rd] Fwd: West Nile Virus &lt; Anna Kournikova Virus, get protected. (PR#2563)",25935,Trinidad983d@congomail.com
+025879.html,"[Rd] traceback {base}: new arguments: file, strip, width",25879,Wolfram Fischer - Z/I/M
+025880.html,[Rd] new function: showcolors {base},25880,Wolfram Fischer - Z/I/M
+025888.html,[Rd] signif {base}: changes to scientific notation,25888,Wolfram Fischer - Z/I/M
+025895.html,[Rd] signif {base}: changes to scientific notation,25895,Wolfram Fischer - Z/I/M
+025927.html,[Rd] biplot: ylim,25927,Wolfram Fischer - Z/I/M
+025934.html,[Rd] biplot(mva): argument main causes a warning,25934,Wolfram Fischer - Z/I/M
+025864.html,[Rd] deviance.Rd (PR#2517),25864,a.stephenson@lancaster.ac.uk
+025865.html,[Rd] AIC.default (PR#2518),25865,a.stephenson@lancaster.ac.uk
+025981.html,[Rd] Please activate your cell phone as soon as possible. (PR#2582),25981,activate@free-cell.tk
+025939.html,[Rd] POSIX problem in New Zealand (PR#2570),25939,arnima@u.washington.edu
+025915.html,[Rd] colSums etc. documentation (PR#2545),25915,bert_gunter@merck.com
+025902.html,[Rd] Pearson's residuals in logistic regression (PR#2539),25902,bnan@umich.edu
+025896.html,[Rd] Bug in socketConnection (PR#2535),25896,ded@novonordisk.com
+025943.html,[Rd] ks.test gets stuck (PR#2571),25943,dirk@santafe.edu
+025994.html,[Rd] Alias does not label rows and columns correctly. (PR#2586),25994,dsmith@santafe.edu
+025921.html,[Rd] eigen() error: R Version 1.6.1 on Mac OS X (PR#2550),25921,dweeks@watson.hgen.pitt.edu
+025863.html,"[Rd] We are looking for USA's waste paper 3#,11# supplier. Order quatity:2000tons/month. (PR#2516)",25863,edwards@beelink.com
+025975.html,[Rd] typo in writeLines.Rd (PR#2580),25975,eglen@pcg.wustl.edu
+025954.html,[Rd] require vs library,25954,kjetil brinchmann halvorsen
+025967.html,[Rd] Problem with hessian in deriv3 (PR#2577),25967,j.c.rougier@durham.ac.uk
+025964.html,"[Rd] hsv producing a color intensity not in [0,1] (PR#2576)",25964,jchoi@dal.ca
+025968.html,[Rd] &quot;trace&quot; argument in legend() (PR#2578),25968,jerome@hivnet.ubc.ca
+025999.html,[Rd] &quot;trace&quot; argument in legend() (PR#2578),25999,jerome@hivnet.ubc.ca
+025937.html,[Rd] COMPUTER SYSTEM COME CONFIG YOUR OWN (PR#2566),25937,johnvisnosky@sbcglobal.net
+025938.html,[Rd] Live a healthy life with VERIUNI nutritionals. Tasty liquid multivitamin (PR#2567),25938,johnvisnosky@sbcglobal.net
+025868.html,[Rd] Apparent parser problem (PR#2520),25868,jrogers@cantatapharm.com
+025871.html,[Rd] Apparent parser problem (PR#2520),25871,jrogers@cantatapharm.com
+025969.html,[Rd] unz (PR#2579),25969,jutans@utans.u-net.com
+025960.html,[Rd] nested assignment (PR#2575),25960,larry@cognition.wustl.edu
+025881.html,[Rd] Bug in configure script for Solaris v9 arch with libsunperf (PR#2530),25881,m.pacey@lancaster.ac.uk
+025966.html,"[Rd] hsv producing a color intensity not in [0,1] (PR#2576)",25966,maechler@stat.math.ethz.ch
+025972.html,[Rd] &quot;trace&quot; argument in legend() (PR#2578),25972,maechler@stat.math.ethz.ch
+026002.html,[Rd] unique turns ordered into factor (PR#2591),26002,maechler@stat.math.ethz.ch
+025936.html,[Rd] Earn Maga Money at Home (PR#2565),25936,moreinfosfi@sbcglobal.net
+026000.html,[Rd] seq() documentation bug (PR#2590),26000,oehl_list@gmx.de
+026001.html,[Rd] unique turns ordered into factor (PR#2591),26001,p.dalgaard@biostat.ku.dk
+025917.html,[Rd] error from sample if sampling length one character (PR#2546),25917,patrick@burns-stat.com
+025910.html,[Rd] cbind rises floating point exception (PR#2541),25910,rdiaz@cnio.es
+025979.html,[Rd] Please activate your free cell phone. (PR#2581),25979,register@free-cell.tk
+025867.html,[Rd] removeMethods (methods) does not work in my examples (PR#2519),25867,ripley@stats.ox.ac.uk
+025869.html,[Rd] Apparent parser problem (PR#2520),25869,ripley@stats.ox.ac.uk
+025874.html,[Rd] RE: [R] Bus error with xyplot,25874,ripley@stats.ox.ac.uk
+025884.html,[Rd] R/S indexing difference,25884,ripley@stats.ox.ac.uk
+025887.html,[Rd] make fails for 1.7.0 on mac os x 10.1,25887,ripley@stats.ox.ac.uk
+025889.html,[Rd] signif {base}: changes to scientific notation,25889,ripley@stats.ox.ac.uk
+025897.html,[Rd] Bug in socketConnection (PR#2535),25897,ripley@stats.ox.ac.uk
+025899.html,[Rd] R/S indexing difference,25899,ripley@stats.ox.ac.uk
+025901.html,[Rd] building R with gcc on Solaris,25901,ripley@stats.ox.ac.uk
+025903.html,[Rd] Pearson's residuals in logistic regression (PR#2539),25903,ripley@stats.ox.ac.uk
+025909.html,[Rd] Compilers on Solaris: beware!,25909,ripley@stats.ox.ac.uk
+025912.html,[Rd] Build of R-devel for Windows,25912,ripley@stats.ox.ac.uk
+025914.html,[Rd] Compilers on Solaris: beware!,25914,ripley@stats.ox.ac.uk
+025941.html,[Rd] POSIX problem in New Zealand (PR#2570),25941,ripley@stats.ox.ac.uk
+025945.html,[Rd] require vs library,25945,ripley@stats.ox.ac.uk
+025955.html,[Rd] require vs library,25955,ripley@stats.ox.ac.uk
+025956.html,[Rd] Re: error from sample if sampling length one character (PR#2546),25956,ripley@stats.ox.ac.uk
+025957.html,[Rd] Re: error from sample if sampling length one character (PR#2546),25957,ripley@stats.ox.ac.uk
+025959.html,[Rd] require vs library,25959,ripley@stats.ox.ac.uk
+025971.html,[Rd] R-devel problems,25971,ripley@stats.ox.ac.uk
+025974.html,[Rd] R-devel problems,25974,ripley@stats.ox.ac.uk
+025976.html,[Rd] typo in writeLines.Rd (PR#2580),25976,ripley@stats.ox.ac.uk
+025984.html,[Rd] POSIX problem in New Zealand (PR#2570),25984,ripley@stats.ox.ac.uk
+025873.html,[Rd] summary.table bug in parameter (and fix) (PR#2526),25873,rreeve@liposcience.com
+025905.html,[Rd] mean function on correlation matrices (PR#2540),25905,rs381@wbic.cam.ac.uk
+025928.html,[Rd] R won't compile on FreeBSD 5.0 (PR#2562),25928,vangyzen@stat.duke.edu
+025988.html,[Rd] [Package car/data.ellipse]: confidence intervals off by factor sqrt(2)??? (PR#2584),25988,volker.franz@tuebingen.mpg.de
+025870.html,[Rd] -There--',25870,yazzzooooo@earthlink.net

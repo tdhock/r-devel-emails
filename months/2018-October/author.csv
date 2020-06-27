@@ -1,0 +1,104 @@
+link,Subject,id,author
+076934.html,[Rd] Redundant code in 'split.default' in R devel,76934,Suharto Anggono Suharto Anggono
+076959.html,[Rd] Buglet in handling times in R-3.5.1,76959,Marco Atzeri
+076914.html,[Rd] R grpc,76914,Rui Barradas
+076937.html,[Rd] Warning when calling formals() for `[`.,76937,Rui Barradas
+076938.html,[Rd] Warning when calling formals() for `[`.,76938,Rui Barradas
+076941.html,[Rd] Warning when calling formals() for `[`.,76941,Rui Barradas
+076942.html,[Rd] Warning when calling formals() for `[`.,76942,Rui Barradas
+076945.html,[Rd] Warning when calling formals() for `[`.,76945,Rui Barradas
+076946.html,[Rd] Warning when calling formals() for `[`.,76946,Rui Barradas
+076956.html,[Rd] R_ext/Altrep.h should be more C++-friendly,76956,Gabe Becker
+076983.html,[Rd] methods(class = class(&lt;obj&gt;)) - improve for |cl.| &gt; 1 ?,76983,Gabe Becker
+076910.html,[Rd] maximum matrix size,76910,Henrik Bengtsson
+077004.html,[Rd] PATCH: Asserting that 'connection' used has not changed + R_GetConnection2(),77004,Henrik Bengtsson
+076926.html,[Rd] Seg fault stats::runmed,76926,Hilmar Berger
+076904.html,[Rd] unexpected memory.limit on windows in embedded R,76904,Livio Bertacco
+076907.html,[Rd] Relevel confusing with numeric value,76907,Emil Bode
+076948.html,[Rd] Warning when calling formals() for `[`.,76948,Emil Bode
+076958.html,[Rd] Buglet in handling times in R-3.5.1,76958,Emil Bode
+076967.html,[Rd]  sys.call() inside replacement functions incorrectly returns *tmp*,76967,Emil Bode
+076974.html,[Rd]  sys.call() inside replacement functions incorrectly returns *tmp*,76974,Emil Bode
+076961.html,"[Rd] NEWS typos, download.file.Rd tweaks",76961,Ben Bolker
+076972.html,[Rd] broken link to Titanic data,76972,Ben Bolker
+077002.html,[Rd] disappearing paragraphs in html rendering of text from Rd macros,77002,Georgi Boshnakov
+076931.html,[Rd] Bug in make.unique,76931,Niek Bouman
+077001.html,[Rd] Little memory leak fix,77001,David CARLIER
+076971.html,[Rd]  sys.call() inside replacement functions incorrectly returns *tmp*,76971,G&#225;bor Cs&#225;rdi
+076940.html,[Rd] Warning when calling formals() for `[`.,76940,Peter Dalgaard
+076944.html,[Rd] Warning when calling formals() for `[`.,76944,Peter Dalgaard
+076953.html,[Rd] Surprise with plot.lm(),76953,Peter Dalgaard
+076964.html,[Rd] unlockEnvironment()?,76964,William Dunlap
+076979.html,[Rd] invisible functions,76979,S Ellison
+076957.html,[Rd] R_ext/Altrep.h should be more C++-friendly,76957,Romain Francois
+076963.html,[Rd] R_ext/Altrep.h should be more C++-friendly,76963,Romain Francois
+076917.html,[Rd] grDevices::convertColor and colorRamp(space='Lab') Performance Improvements,76917,Brodie Gaslam
+076936.html,[Rd] Warning when calling formals() for `[`.,76936,Laurent Gautier
+076939.html,[Rd] Warning when calling formals() for `[`.,76939,Laurent Gautier
+076943.html,[Rd] Warning when calling formals() for `[`.,76943,Laurent Gautier
+076993.html,[Rd] Small typo in log output of src/library/tools/R/check.R:check_pkg,76993,Sebastian Gibb
+076995.html,[Rd] Bug report for sealClass() in Core-maintained package &quot;methods&quot;,76995,"Gower, Adam"
+076997.html,[Rd] Bug report for sealClass() in Core-maintained package &quot;methods&quot;,76997,"Gower, Adam"
+076989.html,[Rd] Suggestion: Make CRAN source URLs immutable,76989,Kurt Hornik
+076991.html,[Rd] small bug in formatC?,76991,David Hugh-Jones
+076932.html,[Rd]  [R] Bug : Autocorrelation in sample drawn from stats::rnorm (hmh),76932,Annaert Jan
+076933.html,[Rd]  [R] Bug : Autocorrelation in sample drawn from stats::rnorm (hmh),76933,Annaert Jan
+076925.html,[Rd] unable to load shared object,76925,Paul Johnson
+076903.html,[Rd]  Query the pointer protection stack size (--max-ppsize=N) from within R?,76903,Tomas Kalibera
+076906.html,[Rd] Problem with parseData,76906,Tomas Kalibera
+076922.html,[Rd]  segfault issue with parallel::mclapply and download.file() on Mac OS X,76922,Tomas Kalibera
+076949.html,[Rd] Rscript -e does not accept newlines under Linux?,76949,Tomas Kalibera
+076954.html,[Rd] unexpected behavior of unzip with list=T and unzip=/usr/bin/unzip,76954,Tomas Kalibera
+076978.html,[Rd] unexpected memory.limit on windows in embedded R,76978,Tomas Kalibera
+076981.html,[Rd] Random behavior of mclapply,76981,Tomas Kalibera
+076990.html,[Rd] Bug in file.access on Windows when using network shares,76990,Tomas Kalibera
+076912.html,[Rd] maximum matrix size,76912,Peter Langfelder
+076911.html,[Rd] Problem with parseData,76911,Barbara Lerner
+076998.html,[Rd] Rmpfr: build vector sequentially -- c(.) not working,76998,Jerry Lewis
+076984.html,[Rd] Feature request: Have t.test return (group-wise) SD and N,76984,"Lissa, C.J. van (Caspar)"
+076905.html,[Rd]  Suggested Patch: Adding commas to list of packages after R CMD check,76905,Martin Maechler
+076930.html,[Rd] Seg fault stats::runmed,76930,Martin Maechler
+076947.html,[Rd] Redundant code in 'split.default' in R devel,76947,Martin Maechler
+076977.html,[Rd] methods(class = class(&lt;obj&gt;)) - improve for |cl.| &gt; 1  ?,76977,Martin Maechler
+076992.html,[Rd] Rmpfr: build vector sequentially -- c(.) not working,76992,Martin Maechler
+076994.html,[Rd] small bug in formatC?,76994,Martin Maechler
+077003.html,[Rd] disappearing paragraphs in html rendering of text from Rd macros,77003,Martin Maechler
+076969.html,[Rd]  sys.call() inside replacement functions incorrectly returns *tmp*,76969,Duncan Murdoch
+076976.html,[Rd] invisible functions,76976,Duncan Murdoch
+076980.html,[Rd] invisible functions,76980,Duncan Murdoch
+076996.html,[Rd] Bug report for sealClass() in Core-maintained package &quot;methods&quot;,76996,Duncan Murdoch
+077000.html,[Rd] CRAN Feature Request: install.data (task.view=&quot;Cluster&quot;),77000,Duncan Murdoch
+076921.html,[Rd]  [FORGED] grDevices::convertColor and colorRamp(space='Lab') Performance Improvements,76921,Paul Murrell
+076928.html,[Rd] Dots are not fixed by make.names(),76928,Kirill M&#252;ller
+076923.html,[Rd]  segfault issue with parallel::mclapply and download.file() on Mac OS X,76923,Jeroen Ooms
+076968.html,[Rd] Behaviour of exists(x) for length(x) &gt; 1,76968,Hugh Parsonage
+076973.html,[Rd]  sys.call() inside replacement functions incorrectly returns *tmp*,76973,Barry Rowlingson
+076955.html,[Rd] Buglet in handling times in R-3.5.1,76955,"Russell, George"
+076935.html,[Rd]  segfault issue with parallel::mclapply and download.file() on Mac OS X,76935,Seth Russell
+076951.html,[Rd] bug with OutDec option and deferred_string altrep object,76951,Michael Sannella
+076952.html,[Rd] R_ext/Altrep.h should be more C++-friendly,76952,Michael Sannella
+076986.html,[Rd] v3 serialization of compact_intseq altrep should write modified data,76986,Michael Sannella
+076927.html,[Rd]  [R] Bug : Autocorrelation in sample drawn from stats::rnorm (hmh),76927,Deepayan Sarkar
+076966.html,[Rd] sys.call() inside replacement functions incorrectly returns *tmp*,76966,Abs Spurdle
+076970.html,[Rd]  sys.call() inside replacement functions incorrectly returns *tmp*,76970,Abs Spurdle
+076999.html,[Rd] CRAN Feature Request: install.data (task.view=&quot;Cluster&quot;),76999,Abs Spurdle
+076909.html,[Rd] maximum matrix size,76909,"Therneau, Terry M., Ph.D."
+076920.html,[Rd] maximum matrix size,76920,"Therneau, Terry M., Ph.D."
+076975.html,[Rd] invisible functions,76975,"Therneau, Terry M., Ph.D."
+076950.html,[Rd] bug with OutDec option and deferred_string altrep object,76950,"Tierney, Luke"
+076962.html,[Rd] R_ext/Altrep.h should be more C++-friendly,76962,"Tierney, Luke"
+076960.html,[Rd] bug with OutDec option and deferred_string altrep object,76960,"Tierney, Luke"
+076965.html,[Rd] unlockEnvironment()?,76965,"Tierney, Luke"
+076987.html,[Rd] v3 serialization of compact_intseq altrep should write modified data,76987,"Tierney, Luke"
+077005.html,[Rd] Proposal: Internal as.Date.POSIXct(),77005,Joshua Ulrich
+076982.html,[Rd] methods(class = class(&lt;obj&gt;)) - improve for |cl.| &gt; 1 ?,76982,Kevin Ushey
+076985.html,[Rd] Random behavior of mclapply,76985,Thibault Vatter
+076988.html,[Rd] Suggestion: Make CRAN source URLs immutable,76988,Kurt Wheeler
+076913.html,[Rd] R grpc,76913,Witold E Wolski
+076915.html,[Rd] R grpc,76915,Witold E Wolski
+076916.html,[Rd] How do I set a compile flag _WIN32_WINNT=0x600 in Makevars.Win,76916,Witold E Wolski
+076918.html,[Rd]  How do I set a compile flag _WIN32_WINNT=0x600 in Makevars.Win,76918,Witold E Wolski
+076919.html,[Rd] unable to load shared object,76919,Witold E Wolski
+076924.html,[Rd] unable to load shared object,76924,Witold E Wolski
+076908.html,[Rd] Relevel confusing with numeric value,76908,peter dalgaard
+076929.html,[Rd]  [R] Bug : Autocorrelation in sample drawn from stats::rnorm (hmh),76929,hmh

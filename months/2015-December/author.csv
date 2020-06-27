@@ -1,0 +1,94 @@
+link,Subject,id,author
+072093.html,[Rd] inconsistency in POSIXlt,72093,Gabriel Becker
+072127.html,[Rd] integer,72127,Gabriel Becker
+072099.html,[Rd] How do I reliably and efficiently hash a function?,72099,Charles C. Berry
+072157.html,[Rd] typo in src/library/stats/man/family.Rd: names of 'validmu' and 'valideta' ??,72157,Ben Bolker
+072095.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72095,John Chambers
+072110.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72110,John Chambers
+072146.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72146,John Chambers
+072155.html,"[Rd] [Bioc-devel]  For integer vectors, `as(x,	&quot;numeric&quot;)` has no effect.",72155,John Chambers
+072162.html,[Rd] URW Fonts Description in Installation and Administration	Manual,72162,Ramon Diaz-Uriarte
+072164.html,[Rd] URW Fonts Description in Installation and Administration	Manual,72164,Ramon Diaz-Uriarte
+072075.html,[Rd] Inconsistency in treating NaN-results?,72075,William Dunlap
+072135.html,[Rd] array() ignores illegal non-list dimnames,72135,William Dunlap
+072126.html,[Rd] integer,72126,Adrian Du&#537;a
+072081.html,[Rd] Compile error about using RInside on windows enviroment,72081,Dirk Eddelbuettel
+072087.html,[Rd] How to efficiently share data (a dataframe) between R and	Java,72087,Dirk Eddelbuettel
+072106.html,[Rd] Runtime error when run a RInside program compiled by intel c++ on windows,72106,Dirk Eddelbuettel
+072120.html,[Rd] Mystifying SEGFAULT on 3.2.3 but not 3.2.2,72120,Dirk Eddelbuettel
+072160.html,[Rd] URW Fonts Description in Installation and Administration	Manual,72160,Dirk Eddelbuettel
+072163.html,[Rd] URW Fonts Description in Installation and Administration	Manual,72163,Dirk Eddelbuettel
+072089.html,[Rd] compile question,72089,Michael Felt
+072102.html,"[Rd] R-devel, autotools and libtool",72102,Michael Felt
+072116.html,"[Rd] Question about bug reporting, and the followup process",72116,Michael Felt
+072118.html,[Rd] Building R in 64-bit mode,72118,Michael Felt
+072119.html,[Rd] Building R in 64-bit mode,72119,Michael Felt
+072122.html,"[Rd] Question about bug reporting, and the followup process",72122,Michael Felt
+072123.html,[Rd] Building R in 64-bit mode,72123,Michael Felt
+072128.html,[Rd] Assistance much appreciated,72128,Michael Felt
+072129.html,[Rd] Assistance much appreciated,72129,Michael Felt
+072132.html,[Rd] Assistance much appreciated,72132,Michael Felt
+072133.html,[Rd] Assistance much appreciated,72133,Michael Felt
+072138.html,[Rd] Assistance much appreciated,72138,Michael Felt
+072139.html,[Rd] Assistance much appreciated,72139,Michael Felt
+072140.html,[Rd] Assistance much appreciated,72140,Michael Felt
+072141.html,[Rd] Assistance much appreciated,72141,Michael Felt
+072142.html,[Rd] Assistance much appreciated,72142,Michael Felt
+072143.html,[Rd] Assistance much appreciated,72143,Michael Felt
+072147.html,[Rd] Assistance much appreciated,72147,Michael Felt
+072156.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72156,Michael Felt
+072159.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72159,Michael Felt
+072165.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72165,Michael Felt
+072166.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72166,Michael Felt
+072167.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72167,Michael Felt
+072148.html,"[Rd] Summary of,all undefined globals",72148,Patrick Giraudoux
+072149.html,"[Rd] Summary of,all undefined globals",72149,Patrick Giraudoux
+072150.html,[Rd] unloadNamespace() does not address unevaluated promises in the S3 Methods Table,72150,Jim Hester
+072077.html,[Rd] Package Dependency,72077,Paul Johnson
+072113.html,"[Rd] [patch] Fix automatic domain in ngettext(), Bug 14605",72113,Mikko Korpela
+072086.html,[Rd] How to efficiently share data (a dataframe) between R and Java,72086,Ing. Jaroslav Kucha&#345;
+072114.html,[Rd] How to efficiently share data (a dataframe) between R and Java,72114,Ing. Jaroslav Kucha&#345;
+072124.html,[Rd] How to efficiently share data (a dataframe) between R and Java,72124,Ing. Jaroslav Kucha&#345;
+072152.html,[Rd] override pmin/pmax for my own matrix,72152,Michael Lawrence
+072076.html,[Rd] Inconsistency in treating NaN-results?,72076,Mark van der Loo
+072101.html,[Rd] How do I reliably and efficiently hash a function?,72101,Mark van der Loo
+072092.html,[Rd] inconsistency in POSIXlt,72092,"Lorenz, David"
+072096.html,[Rd] inconsistency in POSIXlt,72096,"Lorenz, David"
+072097.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72097,Martin Maechler
+072100.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72100,Martin Maechler
+072112.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72112,Martin Maechler
+072144.html,[Rd] array() ignores illegal non-list dimnames,72144,Martin Maechler
+072145.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72145,Martin Maechler
+072111.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72111,"Morgan, Martin"
+072078.html,[Rd] Package Dependency,72078,Duncan Murdoch
+072121.html,"[Rd] Question about bug reporting, and the followup process",72121,Duncan Murdoch
+072130.html,[Rd] Assistance much appreciated,72130,Duncan Murdoch
+072161.html,[Rd] typo in src/library/stats/man/family.Rd: names of 'validmu' and 'valideta' ??,72161,Duncan Murdoch
+072079.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72079,Josh O'Brien
+072107.html,[Rd] How do I reliably and efficiently hash a function?,72107,Jeroen Ooms
+072154.html,"[Rd] [Bioc-devel]  For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72154,Herv&#233; Pag&#232;s
+072098.html,[Rd] How do I reliably and efficiently hash a function?,72098,Konrad Rudolph
+072104.html,[Rd] How do I reliably and efficiently hash a function?,72104,Konrad Rudolph
+072108.html,[Rd] How do I reliably and efficiently hash a function?,72108,Konrad Rudolph
+072109.html,[Rd] How do I reliably and efficiently hash a function?,72109,Konrad Rudolph
+072158.html,[Rd] URW Fonts Description in Installation and Administration Manual,72158,Dario Strbenac
+072094.html,"[Rd] For integer vectors, `as(x, &quot;numeric&quot;)` has no effect.",72094,Benjamin Tyner
+072088.html,[Rd] How to efficiently share data (a dataframe) between R and	Java,72088,Simon Urbanek
+072115.html,[Rd] How to efficiently share data (a dataframe) between R and	Java,72115,Simon Urbanek
+072136.html,[Rd] Assistance much appreciated,72136,Simon Urbanek
+072137.html,[Rd] Assistance much appreciated,72137,Simon Urbanek
+072117.html,[Rd] Mystifying SEGFAULT on 3.2.3 but not 3.2.2,72117,Gert van Valkenhoef
+072125.html,[Rd] Mystifying SEGFAULT on 3.2.3 but not 3.2.2,72125,Gert van Valkenhoef
+072105.html,[Rd] How do I reliably and efficiently hash a function?,72105,Hadley Wickham
+072151.html,[Rd] override pmin/pmax for my own matrix,72151,Da Zheng
+072153.html,[Rd] override pmin/pmax for my own matrix,72153,Da Zheng
+072083.html,[Rd] R_PROFILE_USER,72083,peter dalgaard
+072131.html,[Rd] Assistance much appreciated,72131,peter dalgaard
+072134.html,[Rd] Assistance much appreciated,72134,peter dalgaard
+072082.html,[Rd] R_PROFILE_USER,72082,arnaud gaboury
+072084.html,[Rd] R_PROFILE_USER,72084,arnaud gaboury
+072085.html,[Rd] R_PROFILE_USER,72085,arnaud gaboury
+072080.html,[Rd] Compile error about using RInside on windows enviroment,72080,&#26446;&#29733;
+072090.html,[Rd] Can intel c++ compiler be used to compile RInside on windows?,72090,&#26446;&#29733;
+072091.html,[Rd] Is there a way to call R functions in multithread environment?,72091,&#26446;&#29733;
+072103.html,[Rd] Runtime error when run a RInside program compiled by intel c++ on windows,72103,&#26446;&#29733;

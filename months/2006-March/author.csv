@@ -1,0 +1,383 @@
+link,Subject,id,author
+036730.html,[Rd]  R does not have friendly GUI (PR#8656),36730,"Antonio, Fabio Di Narzo"
+036928.html,[Rd] bug in plot.acf,36928,"Antonio, Fabio Di Narzo"
+036935.html,[Rd] bug in plot.acf (PR#8705),36935,"Antonio, Fabio Di Narzo"
+036715.html,[Rd] Peculiar timing result,36715,Douglas Bates
+036720.html,[Rd] Peculiar timing result,36720,Douglas Bates
+036841.html,[Rd] Peculiar timing result,36841,Douglas Bates
+036895.html,[Rd] R make install and demo(graphics) issue,36895,Matthew Beason
+036908.html,[Rd] R make install and demo(graphics) issue,36908,Matthew Beason
+037015.html,[Rd] R make install and demo(graphics) issue,37015,Matthew Beason
+036798.html,[Rd] Wishlist - Give R a name that shows up in search engines	...,36798,Henrik Bengtsson
+036847.html,[Rd] Can example() code stop the example without generating an	error?,36847,Henrik Bengtsson
+036849.html,[Rd] New simpleExit() condition (Was: Re: Can example() code stop	the example without generating an error?),36849,Henrik Bengtsson
+036861.html,[Rd] New simpleExit() condition (Was: Re: Can example() code	stop the example without generating an error?),36861,Henrik Bengtsson
+036977.html,[Rd] Safe to UNPROTECT() when object is assigned to a list?,36977,Henrik Bengtsson
+037006.html,[Rd] How to set options() when a package without a name space is	loaded?,37006,Henrik Bengtsson
+037007.html,[Rd] How to set options() when a package without a name space	is loaded?,37007,Henrik Bengtsson
+037020.html,[Rd] Substitute() changed since R2.3.0 (2006-02-02 r37243)?,37020,Henrik Bengtsson
+037023.html,[Rd] Substitute() changed since R2.3.0 (2006-02-02 r37243)?,37023,Henrik Bengtsson
+036943.html,[Rd] How to capture t-score and p-values from t.test,36943,"Bernzweig, Bruce (Exchange)"
+036945.html,[Rd] How to capture t-score and p-values from t.test,36945,"Bernzweig, Bruce (Exchange)"
+037065.html,[Rd] Run t-test on multiple time series,37065,"Bernzweig, Bruce (Exchange)"
+036957.html,[Rd] Undocumented features of 'browser' (and possible changes),36957,Charles C. Berry
+036840.html,[Rd] Help on interfacing C++ with R,36840,Roger Bivand
+037016.html,[Rd] weights in glm (PR#8720),37016,Ben Bolker
+036920.html,[Rd] Choose.files to give shortnames,36920,"Brooks, Anthony B"
+036753.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36753,Tim Brown
+036859.html,[Rd] multiple packages using the same native code.,36859,James Bullard
+036871.html,[Rd] multiple packages using the same native code.,36871,James Bullard
+036691.html,[Rd] [Fwd: Re: [R] a strange problem with integrate()],36691,Patrick Burns
+036897.html,[Rd] all.equal buglet(s),36897,Patrick Burns
+037038.html,"[Rd] [R] rownames, colnames, and date and time",37038,Patrick Burns
+036927.html,[Rd] R and sun gridengine,36927,Kim Carter
+036757.html,[Rd] validObject does not check validity of slots,36757,John Chambers
+036785.html,[Rd] validObject does not check validity of slots,36785,John Chambers
+037033.html,[Rd] write.table and segment fault?,37033,John Chambers
+036704.html,[Rd] problem with as.table (PR#8652),36704,Peter Dalgaard
+036821.html,[Rd] Wishlist: merge and subset to keep attributes (PR#8658),36821,Peter Dalgaard
+036869.html,[Rd] sub returns garbage (PR#8687),36869,Peter Dalgaard
+036875.html,[Rd] sub returns garbage (PR#8687),36875,Peter Dalgaard
+036892.html,[Rd] anova.mlm (single-model case) does not handle factors?	(PR#8679),36892,Peter Dalgaard
+036893.html,[Rd] collation order,36893,Peter Dalgaard
+036894.html,[Rd] collation order,36894,Peter Dalgaard
+036919.html,[Rd] pbinom( ) function (PR#8700),36919,Peter Dalgaard
+036930.html,[Rd] sub returns garbage (PR#8687),36930,Peter Dalgaard
+036944.html,[Rd] How to capture t-score and p-values from t.test,36944,Peter Dalgaard
+036947.html,[Rd] Undocumented features of 'browser' (and possible changes),36947,Peter Dalgaard
+036979.html,"[Rd] R 2.3.0 scheduled for April 24, Grand-Feature freeze is active",36979,Peter Dalgaard
+036980.html,[Rd] Safe to UNPROTECT() when object is assigned to a list?,36980,Peter Dalgaard
+036982.html,"[Rd] R 2.3.0 scheduled for April 24,	Grand-Feature freeze is active",36982,Peter Dalgaard
+037011.html,[Rd] weights in glm (PR#8720),37011,Peter Dalgaard
+037021.html,[Rd] Substitute() changed since R2.3.0 (2006-02-02 r37243)?,37021,Peter Dalgaard
+037042.html,[Rd] function min does not return correct result if	.Machine$integer.max is involved (PR#8731),37042,Peter Dalgaard
+036747.html,[Rd] Running R on dual/quad Opteron machines,36747,Sean Davis
+036752.html,[Rd] Running R on dual/quad Opteron machines,36752,Sean Davis
+036692.html,[Rd] stopifnot() suggestion,36692,Dan Davison
+036694.html,[Rd] stopifnot() suggestion,36694,Dan Davison
+036933.html,[Rd] R and sun gridengine,36933,Michael Dondrup
+036973.html,"[Rd] Operator masks in R, restrict set of applicable functions",36973,Michael Dondrup
+036985.html,"[Rd] Operator masks in R, restrict set of applicable functions",36985,Michael Dondrup
+037046.html,[Rd] R and sun gridengine,37046,Michael Dondrup
+036955.html,"[Rd] gsub(replacement=&quot;\\X&quot;) -&gt; &quot;X&quot;, not &quot;\\X&quot;",36955,Bill Dunlap
+036766.html,[Rd] possible bug: NULL equality in lists.,36766,Charles Dupont
+036776.html,[Rd] possible bug: NULL equality in lists.,36776,Charles Dupont
+036777.html,[Rd] Expanding partial names,36777,Charles Dupont
+036813.html,[Rd] Expanding partial names,36813,Charles Dupont
+036726.html,[Rd] Build directory path saved in Meta/hsearch.rds,36726,Dirk Eddelbuettel
+036733.html,[Rd] R does not have friendly GUI (PR#8656),36733,Dirk Eddelbuettel
+036790.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36790,Dirk Eddelbuettel
+036923.html,[Rd] Choose.files to give shortnames,36923,P Ehlers
+036771.html,[Rd] possible bug: NULL equality in lists.,36771,Seth Falcon
+036775.html,[Rd] possible bug: NULL equality in lists.,36775,Seth Falcon
+036780.html,[Rd] possible bug: NULL equality in lists.,36780,Seth Falcon
+036788.html,[Rd] SVN troubles,36788,Seth Falcon
+036860.html,[Rd] multiple packages using the same native code.,36860,Seth Falcon
+036874.html,[Rd] multiple packages using the same native code.,36874,Seth Falcon
+036949.html,[Rd] Undocumented features of 'browser' (and possible changes),36949,Seth Falcon
+036983.html,[Rd] Creating a package bundle.,36983,Seth Falcon
+036689.html,[Rd] (no subject),36689,Filipe
+036729.html,[Rd] R does not have friendly GUI (PR#8656),36729,Romain Francois
+036822.html,[Rd] Wishlist - Give R a name that shows up in search engines ...,36822,Friedrich.Leisch at tuwien.ac.at
+036755.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36755,Jeff Gentry
+036745.html,[Rd] Running R on dual/quad Opteron machines,36745,Simone Giannerini
+036748.html,[Rd] Running R on dual/quad Opteron machines,36748,Simone Giannerini
+036750.html,[Rd] Running R on dual/quad Opteron machines,36750,Simone Giannerini
+036759.html,[Rd] Running R on dual/quad Opteron machines,36759,Simone Giannerini
+036764.html,[Rd] Running R on dual/quad Opteron machines,36764,Simone Giannerini
+036899.html,[Rd] About AHP (Analytic Hierachy process),36899,Simone Giannerini
+036716.html,[Rd] Peculiar timing result,36716,Paul Gilbert
+037030.html,[Rd] Bundle internal dependencies,37030,Paul Gilbert
+037067.html,[Rd] package?&lt;pac&gt;,37067,Paul Gilbert
+036843.html,[Rd] Undocumented argument na.last in factor(),36843,Gregor Gorjanc
+036844.html,[Rd] Internal codes of the factor,36844,Gregor Gorjanc
+036846.html,[Rd] Undocumented argument na.last in factor(),36846,Gregor Gorjanc
+036856.html,[Rd] Internal codes of the factor,36856,Gregor Gorjanc
+036901.html,[Rd] [R] Collapsing levels of a factor,36901,Gregor Gorjanc
+036906.html,[Rd] levels for list and data.frame,36906,Gregor Gorjanc
+036909.html,[Rd] levels for list and data.frame,36909,Gregor Gorjanc
+036913.html,[Rd] [Fwd: Re:  levels for list and data.frame],36913,Gregor Gorjanc
+036914.html,[Rd] levels for list and data.frame,36914,Gregor Gorjanc
+036924.html,[Rd] Choose.files to give shortnames,36924,Philippe Grosjean
+036690.html,[Rd] (no subject),36690,Gabor Grothendieck
+036705.html,[Rd] '...' passed to both plot() and legend(),36705,Gabor Grothendieck
+036722.html,[Rd] [as.POSIXlt]: Incorrect conversion only for some specific	date/time (PR#8654),36722,Gabor Grothendieck
+036754.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36754,Gabor Grothendieck
+036767.html,[Rd] Expanding partial names,36767,Gabor Grothendieck
+036770.html,[Rd] Expanding partial names,36770,Gabor Grothendieck
+036851.html,[Rd] New simpleExit() condition (Was: Re: Can example() code	stop the example without generating an error?),36851,Gabor Grothendieck
+036938.html,[Rd] bug in plot.acf (PR#8705),36938,Gabor Grothendieck
+036970.html,"[Rd] &quot;sh&quot; is not recognised as an internal or external comman d,	operable program or batch file",36970,Gabor Grothendieck
+037017.html,[Rd] Wishlist - access non-text from clipboard in Windows,37017,Gabor Grothendieck
+037025.html,[Rd] Wishlist - access non-text from clipboard in Windows,37025,Gabor Grothendieck
+036820.html,[Rd] Wishlist: merge and subset to keep attributes (PR#8658),36820,Ulrike Gr&#246;mping
+036867.html,[Rd] Installation of gmodels package (PR#8686),36867,Kjetil Brinchmann Halvorsen
+036956.html,[Rd] How to capture t-score and p-values from t.test,36956,Kjetil Brinchmann Halvorsen
+036807.html,[Rd] R started in terminal shell script or ESS	steps	on	LD_LIBRARY_PATH?,36807,Kasper Daniel Hansen
+036787.html,[Rd] SVN troubles,36787,Cyrus Harmon
+036793.html,[Rd] SVN troubles,36793,Cyrus Harmon
+036886.html,[Rd] Open .ssc .S ... files in R (PR#8690),36886,Tim Hesterberg
+036884.html,[Rd] About AHP (Analytic Hierachy process),36884,Omrani Hichem
+036743.html,[Rd] Bug or Feature in Rcmd build workaround workaround for paths	in Cygwin tar,36743,Michael Hoehle
+037040.html,[Rd] symbols plot,37040,Joerg van den Hoff
+036799.html,[Rd] Wishlist - Give R a name that shows up in search engines ...,36799,Jeffrey Horner
+037054.html,[Rd] Writing character vectors with embedded nulls to a connection,37054,Jeffrey Horner
+036700.html,[Rd] problem with as.table (PR#8652),36700,I.J.Wilson at ncl.ac.uk
+037032.html,[Rd] write.table and segment fault?,37032,David James
+036936.html,[Rd] Sweaving in png,36936,Thibaut Jombart
+036739.html,[Rd]  Wishlist: merge and subset to keep attributes (PR#8658),36739,Frank E Harrell Jr
+036827.html,[Rd] Logic Error (PR#8677),36827,Janusz Kawczak
+037048.html,[Rd] request to add &quot;...&quot; to cat(ngettext in &quot;warnings&quot; function,37048,Leif Kirschenbaum
+036762.html,[Rd] double pointer matrix,36762,Bernd Kriegstein
+036834.html,[Rd] problem building R-patched on x86-64 with PGI 6.1,36834,Jennifer Lai
+036838.html,[Rd] problem building R-patched on x86-64 with PGI 6.1,36838,Jennifer Lai
+036879.html,[Rd] multiple packages using the same native code.,36879,Duncan Temple Lang
+036825.html,[Rd] Logic Error (PR#8677),36825,Jan de Leeuw
+036706.html,[Rd] minor oddity in pdf() help page,36706,Hin-Tak Leung
+036709.html,[Rd] minor oddity in pdf() help page,36709,Hin-Tak Leung
+036761.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36761,Hin-Tak Leung
+036763.html,[Rd] double pointer matrix,36763,Hin-Tak Leung
+036795.html,[Rd] double pointer matrix,36795,Hin-Tak Leung
+036800.html,[Rd] Wishlist - Give R a name that shows up in search engines ...,36800,Hin-Tak Leung
+036803.html,[Rd] R started in terminal shell script or ESS	steps	on	LD_LIBRARY_PATH?,36803,Hin-Tak Leung
+036929.html,[Rd] sub returns garbage (PR#8687),36929,Hin-Tak Leung
+036718.html,[Rd] Peculiar timing result,36718,"Liaw, Andy"
+036791.html,[Rd] Wishlist - Give R a name that shows up in search engines ...,36791,"Liaw, Andy"
+036815.html,[Rd] problem building R-patched on x86-64 with PGI 6.1,36815,"Liaw, Andy"
+036842.html,[Rd] problem building R-patched on x86-64 with PGI 6.1,36842,"Liaw, Andy"
+036969.html,"[Rd] &quot;sh&quot; is not recognised as an internal or external comman d, operable program or batch file",36969,"Liaw, Andy"
+037050.html,[Rd] compress defaults for save() and save.image(),37050,"Liaw, Andy"
+036768.html,[Rd] possible bug: NULL equality in lists.,36768,Uwe Ligges
+036773.html,[Rd] possible bug: NULL equality in lists.,36773,Uwe Ligges
+036778.html,[Rd] possible bug: NULL equality in lists.,36778,Uwe Ligges
+036781.html,[Rd] possible bug: NULL equality in lists.,36781,Uwe Ligges
+036832.html,[Rd] Building help pages,36832,Uwe Ligges
+036848.html,[Rd] Can example() code stop the example without generating an error?,36848,Uwe Ligges
+036902.html,[Rd] Package dependencies when submitting to CRAN: policies?,36902,Uwe Ligges
+036981.html,[Rd] Creating a package bundle.,36981,Uwe Ligges
+036749.html,[Rd] Running R on dual/quad Opteron machines,36749,Thomas Lumley
+036751.html,[Rd] Running R on dual/quad Opteron machines,36751,Thomas Lumley
+036858.html,[Rd] R_alloc problem on Mac OSX (PR#8683),36858,Thomas Lumley
+036890.html,[Rd] collation order,36890,Thomas Lumley
+036784.html,[Rd] R started in terminal shell script or ESS steps on	LD_LIBRARY_PATH?,36784,Marc Schwartz (via MN)
+036802.html,[Rd] R started in terminal shell script or ESS steps	on	LD_LIBRARY_PATH?,36802,Marc Schwartz (via MN)
+036805.html,[Rd] R started in terminal shell script or ESS	steps	on	LD_LIBRARY_PATH?,36805,Marc Schwartz (via MN)
+036808.html,[Rd] R started in terminal shell script or ESS	steps	on	LD_LIBRARY_PATH?,36808,Marc Schwartz (via MN)
+037068.html,[Rd] Segfault with too many menu items on Rgui,37068,James MacDonald
+036698.html,[Rd] stopifnot() suggestion,36698,Martin Maechler
+036758.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36758,Martin Maechler
+036786.html,[Rd] validObject does not check validity of slots,36786,Martin Maechler
+036845.html,[Rd] Undocumented argument na.last in factor(),36845,Martin Maechler
+036877.html,[Rd] Wishlist: 'append' argument for write.ftable(),36877,Martin Maechler
+036878.html,[Rd] .Platform$eol.sep ? [Re: &quot;\r&quot; with RSQLite],36878,Martin Maechler
+036898.html,[Rd] all.equal buglet(s),36898,Martin Maechler
+036910.html,[Rd] levels for list and data.frame,36910,Martin Maechler
+036953.html,[Rd] Help please: please test timestamping of command history,36953,Martin Maechler
+036971.html,[Rd] Help please: please test timestamping of command history,36971,Martin Maechler
+036995.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,36995,Martin Maechler
+036717.html,[Rd] script to create rpm spec files from CRAN packages,36717,Jos&#233; Matos
+036724.html,[Rd] Build directory path saved in Meta/hsearch.rds,36724,Jos&#233; Matos
+036725.html,[Rd] Build directory path saved in Meta/hsearch.rds,36725,Jos&#233; Matos
+036794.html,[Rd] Build directory path saved in Meta/hsearch.rds,36794,Jos&#233; Matos
+037045.html,[Rd] Documentation of aic function in family objects,37045,Lukas Meier
+036863.html,[Rd] R 2.2 for Suse 9.1,36863,Sebastien Moretti
+036746.html,[Rd] validObject does not check validity of slots,36746,Martin Morgan
+036774.html,[Rd] validObject does not check validity of slots,36774,Martin Morgan
+037022.html,[Rd] Bundle internal dependencies,37022,Iago Mosqueira
+036688.html,[Rd] GUI Crashes (PR#8649),36688,Duncan Murdoch
+036710.html,[Rd] Named parameters in optim(),36710,Duncan Murdoch
+036712.html,[Rd] Named parameters in optim(),36712,Duncan Murdoch
+036714.html,[Rd] Problem with creating links (&quot;see also&quot; section) in help files.,36714,Duncan Murdoch
+036756.html,[Rd] Wishlist - Give R a name that shows up in search engines...,36756,Duncan Murdoch
+036765.html,[Rd] Expanding partial names,36765,Duncan Murdoch
+036769.html,[Rd] Expanding partial names,36769,Duncan Murdoch
+036782.html,[Rd] Expanding partial names,36782,Duncan Murdoch
+036789.html,[Rd] Expanding partial names,36789,Duncan Murdoch
+036792.html,[Rd] Expanding partial names,36792,Duncan Murdoch
+036796.html,[Rd] Expanding partial names,36796,Duncan Murdoch
+036826.html,[Rd] Logic Error (PR#8677),36826,Duncan Murdoch
+036828.html,[Rd] Logic Error (PR#8677),36828,Duncan Murdoch
+036837.html,[Rd] [R] dotchart: Gap between text and chart (PR#8681),36837,Duncan Murdoch
+036885.html,[Rd] Open .ssc .S ... files in R (PR#8690),36885,Duncan Murdoch
+036887.html,[Rd] Open .ssc .S ... files in R (PR#8690),36887,Duncan Murdoch
+036904.html,[Rd] Open .ssc .S ... files in R (PR#8690),36904,Duncan Murdoch
+036916.html,[Rd] pbinom( ) function (PR#8700),36916,Duncan Murdoch
+036921.html,[Rd] pbinom( ) function (PR#8700),36921,Duncan Murdoch
+036932.html,[Rd] [R] RGui: windows-record and command history,36932,Duncan Murdoch
+036937.html,[Rd] bug in plot.acf (PR#8705),36937,Duncan Murdoch
+036941.html,[Rd] bug in plot.acf (PR#8705),36941,Duncan Murdoch
+036942.html,[Rd] bug in plot.acf (PR#8705),36942,Duncan Murdoch
+036950.html,[Rd] Help please: please test timestamping of command history,36950,Duncan Murdoch
+036954.html,[Rd] Help please: please test timestamping of command history,36954,Duncan Murdoch
+036961.html,[Rd] Help please: please test timestamping of command history,36961,Duncan Murdoch
+036964.html,[Rd] Wishlist - access non-text from clipboard in Windows,36964,Duncan Murdoch
+036978.html,[Rd] Help please: please test timestamping of command history,36978,Duncan Murdoch
+037008.html,[Rd] How to set options() when a package without a name space is	loaded?,37008,Duncan Murdoch
+037024.html,[Rd] Wishlist - access non-text from clipboard in Windows,37024,Duncan Murdoch
+037026.html,[Rd] substitute() bug by you ? [forwarded],37026,Duncan Murdoch
+037063.html,[Rd] Fortran and C entry point problem.,37063,Duncan Murdoch
+036962.html,[Rd] [R] RGui: windows-record and command history,36962,Paul Murrell
+036965.html,[Rd] Sweaving in png,36965,Roger Peng
+036693.html,[Rd] stopifnot() suggestion,36693,Roger D. Peng
+036703.html,[Rd] minor oddity in pdf() help page,36703,Roger D. Peng
+036708.html,[Rd] minor oddity in pdf() help page,36708,Roger D. Peng
+037049.html,[Rd] compress defaults for save() and save.image(),37049,Roger D. Peng
+037035.html,"[Rd] [R] atan2(1,1i)",37035,Fran&#231;ois Pinard
+036814.html,[Rd] Is R threadsafe?,36814,Kannan Ramaswamy
+036697.html,[Rd] stopifnot() suggestion,36697,Prof Brian Ripley
+036699.html,[Rd] stopifnot() suggestion,36699,Prof Brian Ripley
+036702.html,[Rd] '...' passed to both plot() and legend(),36702,Prof Brian Ripley
+036707.html,[Rd] minor oddity in pdf() help page,36707,Prof Brian Ripley
+036711.html,[Rd] Named parameters in optim(),36711,Prof Brian Ripley
+036719.html,[Rd] Peculiar timing result,36719,Prof Brian Ripley
+036727.html,[Rd] Build directory path saved in Meta/hsearch.rds,36727,Prof Brian Ripley
+036731.html,[Rd] Build directory path saved in Meta/hsearch.rds,36731,Prof Brian Ripley
+036744.html,[Rd] Bug or Feature in Rcmd build workaround workaround for paths in Cygwin tar,36744,Prof Brian Ripley
+036760.html,[Rd] Running R on dual/quad Opteron machines,36760,Prof Brian Ripley
+036812.html,[Rd] Wishlist: Creating horizontal PDFs,36812,Prof Brian Ripley
+036816.html,[Rd] problem building R-patched on x86-64 with PGI 6.1,36816,Prof Brian Ripley
+036817.html,[Rd] Peculiar timing result,36817,Prof Brian Ripley
+036819.html,[Rd] Quicker quantiles?,36819,Prof Brian Ripley
+036836.html,[Rd] [R] dotchart: Gap between text and chart (PR#8681),36836,Prof Brian Ripley
+036850.html,[Rd] Can example() code stop the example without generating an error?,36850,Prof Brian Ripley
+036854.html,[Rd] Fwd: makeconf issue on R-devel 2006-03-12 r37524,36854,Prof Brian Ripley
+036960.html,[Rd] Choose.files to give shortnames,36960,Prof Brian Ripley
+036963.html,[Rd] Suggest patch for princomp.formula and prcomp.formula,36963,Prof Brian Ripley
+036974.html,"[Rd] Operator masks in R, restrict set of applicable functions",36974,Prof Brian Ripley
+036986.html,"[Rd] Operator masks in R, restrict set of applicable functions",36986,Prof Brian Ripley
+036994.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,36994,Prof Brian Ripley
+036997.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,36997,Prof Brian Ripley
+037001.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37001,Prof Brian Ripley
+037004.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37004,Prof Brian Ripley
+037009.html,[Rd] How to set options() when a package without a name space is loaded?,37009,Prof Brian Ripley
+037019.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37019,Prof Brian Ripley
+037027.html,"[Rd] [R] rownames, colnames, and date and time",37027,Prof Brian Ripley
+037031.html,"[Rd] [R] rownames, colnames, and date and time",37031,Prof Brian Ripley
+037044.html,"[Rd] [R] rownames, colnames, and date and time",37044,Prof Brian Ripley
+037047.html,[Rd] compress defaults for save() and save.image(),37047,Prof Brian Ripley
+037058.html,[Rd] [R] R garbage collection,37058,Prof Brian Ripley
+037059.html,[Rd] Writing character vectors with embedded nulls to a	connection,37059,Prof Brian Ripley
+037066.html,[Rd] Writing character vectors with embedded nulls to a	connection,37066,Prof Brian Ripley
+036701.html,[Rd] '...' passed to both plot() and legend(),36701,Dimitris Rizopoulos
+036772.html,[Rd] possible bug: NULL equality in lists.,36772,Dimitris Rizopoulos
+036993.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,36993,Andrew Robinson
+036996.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,36996,Andrew Robinson
+036998.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,36998,Andrew Robinson
+037002.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37002,Andrew Robinson
+037003.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37003,Andrew Robinson
+037013.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37013,Andrew Robinson
+037014.html,[Rd] R 2.3.0 (alpha) on FreeBSD 6.1 fails make check-all,37014,Andrew Robinson
+036903.html,[Rd] Open .ssc .S ... files in R (PR#8690),36903,Paul Roebuck
+036926.html,[Rd] diag manpage quibble,36926,Paul Roebuck
+036852.html,[Rd] RcppTemplate 2.0 R/C++ interface library update,36852,Dominick Samperi
+036696.html,[Rd] wishlist: functions to manipulate functions,36696,Deepayan Sarkar
+036783.html,[Rd] Expanding partial names,36783,Deepayan Sarkar
+037053.html,[Rd] custom strip in lattice ignoring plotmath expressions for	all but style = 1 (PR#8733),37053,Deepayan Sarkar
+036958.html,[Rd]  How to capture t-score and p-values from t.test,36958,Gordon K Smyth
+036864.html,[Rd] R 2.2 for Suse 9.1,36864,Detlef Steuer
+036966.html,[Rd] Creating a package bundle.,36966,Steve Su
+036968.html,"[Rd] &quot;sh&quot; is not recognised as an internal or external command,	operable program or batch file",36968,Steve Su
+037034.html,[Rd] Compiling codes from existing packages.,37034,Steve Su
+037057.html,[Rd] Fortran and C entry point problem.,37057,Steve Su
+036839.html,[Rd] Help on interfacing C++ with R,36839,Sun.Bing at epamail.epa.gov
+037064.html,[Rd] [R] R garbage collection,37064,Luke Tierney
+036855.html,[Rd] Internal codes of the factor,36855,Berwin A Turlach
+036951.html,[Rd] Suggest patch for princomp.formula and prcomp.formula,36951,Berwin A Turlach
+036975.html,[Rd] Suggest patch for princomp.formula and prcomp.formula,36975,Berwin A Turlach
+037055.html,[Rd] custom strip in lattice ignoring plotmath expressions for all but style = 1 (PR#8733),37055,Benjamin Tyner
+036888.html,[Rd] Open .ssc .S ... files in R (PR#8690),36888,Simon Urbanek
+036891.html,[Rd] collation order,36891,Simon Urbanek
+036896.html,[Rd] R make install and demo(graphics) issue,36896,Simon Urbanek
+036940.html,[Rd] R make install and demo(graphics) issue,36940,Simon Urbanek
+036872.html,[Rd] Wishlist: 'append' argument for write.ftable(),36872,Stephen D. Weigand
+036873.html,[Rd] Wishlist: 'append' argument for write.ftable(),36873,Stephen D. Weigand
+036801.html,[Rd] Wishlist: Creating horizontal PDFs,36801,Kevin Wright
+036946.html,[Rd] Undocumented features of 'browser' (and possible changes),36946,Kevin Wright
+036948.html,[Rd] Undocumented features of 'browser' (and possible changes),36948,Kevin Wright
+036880.html,[Rd] anova.mlm (single-model case) does not handle factors?	(PR#8679),36880,Yves.Rosseel at UGent.be
+036881.html,[Rd] wishlist: function mlh.mlm to test multivariate linear	hypotheses of the form: LBT'=0 (PR#8680),36881,Yves.Rosseel at UGent.be
+036976.html,[Rd] ?symbols man page (PR#8713),36976,toby at abdn.ac.uk
+036984.html,[Rd] not a problem: a submission (PR#8714),36984,toby at abdn.ac.uk
+036721.html,[Rd] [as.POSIXlt]: Incorrect conversion only for some specific	date/time (PR#8654),36721,aziz.chaouch at gmail.com
+037061.html,[Rd] Bug in barplot (PR#8738),37061,michael.watson at bbsrc.ac.uk
+036918.html,[Rd] pbinom( ) function (PR#8700),36918,p.dalgaard at biostat.ku.dk
+037012.html,[Rd] RS-DBI does not recognized MySQL decimals (PR#8723),37012,jtrimble at bodymedia.com
+036797.html,[Rd] Wishlist - Give R a name that shows up in search engines	...,36797,roger bos
+037000.html,[Rd] Secure SMTP Message (PR#8719),37000,info at chatta.it
+036912.html,[Rd] pbinom( ) function (PR#8700),36912,cspark at clemson.edu
+036939.html,[Rd] enhancement request for browser (PR#8706),36939,TimHesterberg at comcast.net
+036987.html,[Rd] Matrix inner product crashes on x86_64 (PR#8715),36987,jtlindgr at cs.Helsinki.FI
+036989.html,[Rd] Matrix inner product crashes on x86_64 (PR#8715),36989,jtlindgr at cs.Helsinki.FI
+037039.html,[Rd] ansari.test one-tailed (PR#8730),37039,gael.millot at curie.fr
+036857.html,[Rd] R_alloc problem on Mac OSX (PR#8683),36857,dan.kelley at dal.ca
+036695.html,[Rd] Bug/Wishlist: 'partial' in 'sort' and 'quantile' (PR#8650),36695,deepayan.sarkar at gmail.com
+036882.html,[Rd] documentation for plot.default (PR#8689),36882,dgrove at fhcrc.org
+036907.html,[Rd] R-2.2.0 format.default() loses matrix structure (PR#8696),36907,Jeffrey.J.Hallman at frb.gov
+036905.html,[Rd] format.default loses matrix structure (PR#8695),36905,jhallman at frb.gov
+037036.html,[Rd] header containing 8713 (PR#8729),37036,j.van_den_hoff at fz-rossendorf.de
+037056.html,[Rd] custom strip in lattice ignoring plotmath expressions for	all (PR#8734),37056,btyner at gmail.com
+037052.html,[Rd] custom strip in lattice ignoring plotmath expressions for	all but style = 1 (PR#8733),37052,deepayan.sarkar at gmail.com
+036911.html,[Rd] Double complex with gcc and Intel v9 Fortran (PR#8699),36911,marquardt.christian at gmail.com
+037028.html,[Rd] pictex should quote underscores (PR#8725),37028,sds at gnu.org
+036804.html,[Rd] Clipboard connections (PR#8668),36804,graywh at gmail.com
+036735.html,[Rd] Wishlist: merge and subset to keep attributes (PR#8658),36735,groemping at tfh-berlin.de
+036736.html,[Rd] Wishlist: xtabs and table to optionally use attribute value	labels (PR#8659),36736,groemping at tfh-berlin.de
+037041.html,[Rd] function min does not return correct result if	.Machine$integer.max is involved (PR#8731),37041,schlather at hsu-hh.de
+036687.html,[Rd] GUI Crashes (PR#8649),36687,jcredberry at gmail.com
+036740.html,[Rd] Bug/Wishlist: 'partial' in 'sort' and 'quantile' (PR#8650),36740,roger koenker
+036818.html,[Rd] Quicker quantiles?,36818,roger koenker
+036853.html,[Rd] Fwd: makeconf issue on R-devel 2006-03-12 r37524,36853,roger koenker
+036990.html,"[Rd] sink(..., split=T) gives segmentation fault (PR#8716)",36990,Rbugs06 at kreil.org
+036824.html,[Rd] Logic Error (PR#8677),36824,mkdavis at math.ucalgary.ca
+036870.html,[Rd] sub returns garbage (PR#8687),36870,mschwartz at mn.rr.com
+036835.html,[Rd] [R] dotchart: Gap between text and chart (PR#8681),36835,murdoch at stats.uwo.ca
+036925.html,"[Rd] Company Representative Needed, (PR#8704)",36925,feihuacompany at netscape.net
+036876.html,[Rd] sub returns garbage (PR#8687),36876,p.dalgaard at biostat.ku.dk
+037029.html,[Rd] bug in pictex() (package:grDevices) (PR#8727),37029,sds at podval.org
+036967.html,[Rd] Touchdown Equity Report (PR#8711),36967,carminechilds_jg at porterpartners.com
+036991.html,[Rd] Error once having applied (PR#8718),36991,pinard at progiciels-bpi.ca
+036723.html,[Rd] (PR#8654) failure to read the help carefully!,36723,ripley at stats.ox.ac.uk
+036732.html,[Rd] Bug/Wishlist: 'partial' in 'sort' and 'quantile' (PR#8650),36732,ripley at stats.ox.ac.uk
+036810.html,[Rd] Clipboard connections (PR#8668),36810,ripley at stats.ox.ac.uk
+036811.html,[Rd] bugs in simtest (PR#8670),36811,ripley at stats.ox.ac.uk
+036830.html,[Rd] Sys.sleep waits forever + workaround (PR#8678),36830,ripley at stats.ox.ac.uk
+036809.html,[Rd] bugs in simtest (PR#8670),36809,rmh at temple.edu
+036862.html,[Rd] survBayes (PR#8685),36862,silvia.figini at eco.unipv.it
+036889.html,[Rd] Open .ssc .S ... files in R (PR#8690),36889,simon.urbanek at r-project.org
+036915.html,[Rd] pbinom( ) function (PR#8700),36915,maechler at stat.math.ethz.ch
+036917.html,[Rd] pbinom( ) function (PR#8700),36917,maechler at stat.math.ethz.ch
+036934.html,[Rd] bug in plot.acf (PR#8705),36934,maechler at stat.math.ethz.ch
+036999.html,[Rd] Error once having applied (PR#8718),36999,maechler at stat.math.ethz.ch
+037051.html,[Rd] custom strip in lattice ignoring plotmath expressions for all	but style = 1 (PR#8733),37051,btyner at stat.purdue.edu
+036959.html,[Rd] Double complex with gcc and Intel v9 Fortran (PR#8699),36959,ripley at stats.ox.ac.uk
+036988.html,[Rd] Matrix inner product crashes on x86_64 (PR#8715),36988,ripley at stats.ox.ac.uk
+036992.html,[Rd] Matrix inner product crashes on x86_64 (PR#8715),36992,ripley at stats.ox.ac.uk
+037010.html,[Rd] weights in glm (PR#8720),37010,ripley at stats.ox.ac.uk
+037018.html,[Rd] RS-DBI does not recognized MySQL decimals (PR#8723),37018,ripley at stats.ox.ac.uk
+037037.html,[Rd] header containing 8713 (PR#8713),37037,ripley at stats.ox.ac.uk
+037043.html,[Rd] function min does not return correct result if	.Machine$integer.max (PR#8732),37043,ripley at stats.ox.ac.uk
+037062.html,[Rd] Bug in barplot (PR#8738),37062,ripley at stats.ox.ac.uk
+036922.html,[Rd] pbinom( ) function (PR#8700),36922,murdoch at stats.uwo.ca
+036931.html,[Rd] bug in plot.acf (PR#8705),36931,murdoch at stats.uwo.ca
+036806.html,[Rd] Error in return value for as.Date() (PR#8669),36806,thomas.wainwright at noaa.gov
+036741.html,[Rd] Problem with R CMD Rdconv -t Ssgm file.Rd &gt; file.sgml;	omits section{foo}{text} (PR#8660),36741,timh at insightful.com
+036742.html,[Rd] Problems with R CMD Rdconv and R CMD Sd2Rd (PR#8661),36742,timh at insightful.com
+036883.html,[Rd] Open .ssc .S ... files in R (PR#8690),36883,timh at insightful.com
+036823.html,[Rd] merge.data.frame bug report (PR#8676),36823,todd at baileywick.plus.com
+036866.html,[Rd] PR#8676,36866,todd at baileywick.plus.com
+036868.html,[Rd] sub returns garbage (PR#8687),36868,todd at baileywick.plus.com
+036728.html,[Rd] R does not have friendly GUI (PR#8656),36728,towsonu2003 at gmail.com
+036865.html,[Rd] Installation of gmodels package (PR#8686),36865,trfamula at ucdavis.edu
+036972.html,[Rd] Sweaving in png,36972,Friedrich.Leisch at tuwien.ac.at
+037060.html,[Rd] compress defaults for save() and save.image(),37060,Friedrich.Leisch at tuwien.ac.at
+036734.html,[Rd] R does not have friendly GUI (PR#8656),36734,t u
+036952.html,[Rd] Suggestion: Slightly Clearer Error Message,36952,ivo welch
+036829.html,[Rd] Sys.sleep waits forever + workaround (PR#8678),36829,westfeld at inf.tu-dresden.de
+036779.html,[Rd] Expanding partial names,36779,hadley wickham
+036900.html,[Rd] Package dependencies when submitting to CRAN: policies?,36900,hadley wickham
+037005.html,[Rd] weights in glm (PR#8720),37005,robert.pusz at wp.pl
+036713.html,[Rd] Problem with creating links (&quot;see also&quot; section) in help files.,36713,Ale&#353; &#381;iberna
+036737.html,[Rd] Problem with creating links (&quot;see also&quot; section) in help files.,36737,Ale&#353; &#381;iberna
+036738.html,[Rd] Problem with creating links (&quot;see also&quot; section) in help files.,36738,Ale&#353; &#381;iberna
+036831.html,[Rd] Building help pages,36831,Ale&#353; &#381;iberna
+036833.html,[Rd] Building help pages,36833,Ale&#353; &#381;iberna

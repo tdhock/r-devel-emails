@@ -1,0 +1,124 @@
+link,Subject,id,author
+021945.html,[Rd] AW: par(par()) corrupts devices (PR#807),21945,&quot;Dr. Jens Oehlschlägel&quot;
+021898.html,[Rd] memory trouble,21898, Jens Oehlschlägel 
+021931.html,[Rd] Re: Re: some problems with windows(rescale=) (PR#794),21931, Jens Oehlschlägel 
+021894.html,[Rd] minor problems (if problems at all): &lt;ESC&gt; in RGui; finding (PR#800),21894,Peter Dalgaard BSA
+021896.html,[Rd] pos.to.env and sys.xxx documentation (PR#801),21896,Peter Dalgaard BSA
+021906.html,"[Rd] crash with scan(..., what=list(,,)) (PR#802)",21906,Peter Dalgaard BSA
+021910.html,[Rd] Bug list summary (automatic post),21910,Peter Dalgaard BSA
+021928.html,[Rd] eval() bug in plot.formula() ?,21928,Peter Dalgaard BSA
+021952.html,[Rd] PR#751,21952,Peter Dalgaard BSA
+021954.html,[Rd] PR#751,21954,Peter Dalgaard BSA
+021955.html,[Rd] PR#751,21955,Peter Dalgaard BSA
+021964.html,[Rd] Bug list summary (automatic post),21964,Peter Dalgaard BSA
+021997.html,[Rd] variables in nls (PR#829),21997,Peter Dalgaard BSA
+022005.html,[Rd] Disappearing x axis in plot.factor (PR#830),22005,Peter Dalgaard BSA
+022008.html,[Rd] would like to configure help.start() point to a http:// style url rather than ~/.R/doc etc (fwd),22008,Peter Dalgaard BSA
+022013.html,[Rd] link in FAQ incorrect (PR#833),22013,Peter Dalgaard BSA
+021990.html,[Rd] Suggestion for an extension of the API,21990,Douglas Bates
+021909.html,[Rd] R/S-Plus compatibility package,21909,John Chambers
+021922.html,[Rd] changing dimnames of a matrix with rownames/colnames causes (PR#809),21922,David.Meyer@ci.tuwien.ac.at
+021994.html,[Rd] Off-topic: Pretty-printing R (or S) code with GNU a2ps,21994,Dirk Eddelbuettel
+021977.html,[Rd] Re: [R] RPM of R-1.2.1 for RH 7?,21977,Yoriaki FUJIMORI
+021923.html,[Rd] nearest neighbors,21923,Robert Gentleman
+021968.html,[Rd] 1.2.1 segfault,21968,Paul Gilbert
+021891.html,[Rd] minor problems (if problems at all): &lt;ESC&gt; in RGui; finding some (PR#799),21891,H.RINNER@TIROL.GV.AT
+021956.html,[Rd] dotplot: character size of labels (PR#816),21956,H.RINNER@TIROL.GV.AT
+021890.html,[Rd] Re: Package overview document?,21890,Kurt Hornik
+021976.html,[Rd] DSC 2001: 2nd CFP,21976,Kurt Hornik
+021986.html,[Rd] problems compiling R under digital unix 4.0d (PR#826),21986,Kurt Hornik
+021936.html,[Rd] segmentation fault in integrate (PR#812),21936,Torsten Hothorn
+021914.html,[Rd] Inconsistent behaviour in solve (PR#805),21914,J.C.Rougier@durham.ac.uk
+021948.html,[Rd] Re: announce: survival5 bug fix,21948,Peter Kleiweg
+021950.html,[Rd] Error diagnostics in hpdlfcn.c,21950,Peter Kleiweg
+021973.html,[Rd] Re: Sys.time dumps core at start-up (PR#822),21973,Peter Kleiweg
+021975.html,[Rd] Re: Sys.time dumps core at start-up (PR#822),21975,Peter Kleiweg
+021926.html,[Rd] nearest neighbors,21926,Nicholas Lewin-Koh
+021939.html,[Rd] segmentation fault in integrate (PR#812),21939,Uwe Ligges
+021996.html,[Rd] variables in nls (PR#829),21996,Uwe Ligges
+021993.html,[Rd] termplot fails for composite non-factor terms (PR#828),21993,Thomas Lumley
+021901.html,[Rd] memory trouble,21901,Martin Maechler
+021927.html,[Rd] eval() bug in plot.formula() ?,21927,Martin Maechler
+021889.html,[Rd] Package overview document?,21889,Duncan Murdoch
+021905.html,"[Rd] crash with scan(..., what=list(,,)) (PR#802)",21905,Duncan Murdoch
+021967.html,[Rd] Guidelines for print methods?,21967,Duncan Murdoch
+021949.html,[Rd] Re: AW: par(par()) corrupts devices (PR#807),21949,Paul Murrell
+021900.html,"[Rd] R sings, this time REALLY",21900,Erich Neuwirth
+021988.html,[Rd] tseries 0.7-0 with R 1.2.1 dumps core (PR#827),21988,Martyn Plummer
+021916.html,[Rd] configure error on alpha (PR#806),21916,Richard.Beare@cmis.CSIRO.AU
+021897.html,[Rd] problems with glm (PR#771),21897,Prof Brian Ripley
+021902.html,[Rd] memory trouble,21902,Prof Brian Ripley
+021903.html,[Rd] memory trouble,21903,Prof Brian Ripley
+021925.html,[Rd] nearest neighbors,21925,Prof Brian Ripley
+021946.html,[Rd] Re: AW: par(par()) corrupts devices (PR#807),21946,Prof Brian Ripley
+021974.html,[Rd] Re: Sys.time dumps core at start-up (PR#822),21974,Prof Brian Ripley
+021899.html,[Rd] memory trouble,21899,Prof Brian D Ripley
+021912.html,[Rd] random seed (PR#804),21912,Prof Brian D Ripley
+021913.html,[Rd] cleaning up the BUGS list,21913,Prof Brian D Ripley
+021915.html,[Rd] Inconsistent behaviour in solve (PR#805),21915,Prof Brian D Ripley
+021937.html,[Rd] segmentation fault in integrate (PR#812),21937,Prof Brian D Ripley
+021972.html,[Rd] Re: Sys.time dumps core at start-up (PR#822),21972,Prof Brian D Ripley
+021991.html,[Rd] Suggestion for an extension of the API,21991,Prof Brian D Ripley
+021918.html,[Rd] Inconsistent behaviour in solve (PR#805),21918,Jonathan Rougier
+021920.html,[Rd] Inconsistent behaviour in solve (PR#805),21920,Jonathan Rougier
+022006.html,[Rd] New aperm,22006,Jonathan Rougier
+022007.html,[Rd] would like to configure help.start() point to a http:// style url rather than ~/.R/doc etc (fwd),22007,Walter Tautz
+021989.html,[Rd] Suggestion for an extension of the API,21989,Adrian Trapletti
+021998.html,[Rd] Suggestion for an extension of the API,21998,Adrian Trapletti
+022011.html,[Rd] Disappearing x axis in plot.factor (PR#830),22011,Thomas Vogels
+022002.html,[Rd] Is Omegahat in R a general language function bus ?,22002,David K Walker
+022010.html,[Rd] FW: sas.get error,22010,"Warnes, Gregory R"
+021942.html,[Rd] Memory problem ? (PR#814),21942,Z.Barta@bristol.ac.uk
+021943.html,[Rd] Memory problem 2 (PR#815),21943,Z.Barta@bristol.ac.uk
+021934.html,[Rd] segmentation fault in integrate,21934,Achim Zeileis
+021953.html,[Rd] PR#751,21953,apjaworski@mmm.com
+021995.html,[Rd] variables in nls (PR#829),21995,baron@cattell.psych.upenn.edu
+021947.html,[Rd] legend() patch never seems to have made it in,21947,bolker@zoo.ufl.edu
+021965.html,[Rd] RW1021 and wine,21965,bolker@zoo.ufl.edu
+022003.html,[Rd] Rconsole documentation (PR#832),22003,david.firth@nuffield.oxford.ac.uk
+021957.html,[Rd] colors not cycled in type=h plot (PR#817),21957,fisk@bowdoin.edu
+022012.html,[Rd] link in FAQ incorrect (PR#833),22012,gb
+021985.html,[Rd] problems compiling R under digital unix 4.0d (PR#826),21985,holst@math.ku.dk
+021979.html,[Rd] trouble with netCDF (PR#824),21979,jasont@indigoindustrial.co.nz
+021982.html,[Rd] trouble with netCDF (PR#824),21982,jasont@indigoindustrial.co.nz
+021981.html,[Rd] trouble with netCDF (PR#824),21981,jasont@indigoindustrial.co.nz
+021983.html,[Rd] trouble with netCDF (PR#824),21983,jasont@indigoindustrial.co.nz
+021958.html,AW: [Rd] Re: some problems with windows(rescale=) (PR#794),21958,joehl@web.de
+021959.html,[Rd] bringToTop() fails (PR#818),21959,joehl@web.de
+021961.html,[Rd] bringToTop() fails (PR#818),21961,joehl@web.de
+021992.html,[Rd] termplot fails for composite non-factor terms (PR#828),21992,john.maindonald@anu.edu.au
+021911.html,[Rd] random seed (PR#804),21911,kai-wang@uiowa.edu
+021987.html,[Rd] tseries 0.7-0 with R 1.2.1 dumps core (PR#827),21987,keith.briggs@bt.com
+021962.html,[Rd] Can't find linked HTML helpfile unless package is specified (PR#819),21962,kleiweg@let.rug.nl
+021969.html,[Rd] Sys.time dumps core at start-up (PR#821),21969,kleiweg@let.rug.nl
+021970.html,[Rd] Re: Sys.time dumps core at start-up (PR#822),21970,kleiweg@let.rug.nl
+021938.html,[Rd] problem with strptime example (PR#811),21938,ligges@statistik.uni-dortmund.de
+021978.html,"[Rd] adjustment of expressions with mtext(..., las=2) (PR#823)",21978,ligges@statistik.uni-dortmund.de
+021951.html,[Rd] PR#751,21951,mark0060@tc.umn.edu
+021921.html,[Rd] Time zone (PR#808),21921,morin@mat.ulaval.ca
+021907.html,"[Rd] pairs(NxK_Matrix,panel=qqplot) (PR#803)",21907,mvondavier@ets.org
+021941.html,[Rd] match.call problem (PR#813),21941,p.dalgaard@biostat.ku.dk
+021904.html,"[Rd] crash with scan(..., what=list(,,)) (PR#802)",21904,paradis@isem.univ-montp2.fr
+021895.html,[Rd] pos.to.env and sys.xxx documentation (PR#801),21895,pperkins@ucsd.edu
+021892.html,[Rd] minor problems (if problems at all): &lt;ESC&gt; in RGui; finding (PR#800),21892,ripley@stats.ox.ac.uk
+021908.html,"[Rd] pairs(NxK_Matrix,panel=qqplot) (PR#803)",21908,ripley@stats.ox.ac.uk
+021919.html,[Rd] Inconsistent behaviour in solve (PR#805),21919,ripley@stats.ox.ac.uk
+021924.html,[Rd] Time zone (PR#808),21924,ripley@stats.ox.ac.uk
+021929.html,[Rd] Re: some problems with windows(rescale=) (PR#794),21929,ripley@stats.ox.ac.uk
+021935.html,[Rd] problem with strptime example (PR#811),21935,ripley@stats.ox.ac.uk
+021940.html,[Rd] problem with strptime example (PR#811),21940,ripley@stats.ox.ac.uk
+021944.html,[Rd] Memory problem 2 (PR#815),21944,ripley@stats.ox.ac.uk
+021960.html,[Rd] bringToTop() fails (PR#818),21960,ripley@stats.ox.ac.uk
+021971.html,[Rd] Sys.time dumps core at start-up (PR#821),21971,ripley@stats.ox.ac.uk
+021980.html,[Rd] trouble with netCDF (PR#824),21980,ripley@stats.ox.ac.uk
+021984.html,[Rd] trouble with netCDF (PR#824),21984,ripley@stats.ox.ac.uk
+022001.html,[Rd] screen can't go back to log=&quot;y&quot; plot (PR#831),22001,ripley@stats.ox.ac.uk
+022004.html,[Rd] Rconsole documentation (PR#832),22004,ripley@stats.ox.ac.uk
+021966.html,[Rd] interaction.plot (PR#820),21966,span@psy.uva.nl
+021930.html,[Rd] R introduction mentions system.date() (PR#810),21930,stephen.eglen@ed.ac.uk
+021932.html,[Rd] problem with strptime example (and mention of bug.report) (PR#811),21932,stephen@anc.ed.ac.uk
+022009.html,[Rd] link in FAQ incorrect (PR#833),22009,stoet@pcg.wustl.edu
+021917.html,[Rd] configure error on alpha (PR#806),21917,telford@progsoc.uts.edu.au
+021999.html,[Rd] Disappearing x axis in plot.factor (PR#830),21999,tov@ece.cmu.edu
+022000.html,[Rd] screen can't go back to (split) screen with log=&quot;y&quot; plot (PR#831),22000,tov@ece.cmu.edu
+021933.html,[Rd] segmentation fault in integrate (PR#812),21933,zeileis@ci.tuwien.ac.at

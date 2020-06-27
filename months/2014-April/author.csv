@@ -1,0 +1,230 @@
+link,Subject,id,author
+068826.html,[Rd] Unsubscribe me please,68826,Mengsteab Aregay
+068932.html,[Rd] arima.c bug?,68932,Gabor Bakos
+068933.html,[Rd] arima.c bug?,68933,Gabor Bakos
+068867.html,[Rd] read.table() code fails outside of the utils package,68867,Gabriel Becker
+068927.html,[Rd] RFC: API design of package &quot;modules&quot;,68927,Gabriel Becker
+068930.html,[Rd] RFC: API design of package &quot;modules&quot;,68930,Gabriel Becker
+068791.html,[Rd] best way to write tests when sort() evaluates differently in R CMD check due to LC_COLLATE locale setting?,68791,Skye Bender-deMoll
+068760.html,[Rd] attach() outputs messages to stdout - should it be stderr?,68760,Henrik Bengtsson
+068764.html,[Rd] attach() outputs messages to stdout - should it be stderr?,68764,Henrik Bengtsson
+068789.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68789,Henrik Bengtsson
+068883.html,[Rd] The regular expressions in compareVersion(),68883,Henrik Bengtsson
+068891.html,[Rd] Preventing $R_HOME/site-library/ via R_LIBS_SITE=&quot;:&quot; (no other	way?),68891,Henrik Bengtsson
+068893.html,[Rd] Odd behavior on Windows: Rgui responds to user interrupts (Ctrl-C) at the Windows command prompt (iff launched from one),68893,Henrik Bengtsson
+068931.html,[Rd] SUGGESTION: Option to have menu() and select.list() to use stderr (or even &quot;prompt&quot; output),68931,Henrik Bengtsson
+068784.html,[Rd] vapply confusion,68784,Charles Berry
+068740.html,[Rd] [Bioc-devel] Conflicting definitions for function redefined as S4 generics,68740,Ulrich Bodenhofer
+068911.html,[Rd] Strange behaviour of the ':' operator,68911,Hans W Borchers
+068875.html,[Rd] type.convert and doubles,68875,Milan Bouchet-Valat
+068879.html,[Rd] Error when Installing R-3.1.0,68879,Fong Chun Chan
+068739.html,[Rd] Timezone warnings on package install in R-alpha,68739,Jon Clayden
+068746.html,[Rd] Timezone warnings on package install in R-alpha,68746,Jon Clayden
+068750.html,[Rd] Timezone warnings on package install in R-alpha,68750,Jon Clayden
+068934.html,"[Rd] ReplayPlot, limited to single session for RecordPlot()",68934,Michael Cohen
+068718.html,[Rd] C API to get numrow of data frame,68718,G&#225;bor Cs&#225;rdi
+068794.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68794,G&#225;bor Cs&#225;rdi
+068802.html,[Rd] R 3.0.3 for OSX,68802,G&#225;bor Cs&#225;rdi
+068804.html,[Rd] R 3.0.3 for OSX,68804,G&#225;bor Cs&#225;rdi
+068807.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68807,G&#225;bor Cs&#225;rdi
+068821.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68821,G&#225;bor Cs&#225;rdi
+068824.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68824,G&#225;bor Cs&#225;rdi
+068829.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68829,G&#225;bor Cs&#225;rdi
+068832.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68832,G&#225;bor Cs&#225;rdi
+068834.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68834,G&#225;bor Cs&#225;rdi
+068836.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68836,G&#225;bor Cs&#225;rdi
+068858.html,[Rd] type.convert and doubles,68858,G&#225;bor Cs&#225;rdi
+068940.html,[Rd] &quot;Name partially matched in data frame&quot;,68940,Fisher Dennis
+068842.html,[Rd] Can the output of Sys.getenv() be improved?,68842,William Dunlap
+068870.html,[Rd] Can the output of Sys.getenv() be improved?,68870,William Dunlap
+068744.html,[Rd] Timezone warnings on package install in R-alpha,68744,Dirk Eddelbuettel
+068769.html,[Rd] ! LaTeX Error: File `zi4.sty' not found.,68769,Dirk Eddelbuettel
+068770.html,[Rd] R 3.1.0 and C++11,68770,Dirk Eddelbuettel
+068775.html,[Rd] R 3.1.0 and C++11,68775,Dirk Eddelbuettel
+068897.html,[Rd] Please make Pre-3.1 read.csv (type.convert)	behavior	available,68897,Dirk Eddelbuettel
+068780.html,[Rd] Is it possible to shrink an R object in place?,68780,Romain Francois
+068729.html,[Rd] special handling of row.names,68729,Romain Fran&#231;ois
+068736.html,[Rd] question regarding lang2 command in C,68736,Romain Fran&#231;ois
+068774.html,[Rd] R 3.1.0 and C++11,68774,Romain Fran&#231;ois
+068782.html,[Rd] type.convert and doubles,68782,Paul Gilbert
+068785.html,"[Rd] NOTE when detecting mismatch in output, and codes for NOTEs, WARNINGs and ERRORs",68785,Paul Gilbert
+068822.html,[Rd] type.convert and doubles,68822,Paul Gilbert
+068772.html,[Rd] R 3.1.0 and C++11,68772,Gabor Grothendieck
+068818.html,[Rd] type.convert and doubles,68818,Gabor Grothendieck
+068847.html,[Rd] Can the output of Sys.getenv() be improved?,68847,Gabor Grothendieck
+068855.html,[Rd] type.convert and doubles,68855,Gabor Grothendieck
+068938.html,[Rd] Problem with Renaming R object,68938,Kasper Daniel Hansen
+068751.html,[Rd] summary of lme4.0 model in package,68751,Benjamin Hofner
+068797.html,[Rd] Problem: Importing two packages which export a function with the same name,68797,Benjamin Hofner
+068925.html,[Rd] C API for parse error,68925,JaiReddy
+068919.html,[Rd] access environment in which an error occurred,68919,Jannis
+068801.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68801,Geoff Jentry
+068731.html,[Rd] Typeof for character vector in dataframe returns integer,68731,Jeff Johnson
+068935.html,[Rd] Problem with Renaming R object,68935,Kamal
+068939.html,[Rd] Problem with Renaming R object,68939,Kamal
+068728.html,[Rd] Typeof for character vector in dataframe returns integer,68728,Gregor Kastner
+068923.html,[Rd] type.convert and doubles,68923,Jan Kim
+068786.html,[Rd] duplication regression (?),68786,Scott Kostyshak
+068942.html,[Rd] &quot;Name partially matched in data frame&quot;,68942,Scott Kostyshak
+068943.html,[Rd] &quot;Name partially matched in data frame&quot;,68943,Scott Kostyshak
+068895.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior available,68895,Tom Kraljevic
+068901.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68901,Tom Kraljevic
+068902.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68902,Tom Kraljevic
+068903.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68903,Tom Kraljevic
+068909.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68909,Tom Kraljevic
+068742.html,[Rd] [Bioc-devel] Conflicting definitions for function redefined as S4 generics,68742,Michael Lawrence
+068800.html,[Rd] duplication regression (?),68800,Michael Lawrence
+068766.html,[Rd] building R under windows - comm: file 1 is not in sorted order,68766,Jonathon Love
+068878.html,[Rd] Why did R 3.0's resolveNativeRoutine remove full-search	ability?,68878,Thomas Lumley
+068730.html,[Rd] Typeof for character vector in dataframe returns integer,68730,Martin Maechler
+068763.html,[Rd] attach() outputs messages to stdout - should it be stderr?,68763,Martin Maechler
+068765.html,[Rd] attach() outputs messages to stdout - should it be stderr?,68765,Martin Maechler
+068787.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon	batch mode exit,68787,Martin Maechler
+068806.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68806,Martin Maechler
+068850.html,[Rd] Can the output of Sys.getenv() be improved?,68850,Martin Maechler
+068851.html,[Rd] type.convert and doubles,68851,Martin Maechler
+068852.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68852,Martin Maechler
+068857.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68857,Martin Maechler
+068872.html,[Rd] type.convert and doubles,68872,Martin Maechler
+068876.html,[Rd] type.convert and doubles,68876,Martin Maechler
+068904.html,[Rd] Can the output of Sys.getenv() be improved?,68904,Martin Maechler
+068905.html,[Rd] type.convert and doubles,68905,Martin Maechler
+068917.html,[Rd] type.convert and doubles,68917,Martin Maechler
+068921.html,[Rd] type.convert and doubles,68921,Martin Maechler
+068922.html,[Rd] type.convert and doubles,68922,Martin Maechler
+068924.html,[Rd] type.convert and doubles,68924,Martin Maechler
+068798.html,[Rd] ASCIIfy() - a proposal for package:tools,68798,Arni Magnusson
+068814.html,[Rd] ASCIIfy() - a proposal for package:tools,68814,Arni Magnusson
+068808.html,[Rd] type.convert and doubles,68808,"McGehee, Robert"
+068823.html,[Rd] type.convert and doubles,68823,"McGehee, Robert"
+068863.html,[Rd] type.convert and doubles,68863,"McGehee, Robert"
+068732.html,[Rd] Typeof for character vector in dataframe returns integer,68732,Joris Meys
+068748.html,[Rd] summary of lme4.0 model in package,68748,Joris Meys
+068849.html,[Rd] lag() not returning a time series object,68849,Joris Meys
+068859.html,[Rd] lag() not returning a time series object,68859,Joris Meys
+068752.html,[Rd] Package vignettes share the same environment?,68752,Martin Morgan
+068754.html,[Rd] Package vignettes share the same environment?,68754,Duncan Murdoch
+068792.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68792,Duncan Murdoch
+068795.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68795,Duncan Murdoch
+068809.html,[Rd] ASCIIfy() - a proposal for package:tools,68809,Duncan Murdoch
+068811.html,[Rd] type.convert and doubles,68811,Duncan Murdoch
+068813.html,[Rd] ASCIIfy() - a proposal for package:tools,68813,Duncan Murdoch
+068817.html,[Rd] rgl rotations,68817,Duncan Murdoch
+068860.html,[Rd] type.convert and doubles,68860,Duncan Murdoch
+068862.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68862,Duncan Murdoch
+068882.html,[Rd] The regular expressions in compareVersion(),68882,Duncan Murdoch
+068884.html,[Rd] The regular expressions in compareVersion(),68884,Duncan Murdoch
+068889.html,[Rd] The regular expressions in compareVersion(),68889,Duncan Murdoch
+068896.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68896,Duncan Murdoch
+068898.html,[Rd] The regular expressions in compareVersion(),68898,Duncan Murdoch
+068899.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68899,Duncan Murdoch
+068906.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68906,Duncan Murdoch
+068908.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68908,Duncan Murdoch
+068915.html,[Rd] type.convert and doubles,68915,Duncan Murdoch
+068941.html,[Rd] &quot;Name partially matched in data frame&quot;,68941,Duncan Murdoch
+068767.html,"[Rd] NOTE when detecting mismatch in output, and codes for NOTEs, WARNINGs and ERRORs",68767,Kirill M&#252;ller
+068715.html,[Rd] C API to get numrow of data frame,68715,Sandip Nandi
+068717.html,[Rd] C API to get numrow of data frame,68717,Sandip Nandi
+068719.html,[Rd] C API to get numrow of data frame,68719,Sandip Nandi
+068722.html,[Rd] Typeof for character vector in dataframe returns integer,68722,Sandip Nandi
+068723.html,[Rd] Typeof for character vector in dataframe returns integer,68723,Sandip Nandi
+068725.html,[Rd] Typeof for character vector in dataframe returns integer,68725,Sandip Nandi
+068727.html,[Rd] Typeof for character vector in dataframe returns integer,68727,Sandip Nandi
+068735.html,[Rd] question regarding lang2 command in C,68735,Sandip Nandi
+068737.html,[Rd] summary of lme4.0 model in package,68737,"ONKELINX, Thierry"
+068741.html,[Rd] summary of lme4.0 model in package,68741,"ONKELINX, Thierry"
+068747.html,[Rd] summary of lme4.0 model in package,68747,"ONKELINX, Thierry"
+068762.html,[Rd] summary of lme4.0 model in package,68762,"ONKELINX, Thierry"
+068861.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68861,Jeroen Ooms
+068929.html,[Rd] RFC: API design of package &quot;modules&quot;,68929,Jeroen Ooms
+068838.html,[Rd] Why did R 3.0's resolveNativeRoutine remove full-search	ability?,68838,Andrew Piskorski
+068864.html,[Rd] read.table() code fails outside of the utils package,68864,Andrew Piskorski
+068866.html,[Rd] read.table() code fails outside of the utils package,68866,Andrew Piskorski
+068869.html,[Rd] how to get old type.convert() numeric behavior?,68869,Andrew Piskorski
+068871.html,[Rd] read.table() code fails outside of the utils package,68871,Andrew Piskorski
+068881.html,[Rd] palette() can hang and fail due to X11,68881,Andrew Piskorski
+068885.html,[Rd] palette() can hang and fail due to X11,68885,Andrew Piskorski
+068892.html,[Rd] palette() can hang and fail due to X11,68892,Andrew Piskorski
+068914.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior available,68914,Andrew Piskorski
+068771.html,[Rd] R 3.1.0 and C++11,68771,Martyn Plummer
+068773.html,[Rd] R 3.1.0 and C++11,68773,Martyn Plummer
+068745.html,[Rd] Timezone warnings on package install in R-alpha,68745,Prof Brian Ripley
+068868.html,[Rd] read.table() code fails outside of the utils package,68868,Prof Brian Ripley
+068926.html,[Rd] RFC: API design of package &quot;modules&quot;,68926,Barry Rowlingson
+068916.html,[Rd] RFC: API design of package &quot;modules&quot;,68916,Konrad Rudolph
+068873.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68873,Thomas Rusch
+068756.html,[Rd] Timezone warnings on package install in R-alpha,68756,Dominick Samperi
+068783.html,[Rd] vapply confusion,68783,Dominick Samperi
+068815.html,[Rd] rgl rotations,68815,Dominick Samperi
+068788.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68788,Marc Schwartz
+068853.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68853,Marc Schwartz
+068912.html,[Rd] Strange behaviour of the ':' operator,68912,Greg Snow
+068716.html,[Rd] C API to get numrow of data frame,68716,Murray Stokely
+068720.html,[Rd] C API to get numrow of data frame,68720,Murray Stokely
+068816.html,[Rd] type.convert and doubles,68816,Murray Stokely
+068819.html,[Rd] type.convert and doubles,68819,Murray Stokely
+068856.html,[Rd] type.convert and doubles,68856,Murray Stokely
+068734.html,[Rd] inconsistent error messages on Mac OS X,68734,Dan Tenenbaum
+068759.html,[Rd] minor issue with R CMD INSTALL --build,68759,Dan Tenenbaum
+068825.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68825,Dan Tenenbaum
+068839.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68839,Dan Tenenbaum
+068874.html,[Rd] type.convert and doubles,68874,"Therneau, Terry M., Ph.D."
+068877.html,[Rd] type.convert and doubles,68877,"Therneau, Terry M., Ph.D."
+068936.html,[Rd] Quantile issue,68936,"Therneau, Terry M., Ph.D."
+068724.html,[Rd] Typeof for character vector in dataframe returns integer,68724,Joshua Ulrich
+068726.html,[Rd] Typeof for character vector in dataframe returns integer,68726,Joshua Ulrich
+068777.html,[Rd] Is it possible to shrink an R object in place?,68777,Simon Urbanek
+068779.html,[Rd] type.convert and doubles,68779,Simon Urbanek
+068781.html,[Rd] Is it possible to shrink an R object in place?,68781,Simon Urbanek
+068803.html,[Rd] R 3.0.3 for OSX,68803,Simon Urbanek
+068805.html,[Rd] R 3.0.3 for OSX,68805,Simon Urbanek
+068820.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68820,Simon Urbanek
+068827.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68827,Simon Urbanek
+068828.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68828,Simon Urbanek
+068830.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68830,Simon Urbanek
+068833.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68833,Simon Urbanek
+068835.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68835,Simon Urbanek
+068837.html,[Rd] R-3.1.0 OSX Snow Leopard installs old binary,68837,Simon Urbanek
+068840.html,[Rd] Why did R 3.0's resolveNativeRoutine remove full-search	ability?,68840,Simon Urbanek
+068854.html,[Rd] type.convert and doubles,68854,Simon Urbanek
+068865.html,[Rd] read.table() code fails outside of the utils package,68865,Simon Urbanek
+068886.html,[Rd] palette() can hang and fail due to X11,68886,Simon Urbanek
+068888.html,[Rd] The regular expressions in compareVersion(),68888,Simon Urbanek
+068928.html,[Rd] C API for parse error,68928,Simon Urbanek
+068721.html,[Rd] C API to get numrow of data frame,68721,Kevin Ushey
+068776.html,[Rd] Is it possible to shrink an R object in place?,68776,Kevin Ushey
+068753.html,[Rd] Internet error on Mac OS X 10.9 with 3.1.0 RC,68753,Gregory R. Warnes
+068757.html,[Rd] Internet error on Mac OS X 10.9 with 3.1.0 RC,68757,Gregory R. Warnes
+068758.html,[Rd] Internet error on Mac OS X 10.9 with 3.1.0 RC,68758,Gregory R. Warnes
+068778.html,[Rd] type.convert and doubles,68778,Gregory R. Warnes
+068799.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon	batch mode exit,68799,Gregory R. Warnes
+068812.html,[Rd] ASCIIfy() - a proposal for package:tools,68812,Gregory R. Warnes
+068907.html,[Rd] type.convert and doubles,68907,Gregory R. Warnes
+068733.html,[Rd] inconsistent error messages on Mac OS X,68733,Adam Welc
+068761.html,[Rd] inconsistent error messages on Mac OS X,68761,Adam Welc
+068831.html,[Rd] Unsubscribe me please,68831,Michael Weylandt
+068796.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon batch mode exit,68796,Hadley Wickham
+068810.html,[Rd] type.convert and doubles,68810,Hadley Wickham
+068913.html,[Rd] type.convert and doubles,68913,Hadley Wickham
+068937.html,[Rd] Problem with Renaming R object,68937,Hadley Wickham
+068738.html,[Rd] summary of lme4.0 model in package,68738,Joshua Wiley
+068768.html,[Rd] ! LaTeX Error: File `zi4.sty' not found.,68768,Witold E Wolski
+068755.html,[Rd] Package vignettes share the same environment?,68755,Yihui Xie
+068843.html,[Rd] Can the output of Sys.getenv() be improved?,68843,Yihui Xie
+068880.html,[Rd] The regular expressions in compareVersion(),68880,Yihui Xie
+068887.html,[Rd] The regular expressions in compareVersion(),68887,Yihui Xie
+068790.html,[Rd] question about code signing,68790,Ivan Zaigralin
+068841.html,[Rd] Can the output of Sys.getenv() be improved?,68841,"Zhang,Jun"
+068844.html,[Rd] Can the output of Sys.getenv() be improved?,68844,"Zhang,Jun"
+068845.html,[Rd] Can the output of Sys.getenv() be improved?,68845,"Zhang,Jun"
+068846.html,[Rd] Can the output of Sys.getenv() be improved?,68846,"Zhang,Jun"
+068848.html,[Rd] Can the output of Sys.getenv() be improved?,68848,"Zhang,Jun"
+068900.html,[Rd] read.table() with quoted integers,68900,ashmoran
+068920.html,[Rd] type.convert and doubles,68920,Mark.Bravington at csiro.au
+068743.html,[Rd] Timezone warnings on package install in R-alpha,68743,peter dalgaard
+068749.html,[Rd] Timezone warnings on package install in R-alpha,68749,peter dalgaard
+068793.html,[Rd] R 3.1.0: 'R CMD Sweave' deletes non tex files created upon	batch mode exit,68793,peter dalgaard
+068890.html,[Rd] The regular expressions in compareVersion(),68890,peter dalgaard
+068894.html,[Rd] The regular expressions in compareVersion(),68894,peter dalgaard
+068918.html,[Rd] type.convert and doubles,68918,peter dalgaard
+068910.html,[Rd] Please make Pre-3.1 read.csv (type.convert) behavior	available,68910,knormoyle

@@ -1,0 +1,74 @@
+link,Subject,id,author
+077023.html,[Rd] Problem building rmarkdown vignettes with child,77023, at osp at m m at ili at g off  at ltfeld-im at de
+077012.html,[Rd] Suggestion: Make CRAN source URLs immutable,77012,Juan Telleria Ruiz de Aguirre
+077041.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77041,Rui Barradas
+077036.html,[Rd] STRING_IS_SORTED claims as.character(1:100) is sorted,77036,Gabriel Becker
+077047.html,[Rd] [tryExcept] New try Function,77047,Ernest Benedito
+077050.html,[Rd] [tryExcept] New try Function,77050,Ernest Benedito
+077044.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77044,Emil Bode
+077048.html,[Rd] [tryExcept] New try Function,77048,Emil Bode
+077065.html,[Rd] named arguments discouraged in `[.data.frame` and `[&lt;-.data.frame`,77065,Emil Bode
+077067.html,[Rd] Unexpected argument-matching when some are missing,77067,Emil Bode
+077072.html,[Rd] Unexpected argument-matching when some are missing,77072,Emil Bode
+077075.html,[Rd] Unexpected argument-matching when some are missing,77075,Emil Bode
+077077.html,[Rd] Unexpected argument-matching when some are missing,77077,Emil Bode
+077013.html,[Rd] trivial typo in src/library/stats/man/ts.Rd,77013,Ben Bolker
+077055.html,[Rd] Suggestion for `glm.fit`,77055,Ben Bolker
+077056.html,[Rd] issue with testInstalledPackage,77056,Ben Bolker
+077069.html,[Rd] Small bug in the documentation of 'cut',77069,G&#246;ran Brostr&#246;m
+077054.html,[Rd] Suggestion for `glm.fit`,77054,Benjamin Christoffersen
+077049.html,[Rd] R 3.5.2 scheduled for December 20,77049,Peter Dalgaard
+077063.html,[Rd] named arguments discouraged in `[.data.frame` and `[&lt;-.data.frame`,77063,William Dunlap
+077011.html,[Rd] odd NOTE in R CMD check of data; Rcpp module related,77011,Dirk Eddelbuettel
+077070.html,[Rd] Unexpected argument-matching when some are missing,77070,S Ellison
+077073.html,[Rd] Unexpected argument-matching when some are missing,77073,S Ellison
+077076.html,[Rd] Unexpected argument-matching when some are missing,77076,S Ellison
+077022.html,[Rd] Change windows installer default to only install 64 bit R,77022,Jim Hester
+077010.html,[Rd] odd NOTE in R CMD check of data; Rcpp module related,77010,Robert J. Hijmans
+077014.html,[Rd] trivial typo in src/library/stats/man/ts.Rd,77014,Kurt Hornik
+077026.html,[Rd]  Patch idea: an environment variable for setting the user ID,77026,Kurt Hornik
+077020.html,[Rd] Little memory leak fix,77020,Tomas Kalibera
+077027.html,[Rd] error unserializing ascii format (v2 or v3),77027,Tomas Kalibera
+077032.html,[Rd]  redundant &quot;`&quot; symbol in the name of list (R version 3.5.0 &amp; 3.5.1),77032,Tomas Kalibera
+077033.html,[Rd]  redundant &quot;`&quot; symbol in the name of list (R version 3.5.0 &amp; 3.5.1),77033,Tomas Kalibera
+077025.html,[Rd] Patch idea: an environment variable for setting the user ID,77025,Will L
+077062.html,[Rd] named arguments discouraged in `[.data.frame` and `[&lt;-.data.frame`,77062,Michael Lawrence
+077078.html,[Rd] Unexpected argument-matching when some are missing,77078,Michael Lawrence
+077038.html,[Rd] problematic dev.off() after running examples without plots,77038,Martin Maechler
+077008.html,[Rd] Suggestion: Make CRAN source URLs immutable,77008,Joris Meys
+077016.html,[Rd] Checksums of packages change on CRAN without change in version number,77016,Joris Meys
+077006.html,[Rd] Bias in R's random integers?,77006,Duncan Murdoch
+077029.html,[Rd] Better cleanup of example session during check,77029,Duncan Murdoch
+077030.html,[Rd] Better cleanup of example session during check,77030,Duncan Murdoch
+077057.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77057,Radford Neal
+077059.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77059,Radford Neal
+077037.html,[Rd] problematic dev.off() after running examples without plots,77037,Thierry Onkelinx
+077039.html,[Rd] problematic dev.off() after running examples without plots,77039,Thierry Onkelinx
+077024.html,[Rd] Change windows installer default to only install 64 bit R,77024,Jeroen Ooms
+077028.html,[Rd] Better cleanup of example session during check,77028,Thomas Lin Pedersen
+077061.html,[Rd] named arguments discouraged in `[.data.frame` and `[&lt;-.data.frame`,77061,Henrik P&#228;rn
+077064.html,[Rd] named arguments discouraged in `[.data.frame` and `[&lt;-.data.frame`,77064,Henrik P&#228;rn
+077066.html,[Rd] named arguments discouraged in `[.data.frame` and `[&lt;-.data.frame`,77066,Henrik P&#228;rn
+077051.html,[Rd] [tryExcept] New try Function,77051,Andrew Redd
+077018.html,[Rd] error unserializing ascii format (v2 or v3),77018,Michael Sannella
+077034.html,[Rd] STRING_IS_SORTED claims as.character(1:100) is sorted,77034,Michael Sannella
+077040.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77040,Dmitriy Selivanov
+077042.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77042,Dmitriy Selivanov
+077046.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77046,Dmitriy Selivanov
+077045.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77045,Serguei Sokol
+077058.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77058,Serguei Sokol
+077060.html,[Rd] Subsetting row in single column matrix drops names in resulting vector,77060,Serguei Sokol
+077021.html,[Rd] An update on the vctrs package,77021,Abs Spurdle
+077043.html,[Rd] Rd2pdf ignores tabs but not trailing spaces,77043,Abs Spurdle
+077052.html,[Rd] R-devel from 1997 Good Read,77052,Abs Spurdle
+077053.html,[Rd] issue with testInstalledPackage,77053,"Therneau, Terry M., Ph.D."
+077035.html,[Rd] STRING_IS_SORTED claims as.character(1:100) is sorted,77035,"Tierney, Luke"
+077007.html,[Rd] Suggestion: Make CRAN source URLs immutable,77007,I&#241;aki Ucar
+077009.html,[Rd] Suggestion: Make CRAN source URLs immutable,77009,I&#241;aki Ucar
+077015.html,[Rd] An update on the vctrs package,77015,Hadley Wickham
+077017.html,[Rd] Problem building rmarkdown vignettes with child,77017,Witold E Wolski
+077068.html,[Rd] Unexpected argument-matching when some are missing,77068,Ista Zahn
+077071.html,[Rd] Unexpected argument-matching when some are missing,77071,Ista Zahn
+077074.html,[Rd] Unexpected argument-matching when some are missing,77074,Ista Zahn
+077019.html,[Rd] error unserializing ascii format (v2 or v3),77019,peter dalgaard
+077031.html,[Rd] redundant &quot;`&quot; symbol in the name of list (R version 3.5.0 &amp; 3.5.1),77031,ya wei

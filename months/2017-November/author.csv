@@ -1,0 +1,101 @@
+link,Subject,id,author
+075104.html,[Rd] ans[nas] &lt;- NA in 'ifelse' (was: ifelse() woes ... can we agree on a ifelse2() ?),75104,Suharto Anggono Suharto Anggono
+075162.html,[Rd] Function 'factor' issues,75162,Suharto Anggono Suharto Anggono
+075165.html,"[Rd] withTimeout bug, it does not work properly with nlme anymore",75165,Ramiro Barrantes
+075125.html,[Rd] check does not check that package examples remove tempdir(),75125,Henrik Bengtsson
+075140.html,[Rd] Possible bug(s) causing ggplot2 and XLConnect to crash recent builds of r-devel,75140,Chris Brien
+075088.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75088,Arie ten Cate
+075103.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75103,Arie ten Cate
+075115.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75115,Arie ten Cate
+075118.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75118,Arie ten Cate
+075166.html,[Rd] Discourage the weights= option of lm with summarized data,75166,Arie ten Cate
+075094.html,[Rd] Extreme bunching of random values from runif with	Mersenne-Twister seed,75094,Tirthankar Chakravarty
+075097.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75097,Tirthankar Chakravarty
+075100.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75100,Tirthankar Chakravarty
+075102.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75102,Tirthankar Chakravarty
+075110.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75110,Tirthankar Chakravarty
+075151.html,[Rd] Are Rprintf and REprintf thread-safe?,75151,Winston Chang
+075153.html,[Rd] Are Rprintf and REprintf thread-safe?,75153,Winston Chang
+075130.html,[Rd] R 3.4.3 scheduled for November 30,75130,Peter Dalgaard
+075099.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75099,William Dunlap
+075101.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75101,William Dunlap
+075124.html,[Rd] check does not check that package examples remove tempdir(),75124,William Dunlap
+075126.html,[Rd] check does not check that package examples remove tempdir(),75126,William Dunlap
+075093.html,[Rd] vcov and survival,75093,"Fox, John"
+075121.html,"[Rd] New vcov(*, complete=TRUE) etc -- coef(&lt;lm&gt;) vs coef(&lt;aov&gt;)",75121,"Fox, John"
+075112.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75112,Paul Gilbert
+075139.html,[Rd] Where are dggsvd3 and dggsvp3?,75139,Berend Hasselman
+075170.html,[Rd] Un-informative Error in re-building vignettes,75170,Toby Hocking
+075143.html,[Rd] package check fail on Windows-release only?,75143,Paul Johnson
+075089.html,[Rd] Memory address of character datatype,75089,Tomas Kalibera
+075119.html,[Rd] range function with finite=T and logical parameters,75119,Tomas Kalibera
+075122.html,[Rd] Rscript Bug Report (improper parsing of [args]),75122,Tomas Kalibera
+075132.html,[Rd] check does not check that package examples remove tempdir(),75132,Tomas Kalibera
+075148.html,[Rd] [R-pkg-devel] package check fail on Windows-release only?,75148,Uwe Ligges
+075086.html,[Rd] Debate: Shall some of Microsoft R Open Code be ported to mainstream R?,75086,Martin Maechler
+075092.html,[Rd] vcov and survival,75092,Martin Maechler
+075095.html,[Rd] Extreme bunching of random values from runif	with	Mersenne-Twister seed,75095,Martin Maechler
+075116.html,[Rd] ans[nas] &lt;- NA in 'ifelse' (was: ifelse() woes ... can we agree on a ifelse2() ?),75116,Martin Maechler
+075120.html,"[Rd] New vcov(*, complete=TRUE) etc -- coef(&lt;lm&gt;) vs coef(&lt;aov&gt;)",75120,Martin Maechler
+075127.html,"[Rd] New vcov(*, complete=TRUE) etc -- coef(&lt;lm&gt;) vs coef(&lt;aov&gt;)",75127,Martin Maechler
+075131.html,[Rd] formatting raw vectors with names,75131,Martin Maechler
+075158.html,[Rd] str() not displaying names,75158,Martin Maechler
+075144.html,[Rd] package check fail on Windows-release only?,75144,Martin Maechler
+075145.html,[Rd] Small performance bug in [.Date,75145,Martin Maechler
+075160.html,[Rd] Bug in R CMD INSTALL when handling invalid	LazyData	DESCRIPTION field,75160,Martin Maechler
+075163.html,[Rd] str() not displaying names,75163,Martin Maechler
+075183.html,[Rd] binary form of is() contradicts its unary form,75183,Martin Maechler
+075168.html,[Rd] Height not set properly in grDevices::jpeg() with type =	&quot;cairo&quot;,75168,Marius
+075154.html,[Rd] Are Rprintf and REprintf thread-safe?,75154,Martin Morgan
+075109.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75109,Duncan Murdoch
+075114.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75114,Duncan Murdoch
+075106.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75106,Radford Neal
+075108.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75108,Daniel Nordlund
+075133.html,[Rd] check does not check that package examples remove tempdir(),75133,Jeroen Ooms
+075155.html,[Rd] `[[&lt;-.data.frame` leaves holes after existing columns and returns a corrupt data frame,75155,Herv&#233; Pag&#232;s
+075156.html,[Rd] `[&lt;-.data.frame` sets rownames incorrectly,75156,Herv&#233; Pag&#232;s
+075157.html,[Rd] `[&lt;-.data.frame` sets rownames incorrectly,75157,Herv&#233; Pag&#232;s
+075172.html,[Rd] binary form of is() contradicts its unary form,75172,Herv&#233; Pag&#232;s
+075174.html,[Rd] binary form of is() contradicts its unary form,75174,Herv&#233; Pag&#232;s
+075176.html,[Rd] binary form of is() contradicts its unary form,75176,Herv&#233; Pag&#232;s
+075161.html,[Rd] extractAIC.coxph warning,75161,Andriy Panteleymonov
+075138.html,[Rd] special latin1 do not print as glyphs in current devel on windows,75138,Patrick Perry
+075105.html,[Rd] Possible bug with a regex pattern,75105,Etienne Sanchez
+075141.html,[Rd] str() not displaying names,75141,Etienne Sanchez
+075123.html,[Rd] Default for bin limits in hist(),75123,Jose G Conde Santiago
+075171.html,[Rd] Un-informative Error in re-building vignettes,75171,Marc Schwartz
+075098.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75098,Serguei Sokol
+075113.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75113,Serguei Sokol
+075096.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75096,Lukas Stadler
+075129.html,[Rd] formatting raw vectors with names,75129,Lukas Stadler
+075173.html,[Rd] binary form of is() contradicts its unary form,75173,"Suzen, Mehmet"
+075175.html,[Rd] binary form of is() contradicts its unary form,75175,"Suzen, Mehmet"
+075177.html,[Rd] binary form of is() contradicts its unary form,75177,"Suzen, Mehmet"
+075179.html,[Rd] binary form of is() contradicts its unary form,75179,"Suzen, Mehmet"
+075181.html,[Rd] binary form of is() contradicts its unary form,75181,"Suzen, Mehmet"
+075184.html,[Rd] binary form of is() contradicts its unary form,75184,"Suzen, Mehmet"
+075186.html,[Rd] binary form of is() contradicts its unary form,75186,"Suzen, Mehmet"
+075091.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75091,Tyler
+075107.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75107,Tyler
+075117.html,[Rd] Bug in model.matrix.default for higher-order interaction encoding when specific model terms are missing,75117,Tyler
+075159.html,[Rd] Bug in R CMD INSTALL when handling invalid LazyData	DESCRIPTION field,75159,Aaron Wells
+075164.html,[Rd] Bug in R CMD INSTALL when handling invalid LazyData DESCRIPTION field,75164,Aaron Wells
+075142.html,[Rd] Small performance bug in [.Date,75142,Hadley Wickham
+075149.html,[Rd] Small performance bug in [.Date,75149,Hadley Wickham
+075135.html,[Rd] Array changing address unexpectedly,75135,David Winsemius
+075090.html,[Rd] Memory address of character datatype,75090,peter dalgaard
+075111.html,[Rd] Extreme bunching of random values from runif with Mersenne-Twister seed,75111,peter dalgaard
+075167.html,[Rd] Discourage the weights= option of lm with summarized data,75167,peter dalgaard
+075169.html,[Rd] Discourage the weights= option of lm with summarized data,75169,peter dalgaard
+075128.html,[Rd] check does not check that package examples remove tempdir(),75128,danlrobertson89 at gmail.com
+075146.html,[Rd] Truncating vectors by reference in C-backend,75146,mbonsch at posteo.de
+075087.html,[Rd] Memory address of character datatype,75087,lille stor
+075134.html,[Rd] Array changing address unexpectedly,75134,lille stor
+075136.html,[Rd] Array changing address unexpectedly,75136,lille stor
+075137.html,[Rd] Array changing address unexpectedly,75137,luke-tierney at uiowa.edu
+075147.html,[Rd] Truncating vectors by reference in C-backend,75147,luke-tierney at uiowa.edu
+075152.html,[Rd] Are Rprintf and REprintf thread-safe?,75152,luke-tierney at uiowa.edu
+075178.html,[Rd] binary form of is() contradicts its unary form,75178,I&#241;aki &#218;car
+075180.html,[Rd] binary form of is() contradicts its unary form,75180,I&#241;aki &#218;car
+075182.html,[Rd] binary form of is() contradicts its unary form,75182,I&#241;aki &#218;car
+075185.html,[Rd] binary form of is() contradicts its unary form,75185,I&#241;aki &#218;car

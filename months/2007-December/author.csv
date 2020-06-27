@@ -1,0 +1,325 @@
+link,Subject,id,author
+047634.html,[Rd] Solve.QP,47634,de Gosson de Varennes Serge (4100)
+047749.html,[Rd] Quadratic Programming,47749,de Gosson de Varennes Serge (4100)
+047622.html,[Rd] Wishlist: mention Vectorize in 'outer' man page (PR#10490),47622,"Antonio, Fabio Di Narzo"
+047685.html,[Rd] suggested modification to the 'mle' documentation?,47685,"Antonio, Fabio Di Narzo"
+047744.html,[Rd] creating lagged variables,47744,"Antonio, Fabio Di Narzo"
+047774.html,[Rd] mistake in Italian translation,47774,"Antonio, Fabio Di Narzo"
+047795.html,[Rd] The XO laptop from the One Laptop Per Child (OLPC) program,47795,Douglas Bates
+047610.html,[Rd] seq() does not create proper numbers (PR#10489),47610,Henrik Bengtsson
+047658.html,[Rd] Defaults for postscript(),47658,Henrik Bengtsson
+047707.html,[Rd] setdiff for data frames,47707,Charles C. Berry
+047606.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47606,Saleem Bhatti
+047656.html,[Rd] suggested modification to the 'mle' documentation?,47656,Ben Bolker
+047668.html,[Rd] suggested modification to the 'mle' documentation?,47668,Ben Bolker
+047684.html,[Rd] suggested modification to the 'mle' documentation?,47684,Ben Bolker
+047692.html,[Rd] buglet in curve?,47692,Ben Bolker
+047693.html,[Rd] writing S4 documentation,47693,Ben Bolker
+047709.html,[Rd] another S4 question ...,47709,Ben Bolker
+047723.html,[Rd] another S4 question ...,47723,Ben Bolker
+047739.html,[Rd] S4 class extending data.frame?,47739,Ben Bolker
+047769.html,[Rd] S4 class extending data.frame?,47769,Ben Bolker
+047840.html,[Rd] request for addition to R-int,47840,Ben Bolker
+047855.html,[Rd] re quest for addition to R-int,47855,Ben Bolker
+047864.html,[Rd] re quest for addition to R-int,47864,Ben Bolker
+047865.html,[Rd] R-ints typos,47865,Ben Bolker
+047598.html,[Rd] sd(NA),47598,Patrick Burns
+047783.html,[Rd] help files for load and related functions,47783,Patrick Burns
+047789.html,[Rd] help files for load and related functions,47789,Patrick Burns
+047852.html,[Rd] Problem with dyn.load'ed code,47852,Matt Calder
+047897.html,[Rd] Problem with dyn.load'ed code,47897,Matt Calder
+047899.html,[Rd] Problem with dyn.load'ed code,47899,Matt Calder
+047641.html,[Rd] trace() problems (PR#10498),47641,John Chambers
+047585.html,[Rd] NAs produced by integer overflow (PR#10482),47585,Peter Dalgaard
+047620.html,[Rd] Wishlist: mention Vectorize in 'outer' man page (PR#10490),47620,Peter Dalgaard
+047621.html,[Rd] Wishlist: mention Vectorize in 'outer' man page (PR#10490),47621,Peter Dalgaard
+047624.html,[Rd] Trivial formatting typo in summary(lm()) (PR#10480),47624,Peter Dalgaard
+047628.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47628,Peter Dalgaard
+047629.html,[Rd] confint for coefficients from lm model (PR#10496),47629,Peter Dalgaard
+047654.html,[Rd] suggested modification to the 'mle' documentation?,47654,Peter Dalgaard
+047661.html,[Rd] suggested modification to the 'mle' documentation?,47661,Peter Dalgaard
+047686.html,[Rd] suggested modification to the 'mle' documentation?,47686,Peter Dalgaard
+047715.html,"[Rd] [Kurt.Hornik at wu-wien.ac.at: Re: range( &lt;dates&gt;, na.rm = TRUE )] (PR#10508)",47715,Peter Dalgaard
+047718.html,"[Rd] range( &lt;dates&gt;, na.rm = TRUE ) (PR#10508)",47718,Peter Dalgaard
+047731.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47731,Peter Dalgaard
+047737.html,[Rd] Adding a survival object to a data frame (PR#10510),47737,Peter Dalgaard
+047793.html,[Rd] Installation of RGtk2 (PR#10519),47793,Peter Dalgaard
+047796.html,[Rd] The XO laptop from the One Laptop Per Child (OLPC) program,47796,Peter Dalgaard
+047800.html,[Rd] Fortran 90 and Windows,47800,Peter Dalgaard
+047870.html,[Rd] x=.94 (PR#10529),47870,Peter Dalgaard
+047877.html,[Rd] parse() does not complain for not finished strings?,47877,Peter Dalgaard
+047759.html,[Rd] Rapid Random Access,47759,Sean Davis
+047903.html,[Rd] readBin differences on Windows and Linux/mac,47903,Sean Davis
+047905.html,[Rd] readBin differences on Windows and Linux/mac,47905,Sean Davis
+047677.html,[Rd] (PR#10500) Bug#454678: followup,47677,Dirk Eddelbuettel
+047798.html,[Rd] The XO laptop from the One Laptop Per Child (OLPC) program,47798,Dirk Eddelbuettel
+047808.html,[Rd] interactive graphics devices,47808,Byron Ellis
+047687.html,[Rd] NAMESPACE choices for exporting S4 methods,47687,Jay Emerson
+047691.html,[Rd] NAMESPACE choices for exporting S4 methods,47691,Jay Emerson
+047638.html,[Rd] R-Cocoa Bridge,47638,Lee Falin
+047694.html,[Rd] Using Fortran 95 in an R package?,47694,John Fox
+047696.html,[Rd] Using Fortran 95 in an R package?,47696,John Fox
+047844.html,[Rd] RODBC 1.2.2 patch for queries that return 0 rows,47844,Alistair Gee
+047819.html,[Rd] bug in r-base (PR#10521),47819,Vincent Goulet
+047642.html,[Rd] suggested modification to the 'mle' documentation?,47642,Spencer Graves
+047876.html,[Rd] parse() does not complain for not finished strings?,47876,Philippe Grosjean
+047880.html,"[Rd] (PR#10534 capture.output(), truncated last output without \n",47880,Philippe Grosjean
+047891.html,[Rd] gettext() and messages in 'pkg' domain,47891,Philippe Grosjean
+047893.html,[Rd] gettext() and messages in 'pkg' domain,47893,Philippe Grosjean
+047655.html,[Rd] suggested modification to the 'mle' documentation?,47655,Gabor Grothendieck
+047663.html,[Rd] suggested modification to the 'mle' documentation?,47663,Gabor Grothendieck
+047665.html,[Rd] suggested modification to the 'mle' documentation?,47665,Gabor Grothendieck
+047671.html,[Rd] Building packages,47671,Gabor Grothendieck
+047698.html,[Rd] List comprehensions for R,47698,Gabor Grothendieck
+047747.html,[Rd] creating lagged variables,47747,Gabor Grothendieck
+047773.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47773,Gabor Grothendieck
+047867.html,[Rd] Predictable grid names,47867,Gabor Grothendieck
+047868.html,[Rd] seekViewport error,47868,Gabor Grothendieck
+047790.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47790,Jeffrey J. Hallman
+047667.html,[Rd] Friday question: negative zero,47667,Robin Hankin
+047803.html,[Rd] branch cuts of log() and sqrt(),47803,Robin Hankin
+047604.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47604,Kasper Daniel Hansen
+047591.html,[Rd] [R] Sweave: Variables in code chunk headers,47591,Michael Hoffman
+047595.html,[Rd] [R] Sweave: Variables in code chunk headers,47595,Michael Hoffman
+047593.html,[Rd] sd(NA),47593,Wolfgang Huber
+047835.html,[Rd] using example() with S4 documentation,47835,Thibaut Jombart
+047712.html,[Rd] Interactiveness,47712,Bjarni Juliusson
+047717.html,[Rd] Interactiveness,47717,Bjarni Juliusson
+047755.html,[Rd] windows rtools missing gfortran.exe?,47755,Hiroyuki Kawakatsu
+047706.html,[Rd] setdiff for data frames,47706,G. Jay Kerns
+047710.html,[Rd] setdiff for data frames,47710,G. Jay Kerns
+047826.html,[Rd] Problem compiling R 3.6.1 on POWER 570 system,47826,Mark W Kimpel
+047804.html,[Rd] small bug in panel.cor in example for pairs?,47804,Matthias Kohl
+047823.html,[Rd] Problem compiling R 3.6.1 on POWER 570 system,47823,Mark Komarinski
+047829.html,[Rd] Problem compiling R 2.6.1 on POWER 570 system,47829,Mark Komarinski
+047590.html,[Rd] [R] Sweave: Variables in code chunk headers,47590,Max Kuhn
+047648.html,[Rd] RGtk2 + tcltk combination problem (PR#10497),47648,Michael Lawrence
+047738.html,[Rd] APARCH,47738,Veikko Leinonen
+047603.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47603,Hin-Tak Leung
+047614.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47614,Hin-Tak Leung
+047820.html,[Rd] R installer,47820,Hin-Tak Leung
+047822.html,[Rd] R installer,47822,Hin-Tak Leung
+047850.html,[Rd] SHLIB steps on a Makefile,47850,Hin-Tak Leung
+047854.html,[Rd] Problem with dyn.load'ed code,47854,Hin-Tak Leung
+047633.html,[Rd] [R] color palette from red to blue passing white (shifted from R-help),47633,Nicholas Lewin-Koh
+047871.html,[Rd] x=.94 (PR#10529),47871,Uwe Ligges
+047904.html,[Rd] readBin differences on Windows and Linux/mac,47904,Uwe Ligges
+047838.html,[Rd] 64-bit R build with Studio 12 on Sparc v9,47838,"Louisell, Paul"
+047765.html,[Rd] Rsquared bug lm() (PR#10516),47765,Thomas Lumley
+047889.html,[Rd] large netCDF files under Windows.,47889,Thomas Lumley
+047615.html,[Rd] [R] color palette from red to blue passing white (shifted	from R-help),47615,Martin Maechler
+047699.html,[Rd] buglet in curve?,47699,Martin Maechler
+047754.html,[Rd] End of whiskers of boxplots are repeated on PDF device	(PR#10499),47754,Martin Maechler
+047757.html,[Rd] Do not misuse R-devel {was &quot;Quadratic Programming&quot;},47757,Martin Maechler
+047766.html,[Rd] Improvement of SignRank functions,47766,Martin Maechler
+047768.html,[Rd] Improvement of SignRank functions,47768,Martin Maechler
+047772.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47772,Martin Maechler
+047802.html,[Rd] help files for load and related functions,47802,Martin Maechler
+047841.html,[Rd] small bug in panel.cor in example for pairs?,47841,Martin Maechler
+047842.html,[Rd] segfault isoreg with NAs,47842,Martin Maechler
+047862.html,[Rd] re quest for addition to R-int,47862,Martin Maechler
+047872.html,[Rd] R-ints typos,47872,Martin Maechler
+047849.html,[Rd] request for addition to R-int,47849,Bj&#248;rn-Helge Mevik
+047722.html,[Rd] another S4 question ...,47722,Martin Morgan
+047742.html,[Rd] S4 class extending data.frame?,47742,Martin Morgan
+047856.html,[Rd] Problem with initialize of S4 classes,47856,Martin Morgan
+047831.html,[Rd] SHLIB steps on a Makefile,47831,Iago Mosqueira
+047834.html,[Rd] SHLIB steps on a Makefile,47834,Iago Mosqueira
+047845.html,[Rd] Small typo in 'Writing R extensions',47845,Iago Mosqueira
+047858.html,[Rd] Errors in demo (PR#10527),47858,Iago Mosqueira
+047859.html,[Rd] Errors in demo (PR#10527),47859,Iago Mosqueira
+047584.html,[Rd] Puzzling message: &quot;no man files in this package&quot;,47584,Katharine Mullen
+047588.html,[Rd] Puzzling message: &quot;no man files in this package&quot;,47588,Katharine Mullen
+047589.html,[Rd] [R] Sweave: Variables in code chunk headers,47589,Duncan Murdoch
+047592.html,[Rd] [R] Sweave: Variables in code chunk headers,47592,Duncan Murdoch
+047609.html,[Rd] seq() does not create proper numbers (PR#10489),47609,Duncan Murdoch
+047664.html,[Rd] suggested modification to the 'mle' documentation?,47664,Duncan Murdoch
+047732.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47732,Duncan Murdoch
+047734.html,"[Rd] R CMD check error, Readitem unknown type 203",47734,Duncan Murdoch
+047746.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47746,Duncan Murdoch
+047752.html,[Rd] Minor documentation bug in R-exts (PR#10515),47752,Duncan Murdoch
+047753.html,[Rd] Rsquared bug lm() (PR#10516),47753,Duncan Murdoch
+047756.html,[Rd] windows rtools missing gfortran.exe?,47756,Duncan Murdoch
+047776.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47776,Duncan Murdoch
+047784.html,[Rd] help files for load and related functions,47784,Duncan Murdoch
+047787.html,[Rd] help files for load and related functions,47787,Duncan Murdoch
+047791.html,[Rd] Installation of RGtk2 (PR#10519),47791,Duncan Murdoch
+047848.html,[Rd] substitute() bug? (PR#10525),47848,Duncan Murdoch
+047860.html,[Rd] Errors in demo (PR#10527),47860,Duncan Murdoch
+047613.html,[Rd] [R] color palette from red to blue passing white (shifted from R-help),47613,Paul Murrell
+047625.html,[Rd] [R] color palette from red to blue passing white (shifted from R-help),47625,Paul Murrell
+047644.html,[Rd] Defaults for postscript(),47644,Paul Murrell
+047645.html,[Rd] [R] color palette from red to blue passing white (shifted from R-help),47645,Paul Murrell
+047807.html,[Rd] interactive graphics devices,47807,Paul Murrell
+047837.html,[Rd] Windows version make installer,47837,Erich Neuwirth
+047697.html,[Rd] List comprehensions for R,47697,David C. Norris
+047771.html,[Rd] List comprehensions for R,47771,David C. Norris
+047818.html,[Rd] Rscript thank you,47818,Vadim Ogranovich
+047828.html,[Rd] [R-sig-Debian]  bug in r-base (PR#10521),47828,Dr. Ottorino-Luca Pantani
+047775.html,[Rd] APARCH?,47775,Allan Pe
+047906.html,[Rd] Problem with dyn.load'ed code,47906,Andrew Piskorski
+047607.html,[Rd] sd(NA),47607,Tony Plate
+047725.html,[Rd] Interactiveness,47725,Tony Plate
+047745.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47745,Tony Plate
+047761.html,[Rd] Rapid Random Access,47761,Tony Plate
+047763.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47763,Tony Plate
+047779.html,[Rd] guidelines for consistency of vector functions,47779,Tony Plate
+047780.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47780,Tony Plate
+047797.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47797,Tony Plate
+047594.html,[Rd] sd(NA),47594,Prof Brian Ripley
+047630.html,[Rd] confint for coefficients from lm model (PR#10496),47630,Prof Brian Ripley
+047631.html,[Rd] Defaults for postscript(),47631,Prof Brian Ripley
+047652.html,[Rd] Defaults for postscript(),47652,Prof Brian Ripley
+047666.html,[Rd] [R] R CMD Build feature searches or requests,47666,Prof Brian Ripley
+047688.html,[Rd] NAMESPACE choices for exporting S4 methods,47688,Prof Brian Ripley
+047695.html,[Rd] Using Fortran 95 in an R package?,47695,Prof Brian Ripley
+047708.html,[Rd] setdiff for data frames,47708,Prof Brian Ripley
+047711.html,[Rd] Defaults for postscript(),47711,Prof Brian Ripley
+047714.html,[Rd] Interactiveness,47714,Prof Brian Ripley
+047724.html,[Rd] another S4 question ...,47724,Prof Brian Ripley
+047736.html,"[Rd] R CMD check error, Readitem unknown type 203",47736,Prof Brian Ripley
+047741.html,[Rd] Adding a survival object to a data frame (PR#10510),47741,Prof Brian Ripley
+047777.html,[Rd] mistake in Italian translation,47777,Prof Brian Ripley
+047801.html,[Rd] Fortran 90 and Windows,47801,Prof Brian Ripley
+047815.html,[Rd] interactive graphics devices,47815,Prof Brian Ripley
+047824.html,[Rd] Problem compiling R 3.6.1 on POWER 570 system,47824,Prof Brian Ripley
+047825.html,[Rd] Size of graphics device assumed by package examples,47825,Prof Brian Ripley
+047833.html,[Rd] SHLIB steps on a Makefile,47833,Prof Brian Ripley
+047839.html,[Rd] Windows version make installer,47839,Prof Brian Ripley
+047846.html,[Rd] Small typo in 'Writing R extensions',47846,Prof Brian Ripley
+047851.html,[Rd] SHLIB steps on a Makefile,47851,Prof Brian Ripley
+047883.html,"[Rd] (PR#10534 capture.output(), truncated last output without \n",47883,Prof Brian Ripley
+047887.html,[Rd] encoding question again,47887,Prof Brian Ripley
+047892.html,[Rd] gettext() and messages in 'pkg' domain,47892,Prof Brian Ripley
+047894.html,[Rd] large netCDF files under Windows.,47894,Prof Brian Ripley
+047799.html,[Rd] Fortran 90 and Windows,47799,Dave Roberts
+047805.html,[Rd] Fortran 90 and Windows,47805,Dave Roberts
+047646.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47646,Aaron Robotham
+047662.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47662,Aaron Robotham
+047705.html,[Rd]  os x crash using rpanel and tcltk (PR#10495),47705,Aaron Robotham
+047670.html,[Rd] Building packages,47670,Barry Rowlingson
+047672.html,[Rd] Building packages,47672,Barry Rowlingson
+047675.html,[Rd] Building packages,47675,Barry Rowlingson
+047758.html,[Rd] Rapid Random Access,47758,Barry Rowlingson
+047762.html,[Rd] Rapid Random Access,47762,Barry Rowlingson
+047900.html,[Rd] as.Date.numeric origin default,47900,Jeff Ryan
+047632.html,[Rd] Defaults for postscript(),47632,Deepayan Sarkar
+047809.html,[Rd] interactive graphics devices,47809,Deepayan Sarkar
+047811.html,[Rd] available.packages() not accurate?,47811,Deepayan Sarkar
+047813.html,[Rd] available.packages() not accurate?,47813,Deepayan Sarkar
+047637.html,[Rd] Defaults for postscript(),47637,Marc Schwartz
+047726.html,[Rd] Defaults for postscript(),47726,Marc Schwartz
+047786.html,[Rd] help files for load and related functions,47786,Gavin Simpson
+047673.html,[Rd] Building packages,47673,Oleg Sklyar
+047740.html,[Rd] S4 class extending data.frame?,47740,Oleg Sklyar
+047743.html,[Rd] S4 class extending data.frame?,47743,Oleg Sklyar
+047785.html,[Rd] help files for load and related functions,47785,Oleg Sklyar
+047792.html,[Rd] Installation of RGtk2 (PR#10519),47792,Oleg Sklyar
+047679.html,[Rd] suggested modification to the 'mle' documentation?,47679,Luke Tierney
+047680.html,[Rd] suggested modification to the 'mle' documentation?,47680,Luke Tierney
+047683.html,[Rd] suggested modification to the 'mle' documentation?,47683,Luke Tierney
+047689.html,[Rd] suggested modification to the 'mle' documentation?,47689,Luke Tierney
+047690.html,[Rd] suggested modification to the 'mle' documentation?,47690,Luke Tierney
+047806.html,[Rd] Improvement of SignRank functions,47806,Luke Tierney
+047653.html,[Rd] End of whiskers of boxplots are repeated on PDF	device	(PR#10499),47653,Michael Toews
+047748.html,[Rd] End of whiskers of boxplots are repeated on	PDF	device	(PR#10499),47748,Michael Toews
+047729.html,"[Rd] R CMD check error, Readitem unknown type 203",47729,Abhishek Tripathi
+047636.html,[Rd] Solve.QP,47636,Berwin A Turlach
+047764.html,[Rd] Improvement of SignRank functions,47764,Ivo Ugrina
+047767.html,[Rd] Improvement of SignRank functions,47767,Ivo Ugrina
+047770.html,[Rd] Improvement of SignRank functions,47770,Ivo Ugrina
+047600.html,[Rd] interaction with C++ code (PR#10487),47600,Simon Urbanek
+047601.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47601,Simon Urbanek
+047605.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47605,Simon Urbanek
+047619.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47619,Simon Urbanek
+047640.html,[Rd] R-Cocoa Bridge,47640,Simon Urbanek
+047643.html,[Rd] R-Cocoa Bridge,47643,Simon Urbanek
+047649.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47649,Simon Urbanek
+047669.html,[Rd] R installer,47669,Simon Urbanek
+047821.html,[Rd] R installer,47821,Simon Urbanek
+047832.html,[Rd] SHLIB steps on a Makefile,47832,Simon Urbanek
+047843.html,[Rd] 64-bit R build with Studio 12 on Sparc v9,47843,Simon Urbanek
+047874.html,[Rd] encoding question again,47874,Simon Urbanek
+047885.html,[Rd] encoding question again,47885,Simon Urbanek
+047886.html,[Rd] encoding question again,47886,Simon Urbanek
+047895.html,[Rd] encoding question again,47895,Simon Urbanek
+047896.html,[Rd] some questions about startup Rserve,47896,Simon Urbanek
+047898.html,[Rd] Problem with dyn.load'ed code,47898,Simon Urbanek
+047760.html,[Rd] segfault isoreg with NAs,47760,Tobias Verbeke
+047827.html,[Rd] segfault isoreg with NAs,47827,Tobias Verbeke
+047727.html,[Rd] Interactiveness,47727,Gregory Warnes
+047873.html,[Rd] encoding question again,47873,Matthias Wendel
+047875.html,[Rd] encoding question again,47875,Matthias Wendel
+047659.html,[Rd]  Cross Compiling for ARM,47659,Junqian Gordon Xu
+047616.html,[Rd] [R] color palette from red to blue passing white (shifted from R-help),47616,Achim Zeileis
+047716.html,"[Rd] [Kurt.Hornik at wu-wien.ac.at: Re: range( &lt;dates&gt;,	na.rm = (PR#10509)",47716,P.Dalgaard at biostat.ku.dk
+047719.html,"[Rd] range( &lt;dates&gt;, na.rm = TRUE ) (PR#10508)",47719,P.Dalgaard at biostat.ku.dk
+047721.html,"[Rd] range( &lt;dates&gt;, na.rm = TRUE ) (PR#10508)",47721,P.Dalgaard at biostat.ku.dk
+047626.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47626,a.robotham at bris.ac.uk
+047682.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47682,a.robotham at bristol.ac.uk
+047700.html,[Rd] Package tseries Garch (PR#10504),47700,babel at centrum.sk
+047853.html,[Rd] Problem with initialize of S4 classes,47853,cstrato
+047863.html,[Rd] Problem with initialize of S4 classes,47863,cstrato
+047618.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47618,dankelley
+047781.html,[Rd] Defaults for postscript(),47781,dankelley
+047657.html,[Rd] Bug#454678: r-base-core: Crash when calling edit.matrix	with edit.row.names = TRUE when there are no rownames (PR#10500),47657,edd at debian.org
+047817.html,[Rd] bug in r-base (PR#10521),47817,m.zamboni at email.it
+047627.html,[Rd] confint for coefficients from lm model (PR#10496),47627,Christian.Lajaunie at ensmp.fr
+047884.html,[Rd] Installation of ade4 and ecodist (PR#10535),47884,sabine.guesewell at env.ethz.ch
+047674.html,[Rd] (PR#10500) Bug#454678: followup,47674,goodrich at fas.harvard.edu
+047611.html,[Rd] Wishlist: mention Vectorize in 'outer' man page (PR#10490),47611,antonio.fabio at gmail.com
+047612.html,[Rd] Wishlist: mention Vectorize in 'outer' man page (PR#10490),47612,antonio.fabio at gmail.com
+047681.html,[Rd] regression tests for unlink and wildcards fail - Solaris 10	SPARC / Sun Studio 12 (PR#10501),47681,brownjtb at gmail.com
+047869.html,[Rd] x=.94 (PR#10529),47869,jrecta at gmail.com
+047750.html,[Rd] Rsquared bug lm() (PR#10516),47750,lieven.clement at gmail.com
+047901.html,[Rd] Browse option to change working directory (PR#10537),47901,merrick.mccracken at gmail.com
+047847.html,[Rd] substitute() bug? (PR#10525),47847,rossibarra at gmail.com
+047730.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47730,simecek at gmail.com
+047583.html,[Rd] NAs produced by integer overflow (PR#10482),47583,stgries at gmail.com
+047647.html,[Rd] RGtk2  + tcltk combination problem (PR#10497),47647,cyrix333 at gmx.net
+047608.html,[Rd] seq() does not create proper numbers (PR#10489),47608,rihle at gwdg.de
+047778.html,[Rd] mistake in Italian translation,47778,stefano iacus
+047751.html,[Rd] Minor documentation bug in R-exts (PR#10515),47751,Greg.Snow at imail.org
+047788.html,[Rd] Installation of RGtk2 (PR#10519),47788,caroline.keef at jbaconsulting.co.uk
+047782.html,[Rd] Rsquared bug lm() (PR#10516),47782,lieven
+047596.html,[Rd] Puzzling message: &quot;no man files in this package&quot;,47596,J.J.Goeman at lumc.nl
+047599.html,[Rd] interaction with C++ code (PR#10487),47599,I.J.Wilson at ncl.ac.uk
+047728.html,[Rd] Adding a survival object to a data frame (PR#10510),47728,edward.m at psu.ac.th
+047650.html,[Rd] os x crash using rpanel and tcltk (PR#10495),47650,simon.urbanek at r-project.org
+047878.html,"[Rd] capture.output(), truncated last output without \n (PR#10534)",47878,phgrosjean at sciviews.org
+047888.html,[Rd] Typo in ?options for warning.length (PR#10536),47888,phgrosjean at sciviews.org
+047651.html,[Rd] End of whiskers of boxplots are repeated on PDF device	(PR#10499),47651,mwtoews at sfu.ca
+047617.html,[Rd] Wishlist: mention Vectorize in 'outer' man page (PR#10490),47617,maechler at stat.math.ethz.ch
+047623.html,[Rd] Trivial formatting typo in summary(lm()) (PR#10480),47623,maechler at stat.math.ethz.ch
+047881.html,"[Rd] (PR#10534 capture.output(), truncated last output without",47881,maechler at stat.math.ethz.ch
+047597.html,[Rd] [R] Sweave: Variables in code chunk headers,47597,friedrich.leisch at stat.uni-muenchen.de
+047702.html,"[Rd] bug in by.data.frame, R-2.6.1 (PR#10506)",47702,ligges at statistik.uni-dortmund.de
+047586.html,[Rd] dataframe does not expand as.Dates objects (PR#10481),47586,ripley at stats.ox.ac.uk
+047587.html,[Rd] NAs produced by integer overflow (PR#10482),47587,ripley at stats.ox.ac.uk
+047602.html,[Rd] interaction with C++ code (PR#10487),47602,ripley at stats.ox.ac.uk
+047660.html,[Rd] (PR#10500) Bug#454678: r-base-core: Crash when calling,47660,ripley at stats.ox.ac.uk
+047701.html,[Rd] Package tseries Garch (PR#10504),47701,ripley at stats.ox.ac.uk
+047720.html,"[Rd] range( &lt;dates&gt;, na.rm = TRUE ) (PR#10508)",47720,ripley at stats.ox.ac.uk
+047733.html,[Rd] Wrong length of POSIXt vectors (PR#10507),47733,ripley at stats.ox.ac.uk
+047735.html,[Rd] Adding a survival object to a data frame (PR#10510),47735,ripley at stats.ox.ac.uk
+047794.html,[Rd] Installation of RGtk2 (PR#10519),47794,ripley at stats.ox.ac.uk
+047816.html,"[Rd] bug in by.data.frame, R-2.6.1 (PR#10506)",47816,ripley at stats.ox.ac.uk
+047861.html,[Rd] Errors in demo (PR#10527),47861,ripley at stats.ox.ac.uk
+047879.html,"[Rd] (PR#10534 capture.output(), truncated last output without",47879,ripley at stats.ox.ac.uk
+047882.html,"[Rd] (PR#10534 capture.output(), truncated last output without",47882,ripley at stats.ox.ac.uk
+047902.html,[Rd] Browse option to change working directory (PR#10537),47902,ripley at stats.ox.ac.uk
+047635.html,[Rd] trace() problems (PR#10498),47635,murdoch at stats.uwo.ca
+047639.html,[Rd] R-Cocoa Bridge,47639,elw at stderr.org
+047676.html,[Rd] R-Cocoa Bridge,47676,elw at stderr.org
+047857.html,[Rd] Errors in demo (PR#10527),47857,rcwright at texas.net
+047704.html,[Rd]  problem using &quot;by&quot; with custom function?,47704,thalarctos
+047704.html,[Rd]  problem using &quot;by&quot; with custom function?,47704,thalarctos
+047830.html,"[Rd] bug in by.data.frame, R-2.6.1 (PR#10506)",47830,tlumley at u.washington.edu
+047866.html,[Rd] callNextMethod() with builtin group methods fails to create	proper environment,47866,Stephen.Pope at ubs.com
+047836.html,[Rd] typo in cbind help page (PR#10523),47836,markleeds at verizon.net
+047678.html,[Rd] Building packages,47678,hadley wickham
+047810.html,[Rd] available.packages() not accurate?,47810,hadley wickham
+047812.html,[Rd] available.packages() not accurate?,47812,hadley wickham
+047814.html,[Rd] available.packages() not accurate?,47814,hadley wickham
+047713.html,"[Rd] [Kurt.Hornik at wu-wien.ac.at: Re: range( &lt;dates&gt;,	na.rm = TRUE )] (PR#10508)",47713,Kurt.Hornik at wu-wien.ac.at
+047890.html,[Rd] some questions about startup Rserve,47890,&#31243;&#26195;&#26126;

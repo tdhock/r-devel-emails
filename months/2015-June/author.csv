@@ -1,0 +1,166 @@
+link,Subject,id,author
+071415.html,[Rd] Improving string concatenation,71415,Avraham Adler
+071439.html,[Rd] GCC update in Rtools?,71439,Avraham Adler
+071454.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71454,Dean Attali
+071316.html,[Rd] NEWS.md support on CRAN,71316,Gabriel Becker
+071324.html,[Rd] NEWS.md support on CRAN,71324,Gabriel Becker
+071383.html,[Rd] Add on argument in seq(),71383,Gabriel Becker
+071387.html,[Rd] Add on argument in seq(),71387,Gabriel Becker
+071403.html,[Rd] Improving string concatenation,71403,Gabriel Becker
+071367.html,[Rd] declaring nonS3method,71367,Skye Bender-deMoll
+071304.html,"[Rd] sum(..., na.rm=FALSE): Summing over NA_real_ values much more expensive than non-NAs for na.rm=FALSE? Hmm...",71304,Henrik Bengtsson
+071305.html,"[Rd] sum(..., na.rm=FALSE): Summing over NA_real_ values much more expensive than non-NAs for na.rm=FALSE? Hmm...",71305,Henrik Bengtsson
+071338.html,"[Rd] sum(..., na.rm=FALSE): Summing over NA_real_ values much more expensive than non-NAs for na.rm=FALSE? Hmm...",71338,Henrik Bengtsson
+071369.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71369,Henrik Bengtsson
+071386.html,[Rd] Add-on argument in sample(),71386,Henrik Bengtsson
+071393.html,[Rd] Code demos via HTML help gives an error,71393,Henrik Bengtsson
+071408.html,[Rd] Code demos via HTML help gives an error,71408,Henrik Bengtsson
+071430.html,[Rd] Listing all spawned jobs/processed after	parallel::mcparallel()?,71430,Henrik Bengtsson
+071444.html,[Rd] Listing all spawned jobs/processed after	parallel::mcparallel()?,71444,Henrik Bengtsson
+071400.html,[Rd] Different behavior of model.matrix between R 3.2 and R3.1.1,71400,Charles C. Berry
+071449.html,[Rd] Estimating overdispersion when using glm for count and	binomial data,71449,Ben Bolker
+071392.html,[Rd] Bugzilla activity?,71392,Milan Bouchet-Valat
+071420.html,[Rd] Bugzilla activity?,71420,Milan Bouchet-Valat
+071421.html,[Rd] Bugzilla activity?,71421,Milan Bouchet-Valat
+071395.html,[Rd] Improving string concatenation,71395,Joshua Bradley
+071401.html,[Rd] Improving string concatenation,71401,Joshua Bradley
+071404.html,[Rd] Improving string concatenation,71404,Joshua Bradley
+071416.html,[Rd] Improving string concatenation,71416,Joshua Bradley
+071441.html,[Rd] Plans to improve reference classes?,71441,John Chambers
+071442.html,[Rd] Plans to improve reference classes?,71442,Winston Chang
+071370.html,[Rd] CRAN testing,71370,G&#225;bor Cs&#225;rdi
+071397.html,[Rd] Improving string concatenation,71397,G&#225;bor Cs&#225;rdi
+071399.html,[Rd] Improving string concatenation,71399,G&#225;bor Cs&#225;rdi
+071402.html,[Rd] Improving string concatenation,71402,G&#225;bor Cs&#225;rdi
+071410.html,[Rd] Improving string concatenation,71410,G&#225;bor Cs&#225;rdi
+071414.html,[Rd] Improving string concatenation,71414,G&#225;bor Cs&#225;rdi
+071434.html,[Rd] Plans to improve reference classes?,71434,G&#225;bor Cs&#225;rdi
+071436.html,[Rd] R-devel is broken,71436,G&#225;bor Cs&#225;rdi
+071462.html,[Rd] Why doesn't R have a float data type?,71462,Charles Determan
+071465.html,[Rd] Why doesn't R have a float data type?,71465,Charles Determan
+071310.html,[Rd] NEWS.md support on CRAN,71310,Michael Dewey
+071412.html,[Rd] Add-on argument in sample(),71412,William Dunlap
+071413.html,[Rd] Improving string concatenation,71413,William Dunlap
+071417.html,[Rd] Improving string concatenation,71417,William Dunlap
+071308.html,[Rd] NEWS.md support on CRAN,71308,Dirk Eddelbuettel
+071311.html,[Rd] NEWS.md support on CRAN,71311,Dirk Eddelbuettel
+071344.html,[Rd] Bug in loadNamespace?,71344,Dirk Eddelbuettel
+071445.html,[Rd] Improving string concatenation,71445,G&#246;k&#231;en Eraslan
+071447.html,[Rd] Estimating overdispersion when using glm for count and	binomial data,71447,David Fletcher
+071451.html,[Rd] Estimating overdispersion when using glm for count and binomial data,71451,David Fletcher
+071357.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71357,John Fox
+071373.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71373,John Fox
+071379.html,[Rd] Add-on argument in sample(),71379,Millot Gael
+071380.html,[Rd] Add on argument in seq(),71380,Millot Gael
+071384.html,[Rd] Add on argument in seq(),71384,Millot Gael
+071390.html,[Rd] Add on argument in seq(),71390,Millot Gael
+071339.html,[Rd] Request: making cutree S3 in R?,71339,Tal Galili
+071351.html,[Rd] Request: making cutree S3 in R?,71351,Tal Galili
+071463.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71463,Paul Gilbert
+071312.html,[Rd] NEWS.md support on CRAN,71312,Kasper Daniel Hansen
+071396.html,[Rd] Different behavior of model.matrix between R 3.2 and  R3.1.1,71396,Frank Harrell
+071319.html,[Rd] Problem with shared library and lapack under windows,71319,Berend Hasselman
+071334.html,"[Rd] R-devel Digest, Vol 148, Issue 5",71334,Berend Hasselman
+071376.html,[Rd] Expected error with help.search in R 3.2.0,71376,Berend Hasselman
+071306.html,[Rd] NEWS.md support on CRAN,71306,Kurt Hornik
+071317.html,[Rd] NEWS.md support on CRAN,71317,Kurt Hornik
+071360.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71360,Kurt Hornik
+071362.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71362,Kurt Hornik
+071388.html,[Rd] back port of Bug 15899 fix missing from R 3.2.1 RC release!!!,71388,Jack Howarth
+071355.html,[Rd] CRAN testing,71355,Mick Jordan
+071432.html,[Rd] NAMESPACE imports,71432,Roger Koenker
+071448.html,[Rd] catch a windows user message from within R,71448,Teodor Krastev
+071409.html,[Rd] Improving string concatenation,71409,Michael Lawrence
+071433.html,[Rd] Plans to improve reference classes?,71433,Michael Lawrence
+071438.html,[Rd] Plans to improve reference classes?,71438,Michael Lawrence
+071333.html,"[Rd] R-devel Digest, Vol 148, Issue 5",71333,Thomas J. Leeper
+071337.html,[Rd] NEWS.md support on CRAN,71337,Thomas J. Leeper
+071323.html,[Rd] NEWS.md support on CRAN,71323,Mark van der Loo
+071332.html,[Rd] NEWS.md support on CRAN,71332,Mark van der Loo
+071460.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71460,"Lorenz, David"
+071423.html,[Rd] Improving string concatenation,71423,"MacQueen, Don"
+071322.html,[Rd] Nabble gibberish on R-devel: please stop it (Re: S3 internal	...),71322,Martin Maechler
+071356.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71356,Martin Maechler
+071364.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71364,Martin Maechler
+071372.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71372,Martin Maechler
+071378.html,[Rd] Lack of protection bug in current R release candidate,71378,Martin Maechler
+071382.html,[Rd] Lack of protection bug in current R release candidate,71382,Martin Maechler
+071389.html,[Rd] back port of Bug 15899 fix missing from R 3.2.1 RC	release!!!,71389,Martin Maechler
+071427.html,[Rd] Improving string concatenation,71427,Martin Maechler
+071307.html,"[Rd] Compiling 64bit static library for Windows (Rtools33, MSYS2, cross-compile on linux)",71307,Sue McDonald
+071391.html,[Rd] Add-on argument in sample(),71391,Peter Meissner
+071394.html,[Rd] Bugzilla activity?,71394,Joris Meys
+071455.html,[Rd] Guidelines for S3 regression models,71455,Stephen Milborrow
+071309.html,[Rd] NEWS.md support on CRAN,71309,Duncan Murdoch
+071313.html,[Rd] NEWS.md support on CRAN,71313,Duncan Murdoch
+071315.html,[Rd] NEWS.md support on CRAN,71315,Duncan Murdoch
+071326.html,[Rd] NEWS.md support on CRAN,71326,Duncan Murdoch
+071328.html,[Rd] NEWS.md support on CRAN,71328,Duncan Murdoch
+071335.html,[Rd] NEWS.md support on CRAN,71335,Duncan Murdoch
+071341.html,[Rd] NEWS file inconsistency,71341,Duncan Murdoch
+071343.html,[Rd] Bug in loadNamespace?,71343,Duncan Murdoch
+071345.html,[Rd] Bug in loadNamespace?,71345,Duncan Murdoch
+071348.html,[Rd] Bug in loadNamespace?,71348,Duncan Murdoch
+071350.html,[Rd] NEWS file inconsistency,71350,Duncan Murdoch
+071358.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71358,Duncan Murdoch
+071359.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71359,Duncan Murdoch
+071361.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71361,Duncan Murdoch
+071365.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71365,Duncan Murdoch
+071406.html,[Rd] Bugzilla activity?,71406,Duncan Murdoch
+071407.html,[Rd] Code demos via HTML help gives an error,71407,Duncan Murdoch
+071429.html,[Rd] QT + RInside problem complement,71429,Duncan Murdoch
+071443.html,[Rd] GCC update in Rtools?,71443,Duncan Murdoch
+071457.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71457,Duncan Murdoch
+071461.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71461,Duncan Murdoch
+071468.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71468,Duncan Murdoch
+071374.html,[Rd] Lack of protection bug in current R release candidate,71374,Radford Neal
+071381.html,[Rd] Lack of protection bug in current R release candidate,71381,Radford Neal
+071411.html,[Rd] Add-on argument in sample(),71411,Radford Neal
+071425.html,[Rd] Improving string concatenation,71425,Radford Neal
+071426.html,[Rd] Add-on argument in sample(),71426,Radford Neal
+071314.html,[Rd] NEWS.md support on CRAN,71314,Jeroen Ooms
+071371.html,[Rd] CRAN testing,71371,Jeroen Ooms
+071398.html,[Rd] Improving string concatenation,71398,Herv&#233; Pag&#232;s
+071418.html,[Rd] Add-on argument in sample(),71418,Herv&#233; Pag&#232;s
+071419.html,[Rd] Improving string concatenation,71419,Herv&#233; Pag&#232;s
+071424.html,[Rd] Improving string concatenation,71424,Herv&#233; Pag&#232;s
+071467.html,[Rd] Why doesn't R have a float data type?,71467,Herv&#233; Pag&#232;s
+071327.html,[Rd] NEWS.md support on CRAN,71327,Prof Brian Ripley
+071330.html,[Rd] Problem with shared library and lapack under windows,71330,Prof Brian Ripley
+071431.html,[Rd] Listing all spawned jobs/processed after parallel::mcparallel()?,71431,Prof Brian Ripley
+071466.html,[Rd] Why doesn't R have a float data type?,71466,Prof Brian Ripley
+071428.html,[Rd] QT + RInside problem complement,71428,PO SU
+071325.html,[Rd] NEWS.md support on CRAN,71325,Gavin Simpson
+071329.html,[Rd] NEWS.md support on CRAN,71329,Gavin Simpson
+071331.html,[Rd] NEWS.md support on CRAN,71331,Gavin Simpson
+071336.html,[Rd] NEWS.md support on CRAN,71336,Gavin Simpson
+071349.html,[Rd] Request: making cutree S3 in R?,71349,Gavin Simpson
+071405.html,[Rd] Add-on argument in sample(),71405,Jon Skoien
+071422.html,[Rd] Add-on argument in sample(),71422,Jon Skoien
+071464.html,[Rd] Why doesn't R have a float data type?,71464,Greg Snow
+071446.html,[Rd] system2() shortens R.home() to 8.3 form on windows,71446,Dan Tenenbaum
+071353.html,[Rd] Odd behavior of plot function,71353,"Therneau, Terry M., Ph.D."
+071354.html,[Rd] Odd behavior of plot function,71354,"Therneau, Terry M., Ph.D."
+071368.html,[Rd] CRAN testing,71368,Simon Urbanek
+071340.html,[Rd] NEWS file inconsistency,71340,Tobias Verbeke
+071342.html,[Rd] NEWS file inconsistency,71342,Tobias Verbeke
+071452.html,[Rd] Support for transparency in metafile export &amp; support for export to Powerpoint,71452,Tom Wenseleers
+071363.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71363,Hadley Wickham
+071385.html,[Rd] Add on argument in seq(),71385,Hadley Wickham
+071435.html,[Rd] Plans to improve reference classes?,71435,Hadley Wickham
+071440.html,[Rd] Plans to improve reference classes?,71440,Hadley Wickham
+071456.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71456,Hadley Wickham
+071458.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71458,Hadley Wickham
+071375.html,[Rd] Expected error with help.search in R 3.2.0,71375,David Winsemius
+071377.html,[Rd] Expected error with help.search in R 3.2.0,71377,David Winsemius
+071450.html,[Rd] [R-pkg-devel] Guidelines for S3 regression models,71450,Achim Zeileis
+071318.html,[Rd] Problem with shared library and lapack under windows,71318,bstr
+071346.html,[Rd] Bug in loadNamespace?,71346,peter dalgaard
+071347.html,[Rd] Bug in loadNamespace?,71347,peter dalgaard
+071437.html,[Rd] R-devel is broken,71437,peter dalgaard
+071320.html,[Rd] Matrix loading hangs on AIX 5.3 with 3.1.2,71320,derjones
+071321.html,[Rd] S3 internal and group generics,71321,edson.bastos
+071453.html,"[Rd] shouldn't seq(my_int_vector,	length.out=y) be an integer vector?",71453,franknarf
+071352.html,[Rd] cuda-memcheck to debug CUDA-enabled R packages,71352,landau
+071366.html,[Rd] RFC: Declaring &quot;foo.bar&quot; as nonS3method() ?!,71366,luke-tierney at uiowa.edu
+071459.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71459,luke-tierney at uiowa.edu

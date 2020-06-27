@@ -1,0 +1,71 @@
+link,Subject,id,author
+072806.html,"[Rd] complex NA's match(), etc: not back-compatible change proposal",72806,Suharto Anggono Suharto Anggono
+072869.html,[Rd] Calling C implementations of rnorm and friends,72869,Gabriel Becker
+072809.html,[Rd] RProfmem output format,72809,Henrik Bengtsson
+072823.html,[Rd] typosquatting and trojan horses in packages,72823,Ben Bolker
+072807.html,[Rd] Submitting an updated package version to CRAN (Warning: non-ASCII characters),72807,Luck Buttered
+072805.html,[Rd] [RfC] Family dispersion,72805,Luis Carvalho
+072852.html,[Rd] dowload.file(method=&quot;libcurl&quot;) and GET vs. HEAD requests,72852,Winston Chang
+072854.html,[Rd] dowload.file(method=&quot;libcurl&quot;) and GET vs. HEAD requests,72854,Winston Chang
+072831.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72831,G&#225;bor Cs&#225;rdi
+072858.html,[Rd] Two minor build system patches.,72858,Ray Donnelly
+072860.html,[Rd] Two minor build system patches.,72860,Ray Donnelly
+072851.html,[Rd] xxx not available for .C  in package yyy,72851,Dirk Eddelbuettel
+072834.html,[Rd] mcparallel (parallel:::mcexit) does not call finalizers,72834,Karl Forner
+072835.html,[Rd] Error in texi2dvi,72835,Spencer Graves
+072836.html,[Rd] vignette output: word_document problems,72836,Spencer Graves
+072839.html,[Rd] Error in texi2dvi,72839,Spencer Graves
+072841.html,[Rd] RODBC on Mac &amp; _R_CHECK_FORCE_SUGGESTS_,72841,Spencer Graves
+072844.html,[Rd] RODBC on Mac &amp; _R_CHECK_FORCE_SUGGESTS_,72844,Spencer Graves
+072847.html,[Rd] Error in texi2dvi,72847,Spencer Graves
+072849.html,[Rd] RODBC on Mac &amp; _R_CHECK_FORCE_SUGGESTS_,72849,Spencer Graves
+072861.html,[Rd] stack problem,72861,Gabor Grothendieck
+072863.html,[Rd] stack problem,72863,Gabor Grothendieck
+072826.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72826,Jan G&#243;recki
+072829.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72829,Jan G&#243;recki
+072832.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72832,Jan G&#243;recki
+072865.html,[Rd] A package requiring cmake,72865,Holger Hoefling
+072848.html,[Rd] xxx not available for .C  in package yyy,72848,"Izmirlian, Grant (NIH/NCI) [E]"
+072800.html,[Rd] Suggestion: pdf.options(embed=TRUE),72800,Paul Johnson
+072812.html,[Rd] Small mistake in ?raw,72812,Mikko Korpela
+072840.html,[Rd] Error in texi2dvi,72840,Mikko Korpela
+072819.html,[Rd] cumsum method in Math group,72819,Michael Lawrence
+072833.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72833,Michael Lawrence
+072862.html,[Rd] stack problem,72862,Michael Lawrence
+072864.html,[Rd] stack problem,72864,Michael Lawrence
+072802.html,[Rd] segfault / crash when asking for large memory via strrep(),72802,Martin Maechler
+072808.html,[Rd] factors with non-unique (&quot;duplicated&quot;) levels have been deprecated since 2009 -- are *more* deprecated now -- and why you should be hesitant misusing suppressWarnings(),72808,Martin Maechler
+072814.html,[Rd] readlines() truncates text file with Codepage 437 encoding,72814,Martin Maechler
+072815.html,[Rd] Small mistake in ?raw,72815,Martin Maechler
+072817.html,[Rd] Trivial patch for merge.Rd,72817,Martin Maechler
+072820.html,[Rd] readlines() truncates text file with Codepage 437 encoding,72820,Martin Maechler
+072821.html,[Rd] getGraphicsEvent on X11 and event queuing,72821,Martin Maechler
+072830.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72830,Joris Meys
+072853.html,[Rd] dowload.file(method=&quot;libcurl&quot;) and GET vs. HEAD requests,72853,Martin Morgan
+072855.html,[Rd] dowload.file(method=&quot;libcurl&quot;) and GET vs. HEAD requests,72855,"Morgan, Martin"
+072837.html,[Rd] Error in texi2dvi,72837,Duncan Murdoch
+072838.html,[Rd] vignette output: word_document problems,72838,Duncan Murdoch
+072850.html,[Rd] xxx not available for .C in package yyy,72850,Duncan Murdoch
+072859.html,[Rd] Two minor build system patches.,72859,Duncan Murdoch
+072867.html,[Rd] A package requiring cmake,72867,Duncan Murdoch
+072810.html,[Rd] readlines() truncates text file with Codepage 437 encoding,72810,Adam Obeng
+072827.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,72827,Thierry Onkelinx
+072822.html,[Rd] collapsing list of NULLs dimnames into a NULL,72822,Herv&#233; Pag&#232;s
+072824.html,[Rd] as.array() on a data.frame,72824,Herv&#233; Pag&#232;s
+072857.html,[Rd] 3 minor issues with getClass 'resolve.msg' arg,72857,Herv&#233; Pag&#232;s
+072818.html,[Rd] cumsum method in Math group,72818,Edzer Pebesma
+072866.html,[Rd] A package requiring cmake,72866,Brian G. Peterson
+072816.html,[Rd] Trivial patch for merge.Rd,72816,Marc Schwartz
+072843.html,[Rd] RODBC on Mac &amp; _R_CHECK_FORCE_SUGGESTS_,72843,Marc Schwartz
+072845.html,[Rd] [FORGED] Re:  Error in texi2dvi,72845,David Scott
+072842.html,[Rd] RODBC on Mac &amp; _R_CHECK_FORCE_SUGGESTS_,72842,Joshua Ulrich
+072856.html,[Rd] strange behavior in 'inherits' check for loaded S4 object,72856,Kevin Ushey
+072868.html,[Rd] Calling C implementations of rnorm and friends,72868,Luis Usier
+072801.html,[Rd] Suggestion: pdf.options(embed=TRUE),72801,David Winsemius
+072811.html,[Rd] getGraphicsEvent on X11 and event queuing,72811,frederik at ofb.net
+072813.html,[Rd] getGraphicsEvent on X11 and event queuing,72813,frederik at ofb.net
+072825.html,[Rd] getGraphicsEvent on X11 and event queuing; Makefile.in,72825,frederik at ofb.net
+072828.html,[Rd] getGraphicsEvent on X11 and event queuing,72828,frederik at ofb.net
+072846.html,[Rd] getGraphicsEvent on X11 and event queuing,72846,frederik at ofb.net
+072803.html,[Rd] segfault / crash when asking for large memory via strrep(),72803,luke-tierney at uiowa.edu
+072804.html,[Rd] segfault / crash when asking for large memory via strrep(),72804,luke-tierney at uiowa.edu

@@ -1,0 +1,93 @@
+link,Subject,id,author
+079033.html,[Rd] PDF generation issue from manual page,79033,Korpela Mikko (MML)
+079054.html,[Rd] Support for Dashes in the Raw String Delimiter,79054,Juan Telleria Ruiz de Aguirre
+079029.html,[Rd] PDF generation issue from manual page,79029,neonira Arinoem
+079009.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79009,Rui Barradas
+079013.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79013,Rui Barradas
+079017.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79017,Rui Barradas
+079039.html,[Rd] Why is any() only defined for a numeric and not logical data.frame?,79039,Rui Barradas
+079088.html,[Rd] dput(),79088,Rui Barradas
+079091.html,[Rd] dput(),79091,Gabriel Becker
+079035.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,79035,Henrik Bengtsson
+079095.html,[Rd] tcl problem with R-3.6.3?,79095,Henrik Bengtsson
+079023.html,[Rd] R 3.6.3 scheduled for February 29,79023,Ben Bolker
+079058.html,[Rd] trivial typo in man page Quote.Rd,79058,Ben Bolker
+079070.html,"[Rd] specials issue, a heads up",79070,Ben Bolker
+079092.html,[Rd] dput(),79092,Ben Bolker
+079034.html,[Rd] changed names from lm() in R-devel,79034,Georgi Boshnakov
+079083.html,[Rd] unlink() on &quot;~&quot; removes the home directory,79083,G&#225;bor Cs&#225;rdi
+079021.html,[Rd] R 3.6.3 scheduled for February 29,79021,Peter Dalgaard
+079090.html,[Rd] R 3.6.3 is released,79090,Peter Dalgaard
+079067.html,[Rd] Default for checkBuilt in update.packages() should be TRUE,79067,Michael Dewey
+079044.html,"[Rd]  round(x, dig) [was &quot;Development version of R fails tests ..&quot;]",79044,Steven Dirkse
+079051.html,[Rd] dimnames incoherence?,79051,William Dunlap
+079060.html,[Rd] dimnames incoherence?,79060,William Dunlap
+079064.html,[Rd] Change 77844 breaking pkgs [Re:  dimnames incoherence?],79064,William Dunlap
+079100.html,[Rd] tcl problem with R-3.6.3?,79100,Dirk Eddelbuettel
+079094.html,[Rd] tcl problem with R-3.6.3?,79094,Charles Geyer
+079096.html,[Rd] tcl problem with R-3.6.3?,79096,Charles Geyer
+079101.html,[Rd] tcl problem with R-3.6.3?,79101,Charles Geyer
+079018.html,[Rd] document base::`[[.data.frame`,79018,Jan Gorecki
+079045.html,[Rd] Possible Regression in setClassUnion between 3.5.0 and 3.6.0,79045,Robert Harlow
+079078.html,[Rd]  Possible Regression in setClassUnion between 3.5.0 and 3.6.0,79078,Robert Harlow
+079081.html,[Rd]  Profiling: attributing costs to place of invocation (instead of place of evaluation)?,79081,Lionel Henry
+079032.html,[Rd] Minor typo in recent commit,79032,Kurt Hornik
+079041.html,[Rd] NA in doc for options(matprod=&quot;default&quot;),79041,Tomas Kalibera
+079043.html,[Rd] NA in doc for options(matprod=&quot;default&quot;),79043,Tomas Kalibera
+079038.html,[Rd] Why is any() only defined for a numeric and not logical data.frame?,79038,Karolis Koncevi&#269;ius
+079047.html,[Rd]  Possible Regression in setClassUnion between 3.5.0 and 3.6.0,79047,Michael Lawrence
+079077.html,[Rd]  Possible Regression in setClassUnion between 3.5.0 and 3.6.0,79077,Michael Lawrence
+079079.html,[Rd]  Possible Regression in setClassUnion between 3.5.0 and 3.6.0,79079,Michael Lawrence
+079012.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79012,Martin Maechler
+079026.html,"[Rd] round(x, dig) [was &quot;Development version of R fails tests ..&quot;]",79026,Martin Maechler
+079050.html,[Rd] dimnames incoherence?,79050,Martin Maechler
+079052.html,[Rd] dimnames incoherence?,79052,Martin Maechler
+079055.html,"[Rd] capabilities(), was [R-pkg-devel] ... No protocol specified (OS X only)",79055,Martin Maechler
+079056.html,[Rd] function(x) !is.na(x) &amp; x &quot;is_true(.)&quot; etc. was: [R] How to index..,79056,Martin Maechler
+079059.html,[Rd] trivial typo in man page Quote.Rd,79059,Martin Maechler
+079061.html,[Rd] dimnames incoherence?,79061,Martin Maechler
+079062.html,[Rd] Change 77844 breaking pkgs [Re:  dimnames incoherence?],79062,Martin Maechler
+079097.html,[Rd] tcl problem with R-3.6.3?,79097,Martin Maechler
+079066.html,[Rd] Default for checkBuilt in update.packages() should be TRUE,79066,Duncan Murdoch
+079071.html,"[Rd] specials issue, a heads up",79071,Duncan Murdoch
+079093.html,[Rd] dput(),79093,Duncan Murdoch
+079080.html,[Rd] Profiling: attributing costs to place of invocation (instead of place of evaluation)?,79080,Kirill M&#252;ller
+079027.html,[Rd] Development version of R fails tests and is not installed,79027,Jeroen Ooms
+079084.html,[Rd] unlink() on &quot;~&quot; removes the home directory,79084,Herv&#233; Pag&#232;s
+079025.html,[Rd] Development version of R fails tests and is not installed,79025,Hugh Parsonage
+079028.html,[Rd] Minor typo in recent commit,79028,Hugh Parsonage
+079069.html,"[Rd] specials issue, a heads up",79069,Hugh Parsonage
+079048.html,[Rd] object.size vs lobstr::obj_size,79048,Stefan Schreiber
+079040.html,[Rd] NA in doc for options(matprod=&quot;default&quot;),79040,Serguei Sokol
+079042.html,[Rd] NA in doc for options(matprod=&quot;default&quot;),79042,Serguei Sokol
+079049.html,[Rd] dimnames incoherence?,79049,Serguei Sokol
+079022.html,[Rd] R 3.6.3 scheduled for February 29,79022,Abby Spurdle
+079063.html,[Rd] R --interactive -e 'browser()',79063,Abby Spurdle
+079065.html,[Rd] R --interactive -e 'browser()',79065,Abby Spurdle
+079082.html,[Rd] RIOT 2020,79082,Abby Spurdle
+079086.html,[Rd] RIOT 2020,79086,Abby Spurdle
+079076.html,[Rd] RIOT 2020,79076,Stepan
+079068.html,"[Rd] specials issue, a heads up",79068,"Therneau, Terry M., Ph.D."
+079075.html,"[Rd] specials issue, a heads up",79075,"Therneau, Terry M., Ph.D."
+079046.html,[Rd]  Possible Regression in setClassUnion between 3.5.0 and 3.6.0,79046,Ezra Tucker
+079024.html,[Rd] Development version of R fails tests and is not installed,79024,Berwin A Turlach
+079037.html,[Rd] Development version of R fails tests and is not installed,79037,Berwin A Turlach
+079014.html,[Rd] ALTREP &quot;wrapper&quot; classes needs an Extract_subset method,79014,Davis Vaughan
+079085.html,[Rd] RIOT 2020,79085,"Vitek, Jan"
+079089.html,[Rd] dput(),79089,David Winsemius
+079072.html,"[Rd] specials issue, a heads up",79072,peter dalgaard
+079074.html,"[Rd] specials issue, a heads up",79074,peter dalgaard
+079098.html,[Rd] R 3.6.3 is released,79098,dmedri
+079073.html,"[Rd] specials issue, a heads up",79073,robin hankin
+079087.html,[Rd] dput(),79087,robin hankin
+079099.html,[Rd] dput(),79099,robin hankin
+079008.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79008,ismael ismael
+079011.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79011,ismael ismael
+079016.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79016,ismael ismael
+079020.html,[Rd] Stroring and extracting AICs from an ARIMA model using a nested loop,79020,ismael ismael
+079030.html,[Rd] R with Squid proxy - invalid requests ??,79030,lejeczek
+079031.html,[Rd] R with Squid proxy - invalid requests ??,79031,lejeczek
+079053.html,[Rd] R --interactive -e 'browser()',79053,irederik m at iii at g oii oib at  at et
+079015.html,[Rd]  [External] ALTREP &quot;wrapper&quot; classes needs an Extract_subset method,79015,iuke-tier at ey m at iii at g oii uiow at  at edu
+079057.html,[Rd] [External]  Support for Dashes in the Raw String Delimiter,79057,iuke-tier at ey m at iii at g oii uiow at  at edu
+079036.html,"[Rd]  round(x, dig) [was &quot;Development version of R fails tests ..&quot;]",79036,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com

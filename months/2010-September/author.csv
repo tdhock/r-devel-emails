@@ -1,0 +1,325 @@
+link,Subject,id,author
+058545.html,[Rd] advice on writing/maintaining an R package with a version control system,58545,Whit Armstrong
+058392.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58392,Henrik Bengtsson
+058504.html,[Rd] Suggestion: Add DESCRIPTION 'Date' to R CMD check log header,58504,Henrik Bengtsson
+058505.html,[Rd] warning or error upon type/storage mode coercion?,58505,Henrik Bengtsson
+058533.html,[Rd] R-forge: Web server down / no space left,58533,Henrik Bengtsson
+058599.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58599,Henrik Bengtsson
+058601.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58601,Henrik Bengtsson
+058603.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58603,Henrik Bengtsson
+058605.html,[Rd] OT: Reason/history behind ## notation for comments?,58605,Henrik Bengtsson
+058646.html,[Rd] Very slow plot rendering with X11 on CentOS 5.5,58646,Henrik Bengtsson
+058356.html,[Rd] R with multiple processors,58356,Michel Boaventura
+058487.html,[Rd] doc bug in ?residuals.gls,58487,Ben Bolker
+058565.html,[Rd] How to set up an own package repository,58565,Ben Bolker
+058379.html,[Rd] constness in BLAS.h/dger arguments,58379,Daniel Saban&#233;s Bov&#233;
+058450.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58450,Ted Byers
+058579.html,[Rd] How to connect R to Mysql?,58579,Ted Byers
+058598.html,[Rd] trouble compiling RMySQL (and others) for 64 bit windows.,58598,Ted Byers
+058368.html,[Rd] CMD check: checking data for non-ASCII characters is very time	consuming,58368,Vincent Carey
+058454.html,"[Rd] [xts,	quantmod] segfault probelm when I work with memcpy function",58454,Daniel Cegie&#322;ka
+058456.html,"[Rd] [xts,	quantmod] segfault probelm when I work with memcpy function",58456,Daniel Cegie&#322;ka
+058457.html,"[Rd] [xts,	quantmod] segfault probelm when I work with memcpy function",58457,Daniel Cegie&#322;ka
+058402.html,"[Rd] as.character on NaN gives &quot;NaN&quot;, is that intentional?",58402,Kevin R. Coombes
+058553.html,[Rd] a small suggestion for improving the building of packages,58553,Kevin R. Coombes
+058650.html,[Rd] checking user interrupts in C(++) code,58650,G&#225;bor Cs&#225;rdi
+058430.html,[Rd] Drop single-dimensional array,58430,Peter Dalgaard
+058465.html,[Rd] More strange R CMD build/check errors on Windows,58465,Peter Dalgaard
+058659.html,[Rd] License of R manuals,58659,Peter Dalgaard
+058592.html,[Rd] lapply version with [ subseting - a suggestion,58592,Henrique Dallazuanna
+058372.html,[Rd] S4 Method Signatures,58372,DarioAustralia
+058391.html,[Rd] S4 Method Signatures,58391,DarioAustralia
+058615.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58615,Brian Diggs
+058438.html,[Rd] Drop single-dimensional array,58438,William Dunlap
+058482.html,[Rd] Problem with WARNING...headers with CRLF line endings,58482,William Dunlap
+058548.html,[Rd] a small suggestion for improving the building of packages,58548,William Dunlap
+058425.html,[Rd] Development environment for R extentions on Windows,58425,Dirk Eddelbuettel
+058480.html,[Rd] Problem with WARNING...headers with CRLF line endings,58480,Dirk Eddelbuettel
+058485.html,[Rd] Best way to manage configuration for openMP support,58485,Dirk Eddelbuettel
+058489.html,[Rd] Best way to manage configuration for openMP support,58489,Dirk Eddelbuettel
+058527.html,[Rd] Problem with WARNING...headers with CRLF line endings,58527,Dirk Eddelbuettel
+058366.html,[Rd] Looks like a bug in subsetting of a complicated object,58366,Peter Ehlers
+058369.html,[Rd] Assignment of individual values to data frame columns:	intentional or unintentional behavior?,58369,Peter Ehlers
+058568.html,[Rd] How to connect R to Mysql?,58568,Thomas Etheber
+058507.html,[Rd] warning or error upon type/storage mode coercion?,58507,Stefan Evert
+058484.html,[Rd] Best way to manage configuration for openMP support,58484,Karl Forner
+058508.html,[Rd] Fwd:  warning or error upon type/storage mode coercion?,58508,Karl Forner
+058525.html,[Rd] Best way to manage configuration for openMP support,58525,Karl Forner
+058544.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58544,Karl Forner
+058593.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58593,Karl Forner
+058612.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58612,Karl Forner
+058614.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58614,Karl Forner
+058641.html,[Rd] checking user interrupts in C(++) code,58641,Karl Forner
+058649.html,[Rd] checking user interrupts in C(++) code,58649,Karl Forner
+058511.html,[Rd] list2env( list() ),58511,Romain Francois
+058616.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58616,Romain Francois
+058642.html,[Rd] Bug report: Disappearing text when using a long &quot;expression&quot;	in ylab,58642,Tal Galili
+058396.html,[Rd] RJava,58396,Leidy Patricia Garzon
+058606.html,[Rd] OT: Reason/history behind ## notation for comments?,58606,Laurent Gatto
+058441.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58441,Renaud Gaujoux
+058443.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58443,Renaud Gaujoux
+058446.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58446,Renaud Gaujoux
+058449.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58449,Renaud Gaujoux
+058428.html,[Rd] winbuilder warnings and errors,58428,Paul Gilbert
+058447.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58447,Paul Gilbert
+058467.html,"[Rd] packages update and error: no package called 'lattice',Error: package 'Hmisc could not be loaded; Tinn-R",58467,Patrick Giraudoux
+058434.html,[Rd] Wiki entries on &quot;package development process&quot; and &quot;software	repository&quot;,58434,Spencer Graves
+058567.html,[Rd] How to connect R to Mysql?,58567,Spencer Graves
+058570.html,[Rd] How to set up an own package repository,58570,Spencer Graves
+058571.html,[Rd] How to connect R to Mysql?,58571,Spencer Graves
+058367.html,[Rd] Installing a Tcl/Tk Extension on OSX,58367,Philippe Grosjean
+058374.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58374,Philippe Grosjean
+058378.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58378,Philippe Grosjean
+058383.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58383,Philippe Grosjean
+058393.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58393,Philippe Grosjean
+058418.html,[Rd] Is an R sub-session somehow possible?,58418,Philippe Grosjean
+058401.html,"[Rd] as.character on NaN gives &quot;NaN&quot;, is that intentional?",58401,Ulrike Gr&#246;mping
+058409.html,"[Rd] as.character on NaN gives &quot;NaN&quot;, is that intentional?",58409,Ulrike Gr&#246;mping
+058364.html,[Rd] Looks like a bug in subsetting of a complicated object,58364,Kjetil Halvorsen
+058415.html,[Rd] How to add a slot to S4 class of an existing package?,58415,Kasper Daniel Hansen
+058554.html,[Rd] a small suggestion for improving the building of packages,58554,Kasper Daniel Hansen
+058670.html,[Rd] Assignment to a slot in an S4 object in a list seems to violate copy rules?,58670,Niels Richard Hansen
+058645.html,[Rd] Very slow plot rendering with X11 on CentOS 5.5,58645,R P Herrold
+058652.html,[Rd] Very slow plot rendering with X11 on CentOS 5.5,58652,R P Herrold
+058662.html,[Rd] Very slow plot rendering with X11 on CentOS 5.5,58662,R P Herrold
+058422.html,[Rd] Development environment for R extentions on Windows,58422,Jeffrey Horner
+058424.html,[Rd] Development environment for R extentions on Windows,58424,Jeffrey Horner
+058431.html,[Rd] Development environment for R extentions on Windows,58431,Jeffrey Horner
+058448.html,[Rd] Development environment for R extentions on Windows,58448,Jeffrey Horner
+058510.html,[Rd] Suggestion: Add DESCRIPTION 'Date' to R CMD check	log	header,58510,Kurt Hornik
+058412.html,"[Rd] as.character on NaN gives &quot;NaN&quot;, is that intentional?",58412,Wolfgang Huber
+058469.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58469,Wolfgang Huber
+058420.html,[Rd] winbuilder warnings and errors,58420,Melissa Jane Hubisz
+058462.html,[Rd] Sweave issue; keep.source=TRUE and cacheSweave incompatible?,58462,Simon Jackman
+058622.html,[Rd] R CMD Rprof --help suggestion,58622,Hiroyuki Kawakatsu
+058651.html,[Rd] location of Rconfig.h when using architecture-dependent subdirs,58651,Konis Kjell
+058655.html,[Rd] location of Rconfig.h when using architecture-dependent subdirs,58655,Konis Kjell
+058419.html,[Rd] readline operate-and-get-next,58419,Rafael Laboissiere
+058390.html,[Rd] R and Epi Info,58390,Renaud Lancelot
+058381.html,[Rd] Feature request: put NewEnvironment and R_NewhashedEnv	into API,58381,Michael Lawrence
+058432.html,"[Rd] what is the best way for an external interface to interact with graphics, libraries",58432,Michael Lawrence
+058591.html,[Rd] lapply version with [ subseting - a suggestion,58591,Michael Lawrence
+058637.html,[Rd] Function works when custom defined but not when part of a	package,58637,Mike Lawrence
+058640.html,[Rd] Function works when custom defined but not when part of a	package,58640,Mike Lawrence
+058564.html,[Rd] How to set up an own package repository,58564,Friedrich Leisch
+058519.html,[Rd] a small suggestion for improving the building of packages,58519,"Liaw, Andy"
+058573.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58573,"Liaw, Andy"
+058585.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58585,"Liaw, Andy"
+058394.html,[Rd] winbuilder offline / CRAN windows binaries,58394,Uwe Ligges
+058395.html,[Rd] winbuilder offline / CRAN windows binaries,58395,Uwe Ligges
+058474.html,[Rd] R forge : svn + ssh without key,58474,Uwe Ligges
+058483.html,[Rd] value returned by by(),58483,Uwe Ligges
+058486.html,[Rd] More strange R CMD build/check errors on Windows,58486,Uwe Ligges
+058509.html,[Rd] value returned by by(),58509,Uwe Ligges
+058514.html,[Rd] S3 method for package listed in suggest/enhance,58514,Uwe Ligges
+058515.html,[Rd] value returned by by(),58515,Uwe Ligges
+058516.html,[Rd] a small suggestion for improving the building of packages,58516,Uwe Ligges
+058547.html,[Rd] a small suggestion for improving the building of packages,58547,Uwe Ligges
+058572.html,[Rd] Matrix install fails because of defunct save in require,58572,Uwe Ligges
+058574.html,[Rd] some problems reported in 00check.log,58574,Uwe Ligges
+058576.html,[Rd] Matrix install fails because of defunct save in require,58576,Uwe Ligges
+058586.html,[Rd] some problems reported in 00check.log,58586,Uwe Ligges
+058621.html,[Rd] some problems reported in 00check.log,58621,Uwe Ligges
+058625.html,[Rd] some problems reported in 00check.log,58625,Uwe Ligges
+058638.html,[Rd] Function works when custom defined but not when part of a	package,58638,Uwe Ligges
+058673.html,[Rd] bulding a package for Windows (path problem?),58673,Uwe Ligges
+058453.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58453,Thomas Lumley
+058674.html,[Rd] Assignment to a slot in an S4 object in a list seems to violate copy rules?,58674,Thomas Lumley
+058414.html,[Rd] How to add a slot to S4 class of an existing package?,58414,Sebastian P. Luque
+058373.html,[Rd] S4 Method Signatures,58373,Martin Maechler
+058506.html,[Rd] Suggestion: Add DESCRIPTION 'Date' to R CMD check log	header,58506,Martin Maechler
+058620.html,[Rd] OT: Reason/history behind ## notation for comments?,58620,Martin Maechler
+058426.html,[Rd] Drop single-dimensional array,58426,Arni Magnusson
+058521.html,[Rd] a small suggestion for improving the building of packages,58521,Kyle Matoba
+058523.html,[Rd] a small suggestion for improving the building of packages,58523,Kyle Matoba
+058537.html,[Rd] improvements to plm fitting,58537,Kyle Matoba
+058359.html,[Rd] Speed improvement for Find() and Position(),58359,Olaf Mersmann
+058380.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58380,Martin Morgan
+058399.html,[Rd] Sexpr in package.Rd fails,58399,Martin Morgan
+058400.html,[Rd] Dispatch method on S3 or S4 class,58400,Martin Morgan
+058566.html,[Rd] How to connect R to Mysql?,58566,Arijeet Mukherjee
+058361.html,[Rd] introspective capabilities,58361,Duncan Murdoch
+058376.html,"[Rd] Weird erratic error and illogical error message, could someone explain this?",58376,Duncan Murdoch
+058377.html,[Rd] Stats not loaded? Method for as.ts() results in error,58377,Duncan Murdoch
+058423.html,[Rd] Development environment for R extentions on Windows,58423,Duncan Murdoch
+058427.html,[Rd] CMD check: checking data for non-ASCII characters is very time consuming,58427,Duncan Murdoch
+058433.html,[Rd] Development environment for R extentions on Windows,58433,Duncan Murdoch
+058437.html,[Rd] An ls error which is not an error...,58437,Duncan Murdoch
+058442.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58442,Duncan Murdoch
+058444.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58444,Duncan Murdoch
+058459.html,[Rd] Windows build,58459,Duncan Murdoch
+058461.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58461,Duncan Murdoch
+058468.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58468,Duncan Murdoch
+058471.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58471,Duncan Murdoch
+058475.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58475,Duncan Murdoch
+058478.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58478,Duncan Murdoch
+058494.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58494,Duncan Murdoch
+058501.html,[Rd] Problem with WARNING...headers with CRLF line endings,58501,Duncan Murdoch
+058549.html,[Rd] a small suggestion for improving the building of packages,58549,Duncan Murdoch
+058552.html,[Rd] a small suggestion for improving the building of packages,58552,Duncan Murdoch
+058594.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58594,Duncan Murdoch
+058613.html,[Rd] Possible bug or annoyance with library.dynam.unload(),58613,Duncan Murdoch
+058635.html,[Rd] Incorporate graphic files into R-package,58635,Duncan Murdoch
+058668.html,[Rd] bulding a package for Windows (path problem?),58668,Duncan Murdoch
+058386.html,[Rd] Incorrect formatted output after subtracting non-integer seconds from POSIXt origin,58386,Daniel Murphy
+058388.html,[Rd] Incorrect formatted output after subtracting non-integer seconds from POSIXt origin,58388,Daniel Murphy
+058416.html,"[Rd] what is the best way for an external interface to interact with graphics, libraries",58416,Paul Murrell
+058429.html,[Rd] [R] large files produced from image plots?,58429,Paul Murrell
+058472.html,[Rd] [R] scalable &lt; &gt; delimiters in plotmath,58472,Paul Murrell
+058389.html,[Rd] Fourteen patches to speed up R,58389,Radford Neal
+058384.html,[Rd] Pointer to fourteen patches to speed up R,58384,Radford Neal
+058417.html,[Rd] Correction to vec-subset speed patch,58417,Radford Neal
+058597.html,[Rd] Speeding up squaring of vectors,58597,Radford Neal
+058628.html,[Rd] Fourteen patches to speed up R,58628,Radford Neal
+058666.html,[Rd] History of seq and seq.int,58666,Radford Neal
+058540.html,[Rd] advice on writing/maintaining an R package with a version	control system,58540,Vinh Nguyen
+058623.html,[Rd] strange behaviour of callNextMethod in S4 methods,58623,Harold PETITHOMME
+058460.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is	used,58460,Herv&#233; Pag&#232;s
+058463.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58463,Herv&#233; Pag&#232;s
+058464.html,[Rd] More strange R CMD build/check errors on Windows,58464,Herv&#233; Pag&#232;s
+058466.html,[Rd] More strange R CMD build/check errors on Windows,58466,Herv&#233; Pag&#232;s
+058473.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58473,Herv&#233; Pag&#232;s
+058477.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58477,Herv&#233; Pag&#232;s
+058490.html,[Rd] More strange R CMD build/check errors on Windows,58490,Herv&#233; Pag&#232;s
+058493.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58493,Herv&#233; Pag&#232;s
+058498.html,[Rd] Problem with WARNING...headers with CRLF line endings,58498,Herv&#233; Pag&#232;s
+058500.html,[Rd] Problem with WARNING...headers with CRLF line endings,58500,Herv&#233; Pag&#232;s
+058502.html,[Rd] Problem with WARNING...headers with CRLF line endings,58502,Herv&#233; Pag&#232;s
+058524.html,[Rd] Suggestion: Add DESCRIPTION 'Date' to R CMD	check	log	header,58524,Herv&#233; Pag&#232;s
+058529.html,[Rd] Problem with WARNING...headers with CRLF line endings,58529,Herv&#233; Pag&#232;s
+058530.html,[Rd] R CMD build cannot create vignettes on Windows if Makefile is used,58530,Herv&#233; Pag&#232;s
+058531.html,[Rd] running 'make' failed during vignette creation ('R CMD build') on Windows,58531,Herv&#233; Pag&#232;s
+058532.html,[Rd] More strange R CMD build/check errors on Windows,58532,Herv&#233; Pag&#232;s
+058535.html,[Rd] Lack of consistent cross-platform behaviour of	tools:::buildVignettes(),58535,Herv&#233; Pag&#232;s
+058536.html,[Rd] running 'make' failed during vignette creation ('R CMD build') on Windows,58536,Herv&#233; Pag&#232;s
+058555.html,[Rd] environment variable for tar()/untar(),58555,Herv&#233; Pag&#232;s
+058630.html,[Rd] Lack of consistent cross-platform behaviour	of	tools:::buildVignettes(),58630,Herv&#233; Pag&#232;s
+058631.html,[Rd] running 'make' failed during vignette creation ('R CMD build') on Windows,58631,Herv&#233; Pag&#232;s
+058636.html,[Rd] More strange R CMD build/check errors on Windows,58636,Herv&#233; Pag&#232;s
+058647.html,[Rd] small inaccuracy in startup warning message,58647,Herv&#233; Pag&#232;s
+058648.html,[Rd] temp Rscript file collision on Windows,58648,Herv&#233; Pag&#232;s
+058664.html,[Rd] More strange R CMD build/check errors on Windows,58664,Herv&#233; Pag&#232;s
+058665.html,[Rd] small inaccuracy in startup warning message,58665,Herv&#233; Pag&#232;s
+058677.html,[Rd] tar problem when using 'R CMD build' on Windows,58677,Herv&#233; Pag&#232;s
+058678.html,[Rd] More strange R CMD build/check errors on Windows,58678,Herv&#233; Pag&#232;s
+058455.html,"[Rd] [xts, quantmod] segfault probelm when I work with memcpy function",58455,Brian G. Peterson
+058538.html,[Rd] package test failed on Solaris x86 -- help needed for debugging,58538,Thomas Petzoldt
+058543.html,[Rd] package test failed on Solaris x86 -- help needed for	debugging,58543,Thomas Petzoldt
+058558.html,[Rd] Summary: package test failed on Solaris x86  ...,58558,Thomas Petzoldt
+058562.html,[Rd] Matrix install fails because of defunct save in require,58562,Thomas Petzoldt
+058577.html,[Rd] Matrix install fails because of defunct save in require,58577,Thomas Petzoldt
+058582.html,[Rd] Matrix install fails because of defunct save in require,58582,Thomas Petzoldt
+058440.html,[Rd] Drop single-dimensional array,58440,Tony Plate
+058541.html,[Rd] package test failed on Solaris x86 -- help needed for debugging,58541,Martyn Plummer
+058360.html,[Rd] introspective capabilities,58360,Christophe Rhodes
+058578.html,[Rd] Matrix install fails because of defunct save in require,58578,Prof Brian Ripley
+058580.html,[Rd] How to connect R to Mysql?,58580,Prof Brian Ripley
+058583.html,[Rd] Matrix install fails because of defunct save in require,58583,Prof Brian Ripley
+058608.html,[Rd] some problems reported in 00check.log,58608,Prof Brian Ripley
+058609.html,[Rd] doc bug in ?residuals.gls,58609,Prof Brian Ripley
+058611.html,[Rd] some problems reported in 00check.log,58611,Prof Brian Ripley
+058653.html,[Rd] location of Rconfig.h when using architecture-dependent subdirs,58653,Prof Brian Ripley
+058656.html,[Rd] location of Rconfig.h when using architecture-dependent subdirs,58656,Prof Brian Ripley
+058669.html,[Rd] bulding a package for Windows (path problem?),58669,Prof Brian Ripley
+058675.html,[Rd] bulding a package for Windows (path problem?),58675,Prof Brian Ripley
+058676.html,[Rd] Assignment to a slot in an S4 object in a list seems to violate copy rules?,58676,Prof Brian Ripley
+058626.html,[Rd] Behavior of R CMD build and library() w.r.t. setGeneric-like	functions,58626,"Rowe, Brian - Eqty NY"
+058627.html,[Rd] Behavior of R CMD build and library() w.r.t.	setGeneric-likefunctions,58627,"Rowe, Brian - Eqty NY"
+058436.html,[Rd] An ls error which is not an error...,58436,Barry Rowlingson
+058445.html,[Rd] Non identical numerical results from R code vs C/C++ code?,58445,Barry Rowlingson
+058590.html,[Rd] Check for updates under Windows (Was: a reliable way to check the latest version of R on CRAN?),58590,Barry Rowlingson
+058382.html,[Rd] Stats not loaded? Method for as.ts() results in error,58382,Jeff Ryan
+058539.html,[Rd] [2.11.1] Cross build for Win: psignal.h No such file or	directory,58539,&#321;ukasz R&#281;c&#322;awowicz
+058633.html,[Rd] strange behaviour of callNextMethod in S4 methods,58633,Vitally S.
+058589.html,[Rd] lapply version with [ subseting  - a suggestion,58589,Vitaly S.
+058451.html,[Rd] A couple of typos in ?pairwise.t.test,58451,Marc Schwartz
+058522.html,[Rd] a small suggestion for improving the building of packages,58522,Marc Schwartz
+058587.html,[Rd] How to connect R to Mysql?,58587,David Scott
+058617.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58617,David Scott
+058421.html,[Rd] How to add a slot to S4 class of an existing package?,58421,Seb
+058481.html,[Rd] value returned by by(),58481,Seb
+058495.html,[Rd] value returned by by(),58495,Seb
+058513.html,[Rd] value returned by by(),58513,Seb
+058517.html,[Rd] value returned by by(),58517,Seb
+058556.html,[Rd] S4 plot generic documentation,58556,Seb
+058595.html,[Rd] lapply version with [ subseting - a suggestion,58595,Vitalie Spinu
+058370.html,[Rd] S4 Method Signatures,58370,Dario Strbenac
+058398.html,[Rd] Dispatch method on S3 or S4 class,58398,Dario Strbenac
+058534.html,[Rd] R-forge: Web server down / no space left,58534,Dario Strbenac
+058439.html,[Rd] [R] large files produced from image plots?,58439,Stephen T.
+058375.html,[Rd] Stats not loaded? Method for as.ts() results in error,58375,Janko Thyson
+058385.html,[Rd] Stats not loaded? Method for as.ts() results in error,58385,Janko Thyson
+058518.html,[Rd] Roxygen: question regarding 'use.Rd2' and creation of	DESCRIPTION,58518,Janko Thyson
+058546.html,[Rd] a small suggestion for improving the building of packages,58546,Janko Thyson
+058550.html,[Rd] a small suggestion for improving the building of packages,58550,Janko Thyson
+058551.html,[Rd] a small suggestion for improving the building of packages,58551,Janko Thyson
+058559.html,[Rd] a small suggestion for improving the building of packages,58559,Janko Thyson
+058560.html,[Rd] How to set up an own package repository,58560,Janko Thyson
+058569.html,[Rd] How to set up an own package repository,58569,Janko Thyson
+058575.html,[Rd] Matrix install fails because of defunct save in require,58575,Berwin A Turlach
+058658.html,[Rd] checking user interrupts in C(++) code,58658,Berwin A Turlach
+058503.html,[Rd] warning or error upon type/storage mode coercion?,58503,Benjamin Tyner
+058387.html,[Rd] Incorrect formatted output after subtracting non-integer	seconds from POSIXt origin,58387,Simon Urbanek
+058397.html,[Rd] RJava,58397,Simon Urbanek
+058405.html,[Rd] Is an R sub-session somehow possible?,58405,Simon Urbanek
+058406.html,"[Rd] what is the best way for an external interface to interact	with graphics, libraries",58406,Simon Urbanek
+058410.html,"[Rd] what is the best way for an external interface to interact	with graphics, libraries",58410,Simon Urbanek
+058411.html,[Rd] Is an R sub-session somehow possible?,58411,Simon Urbanek
+058488.html,[Rd] Best way to manage configuration for openMP support,58488,Simon Urbanek
+058496.html,[Rd] Problem with WARNING...headers with CRLF line endings,58496,Simon Urbanek
+058542.html,[Rd] advice on writing/maintaining an R package with a version	control system,58542,Simon Urbanek
+058563.html,[Rd] How to set up an own package repository,58563,Simon Urbanek
+058584.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58584,Simon Urbanek
+058643.html,[Rd] checking user interrupts in C(++) code,58643,Simon Urbanek
+058660.html,[Rd] checking user interrupts in C(++) code,58660,Simon Urbanek
+058663.html,[Rd] checking user interrupts in C(++) code,58663,Simon Urbanek
+058363.html,[Rd] Installing a Tcl/Tk Extension on OSX,58363,Adrian Waddell
+058371.html,[Rd] Installing a Tcl/Tk Extension on OSX,58371,Adrian Waddell
+058644.html,[Rd] Very slow plot rendering with X11 on CentOS 5.5,58644,"Weigand, Stephen D."
+058654.html,[Rd] Very slow plot rendering with X11 on CentOS 5.5,58654,"Weigand, Stephen D."
+058362.html,[Rd] S3 method for package listed in suggest/enhance,58362,Hadley Wickham
+058657.html,[Rd] License of R manuals,58657,Hadley Wickham
+058661.html,[Rd] License of R manuals,58661,Hadley Wickham
+058629.html,[Rd] error with browseURL,58629,Wincent
+058476.html,[Rd] [R] scalable &lt; &gt; delimiters in plotmath,58476,David Winsemius
+058600.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58600,David Winsemius
+058602.html,"[Rd] Crash report: regexpr(&quot;a{2-}&quot;, &quot;&quot;)",58602,David Winsemius
+058588.html,[Rd] Check for updates under Windows (Was: a reliable way to check the latest version of R on CRAN?),58588,Yihui Xie
+058596.html,[Rd] Check for updates under Windows (Was: a reliable way to check the latest version of R on CRAN?),58596,Yihui Xie
+058435.html,[Rd] [R] large files produced from image plots?,58435,baptiste auguie
+058604.html,[Rd] On the median,58604,Bill.Venables at csiro.au
+058355.html,[Rd] RCMD CHECK and non-methods,58355,Mark.Bravington at csiro.au
+058365.html,[Rd] introspective capabilities,58365,Mark.Bravington at csiro.au
+058557.html,[Rd] a small suggestion for improving the building of packages,58557,Mark.Bravington at csiro.au
+058479.html,[Rd] Problem with WARNING...headers with CRLF line endings,58479,cstrato
+058491.html,[Rd] Problem with WARNING...headers with CRLF line endings,58491,cstrato
+058492.html,[Rd] Problem with WARNING...headers with CRLF line endings,58492,cstrato
+058497.html,[Rd] Problem with WARNING...headers with CRLF line endings,58497,cstrato
+058499.html,[Rd] Problem with WARNING...headers with CRLF line endings,58499,cstrato
+058526.html,[Rd] Problem with WARNING...headers with CRLF line endings,58526,cstrato
+058528.html,[Rd] Problem with WARNING...headers with CRLF line endings,58528,cstrato
+058632.html,[Rd] Problem with WARNING...headers with CRLF line endings,58632,cstrato
+058358.html,[Rd] R and Epi Info,58358,peter dalgaard
+058452.html,[Rd] A couple of typos in ?pairwise.t.test,58452,peter dalgaard
+058512.html,[Rd] value returned by by(),58512,peter dalgaard
+058520.html,[Rd] a small suggestion for improving the building of packages,58520,peter dalgaard
+058671.html,[Rd] Assignment to a slot in an S4 object in a list seems to	violate copy rules?,58671,peter dalgaard
+058634.html,[Rd] Incorporate graphic files into R-package,58634,elgorgonzola
+058639.html,[Rd] Incorporate graphic files into R-package,58639,elgorgonzola
+058403.html,[Rd] Is an R sub-session somehow possible?,58403,ghostwheel
+058404.html,"[Rd] what is the best way for an external interface to interact with graphics, libraries",58404,ghostwheel
+058407.html,[Rd] Is an R sub-session somehow possible?,58407,ghostwheel
+058408.html,"[Rd] what is the best way for an external interface to interact with graphics, libraries",58408,ghostwheel
+058413.html,[Rd] Is an R sub-session somehow possible?,58413,ghostwheel
+058667.html,[Rd] bulding a package for Windows (path problem?),58667,jgarcia at ija.csic.es
+058672.html,[Rd] bulding a package for Windows (path problem?),58672,jgarcia at ija.csic.es
+058679.html,[Rd] bulding a package for Windows (path problem?),58679,jgarcia at ija.csic.es
+058618.html,[Rd] Fourteen patches to speed up R,58618,luke at stat.uiowa.edu
+058458.html,[Rd] Windows build,58458,pooja varshneya
+058470.html,[Rd] Windows build,58470,pooja varshneya
+058561.html,[Rd] some problems reported in 00check.log,58561,carol white
+058581.html,[Rd] some problems reported in 00check.log,58581,carol white
+058607.html,[Rd] some problems reported in 00check.log,58607,carol white
+058610.html,[Rd] some problems reported in 00check.log,58610,carol white
+058619.html,[Rd] some problems reported in 00check.log,58619,carol white
+058624.html,[Rd] some problems reported in 00check.log,58624,carol white

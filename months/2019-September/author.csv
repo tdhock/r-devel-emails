@@ -1,0 +1,121 @@
+link,Subject,id,author
+078498.html,[Rd] typeof(getOption(&quot;warn&quot;)) is &quot;integer&quot; instead of &quot;double&quot; in R unstable (2019-09-27 r77229)? Reproducible?,78498, at osp at m m at iii at g oii  at itieid-im at de
+078500.html,[Rd]  typeof(getOption(&quot;warn&quot;)) is &quot;integer&quot; instead of &quot;double&quot; in R unstable (2019-09-27 r77229)? Reproducible?,78500, at osp at m m at iii at g oii  at itieid-im at de
+078439.html,[Rd] Fw: Calling a LAPACK subroutine from R,78439,Avraham Adler
+078441.html,[Rd] Fw: Calling a LAPACK subroutine from R,78441,Avraham Adler
+078406.html,[Rd] reverse dependency checks,78406,Juan Telleria Ruiz de Aguirre
+078427.html,[Rd] R-intro: Appendix A: attach position,78427,Suharto Anggono Suharto Anggono
+078434.html,[Rd]  [ALTREP] What is the meaning of the return value of Is_sorted and No_NA function?,78434,Gabriel Becker
+078484.html,[Rd] What is the best way to loop over an ALTREP vector?,78484,Gabriel Becker
+078404.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78404,Hilmar Berger
+078430.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78430,Hilmar Berger
+078431.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78431,Hilmar Berger
+078432.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78432,Hilmar Berger
+078455.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78455,Hilmar Berger
+078487.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78487,Hilmar Berger
+078488.html,[Rd] depending on orphaned packages?,78488,Ben Bolker
+078502.html,[Rd] depending on orphaned packages?,78502,Ben Bolker
+078409.html,[Rd] install_github and survival,78409,Georgi Boshnakov
+078438.html,[Rd] Fw: Calling a LAPACK subroutine from R,78438,G&#246;ran Brostr&#246;m
+078440.html,[Rd] Fw: Calling a LAPACK subroutine from R,78440,G&#246;ran Brostr&#246;m
+078446.html,[Rd] Calling a LAPACK subroutine from R,78446,G&#246;ran Brostr&#246;m
+078448.html,[Rd] Fw: Calling a LAPACK subroutine from R,78448,G&#246;ran Brostr&#246;m
+078456.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78456,Michael Chirico
+078466.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78466,Michael Chirico
+078493.html,[Rd] Evaluate part of an expression at C level,78493,G&#225;bor Cs&#225;rdi
+078505.html,[Rd] depending on orphaned packages?,78505,Matt Denwood
+078463.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78463,Ray Donnelly
+078464.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78464,Ray Donnelly
+078420.html,[Rd] Error: package or namespace load failed for &#8216;utils,78420,William Dunlap
+078422.html,[Rd] Error: package or namespace load failed for &#8216;utils,78422,William Dunlap
+078476.html,[Rd] Should slot&lt;-() alter its first argument?,78476,William Dunlap
+078395.html,[Rd] ?Syntax wrong about `?`'s precedence ?,78395,Stephen Ellison
+078394.html,[Rd] rbind returns a zero row data frame when binding zero column data frames,78394,Ant F
+078471.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78471,"Fox, John"
+078472.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78472,"Fox, John"
+078486.html,[Rd] What is the best way to loop over an ALTREP vector?,78486,Romain Francois
+078494.html,[Rd] passing extra arguments to devtools::build,78494,Michael Friendly
+078416.html,[Rd] Missing function Rf_findFun3,78416,Laurent Gautier
+078418.html,[Rd] [External]  Missing function Rf_findFun3,78418,Laurent Gautier
+078419.html,[Rd] Error: package or namespace load failed for &#8216;utils,78419,Laurent Gautier
+078421.html,[Rd] Error: package or namespace load failed for &#8216;utils,78421,Laurent Gautier
+078423.html,[Rd] Error: package or namespace load failed for &#8216;utils,78423,Laurent Gautier
+078460.html,[Rd] Error: package or namespace load failed for &#8216;utils,78460,Laurent Gautier
+078479.html,[Rd] Error: package or namespace load failed for &#8216;utils,78479,Laurent Gautier
+078457.html,[Rd] REprintf could be caught by tryCatch(message),78457,Jan Gorecki
+078459.html,[Rd] [External]  REprintf could be caught by tryCatch(message),78459,Jan Gorecki
+078468.html,[Rd] [External]  REprintf could be caught by tryCatch(message),78468,Jan Gorecki
+078495.html,[Rd] passing extra arguments to devtools::build,78495,Jan Gorecki
+078497.html,"[Rd] speed up R_IsNA, R_IsNaN for vector input",78497,Jan Gorecki
+078508.html,"[Rd] speed up R_IsNA, R_IsNaN for vector input",78508,Jan Gorecki
+078401.html,[Rd] possible bug in R's configure check for C++11 features,78401,Kasper Daniel Hansen
+078403.html,[Rd] possible bug in R's configure check for C++11 features,78403,Kasper Daniel Hansen
+078436.html,[Rd] Fw: Calling a LAPACK subroutine from R,78436,Berend Hasselman
+078442.html,[Rd] Calling a LAPACK subroutine from R,78442,Berend Hasselman
+078443.html,[Rd] Calling a LAPACK subroutine from R,78443,Berend Hasselman
+078447.html,[Rd] Fw: Calling a LAPACK subroutine from R,78447,Berend Hasselman
+078426.html,[Rd] install_github and survival,78426,Jim Hester
+078509.html,[Rd] R CMD build should fail early for old package versions?,78509,Toby Hocking
+078437.html,[Rd] R-intro: Appendix A: attach position,78437,Kurt Hornik
+078462.html,[Rd] Error: package or namespace load failed for&#8216;utils,78462,Kurt Hornik
+078428.html,[Rd] [ALTREP] What is the meaning of the return value of Is_sorted and No_NA function?,78428,Wang Jiefei
+078405.html,[Rd]  [ALTREP] What is the meaning of the return value of Is_sorted and No_NA function?,78405,Wang Jiefei
+078435.html,[Rd]  [ALTREP] What is the meaning of the return value of Is_sorted and No_NA function?,78435,Wang Jiefei
+078481.html,[Rd] What is the best way to loop over an ALTREP vector?,78481,Wang Jiefei
+078482.html,[Rd] What is the best way to loop over an ALTREP vector?,78482,Wang Jiefei
+078393.html,"[Rd] New lazyload rdx key type: list(eagerKey=, lazyKeys=)",78393,Tomas Kalibera
+078399.html,"[Rd]  Rf_defineVar(symbol, R_UnboundValue, environment) questions",78399,Tomas Kalibera
+078450.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78450,Tomas Kalibera
+078452.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78452,Tomas Kalibera
+078453.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78453,Tomas Kalibera
+078506.html,[Rd]  typeof(getOption(&quot;warn&quot;)) is &quot;integer&quot; instead of &quot;double&quot; in R unstable (2019-09-27 r77229)? Reproducible?,78506,Tomas Kalibera
+078507.html,"[Rd] speed up R_IsNA, R_IsNaN for vector input",78507,Tomas Kalibera
+078469.html,[Rd] Maybe bug? Using non-integer frequencies in stats::ts,78469,Johann R. Kleinbub
+078397.html,[Rd] Feature request: non-dropping regmatches/strextract,78397,Michael Lawrence
+078413.html,[Rd] Cryptic error message from namespaceExport,78413,Michael Lawrence
+078478.html,[Rd] Should slot&lt;-() alter its first argument?,78478,Michael Lawrence
+078480.html,[Rd] Cryptic error message from namespaceExport,78480,Michael Lawrence
+078429.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78429,Martin Maechler
+078444.html,[Rd] NiceBayes filtered &quot;[ALTREP] ... return value ...&quot;,78444,Martin Maechler
+078465.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78465,Martin Maechler
+078467.html,[Rd] Error: package or namespace load failed for &#8216;utils,78467,Martin Maechler
+078473.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78473,Martin Maechler
+078474.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78474,Martin Maechler
+078475.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78475,Martin Maechler
+078489.html,[Rd] '==' operator: inconsistency in data.frame(...) == NULL,78489,Martin Maechler
+078490.html,[Rd] depending on orphaned packages?,78490,Martin Maechler
+078496.html,[Rd] missing imports not detected by 'R CMD check' (?),78496,Martin Maechler
+078491.html,[Rd] Evaluate part of an expression at C level,78491,Morgan Morgan
+078424.html,[Rd] install_github and survival,78424,Farid Moussaoui
+078499.html,[Rd]  typeof(getOption(&quot;warn&quot;)) is &quot;integer&quot; instead of &quot;double&quot; in R unstable (2019-09-27 r77229)? Reproducible?,78499,Duncan Murdoch
+078501.html,[Rd]  typeof(getOption(&quot;warn&quot;)) is &quot;integer&quot; instead of &quot;double&quot; in R unstable (2019-09-27 r77229)? Reproducible?,78501,Duncan Murdoch
+078511.html,[Rd] Is missingness always passed on?,78511,Duncan Murdoch
+078510.html,[Rd] R CMD build should fail early for old package versions?,78510,Duncan Murdoch
+078412.html,[Rd] Cryptic error message from namespaceExport,78412,Thierry Onkelinx
+078414.html,[Rd] Cryptic error message from namespaceExport,78414,Thierry Onkelinx
+078470.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78470,"Pages, Herve"
+078492.html,[Rd] Evaluate part of an expression at C level,78492,Hugh Parsonage
+078433.html,[Rd] Fw: Calling a LAPACK subroutine from R,78433,Giovanni Petris
+078483.html,[Rd] What is the best way to loop over an ALTREP vector?,78483,Bob Rudis
+078503.html,[Rd] depending on orphaned packages?,78503,Bob Rudis
+078504.html,[Rd] depending on orphaned packages?,78504,Bob Rudis
+078445.html,[Rd] Fw: Calling a LAPACK subroutine from R,78445,Serguei Sokol
+078454.html,[Rd] Fw: Calling a LAPACK subroutine from R,78454,Serguei Sokol
+078485.html,[Rd] What is the best way to loop over an ALTREP vector?,78485,Serguei Sokol
+078392.html,"[Rd] inconsistent handling of factor, character, and logical predictors in lm()",78392,Abby Spurdle
+078400.html,[Rd] reverse dependency checks,78400,"Therneau, Terry M., Ph.D."
+078408.html,[Rd] install_github and survival,78408,"Therneau, Terry M., Ph.D."
+078410.html,[Rd] [EXTERNAL] RE: install_github and survival,78410,"Therneau, Terry M., Ph.D."
+078415.html,[Rd] [EXTERNAL] Re:  RE: install_github and survival,78415,"Therneau, Terry M., Ph.D."
+078417.html,[Rd] [External]  Missing function Rf_findFun3,78417,"Tierney, Luke"
+078425.html,[Rd] [External]  Missing function Rf_findFun3,78425,"Tierney, Luke"
+078458.html,[Rd] [External]  REprintf could be caught by tryCatch(message),78458,"Tierney, Luke"
+078461.html,[Rd] [External]  REprintf could be caught by tryCatch(message),78461,"Tierney, Luke"
+078477.html,[Rd] Should slot&lt;-() alter its first argument?,78477,Benjamin Tyner
+078407.html,[Rd] reverse dependency checks,78407,I&#241;aki Ucar
+078411.html,[Rd] [EXTERNAL] RE: install_github and survival,78411,I&#241;aki Ucar
+078402.html,[Rd] possible bug in R's configure check for C++11 features,78402,Simon Urbanek
+078449.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78449,IAGO GIN&#201; V&#193;ZQUEZ
+078451.html,[Rd] Printing chinese characters (UTF-8) on R 3.5.2 -windows 10,78451,IAGO GIN&#201; V&#193;ZQUEZ
+078396.html,[Rd] Feature request: non-dropping regmatches/strextract,78396,Cyclic Group Z_1
+078398.html,[Rd] Feature request: non-dropping regmatches/strextract,78398,Cyclic Group Z_1

@@ -1,0 +1,464 @@
+link,Subject,id,author
+054701.html,[Rd] Reissue: Base &quot;Object&quot; class to use in S4 slot specification,54701,Patrick Aboyoun
+054705.html,[Rd] Reissue: Base &quot;Object&quot; class to use in S4 slot	specification,54705,Patrick Aboyoun
+054706.html,"[Rd] Difference between is(&lt;&lt;arg&gt;&gt;, &quot;ANY&quot;) and extends(&lt;&lt;arg&gt;&gt;,	&quot;ANY&quot;)",54706,Patrick Aboyoun
+054662.html,[Rd] asking for suggestions: interface for a C++ class,54662,Yurii Aulchenko
+054611.html,[Rd] clearNames and unname,54611,Douglas Bates
+054768.html,[Rd] Non-GPL packages for R,54768,Douglas Bates
+054912.html,[Rd] R + C + Lapack toy regression example,54912,Douglas Bates
+054931.html,[Rd] R + C + Lapack toy regression example,54931,Douglas Bates
+054628.html,[Rd] Missing warning when NAs are generated during coercion to	complex,54628,Gabriel Becker
+054603.html,[Rd] Package names,54603,Henrik Bengtsson
+054614.html,[Rd] Suggestion: Allow packages to add additional information to	sessionInfo(),54614,Henrik Bengtsson
+054616.html,[Rd] Suggestion: Allow packages to add additional information	to sessionInfo(),54616,Henrik Bengtsson
+054619.html,[Rd] Suggestion: Allow packages to add additional information	to sessionInfo(),54619,Henrik Bengtsson
+054682.html,[Rd] R v2.9.2 patched still referred to as RC,54682,Henrik Bengtsson
+054900.html,[Rd] R v2.10.0: Doc clarification for cross references and where	are we heading?,54900,Henrik Bengtsson
+054776.html,[Rd] Clarifications please.,54776,Abhijit Bera
+054781.html,[Rd] Clarifications please.,54781,Abhijit Bera
+054788.html,[Rd] I want to get a reference to this time series object,54788,Abhijit Bera
+054790.html,[Rd] I want to get a reference to this time series object,54790,Abhijit Bera
+054796.html,[Rd] I want to get a reference to this time series object,54796,Abhijit Bera
+054968.html,[Rd] How do I access class slots from C?,54968,Abhijit Bera
+054985.html,[Rd] How do I access class slots from C?,54985,Abhijit Bera
+054989.html,[Rd] How do I access class slots from C?,54989,Abhijit Bera
+054990.html,[Rd] How do I access class slots from C?,54990,Abhijit Bera
+054853.html,[Rd] R with Java,54853,Nadine Bethke
+054854.html,[Rd] R with Java [...],54854,Nadine Bethke
+054707.html,[Rd] Simple ./config option to disable networking,54707,Bob Bownes
+054729.html,[Rd] 'make install' fails on Solaris (PR#13946),54729,Bob Bownes
+054733.html,[Rd] 'make install' fails on Solaris (PR#13946),54733,Bob Bownes
+054548.html,[Rd] Strange interaction of browser() and warnings,54548,Rich Calaway
+054571.html,[Rd] Trouble building R 2.9.2 under solaris 10,54571,Frank Carreiro
+054577.html,[Rd] Trouble building R 2.9.2 under solaris 10,54577,Frank Carreiro
+054589.html,[Rd] S4 Generics and NAMESPACE : justified warning ?,54589,Yohan Chalabi
+054783.html,[Rd] S3 objects in S4 slots,54783,John Chambers
+054799.html,[Rd] S3 objects in S4 slots,54799,John Chambers
+054805.html,[Rd] S3 objects in S4 slots,54805,John Chambers
+054617.html,[Rd] Suggestion: Allow packages to add additional information to sessionInfo(),54617,Kevin R. Coombes
+054592.html,[Rd] --enable-memory-profiling at configuration (compilation) time?,54592,Corrado
+054952.html,[Rd] Windows Laptop specification query,54952,Corrado
+054955.html,[Rd] Windows Laptop specification query,54955,Corrado
+054711.html,[Rd] Debugging R core,54711,Yuri D'Elia
+054724.html,[Rd] 'make install' fails on Solaris (PR#13946),54724,Peter Dalgaard
+054751.html,[Rd] Non-GPL packages for R,54751,Peter Dalgaard
+054802.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711) just	built segfaults on Debian Squeeze,54802,Peter Dalgaard
+054836.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54836,Peter Dalgaard
+054859.html,[Rd] cannot build R-devel (&gt;= r49747),54859,Peter Dalgaard
+054866.html,[Rd] cannot build R-devel (&gt;= r49747),54866,Peter Dalgaard
+054928.html,[Rd] Problem with dgamma function.,54928,Peter Dalgaard
+055004.html,[Rd] buglet in is.na?,55004,Peter Dalgaard
+054604.html,[Rd] clearNames and unname,54604,Henrique Dallazuanna
+054710.html,[Rd] Finding the environment of a promise,54710,Henrique Dallazuanna
+054716.html,[Rd] Finding the environment of a promise,54716,Henrique Dallazuanna
+054927.html,[Rd] Problem with dgamma function.,54927,Charles Danko
+054759.html,[Rd] Non-GPL packages for R,54759,Michael Dewey
+054570.html,[Rd] Installing rJava RJDBC bad interpreter: Permission denied,54570,William Dunlap
+054704.html,[Rd] question about ... passed to two different functions,54704,William Dunlap
+054798.html,[Rd] Building R package with .c sub-routine files,54798,William Dunlap
+054844.html,[Rd] inconsistency in attaching attributes to NULL,54844,William Dunlap
+054846.html,[Rd] what should names(x) be padded with when length(x) is	increased?,54846,William Dunlap
+054937.html,[Rd] Compatibility of external C code across platforms,54937,William Dunlap
+055000.html,[Rd] Installation problem from R 2.8.x,55000,William Dunlap
+054593.html,[Rd] How to ship R scripts with R packages ?,54593,Dirk Eddelbuettel
+054609.html,[Rd] --enable-memory-profiling at configuration (compilation)	time?,54609,Dirk Eddelbuettel
+054742.html,[Rd] Non-GPL packages for R,54742,Dirk Eddelbuettel
+054757.html,[Rd] Non-GPL packages for R,54757,Dirk Eddelbuettel
+054760.html,[Rd] Non-GPL packages for R,54760,Dirk Eddelbuettel
+054761.html,[Rd] Non-GPL packages for R,54761,Dirk Eddelbuettel
+054770.html,[Rd] DESCRIPTION/OS_type and OS X,54770,Dirk Eddelbuettel
+054772.html,[Rd] DESCRIPTION/OS_type and OS X,54772,Dirk Eddelbuettel
+054820.html,[Rd] Windows Source Install Without Rtools,54820,Dirk Eddelbuettel
+054978.html,[Rd] How do I access class slots from C?,54978,Dirk Eddelbuettel
+054984.html,[Rd] unable to load shared library (Symbol not found:	_PQbackendPID),54984,Dirk Eddelbuettel
+054932.html,[Rd] Compatibility of external C code across platforms,54932,Murray Efford
+054935.html,[Rd] Compatibility of external C code across platforms,54935,Murray Efford
+054865.html,[Rd] typo in r-devel/R/src/library/base/man/files.Rd,54865,Stephen Eglen
+054672.html,[Rd] asking for suggestions: interface for a C++ class,54672,Jay Emerson
+054993.html,[Rd] R 2.9.2 crashes when sorting latin1-encoded strings,54993,Stefan Evert
+054663.html,[Rd] asking for suggestions: interface for a C++ class,54663,Seth Falcon
+054885.html,[Rd] Rcmdr package dependencies,54885,Seth Falcon
+054921.html,[Rd] crash with NAs in subscripted assignment of a raw vector,54921,Seth Falcon
+054962.html,[Rd] build time dependency,54962,Seth Falcon
+054863.html,[Rd] A couple of suggestions: source function (package base),54863,Jose Claudio Faria
+054891.html,[Rd] A couple of suggestions: source function (package base),54891,Jose Claudio Faria
+054817.html,[Rd] Display image in tcl/tk information window: path to file ?,54817,John Fox
+054873.html,[Rd] Rcmdr package dependencies,54873,John Fox
+054880.html,[Rd] Rcmdr package dependencies,54880,John Fox
+054881.html,[Rd] Rcmdr package dependencies,54881,John Fox
+054883.html,[Rd] Rcmdr package dependencies,54883,John Fox
+054886.html,[Rd] Rcmdr package dependencies,54886,John Fox
+054561.html,[Rd] How to ship R scripts with R packages ?,54561,Romain Francois
+054564.html,[Rd] How to ship R scripts with R packages ?,54564,Romain Francois
+054591.html,[Rd] How to ship R scripts with R packages ?,54591,Romain Francois
+054595.html,[Rd] How to ship R scripts with R packages ?,54595,Romain Francois
+054605.html,[Rd] Rscript and default packages,54605,Romain Francois
+054618.html,[Rd] Rscript and default packages,54618,Romain Francois
+054642.html,[Rd] Load a package without installing it,54642,Romain Francois
+054648.html,[Rd] Rscript and default packages,54648,Romain Francois
+054667.html,[Rd] Viewing pdfs from inst/doc,54667,Romain Francois
+054669.html,[Rd] returned value of R_tryEval,54669,Romain Francois
+054686.html,[Rd] R CMD INSTALL --clean,54686,Romain Francois
+054748.html,[Rd] Non-GPL packages for R,54748,Romain Francois
+054789.html,[Rd] I want to get a reference to this time series object,54789,Romain Francois
+054791.html,[Rd] I want to get a reference to this time series object,54791,Romain Francois
+054816.html,[Rd] Display image in tcl/tk information window: path to file ?,54816,Romain Francois
+054858.html,[Rd] cannot build R-devel (&gt;= r49747),54858,Romain Francois
+054860.html,[Rd] cannot build R-devel (&gt;= r49747),54860,Romain Francois
+054864.html,[Rd] cannot build R-devel (&gt;= r49747),54864,Romain Francois
+054867.html,[Rd] cannot build R-devel (&gt;= r49747),54867,Romain Francois
+054869.html,[Rd] cannot build R-devel (&gt;= r49747),54869,Romain Francois
+054876.html,[Rd] cannot build R-devel (&gt;= r49747),54876,Romain Francois
+054904.html,[Rd] R v2.10.0: Doc clarification for cross references and	where are we heading?,54904,Romain Francois
+054906.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54906,Romain Francois
+054909.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54909,Romain Francois
+054923.html,[Rd] build time dependency,54923,Romain Francois
+054947.html,[Rd] build time dependency,54947,Romain Francois
+054959.html,[Rd] build time dependency,54959,Romain Francois
+054963.html,[Rd] build time dependency,54963,Romain Francois
+054969.html,[Rd] How do I access class slots from C?,54969,Romain Francois
+054987.html,[Rd] How do I access class slots from C?,54987,Romain Francois
+054991.html,[Rd] How do I access class slots from C?,54991,Romain Francois
+054992.html,[Rd] How do I access class slots from C?,54992,Romain Francois
+054979.html,[Rd] Problems connecting to httpd help server with some browsers,54979,Thomas Friedrichsmeier
+054988.html,[Rd] Problems connecting to httpd help server with some browsers,54988,Thomas Friedrichsmeier
+054708.html,[Rd] Package that does not work until I re write the exactly the same code,54708,Christophe Genolini
+054727.html,[Rd] Package that does not work until I re write the exactly the same code,54727,Christophe Genolini
+054752.html,[Rd] Non-GPL packages for R,54752,Robert Gentleman
+054678.html,[Rd] question about --with-valgrind-instrumentation=level,54678,Charles Geyer
+054680.html,[Rd] question about ... passed to two different functions,54680,Charles Geyer
+054692.html,[Rd] question about ... passed to two different functions,54692,Charles Geyer
+054815.html,[Rd]  Display image in tcl/tk information window: path to file ?,54815,Ulrike Groemping
+054948.html,[Rd]  model.matrix troubles with AlgDesign,54948,Ulrike Groemping
+054975.html,[Rd] model.matrix troubles with AlgDesign,54975,Ulrike Groemping
+054553.html,[Rd] Including a binary Python Interpreter into a binary	R-package for MS Windows,54553,Gabor Grothendieck
+054615.html,[Rd] Suggestion: Allow packages to add additional information	to sessionInfo(),54615,Gabor Grothendieck
+054646.html,[Rd] Load a package without installing it,54646,Gabor Grothendieck
+054736.html,[Rd] Non-GPL packages for R,54736,Gabor Grothendieck
+054747.html,[Rd] Needless updating of HTML package descriptions,54747,Gabor Grothendieck
+054758.html,[Rd] Non-GPL packages for R,54758,Gabor Grothendieck
+054818.html,[Rd] Windows Source Install Without Rtools,54818,Gabor Grothendieck
+054821.html,[Rd] Windows Source Install Without Rtools,54821,Gabor Grothendieck
+054823.html,[Rd] Windows Source Install Without Rtools,54823,Gabor Grothendieck
+054825.html,[Rd] Windows Source Install Without Rtools,54825,Gabor Grothendieck
+054828.html,[Rd] Windows Source Install Without Rtools,54828,Gabor Grothendieck
+054830.html,[Rd] Windows Source Install Without Rtools,54830,Gabor Grothendieck
+054832.html,[Rd] Windows Source Install Without Rtools,54832,Gabor Grothendieck
+054847.html,[Rd] what should names(x) be padded with when length(x) is	increased?,54847,Gabor Grothendieck
+054872.html,[Rd] A couple of suggestions: source function (package base),54872,Gabor Grothendieck
+054879.html,[Rd] Rcmdr package dependencies,54879,Gabor Grothendieck
+054882.html,[Rd] Rcmdr package dependencies,54882,Gabor Grothendieck
+054902.html,[Rd] R v2.10.0: Doc clarification for cross references and	where are we heading?,54902,Gabor Grothendieck
+054960.html,[Rd] Downloading R-2.10.0,54960,Gabor Grothendieck
+054586.html,[Rd] Depth of protection stack?,54586,Saptarshi Guha
+054612.html,[Rd] Turn of -O2 during package build,54612,Saptarshi Guha
+054613.html,[Rd] Turn of -O2 during package build,54613,Saptarshi Guha
+054623.html,[Rd] Running an expression 1MN times using embedded R,54623,Saptarshi Guha
+054627.html,[Rd] Running an expression 1MN times using embedded R,54627,Saptarshi Guha
+054773.html,[Rd] Access to integer value of BUILTINSXP/SPECIALSXP,54773,Saptarshi Guha
+054774.html,[Rd] Access to integer value of BUILTINSXP/SPECIALSXP,54774,Saptarshi Guha
+054850.html,[Rd] Return a list from a .Call but segfaults,54850,Saptarshi Guha
+054851.html,[Rd] Return a list from a .Call but segfaults,54851,Saptarshi Guha
+054852.html,[Rd] Return a list from a .Call but segfaults,54852,Saptarshi Guha
+054898.html,[Rd] Crash due to extreme  example,54898,Saptarshi Guha
+054913.html,[Rd] Crash due to extreme example,54913,Saptarshi Guha
+054888.html,[Rd] Snow leopard ./configure &quot;cannot compile a simple Fortran	program&quot;,54888,Jeff Hamann
+054983.html,[Rd] unable to load shared library (Symbol not found: _PQbackendPID),54983,Jeff Hamann
+054842.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54842, (Ted Harding)
+054739.html,[Rd] importing/loading package without a namespace,54739,Christos Hatzis
+054741.html,[Rd] importing/loading package without a namespace,54741,Christos Hatzis
+054753.html,[Rd] Fortran routine affected by unrelated R code,54753,Arne Henningsen
+054764.html,[Rd] Fortran routine affected by unrelated R code,54764,Arne Henningsen
+054726.html,[Rd] Problem using model.frame with argument subset in own function,54726,Greg B. Hill
+054633.html,[Rd] calling Lapack and BLAS routines from C,54633,Marcin Hitczenko
+054982.html,[Rd] Problems connecting to httpd help server with some browsers,54982,Jeff Horner
+054600.html,[Rd] Package names,54600,Kurt Hornik
+054754.html,[Rd] Non-GPL packages for R,54754,Kurt Hornik
+054756.html,[Rd] Non-GPL packages for R,54756,Kurt Hornik
+054950.html,[Rd] mboost_1.1-3  blackboost_fit (PR#13972),54950,Torsten Hothorn
+054676.html,[Rd] Running two R instances at the same time,54676,Peter Juhasz
+054694.html,[Rd] Running two R instances at the same time,54694,Peter Juhasz
+054693.html,[Rd] make check fails in r49613,54693,Hiroyuki Kawakatsu
+054698.html,[Rd] make check fails in r49613,54698,Hiroyuki Kawakatsu
+054933.html,[Rd] Rtools210 missing jpeg-7?,54933,Hiroyuki Kawakatsu
+054800.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711) just	built segfaults on Debian Squeeze,54800,Mark Kimpel
+054804.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711)	just built segfaults on Debian Squeeze,54804,Mark Kimpel
+054807.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711)	just built segfaults on Debian Squeeze,54807,Mark Kimpel
+054808.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711)	just built segfaults on Debian Squeeze,54808,Mark Kimpel
+054811.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711)	just built segfaults on Debian Squeeze,54811,Mark Kimpel
+054856.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711)	just built segfaults on Debian Squeeze,54856,Mark Kimpel
+054777.html,[Rd] S3 objects in S4 slots,54777,Martin Kober
+054787.html,[Rd] S3 objects in S4 slots,54787,Martin Kober
+054786.html,[Rd] Building R package with .c sub-routine files,54786,Kjell Konis
+054636.html,[Rd] Suggestion: Allow packages to add additional	information	to sessionInfo(),54636,Friedrich Leisch
+054634.html,[Rd] building r packages for windows on a mac/linux,54634,Hin-Tak Leung
+054635.html,[Rd] building r packages for windows on a mac/linux,54635,Hin-Tak Leung
+054744.html,[Rd] (no subject),54744,Nicholas Lewin-Koh
+054745.html,[Rd] Non-GPL packages for R,54745,Nicholas Lewin-Koh
+055002.html,[Rd] buglet in is.na?,55002,Nicholas Lewin-Koh
+055006.html,[Rd] buglet in is.na?,55006,Nicholas Lewin-Koh
+054559.html,[Rd] Dependencies of  packages' CHECK....,54559,Uwe Ligges
+054587.html,[Rd] Including a binary Python Interpreter into a binary R-package for MS Windows,54587,Uwe Ligges
+054602.html,[Rd] Package names,54602,Uwe Ligges
+054630.html,[Rd] Including a binary Python Interpreter into a binary	R-package for	MS Windows,54630,Uwe Ligges
+054638.html,[Rd] building r packages for windows on a mac/linux,54638,Uwe Ligges
+054674.html,[Rd] Dependencies of  packages' CHECK....,54674,Uwe Ligges
+054697.html,[Rd] make check fails in r49613,54697,Uwe Ligges
+054699.html,[Rd] make check fails in r49613,54699,Uwe Ligges
+054835.html,[Rd] winbuilder down,54835,Uwe Ligges
+054877.html,[Rd] odd (erroneous?) results from gls,54877,Uwe Ligges
+054878.html,[Rd] Rcmdr package dependencies,54878,Uwe Ligges
+054884.html,[Rd] Rcmdr package dependencies,54884,Uwe Ligges
+054887.html,[Rd] Rcmdr package dependencies,54887,Uwe Ligges
+054941.html,[Rd] xaxs disactivated when asp=1 in plots (PR#13971),54941,Uwe Ligges
+054942.html,[Rd] mboost_1.1-3  blackboost_fit (PR#13972),54942,Uwe Ligges
+054943.html,[Rd] build time dependency,54943,Uwe Ligges
+054958.html,[Rd] build time dependency,54958,Uwe Ligges
+054964.html,[Rd] Downloading R-2.10.0,54964,Uwe Ligges
+054965.html,[Rd] build time dependency,54965,Uwe Ligges
+054999.html,[Rd] Installation problem from R 2.8.x,54999,Uwe Ligges
+054573.html,[Rd] Documentation for is.atomic and is.recursive,54573,Stavros Macrakis
+054574.html,[Rd] Documentation for is.atomic and is.recursive,54574,Stavros Macrakis
+054580.html,[Rd] Documentation for is.atomic and is.recursive,54580,Stavros Macrakis
+054621.html,[Rd] Documentation for is.atomic and is.recursive,54621,Stavros Macrakis
+054588.html,[Rd] R devel repository tarball naming issue,54588,Martin Maechler
+054606.html,[Rd] clearNames and unname,54606,Martin Maechler
+054607.html,[Rd] clearNames and unname,54607,Martin Maechler
+054631.html,[Rd] Documentation for is.atomic and is.recursive,54631,Martin Maechler
+054749.html,"[Rd] Logic (&quot;!&quot;, &quot;&amp;&quot;, ...) on complex",54749,Martin Maechler
+054767.html,[Rd] S4 Generics and NAMESPACE : justified warning ?,54767,Martin Maechler
+054779.html,[Rd] S3 objects in S4 slots,54779,Martin Maechler
+054793.html,[Rd] r-forge.r-project.org down?,54793,Martin Maechler
+054550.html,[Rd] Unexpected behaviour initializing S4 class,54550,Martin Morgan
+054649.html,[Rd] Suggestion: Allow packages to add additional	information to sessionInfo(),54649,Martin Morgan
+054653.html,[Rd] enabling core dumps,54653,Martin Morgan
+054657.html,[Rd] enabling core dumps,54657,Martin Morgan
+054740.html,[Rd] importing/loading package without a namespace,54740,Martin Morgan
+054782.html,[Rd] S3 objects in S4 slots,54782,Martin Morgan
+054857.html,[Rd] DYLIB_EXT vs. SHLIB_EXT?,54857,Martin Morgan
+054972.html,[Rd] How do I access class slots from C?,54972,Martin Morgan
+054560.html,[Rd] [R] R and GNU gcc for OpenMP,54560,Duncan Murdoch
+054562.html,[Rd] How to ship R scripts with R packages ?,54562,Duncan Murdoch
+054578.html,[Rd] Documentation for is.atomic and is.recursive,54578,Duncan Murdoch
+054582.html,[Rd] Documentation for is.atomic and is.recursive,54582,Duncan Murdoch
+054585.html,[Rd] Documentation for is.atomic and is.recursive,54585,Duncan Murdoch
+054594.html,[Rd] How to ship R scripts with R packages ?,54594,Duncan Murdoch
+054608.html,[Rd] Rscript and default packages,54608,Duncan Murdoch
+054625.html,[Rd] Documentation for is.atomic and is.recursive,54625,Duncan Murdoch
+054626.html,[Rd] Rscript and default packages,54626,Duncan Murdoch
+054640.html,[Rd] Apparent bug in summaryBy (PR#13941),54640,Duncan Murdoch
+054647.html,[Rd] Rscript and default packages,54647,Duncan Murdoch
+054681.html,[Rd] question about ... passed to two different functions,54681,Duncan Murdoch
+054683.html,[Rd] R v2.9.2 patched still referred to as RC,54683,Duncan Murdoch
+054688.html,[Rd] some (minor) Rd issue: line breaking in \S4method within \usage{},54688,Duncan Murdoch
+054700.html,[Rd] make check fails in r49613,54700,Duncan Murdoch
+054712.html,[Rd] Finding the environment of a promise,54712,Duncan Murdoch
+054717.html,[Rd] Finding the environment of a promise,54717,Duncan Murdoch
+054728.html,[Rd] findLineNum and setBreakpoint added,54728,Duncan Murdoch
+054746.html,[Rd] Non-GPL packages for R,54746,Duncan Murdoch
+054755.html,[Rd] Fortran routine affected by unrelated R code,54755,Duncan Murdoch
+054778.html,[Rd] S3 objects in S4 slots,54778,Duncan Murdoch
+054780.html,[Rd] S3 objects in S4 slots,54780,Duncan Murdoch
+054785.html,[Rd] Building R package with .c sub-routine files,54785,Duncan Murdoch
+054803.html,[Rd] S3 objects in S4 slots,54803,Duncan Murdoch
+054806.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711) just built segfaults on Debian Squeeze,54806,Duncan Murdoch
+054809.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711) just built segfaults on Debian Squeeze,54809,Duncan Murdoch
+054810.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711) just	built segfaults on Debian Squeeze,54810,Duncan Murdoch
+054826.html,[Rd] Windows Source Install Without Rtools,54826,Duncan Murdoch
+054827.html,[Rd] Windows Source Install Without Rtools,54827,Duncan Murdoch
+054829.html,[Rd] Windows Source Install Without Rtools,54829,Duncan Murdoch
+054831.html,[Rd] Windows Source Install Without Rtools,54831,Duncan Murdoch
+054838.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711) just	built segfaults on Debian Squeeze,54838,Duncan Murdoch
+054845.html,[Rd] Package crashes R under Windows Vista,54845,Duncan Murdoch
+054868.html,[Rd] cannot build R-devel (&gt;= r49747),54868,Duncan Murdoch
+054870.html,[Rd] cannot build R-devel (&gt;= r49747),54870,Duncan Murdoch
+054871.html,[Rd] .Random.seed not found (PR#13963),54871,Duncan Murdoch
+054875.html,[Rd] cannot build R-devel (&gt;= r49747),54875,Duncan Murdoch
+054899.html,[Rd] Crash due to extreme  example,54899,Duncan Murdoch
+054901.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54901,Duncan Murdoch
+054905.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54905,Duncan Murdoch
+054907.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54907,Duncan Murdoch
+054908.html,[Rd] Crash due to extreme  example,54908,Duncan Murdoch
+054910.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54910,Duncan Murdoch
+054911.html,[Rd] R v2.10.0: Doc clarification for cross references and where are we heading?,54911,Duncan Murdoch
+054914.html,[Rd] Crash due to extreme example,54914,Duncan Murdoch
+054936.html,[Rd] Rtools210 missing jpeg-7?,54936,Duncan Murdoch
+054974.html,[Rd] Downloading R-2.10.0,54974,Duncan Murdoch
+055003.html,[Rd] buglet in is.na?,55003,Duncan Murdoch
+055008.html,[Rd] buglet in is.na?,55008,Duncan Murdoch
+054920.html,[Rd] unexpected behavior of `[&lt;-` method for class	unit.arithmetic,54920,Paul Murrell
+054763.html,[Rd] Non-GPL packages for R,54763,John C Nash
+054735.html,[Rd] Non-GPL packages for R,54735,Prof. John C Nash
+054750.html,[Rd] Non-GPL packages for R,54750,Prof. John C Nash
+054769.html,[Rd] Why license filtering is important (was non-GPL ...),54769,Prof. John C Nash
+054556.html,[Rd] License of Port3 library for R,54556,Pin Tian Ng
+054654.html,[Rd] building r packages for windows on a mac/linux,54654,Vinh Nguyen
+054890.html,[Rd] R + C + Lapack toy regression example,54890,Vinh Nguyen
+054915.html,[Rd] R + C + Lapack toy regression example,54915,Vinh Nguyen
+054916.html,[Rd] R + C + Lapack toy regression example,54916,Vinh Nguyen
+054967.html,[Rd] Probability of data values form empirical distribution,54967,John Nolan
+054945.html,[Rd] Windows Laptop specification query,54945,Sean O'Riordain
+054956.html,[Rd] bug or feature in read.table?,54956,&quot;Jens Oehlschl&#228;gel&quot;
+054839.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54839,Jens Oehlschl&#228;gel
+054775.html,[Rd] Save all objects in all environment stack,54775,Vadim Ogranovich
+054583.html,[Rd] R devel repository tarball naming issue,54583,Herv&#233; Pag&#232;s
+054620.html,[Rd] R devel repository tarball naming issue,54620,Herv&#233; Pag&#232;s
+054919.html,[Rd] crash with NAs in subscripted assignment of a raw vector,54919,Herv&#233; Pag&#232;s
+054930.html,[Rd] crash with NAs in subscripted assignment of a raw vector,54930,Herv&#233; Pag&#232;s
+054610.html,[Rd] force &amp; identity,54610,Roger Peng
+054918.html,[Rd] speedup approxfun (code suggestion),54918,Thomas Petzoldt
+054671.html,[Rd] Load a package without installing it,54671,Andrew Piskorski
+054689.html,[Rd] Running two R instances at the same time,54689,Andrew Piskorski
+054690.html,[Rd] Running two R instances at the same time,54690,Andrew Piskorski
+054584.html,[Rd] Documentation for is.atomic and is.recursive,54584,Tony Plate
+054957.html,[Rd] lattice's mai/mar analog,54957,Michael Ramati
+054970.html,[Rd] Problem installing RMAGEML package,54970,Mamun Rashid
+054691.html,[Rd] performance of vector subscripting via character index,54691,Jim Regetz
+054568.html,[Rd] [R] R and GNU gcc for OpenMP,54568,Prof Brian Ripley
+054575.html,[Rd] Trouble building R 2.9.2 under solaris 10,54575,Prof Brian Ripley
+054637.html,[Rd] calling Lapack and BLAS routines from C,54637,Prof Brian Ripley
+054679.html,[Rd] question about --with-valgrind-instrumentation=level,54679,Prof Brian Ripley
+054723.html,[Rd] 'make install' fails on Solaris (PR#13946),54723,Prof Brian Ripley
+054731.html,[Rd] 'make install' fails on Solaris (PR#13946),54731,Prof Brian Ripley
+054814.html,[Rd] Memory-management crash with UTF-8 on Windows (PR#13955),54814,Prof Brian Ripley
+054934.html,[Rd] Compatibility of external C code across platforms,54934,Prof Brian Ripley
+054949.html,[Rd] Windows Laptop specification query,54949,Prof Brian Ripley
+054954.html,[Rd] Windows Laptop specification query,54954,Prof Brian Ripley
+054557.html,[Rd] Dependencies of  packages' CHECK....,54557,Allen S. Rout
+054660.html,[Rd] Dependencies of  packages' CHECK....,54660,Allen S. Rout
+054718.html,[Rd] Dependencies of  packages' CHECK....,54718,Allen S. Rout
+054924.html,[Rd] Collision between difftime and ggplot2.,54924,Allen S. Rout
+054558.html,[Rd] License of Port3 library for R,54558,Barry Rowlingson
+054666.html,[Rd] Viewing pdfs from inst/doc,54666,Barry Rowlingson
+054687.html,[Rd] some (minor) Rd issue: line breaking in \S4method within	\usage{},54687,Peter Ruckdeschel
+054951.html,[Rd] Starting values in &#8220;arima.sim&#8221; function,54951,Lina Rusyte
+054966.html,[Rd] Probability of data values form empirical distribution,54966,Lina Rusyte
+054944.html,[Rd] Windows Laptop specification query,54944,Keith Satterley
+054725.html,[Rd] feature and bug in wilcox.test,54725,Fritz Scholz
+054771.html,[Rd] DESCRIPTION/OS_type and OS X,54771,Marc Schwartz
+054549.html,[Rd] Unexpected behaviour initializing S4 class,54549,Krunoslav Sever
+054555.html,[Rd] Installing rJava RJDBC bad interpreter: Permission denied,54555,Matias Silva
+054569.html,[Rd] Installing rJava RJDBC bad interpreter: Permission denied,54569,Matias Silva
+054581.html,[Rd] Installing rJava RJDBC bad interpreter: Permission denied,54581,Matias Silva
+055001.html,[Rd] Installation problem from R 2.8.x,55001,Matias Silva
+054946.html,[Rd] documentation cross references under R 2.10.0dev for Windows,54946,Gordon K Smyth
+054961.html,[Rd] documentation cross references under R 2.10.0dev for	Windows,54961,Gordon K Smyth
+054622.html,[Rd] Including a binary Python Interpreter into a binary	R-package for	MS Windows,54622,Guido van Steen
+054639.html,[Rd] Including a binary Python Interpreter into a binary	R-package for MS Windows,54639,Guido van Steen
+054661.html,[Rd] Including a binary Python Interpreter into a binary	R-package for MS Windows,54661,Guido van Steen
+055005.html,[Rd] unable to load shared library (Symbol not found:	_PQbackendPID),55005,Neil Tiffin
+054973.html,[Rd] model.matrix troubles with AlgDesign,54973,Heather Turner
+054980.html,[Rd] model.matrix troubles with AlgDesign,54980,Heather Turner
+054563.html,[Rd] Installing rJava RJDBC bad interpreter: Permission denied,54563,Simon Urbanek
+054565.html,[Rd] Dependencies of  packages' CHECK....,54565,Simon Urbanek
+054572.html,[Rd] Including a binary Python Interpreter into a binary	R-package for MS Windows,54572,Simon Urbanek
+054596.html,[Rd] Depth of protection stack?,54596,Simon Urbanek
+054624.html,[Rd] Running an expression 1MN times using embedded R,54624,Simon Urbanek
+054645.html,[Rd] Rscript and default packages,54645,Simon Urbanek
+054650.html,[Rd] Rscript and default packages,54650,Simon Urbanek
+054659.html,[Rd] enabling core dumps,54659,Simon Urbanek
+054664.html,[Rd] asking for suggestions: interface for a C++ class,54664,Simon Urbanek
+054677.html,[Rd] Running two R instances at the same time,54677,Simon Urbanek
+054702.html,[Rd] Reissue: Base &quot;Object&quot; class to use in S4 slot	specification,54702,Simon Urbanek
+054703.html,[Rd] Reissue: Base &quot;Object&quot; class to use in S4 slot	specification,54703,Simon Urbanek
+054715.html,[Rd] Finding the environment of a promise,54715,Simon Urbanek
+054765.html,[Rd] Non-GPL packages for R,54765,Simon Urbanek
+054801.html,[Rd] 2.10.0 Under development (unstable) (2009-09-15 r49711)	just built segfaults on Debian Squeeze,54801,Simon Urbanek
+054822.html,[Rd] Windows Source Install Without Rtools,54822,Simon Urbanek
+054824.html,[Rd] Windows Source Install Without Rtools,54824,Simon Urbanek
+054837.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54837,Simon Urbanek
+054840.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54840,Simon Urbanek
+054855.html,[Rd] R with Java,54855,Simon Urbanek
+054889.html,[Rd] Snow leopard ./configure &quot;cannot compile a simple Fortran	program&quot;,54889,Simon Urbanek
+054971.html,[Rd] How do I access class slots from C?,54971,Simon Urbanek
+054976.html,[Rd] How do I access class slots from C?,54976,Simon Urbanek
+054981.html,[Rd] Problems connecting to httpd help server with some browsers,54981,Simon Urbanek
+054994.html,[Rd] Problems connecting to httpd help server with some browsers,54994,Simon Urbanek
+054996.html,[Rd] R 2.9.2 crashes when sorting latin1-encoded strings,54996,Simon Urbanek
+054997.html,[Rd] How to compile R with command completion?,54997,Simon Urbanek
+055009.html,[Rd] How to compile R with command completion?,55009,Simon Urbanek
+054792.html,[Rd] r-forge.r-project.org down?,54792,Joris  at  VU
+054567.html,[Rd] Tracebacks &amp; try,54567,Hadley Wickham
+054597.html,[Rd] Package names,54597,Hadley Wickham
+054598.html,[Rd] clearNames and unname,54598,Hadley Wickham
+054599.html,[Rd] force &amp; identity,54599,Hadley Wickham
+054601.html,[Rd] Package names,54601,Hadley Wickham
+054641.html,[Rd] Load a package without installing it,54641,Hadley Wickham
+054644.html,[Rd] Package tests must have extension .R?,54644,Hadley Wickham
+054643.html,[Rd] Load a package without installing it,54643,Hadley Wickham
+054673.html,[Rd] Load a package without installing it,54673,Hadley Wickham
+054709.html,[Rd] Finding the environment of a promise,54709,Hadley Wickham
+054713.html,[Rd] Monkey patching +.POSIXt,54713,Hadley Wickham
+054714.html,[Rd] Finding the environment of a promise,54714,Hadley Wickham
+054721.html,[Rd] Monkey patching +.POSIXt,54721,Hadley Wickham
+054995.html,[Rd] How to compile R with command completion?,54995,Peng Yu
+055007.html,[Rd] How to compile R with command completion?,55007,Peng Yu
+055010.html,[Rd] How to compile R with command completion?,55010,Peng Yu
+054696.html,[Rd] [R] Usage of OCaml/R binding.,54696,Guillaume Yziquel
+054684.html,[Rd] OS X PDF bug (PR#13943),54684,paul.m.mcguire.jr at att.net
+054695.html,[Rd] OS X PDF bug (PR#13943),54695,paul.m.mcguire.jr at att.net
+054917.html,[Rd] unexpected behavior of `[&lt;-` method for class unit.arithmetic,54917,baptiste auguie
+054922.html,[Rd] unexpected behavior of `[&lt;-` method for class	unit.arithmetic,54922,baptiste auguie
+054926.html,[Rd] unexpected behavior of `[&lt;-` method for class	unit.arithmetic,54926,baptiste auguie
+054940.html,[Rd] puzzle with drawDetails for a class derived from a gTree,54940,baptiste auguie
+054566.html,[Rd] Links in Doc to plots for 3d (PR#13939),54566,ivo_welch at brown.edu
+054848.html,[Rd] inconsistency in attaching attributes to NULL,54848,cls59
+054719.html,[Rd] Monkey patching +.POSIXt,54719,Mark.Bravington at csiro.au
+054722.html,[Rd] Monkey patching +.POSIXt,54722,Mark.Bravington at csiro.au
+054843.html,[Rd] Package crashes R under Windows Vista,54843,cstrato
+054849.html,[Rd] Package crashes R under Windows Vista,54849,cstrato
+054812.html,[Rd] Memory-management crash with UTF-8 on Windows (PR#13955),54812,g.russell at eos-solutions.com
+054819.html,[Rd] Antwort: Re: Memory-management crash with UTF-8 on Windows	(PR#13956),54819,g.russell at eos-solutions.com
+054551.html,[Rd] R devel repository tarball naming issue,54551,ml-it-r-devel at epigenomics.com
+054794.html,[Rd] I want to get a reference to this time series object,54794,mtmorgan at fhcrc.org
+054632.html,[Rd] Apparent bug in summaryBy (PR#13941),54632,paterno at fnal.gov
+054720.html,[Rd] 'make install' fails on Solaris (PR#13946),54720,bownes at gmail.com
+054730.html,[Rd] 'make install' fails on Solaris (PR#13946),54730,bownes at gmail.com
+054734.html,[Rd] 'make install' fails on Solaris (PR#13946),54734,bownes at gmail.com
+054738.html,[Rd] R_SHELL=/bin/bash causes issues (PR#13949),54738,bownes at gmail.com
+054861.html,[Rd] .Random.seed not found (PR#13963),54861,andreas.westfeld at htw-dresden.de
+054998.html,[Rd] Installation problem from R 2.8.x,54998,zong-pei.han at imm.ox.ac.uk
+054833.html,[Rd] Reading clipboard with read.delim(&quot;clipboard&quot;) crash (PR#13957),54833,liam.gretton at leicester.ac.uk
+054929.html,[Rd] Wish for stripchart to handle pch %in% 21:25 with bg,54929,Jean lobry
+054938.html,[Rd] mboost_1.1-3  blackboost_fit (PR#13972),54938,bullshit at mail.ru
+054813.html,[Rd] Bogus warning in splinefun (PR#13954),54813,P.V.Dunmore at massey.ac.nz
+054986.html,[Rd] build issues on Solaris (PR#13975),54986,rsparapa at mcw.edu
+054939.html,[Rd] xaxs disactivated when asp=1 in plots (PR#13971),54939,francois_birgand at ncsu.edu
+054874.html,[Rd] odd (erroneous?) results from gls,54874,Timothy_Handley at nps.gov
+054841.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54841,simon.urbanek at r-project.org
+054546.html,"[Rd] xy.coords assumes lists will have x and y components,	but doesn't check (PR#13936)",54546,richcalaway at revolution-computing.com
+054547.html,[Rd] setRepositories() doesn't allow graceful cancellation from GUI	menu (PR#13937),54547,richcalaway at revolution-computing.com
+054895.html,[Rd] warnings handled oddly in functions with browser calls	(PR#13967),54895,richcalaway at revolution-computing.com
+054896.html,[Rd] Bug 13937 (setRepositories() doesn't allow graceful	cancellation from GUI menu) (PR#13968),54896,richcalaway at revolution-computing.com
+054897.html,[Rd] FW: RE: Bug 13937 (setRepositories() doesn't allow graceful	cancellation from GUI menu) (PR#13969),54897,richcalaway at revolution-computing.com
+054665.html,[Rd]  Viewing pdfs from inst/doc,54665,rudjer
+054675.html,[Rd] Viewing pdfs from inst/doc,54675,rudjer
+054766.html,[Rd] Non-GPL packages for R,54766,rudjer
+054743.html,[Rd] Non-GPL packages for R,54743,spencerg
+054762.html,[Rd] Non-GPL packages for R,54762,spencerg
+054579.html,[Rd] Tracebacks &amp; try,54579,luke at stat.uiowa.edu
+054737.html,[Rd] Finding the environment of a promise,54737,luke at stat.uiowa.edu
+054590.html,[Rd] names&lt;- in data.frame (PR#13916),54590,ripley at stats.ox.ac.uk
+054685.html,[Rd] OS X PDF bug (PR#13943),54685,ripley at stats.ox.ac.uk
+054732.html,[Rd] 'make install' fails on Solaris (PR#13946),54732,ripley at stats.ox.ac.uk
+054651.html,[Rd] enabling core dumps,54651,pleydell at supagro.inra.fr
+054652.html,[Rd] enabling core dumps,54652,pleydell at supagro.inra.fr
+054655.html,[Rd] enabling core dumps,54655,pleydell at supagro.inra.fr
+054656.html,[Rd] enabling core dumps,54656,pleydell at supagro.inra.fr
+054658.html,[Rd] enabling core dumps,54658,pleydell at supagro.inra.fr
+054668.html,[Rd] Unexpected behaviour of &quot;next line&quot; in gdb,54668,pleydell at supagro.inra.fr
+054670.html,[Rd] Unexpected behaviour of &quot;next line&quot; in gdb,54670,pleydell at supagro.inra.fr
+054784.html,[Rd] Building R package with .c sub-routine files,54784,pleydell at supagro.inra.fr
+054797.html,[Rd] Building R package with .c sub-routine files,54797,pleydell at supagro.inra.fr
+054892.html,[Rd] Strange behaviour with global variable in C,54892,pleydell at supagro.inra.fr
+054893.html,[Rd] Strange behaviour with global variable in C,54893,pleydell at supagro.inra.fr
+054894.html,[Rd] enabling core dumps,54894,pleydell at supagro.inra.fr
+054977.html,[Rd] enabling core dumps,54977,pleydell at supagro.inra.fr
+054629.html,[Rd] Missing warning when NAs are generated during coercion to	complex (PR#13942),54629,gmbecker at ucdavis.edu
+054834.html,[Rd] basename returns &quot;.&quot; not in filename (PR#13958),54834,joehl at web.de
+054862.html,[Rd] Ubuntu Hardy python-rpy package missing _rpy2092 (PR#13962),54862,dennisr at wi.mit.edu
+054576.html,[Rd] Documentation for is.atomic and is.recursive,54576,hadley wickham
+054903.html,[Rd] R v2.10.0: Doc clarification for cross references and	where are we heading?,54903,hadley wickham
+054925.html,[Rd] Collision between difftime and ggplot2.,54925,hadley wickham
+054552.html,[Rd] Including a binary Python Interpreter into a binary R-package	for MS Windows,54552,gvsteen at yahoo.com
+054554.html,[Rd] Including a binary Python Interpreter into a binary	R-package for MS Windows,54554,gvsteen at yahoo.com

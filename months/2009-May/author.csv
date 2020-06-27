@@ -1,0 +1,355 @@
+link,Subject,id,author
+053420.html,[Rd] Interrupting R when embedded in Java,53420,Stephan (orcaforge at gtalk)
+053343.html,"[Rd] In C, a fast way to slice a vector?",53343,Patrick Aboyoun
+053304.html,[Rd] proposed changes to RSiteSearch,53304,Liviu Andronic
+053293.html,[Rd] proposed changes to RSiteSearch,53293,Jonathan Baron
+053307.html,[Rd] proposed changes to RSiteSearch,53307,Jonathan Baron
+053308.html,[Rd] proposed changes to RSiteSearch,53308,Jonathan Baron
+053310.html,[Rd] proposed changes to RSiteSearch,53310,Jonathan Baron
+053272.html,[Rd] nlminb - Port library codes,53272,Douglas Bates
+053576.html,[Rd] socketConnection() + Ctrl-C + closeAllConnections() =&gt; core	dump,53576,Henrik Bengtsson
+053585.html,[Rd] degraded performance with rank(),53585,Tim Bergsma
+053350.html,[Rd] [macosx] improving quartz &amp; Aqua Tk behaviour outside of	RGui,53350,Ren&#233; J.V. Bertin
+053280.html,[Rd] script window background and text color (PR#13446),53280,Michal Bojanowski
+053414.html,[Rd] S4 method dispatch and namespaces: why is default method	selected,53414,Micha&#322; Bojanowski
+053429.html,[Rd] S4 method dispatch and namespaces: why is default method	selected,53429,Micha&#322; Bojanowski
+053356.html,[Rd] View() crashy on Ubuntu 9.04,53356,Ben Bolker
+053359.html,[Rd] View() crashy on Ubuntu 9.04,53359,Ben Bolker
+053364.html,[Rd] View() crashy on Ubuntu 9.04,53364,Ben Bolker
+053371.html,[Rd] simple add error (PR#13699),53371,Ben Bolker
+053404.html,[Rd] View() crashy on Ubuntu 9.04,53404,Ben Bolker
+053408.html,[Rd] typos,53408,Luca Braglia
+053384.html,[Rd] diag() has a bug (PR#13702),53384,Benilton Carvalho
+053385.html,[Rd] diag() has a bug (PR#13702),53385,Benilton Carvalho
+053287.html,[Rd] Can we generate exe file using R? What is the maximum file	size valid?,53287,Chessxm
+053326.html,[Rd] dqrdc2_ dqrsl_ dtrsl_ missing from libs? compiling earth	standalone,53326,Casper Clemence
+053327.html,[Rd] dqrdc2_ dqrsl_ dtrsl_ missing from libs? compiling earth	standalone,53327,Casper Clemence
+053383.html,[Rd] R &amp; Java,53383,Alex D'Amour
+053268.html,[Rd] suggestion for extending ?as.factor,53268,Peter Dalgaard
+053271.html,[Rd] suggestion for extending ?as.factor,53271,Peter Dalgaard
+053278.html,[Rd] suggestion for extending ?as.factor,53278,Peter Dalgaard
+053331.html,[Rd] unsplit list of data.frames with one column,53331,Peter Dalgaard
+053351.html,[Rd] Predict function npindex and npindexbw (PR#13695),53351,Peter Dalgaard
+053386.html,[Rd] diag() has a bug (PR#13702),53386,Peter Dalgaard
+053455.html,[Rd] qbinom (PR#13711),53455,Peter Dalgaard
+053559.html,[Rd] 'mean' is not reverted in median() as NEWS says (PR#13731),53559,Peter Dalgaard
+053250.html,[Rd] crash after using graphics in Rcmdr (PR#13679),53250,DevinJ
+053335.html,[Rd] suggestion for extending ?as.factor,53335,Michael Dewey
+053254.html,[Rd] dir.create does not return a value (PR#13686),53254,Sundar Dorai-Raj
+053255.html,[Rd] dir.create does not return a value (PR#13686),53255,Sundar Dorai-Raj
+053366.html,[Rd] Can we generate exe file using R? What is the maximum file	size valid?,53366,Matthew Dowle
+053245.html,"[Rd] NA_real_ &lt;op&gt; NaN -&gt; NA or NaN, should we care?",53245,William Dunlap
+053247.html,"[Rd] NA_real_ &lt;op&gt; NaN -&gt; NA or NaN, should we care?",53247,William Dunlap
+053329.html,[Rd] anyDuplicated(incomp=NA) fails,53329,William Dunlap
+053463.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53463,William Dunlap
+053472.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53472,William Dunlap
+053544.html,[Rd] [R] split strings,53544,William Dunlap
+053339.html,[Rd] Vignettes with missing or empty \VignetteIndexEntry:,53339,Christophe Dutang
+053340.html,[Rd] Fwd: Vignettes with missing or empty \VignetteIndexEntry:,53340,Christophe Dutang
+053261.html,[Rd] set.seed and /dev/random,53261,Dirk Eddelbuettel
+053357.html,[Rd] View() crashy on Ubuntu 9.04,53357,Dirk Eddelbuettel
+053360.html,[Rd] View() crashy on Ubuntu 9.04,53360,Dirk Eddelbuettel
+053361.html,[Rd] View() crashy on Ubuntu 9.04,53361,Dirk Eddelbuettel
+053379.html,[Rd] R &amp; Java,53379,Dirk Eddelbuettel
+053421.html,[Rd] Auto-upgrading a package under Windows ?,53421,Dirk Eddelbuettel
+053448.html,[Rd] Auto-upgrading a package under Windows ?,53448,Dirk Eddelbuettel
+053458.html,[Rd] Auto-upgrading a package under Windows ?,53458,Dirk Eddelbuettel
+053435.html,[Rd] Automatic Differentiation for R,53435,"Forth, Shaun"
+053299.html,[Rd] proposed changes to RSiteSearch,53299,Romain Francois
+053301.html,[Rd] proposed changes to RSiteSearch,53301,Romain Francois
+053312.html,[Rd] proposed changes to RSiteSearch,53312,Romain Francois
+053314.html,[Rd] proposed changes to RSiteSearch,53314,Romain Francois
+053315.html,[Rd] proposed changes to RSiteSearch,53315,Romain Francois
+053323.html,[Rd] proposed changes to RSiteSearch,53323,Romain Francois
+053436.html,[Rd] package level connection API,53436,Romain Francois
+053480.html,[Rd] [R] step by step debugger in R?,53480,Romain Francois
+053495.html,[Rd] [R] step by step debugger in R?,53495,Romain Francois
+053497.html,[Rd] Can a function know what other function called it?,53497,Romain Francois
+053506.html,[Rd] [R] step by step debugger in R?,53506,Romain Francois
+053509.html,[Rd] [R] step by step debugger in R?,53509,Romain Francois
+053518.html,[Rd] Can a function know what other function called it?,53518,Romain Francois
+053541.html,[Rd] internal and external debugging [was: [R] step by step debugger in R?],53541,Romain Francois
+053522.html,[Rd] R Embedded waring and error callbacks,53522,Thomas Friedrichsmeier
+053354.html,"[Rd] In C, a fast way to slice a vector?",53354,Laurent Gautier
+053248.html,[Rd] a statement about package licenses,53248,Robert Gentleman
+053489.html,[Rd] [R] step by step debugger in R?,53489,Robert Gentleman
+053491.html,[Rd] Can a function know what other function called it?,53491,Robert Gentleman
+053376.html,[Rd] different results on linux and windows,53376,Paul Gilbert
+053246.html,[Rd] crash after using graphics in Rcmdr (PR#13679),53246,Rob Goedman
+053325.html,[Rd] unsplit list of data.frames with one column,53325,Will Gray
+053313.html,[Rd] proposed changes to RSiteSearch,53313,Philippe Grosjean
+053318.html,[Rd] proposed changes to RSiteSearch,53318,Philippe Grosjean
+053303.html,[Rd] proposed changes to RSiteSearch,53303,Gabor Grothendieck
+053333.html,[Rd] Improve aggregate.default ...?,53333,Gabor Grothendieck
+053394.html,[Rd] Mac and tcltk,53394,Gabor Grothendieck
+053418.html,[Rd] readBin on binary non-blocking connections (Windows &amp; Unix	differences/bugs),53418,Gabor Grothendieck
+053433.html,[Rd] Automatic Differentiation for R,53433,Gabor Grothendieck
+053445.html,"[Rd] Qs: The list of arguments, wrapping functions...",53445,Gabor Grothendieck
+053478.html,[Rd] Strange install key for R,53478,Gabor Grothendieck
+053483.html,[Rd] Strange install key for R,53483,Gabor Grothendieck
+053586.html,[Rd] degraded performance with rank(),53586,Gabor Grothendieck
+053260.html,[Rd] set.seed and /dev/random,53260,Saptarshi Guha
+053262.html,[Rd] set.seed and /dev/random,53262,Saptarshi Guha
+053342.html,"[Rd] In C, a fast way to slice a vector?",53342,Saptarshi Guha
+053346.html,"[Rd] In C, a fast way to slice a vector?",53346,Saptarshi Guha
+053358.html,[Rd] View() crashy on Ubuntu 9.04,53358,Kjetil Halvorsen
+053240.html,[Rd] parsing Rd files and \deqn{},53240,Robin Hankin
+053493.html,[Rd] using a &quot;third party&quot; DLL in my package,53493,Kasper Daniel Hansen
+053256.html,[Rd] dir.create does not return a value (PR#13686),53256,Robert Hijmans
+053345.html,[Rd] Vignettes with missing or empty \VignetteIndexEntry:,53345,Kurt Hornik
+053416.html,[Rd] R 2.9.0 slower than R 2.8.1 for the data.frame function,53416,Philippe Hup&#233;
+053285.html,[Rd] Scope question concerning calls within a user defined function,53285,Terrence Ireland
+053387.html,[Rd] will one of you help me advocate a change in t.test (patch	attached),53387,Paul Johnson
+053400.html,[Rd] will one of you help me advocate a change in t.test (patch	attached),53400,Paul Johnson
+053519.html,[Rd] plot ignores type= &quot;n&quot; when x is factor (PR#13703),53519,Paul Johnson
+053438.html,"[Rd] Qs: The list of arguments, wrapping functions...",53438,Kynn Jones
+053443.html,"[Rd] Qs: The list of arguments, wrapping functions...",53443,Kynn Jones
+053490.html,[Rd] Can a function know what other function called it?,53490,Kynn Jones
+053492.html,[Rd] Can a function know what other function called it?,53492,Kynn Jones
+053328.html,[Rd] patch for axis.POSIXct (related to timezones),53328,Dan Kelley
+053575.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53575,G. Jay Kerns
+053581.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53581,G. Jay Kerns
+053587.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53587,G. Jay Kerns
+053467.html,[Rd] install.packages now intentionally references .Rprofile?,53467,Mark Kimpel
+053374.html,[Rd] different results on linux and windows,53374,Kjell Konis
+053309.html,[Rd] proposed changes to RSiteSearch,53309,Wacek Kusnierczyk
+053321.html,[Rd] proposed changes to RSiteSearch,53321,Wacek Kusnierczyk
+053322.html,[Rd] proposed changes to RSiteSearch,53322,Wacek Kusnierczyk
+053337.html,[Rd] unsplit list of data.frames with one column,53337,Wacek Kusnierczyk
+053362.html,[Rd] View() crashy on Ubuntu 9.04,53362,Wacek Kusnierczyk
+053441.html,"[Rd] Qs: The list of arguments, wrapping functions...",53441,Wacek Kusnierczyk
+053442.html,"[Rd] Qs: The list of arguments, wrapping functions...",53442,Wacek Kusnierczyk
+053444.html,"[Rd] Qs: The list of arguments, wrapping functions...",53444,Wacek Kusnierczyk
+053537.html,[Rd] minor correction to the r internals manual,53537,Wacek Kusnierczyk
+053538.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53538,Wacek Kusnierczyk
+053543.html,[Rd] [R] split strings,53543,Wacek Kusnierczyk
+053545.html,[Rd] [R]   split strings,53545,Wacek Kusnierczyk
+053546.html,[Rd] [R]   split strings,53546,Wacek Kusnierczyk
+053547.html,[Rd] bug in strsplit?,53547,Wacek Kusnierczyk
+053563.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53563,Wacek Kusnierczyk
+053564.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53564,Wacek Kusnierczyk
+053570.html,[Rd] Why change data type when dropping to one-dimension?,53570,Wacek Kusnierczyk
+053571.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53571,Wacek Kusnierczyk
+053577.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53577,Wacek Kusnierczyk
+053589.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53589,Wacek Kusnierczyk
+053377.html,[Rd] R &amp; Java,53377,Philippe Lamote
+053517.html,[Rd] R Embedded waring and error callbacks,53517,Christian Ledergerber
+053373.html,[Rd] different results on linux and windows,53373,Friedrich Leisch
+053279.html,"[Rd] unexpected behavior of rpart 3.1-43, loss matrix",53279,"Liaw, Andy"
+053291.html,[Rd] proposed changes to RSiteSearch,53291,"Liaw, Andy"
+053292.html,[Rd] proposed changes to RSiteSearch,53292,"Liaw, Andy"
+053296.html,[Rd] proposed changes to RSiteSearch,53296,"Liaw, Andy"
+053298.html,[Rd] proposed changes to RSiteSearch,53298,"Liaw, Andy"
+053300.html,[Rd] proposed changes to RSiteSearch,53300,"Liaw, Andy"
+053302.html,[Rd] proposed changes to RSiteSearch,53302,"Liaw, Andy"
+053533.html,[Rd] using a &quot;third party&quot; DLL in my package,53533,"Liaw, Andy"
+053258.html,[Rd] installation of source package with empty man directory fails	(PR#13685),53258,Uwe Ligges
+053289.html,[Rd] Can we generate exe file using R? What is the maximum file size valid?,53289,Uwe Ligges
+053402.html,[Rd] Problem building (binary) packages for Windows,53402,Uwe Ligges
+053482.html,[Rd] Strange install key for R,53482,Uwe Ligges
+053487.html,[Rd] remez (signal) causes unhandled exception (PR#13713),53487,Uwe Ligges
+053515.html,[Rd] Vista authorization issues (PR#13718),53515,Uwe Ligges
+053579.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53579,Uwe Ligges
+053263.html,[Rd] set.seed and /dev/random,53263,Thomas Lumley
+053567.html,[Rd] Why change data type when dropping to one-dimension?,53567,Thomas Lumley
+053572.html,[Rd] Why change data type when dropping to one-dimension?,53572,Thomas Lumley
+053290.html,[Rd] Can we generate exe file using R? What is the maximum file	size valid?,53290,Stavros Macrakis
+053367.html,[Rd] Can we generate exe file using R? What is the maximum file	size valid?,53367,Stavros Macrakis
+053560.html,[Rd] Bug in base function sample ( ) (PR#13727),53560,Stavros Macrakis
+053561.html,[Rd] [R] custom sort?,53561,Stavros Macrakis
+053568.html,[Rd] Why change data type when dropping to one-dimension?,53568,Stavros Macrakis
+053578.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53578,Stavros Macrakis
+053582.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53582,Stavros Macrakis
+053242.html,"[Rd] NA_real_ &lt;op&gt; NaN -&gt; NA or NaN, should we care?",53242,Martin Maechler
+053243.html,"[Rd] NA_real_ &lt;op&gt; NaN -&gt; NA or NaN, should we care?",53243,Martin Maechler
+053265.html,[Rd] suggestion for extending ?as.factor,53265,Martin Maechler
+053269.html,[Rd] suggestion for extending ?as.factor,53269,Martin Maechler
+053276.html,[Rd] suggestion for extending ?as.factor,53276,Martin Maechler
+053282.html,[Rd] suggestion for extending ?as.factor,53282,Martin Maechler
+053311.html,[Rd] suggestion for extending ?as.factor,53311,Martin Maechler
+053320.html,[Rd] suggestion for extending ?as.factor,53320,Martin Maechler
+053336.html,[Rd] anyDuplicated(incomp=NA) fails,53336,Martin Maechler
+053338.html,[Rd] suggestion for extending ?as.factor,53338,Martin Maechler
+053347.html,[Rd] suggestion for extending ?as.factor,53347,Martin Maechler
+053355.html,[Rd] suggestion for extending ?as.factor,53355,Martin Maechler
+053406.html,[Rd] Problem building (binary) packages for Windows,53406,Martin Maechler
+053411.html,[Rd] typos,53411,Martin Maechler
+053415.html,[Rd] tcrossprod() inconsistency ?!,53415,Martin Maechler
+053426.html,[Rd] was: Problem building (binary) packages for Windows,53426,Martin Maechler
+053430.html,[Rd] Automatic Differentiation for R,53430,Martin Maechler
+053432.html,[Rd] stringsAsFactors .... in expand.grid() etc,53432,Martin Maechler
+053507.html,[Rd] &quot;interpolator constructor&quot;;  was &quot;Scope problem?&quot;,53507,Martin Maechler
+053536.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53536,Martin Maechler
+053552.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53552,Martin Maechler
+053555.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53555,Martin Maechler
+053566.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53566,Martin Maechler
+053580.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53580,Martin Maechler
+053583.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53583,Martin Maechler
+053266.html,[Rd] how to change nlme() contrast parametrization?,53266,Fabio Mathias
+053267.html,[Rd] how to change nlme() contrast parametrization?,53267,Fabio Mathias
+053468.html,[Rd] Trivial typo in sample help file,53468,Fernando Mayer
+053469.html,[Rd] Trivial typo in sample help file,53469,Fernando Mayer
+053562.html,[Rd] install.packages now intentionally references .Rprofile?,53562,"McGehee, Robert"
+053525.html,[Rd] passing &quot;...&quot; arguments to a function called by eval(),53525,Richard Morey
+053530.html,[Rd] passing &quot;...&quot; arguments to a function called by eval(),53530,Richard Morey
+053425.html,[Rd] S4 method dispatch and namespaces: why is default method selected,53425,Martin Morgan
+053447.html,[Rd] install.packages now intentionally references .Rprofile?,53447,Martin Morgan
+053244.html,"[Rd] NA_real_ &lt;op&gt; NaN -&gt; NA or NaN, should we care?",53244,Duncan Murdoch
+053274.html,[Rd] whish stars.Rd,53274,Duncan Murdoch
+053277.html,[Rd] Rd parsing,53277,Duncan Murdoch
+053286.html,[Rd] Scope question concerning calls within a user defined	function,53286,Duncan Murdoch
+053297.html,[Rd] proposed changes to RSiteSearch,53297,Duncan Murdoch
+053393.html,[Rd] Problem building (binary) packages for Windows,53393,Duncan Murdoch
+053422.html,[Rd] was: Problem building (binary) packages for Windows,53422,Duncan Murdoch
+053423.html,[Rd] Problem building (binary) packages for Windows,53423,Duncan Murdoch
+053428.html,[Rd] was: Problem building (binary) packages for Windows,53428,Duncan Murdoch
+053464.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53464,Duncan Murdoch
+053471.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53471,Duncan Murdoch
+053473.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53473,Duncan Murdoch
+053474.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53474,Duncan Murdoch
+053476.html,[Rd] Scope problem?,53476,Duncan Murdoch
+053479.html,[Rd] Scope problem?,53479,Duncan Murdoch
+053484.html,[Rd] file descriptor leak in getSrcLines in R 2.10.0 svn 48590,53484,Duncan Murdoch
+053496.html,[Rd] Can a function know what other function called it?,53496,Duncan Murdoch
+053516.html,[Rd] Can a function know what other function called it?,53516,Duncan Murdoch
+053521.html,[Rd] Can a function know what other function called it?,53521,Duncan Murdoch
+053523.html,[Rd] plot ignores type= &quot;n&quot; when x is factor (PR#13703),53523,Duncan Murdoch
+053524.html,[Rd] Can a function know what other function called it?,53524,Duncan Murdoch
+053527.html,[Rd] passing &quot;...&quot; arguments to a function called by eval(),53527,Duncan Murdoch
+053531.html,[Rd] Covariance calculation gives different answer than Excel (PR#13720),53531,Duncan Murdoch
+053554.html,[Rd] [R] custom sort?,53554,Duncan Murdoch
+053558.html,[Rd] [R] custom sort?,53558,Duncan Murdoch
+053574.html,[Rd] png() error in recent R-devel on Windows,53574,Duncan Murdoch
+053588.html,[Rd] degraded performance with rank(),53588,Duncan Murdoch
+053592.html,[Rd] spelling buglet - files.Rd,53592,Duncan Murdoch
+053363.html,[Rd] View() crashy on Ubuntu 9.04,53363,Ei-ji Nakama
+053375.html,[Rd] different results on linux and windows,53375,Ei-ji Nakama
+053410.html,[Rd] [R] sprintf() question,53410,Ei-ji Nakama
+053249.html,[Rd] nlminb - Port library codes,53249,John C Nash
+053431.html,[Rd] Automatic Differentiation for R,53431,John C Nash
+053369.html,[Rd] different results on linux and windows,53369,Klaus Nordhausen
+053401.html,[Rd] different results on linux and windows,53401,Klaus Nordhausen
+053590.html,[Rd] spelling buglet - files.Rd,53590,Sean O'Riordain
+053573.html,[Rd] png() error in recent R-devel on Windows,53573,Herv&#233; Pag&#232;s
+053365.html,[Rd] [R] rmath.h functions reentrant,53365,Ravi Patel
+053391.html,[Rd] using a &quot;third party&quot; DLL in my package,53391,Prof Brian Ripley
+053396.html,[Rd] Problem building (binary) packages for Windows,53396,Prof Brian Ripley
+053399.html,[Rd] View() crashy on Ubuntu 9.04,53399,Prof Brian Ripley
+053405.html,[Rd] Spearman's rank correlation test (PR#13574),53405,Prof Brian Ripley
+053407.html,[Rd] Problem building (binary) packages for Windows,53407,Prof Brian Ripley
+053446.html,[Rd] Auto-upgrading a package under Windows ?,53446,Prof Brian Ripley
+053453.html,[Rd] Auto-upgrading a package under Windows ?,53453,Prof Brian Ripley
+053454.html,[Rd] install.packages now intentionally references .Rprofile?,53454,Prof Brian Ripley
+053494.html,[Rd] using a &quot;third party&quot; DLL in my package,53494,Prof Brian Ripley
+053505.html,"[Rd] (PR#13705)  [wishlist, patch] make row() and col() preserve dimnames",53505,Prof Brian Ripley
+053512.html,[Rd] Fwd: [R] size of point symbols,53512,Prof Brian Ripley
+053513.html,[Rd] plot ignores type= &quot;n&quot; when x is factor (PR#13703),53513,Prof Brian Ripley
+053514.html,[Rd] [R] sprintf() question,53514,Prof Brian Ripley
+053535.html,[Rd] R package installation (PR#13726),53535,Prof Brian Ripley
+053540.html,[Rd] Bug in &quot;$&lt;-.data.frame&quot; yields corrupt data frame (PR#13724),53540,Prof Brian Ripley
+053553.html,[Rd] edge case concerning NA in dim() (PR#13729),53553,Prof Brian Ripley
+053456.html,[Rd] Colour Schemes,53456,Barry Rowlingson
+053459.html,[Rd] Colour Schemes,53459,Barry Rowlingson
+053462.html,[Rd] Colour Schemes,53462,Barry Rowlingson
+053475.html,[Rd] Scope problem?,53475,Barry Rowlingson
+053477.html,[Rd] Scope problem?,53477,Barry Rowlingson
+053520.html,[Rd] plot ignores type= &quot;n&quot; when x is factor (PR#13703),53520,Barry Rowlingson
+053392.html,[Rd] Problem building (binary) packages for Windows,53392,Peter Ruckdeschel
+053397.html,[Rd] Problem building (binary) packages for Windows / resolved,53397,Peter Ruckdeschel
+053398.html,[Rd] Problem building (binary) packages for Windows,53398,Peter Ruckdeschel
+053412.html,[Rd] was: Problem building (binary) packages for Windows,53412,Peter Ruckdeschel
+053413.html,[Rd] Problem building (binary) packages for Windows,53413,Peter Ruckdeschel
+053595.html,[Rd] setdiff bizarre (was: odd behavior out of setdiff),53595,Jason Rupert
+053417.html,[Rd] readBin on binary non-blocking connections (Windows &amp; Unix	differences/bugs),53417,Jeff Ryan
+053419.html,[Rd] readBin on binary non-blocking connections (Windows &amp; Unix	differences/bugs),53419,Jeff Ryan
+053437.html,[Rd] readBin on binary non-blocking connections (Windows &amp; Unix	differences/bugs),53437,Jeff Ryan
+053461.html,[Rd] Colour Schemes,53461,Deepayan Sarkar
+053466.html,[Rd] Colour Schemes,53466,Deepayan Sarkar
+053264.html,[Rd] suggestion for extending ?as.factor,53264,Petr Savicky
+053270.html,[Rd] suggestion for extending ?as.factor,53270,Petr Savicky
+053275.html,[Rd] suggestion for extending ?as.factor,53275,Petr Savicky
+053281.html,[Rd] suggestion for extending ?as.factor,53281,Petr Savicky
+053288.html,[Rd] suggestion for extending ?as.factor,53288,Petr Savicky
+053306.html,[Rd] suggestion for extending ?as.factor,53306,Petr Savicky
+053316.html,[Rd] suggestion for extending ?as.factor,53316,Petr Savicky
+053319.html,[Rd] suggestion for extending ?as.factor,53319,Petr Savicky
+053324.html,[Rd] suggestion for extending ?as.factor,53324,Petr Savicky
+053341.html,[Rd] suggestion for extending ?as.factor,53341,Petr Savicky
+053348.html,[Rd] suggestion for extending ?as.factor,53348,Petr Savicky
+053353.html,[Rd] suggestion for extending ?as.factor,53353,Petr Savicky
+053372.html,[Rd] simple add error (PR#13699),53372,Petr Savicky
+053403.html,[Rd] Spearman's rank correlation test (PR#13574),53403,Petr Savicky
+053481.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53481,Petr Savicky
+053488.html,[Rd] qbinom (PR#13711),53488,Petr Savicky
+053500.html,[Rd] inconsistency in ?factor,53500,Petr Savicky
+053503.html,[Rd] inconsistency in ?factor,53503,Petr Savicky
+053542.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53542,Petr Savicky
+053556.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53556,Petr Savicky
+053591.html,[Rd] as.numeric(levels(factor(x))) may be a decreasing sequence,53591,Petr Savicky
+053395.html,[Rd] Mac and tcltk,53395,Marc Schwartz
+053332.html,[Rd] Improve aggregate.default ...?,53332,Gavin Simpson
+053334.html,[Rd] Improve aggregate.default ...?,53334,Gavin Simpson
+053551.html,[Rd] Bug in base function sample ( ) (PR#13727),53551,Gavin Simpson
+053380.html,[Rd] using a &quot;third party&quot; DLL in my package,53380,Seija Sirki&#228;
+053449.html,[Rd] using a &quot;third party&quot; DLL in my package,53449,Seija Sirki&#228;
+053388.html,[Rd] diag() has a bug (PR#13702),53388,Michael Spiegel
+053390.html,[Rd] diag() has a bug (PR#13702),53390,Michael Spiegel
+053344.html,[Rd] arima,53344,David Stoffer
+053501.html,[Rd] inconsistency in ?factor,53501,Berwin A Turlach
+053470.html,[Rd] install.packages now intentionally references .Rprofile?,53470,Heather Turner
+053450.html,[Rd] stringsAsFactors .... in expand.grid() etc,53450,Rolf Turner
+053257.html,[Rd] dir.create does not return a value (PR#13686),53257,Josh Ulrich
+053370.html,[Rd] simple add error (PR#13699),53370,Joshua Ulrich
+053427.html,[Rd] About &quot; Error: C stack usage is too close to the limit&quot;,53427,Simon Urbanek
+053502.html,[Rd] [R] step by step debugger in R?,53502,Simon Urbanek
+053508.html,[Rd] [R] step by step debugger in R?,53508,Simon Urbanek
+053382.html,[Rd] Homotopy package in R - Developmental help needed. Was: RE:	[R] newtons method,53382,Ravi Varadhan
+053565.html,[Rd] Why change data type when dropping to one-dimension?,53565,Jason Vertrees
+053569.html,[Rd] Why change data type when dropping to one-dimension?,53569,Jason Vertrees
+053439.html,"[Rd] Qs: The list of arguments, wrapping functions...",53439,Steve Weston
+053486.html,[Rd] problems building R-2.9.0 on solaris,53486,Janet Young
+053510.html,[Rd] Fwd: [R] size of point symbols,53510,baptiste auguie
+053549.html,[Rd] Fwd: [R] size of point symbols,53549,baptiste auguie
+053284.html,[Rd] Buglet in rml (VR) (PR#13690),53284,charpent at bacbuc.dyndns.org
+053526.html,[Rd] Bug in &quot;$&lt;-.data.frame&quot; yields corrupt data frame (PR#13724),53526,smckinney at bccrc.ca
+053294.html,[Rd] Can we generate exe file using R? What is the maximum file size valid?,53294,cls59
+053539.html,[Rd] internal and external debugging [was: [R] step by step debugger in R?],53539,Mark.Bravington at csiro.au
+053330.html,[Rd] need help for open source and diagramming research,53330,chung at engr.orst.edu
+053349.html,[Rd] Predict function npindex and npindexbw (PR#13695),53349,maxime.to at ensae.fr
+053529.html,[Rd] omission col as vector argument in hist documentation	(PR#13722),53529,astokes at esica.com
+053548.html,[Rd] edge case concerning NA in dim() (PR#13729),53548,astokes at esica.com
+053594.html,[Rd] install.packages hangs RGui with frozen rpwd process at bottom	of process tree (PR#13734),53594,astokes at esica.com
+053409.html,"[Rd] [wishlist,	patch] make row() and col() preserve dimnames (PR#13705)",53409,goodrich at fas.harvard.edu
+053550.html,[Rd] Bug in base function sample ( ) (PR#13727),53550,chajewski at fordham.edu
+053352.html,[Rd] bug in axis.POSIXct relating to tz (PR#13696),53352,kelley.dan at gmail.com
+053534.html,[Rd] R package installation (PR#13726),53534,l.bartnik at gmail.com
+053381.html,[Rd] diag() has a bug (PR#13702),53381,michael.m.spiegel at gmail.com
+053253.html,[Rd] dir.create does not return a value (PR#13686),53253,r.hijmans at gmail.com
+053498.html,[Rd] Bad values obtained from digamma implementation (PR#13714),53498,ted.dunning at gmail.com
+053452.html,[Rd] qbinom (PR#13711),53452,wolfgang.resch at gmail.com
+053252.html,[Rd] installation of source package with empty man directory fails	(PR#13685),53252,daniel.sabanesbove at gmx.net
+053424.html,[Rd] About &quot; Error: C stack usage is too close to the limit&quot;,53424,goon83
+053434.html,[Rd] About &quot; Error: C stack usage is too close to the limit&quot;,53434,goon83
+053457.html,[Rd] Colour Schemes,53457,Richard.Cotton at hsl.gov.uk
+053460.html,[Rd] Colour Schemes,53460,Richard.Cotton at hsl.gov.uk
+053368.html,[Rd] simple add error (PR#13699),53368,gostan at igmm.cnrs.fr
+053485.html,[Rd] remez (signal) causes unhandled exception (PR#13713),53485,atkocsis at iqrs.hu
+053511.html,[Rd] Vista authorization issues (PR#13718),53511,dpkesling at juno.com
+053389.html,[Rd] plot ignores type= &quot;n&quot; when x is factor (PR#13703),53389,pauljohn at ku.edu
+053273.html,[Rd] whish stars.Rd,53273,Jean lobry
+053499.html,[Rd] utf8towcs -- margin is too wide for a plot (PR#13716),53499,xiehb at mail.kiz.ac.cn
+053557.html,[Rd] 'mean' is not reverted in median() as NEWS says (PR#13731),53557,zhengxin at mail.nih.gov
+053251.html,[Rd] Workspace Browser doesn't refresh (PR#13684),53251,payam.minoofar at meissner.com
+053584.html,[Rd] Rtools28 - undefined references with gfortran,53584,minime234
+053451.html,[Rd] setWinProgressBar() on closed bar crashes R (PR#13709),53451,r.d.morey at rug.nl
+053305.html,[Rd] proposed changes to RSiteSearch,53305,spencerg
+053378.html,[Rd] R &amp; Java,53378,spencerg
+053504.html,[Rd] qbinom (PR#13711),53504,maechler at stat.math.ethz.ch
+053259.html,[Rd] installation of source package with empty man directory	(PR#13687),53259,ligges at statistik.tu-dortmund.de
+053532.html,[Rd] Covariance calculation gives different answer than Excel	(PR#13725),53532,murdoch at stats.uwo.ca
+053528.html,[Rd] Covariance calculation gives different answer than Excel	(PR#13720),53528,apw at us.ibm.com
+053317.html,[Rd] proposed changes to RSiteSearch,53317,hadley wickham
+053440.html,"[Rd] Qs: The list of arguments, wrapping functions...",53440,hadley wickham
+053465.html,[Rd] Colour Schemes,53465,hadley wickham
+053295.html,[Rd] Kendall's Tau should use Continuity Correction (PR#13691),53295,dsimcha at yahoo.com
+053283.html,[Rd] 2.9.0 configure failure on Solaris 10 U6 (PR#13689),53283,pulaskite at yahoo.com

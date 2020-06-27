@@ -1,0 +1,268 @@
+link,Subject,id,author
+046927.html,"[Rd] R-2.6.0 for Windows, semi-transparent colours and	layout()",46927,Henric Nilsson (Private)
+046892.html,"[Rd] R-2.6.0 for Windows, semi-transparent colours and layout()",46892,Henric Nilsson (Public)
+047012.html,[Rd] windows device transparency issue,47012,"Austin, Matt"
+046799.html,[Rd] When 1+2 != 3 (PR#9895),46799,Henrik Bengtsson
+046809.html,[Rd] User interrupts while plotting,46809,Henrik Bengtsson
+046910.html,[Rd] Re-attaching a package environment drops the attributes,46910,Henrik Bengtsson
+046913.html,[Rd] Re-attaching a package environment drops the attributes,46913,Henrik Bengtsson
+046928.html,[Rd] How to test if R is running on a Mac,46928,Henrik Bengtsson
+047008.html,"[Rd] Unnecessary extra copy with matrix(...,	dimnames=NULL) (Was: Re:  modifying large R objects in place)",47008,Henrik Bengtsson
+046862.html,[Rd] installing packages (PR#9907),46862,Charles C. Berry
+046878.html,[Rd] Reciprocal Mill's Ratio,46878,Charles C. Berry
+046786.html,[Rd] buglet in dist()  ?,46786,Ben Bolker
+046787.html,[Rd] contact with GeneR developers?,46787,Ben Bolker
+046789.html,[Rd] buglet in dist()  ?,46789,Ben Bolker
+046800.html,[Rd] buglet?? in nlme:::corRatio documentation,46800,Ben Bolker
+046837.html,[Rd] [Fwd: buglet (?) in de.restore()],46837,Ben Bolker
+046843.html,[Rd] trivial typo in ?AIC,46843,Ben Bolker
+046861.html,[Rd] trivial typo in ?strip.default,46861,Ben Bolker
+047024.html,[Rd] R-Server remotecontrolled via browser-GUI,47024,"Bos, Roger"
+046852.html,[Rd] &quot;could not find function&quot; in R CMD check,46852,Ross Boylan
+046860.html,"[Rd] &quot;could not find function&quot; in R CMD check [solved,	but is	this an R bug?]",46860,Ross Boylan
+046899.html,[Rd] Using gsl libraries in R packages,46899,Michael Braun
+046999.html,[Rd] rJava and RJDBC,46999,Joe W Byers
+046991.html,[Rd] rJava and RJDBC,46991,Joe W. Byers
+047031.html,[Rd] Fwd: smart updates and rolling windows,47031,Bradford Cross
+046781.html,[Rd] within in R 2.6.0dev is not found,46781,Peter Dalgaard
+046788.html,[Rd] buglet in dist()  ?,46788,Peter Dalgaard
+046839.html,[Rd] [Fwd: buglet (?) in de.restore()],46839,Peter Dalgaard
+046864.html,[Rd] installing packages (PR#9907),46864,Peter Dalgaard
+046883.html,[Rd] Date vs date,46883,Peter Dalgaard
+046893.html,[Rd] Date vs date,46893,Peter Dalgaard
+046908.html,[Rd] Date vs date (long),46908,Peter Dalgaard
+046930.html,[Rd] delayedAssign,46930,Peter Dalgaard
+046960.html,[Rd] html help fails for named vector objects (PR#9927),46960,Peter Dalgaard
+046980.html,[Rd] Documentation bug: Section 3.3.2 of R-Lang. (PR#9928),46980,Peter Dalgaard
+047000.html,[Rd] modifying large R objects in place,47000,Peter Dalgaard
+047011.html,[Rd] modifying large R objects in place,47011,Peter Dalgaard
+047023.html,[Rd] modifying large R objects in place,47023,Peter Dalgaard
+046825.html,[Rd] Windows Vista Issues,46825,Mark Difford
+046872.html,[Rd] problems for ./configure on Ralpha: gcc related,46872,St&#233;phane Dray
+046880.html,[Rd] problems for ./configure on Ralpha: gcc related,46880,St&#233;phane Dray
+046858.html,[Rd] Font problem (PR#9906),46858,Dirk Eddelbuettel
+046876.html,[Rd] problems for ./configure on Ralpha: gcc related,46876,Dirk Eddelbuettel
+046963.html,[Rd] html help fails for named vector objects (PR#9927),46963,P Ehlers
+046937.html,[Rd] S4 objects in data frames?,46937,Byron Ellis
+046982.html,[Rd] modifying large R objects in place,46982,Byron Ellis
+046918.html,[Rd] How to test if R is running on a Mac,46918,Vladimir Eremeev
+046919.html,[Rd] How to test if R is running on a Mac,46919,Vladimir Eremeev
+046855.html,[Rd] warning upon automatic close of connection,46855,Seth Falcon
+046943.html,[Rd] copying promise,46943,Thomas Friedrichsmeier
+046869.html,[Rd] Jobs in Seattle,46869,Robert Gentleman
+046972.html,[Rd] 'load' does not properly add 'show' methods for classes extending 'list',46972,Robert Gentleman
+046882.html,[Rd] Building an R GUI using gWidgets and RGtk2,46882,"Gerlanc, Daniel"
+046840.html,[Rd] partial correlation function for multivariate time series,46840,Simone Giannerini
+046845.html,[Rd] typo in ?kernel,46845,Simone Giannerini
+046870.html,[Rd] partial correlation function for multivariate time series,46870,Simone Giannerini
+046873.html,[Rd] Reciprocal Mill's Ratio,46873,Simone Giannerini
+046877.html,[Rd] partial correlation function for multivariate time series,46877,Simone Giannerini
+046847.html,[Rd] partial correlation function for multivariate time series,46847,Paul Gilbert
+046863.html,[Rd] installing packages (PR#9907),46863,Paul Gilbert
+046875.html,[Rd] partial correlation function for multivariate time series,46875,Paul Gilbert
+047009.html,[Rd] R &quot;capabilities&quot; on a cluster node,47009,Earl F. Glynn
+046794.html,[Rd] Typo in regex help page,46794,Gregor Gorjanc
+046811.html,[Rd] Demo folder and 00Index file format,46811,Gorjanc Gregor
+046813.html,[Rd] RUnit testing with R CMD check and more (was: R CMD check recursive copy of tests/),46813,Gorjanc Gregor
+046816.html,[Rd] RUnit testing with R CMD check and more,46816,Gorjanc Gregor
+046916.html,[Rd] How to test if R is running on a Mac,46916,Gorjanc Gregor
+046773.html,[Rd] Friday question: negative zero,46773,Gabor Grothendieck
+046778.html,[Rd] within in R 2.6.0dev is not found,46778,Gabor Grothendieck
+046782.html,[Rd] within in R 2.6.0dev is not found,46782,Gabor Grothendieck
+046803.html,[Rd] When 1+2 != 3 (PR#9895),46803,Gabor Grothendieck
+046829.html,[Rd] Rcmd install on Vista,46829,Gabor Grothendieck
+046830.html,[Rd] Rcmd install on Vista,46830,Gabor Grothendieck
+046834.html,[Rd] Windows Vista Issues,46834,Gabor Grothendieck
+046854.html,[Rd] warning upon automatic close of connection,46854,Gabor Grothendieck
+046886.html,[Rd] Building an R GUI using gWidgets and RGtk2,46886,Gabor Grothendieck
+046887.html,[Rd] Date vs date,46887,Gabor Grothendieck
+046888.html,[Rd] Building an R GUI using gWidgets and RGtk2,46888,Gabor Grothendieck
+046894.html,[Rd] r cmd build,46894,Gabor Grothendieck
+046896.html,[Rd] r cmd build,46896,Gabor Grothendieck
+046898.html,[Rd] r cmd build,46898,Gabor Grothendieck
+046909.html,[Rd] Date vs date (long),46909,Gabor Grothendieck
+046924.html,[Rd] delayedAssign,46924,Gabor Grothendieck
+046931.html,[Rd] delayedAssign,46931,Gabor Grothendieck
+046932.html,[Rd] copying promise,46932,Gabor Grothendieck
+046949.html,[Rd] warning upon automatic close of connection,46949,Gabor Grothendieck
+046966.html,[Rd] Inspecting promises,46966,Gabor Grothendieck
+046990.html,[Rd] delayedAssign,46990,Gabor Grothendieck
+046993.html,[Rd] delayedAssign,46993,Gabor Grothendieck
+046998.html,[Rd] delayedAssign,46998,Gabor Grothendieck
+047003.html,[Rd] Aggregate factor names,47003,Gabor Grothendieck
+047005.html,[Rd] Aggregate factor names,47005,Gabor Grothendieck
+047032.html,[Rd] as.Date.numeric,47032,Gabor Grothendieck
+047033.html,[Rd] Ryacas check,47033,Gabor Grothendieck
+047036.html,[Rd] Ryacas check,47036,Gabor Grothendieck
+046891.html,[Rd] Building an R GUI using gWidgets and RGtk2,46891,Hans-Peter
+046801.html,[Rd] When 1+2 != 3 (PR#9895),46801, (Ted Harding)
+046804.html,[Rd] When 1+2 != 3 (PR#9895),46804, (Ted Harding)
+046821.html,[Rd] Windows Vista Issues,46821,David Henderson
+046971.html,[Rd] non-linear fitting (nls) and confidence limits,46971,Joerg van den Hoff
+046780.html,[Rd] Friday question: negative zero,46780,Jeffrey Horner
+046790.html,[Rd] Memory leak possible when redirecting R console,46790,Jeffrey Horner
+047025.html,[Rd] R-Server remotecontrolled via browser-GUI,47025,Jeffrey Horner
+047034.html,[Rd] CRAN packages with invalid maintainer email addresses,47034,Kurt Hornik
+046935.html,"[Rd] packages MANOR, qvalue, and tkWidgets fail install on Fedora 7 with latest R-beta build",46935,Mark W Kimpel
+046848.html,[Rd] gcc-sjlj,46848,"Kuhn, Max"
+046851.html,[Rd] gcc-sjlj,46851,"Kuhn, Max"
+046923.html,[Rd] Best practices - R CMD check and vignettes,46923,"Kuhn, Max"
+047035.html,[Rd] Ryacas check,47035,Duncan Temple Lang
+047037.html,[Rd] Ryacas check,47037,Duncan Temple Lang
+047002.html,[Rd] Aggregate factor names,47002,Mike Lawrence
+047004.html,[Rd] Aggregate factor names,47004,Mike Lawrence
+046805.html,[Rd] Consistency of serialize(): please enlighten me,46805,Hin-Tak Leung
+046879.html,[Rd] problems for ./configure on Ralpha: gcc related,46879,Hin-Tak Leung
+046929.html,[Rd] How to test if R is running on a Mac,46929,Hin-Tak Leung
+046948.html,[Rd] How to test if R is running on a Mac,46948,Hin-Tak Leung
+046941.html,[Rd] aperm doesn't copy attributes,46941,"Liaw, Andy"
+046814.html,[Rd] Windows Vista Issues,46814,Uwe Ligges
+046822.html,[Rd] Windows Vista Issues,46822,Uwe Ligges
+046849.html,[Rd] gcc-sjlj,46849,Uwe Ligges
+046853.html,[Rd] &quot;could not find function&quot; in R CMD check,46853,Uwe Ligges
+046897.html,[Rd] r cmd build,46897,Uwe Ligges
+046970.html,[Rd] contributed CRAN packages / Windows binaries for R-2.6.0,46970,Uwe Ligges
+046922.html,[Rd] Best practices - R CMD check and vignettes,46922,James MacDonald
+046926.html,[Rd] Best practices - R CMD check and vignettes,46926,James W. MacDonald
+046791.html,[Rd] sweep sanity checking?,46791,Martin Maechler
+046774.html,[Rd] Friday question: negative zero,46774,Steven McKinney
+046802.html,[Rd] locales and readLines,46802,Martin Morgan
+046815.html,[Rd] RUnit testing with R CMD check and more,46815,Martin Morgan
+046933.html,[Rd] Sweave vignettes and bitmap on windows,46933,Martin Morgan
+046936.html,"[Rd] packages MANOR, qvalue, and tkWidgets fail install on Fedora 7 with latest R-beta build",46936,Martin Morgan
+046942.html,[Rd] Locale problems with too-fancy quotes in Windows CMD.exe,46942,Martin Morgan
+046945.html,[Rd] Locale problems with too-fancy quotes in Windows CMD.exe,46945,Martin Morgan
+046968.html,[Rd] 'load' does not properly add 'show' methods for classes extending 'list',46968,Martin Morgan
+047021.html,[Rd] R-Server remotecontrolled via browser-GUI,47021,Martin Morgan
+047030.html,[Rd] CHAR () and Rmpi,47030,Martin Morgan
+046831.html,[Rd] Modules which require gcc4 to build,46831,Iain Morrison
+046771.html,[Rd] compiling R-devel,46771,Duncan Murdoch
+046772.html,[Rd] Friday question: negative zero,46772,Duncan Murdoch
+046798.html,[Rd] When 1+2 != 3 (PR#9895),46798,Duncan Murdoch
+046819.html,[Rd] trivial typo Foreign.Rd (base),46819,Duncan Murdoch
+046824.html,[Rd] trivial typo R-exts.texi,46824,Duncan Murdoch
+046827.html,[Rd] orthographic mistake in ?citation (PR#9901),46827,Duncan Murdoch
+046836.html,[Rd] format text help pages Windows,46836,Duncan Murdoch
+046838.html,[Rd] [Fwd: buglet (?) in de.restore()],46838,Duncan Murdoch
+046844.html,[Rd] trivial typo in ?AIC,46844,Duncan Murdoch
+046846.html,[Rd] typo in ?kernel,46846,Duncan Murdoch
+046850.html,[Rd] gcc-sjlj,46850,Duncan Murdoch
+046895.html,[Rd] r cmd build,46895,Duncan Murdoch
+046920.html,[Rd] How to test if R is running on a Mac,46920,Duncan Murdoch
+046956.html,[Rd] RSS feed of NEWS items,46956,Duncan Murdoch
+046958.html,[Rd] How can I list unregistered routines from loaded DLLs?,46958,Duncan Murdoch
+047017.html,[Rd] modifying large R objects in place,47017,Duncan Murdoch
+046865.html,[Rd] chartr better,46865,Ei-ji Nakama
+046973.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on CRAN,46973,Herve Pages
+046985.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on CRAN,46985,Herve Pages
+046987.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on CRAN,46987,Herve Pages
+046988.html,[Rd] Virtual class with no slots,46988,Herve Pages
+046989.html,[Rd] breaking my &quot;length&quot; method also breaks str(),46989,Herve Pages
+046983.html,[Rd] Lack of final newline in write.dcf changes append usage,46983,Roger Peng
+046784.html,[Rd] Friday question: negative zero,46784,Tony Plate
+046776.html,[Rd] compiling R-devel *on Windows*,46776,Prof Brian Ripley
+046779.html,[Rd] serialized plot object (for a certain device),46779,Prof Brian Ripley
+046793.html,[Rd] locales and readLines,46793,Prof Brian Ripley
+046817.html,[Rd] (PR#9896) read.spss converts string variables with,46817,Prof Brian Ripley
+046889.html,[Rd] Date vs date,46889,Prof Brian Ripley
+046900.html,[Rd] Using gsl libraries in R packages,46900,Prof Brian Ripley
+046902.html,[Rd] Call C code from R,46902,Prof Brian Ripley
+046904.html,[Rd] (PR#9896) read.spss converts string variables with,46904,Prof Brian Ripley
+046905.html,"[Rd] R-2.6.0 for Windows, semi-transparent colours and layout()",46905,Prof Brian Ripley
+046911.html,[Rd] Re-attaching a package environment drops the attributes,46911,Prof Brian Ripley
+046915.html,[Rd] chartr better,46915,Prof Brian Ripley
+046939.html,[Rd] How to test if R is running on a Mac,46939,Prof Brian Ripley
+046944.html,[Rd] Locale problems with too-fancy quotes in Windows CMD.exe,46944,Prof Brian Ripley
+046961.html,[Rd] html help fails for named vector objects (PR#9927),46961,Prof Brian Ripley
+046965.html,[Rd] html help fails for named vector objects (PR#9927),46965,Prof Brian Ripley
+046969.html,[Rd] 'load' does not properly add 'show' methods for classes extending 'list',46969,Prof Brian Ripley
+046984.html,[Rd] Lack of final newline in write.dcf changes append usage,46984,Prof Brian Ripley
+047001.html,[Rd] modifying large R objects in place,47001,Prof Brian Ripley
+047006.html,[Rd] Aggregate factor names,47006,Prof Brian Ripley
+047014.html,[Rd] windows device transparency issue,47014,Prof Brian Ripley
+047022.html,[Rd] modifying large R objects in place,47022,Prof Brian Ripley
+047027.html,[Rd] CHAR () and Rmpi,47027,Prof Brian Ripley
+046806.html,[Rd] Windows Vista Issues,46806,Dominick Samperi
+046820.html,[Rd] Windows Vista Issues,46820,Dominick Samperi
+046833.html,[Rd] Windows Vista Issues,46833,Dominick Samperi
+046842.html,[Rd] Test posting,46842,Dominick Samperi
+046940.html,[Rd] How to test if R is running on a Mac,46940,Keith Satterley
+046783.html,[Rd] Friday question: negative zero,46783,Petr Savicky
+046785.html,[Rd] Friday question: negative zero,46785,Petr Savicky
+046797.html,[Rd] When 1+2 != 3 (PR#9895),46797,Petr Savicky
+046964.html,[Rd] initial scrambling of seed in do_setseed / RNG_Init,46964,Petr Savicky
+046981.html,[Rd] modifying large R objects in place,46981,Petr Savicky
+046995.html,[Rd] modifying large R objects in place,46995,Petr Savicky
+046996.html,[Rd] modifying large R objects in place,46996,Petr Savicky
+047010.html,[Rd] modifying large R objects in place,47010,Petr Savicky
+047015.html,[Rd] modifying large R objects in place,47015,Petr Savicky
+047028.html,[Rd] modifying large R objects in place,47028,Petr Savicky
+046792.html,[Rd] Snow on Windows Cluster,46792,Markus Schmidberger
+046867.html,[Rd] RFE: Add &quot;...&quot; args to barplot()'s xyrect() function calls,46867,Marc Schwartz
+046957.html,[Rd] How can I list unregistered routines from loaded DLLs?,46957,"Shaw, Jason"
+046857.html,[Rd] Font problem (PR#9906),46857,Oleg Sklyar
+046903.html,[Rd] Call C code from R,46903,Oleg Sklyar
+046917.html,[Rd] How to test if R is running on a Mac,46917,Oleg Sklyar
+046921.html,[Rd] building a package - shared library loading problem,46921,Konrad Smolinski
+047020.html,[Rd] R-Server remotecontrolled via browser-GUI,47020,Greg Snow
+046881.html,[Rd] Date vs date,46881,Terry Therneau
+046951.html,[Rd] Date vs date (long),46951,Terry Therneau
+046841.html,[Rd] Snow on Windows Cluster,46841,Luke Tierney
+046967.html,[Rd] Inspecting promises,46967,Luke Tierney
+046992.html,[Rd] delayedAssign,46992,Luke Tierney
+046997.html,[Rd] delayedAssign,46997,Luke Tierney
+047016.html,[Rd] modifying large R objects in place,47016,Luke Tierney
+046868.html,[Rd] Overriding optimisation flags,46868,Ernest Turro
+046946.html,[Rd] suggestion for read.table,46946,Benjamin Tyner
+046947.html,[Rd] suggestion for read.table,46947,Benjamin Tyner
+046874.html,[Rd] problems for ./configure on Ralpha: gcc related,46874,Simon Urbanek
+046925.html,[Rd] building a package - shared library loading problem,46925,Simon Urbanek
+046974.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on	CRAN,46974,Simon Urbanek
+046976.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on	CRAN,46976,Simon Urbanek
+046977.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on	CRAN,46977,Simon Urbanek
+046994.html,[Rd] rJava and RJDBC,46994,Simon Urbanek
+046777.html,[Rd] serialized plot object (for a certain device),46777,Tobias Verbeke
+046818.html,[Rd] trivial typo Foreign.Rd (base),46818,Tobias Verbeke
+046823.html,[Rd] trivial typo R-exts.texi,46823,Tobias Verbeke
+046835.html,[Rd] format text help pages Windows,46835,Tobias Verbeke
+047026.html,[Rd] CHAR () and Rmpi,47026,Hao Yu
+047038.html,[Rd] CHAR () and Rmpi,47038,Hao Yu
+046954.html,"[Rd] Bug with Cor(..., method='spearman&quot;) and by() (PR#9921)",46954,HDoran at air.org
+046959.html,[Rd] html help fails for named vector objects (PR#9927),46959,John.Maindonald at anu.edu.au
+046979.html,[Rd] Documentation bug: Section 3.3.2 of R-Lang. (PR#9928),46979,S.P.Bird at damtp.cam.ac.uk
+046952.html,[Rd] rbind.data.frame converts character column to factor (PR#9917),46952,sebastien.villemot at ens.fr
+046828.html,"[Rd] &quot;bug&quot; and patch: quadratic running time for strsplit(...,	fixed=TRUE) (PR#9902)",46828,jbrzusto at fastmail.fm
+046859.html,[Rd] installing packages (PR#9907),46859,alexander.jerneck at gmail.com
+046775.html,[Rd] Friday question: negative zero,46775,deepayan.sarkar at gmail.com
+046826.html,[Rd] orthographic mistake in ?citation (PR#9901),46826,lbraglia at gmail.com
+046796.html,[Rd] When 1+2 != 3 (PR#9895),46796,marco.vicentini at gmail.com
+047018.html,[Rd] this is just a test...,47018,idontwant googeltospyafterme
+047019.html,[Rd] R-Server remotecontrolled via browser-GUI,47019,idontwant googeltospyafterme
+047029.html,[Rd] R-Server remotecontrolled via browser-GUI,47029,idontwant googeltospyafterme
+046953.html,[Rd] How to test if R is running on a Mac,46953,stefano iacus
+046938.html,[Rd] How to test if R is running on a Mac,46938,stefano iacus
+046795.html,[Rd] read.spss converts string variables with value labels to &lt;NA&gt;	(PR#9896),46795,honza at ifolk.cz
+046812.html,[Rd] (PR#9896) read.spss converts string variables with,46812,honza at ifolk.cz
+046906.html,[Rd] *.Rd file: space after topic in &quot;\alias{topic }&quot; should be	ignored (PR#9914),46906,bill at insightful.com
+046907.html,[Rd] *.Rd file: space after topic in &quot;\alias{topic }&quot; should be	(PR#9915),46907,bill at insightful.com
+046810.html,[Rd] compiling R-devel *on Windows*,46810,apjaworski at mmm.com
+046807.html,[Rd] Hyball in R? (Factor analysis &amp; exploratory SEM),46807,Chris at rudypark.net
+046832.html,"[Rd] &quot;bug&quot; and patch: quadratic running time for strsplit(...,	fixed=TRUE) (PR#9902)",46832,maechler at stat.math.ethz.ch
+046808.html,[Rd] (PR#9896) read.spss converts string variables with value,46808,ripley at stats.ox.ac.uk
+046890.html,[Rd] (PR#9910) Incomplete library linking for grDevices.so on,46890,ripley at stats.ox.ac.uk
+046912.html,[Rd] (PR#9915) *.Rd file: space after topic in &quot;\alias{topic }&quot;,46912,ripley at stats.ox.ac.uk
+046955.html,[Rd] (PR#9917) rbind.data.frame converts character column to,46955,ripley at stats.ox.ac.uk
+046962.html,[Rd] html help fails for named vector objects (PR#9927),46962,ripley at stats.ox.ac.uk
+046871.html,[Rd] Reciprocal Mill's Ratio,46871,maj at stats.waikato.ac.nz
+046934.html,[Rd] Sweave vignettes and bitmap on windows,46934,tshort
+046856.html,[Rd] Font problem (PR#9906),46856,manuel.munoz at uca.es
+046885.html,[Rd] Incomplete library linking for grDevices.so on Solaris	(PR#9910),46885,gordonp at ucalgary.ca
+046950.html,[Rd] Call C code from R,46950,christophe vuadens
+046884.html,[Rd] Date vs date,46884,hadley wickham
+046975.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on	CRAN,46975,hadley wickham
+046978.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on	CRAN,46978,hadley wickham
+046986.html,[Rd] rggobi not in bin/macosx/universal/contrib/2.6/PACKAGES on	CRAN,46986,hadley wickham
+047013.html,[Rd] to overcome error while computing sd for each subset of data	(PR#9931),47013,anjalishitole at yahoo.co.in
+046866.html,[Rd] julian: origin argument does not accept POSIXlt objects	(PR#9908),46866,lore at zhaw.ch
+046901.html,[Rd] Call C code from R,46901,&#1054;&#1083;&#1100;&#1075;&#1072; &#1050;. &#1050;&#1072;&#1084;&#1085;&#1077;&#1074;&#1072; 
+046914.html,[Rd] Welcome to the &quot;R-devel&quot; mailing list,46914,&#39532;&#20256;&#39321;

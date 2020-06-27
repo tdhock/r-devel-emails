@@ -1,0 +1,181 @@
+link,Subject,id,author
+075372.html,[Rd] configure: PATH not honoured when locating kpsewhich,75372,Dr. D. P. Kreil (Boku)
+075357.html,[Rd] OpenBLAS in everyday R?,75357,Avraham Adler
+075369.html,[Rd] OpenBLAS in everyday R?,75369,Avraham Adler
+075436.html,[Rd] Why R should never move to git,75436,Juan Telleria Ruiz de Aguirre
+075437.html,[Rd] Why R should never move to git,75437,Juan Telleria Ruiz de Aguirre
+075445.html,[Rd] Why R should never move to git,75445,Juan Telleria Ruiz de Aguirre
+075382.html,[Rd] Coping with non-standard evaluation in R program analysis,75382,Gabriel Becker
+075472.html,[Rd] as.list method for by Objects,75472,Gabriel Becker
+075498.html,[Rd] Best practices in developing package: From a single file,75498,Gabriel Becker
+075468.html,[Rd] Best practices in developing package: From a single file,75468,Kenny Bell
+075435.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,75435,Henrik Bengtsson
+075449.html,[Rd] R (&gt;= 3.4.0): integer-to-double coercion in comparisons no longer done (a good thing),75449,Henrik Bengtsson
+075335.html,[Rd] silent recycling in logical indexing,75335,"Berry, Charles"
+075338.html,[Rd] silent recycling in logical indexing,75338,"Berry, Charles"
+075391.html,[Rd] How to address the following: CRAN packages not using Suggests conditionally,75391,Ulrich Bodenhofer
+075393.html,[Rd] How to address the following: CRAN packages not using Suggests conditionally,75393,Ulrich Bodenhofer
+075407.html,[Rd] How to address the following: CRAN packages not using Suggests conditionally,75407,Ulrich Bodenhofer
+075332.html,[Rd] silent recycling in logical indexing,75332,Ben Bolker
+075336.html,[Rd] silent recycling in logical indexing,75336,Ben Bolker
+075337.html,[Rd] silent recycling in logical indexing,75337,Ben Bolker
+075410.html,[Rd] fix potential integer overflow in mantelhaen.test ?,75410,Ben Bolker
+075438.html,[Rd] bugzilla issues,75438,Ben Bolker
+075347.html,[Rd] Fwd: R/MKL Intel 2018 Compatibility,75347,Guillaume Collange
+075464.html,[Rd] Best practices in developing package: From a single file,75464,"Cook, Malcolm"
+075413.html,[Rd] Why R should never move to git,75413,G&#225;bor Cs&#225;rdi
+075416.html,[Rd] Why R should never move to git,75416,G&#225;bor Cs&#225;rdi
+075418.html,[Rd] Why R should never move to git,75418,G&#225;bor Cs&#225;rdi
+075420.html,[Rd] Why R should never move to git,75420,G&#225;bor Cs&#225;rdi
+075427.html,[Rd] Why R should never move to git,75427,G&#225;bor Cs&#225;rdi
+075477.html,[Rd] Why R should never move to git,75477,G&#225;bor Cs&#225;rdi
+075377.html,[Rd] [R-win] Bug 17159 - recursive dir.create() fails on windows shares due to permissions (MMaechler: Resending to R-windows at R-pr..),75377,Peter Dalgaard
+075379.html,[Rd] [R-win] Bug 17159 - recursive dir.create() fails on windows shares due to permissions (MMaechler: Resending to R-windows at R-pr..),75379,Peter Dalgaard
+075334.html,[Rd] silent recycling in logical indexing,75334,William Dunlap
+075339.html,[Rd] silent recycling in logical indexing,75339,William Dunlap
+075349.html,[Rd] Fwd: R/MKL Intel 2018 Compatibility,75349,William Dunlap
+075390.html,[Rd] as.character(list(NA)),75390,William Dunlap
+075403.html,[Rd] as.character(list(NA)),75403,William Dunlap
+075389.html,[Rd] as.character(list(NA)),75389,Dirk Eddelbuettel
+075423.html,[Rd] Why R should never move to git,75423,Dirk Eddelbuettel
+075453.html,[Rd] Searching R Packages,75453,Dirk Eddelbuettel
+075465.html,[Rd] Best practices in developing package: From a single file,75465,Dirk Eddelbuettel
+075466.html,[Rd] CRAN indices out of whack (for at least macOS),75466,Dirk Eddelbuettel
+075489.html,[Rd] Best practices in developing package: From a single file,75489,Dirk Eddelbuettel
+075499.html,[Rd] CRAN indices out of whack (for at least macOS),75499,Dirk Eddelbuettel
+075429.html,[Rd] Why R should never move to git,75429,Mario Emmenlauer
+075373.html,[Rd] searching co-mentor for gsoc18,75373,Vissarion Fisikopoulos
+075384.html,[Rd] bug fix integer overflow in medpolish function,75384,Ludger Goeminne
+075448.html,[Rd] Searching R Packages,75448,Spencer Graves
+075456.html,[Rd] help(pac=xxx) get data from CRAN?,75456,Spencer Graves
+075333.html,[Rd] Fixed BLAS tests for external BLAS library,75333,Simon Guest
+075352.html,[Rd] Fixed BLAS tests for external BLAS library,75352,Simon Guest
+075365.html,[Rd] R CMD build then check fails on R-devel due to	serialization version,75365,Jim Hester
+075323.html,[Rd] Wish List: base::source() + Add Execution Time Argument,75323,Tomas Kalibera
+075342.html,[Rd] Fixed BLAS tests for external BLAS library,75342,Tomas Kalibera
+075348.html,[Rd] Fwd: R/MKL Intel 2018 Compatibility,75348,Tomas Kalibera
+075371.html,[Rd] R CMD build then check fails on R-devel due to serialization version,75371,Tomas Kalibera
+075387.html,[Rd] Buffer overflow in cairoBM.c line 402,75387,Tomas Kalibera
+075443.html,[Rd] Fortran programs not writing stdout on windows,75443,Tomas Kalibera
+075439.html,[Rd] utils::install.packages with quiet=TRUE fails for source packages on Windows,75439,Andreas Kersting
+075440.html,[Rd] utils::install.packages with quiet=TRUE fails for source packages on Windows,75440,Andreas Kersting
+075444.html,[Rd] utils::install.packages with quiet=TRUE fails for source packages on Windows,75444,Andreas Kersting
+075450.html,[Rd] R (&gt;= 3.4.0): integer-to-double coercion in comparisons no longer done (a good thing),75450,Michael Lawrence
+075455.html,[Rd] bug [methods]: double execution of `insertSource` within the same session does not work,75455,Michael Lawrence
+075462.html,[Rd] as.list method for by Objects,75462,Michael Lawrence
+075474.html,[Rd] as.list method for by Objects,75474,Michael Lawrence
+075480.html,[Rd] as.list method for by Objects,75480,Michael Lawrence
+075495.html,[Rd] Best practices in developing package: From a single file,75495,Michael Lawrence
+075501.html,[Rd] bug [methods]: double execution of `insertSource` within the same session does not work,75501,Michael Lawrence
+075325.html,[Rd] R CMD check warning about compiler warning flags,75325,Uwe Ligges
+075441.html,[Rd] bugzilla issues,75441,Uwe Ligges
+075502.html,[Rd] CRAN indices out of whack (for at least macOS),75502,Uwe Ligges
+075330.html,[Rd] Community Feedback: Git Repository for R-Devel,75330,Mark van der Loo
+075452.html,[Rd] Searching R Packages,75452,Mark van der Loo
+075491.html,[Rd] Best practices in developing package: From a single file,75491,Mark van der Loo
+075343.html,[Rd] Fixed BLAS tests for external BLAS library,75343,Martin Maechler
+075396.html,[Rd] Better error message in loadNamespace,75396,Martin Maechler
+075406.html,[Rd] Inconsistent rank in qr(),75406,Martin Maechler
+075447.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,75447,Martin Maechler
+075459.html,"[Rd] withTimeout bug,	it does not work properly with nlme anymore",75459,Martin Maechler
+075402.html,[Rd] as.character(list(NA)),75402,Robert McGehee
+075328.html,[Rd] Coping with non-standard evaluation in R program analysis,75328,Peter Meilstrup
+075375.html,[Rd] Bug 17159 - recursive dir.create() fails on windows shares due to permissions,75375,Joris Meys
+075380.html,[Rd] [R-win] Bug 17159 - recursive dir.create() fails on windows shares due to permissions (MMaechler: Resending to R-windows at R-pr..),75380,Joris Meys
+075428.html,[Rd] Why R should never move to git,75428,Joris Meys
+075485.html,[Rd] Best practices in developing package: From a single file,75485,Joris Meys
+075490.html,[Rd] Best practices in developing package: From a single file,75490,Joris Meys
+075395.html,[Rd] How to address the following: CRAN packages not using Suggests conditionally,75395,Martin Morgan
+075431.html,[Rd] Why R should never move to git,75431,Martin Morgan
+075326.html,[Rd] R CMD check warning about compiler warning flags,75326,Duncan Murdoch
+075360.html,[Rd] R CMD build then check fails on R-devel due to serialization version,75360,Duncan Murdoch
+075367.html,"[Rd] R-devel Digest, Vol 179, Issue 7",75367,Duncan Murdoch
+075385.html,[Rd] bug fix integer overflow in medpolish function,75385,Duncan Murdoch
+075412.html,[Rd] Why R should never move to git,75412,Duncan Murdoch
+075415.html,[Rd] Why R should never move to git,75415,Duncan Murdoch
+075417.html,[Rd] Why R should never move to git,75417,Duncan Murdoch
+075419.html,[Rd] Why R should never move to git,75419,Duncan Murdoch
+075422.html,[Rd] Why R should never move to git,75422,Duncan Murdoch
+075425.html,[Rd] Why R should never move to git,75425,Duncan Murdoch
+075426.html,[Rd] Why R should never move to git,75426,Duncan Murdoch
+075432.html,[Rd] Why R should never move to git,75432,Duncan Murdoch
+075433.html,[Rd] Why R should never move to git,75433,Duncan Murdoch
+075463.html,[Rd] Best practices in developing package: From a single file,75463,Duncan Murdoch
+075481.html,[Rd] Best practices in developing package: From a single file,75481,Duncan Murdoch
+075482.html,[Rd] Best practices in developing package: From a single file,75482,Duncan Murdoch
+075486.html,[Rd] Best practices in developing package: From a single file,75486,Duncan Murdoch
+075487.html,[Rd] Best practices in developing package: From a single file,75487,Duncan Murdoch
+075488.html,[Rd] Best practices in developing package: From a single file,75488,Duncan Murdoch
+075354.html,[Rd] OpenBLAS in everyday R?,75354,Keith O'Hara
+075356.html,[Rd] OpenBLAS in everyday R?,75356,Keith O'Hara
+075358.html,[Rd] OpenBLAS in everyday R?,75358,Keith O'Hara
+075368.html,[Rd] OpenBLAS in everyday R?,75368,Keith O'Hara
+075399.html,[Rd] Inconsistent rank in qr(),75399,Keith O'Hara
+075405.html,[Rd] Inconsistent rank in qr(),75405,Keith O'Hara
+075409.html,[Rd] Inconsistent rank in qr(),75409,Keith O'Hara
+075430.html,[Rd] Why R should never move to git,75430,Jari Oksanen
+075351.html,[Rd] resolving a names conflict,75351,Thierry Onkelinx
+075458.html,[Rd] LCONS undefined for R_NO_REMAP,75458,Jeroen Ooms
+075401.html,[Rd] as.character(list(NA)),75401,Herv&#233; Pag&#232;s
+075404.html,[Rd] as.character(list(NA)),75404,Herv&#233; Pag&#232;s
+075467.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,75467,Herv&#233; Pag&#232;s
+075469.html,[Rd] as.list method for by Objects,75469,Herv&#233; Pag&#232;s
+075470.html,[Rd] as.list method for by Objects,75470,Herv&#233; Pag&#232;s
+075473.html,[Rd] as.list method for by Objects,75473,Herv&#233; Pag&#232;s
+075479.html,[Rd] as.list method for by Objects,75479,Herv&#233; Pag&#232;s
+075414.html,[Rd] Why R should never move to git,75414,Hugh Parsonage
+075324.html,[Rd] Coping with non-standard evaluation in R program analysis,75324,Evan James Patterson
+075394.html,[Rd] Better error message in loadNamespace,75394,Thomas Lin Pedersen
+075397.html,[Rd] Better error message in loadNamespace,75397,Thomas Lin Pedersen
+075388.html,[Rd] as.character(list(NA)),75388,Patrick Perry
+075374.html,[Rd] searching co-mentor for gsoc18,75374,Brian G. Peterson
+075461.html,[Rd] Best practices in developing package: From a single file,75461,Brian G. Peterson
+075492.html,[Rd] Best practices in developing package: From a single file,75492,"Pfaff, Bernhard Dr."
+075359.html,[Rd] R CMD build then check fails on R-devel due to serialization	version,75359,Neal Richardson
+075493.html,[Rd] Why R should never move to git,75493,Barry Rowlingson
+075386.html,[Rd] Buffer overflow in cairoBM.c line 402,75386,Omri Schwarz
+075381.html,[Rd] wrong matrix dimension in sparseQR,75381,Serguei Sokol
+075383.html,[Rd] wrong matrix dimension in sparseQR,75383,Serguei Sokol
+075398.html,[Rd] Inconsistent rank in qr(),75398,Serguei Sokol
+075400.html,[Rd] Inconsistent rank in qr(),75400,Serguei Sokol
+075408.html,[Rd] Inconsistent rank in qr(),75408,Serguei Sokol
+075457.html,[Rd] as.list method for by Objects,75457,Dario Strbenac
+075460.html,[Rd] Best practices in developing package: From a single file,75460,"Suzen, Mehmet"
+075471.html,[Rd] Best practices in developing package: From a single file,75471,"Suzen, Mehmet"
+075475.html,[Rd] Best practices in developing package: From a single file,75475,"Suzen, Mehmet"
+075476.html,[Rd] Why R should never move to git,75476,"Suzen, Mehmet"
+075478.html,[Rd] Why R should never move to git,75478,"Suzen, Mehmet"
+075496.html,[Rd] Best practices in developing package: From a single file,75496,"Suzen, Mehmet"
+075497.html,[Rd] Why R should never move to git,75497,"Suzen, Mehmet"
+075454.html,[Rd] bug [methods]: double execution of `insertSource` within the same session does not work,75454,Demetrio Rodriguez T.
+075327.html,[Rd] Community Feedback: Git Repository for R-Devel,75327,Juan Telleria
+075340.html,[Rd] Community Feedback: Git Repository for R-Devel,75340,Juan Telleria
+075341.html,[Rd] R CMD check warning about compiler warning flags,75341,Juan Telleria
+075344.html,[Rd] Community Feedback: Git Repository for R-Devel,75344,Juan Telleria
+075345.html,[Rd] Community Feedback: Git Repository for R-Devel,75345,Juan Telleria
+075361.html,[Rd] OpenBLAS in everyday R?,75361,Juan Telleria
+075362.html,[Rd] OpenBLAS in everyday R?,75362,Juan Telleria
+075376.html,[Rd] OpenBLAS in everyday R?,75376,Juan Telleria
+075350.html,[Rd] resolving a names conflict,75350,"Therneau, Terry M., Ph.D."
+075346.html,[Rd] Bug 17159 - recursive dir.create() fails on windows shares due to permissions,75346,"Thompson, Pete"
+075378.html,[Rd] [R-win] Bug 17159 - recursive dir.create() fails on windows shares due to permissions (MMaechler: Resending to R-windows at R-pr..),75378,"Thompson, Pete"
+075329.html,[Rd] Coping with non-standard evaluation in R program analysis,75329,Benjamin Tyner
+075353.html,[Rd] OpenBLAS in everyday R?,75353,Benjamin Tyner
+075355.html,[Rd] OpenBLAS in everyday R?,75355,Benjamin Tyner
+075363.html,[Rd] OpenBLAS in everyday R?,75363,Benjamin Tyner
+075370.html,[Rd] OpenBLAS in everyday R?,75370,Benjamin Tyner
+075446.html,[Rd] bugzilla issues,75446,Simon Urbanek
+075500.html,[Rd] CRAN indices out of whack (for at least macOS),75500,Simon Urbanek
+075451.html,[Rd] Searching R Packages,75451,Ravi Varadhan
+075331.html,[Rd] Coping with non-standard evaluation in R program analysis,75331,jan Vitek
+075483.html,[Rd] Best practices in developing package: From a single file,75483,Hadley Wickham
+075484.html,[Rd] Best practices in developing package: From a single file,75484,Hadley Wickham
+075494.html,[Rd] Best practices in developing package: From a single file,75494,Yihui Xie
+075364.html,[Rd] OpenBLAS in everyday R?,75364,Ista Zahn
+075411.html,[Rd] R-3.4.3 frequently segfaults on HP-UX 11.31,75411,Dmitry Zotikov
+075442.html,[Rd] utils::install.packages with quiet=TRUE fails for source packages on Windows,75442,peter dalgaard
+075366.html,[Rd] R CMD build then check fails on R-devel due to	serialization version,75366,luke-tierney at uiowa.edu
+075392.html,[Rd] How to address the following: CRAN packages not using Suggests conditionally,75392,I&#241;aki &#218;car
+075421.html,[Rd] Why R should never move to git,75421,I&#241;aki &#218;car
+075424.html,[Rd] Why R should never move to git,75424,I&#241;aki &#218;car
+075434.html,[Rd] Why R should never move to git,75434,I&#241;aki &#218;car

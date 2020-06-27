@@ -1,0 +1,162 @@
+link,Subject,id,author
+076472.html,[Rd] CRAN: R 3.5.0 Not Available,76472,Juan Telleria Ruiz de Aguirre
+076526.html,"[Rd] Code Optimization: print.data.frame + as.data.frame(head(x, n = options(&quot;max.print&quot;)))",76526,Juan Telleria Ruiz de Aguirre
+076527.html,"[Rd]  Code Optimization: print.data.frame + as.data.frame(head(x, n = options(&quot;max.print&quot;)))",76527,Juan Telleria Ruiz de Aguirre
+076438.html,[Rd] persp command,76438,Robert Baer
+076404.html,[Rd] Testing for vectors,76404,Rui Barradas
+076373.html,[Rd] Parametrized Vignettest in R packages,76373,Gabe Becker
+076402.html,[Rd] Testing for vectors,76402,Gabe Becker
+076406.html,[Rd] Testing for vectors,76406,Gabe Becker
+076463.html,[Rd] Model formulas with explicit references,76463,"Berry, Charles"
+076387.html,[Rd] Inconsistencies when extracting with non-integer numeric indices near zero,76387,Emil Bode
+076391.html,[Rd] write.table with quote=TRUE fails on nested data.frames,76391,Emil Bode
+076478.html,[Rd] oddity in transform,76478,Emil Bode
+076519.html,[Rd] apply with zero-row matrix,76519,Emil Bode
+076394.html,[Rd] undefined symbol: cholmod_factorize_p,76394,G&#246;ran Brostr&#246;m
+076397.html,[Rd] undefined symbol: cholmod_factorize_p,76397,G&#246;ran Brostr&#246;m
+076398.html,[Rd] undefined symbol: cholmod_factorize_p (solved),76398,G&#246;ran Brostr&#246;m
+076424.html,[Rd] Top level \Sexpr and R CMD check,76424,G&#225;bor Cs&#225;rdi
+076426.html,[Rd] Top level \Sexpr and R CMD check,76426,G&#225;bor Cs&#225;rdi
+076428.html,[Rd] Top level \Sexpr and R CMD check,76428,G&#225;bor Cs&#225;rdi
+076429.html,[Rd] Top level \Sexpr and R CMD check,76429,G&#225;bor Cs&#225;rdi
+076442.html,[Rd] Top level \Sexpr and R CMD check,76442,G&#225;bor Cs&#225;rdi
+076489.html,[Rd] Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76489,G&#225;bor Cs&#225;rdi
+076493.html,[Rd]  Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76493,G&#225;bor Cs&#225;rdi
+076496.html,[Rd]  Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76496,G&#225;bor Cs&#225;rdi
+076498.html,[Rd]  Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76498,G&#225;bor Cs&#225;rdi
+076500.html,[Rd] re-throwing an interrupt condition,76500,G&#225;bor Cs&#225;rdi
+076503.html,[Rd] re-throwing an interrupt condition,76503,G&#225;bor Cs&#225;rdi
+076505.html,[Rd] re-throwing an interrupt condition,76505,G&#225;bor Cs&#225;rdi
+076507.html,[Rd] re-throwing an interrupt condition,76507,G&#225;bor Cs&#225;rdi
+076393.html,[Rd] NEWS vs. inst/NEWS,76393,William Dunlap
+076510.html,[Rd] odd behavior of names,76510,William Dunlap
+076491.html,[Rd] Possible To Enable Building R With Cairo But Without X11 Dependencies?,76491,Dirk Eddelbuettel
+076517.html,[Rd] Fwd: help building very old R,76517,Dirk Eddelbuettel
+076523.html,[Rd] Fwd: help building very old R,76523,Dirk Eddelbuettel
+076431.html,[Rd] R API for C/C++ initialisation issue appears with update to R.3.5,76431,And&#233;ol Evain
+076436.html,[Rd]  R API for C/C++ initialisation issue appears with update to R.3.5,76436,And&#233;ol Evain
+076377.html,[Rd] base::mean not consistent about NA/NaN,76377,Jan Gorecki
+076385.html,[Rd] base::mean not consistent about NA/NaN,76385,Jan Gorecki
+076461.html,[Rd] base::mean not consistent about NA/NaN,76461,Jan Gorecki
+076473.html,[Rd] oddity in transform,76473,Gabor Grothendieck
+076480.html,[Rd] oddity in transform,76480,Gabor Grothendieck
+076508.html,[Rd] odd behavior of names,76508,Gabor Grothendieck
+076520.html,[Rd] apply with zero-row matrix,76520,Gabor Grothendieck
+076371.html,[Rd] Bug 16719: kruskal.test documentation for formula,76371,Kurt Hornik
+076452.html,[Rd] MARGIN in base::unique.matrix() and base::unique.array(),76452,Kurt Hornik
+076512.html,[Rd] apply with zero-row matrix,76512,David Hugh-Jones
+076513.html,[Rd] Fwd: help building very old R,76513,David Hugh-Jones
+076516.html,[Rd] apply with zero-row matrix,76516,David Hugh-Jones
+076521.html,[Rd] apply with zero-row matrix,76521,David Hugh-Jones
+076522.html,[Rd] Fwd: help building very old R,76522,David Hugh-Jones
+076408.html,[Rd]  [R] consider running tools::compactPDF(gs_quality = &quot;ebook&quot;),76408,S&#248;ren H&#248;jsgaard
+076467.html,[Rd] R History: Why is there no importFrom() function?,76467,Aaron Jacobs
+076384.html,[Rd] Bug in file.access on Windows when using network shares,76384,Tomas Kalibera
+076444.html,[Rd] Memory leakage from large lists,76444,Tomas Kalibera
+076445.html,[Rd]  Output mis-encoded on Windows w/ RGui 3.5.1 in strange case,76445,Tomas Kalibera
+076448.html,[Rd]  Output mis-encoded on Windows w/ RGui 3.5.1 in strange case,76448,Tomas Kalibera
+076449.html,[Rd]  Output mis-encoded on Windows w/ RGui 3.5.1 in strange case,76449,Tomas Kalibera
+076453.html,[Rd] base::mean not consistent about NA/NaN,76453,Tomas Kalibera
+076383.html,[Rd] Bug in file.access on Windows when using network shares,76383,Nick Kennedy
+076388.html,[Rd] Bug in file.access on Windows when using network shares,76388,Nick Kennedy
+076470.html,[Rd] R History: Why is there no importFrom() function?,76470,Michael Lawrence
+076459.html,[Rd] Model formulas with explicit references,76459,"Lenth, Russell V"
+076471.html,[Rd] Model formulas with explicit references,76471,"Lenth, Russell V"
+076524.html,[Rd] Problem with parseData,76524,Barbara Lerner
+076485.html,[Rd] Library lib.loc Option Ignored for Dependencies,76485,Uwe Ligges
+076486.html,[Rd] Library lib.loc Option Ignored for Dependencies,76486,Uwe Ligges
+076392.html,[Rd] CRAN: Update protocol buffers on macOS? (for RProtoBuf),76392,Jonathon Love
+076450.html,[Rd] Tiny bug in lm()?,76450,Martin Maechler
+076456.html,[Rd] problem with display of complex number,76456,Martin Maechler
+076458.html,[Rd] Should there be a confint.mlm ?,76458,Martin Maechler
+076462.html,[Rd] Library lib.loc Option Ignored for Dependencies,76462,Martin Maechler
+076479.html,[Rd] Library lib.loc Option Ignored for Dependencies,76479,Martin Maechler
+076494.html,[Rd]  Suggestion for updating `p.adjust` with new method (BKY 2006),76494,Martin Maechler
+076514.html,[Rd] odd behavior of names,76514,Martin Maechler
+076515.html,[Rd] apply with zero-row matrix,76515,Martin Maechler
+076518.html,[Rd] apply with zero-row matrix,76518,Martin Maechler
+076529.html,"[Rd]  Code Optimization: print.data.frame + as.data.frame(head(x, n = options(&quot;max.print&quot;)))",76529,Martin Maechler
+076490.html,[Rd] Possible To Enable Building R With Cairo But Without X11 Dependencies?,76490,Stephen Marsh
+076511.html,[Rd] Possible To Enable Building R With Cairo But Without X11 Dependencies?,76511,Stephen Marsh
+076374.html,[Rd] Parametrized Vignettest in R packages,76374,Duncan Murdoch
+076375.html,[Rd] Parametrized Vignettest in R packages,76375,Duncan Murdoch
+076379.html,[Rd] Parametrized Vignettest in R packages,76379,Duncan Murdoch
+076380.html,[Rd] base::mean not consistent about NA/NaN,76380,Duncan Murdoch
+076400.html,[Rd] Testing for vectors,76400,Duncan Murdoch
+076414.html,[Rd] Parametrized Vignettest in R packages,76414,Duncan Murdoch
+076416.html,[Rd] Parametrized Vignettest in R packages,76416,Duncan Murdoch
+076418.html,[Rd] Parametrized Vignettest in R packages,76418,Duncan Murdoch
+076423.html,[Rd]  RMarkdown Vignettest in R packages with child is failing in package build,76423,Duncan Murdoch
+076425.html,[Rd] Top level \Sexpr and R CMD check,76425,Duncan Murdoch
+076427.html,[Rd] Top level \Sexpr and R CMD check,76427,Duncan Murdoch
+076430.html,[Rd] Top level \Sexpr and R CMD check,76430,Duncan Murdoch
+076432.html,[Rd] Top level \Sexpr and R CMD check,76432,Duncan Murdoch
+076435.html,[Rd]  RMarkdown Vignettest in R packages with child is failing in package build,76435,Duncan Murdoch
+076469.html,[Rd] R History: Why is there no importFrom() function?,76469,Duncan Murdoch
+076476.html,[Rd] Is NULL a vector?,76476,Duncan Murdoch
+076421.html,[Rd] problem with display of complex number,76421,Ei-ji Nakama
+076525.html,[Rd] trace in uniroot() ?,76525,J C Nash
+076396.html,[Rd] undefined symbol: cholmod_factorize_p,76396,Jeroen Ooms
+076382.html,[Rd] MARGIN in base::unique.matrix() and base::unique.array(),76382,Herv&#233; Pag&#232;s
+076440.html,[Rd] Memory leakage from large lists,76440,Daniel Raduta
+076437.html,[Rd] persp command,76437,Christian Rau
+076439.html,[Rd] persp command,76439,Christian Rau
+076395.html,[Rd] CRAN: Update protocol buffers on macOS? (for RProtoBuf),76395,Prof Brian Ripley
+076474.html,[Rd] Suggestion for updating `p.adjust` with new method (BKY 2006),76474,Xiaoqing Claire Rong-Mullins
+076381.html,[Rd] base::mean not consistent about NA/NaN,76381,Barry Rowlingson
+076386.html,[Rd] base::mean not consistent about NA/NaN,76386,Barry Rowlingson
+076492.html,[Rd]  Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76492,Barry Rowlingson
+076528.html,[Rd] apply with zero-row matrix,76528,Deepayan Sarkar
+076390.html,[Rd] unexpected behavior of unzip with list=T and unzip=/usr/bin/unzip,76390,Paul Schrimpf
+076447.html,[Rd] R's Identity,76447,Abs Spurdle
+076455.html,[Rd] Library lib.loc Option Ignored for Dependencies,76455,Dario Strbenac
+076465.html,[Rd] Library lib.loc Option Ignored for Dependencies,76465,Dario Strbenac
+076484.html,[Rd] Library lib.loc Option Ignored for Dependencies,76484,Dario Strbenac
+076488.html,[Rd] Library lib.loc Option Ignored for Dependencies,76488,Dario Strbenac
+076502.html,[Rd] possible bug in plot.intervals.lmList,76502,Ferenci Tamas
+076405.html,[Rd] Testing for vectors,76405,Ott Toomet
+076407.html,[Rd] Testing for vectors,76407,Ott Toomet
+076454.html,[Rd] missing news entry?,76454,Benjamin Tyner
+076460.html,[Rd] Library lib.loc Option Ignored for Dependencies,76460,Benjamin Tyner
+076464.html,[Rd] Library lib.loc Option Ignored for Dependencies,76464,Benjamin Tyner
+076468.html,[Rd] Should there be a confint.mlm ?,76468,Benjamin Tyner
+076483.html,[Rd] Library lib.loc Option Ignored for Dependencies,76483,Benjamin Tyner
+076487.html,[Rd] Library lib.loc Option Ignored for Dependencies,76487,Benjamin Tyner
+076443.html,[Rd] Memory leakage from large lists,76443,Joshua Ulrich
+076441.html,[Rd] Output mis-encoded on Windows w/ RGui 3.5.1 in strange case,76441,Kevin Ushey
+076446.html,[Rd]  Output mis-encoded on Windows w/ RGui 3.5.1 in strange case,76446,Kevin Ushey
+076451.html,[Rd]  Output mis-encoded on Windows w/ RGui 3.5.1 in strange case,76451,Kevin Ushey
+076499.html,[Rd] Random behavior of mclapply,76499,Thibault Vatter
+076399.html,[Rd] Testing for vectors,76399,Hadley Wickham
+076401.html,[Rd] Testing for vectors,76401,Hadley Wickham
+076403.html,[Rd] Testing for vectors,76403,Hadley Wickham
+076411.html,[Rd] Testing for vectors,76411,Hadley Wickham
+076412.html,[Rd] Testing for vectors,76412,Hadley Wickham
+076475.html,[Rd] Is NULL a vector?,76475,Hadley Wickham
+076477.html,[Rd] Is NULL a vector?,76477,Hadley Wickham
+076509.html,[Rd] odd behavior of names,76509,David Winsemius
+076372.html,[Rd] Parametrized Vignettest in R packages,76372,Witold E Wolski
+076376.html,[Rd] Parametrized Vignettest in R packages,76376,Witold E Wolski
+076413.html,[Rd] Parametrized Vignettest in R packages,76413,Witold E Wolski
+076417.html,[Rd] Parametrized Vignettest in R packages,76417,Witold E Wolski
+076419.html,[Rd] Parametrized Vignettest in R packages,76419,Witold E Wolski
+076422.html,[Rd] RMarkdown Vignettest in R packages with child is failing in package build,76422,Witold E Wolski
+076434.html,[Rd]  RMarkdown Vignettest in R packages with child is failing in package build,76434,Witold E Wolski
+076415.html,[Rd] Parametrized Vignettest in R packages,76415,Yihui Xie
+076420.html,[Rd] Parametrized Vignettest in R packages,76420,Yihui Xie
+076378.html,[Rd] base::mean not consistent about NA/NaN,76378,Ista Zahn
+076481.html,[Rd] oddity in transform,76481,Ista Zahn
+076482.html,[Rd] oddity in transform,76482,Ista Zahn
+076389.html,[Rd]  [R] R is creating a new level which is emty after importing a SAS file,76389,peter dalgaard
+076531.html,[Rd] help building very old R,76531,peter dalgaard
+076530.html,[Rd] RFC: make as.difftime more consistent or convenient,76530,dietm at r at schi at dler m at ili at g off m at  at rol at  at d-web at com
+076457.html,[Rd] Should there be a confint.mlm ?,76457,steven pav
+076466.html,[Rd] Should there be a confint.mlm ?,76466,steven pav
+076433.html,[Rd]  R API for C/C++ initialisation issue appears with update to R.3.5,76433,luke-tier at ey m at ili at g off uiow at  at edu
+076495.html,[Rd]  Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76495,luke-tier at ey m at ili at g off uiow at  at edu
+076497.html,[Rd]  Possible bug: R --slave --interactive stdin echo on Linux when stdin is a fifo,76497,luke-tier at ey m at ili at g off uiow at  at edu
+076504.html,[Rd] re-throwing an interrupt condition,76504,luke-tier at ey m at ili at g off uiow at  at edu
+076506.html,[Rd] re-throwing an interrupt condition,76506,luke-tier at ey m at ili at g off uiow at  at edu
+076409.html,[Rd]  [R] consider running tools::compactPDF(gs_quality = &quot;ebook&quot;),76409,jing hua zhao
+076410.html,[Rd]  [R] consider running tools::compactPDF(gs_quality = &quot;ebook&quot;),76410,jing hua zhao
+076501.html,[Rd] re-throwing an interrupt condition,76501,I&#241;aki &#218;car

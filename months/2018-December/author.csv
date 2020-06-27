@@ -1,0 +1,69 @@
+link,Subject,id,author
+077102.html,[Rd] Typo in grep.Rd,77102,Korpela Mikko (MML)
+077103.html,[Rd] Possible encoding bug in sub(),77103,Korpela Mikko (MML)
+077106.html,[Rd] Possible encoding bug in sub(),77106,Korpela Mikko (MML)
+077144.html,[Rd] Issue when building R-parched_2018-12-26,77144,Avraham Adler
+077080.html,[Rd] Unexpected argument-matching when some are missing,77080,Emil Bode
+077085.html,"[Rd] Bug report: Function ppois(0:20, lambda=0.9) does not generate a non-decreasing result.",77085,Ben Bolker
+077107.html,[Rd] trivial typo in src/library/base/man/LongVectors.Rd,77107,Ben Bolker
+077110.html,[Rd] Documentation examples for lm and glm,77110,Ben Bolker
+077127.html,[Rd] Unnecessary apostrophe in English base::summary() NA count output?,77127,Ben Bolker
+077081.html,[Rd] incomplete description of return value of stats::uniroot()?,77081,Georgi Boshnakov
+077160.html,[Rd] Bug report with patch: `stats:::regularize.values()` always creates full copies of `x` and `y`,77160,Evgeni Chasnovski
+077098.html,[Rd] Dead link in documentation of ?timezones,77098,Michael Chirico
+077100.html,[Rd] Dead link in documentation of ?timezones,77100,Michael Chirico
+077123.html,[Rd] Unnecessary apostrophe in English base::summary() NA count output?,77123,Hernando Cortina
+077088.html,[Rd] patch to support custom HTTP headers in download.file() and url(),77088,G&#225;bor Cs&#225;rdi
+077087.html,"[Rd] order(decreasing=c(TRUE,FALSE),...)",77087,William Dunlap
+077135.html,[Rd] formula(model.frame(..)) is misleading,77135,William Dunlap
+077138.html,[Rd] formula(model.frame(..)) is misleading,77138,William Dunlap
+077090.html,[Rd] Package 'tools' support for linux binary packages?,77090,Dirk Eddelbuettel
+077092.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77092,Dirk Eddelbuettel
+077096.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77096,Dirk Eddelbuettel
+077143.html,"[Rd] Bug report: R.home() cause package Rcpp failed executing sourceCpp, similar bug are labeled &quot;BUG 16660&quot; since 2016 and here I could provide a solution that tested in my laptop.",77143,Dirk Eddelbuettel
+077111.html,[Rd] Documentation examples for lm and glm,77111,S Ellison
+077121.html,[Rd] Documentation examples for lm and glm,77121,S Ellison
+077120.html,[Rd] Documentation examples for lm and glm,77120,"Fox, John"
+077122.html,[Rd] Documentation examples for lm and glm,77122,"Fox, John"
+077126.html,[Rd] Documentation examples for lm and glm,77126,"Fox, John"
+077130.html,[Rd] logical variables in models,77130,"Fox, John"
+077137.html,[Rd] formula(model.frame(..)) is misleading,77137,"Fox, John"
+077131.html,[Rd] OfficeScan deletes Rterm as malware,77131,Roland Fu&#223;
+077134.html,[Rd] Using `--configure.args` with configure.win on Windows,77134,Jim Hester
+077112.html,[Rd] Documentation examples for lm and glm,77112,David Hugh-Jones
+077117.html,[Rd] Function I mean not to export keeps being documented in a manual?,77117,Marta Kara&#347;
+077125.html,[Rd] CRAN incoming queue closed from Dec 21 to Jan 02,77125,Uwe Ligges
+077079.html,[Rd] Unexpected argument-matching when some are missing,77079,Martin Maechler
+077086.html,"[Rd] Bug report: Function ppois(0:20, lambda=0.9) does not generate a non-decreasing result.",77086,Martin Maechler
+077099.html,[Rd] Dead link in documentation of ?timezones,77099,Martin Maechler
+077104.html,[Rd] Typo in grep.Rd,77104,Martin Maechler
+077105.html,[Rd] Possible encoding bug in sub(),77105,Martin Maechler
+077108.html,[Rd] trivial typo in src/library/base/man/LongVectors.Rd,77108,Martin Maechler
+077119.html,[Rd] Documentation examples for lm and glm,77119,Martin Maechler
+077129.html,[Rd] R is missing log1p(z) etc for complex numbers z.,77129,Martin Maechler
+077136.html,[Rd] formula(model.frame(..)) is misleading,77136,Martin Maechler
+077139.html,[Rd] formula(model.frame(..)) is misleading,77139,Martin Maechler
+077140.html,[Rd] formula(model.frame(..)) is misleading,77140,Martin Maechler
+077141.html,[Rd]  patch to support custom HTTP headers in download.file() and url(),77141,Martin Maechler
+077091.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77091,Joris Meys
+077093.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77093,Joris Meys
+077095.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77095,Joris Meys
+077097.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77097,Joris Meys
+077132.html,[Rd] OfficeScan deletes Rterm as malware,77132,Joris Meys
+077118.html,[Rd] Function I mean not to export keeps being documented in a manual?,77118,Thierry Onkelinx
+077133.html,[Rd] OfficeScan deletes Rterm as malware,77133,Jeroen Ooms
+077145.html,[Rd] Issue when building R-parched_2018-12-26,77145,Jeroen Ooms
+077084.html,"[Rd] Bug report: Function ppois(0:20, lambda=0.9) does not generate a non-decreasing result.",77084,Serguei Sokol
+077089.html,"[Rd] Bug report: Function ppois(0:20, lambda=0.9) does not generate a non-decreasing result.",77089,Serguei Sokol
+077094.html,[Rd] Dealing with .git folder when using R CMD INSTALL,77094,Ralf Stubner
+077124.html,[Rd] Documentation examples for lm and glm,77124,Heinz Tuechler
+077128.html,[Rd] Documentation examples for lm and glm,77128,Heinz Tuechler
+077083.html,"[Rd] Bug report: Function ppois(0:20, lambda=0.9) does not generate a non-decreasing result.",77083,I&#241;aki Ucar
+077101.html,[Rd] Inconsistent returned values of normalizePath(NA_character_) on Windows and *nix,77101,Yihui Xie
+077109.html,[Rd] Documentation examples for lm and glm,77109,Thomas Yee
+077116.html,[Rd] Documentation examples for lm and glm,77116,Thomas Yee
+077113.html,[Rd] Documentation examples for lm and glm,77113,Achim Zeileis
+077115.html,[Rd] Documentation examples for lm and glm,77115,Achim Zeileis
+077082.html,"[Rd] Bug report: Function ppois(0:20, lambda=0.9) does not generate a non-decreasing result.",77082,qweytr1 m at ili at g off m at il at ustc at edu at c at 
+077142.html,"[Rd] Bug report: R.home() cause package Rcpp failed executing sourceCpp, similar bug are labeled &quot;BUG 16660&quot; since 2016 and here I could provide a solution that tested in my laptop.",77142,qweytr1 m at ili at g off m at il at ustc at edu at c at 
+077114.html,[Rd] Documentation examples for lm and glm,77114,frederik m at ili at g off ofb at  at et

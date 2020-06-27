@@ -1,0 +1,352 @@
+link,Subject,id,author
+054391.html,[Rd] Base &quot;Object&quot; class to use in S4 slot specification,54391,Patrick Aboyoun
+054318.html,[Rd] model.matrix evaluation challenges,54318,Felix Andrews
+054334.html,[Rd] model.matrix evaluation challenges,54334,Felix Andrews
+054375.html,[Rd] Printing the null hypothesis,54375,Liviu Andronic
+054377.html,[Rd] Printing the null hypothesis,54377,Liviu Andronic
+054379.html,[Rd] Printing the null hypothesis,54379,Liviu Andronic
+054422.html,[Rd] sessionInfo() fails to correctly detect locale settings,54422,Liviu Andronic
+054443.html,[Rd] improving ?RweaveLatex,54443,Liviu Andronic
+054287.html,[Rd] Problem using model.frame with argument subset in own	function,54287,Douglas Bates
+054397.html,[Rd] Calling C functions with value parameters,54397,Douglas Bates
+054200.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54200,Martin Becker
+054207.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54207,Martin Becker
+054223.html,[Rd] Sweave errors during package building,54223,Claudia Beleites
+054442.html,"[Rd] identical(0, -0)",54442,Henrik Bengtsson
+054261.html,[Rd] Help with embedding R,54261,Abhijit Bera
+054463.html,[Rd] Clarifications please.,54463,Abhijit Bera
+054464.html,[Rd] R command line behaving funny,54464,Abhijit Bera
+054491.html,[Rd] Clarifications please.,54491,Abhijit Bera
+054503.html,[Rd] Clarifications please.,54503,Abhijit Bera
+054518.html,[Rd] Clarifications please.,54518,Abhijit Bera
+054522.html,[Rd] Clarifications please.,54522,Abhijit Bera
+054523.html,[Rd] Clarifications please.,54523,Abhijit Bera
+054208.html,[Rd] Inconsistencies in missing names of a list?,54208,Bernd Bischl
+054297.html,[Rd] model.matrix evaluation challenges,54297,Ben Bolker
+054315.html,"[Rd] Bug in nlm, found using sem; failure in several flavors (PR#13883)",54315,Ben Bolker
+054321.html,[Rd] model.matrix evaluation challenges,54321,Ben Bolker
+054386.html,[Rd] unnecessary braces?,54386,Ben Bolker
+054406.html,[Rd] trouble building 2.10?,54406,Ben Bolker
+054210.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54210,Hans W Borchers
+054274.html,[Rd] R patched &amp; devel versions as portable ZIP files,54274,Hans W Borchers
+054203.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54203,Hans W. Borchers
+054388.html,[Rd] user supplied random number generators,54388,Ross Boylan
+054387.html,[Rd] Polymorphism of predict,54387,Christian Brechb&#252;hler
+054412.html,[Rd] Polymorphism of predict,54412,Christian Brechb&#252;hler
+054341.html,[Rd] Problem with function in fortran 95,54341,G&#246;ran Brostr&#246;m
+054356.html,[Rd] CMD check error (bug?),54356,G&#246;ran Brostr&#246;m
+054437.html,[Rd] problem with plot.lm?,54437,Benilton Carvalho
+054383.html,[Rd] S4 Generics and NAMESPACE : justified warning ?,54383,Yohan Chalabi
+054384.html,[Rd] R CMD check --use-valgrind doesn't run valgrind on tests,54384,Yohan Chalabi
+054478.html,[Rd] R command line behaving funny,54478,Yohan Chalabi
+054526.html,[Rd] S4 Generics and NAMESPACE : justified warning ?,54526,Yohan Chalabi
+054531.html,[Rd] S4: names stripped during instantiation of grandchildren of numeric class,54531,John Chambers
+054325.html,[Rd] readBin() arg check has unnecessary overhead (patch included),54325,Jon Clayden
+054338.html,[Rd] readBin() arg check has unnecessary overhead (patch	included),54338,Jon Clayden
+054457.html,[Rd] Formulas in gam function of mgcv package,54457,Corrado
+054265.html,[Rd] Changing the compiler gfortran to ifort,54265,Fabio Mathias Corr&#234;a
+054335.html,[Rd] Problem with function in fortran 95,54335,Fabio Mathias Corr&#234;a
+054365.html,[Rd]  Problem with function in fortran 95,54365,Fabio Mathias Corr&#234;a
+054537.html,[Rd] Problem in matrix definition?,54537,Fabio Mathias Corr&#234;a
+054542.html,[Rd]  Problem in matrix definition?,54542,Fabio Mathias Corr&#234;a
+054545.html,[Rd] Problem in matrix definition?,54545,Fabio Mathias Corr&#234;a
+054351.html,[Rd] memory management,54351,Yuri D'Elia
+054366.html,[Rd] memory management,54366,Yuri D'Elia
+054196.html,[Rd] incorrect result (41/10-1/10)%%1 (PR#13863),54196,Peter Dalgaard
+054317.html,"[Rd] Bug in nlm, found using sem; failure in several flavors (PR#13883)",54317,Peter Dalgaard
+054330.html,[Rd] Appendix A problem (PR#13885),54330,Peter Dalgaard
+054343.html,"[Rd] Bug in nlm, found using sem; failure in several flavors (PR#13883)",54343,Peter Dalgaard
+054374.html,[Rd] power.t.test (PR#13891),54374,Peter Dalgaard
+054423.html,[Rd] sessionInfo() fails to correctly detect locale settings,54423,Peter Dalgaard
+054424.html,[Rd] R compilation problem on 64 bit SunOS (PR#13898),54424,Peter Dalgaard
+054460.html,[Rd] nchar on factors,54460,Peter Dalgaard
+054373.html,[Rd] power.t.test (PR#13891),54373,Michael Dewey
+054344.html,[Rd] eurodist example dataset is malformed,54344,Justin Donaldson
+054370.html,[Rd] eurodist example dataset is malformed,54370,Justin Donaldson
+054259.html,[Rd] Using svSocket with data.table,54259,Matthew Dowle
+054349.html,[Rd] 10x slower merge in mac 2.9.1 vs. 2.9.0 (PR#13890),54349,Adrian Dragulescu
+054256.html,"[Rd] [R] Repeatable, But Time Varying R GUI Crash (PR#13880)",54256,William Dunlap
+054257.html,"[Rd] [R] Repeatable, But Time Varying R GUI Crash (PR#13880)",54257,William Dunlap
+054316.html,"[Rd] Bug in nlm, found using sem;	failure in several flavors (PR#13883)",54316,William Dunlap
+054536.html,[Rd] round off errors? (PR#13918),54536,William Dunlap
+054290.html,[Rd] odbcConnectExcel on non-Windows?,54290,Dirk Eddelbuettel
+054363.html,[Rd] Package-level access to Rp-&gt;R_Quiet ?,54363,Dirk Eddelbuettel
+054456.html,[Rd] Package-level access to Rp-&gt;R_Quiet ?,54456,Dirk Eddelbuettel
+054508.html,[Rd] Clarifications please.,54508,Dirk Eddelbuettel
+054528.html,[Rd] Simpler example of embedding R in C++ (Was: Clarifications	please.),54528,Dirk Eddelbuettel
+054504.html,[Rd] R 2.10.0 devel package check error,54504,John Fox
+054511.html,[Rd] R 2.10.0 devel package check error,54511,John Fox
+054236.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic (PR#13872),54236,Romain Francois
+054241.html,[Rd] exec subdirectory of a package,54241,Romain Francois
+054262.html,[Rd] options( &quot;menu&quot; ),54262,Romain Francois
+054264.html,[Rd] exec subdirectory of a package,54264,Romain Francois
+054427.html,[Rd] more special completions,54427,Romain Francois
+054432.html,[Rd] more special completions,54432,Romain Francois
+054381.html,[Rd] R CMD check --use-valgrind doesn't run valgrind on tests,54381,Charles Geyer
+054389.html,[Rd] R CMD check --use-valgrind doesn't run valgrind on tests,54389,Charles Geyer
+054364.html,[Rd] Problem with function in fortran 95,54364,Simone Giannerini
+054331.html,[Rd] loadings function (PR#13886),54331,Paul Gilbert
+054465.html,[Rd]  Problem with correct usage of formula environment,54465,Ulrike Groemping
+054496.html,[Rd] Problem with correct usage of formula environment,54496,Ulrike Groemping
+054283.html,"[Rd] identical(0, -0)",54283,Gabor Grothendieck
+054286.html,[Rd] Why is strptime always returning a vector of length 9 ?,54286,Gabor Grothendieck
+054291.html,[Rd] odbcConnectExcel on non-Windows?,54291,Gabor Grothendieck
+054394.html,[Rd] unnecessary braces?,54394,Gabor Grothendieck
+054429.html,[Rd] Lightweight 'package' idea.,54429,Gabor Grothendieck
+054500.html,"[Rd] c(&lt;symbol&gt;, &lt;symbol) |-&gt; expression instead of list",54500,Gabor Grothendieck
+054502.html,"[Rd] c(&lt;symbol&gt;, &lt;symbol) |-&gt; expression instead of list",54502,Gabor Grothendieck
+054353.html,[Rd]  Class design as used in package graphics,54353,Ulrike Gr&#246;mping
+054371.html,[Rd] Class design as used in package graphics,54371,Ulrike Gr&#246;mping
+054359.html,"[Rd] Embed R, and provide a function to user scripts",54359,Saptarshi Guha
+054360.html,"[Rd] Embed R, and provide a function to user scripts",54360,Saptarshi Guha
+054361.html,"[Rd] Embed R, and provide a function to user scripts",54361,Saptarshi Guha
+054448.html,[Rd] Basic Question regarding PROTECT,54448,Saptarshi Guha
+054452.html,[Rd] Basic Question regarding PROTECT,54452,Saptarshi Guha
+054454.html,[Rd] Basic Question regarding PROTECT,54454,Saptarshi Guha
+054495.html,[Rd] header containing (PR#13834),54495,Michael Gutteridge
+054392.html,[Rd] Calling C functions with value parameters,54392,Jeffrey J. Hallman
+054401.html,[Rd] Calling C functions with value parameters,54401,Jeffrey J. Hallman
+054266.html,"[Rd] identical(0, -0)",54266, (Ted Harding)
+054376.html,[Rd] Printing the null hypothesis,54376, (Ted Harding)
+054378.html,[Rd] Printing the null hypothesis,54378, (Ted Harding)
+054540.html,[Rd] Problem in matrix definition?,54540, (Ted Harding)
+054471.html,[Rd] package dependencies specification,54471,Christos Hatzis
+054476.html,[Rd] package dependencies specification,54476,Christos Hatzis
+054544.html,[Rd] Problem in matrix definition?,54544,Christos Hatzis
+054473.html,[Rd] R CMD on windows 7,54473,Robert J. Hijmans
+054514.html,[Rd] R CMD check does not recognize S4 functions inside other	functions?,54514,Giles Hooker
+054254.html,[Rd] About numerical accuracy: should there be a rational number	class for fractions?,54254,Paul Johnson
+054279.html,"[Rd] Bug in nlm, found using sem; failure in several flavors  (PR#13881)",54279,Adam D. I. Kramer
+054214.html,[Rd] would like to subscribe...,54214,Hyo Karen Lee
+054488.html,[Rd] improving ?RweaveLatex,54488,Friedrich Leisch
+054277.html,[Rd] R patched &amp; devel versions as portable ZIP files,54277,Uwe Ligges
+054468.html,[Rd] problem with plot.lm?,54468,Uwe Ligges
+054481.html,[Rd] R CMD on windows 7,54481,Uwe Ligges
+054539.html,[Rd] Problem in matrix definition?,54539,Uwe Ligges
+054510.html,[Rd] Problem with standard generic methods in Matrix package,54510,Sylvain Loiseau
+054515.html,[Rd] R CMD check does not recognize S4 functions inside other functions?,54515,Sylvain Loiseau
+054455.html,[Rd] Basic Question regarding PROTECT,54455,Thomas Lumley
+054215.html,[Rd] can a key of a list be a variable,54215,Bilel MASMOUDI
+054216.html,[Rd] can a key of a list be a variable,54216,Bilel MASMOUDI
+054417.html,[Rd] Documentation of ties.method argument in `rank`,54417,Stavros Macrakis
+054459.html,[Rd] nchar on factors,54459,Stavros Macrakis
+054461.html,[Rd] nchar on factors,54461,Stavros Macrakis
+054204.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54204,Martin Maechler
+054213.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54213,Martin Maechler
+054237.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54237,Martin Maechler
+054260.html,"[Rd] identical(0, -0)",54260,Martin Maechler
+054269.html,"[Rd] identical(0, -0)",54269,Martin Maechler
+054271.html,"[Rd] identical(0, -0)",54271,Martin Maechler
+054281.html,"[Rd] identical(0, -0)",54281,Martin Maechler
+054298.html,[Rd] Why is strptime always returning a vector of length 9 ?,54298,Martin Maechler
+054299.html,[Rd] Why is strptime always returning a vector of length 9 ?,54299,Martin Maechler
+054319.html,"[Rd] identical(0, -0)",54319,Martin Maechler
+054337.html,[Rd] readBin() arg check has unnecessary overhead (patch	included),54337,Martin Maechler
+054339.html,"[Rd] identical(0, -0)",54339,Martin Maechler
+054340.html,[Rd] readBin() arg check has unnecessary overhead (patch	included),54340,Martin Maechler
+054438.html,"[Rd] identical(0, -0)",54438,Martin Maechler
+054462.html,"[Rd] identical(0, -0)",54462,Martin Maechler
+054482.html,[Rd] improving ?RweaveLatex,54482,Martin Maechler
+054499.html,"[Rd] c(&lt;symbol&gt;, &lt;symbol) |-&gt; expression instead of list",54499,Martin Maechler
+054501.html,"[Rd] c(&lt;symbol&gt;, &lt;symbol) |-&gt; expression instead of list",54501,Martin Maechler
+054507.html,[Rd] Problem with standard generic methods in Matrix package,54507,Martin Maechler
+054516.html,[Rd] R CMD check does not recognize S4 functions inside other	functions?,54516,Martin Maechler
+054517.html,[Rd] Problem with standard generic methods in Matrix package,54517,Martin Maechler
+054541.html,[Rd] S4 Generics and NAMESPACE : justified warning ?,54541,Martin Maechler
+054240.html,[Rd] compiling DLL under Visual Studio IDE,54240,Thomas Mang
+054413.html,[Rd] Problem using findVar( ) in combination with R's lazy evaluation,54413,MarcelK
+054447.html,[Rd] R compilation problem on 64 bit SunOS (PR#13898),54447,Uwe F. Mayer
+054228.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic specified (PR#13860),54228,Steven McKinney
+054233.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic specified (PR#13860),54233,Steven McKinney
+054246.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic (PR#13872),54246,Steven McKinney
+054328.html,[Rd] loadings function (PR#13886),54328,Steven McKinney
+054399.html,[Rd] S4 Generics and NAMESPACE : justified warning ?,54399,Martin Morgan
+054400.html,[Rd] S4: inheritance of validity methods?,54400,Martin Morgan
+054404.html,[Rd] S4: inheritance of validity methods?,54404,Martin Morgan
+054475.html,[Rd] package dependencies specification,54475,Martin Morgan
+054494.html,[Rd] Clarifications please.,54494,Martin Morgan
+054206.html,[Rd] What changed in the R Windows interface from v2.6.2 to	v2.7.0?,54206,Duncan Murdoch
+054211.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic specified (PR#13860),54211,Duncan Murdoch
+054225.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54225,Duncan Murdoch
+054230.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic specified (PR#13860),54230,Duncan Murdoch
+054234.html,[Rd] Advice sought about Rd versions,54234,Duncan Murdoch
+054258.html,"[Rd] [R] Repeatable, But Time Varying R GUI Crash (PR#13880)",54258,Duncan Murdoch
+054263.html,"[Rd] identical(0, -0)",54263,Duncan Murdoch
+054267.html,[Rd] Changing the compiler gfortran to ifort,54267,Duncan Murdoch
+054270.html,"[Rd] identical(0, -0)",54270,Duncan Murdoch
+054272.html,"[Rd] identical(0, -0)",54272,Duncan Murdoch
+054278.html,[Rd] R patched &amp; devel versions as portable ZIP files,54278,Duncan Murdoch
+054302.html,"[Rd] identical(0, -0)",54302,Duncan Murdoch
+054307.html,[Rd] Error Building R + X11 on SuSe 10S,54307,Duncan Murdoch
+054311.html,"[Rd] identical(0, -0)",54311,Duncan Murdoch
+054313.html,"[Rd] identical(0, -0)",54313,Duncan Murdoch
+054333.html,[Rd] Awkward escaping with five backslashes within \code{ } in new	parse_Rd,54333,Duncan Murdoch
+054369.html,[Rd] Awkward escaping with five backslashes within \code{ } in new parse_Rd,54369,Duncan Murdoch
+054395.html,[Rd] unnecessary braces?,54395,Duncan Murdoch
+054396.html,[Rd] Calling C functions with value parameters,54396,Duncan Murdoch
+054402.html,[Rd] Calling C functions with value parameters,54402,Duncan Murdoch
+054416.html,[Rd] Problem using findVar( ) in combination with R's lazy	evaluation,54416,Duncan Murdoch
+054449.html,[Rd] Basic Question regarding PROTECT,54449,Duncan Murdoch
+054451.html,[Rd] Basic Question regarding PROTECT,54451,Duncan Murdoch
+054453.html,[Rd] Basic Question regarding PROTECT,54453,Duncan Murdoch
+054467.html,[Rd] \code{\link{foo}} fails in 2.10.0,54467,Duncan Murdoch
+054470.html,[Rd] \code{\link{foo}} fails in 2.10.0,54470,Duncan Murdoch
+054534.html,[Rd] round off errors? (PR#13918),54534,Duncan Murdoch
+054535.html,[Rd] c() poor error reporting (PR#13917),54535,Duncan Murdoch
+054282.html,"[Rd] identical(0, -0)",54282,Prof. John C Nash
+054354.html,[Rd] segfault when unloading a shared library,54354,EJ Nikelski
+054358.html,[Rd] segfault when unloading a shared library,54358,EJ Nikelski
+054232.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54232,John Nolan
+054197.html,[Rd] incorrect result (41/10-1/10)%%1 (PR#13863),54197,Sean O'Riordain
+054199.html,[Rd] incorrect result (41/10-1/10)%%1 (PR#13863),54199,"ONKELINX, Thierry"
+054380.html,[Rd] eurodist example dataset is malformed,54380,Jari Oksanen
+054202.html,"[Rd] debug: mtrace(fun, FALSE) doesn't work for me",54202,Rune Schjellerup Philosof
+054303.html,[Rd] multicore mclapply hangs,54303,Rune Schjellerup Philosof
+054527.html,[Rd] ARM v7/Linux Port/cross-compile?,54527,Andrew Piskorski
+054220.html,[Rd] can a key of a list be a variable,54220,Tony Plate
+054466.html,[Rd] \code{\link{foo}} fails in 2.10.0,54466,William Revelle
+054472.html,[Rd] \code{\link{foo}} fails in 2.10.0,54472,William Revelle
+054543.html,[Rd] Problem in matrix definition?,54543,Mathieu Ribatet
+054222.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54222,"Richardson, Ash"
+054250.html,[Rd] Inconsistent documentation in Writing R Extensions (PR#13876),54250,Prof Brian Ripley
+054252.html,[Rd] Section 1.3.1 of R-Ext Documentation lists tests/Examples/pkg-Rex-Rout.save incorrectly (PR#13877),54252,Prof Brian Ripley
+054268.html,[Rd] options( &quot;menu&quot; ),54268,Prof Brian Ripley
+054367.html,"[Rd] (PR#13789) possible agrep bug; R 2.9.1, Mac OS X 10.5",54367,Prof Brian Ripley
+054382.html,[Rd] R CMD check --use-valgrind doesn't run valgrind on tests,54382,Prof Brian Ripley
+054409.html,[Rd] trouble building 2.10?,54409,Prof Brian Ripley
+054421.html,[Rd] R compilation problem on 64 bit SunOS (PR#13898),54421,Prof Brian Ripley
+054425.html,[Rd] R compilation problem on 64 bit SunOS (PR#13898),54425,Prof Brian Ripley
+054426.html,[Rd] sessionInfo() fails to correctly detect locale settings,54426,Prof Brian Ripley
+054430.html,[Rd] header containing (PR#13834),54430,Prof Brian Ripley
+054477.html,[Rd] package dependencies specification,54477,Prof Brian Ripley
+054483.html,[Rd] R CMD on windows 7,54483,Prof Brian Ripley
+054484.html,[Rd] Problems opening R (PR#13908),54484,Prof Brian Ripley
+054509.html,[Rd] R 2.10.0 devel package check error,54509,Prof Brian Ripley
+054322.html,"[Rd] FIFO on windows, redux",54322,Allen S. Rout
+054428.html,[Rd] Lightweight 'package' idea.,54428,Barry Rowlingson
+054332.html,[Rd] Awkward escaping with five backslashes within \code{ } in new	parse_Rd,54332,Peter Ruckdeschel
+054368.html,[Rd] Awkward escaping with five backslashes within \code{ } in new parse_Rd,54368,Peter Ruckdeschel
+054243.html,[Rd] inheriting C symbols,54243,Jeff Ryan
+054245.html,[Rd] inheriting C symbols,54245,Jeff Ryan
+054275.html,"[Rd] Bug in nlm, found using sem;	failure in several flavors 	(PR#13881)",54275,Jeff Ryan
+054288.html,[Rd] Why is strptime always returning a vector of length 9 ?,54288,Jeff Ryan
+054390.html,[Rd] S4: inheritance of validity methods?,54390,Vitalie S.
+054403.html,[Rd] S4: inheritance of validity methods?,54403,Vitalie S.
+054405.html,[Rd] S4: inheritance of validity methods?,54405,Vitalie S.
+054415.html,[Rd] S4: inheritance of validity methods? + Inconsistency in order of validity checks.,54415,Vitalie S.
+054434.html,[Rd] more special completions,54434,Vitalie S.
+054441.html,[Rd] more special completions,54441,Vitalie S.
+054524.html,[Rd] S4: names stripped during instantiation of grandchildren of numeric class,54524,Vitalie S.
+054450.html,[Rd] Basic Question regarding PROTECT,54450,Sapsi
+054431.html,[Rd] more special completions,54431,Deepayan Sarkar
+054435.html,[Rd] more special completions,54435,Deepayan Sarkar
+054436.html,[Rd] more special completions,54436,Deepayan Sarkar
+054439.html,[Rd] Lattice: Drawing a single contour line with a negative	value fails,54439,Deepayan Sarkar
+054201.html,[Rd] incorrect result (41/10-1/10)%%1 (PR#13863),54201,Petr Savicky
+054221.html,[Rd] Accuracy (PR#13867),54221,Petr Savicky
+054300.html,"[Rd] identical(0, -0)",54300,Petr Savicky
+054314.html,"[Rd] identical(0, -0)",54314,Petr Savicky
+054320.html,"[Rd] identical(0, -0)",54320,Petr Savicky
+054336.html,"[Rd] identical(0, -0)",54336,Petr Savicky
+054342.html,"[Rd] identical(0, -0)",54342,Petr Savicky
+054385.html,[Rd] user supplied random number generators,54385,Petr Savicky
+054440.html,"[Rd] identical(0, -0)",54440,Petr Savicky
+054312.html,[Rd] Rcpp and variable protection,54312,David Scherrer
+054305.html,[Rd] multicore mclapply hangs,54305,Markus Schmidberger
+054294.html,[Rd] odbcConnectExcel on non-Windows?,54294,Marc Schwartz
+054444.html,[Rd] improving ?RweaveLatex,54444,Marc Schwartz
+054445.html,[Rd] improving ?RweaveLatex,54445,Marc Schwartz
+054446.html,[Rd] improving ?RweaveLatex,54446,Marc Schwartz
+054489.html,[Rd] improving ?RweaveLatex,54489,Marc Schwartz
+054209.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54209,Tom Short
+054284.html,[Rd] Problem using model.frame with argument subset in own function,54284,Gavin Simpson
+054296.html,[Rd] Problem using model.frame with argument subset in own function,54296,Gavin Simpson
+054345.html,[Rd] eurodist example dataset is malformed,54345,Gavin Simpson
+054324.html,[Rd] Changing the compiler gfortran to ifort,54324,"Sklyar, Oleg (London)"
+054226.html,[Rd] Accuracy (PR#13867),54226,Greg Snow
+054411.html,[Rd] Polymorphism of predict,54411,Greg Snow
+054538.html,[Rd] c() poor error reporting (PR#13917),54538,Michael Spiegel
+054410.html,[Rd] Lattice: Drawing a single contour line with a negative value	fails,54410,Thorn Thaler
+054242.html,[Rd] inheriting C symbols,54242,Terry Therneau
+054244.html,[Rd] inheriting C symbols,54244,Terry Therneau
+054355.html,[Rd] CMD check error (bug?),54355,Terry Therneau
+054357.html,[Rd] CMD check error (bug?),54357,Terry Therneau
+054458.html,[Rd] CRAN and noweb,54458,Terry Therneau
+054362.html,"[Rd] Embed R, and provide a function to user scripts",54362,Joshua Ulrich
+054309.html,"[Rd] identical(0, -0)",54309,Simon Urbanek
+054310.html,[Rd] multicore mclapply hangs,54310,Simon Urbanek
+054348.html,[Rd] 10x slower merge in mac 2.9.1 vs. 2.9.0 (PR#13890),54348,Simon Urbanek
+054352.html,[Rd] memory management,54352,Simon Urbanek
+054398.html,[Rd] Calling C functions with value parameters,54398,Simon Urbanek
+054407.html,[Rd] trouble building 2.10?,54407,Simon Urbanek
+054414.html,[Rd] Problem using findVar( ) in combination with R's lazy	evaluation,54414,Simon Urbanek
+054474.html,[Rd] Cannot make 3 different R installations for 3	different	valgrind-instrumentation levels,54474,Simon Urbanek
+054490.html,[Rd] Cannot make 3 different R installations for 3 different	valgrind-instrumentation levels,54490,Simon Urbanek
+054493.html,[Rd] Cannot make 3 different R installations for 3 different	valgrind-instrumentation levels,54493,Simon Urbanek
+054497.html,[Rd] Clarifications please.,54497,Simon Urbanek
+054513.html,[Rd] ARM v7/Linux Port/cross-compile?,54513,Simon Urbanek
+054521.html,[Rd] Clarifications please.,54521,Simon Urbanek
+054525.html,[Rd] Clarifications please.,54525,Simon Urbanek
+054529.html,[Rd] ARM v7/Linux Port/cross-compile?,54529,Simon Urbanek
+054194.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54194,Ravi Varadhan
+054217.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54217,Ravi Varadhan
+054218.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54218,Ravi Varadhan
+054239.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54239,Ravi Varadhan
+054253.html,[Rd] Inaccurate complex arithmetic of R (Matlab is accurate),54253,Ravi Varadhan
+054512.html,[Rd] ARM v7/Linux Port/cross-compile?,54512,Jonathan Wilner
+054520.html,[Rd] R CMD check does not recognize S4 functions inside other functions?,54520,Henric (Nilsson) Winell
+054198.html,[Rd] incorrect result (41/10-1/10)%%1 (PR#13863),54198,Achim Zeileis
+054326.html,[Rd] Appendix A problem (PR#13885),54326,HStaley at aol.com
+054346.html,[Rd] Problem with Linux x86_64 RODBC and Netezza (PR#13889),54346,kenneth.cater at bankofamerica.com
+054479.html,[Rd]  Tk question,54479,bappai
+054229.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic	(PR#13871),54229,smckinney at bccrc.ca
+054235.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic	(PR#13873),54235,smckinney at bccrc.ca
+054329.html,[Rd] loadings function (PR#13886),54329,smckinney at bccrc.ca
+054408.html,[Rd] ?Random.user slightly out of sync with code (PR#13895),54408,ross at biostat.ucsf.edu
+054480.html,[Rd] Problems opening R (PR#13908),54480,lisazang at caltech.edu
+054248.html,[Rd] Section 1.3.1 of R-Ext Documentation lists	tests/Examples/pkg-Rex-Rout.save incorrectly (PR#13877),54248,art27 at cantab.net
+054350.html,[Rd] 10x slower merge in mac 2.9.1 vs. 2.9.0 (PR#13890),54350,adrian_d at eskimo.com
+054418.html,[Rd] header containing (PR#13834),54418,mrg at fhcrc.org
+054276.html,"[Rd] Bug in nlm, found using sem;	failure in several flavors (PR#13882)",54276,jeff.a.ryan at gmail.com
+054533.html,[Rd] c() poor error reporting (PR#13917),54533,michael.m.spiegel at gmail.com
+054327.html,[Rd] loadings function (PR#13886),54327,mikedulrich at gmail.com
+054301.html,[Rd] Duplicated lines in configure,54301,rory.winston at gmail.com
+054304.html,[Rd] Error Building R + X11 on SuSe 10,54304,rory.winston at gmail.com
+054306.html,[Rd] Error Building R + X11 on SuSe 10S,54306,rory.winston at gmail.com
+054308.html,[Rd] Error Building R + X11 on SuSe 10S,54308,rory.winston at gmail.com
+054532.html,[Rd] round off errors? (PR#13918),54532,claus.henry at gmx.de
+054393.html,[Rd] error during build: lstat64 already defined (PR#13894),54393,ktr at goldin-rudahl.com
+054249.html,[Rd] Inconsistent documentation in Writing R Extensions (PR#13876),54249,Brandon.J.Whitcher at gsk.com
+054273.html,"[Rd] Bug in nlm, found using sem;	failure in several flavors (PR#13881)",54273,adik at ilovebacon.org
+054280.html,"[Rd] Bug in nlm, found using sem;	failure in several flavors (PR#13883)",54280,adik at ilovebacon.org
+054227.html,[Rd] Accuracy (PR#13867),54227,Greg.Snow at imail.org
+054205.html,[Rd] save() does not issue an error if it tries to write on	overfull hdd (PR#13866),54205,benjamin.hofner at imbe.med.uni-erlangen.de
+054498.html,[Rd] Errors in manpage of bs() (splines) (PR#13912),54498,benjamin.hofner at imbe.med.uni-erlangen.de
+054505.html,[Rd] Wishlist: specify the border color of boxes in legend()	(PR#13913),54505,Frederic.Schutz at isb-sib.ch
+054506.html,[Rd] Backup ( *~ ) files in R 2.9.2 distribution (PR#13914),54506,Frederic.Schutz at isb-sib.ch
+054238.html,[Rd] Error (or inaccuracy) in complex arithmetic (PR#13869),54238,RVaradhan at jhmi.edu
+054285.html,[Rd] Why is strptime always returning a vector of length 9 ?,54285,laurent
+054323.html,[Rd] Why is strptime always returning a vector of length 9 ?,54323,laurent
+054485.html,[Rd] Problem with standard generic methods in Matrix package,54485,sloiseau at limsi.fr
+054247.html,[Rd] tk_choose.filesn () (tcltk) intolerant of whitespace (PR#13875),54247,derek.eder at lungall.gu.se
+054530.html,[Rd] names&lt;- in data.frame (PR#13916),54530,vitosmail at rambler.ru
+054224.html,[Rd] Alt-F4 leaves RGUI console in wait state when closing some	dialog boxes (PR#13870),54224,richcalaway at revolution-computing.com
+054289.html,[Rd] odbcConnectExcel on non-Windows?,54289,spencerg
+054292.html,[Rd] odbcConnectExcel on non-Windows?,54292,spencerg
+054293.html,[Rd] odbcConnectExcel on non-Windows?,54293,spencerg
+054519.html,[Rd] Wishlist: specify the border color of boxes in legend()	(PR#13913),54519,maechler at stat.math.ethz.ch
+054251.html,[Rd] Inconsistent documentation in Writing R Extensions	(PR#13878),54251,ripley at stats.ox.ac.uk
+054212.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic	(PR#13868),54212,murdoch at stats.uwo.ca
+054231.html,[Rd] Wishlist: Navigate to &quot;Index&quot; page of help when no topic	(PR#13872),54231,murdoch at stats.uwo.ca
+054255.html,"[Rd] [R] Repeatable, But Time Varying R GUI Crash (PR#13880)",54255,murdoch at stats.uwo.ca
+054219.html,[Rd] Accuracy (PR#13867),54219,luethman at student.ethz.ch
+054469.html,[Rd] Cannot make 3 different R installations for 3	different	valgrind-instrumentation levels,54469,pleydell at supagro.inra.fr
+054486.html,[Rd] Cannot make 3 different R installations for 3	different	valgrind-instrumentation levels,54486,pleydell at supagro.inra.fr
+054487.html,[Rd] Cannot make 3 different R installations for 3	different	valgrind-instrumentation levels,54487,pleydell at supagro.inra.fr
+054492.html,[Rd] Cannot make 3 different R installations for 3	different	valgrind-instrumentation levels,54492,pleydell at supagro.inra.fr
+054195.html,[Rd] incorrect result (41/10-1/10)%%1 (PR#13863),54195,jan.hattendorf at unibas.ch
+054372.html,[Rd] power.t.test (PR#13891),54372,michaell at unimelb.edu.au
+054347.html,[Rd] 10x slower merge in mac 2.9.1 vs. 2.9.0 (PR#13890),54347,richard_stahlhut at urmc.rochester.edu
+054419.html,[Rd] R compilation problem on 64 bit SunOS (PR#13898),54419,uwe_f_mayer at yahoo.com
+054420.html,[Rd] R installation problem with recommended packages (PR#13899),54420,uwe_f_mayer at yahoo.com
+054433.html,[Rd] R installation problem with shared libraries (PR#13900),54433,uwe_f_mayer at yahoo.com

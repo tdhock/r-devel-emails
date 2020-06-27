@@ -1,0 +1,202 @@
+link,Subject,id,author
+077920.html,[Rd]  Converting non-32-bit integers from python to R to use bit64: reticulate,77920,Juan Telleria Ruiz de Aguirre
+077943.html,[Rd] [r-devel] integrate over an infinite region produces wrong results depending on scaling,77943,Rui Barradas
+077973.html,[Rd] [R] Open a file which name contains a tilde,77973,Rui Barradas
+078046.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78046,Rui Barradas
+078047.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78047,Rui Barradas
+077945.html,[Rd] [External] undefined symbol errors when compiling package using ALTREP API,77945,Gabriel Becker
+077982.html,[Rd] [R] Open a file which name contains a tilde,77982,Gabriel Becker
+077989.html,[Rd] [R] Open a file which name contains a tilde,77989,Gabriel Becker
+077990.html,[Rd] [R] Open a file which name contains a tilde,77990,Gabriel Becker
+078044.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78044,Gabriel Becker
+077971.html,[Rd] Parallel number stream: clusterSetRNGStream,77971,Henrik Bengtsson
+078043.html,[Rd]  Suggested Patch: Library returns matching installed packages when typo present,78043,Henrik Bengtsson
+078049.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78049,Henrik Bengtsson
+078054.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78054,Henrik Bengtsson
+078062.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78062,Henrik Bengtsson
+078070.html,[Rd] R-Forge &gt; GitHub?,78070,Henrik Bengtsson
+078079.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78079,Henrik Bengtsson
+078100.html,[Rd] R-Forge &gt; GitHub?,78100,Henrik Bengtsson
+077970.html,[Rd] [R] Open a file which name contains a tilde,77970,"Berry, Charles"
+078030.html,[Rd] base::format adds extraneous whitespace for some inputs,78030,David J. Birke
+078051.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78051,Ben Bolker
+078083.html,[Rd] tools::package_native_routine_registration_skeleton?,78083,Georgi Boshnakov
+077983.html,[Rd] [R] Open a file which name contains a tilde,77983,Travers Ching
+077919.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77919,Michael Chirico
+078085.html,[Rd] R-Forge &gt; GitHub?,78085,G&#225;bor Cs&#225;rdi
+078041.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78041,Christophe DUTANG
+077996.html,[Rd] R 3.6.1 scheduled for July 5,77996,Peter Dalgaard
+077974.html,[Rd] Determining the exit code of an &quot;almost finished&quot; R script,77974,Gergely Dar&#243;czi
+077976.html,[Rd] Determining the exit code of an &quot;almost finished&quot; R script,77976,Gergely Dar&#243;czi
+077985.html,[Rd] [R] Open a file which name contains a tilde,77985,William Dunlap
+078053.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78053,William Dunlap
+077993.html,[Rd] compiler flags for performance,77993,Dirk Eddelbuettel
+078002.html,[Rd] compiler flags for performance,78002,Dirk Eddelbuettel
+078035.html,[Rd] head with non integer n returns confusing output,78035,Ant F
+078016.html,[Rd] Could generic functions check different S3 methods for an object when one of them produces an error?,78016,"Fox, John"
+077915.html,[Rd] survival changes,77915,Paul Gilbert
+077967.html,[Rd] Parallel number stream: clusterSetRNGStream,77967,Colin Gillespie
+078032.html,[Rd] base::format adds extraneous whitespace for some inputs,78032,Sarah Goslee
+078027.html,[Rd] point size in svg,78027,Spencer Graves
+078055.html,[Rd] point size in svg,78055,Spencer Graves
+078066.html,[Rd] R-Forge &gt; GitHub?,78066,Spencer Graves
+078074.html,[Rd] R-Forge &gt; GitHub?,78074,Spencer Graves
+078075.html,[Rd] R-Forge &gt; GitHub?,78075,Spencer Graves
+078080.html,[Rd] R-Forge &gt; GitHub?,78080,Spencer Graves
+078093.html,[Rd] R-Forge &gt; GitHub?,78093,Spencer Graves
+078099.html,[Rd] R-Forge &gt; GitHub?,78099,Spencer Graves
+078102.html,[Rd] R-Forge &gt; GitHub?,78102,Spencer Graves
+078000.html,[Rd] inappropriate warning in latticeExtra,78000,Richard M. Heiberger
+078004.html,[Rd] inappropriate warning in latticeExtra,78004,Richard M. Heiberger
+078068.html,[Rd] R-Forge &gt; GitHub?,78068,Lionel Henry
+078069.html,[Rd] R-Forge &gt; GitHub?,78069,Lionel Henry
+077963.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77963,Toby Hocking
+077987.html,[Rd] [R] Open a file which name contains a tilde,77987,Kurt Hornik
+078020.html,[Rd] Fast way to call an R function from C++?,78020,King Jiefei
+078024.html,[Rd] Fast way to call an R function from C++?,78024,King Jiefei
+078038.html,[Rd] [Suggested patch] to fligner.test - constant values can produce significant results,78038,Karolis K
+077949.html,[Rd] MacOS parallel::makeCluster fails,77949,Tomas Kalibera
+077956.html,[Rd] Setting LC_CTYPE=en_US.UTF-8 failed,77956,Tomas Kalibera
+077962.html,[Rd] Setting LC_CTYPE=en_US.UTF-8 failed,77962,Tomas Kalibera
+078071.html,[Rd] r-project.org dns,78071,Tim Keitt
+077936.html,[Rd] undefined symbol errors when compiling package using ALTREP API,77936,Mark Klik
+077944.html,[Rd] [External] undefined symbol errors when compiling package using ALTREP API,77944,Mark Klik
+077947.html,[Rd] [External] undefined symbol errors when compiling package using ALTREP API,77947,Mark Klik
+077952.html,[Rd] [External] undefined symbol errors when compiling package using ALTREP API,77952,Mark Klik
+077916.html,[Rd] rgl install for R 3.7,77916,"Koenker, Roger W"
+077922.html,[Rd] rgl install for R 3.7,77922,"Koenker, Roger W"
+078081.html,[Rd] tools::package_native_routine_registration_skeleton?,78081,"Koenker, Roger W"
+078084.html,[Rd] tools::package_native_routine_registration_skeleton?,78084,"Koenker, Roger W"
+078095.html,[Rd] tools::package_native_routine_registration_skeleton?,78095,"Koenker, Roger W"
+078025.html,[Rd] Small bug in fligner.test - constant values can produce significant results (patch attached),78025,Karolis Koncevi&#269;ius
+077961.html,[Rd] [R] Open a file which name contains a tilde,77961,Ivan Krylov
+077907.html,[Rd] survival changes,77907,Peter Langfelder
+078028.html,[Rd] point size in svg,78028,Peter Langfelder
+077935.html,[Rd] MacOS parallel::makeCluster fails,77935,Dominik Leutnant
+077906.html,[Rd]  Converting non-32-bit integers from python to R to use bit64: reticulate,77906,Martin Maechler
+077923.html,[Rd] Possible bug in formatC,77923,Martin Maechler
+077924.html,[Rd] stopifnot,77924,Martin Maechler
+077938.html,[Rd] Trivial error in documentation,77938,Martin Maechler
+077940.html,[Rd]  Converting non-32-bit integers from python to R to use bit64: reticulate,77940,Martin Maechler
+077948.html,[Rd] Offer zip builds,77948,Martin Maechler
+077960.html,[Rd] stopifnot,77960,Martin Maechler
+077968.html,[Rd]  Give update.formula() an option not to simplify or reorder the result -- request for comments,77968,Martin Maechler
+078011.html,[Rd]  Bug report: 'formula(&quot;x&quot;)' loops infinitely ('formula(&quot;y&quot;)' does not),78011,Martin Maechler
+078033.html,[Rd] base::format adds extraneous whitespace for some inputs,78033,Martin Maechler
+078057.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78057,Martin Maechler
+078059.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78059,Martin Maechler
+078061.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78061,Martin Maechler
+078064.html,[Rd] [Suggested patch] to fligner.test - constant values can produce significant results,78064,Martin Maechler
+078076.html,[Rd] Seg fault stats::runmed,78076,Martin Maechler
+078078.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78078,Martin Maechler
+078091.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78091,Martin Maechler
+078096.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78096,Martin Maechler
+078098.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78098,Martin Maechler
+078101.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78101,Martin Maechler
+077988.html,[Rd] [R] Open a file which name contains a tilde,77988,Paul McQuesten
+077991.html,[Rd] [R] Open a file which name contains a tilde,77991,Paul McQuesten
+078009.html,[Rd] R C API resize matrix,78009,Morgan Morgan
+077917.html,[Rd] rgl install for R 3.7,77917,Duncan Murdoch
+077929.html,[Rd] Offer zip builds,77929,Duncan Murdoch
+077930.html,[Rd] Offer zip builds,77930,Duncan Murdoch
+077953.html,[Rd] Offer zip builds,77953,Duncan Murdoch
+077958.html,[Rd] Setting LC_CTYPE=en_US.UTF-8 failed,77958,Duncan Murdoch
+077959.html,[Rd] Setting LC_CTYPE=en_US.UTF-8 failed,77959,Duncan Murdoch
+077964.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77964,Duncan Murdoch
+077965.html,[Rd] [R] Open a file which name contains a tilde,77965,Duncan Murdoch
+077975.html,[Rd] Determining the exit code of an &quot;almost finished&quot; R script,77975,Duncan Murdoch
+077977.html,[Rd] Determining the exit code of an &quot;almost finished&quot; R script,77977,Duncan Murdoch
+077986.html,[Rd] [R] Open a file which name contains a tilde,77986,Duncan Murdoch
+078003.html,[Rd] inappropriate warning in latticeExtra,78003,Duncan Murdoch
+078017.html,[Rd] Could generic functions check different S3 methods for an object when one of them produces an error?,78017,Duncan Murdoch
+078067.html,[Rd] R-Forge &gt; GitHub?,78067,Duncan Murdoch
+078073.html,[Rd] R-Forge &gt; GitHub?,78073,Duncan Murdoch
+078082.html,[Rd] R-Forge &gt; GitHub?,78082,Duncan Murdoch
+078087.html,[Rd] tools::package_native_routine_registration_skeleton?,78087,Duncan Murdoch
+078088.html,[Rd] R-Forge &gt; GitHub?,78088,Duncan Murdoch
+077966.html,[Rd] [R] Open a file which name contains a tilde,77966,Richard O'Keefe
+077979.html,[Rd] [R] Open a file which name contains a tilde,77979,Richard O'Keefe
+077957.html,[Rd] Offer zip builds,77957,Jeroen Ooms
+077946.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77946,"Pages, Herve"
+077912.html,[Rd] [EXTERNAL] Re: survival changes,77912,Hugh Parsonage
+077921.html,[Rd] Offer zip builds,77921,Steven Penny
+077931.html,[Rd] Offer zip builds,77931,Steven Penny
+077932.html,[Rd] Offer zip builds,77932,Steven Penny
+077933.html,[Rd] Offer zip builds,77933,Steven Penny
+077954.html,[Rd] Offer zip builds,77954,Steven Penny
+077955.html,[Rd] Setting LC_CTYPE=en_US.UTF-8 failed,77955,Steven Penny
+078086.html,[Rd] R-Forge &gt; GitHub?,78086,Brian G. Peterson
+078010.html,[Rd] Bug report: 'formula(&quot;x&quot;)' loops infinitely ('formula(&quot;y&quot;)' does not),78010,P Poncet
+078034.html,[Rd] Suggested Patch: Library returns matching installed packages when typo present,78034,Marcel Ramos
+078040.html,[Rd]  Suggested Patch: Library returns matching installed packages when typo present,78040,Marcel Ramos
+077918.html,[Rd] rgl install for R 3.7,77918,Prof Brian Ripley
+078072.html,[Rd] r-project.org dns,78072,Prof Brian Ripley
+078008.html,[Rd] inappropriate warning in latticeExtra,78008,Deepayan Sarkar
+077908.html,[Rd] survival changes,77908,Marc Schwartz
+077926.html,[Rd] Offer zip builds,77926,Marc Schwartz
+077927.html,[Rd] Offer zip builds,77927,Marc Schwartz
+077980.html,[Rd] [R] Open a file which name contains a tilde,77980,Frank Schwidom
+077981.html,[Rd] [R] Open a file which name contains a tilde,77981,Frank Schwidom
+077984.html,[Rd] [R] Open a file which name contains a tilde,77984,Frank Schwidom
+077998.html,[Rd] [R] Open a file which name contains a tilde,77998,Frank Schwidom
+077928.html,[Rd] Trivial error in documentation,77928,David Scott
+078089.html,[Rd] R-Forge &gt; GitHub?,78089,Henrik Singmann
+078090.html,[Rd] R-Forge &gt; GitHub?,78090,Henrik Singmann
+077999.html,[Rd] [R] Open a file which name contains a tilde,77999,Serguei Sokol
+078056.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78056,Serguei Sokol
+077913.html,[Rd] survival changes,77913,Abby Spurdle
+077925.html,[Rd] Offer zip builds,77925,Abby Spurdle
+077951.html,[Rd] Offer zip builds,77951,Abby Spurdle
+077972.html,[Rd] Offer zip builds,77972,Abby Spurdle
+077978.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",77978,Abby Spurdle
+077994.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",77994,Abby Spurdle
+078005.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",78005,Abby Spurdle
+078007.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",78007,Abby Spurdle
+078050.html,[Rd] head with non integer n returns confusing output,78050,Abby Spurdle
+077904.html,[Rd] survival changes,77904,"Therneau, Terry M., Ph.D."
+077911.html,[Rd] [EXTERNAL] Re:  survival changes,77911,"Therneau, Terry M., Ph.D."
+078018.html,[Rd] making a vignette optional,78018,"Therneau, Terry M., Ph.D."
+078103.html,[Rd] memory access question,78103,"Therneau, Terry M., Ph.D."
+077941.html,[Rd] [External] undefined symbol errors when compiling package using ALTREP API,77941,"Tierney, Luke"
+077950.html,[Rd] [External] undefined symbol errors when compiling package using ALTREP API,77950,"Tierney, Luke"
+078013.html,[Rd] [External] Re:  R C API resize matrix,78013,"Tierney, Luke"
+078037.html,[Rd]  [External] Suggested Patch: Library returns matching installed packages when typo present,78037,"Tierney, Luke"
+078048.html,[Rd] [External] Re: Suggested Patch: Library returns matching installed packages when typo present,78048,"Tierney, Luke"
+078094.html,[Rd] R-Forge &gt; GitHub?,78094,Ott Toomet
+077939.html,[Rd] Offer zip builds,77939,I&#241;aki Ucar
+077995.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",77995,I&#241;aki Ucar
+078006.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",78006,I&#241;aki Ucar
+078019.html,[Rd] making a vignette optional,78019,I&#241;aki Ucar
+078022.html,[Rd] Fast way to call an R function from C++?,78022,I&#241;aki Ucar
+078023.html,[Rd] Fast way to call an R function from C++?,78023,I&#241;aki Ucar
+078026.html,[Rd] Fast way to call an R function from C++?,78026,I&#241;aki Ucar
+078105.html,[Rd] memory access question,78105,I&#241;aki Ucar
+077905.html,[Rd] survival changes,77905,Joshua Ulrich
+077914.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77914,Joshua Ulrich
+078104.html,[Rd] R-Forge &gt; GitHub?,78104,Joshua Ulrich
+078106.html,[Rd] R-Forge &gt; GitHub?,78106,Joshua Ulrich
+077969.html,[Rd] Offer zip builds,77969,Simon Urbanek
+078012.html,[Rd] R C API resize matrix,78012,Simon Urbanek
+077942.html,[Rd]  Converting non-32-bit integers from python to R to use bit64: reticulate,77942,Kevin Ushey
+078021.html,[Rd] Fast way to call an R function from C++?,78021,Kevin Ushey
+078015.html,[Rd] Could generic functions check different S3 methods for an object when one of them produces an error?,78015,IAGO GIN&#201; V&#193;ZQUEZ
+078031.html,[Rd] ESRI User Conference 2019 Attendees,78031,Tonya Watson
+077937.html,[Rd] foreign:::writeForeignSAS patch not released?,77937,"Weigand, Stephen D."
+078029.html,[Rd] point size in svg,78029,David Winsemius
+078097.html,[Rd] Making R CMD nicer,78097,Jason Xu
+078042.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78042,peter dalgaard
+078052.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78052,peter dalgaard
+078063.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78063,peter dalgaard
+078065.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78065,peter dalgaard
+078077.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78077,peter dalgaard
+078092.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78092,peter dalgaard
+078001.html,[Rd] compiler flags for performance,78001,arnaud gaboury
+077992.html,[Rd] compiler flags for performance,77992,lejeczek
+077997.html,[Rd] compiler flags for performance,77997,lejeczek
+078014.html,"[Rd] Halfway through writing an &quot;IDE&quot; with support for R; Proof of concept, and request for suggestions.",78014,irederik m at iii at g oii oib at  at et
+078036.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78036,jing hua zhao
+078039.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78039,jing hua zhao
+078045.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78045,jing hua zhao
+078058.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78058,jing hua zhao
+078060.html,[Rd] Calculation of e^{z^2/2} for a normal deviate z,78060,jing hua zhao
+077934.html,[Rd] tsdiag should pass the fitdf parameter to Box.test,77934,&#23385;&#24198;&#32768;

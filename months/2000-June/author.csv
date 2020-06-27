@@ -1,0 +1,141 @@
+link,Subject,id,author
+020813.html,[Rd] read.table and strip.white,20813,Peter Dalgaard BSA
+020817.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20817,Peter Dalgaard BSA
+020836.html,[Rd] Bug list summary (automatic post),20836,Peter Dalgaard BSA
+020840.html,[Rd] &quot;clipping error in x11()&quot; (PR#564),20840,Peter Dalgaard BSA
+020841.html,[Rd] R 1.1.0 going into feature freeze,20841,Peter Dalgaard BSA
+020852.html,[Rd] w0 in legend,20852,Peter Dalgaard BSA
+020855.html,[Rd] w0 in legend,20855,Peter Dalgaard BSA
+020861.html,[Rd] ctest not works (PR#567),20861,Peter Dalgaard BSA
+020864.html,[Rd] Depends: R(&gt;= ?),20864,Peter Dalgaard BSA
+020874.html,[Rd] Typo in the documentation of prcomp. (PR#569),20874,Peter Dalgaard BSA
+020884.html,"[Rd] Lies, damn lies, and statistics",20884,Peter Dalgaard BSA
+020895.html,[Rd] design question,20895,Peter Dalgaard BSA
+020911.html,[Rd] Bug list summary (automatic post),20911,Peter Dalgaard BSA
+020927.html,"[Rd] possible bug, anova.glm(), family=&quot;gaussian&quot; (PR#579)",20927,Peter Dalgaard BSA
+020931.html,[Rd] dotplot() colors reversed (PR#580),20931,Peter Dalgaard BSA
+020909.html,[Rd] Compiling R 1.1.0 under OpenBSD 2.7,20909,Ragnar Beer
+020810.html,[Rd] legend with multiple columns,20810,Ben Bolker
+020811.html,[Rd] legend with multiple columns,20811,Ben Bolker
+020853.html,[Rd] w0 in legend,20853,Ben Bolker
+020854.html,[Rd] w0 in legend,20854,Ben Bolker
+020859.html,[Rd] w0 in legend,20859,Ben Bolker
+020883.html,"[Rd] Lies, damn lies, and statistics",20883,Rob Creecy
+020939.html,[Rd] Question on an alternative to ls() and expanded R object types,20939,Adrian Vance Custer
+020844.html,[Rd] creating models from &quot;Objects&quot; in R's environment,20844,Cheryl J Fernandes
+020816.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20816,Albrecht Gebhardt
+020819.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20819,Albrecht Gebhardt
+020820.html,[Rd] R.bin (1.1.0) gives segfault,20820,Albrecht Gebhardt
+020830.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20830,Albrecht Gebhardt
+020937.html,[Rd] MAINLD and SHLIBLD,20937,Albrecht Gebhardt
+020842.html,[Rd] require,20842,Paul Gilbert
+020851.html,[Rd] w0 in legend,20851,Paul Gilbert
+020863.html,[Rd] Depends: R(&gt;= ?),20863,Paul Gilbert
+020865.html,[Rd] build buglet,20865,Paul Gilbert
+020869.html,[Rd] build buglet,20869,Paul Gilbert
+020871.html,[Rd] build buglet,20871,Paul Gilbert
+020879.html,[Rd] ordering in R CMD build &amp; R CMD Rdindex,20879,Paul Gilbert
+020901.html,[Rd] ordering in R CMD build &amp; R CMD Rdindex,20901,Paul Gilbert
+020913.html,[Rd] OS calls,20913,Paul Gilbert
+020915.html,[Rd] OS calls,20915,Paul Gilbert
+020916.html,[Rd] OS calls,20916,Paul Gilbert
+020925.html,"[Rd] matlab2R, rats2R and gauss2R",20925,Paul Gilbert
+020948.html,[Rd] more Rd ordering,20948,Paul Gilbert
+020838.html,[Rd] pointer to emacs-lisp,20838,Christian Hoffmann
+020828.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20828,Kurt Hornik
+020832.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20832,Kurt Hornik
+020885.html,[Rd] Missing -lc for compilation on AIX (R 1.1.0) (PR#571),20885,Kurt Hornik
+020897.html,[Rd] ordering in R CMD build &amp; R CMD Rdindex,20897,Kurt Hornik
+020898.html,[Rd] [PATCH] ./configure fails to recognize alphapca56 (PR#572),20898,Kurt Hornik
+020923.html,[Rd] MAINLD and SHLIBLD,20923,Kurt Hornik
+020924.html,[Rd] Re: [R] R and OpenBSD,20924,Kurt Hornik
+020896.html,[Rd] Announce: exact Distributions,20896,Torsten Hothorn
+020846.html,[Rd] &quot;clipping error in x11()&quot; (PR#564),20846,Ross Ihaka
+020907.html,[Rd] exists() and the mode argument (PR#576),20907,J.C.Rougier@durham.ac.uk
+020906.html,[Rd] missing include in pnorm.c (PR#575),20906,Friedrich Leisch
+020942.html,[Rd] Missing SearchEngine.html (PR#585),20942,Friedrich Leisch
+020826.html,[Rd] mle (PR#560),20826,Uwe Ligges
+020834.html,"[Rd] crash after help(..., chmhelp=TRUE) (PR#562)",20834,Uwe Ligges
+020837.html,"[Rd] crash after help(..., chmhelp=TRUE) (PR#562)",20837,Uwe Ligges
+020934.html,[Rd] persp greek label problem (PR#583),20934,Thomas Lumley
+020935.html,[Rd] persp greek label problem (PR#583),20935,Thomas Lumley
+020829.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20829,Martin Maechler
+020892.html,"[Rd] datanentry in windows version, Modes has no default",20892,Guido Masarotto
+020938.html,[Rd] Re: [R] using graphapp.h,20938,Guido Masarotto
+020910.html,[Rd] Port of R header files to Delphi,20910,Duncan Murdoch
+020947.html,[Rd] Binary file functions in R,20947,Duncan Murdoch
+020949.html,[Rd] Binary file functions in R,20949,Duncan Murdoch
+020824.html,[Rd] problem loading packages (PR#559),20824,Rashid Nassar
+020928.html,"[Rd] possible bug, anova.glm(), family=&quot;gaussian&quot; (PR#579)",20928,Rashid Nassar
+020890.html,"[Rd] datanentry in windows version, Modes has no default",20890,Erich Neuwirth
+020893.html,[Rd] design question,20893,Erich Neuwirth
+020886.html,[Rd] [PATCH] ./configure fails to recognize alphapca56 (R-1.,20886,Martyn Plummer
+020900.html,[Rd] [PATCH] ./configure fails to recognize alphapca56 (PR#5,20900,Martyn Plummer
+020848.html,[Rd] Postscript device ignores title if it is too long. (PR#565),20848,Prof Brian Ripley
+020849.html,[Rd] R 1.1.0 going into feature freeze,20849,Prof Brian Ripley
+020862.html,[Rd] ctest not works (PR#567),20862,Prof Brian Ripley
+020870.html,[Rd] build buglet,20870,Prof Brian Ripley
+020875.html,[Rd] Typo in the documentation of prcomp. (PR#569),20875,Prof Brian Ripley
+020889.html,"[Rd] Missing -lm for tcltk (R 1.1.0, AIX 4.3) (PR#573)",20889,Prof Brian Ripley
+020921.html,[Rd] de on w95b crash rterm with long strings (PR#577),20921,Prof Brian Ripley
+020812.html,[Rd] read.table and strip.white,20812,Prof Brian D Ripley
+020815.html,[Rd] read.table and strip.white,20815,Prof Brian D Ripley
+020818.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20818,Prof Brian D Ripley
+020821.html,[Rd] make check on DU4 with R-1.1.0 snapshot,20821,Prof Brian D Ripley
+020822.html,[Rd] R.bin (1.1.0) gives segfault,20822,Prof Brian D Ripley
+020823.html,[Rd] problem loading packages (PR#559),20823,Prof Brian D Ripley
+020827.html,[Rd] mle (PR#560),20827,Prof Brian D Ripley
+020833.html,"[Rd] crash after help(..., chmhelp=TRUE) (PR#562)",20833,Prof Brian D Ripley
+020835.html,"[Rd] crash after help(..., chmhelp=TRUE) (PR#562)",20835,Prof Brian D Ripley
+020843.html,[Rd] require,20843,Prof Brian D Ripley
+020845.html,[Rd] creating models from &quot;Objects&quot; in R's environment,20845,Prof Brian D Ripley
+020857.html,[Rd] R 1.1.0 going into feature freeze,20857,Prof Brian D Ripley
+020858.html,[Rd] R 1.1.0 going into feature freeze,20858,Prof Brian D Ripley
+020866.html,[Rd] build buglet,20866,Prof Brian D Ripley
+020868.html,[Rd] problem with aperm? (PR#568),20868,Prof Brian D Ripley
+020872.html,[Rd] build buglet,20872,Prof Brian D Ripley
+020877.html,[Rd] extra comma in configure (PR#570),20877,Prof Brian D Ripley
+020891.html,"[Rd] datanentry in windows version, Modes has no default",20891,Prof Brian D Ripley
+020905.html,[Rd] missing include in pnorm.c (PR#575),20905,Prof Brian D Ripley
+020908.html,[Rd] exists() and the mode argument (PR#576),20908,Prof Brian D Ripley
+020912.html,[Rd] Port of R header files to Delphi,20912,Prof Brian D Ripley
+020914.html,[Rd] OS calls,20914,Prof Brian D Ripley
+020917.html,[Rd] OS calls,20917,Prof Brian D Ripley
+020918.html,[Rd] OS calls,20918,Prof Brian D Ripley
+020946.html,"[Rd] system.file on Windows, / vs \\ (PR#586)",20946,Prof Brian D Ripley
+020950.html,[Rd] Binary file functions in R,20950,Prof Brian D Ripley
+020882.html,[Rd] [PATCH] ./configure fails to recognize alphapca56 (R-1.1.0),20882,Naoki Takebayashi
+020894.html,[Rd] design question,20894,Bill Venables
+020899.html,[Rd] design question,20899,Bill Venables
+020878.html,[Rd] extra comma in configure (PR#570),20878,Thomas J Vogels
+020881.html,[Rd] eigen broken on AIX with R-devel? (PR#537),20881,Thomas J Vogels
+020903.html,"[Rd] Missing -lm for tcltk (R 1.1.0, AIX 4.3) (PR#573)",20903,Thomas J Vogels
+020839.html,[Rd] &quot;clipping error in x11()&quot; (PR#564),20839,albrecht.gebhardt@uni-klu.ac.at
+020943.html,[Rd] PR#563 - fix installed,20943,bates@stat.wisc.edu
+020873.html,[Rd] Typo in the documentation of prcomp. (PR#569),20873,bhm@math.uio.no
+020904.html,[Rd] missing include in pnorm.c (PR#575),20904,faraway@umich.edu
+020860.html,[Rd] ctest not works (PR#567),20860,george@cpqam.fiocruz.br
+020922.html,[Rd] Re: undocumented behaviour of recordPlot (PR#578),20922,guido@sirio.stat.unipd.it
+020856.html,[Rd] R 1.1.0 going into feature freeze,20856,halvorsen
+020867.html,[Rd] problem with aperm? (PR#568),20867,jim.lemon@uts.edu.au
+020902.html,[Rd] chron library (PR#574),20902,keitt@nceas.ucsb.edu
+020850.html,[Rd] Disappearing values (PR#551),20850,kjetil.kjernsmo@astro.uio.no
+020831.html,"[Rd] crash after help(..., chmhelp=TRUE) (PR#562)",20831,ligges@statistik.uni-dortmund.de
+020932.html,"[Rd] lm.{w}fit(x,y,*) : fails when x has no column names (PR#582)",20932,maechler@stat.math.ethz.ch
+020936.html,[Rd] par(lty = &quot;1&quot;) -- lty storage-etc bug (PR#584),20936,maechler@stat.math.ethz.ch
+020951.html,[Rd] dim(a &lt;- ...) sets invisible flag erronously (PR#587),20951,maechler@stat.math.ethz.ch
+020920.html,[Rd] Re: [R] R 1.1 congrat; undocumented behaviour of recordPlot (PR#578),20920,p.dalgaard@biostat.ku.dk
+020919.html,[Rd] de on w95b crash rterm with long strings (PR#577),20919,p.malewski@tu-bs.de
+020825.html,[Rd] mle (PR#560),20825,pi.broberg@telia.com
+020887.html,[Rd] [PATCH] ./configure fails to recognize alphapca56 (PR#572),20887,plummer@iarc.fr
+020933.html,[Rd] persp greek label problem (PR#583),20933,ramin.nakisa@ncr.com
+020814.html,[Rd] problem loading packages (PR#559),20814,rnassar@duke.edu
+020926.html,"[Rd] possible bug, anova.glm(), family=&quot;gaussian&quot; (PR#579)",20926,rnassar@duke.edu
+020929.html,[Rd] dotplot() colors reversed (PR#580),20929,rnassar@duke.edu
+020930.html,"[Rd] help screens: typos, suggestions (PR#581)",20930,rnassar@duke.edu
+020847.html,[Rd] Postscript device ignores title if it is too long. (PR#565),20847,stephen@anc.ed.ac.uk
+020945.html,"[Rd] system.file on Windows, / vs \\ (PR#586)",20945,thomas@biostat.washington.edu
+020941.html,[Rd] Missing SearchEngine.html (PR#585),20941,tov@bavaria.ece.cmu.edu
+020876.html,[Rd] extra comma in configure (PR#570),20876,tov@ece.cmu.edu
+020880.html,[Rd] Missing -lc for compilation on AIX (R 1.1.0) (PR#571),20880,tov@infiniti.ece.cmu.edu
+020888.html,"[Rd] Missing -lm for tcltk (R 1.1.0, AIX 4.3) (PR#573)",20888,tov@phoenix.ece.cmu.edu

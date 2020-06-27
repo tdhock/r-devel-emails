@@ -1,0 +1,331 @@
+link,Subject,id,author
+062698.html,[Rd] Holding back on source code,62698,Sachinthaka Abeywardana
+062719.html,[Rd] Holding back on source code,62719,Sachinthaka Abeywardana
+062475.html,[Rd] Accessing ENVSXP and CLOSXP while processing parsed R code,62475,Rob Anderson
+062503.html,[Rd] Question on parsing R code from C,62503,Rob Anderson
+062504.html,[Rd] Accessing ENVSXP and CLOSXP while processing parsed R code,62504,Rob Anderson
+062694.html,[Rd] Error in Rd[[which]] : subscript out of bounds,62694,Paul Bailey
+062696.html,[Rd] Error in Rd[[which]] : subscript out of bounds,62696,Paul Bailey
+062531.html,[Rd] Use of Matrix within packages in R-2.14.0,62531,Douglas Bates
+062522.html,[Rd] use() might take a list of packages,62522,Timothy Bates
+062489.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62489,Claudia Beleites
+062425.html,[Rd] Call function only when running via R CMD check?,62425,Henrik Bengtsson
+062442.html,[Rd] Call function only when running via R CMD check?,62442,Henrik Bengtsson
+062459.html,[Rd] How to infer default width and height for a device?,62459,Henrik Bengtsson
+062460.html,[Rd] How to infer default width and height for a device?,62460,Henrik Bengtsson
+062467.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62467,Henrik Bengtsson
+062469.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on	package page?,62469,Henrik Bengtsson
+062471.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62471,Henrik Bengtsson
+062473.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62473,Henrik Bengtsson
+062608.html,[Rd] Windows binaries: Version and revision strings show	&quot;(2006-00-00 r00000)&quot;,62608,Henrik Bengtsson
+062610.html,[Rd] round() ignores missing arguments if it is used inside another function where some arguments are missing.,62610,Henrik Bengtsson
+062649.html,"[Rd] capture.output(eval(...,	envir)) not evaluate in the expected(?) environment",62649,Henrik Bengtsson
+062651.html,"[Rd] capture.output(eval(..., envir)) not evaluate in the expected(?) environment",62651,Henrik Bengtsson
+062695.html,[Rd] Error in Rd[[which]] : subscript out of bounds,62695,Henrik Bengtsson
+062702.html,[Rd] Avoid package in build process when not supported on OS,62702,Henrik Bengtsson
+062704.html,[Rd] R CMD &lt;custom&gt;?,62704,Henrik Bengtsson
+062712.html,[Rd] R CMD &lt;custom&gt;?,62712,Henrik Bengtsson
+062724.html,[Rd] sma installation error,62724,Henrik Bengtsson
+062567.html,[Rd] strange behavior from cex=&quot;*&quot;,62567,Ben Bolker
+062571.html,[Rd] strange behavior from cex=&quot;*&quot;,62571,Ben Bolker
+062692.html,"[Rd] Case: package removed from CRAN, but not orphaned",62692,Ben Bolker
+062589.html,[Rd] R CMD check: &quot;Undocumented class&quot; for class created with	setOldClass(),62589,Andreas Borg
+062403.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62403,Georgi Boshnakov
+062429.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62429,Georgi Boshnakov
+062434.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62434,Georgi Boshnakov
+062456.html,[Rd] Efficiency of factor objects,62456,Milan Bouchet-Valat
+062464.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62464,Milan Bouchet-Valat
+062478.html,[Rd] Efficiency of factor objects,62478,Milan Bouchet-Valat
+062458.html,[Rd] Efficiency of factor objects,62458,Patrick Burns
+062588.html,[Rd] strange behavior from cex=&quot;*&quot;,62588,Patrick Burns
+062628.html,[Rd] a^b when a is large and b &lt; 1 (64bit R on windows 7),62628,Martyn Byng
+062640.html,[Rd] a^b when a is large and b &lt; 1 (64bit R on windows 7),62640,Martyn Byng
+062688.html,[Rd] Problem with &amp; question about \preformatted in .Rd,62688,Gray Calhoun
+062693.html,[Rd] Problem with &amp; question about \preformatted in .Rd,62693,Gray Calhoun
+062535.html,[Rd] cygwin R-2.14.0 build fail,62535,Mark Carter
+062450.html,[Rd] Static R Build,62450,Daniel Cegie&#322;ka
+062411.html,[Rd] kernapply.ts,62411,Pierre Chausse
+062417.html,[Rd] kernapply.ts,62417,Pierre Chausse
+062513.html,[Rd] Define S4 methods for 'plot',62513,Kevin R. Coombes
+062569.html,[Rd] strange behavior from cex=&quot;*&quot;,62569,Kevin R. Coombes
+062600.html,[Rd] round() ignores missing arguments if it is used inside another function where some arguments are missing.,62600,Kevin R. Coombes
+062605.html,[Rd] Non-free packages in R-Forge,62605,Kevin R. Coombes
+062515.html,[Rd] assistance building R on RHEL5,62515,Mike Dahman
+062519.html,[Rd] assistance building R on RHEL5,62519,Mike Dahman
+062405.html,[Rd] reducing a too-large matrix obtained with allocMatrix(),62405,Steven Dirkse
+062477.html,[Rd] Efficiency of factor objects,62477,Matthew Dowle
+062653.html,[Rd] Confused about NAMED,62653,Matthew Dowle
+062655.html,[Rd] Confused about NAMED,62655,Matthew Dowle
+062659.html,[Rd] Confused about NAMED,62659,Matthew Dowle
+062662.html,[Rd] Confused about NAMED,62662,Matthew Dowle
+062665.html,[Rd] Confused about NAMED,62665,Matthew Dowle
+062529.html,[Rd] One step way to create data frame with variable	&quot;variable	names&quot;?,62529,William Dunlap
+062710.html,[Rd] R CMD &lt;custom&gt;?,62710,William Dunlap
+062433.html,[Rd] How to test package on Solaris,62433,Dirk Eddelbuettel
+062585.html,[Rd] .Call in R,62585,Dirk Eddelbuettel
+062483.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62483,Art Eschenlauer
+062590.html,[Rd] .Call in R,62590,Karl Forner
+062598.html,[Rd] .Call in R,62598,Karl Forner
+062685.html,[Rd] How to deal with package conflicts,62685,John Fox
+062697.html,[Rd] How to deal with package conflicts,62697,John Fox
+062622.html,[Rd] extending the colClasses argument in read.table,62622,Romain Fran&#231;ois
+062479.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62479,Michael Friendly
+062492.html,[Rd] NAMESPACES for data only packages,62492,Michael Friendly
+062668.html,[Rd] How to deal with package conflicts,62668,Michael Friendly
+062680.html,[Rd] How to deal with package conflicts,62680,Michael Friendly
+062619.html,[Rd] Adding a &quot;description&quot; meta-tag to the R homepage (bump),62619,Tal Galili
+062418.html,[Rd] Writing new methods for `names&lt;-`,62418,Max Gasner
+062401.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62401,Renaud Gaujoux
+062426.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62426,Renaud Gaujoux
+062428.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62428,Renaud Gaujoux
+062431.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62431,Renaud Gaujoux
+062435.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62435,Renaud Gaujoux
+062436.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62436,Renaud Gaujoux
+062444.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62444,Renaud Gaujoux
+062454.html,[Rd]  Identify \Sexpr call?,62454,Renaud Gaujoux
+062410.html,[Rd] vignettes/,62410,Paul Gilbert
+062461.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62461,Patrick Giraudoux
+062463.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62463,Patrick Giraudoux
+062465.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62465,Patrick Giraudoux
+062474.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62474,Patrick Giraudoux
+062606.html,[Rd] Non-free packages in R-Forge,62606,Spencer Graves
+062485.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62485,Gabor Grothendieck
+062486.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62486,Gabor Grothendieck
+062488.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62488,Gabor Grothendieck
+062491.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62491,Gabor Grothendieck
+062496.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62496,Gabor Grothendieck
+062506.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62506,Gabor Grothendieck
+062508.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62508,Gabor Grothendieck
+062510.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62510,Gabor Grothendieck
+062528.html,[Rd] One step way to create data frame with variable &quot;variable	names&quot;?,62528,Gabor Grothendieck
+062632.html,[Rd] extending the colClasses argument in read.table,62632,Gabor Grothendieck
+062683.html,[Rd] How to deal with package conflicts,62683,Gabor Grothendieck
+062448.html,[Rd] Error in documentation of &quot;merge&quot;,62448,Kasper Daniel Hansen
+062440.html,"[Rd] [R] any updates w.r.t. lapply, sapply,	apply retaining classes",62440,Richard M. Heiberger
+062584.html,[Rd] Non-free packages in CRAN,62584,Jordi Guti&#233;rrez Hermoso
+062599.html,[Rd] Non-free packages in CRAN,62599,Jordi Guti&#233;rrez Hermoso
+062601.html,[Rd] Non-free packages in R-Forge,62601,Jordi Guti&#233;rrez Hermoso
+062604.html,[Rd] Non-free packages in R-Forge,62604,Jordi Guti&#233;rrez Hermoso
+062725.html,[Rd] Holding back on source code,62725,Jordi Guti&#233;rrez Hermoso
+062636.html,[Rd] Suggested improvement for src/library/base/man/qraux.Rd,62636,Tim Hesterberg
+062520.html,[Rd] When collected warnings exceeds 50,62520,Jeffrey Horner
+062521.html,[Rd] When collected warnings exceeds 50,62521,Jeffrey Horner
+062558.html,[Rd] When collected warnings exceeds 50,62558,Jeffrey Horner
+062639.html,[Rd] links to package vignettes on CRAN after R 2.14.0,62639,Kurt Hornik
+062524.html,[Rd] use() might take a list of packages,62524,Keith Jewell
+062415.html,[Rd] extra &amp; in some lines of R KEYWORDS file,62415,Paul Johnson
+062527.html,[Rd] One step way to create data frame with variable &quot;variable	names&quot;?,62527,Paul Johnson
+062723.html,[Rd] sma installation error,62723,Justin
+062498.html,[Rd] Question on parsing R code from C,62498,KR
+062500.html,[Rd] Question on parsing R code from C,62500,KR
+062502.html,[Rd] Question on parsing R code from C,62502,KR
+062523.html,[Rd] Question on parsing R code from C,62523,KR
+062557.html,[Rd] Question on parsing R code from C,62557,KR
+062563.html,[Rd] Question on parsing R code from C,62563,KR
+062445.html,[Rd] Error in documentation of &quot;merge&quot;,62445,Rainer M Krug
+062447.html,[Rd] Error in documentation of &quot;merge&quot;,62447,Rainer M Krug
+062676.html,"[Rd] Case: package removed from CRAN, but not orphaned",62676,Rainer M Krug
+062518.html,[Rd] url() does not decode when writing local files,62518,Michael Lawrence
+062396.html,"[Rd] Sweave, cairo_pdf, xetex, CJK (Re:  Sweave, cairo_pdf, CJK,	ghostscript)",62396,Hin-Tak Leung
+062398.html,"[Rd] Sweave, cairo_pdf, xetex, CJK (Re:  Sweave, cairo_pdf, CJK,	ghostscript)",62398,Hin-Tak Leung
+062420.html,"[Rd] Sweave, cairo_pdf, xetex, CJK (Re:  Sweave, cairo_pdf, CJK,	ghostscript)",62420,Hin-Tak Leung
+062439.html,[Rd] non-ascii vignettes,62439,Hin-Tak Leung
+062721.html,[Rd] a couple Sweave buglets,62721,Hin-Tak Leung
+062530.html,[Rd] Use of Matrix within packages in R-2.14.0,62530,Bryan W. Lewis
+062638.html,[Rd] a^b when a is large and b &lt; 1 (64bit R on windows 7),62638,Bryan W. Lewis
+062462.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62462,Uwe Ligges
+062484.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62484,Uwe Ligges
+062487.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62487,Uwe Ligges
+062490.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62490,Uwe Ligges
+062493.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62493,Uwe Ligges
+062497.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62497,Uwe Ligges
+062507.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62507,Uwe Ligges
+062509.html,[Rd] NAMESPACE file generation issue R 2.14.0 on Debian Squeeze,62509,Uwe Ligges
+062537.html,[Rd] cygwin R-2.14.0 build fail,62537,Uwe Ligges
+062542.html,[Rd] Including multiple third party libraries in an extension,62542,Uwe Ligges
+062546.html,[Rd] Including multiple third party libraries in an extension,62546,Uwe Ligges
+062576.html,[Rd] cygwin R-2.14.0 build fail,62576,Uwe Ligges
+062580.html,[Rd] cygwin R-2.14.0 build fail,62580,Uwe Ligges
+062616.html,[Rd] strange behavior from cex=&quot;*&quot;,62616,Uwe Ligges
+062626.html,[Rd] Patched R build available today is missing some info (data and release number),62626,Uwe Ligges
+062674.html,"[Rd] Case: package removed from CRAN, but not orphaned",62674,Uwe Ligges
+062677.html,"[Rd] Case: package removed from CRAN, but not orphaned",62677,Uwe Ligges
+062549.html,[Rd] Moderating consequences of garbage collection when in C,62549,Thomas Lumley
+062452.html,[Rd] Efficiency of factor objects,62452,Stavros Macrakis
+062468.html,[Rd] Efficiency of factor objects,62468,Stavros Macrakis
+062480.html,[Rd] Efficiency of factor objects,62480,Stavros Macrakis
+062395.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62395,Martin Maechler
+062577.html,[Rd] inaccuracy in man page for duplicated() + anyDuplicated() not working with MARGIN=0,62577,Martin Maechler
+062587.html,[Rd] Small inconsistency with boxplot,62587,Martin Maechler
+062453.html,[Rd] Error in documentation of &quot;merge&quot;,62453,Steven McKinney
+062572.html,[Rd] strange behavior from cex=&quot;*&quot;,62572,Joris Meys
+062592.html,[Rd] round() ignores missing arguments if it is used inside another function where some arguments are missing.,62592,Joris Meys
+062593.html,[Rd] .Call in R,62593,Joris Meys
+062597.html,[Rd] round() ignores missing arguments if it is used inside another function where some arguments are missing.,62597,Joris Meys
+062609.html,[Rd] Non-free packages in CRAN,62609,Joris Meys
+062625.html,[Rd] Patched R build available today is missing some info (data and release number),62625,Joris Meys
+062629.html,[Rd] a^b when a is large and b &lt; 1 (64bit R on windows 7),62629,Joris Meys
+062631.html,[Rd] a^b when a is large and b &lt; 1 (64bit R on windows 7),62631,Joris Meys
+062643.html,[Rd] Generate Simulation,62643,Joris Meys
+062681.html,"[Rd] Case: package removed from CRAN, but not orphaned",62681,Joris Meys
+062404.html,[Rd] Question about copying reference objects using the initialize method,62404,Martin Morgan
+062421.html,[Rd] Writing new methods for `names&lt;-`,62421,Martin Morgan
+062422.html,[Rd] Question about copying reference objects using the initialize method,62422,Martin Morgan
+062550.html,[Rd] Moderating consequences of garbage collection when in C,62550,Martin Morgan
+062553.html,[Rd] Moderating consequences of garbage collection when in C,62553,Martin Morgan
+062591.html,[Rd] .Call in R,62591,Martin Morgan
+062427.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62427,Duncan Murdoch
+062432.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62432,Duncan Murdoch
+062437.html,[Rd] R CMD check and error in an \Sexpr in an Rd file,62437,Duncan Murdoch
+062455.html,[Rd] Identify \Sexpr call?,62455,Duncan Murdoch
+062466.html,"[Rd] Error in gzfile(file, mode) when checking a package with rcmd check",62466,Duncan Murdoch
+062476.html,[Rd] Accessing ENVSXP and CLOSXP while processing parsed R code,62476,Duncan Murdoch
+062574.html,[Rd] strange behavior from cex=&quot;*&quot;,62574,Duncan Murdoch
+062579.html,[Rd] strange behavior from cex=&quot;*&quot;,62579,Duncan Murdoch
+062617.html,[Rd] Windows binaries: Version and revision strings show &quot;(2006-00-00 r00000)&quot;,62617,Duncan Murdoch
+062627.html,[Rd] Patched R build available today is missing some info (data and release number),62627,Duncan Murdoch
+062657.html,[Rd] Confused about NAMED,62657,Duncan Murdoch
+062669.html,[Rd] How to deal with package conflicts,62669,Duncan Murdoch
+062672.html,"[Rd] Case: package removed from CRAN, but not orphaned",62672,Duncan Murdoch
+062675.html,[Rd] How to deal with package conflicts,62675,Duncan Murdoch
+062684.html,[Rd] How to deal with package conflicts,62684,Duncan Murdoch
+062687.html,[Rd] How to deal with package conflicts,62687,Duncan Murdoch
+062707.html,[Rd] R CMD &lt;custom&gt;?,62707,Duncan Murdoch
+062708.html,[Rd] R CMD &lt;custom&gt;?,62708,Duncan Murdoch
+062715.html,[Rd] R CMD &lt;custom&gt;?,62715,Duncan Murdoch
+062716.html,[Rd] Bug in Sys.which()?,62716,Duncan Murdoch
+062419.html,[Rd] overly long lines in pdf output of manual from package,62419,John C Nash
+062424.html,[Rd] overly long lines in pdf output of manual from package,62424,John C Nash
+062624.html,"[Rd] testing on platforms, was Fortran error",62624,John C Nash
+062438.html,[Rd] build 32-bit R on x86_64?,62438,Vinh Nguyen
+062575.html,[Rd] inaccuracy in man page for duplicated() + anyDuplicated() not working with MARGIN=0,62575,Herv&#233; Pag&#232;s
+062582.html,[Rd] inaccuracy in man page for duplicated() + anyDuplicated() not working with MARGIN=0,62582,Herv&#233; Pag&#232;s
+062645.html,[Rd] (&gt;= x.y.z) in Imports field is ignored,62645,Herv&#233; Pag&#232;s
+062713.html,[Rd] extend validObject to validate any object (shallow and deep	validation),62713,Herv&#233; Pag&#232;s
+062551.html,[Rd] R Development Center(s),62551,Edzer Pebesma
+062614.html,[Rd] Windows binaries: Version and revision strings show &quot;(2006-00-00 r00000)&quot;,62614,Brian G. Peterson
+062630.html,[Rd] a^b when a is large and b &lt; 1 (64bit R on windows 7),62630,Brian G. Peterson
+062671.html,"[Rd] Case: package removed from CRAN, but not orphaned",62671,"Pfaff, Bernhard Dr."
+062678.html,"[Rd] Case: package removed from CRAN, but not orphaned",62678,"Pfaff, Bernhard Dr."
+062532.html,[Rd] Including multiple third party libraries in an extension,62532,Tyler Pirtle
+062538.html,[Rd] Including multiple third party libraries in an extension,62538,Tyler Pirtle
+062539.html,[Rd] Including multiple third party libraries in an extension,62539,Tyler Pirtle
+062543.html,[Rd] Including multiple third party libraries in an extension,62543,Tyler Pirtle
+062545.html,[Rd] Including multiple third party libraries in an extension,62545,Tyler Pirtle
+062701.html,[Rd] Avoid package in build process when not supported on OS,62701,"Rau, Roland"
+062703.html,[Rd] Avoid package in build process when not supported on OS,62703,"Rau, Roland"
+062583.html,[Rd] .Call in R,62583,Raymond
+062618.html,[Rd] .Call in R,62618,Raymond
+062409.html,[Rd] How do I use the new 'ByteCompile' field in R-2.14?,62409,Slava Razbash
+062430.html,[Rd] How to test package on Solaris,62430,William Revelle
+062586.html,[Rd] Small inconsistency with boxplot,62586,Mathieu Ribatet
+062652.html,[Rd] Changing graphic titles when using bquote and resizing the	graphic window,62652,Mathieu Ribatet
+062414.html,[Rd] kernapply.ts,62414,Prof Brian Ripley
+062416.html,[Rd] extra &amp; in some lines of R KEYWORDS file,62416,Prof Brian Ripley
+062423.html,[Rd] overly long lines in pdf output of manual from package,62423,Prof Brian Ripley
+062495.html,[Rd] NAMESPACES for data only packages,62495,Prof Brian Ripley
+062517.html,[Rd] assistance building R on RHEL5,62517,Prof Brian Ripley
+062540.html,[Rd] cygwin R-2.14.0 build fail,62540,Prof Brian Ripley
+062560.html,[Rd] When collected warnings exceeds 50,62560,Prof Brian Ripley
+062565.html,[Rd] cygwin R-2.14.0 build fail,62565,Prof Brian Ripley
+062611.html,[Rd] Windows binaries: Version and revision strings show &quot;(2006-00-00 r00000)&quot;,62611,Prof Brian Ripley
+062621.html,[Rd] Fortran runtime error with package cts on CRAN/Mac,62621,Prof Brian Ripley
+062656.html,[Rd] Changing graphic titles when using bquote and resizing the graphic window,62656,Prof Brian Ripley
+062666.html,[Rd] Confused about NAMED,62666,Prof Brian Ripley
+062691.html,[Rd] 32 vs 64 bit difference?,62691,Prof Brian Ripley
+062699.html,[Rd] Holding back on source code,62699,Prof Brian Ripley
+062720.html,[Rd] Updated Windows toolchain,62720,Prof Brian Ripley
+062457.html,[Rd] Efficiency of factor objects,62457,Jeffrey Ryan
+062670.html,[Rd] plot(.xy) and add,62670,Nick Sabbe
+062646.html,[Rd] Non-free packages in R-Forge,62646,Dominick Samperi
+062718.html,[Rd] Holding back on source code,62718,Dominick Samperi
+062556.html,[Rd] Small nit in Sweave,62556,Marc Schwartz
+062603.html,[Rd] Non-free packages in R-Forge,62603,Marc Schwartz
+062615.html,[Rd] [OctDev]  Non-free packages in CRAN,62615,Robert T. Short
+062595.html,[Rd] round() ignores missing arguments if it is used inside another function where some arguments are missing.,62595,Gavin Simpson
+062512.html,[Rd] exporting isChild in package parallel,62512,Michael Spiegel
+062562.html,[Rd] Injecting source reference from external editors (emacs).,62562,Vitalie Spinu
+062613.html,[Rd] Problems with new srcref warnings in R 2.14 (development),62613,Vitalie Spinu
+062623.html,[Rd] Efficient development of NAMESPACEd packages.,62623,Vitalie Spinu
+062714.html,[Rd] Bug in Sys.which()?,62714,Dan Tenenbaum
+062717.html,[Rd] Bug in Sys.which()?,62717,Dan Tenenbaum
+062555.html,[Rd] Small nit in Sweave,62555,Terry Therneau
+062641.html,"[Rd] R-devel Digest, Vol 105, Issue 22",62641,Terry Therneau
+062673.html,[Rd] How to deal with package conflicts,62673,Terry Therneau
+062679.html,[Rd] How to deal with package conflicts,62679,Terry Therneau
+062682.html,[Rd] How to deal with package conflicts,62682,Terry Therneau
+062686.html,[Rd] How to deal with package conflicts,62686,Terry Therneau
+062689.html,[Rd] 32 vs 64 bit difference?,62689,Terry Therneau
+062700.html,[Rd] 32 vs 64 bit difference?,62700,Terry Therneau
+062481.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62481,Berwin A Turlach
+062397.html,"[Rd] Sweave, cairo_pdf, xetex, CJK (Re:  Sweave, cairo_pdf, CJK,	ghostscript)",62397,Simon Urbanek
+062407.html,[Rd] reducing a too-large matrix obtained with allocMatrix(),62407,Simon Urbanek
+062408.html,[Rd] can one modify array in R memory from C++ without copying	it?,62408,Simon Urbanek
+062451.html,[Rd] Static R Build,62451,Simon Urbanek
+062499.html,[Rd] Question on parsing R code from C,62499,Simon Urbanek
+062501.html,[Rd] Question on parsing R code from C,62501,Simon Urbanek
+062505.html,[Rd] Question on parsing R code from C,62505,Simon Urbanek
+062525.html,[Rd] Question on parsing R code from C,62525,Simon Urbanek
+062526.html,[Rd] Question on parsing R code from C,62526,Simon Urbanek
+062534.html,[Rd] Including multiple third party libraries in an extension,62534,Simon Urbanek
+062541.html,[Rd] Including multiple third party libraries in an extension,62541,Simon Urbanek
+062544.html,[Rd] Including multiple third party libraries in an extension,62544,Simon Urbanek
+062547.html,[Rd] Including multiple third party libraries in an extension,62547,Simon Urbanek
+062559.html,[Rd] Question on parsing R code from C,62559,Simon Urbanek
+062564.html,[Rd] Question on parsing R code from C,62564,Simon Urbanek
+062594.html,[Rd] round() ignores missing arguments if it is used inside	another function where some arguments are missing.,62594,Simon Urbanek
+062596.html,[Rd] Non-free packages in CRAN,62596,Simon Urbanek
+062633.html,"[Rd] testing on platforms, was Fortran error",62633,Simon Urbanek
+062648.html,"[Rd] gsub, utf-8 replacements and the C-locale",62648,Simon Urbanek
+062650.html,"[Rd] capture.output(eval(...,	envir)) not evaluate in the expected(?) environment",62650,Simon Urbanek
+062660.html,"[Rd] capture.output(eval(...,	envir)) not evaluate in the expected(?) environment",62660,Simon Urbanek
+062663.html,[Rd] Confused about NAMED,62663,Simon Urbanek
+062667.html,[Rd] Confused about NAMED,62667,Simon Urbanek
+062412.html,[Rd] Question about copying reference objects using the initialize method,62412,Aleix Ruiz de Villa
+062533.html,[Rd] use() might take a list of packages,62533,Xu Wang
+062620.html,[Rd] Fortran runtime error with package cts on CRAN/Mac,62620,Zhu Wang
+062634.html,[Rd] Fortran runtime error with package cts on CRAN/Mac,62634,Zhu Wang
+062441.html,"[Rd] [R] any updates w.r.t. lapply, sapply,	apply retaining classes",62441,Hadley Wickham
+062482.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62482,Hadley Wickham
+062607.html,[Rd] DSC?,62607,Hadley Wickham
+062647.html,"[Rd] gsub, utf-8 replacements and the C-locale",62647,Hadley Wickham
+062705.html,[Rd] R CMD &lt;custom&gt;?,62705,Hadley Wickham
+062709.html,[Rd] R CMD &lt;custom&gt;?,62709,Hadley Wickham
+062711.html,[Rd] R CMD &lt;custom&gt;?,62711,Hadley Wickham
+062722.html,[Rd] Bug in URLencode?,62722,Hadley Wickham
+062413.html,[Rd] How do I use the new 'ByteCompile' field in R-2.14?,62413,Joshua Wiley
+062494.html,[Rd] NAMESPACES for data only packages,62494,Joshua Wiley
+062443.html,"[Rd] [R] any updates w.r.t. lapply, sapply,	apply retaining classes",62443,Mike Williamson
+062602.html,[Rd] Non-free packages in R-Forge,62602,David Winsemius
+062470.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62470,Yihui Xie
+062472.html,[Rd] CRAN: How to list a non-Sweave doc under &quot;Vignettes:&quot; on package page?,62472,Yihui Xie
+062637.html,[Rd] links to package vignettes on CRAN after R 2.14.0,62637,Yihui Xie
+062644.html,[Rd] links to package vignettes on CRAN after R 2.14.0,62644,Yihui Xie
+062706.html,[Rd] R CMD &lt;custom&gt;?,62706,Yihui Xie
+062449.html,[Rd] Static R Build,62449,Michael Yan
+062561.html,[Rd] cygwin R-2.14.0 build fail,62561,marco atzeri
+062566.html,[Rd] cygwin R-2.14.0 build fail,62566,marco atzeri
+062573.html,[Rd] cygwin R-2.14.0 build fail,62573,marco atzeri
+062578.html,[Rd] cygwin R-2.14.0 build fail,62578,marco atzeri
+062581.html,[Rd] cygwin R-2.14.0 build fail,62581,marco atzeri
+062511.html,[Rd] Define S4 methods for 'plot',62511,cgenolin
+062516.html,[Rd] Define S4 methods for 'plot',62516,cgenolin
+062446.html,[Rd] Error in documentation of &quot;merge&quot;,62446,peter dalgaard
+062536.html,[Rd] cygwin R-2.14.0 build fail,62536,peter dalgaard
+062568.html,[Rd] cygwin R-2.14.0 build fail,62568,peter dalgaard
+062570.html,[Rd] strange behavior from cex=&quot;*&quot;,62570,peter dalgaard
+062612.html,[Rd] round() ignores missing arguments if it is used inside	another function where some arguments are missing.,62612,peter dalgaard
+062654.html,[Rd] Confused about NAMED,62654,peter dalgaard
+062658.html,[Rd] Confused about NAMED,62658,peter dalgaard
+062661.html,[Rd] Confused about NAMED,62661,peter dalgaard
+062690.html,[Rd] 32 vs 64 bit difference?,62690,peter dalgaard
+062399.html,[Rd] weird error,62399,steven mosher
+062400.html,[Rd] weird error,62400,steven mosher
+062642.html,[Rd] Generate Simulation,62642,savina partheni
+062635.html,[Rd] extending the colClasses argument in read.table,62635,romain at r-enthusiasts.com
+062514.html,[Rd] Moderating consequences of garbage collection when in C,62514,dhinds at sonic.net
+062548.html,[Rd] Moderating consequences of garbage collection when in C,62548,dhinds at sonic.net
+062552.html,[Rd] Moderating consequences of garbage collection when in C,62552,dhinds at sonic.net
+062554.html,[Rd] Moderating consequences of garbage collection when in C,62554,dhinds at sonic.net
+062664.html,[Rd] Confused about NAMED,62664,luke-tierney at uiowa.edu
+062406.html,[Rd] can one modify array in R memory from C++ without copying it?,62406,andre zege

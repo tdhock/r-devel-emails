@@ -1,0 +1,80 @@
+link,Subject,id,author
+072011.html,[Rd] PDFs and SVGs containing rasterGrobs don't display correctly in some other software,72011,Henrik Bengtsson
+071996.html,[Rd] Fwd: Rcpp sugar dpois,71996,Enrico Bibbona
+072009.html,[Rd] PDFs and SVGs containing rasterGrobs don't display correctly in some other software,72009,Richard Cotton
+072026.html,[Rd] Best way to implement optional functions?,72026,Richard Cotton
+072045.html,[Rd] Best way to implement optional functions?,72045,Richard Cotton
+072046.html,[Rd] capturing warnings using capture.output,72046,Richard Cotton
+072021.html,[Rd] corrupt PACKAGES.gz?,72021,William Dunlap
+072023.html,[Rd] corrupt PACKAGES.gz?,72023,William Dunlap
+072024.html,[Rd] R_MakeExternalPtr 'tag' argument,72024,William Dunlap
+072047.html,[Rd] capturing warnings using capture.output,72047,William Dunlap
+071997.html,[Rd] Fwd: Rcpp sugar dpois,71997,Dirk Eddelbuettel
+072017.html,[Rd] Building R for AIX in 64-bit mode,72017,Dirk Eddelbuettel
+072033.html,[Rd] Exporting a method to a cluster object,72033,Dirk Eddelbuettel
+072041.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72041,Dirk Eddelbuettel
+072051.html,[Rd] MKL Acceleration encouraging; need adjust package builds?,72051,Dirk Eddelbuettel
+072056.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72056,Dirk Eddelbuettel
+072073.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72073,Dirk Eddelbuettel
+072000.html,[Rd] setOldClass(&quot;xts&quot;),72000,Xavier Faure-Miller
+072059.html,[Rd] compile question,72059,Michael Felt
+072060.html,[Rd] compile question,72060,Michael Felt
+072061.html,[Rd] compile question - now status update,72061,Michael Felt
+072065.html,[Rd] compile question,72065,Michael Felt
+072068.html,[Rd] compile question,72068,Michael Felt
+072070.html,[Rd] compile question,72070,Michael Felt
+072029.html,[Rd] Small request of a feature improvement in the next version of R,72029,Paul Grosu
+072043.html,[Rd] Small request of a feature improvement in the next version	of R,72043,Paul Grosu
+072053.html,[Rd] compile question,72053,Paul Grosu
+072019.html,[Rd] Puzzled by eval,72019,Gabor Grothendieck
+072037.html,[Rd] format.pval,72037,Benjamin Hofner
+072038.html,"[Rd] Good practice for naming classes, builders, attributes, getters/setters for object composition",72038,Julien Id&#233;
+072048.html,[Rd] MKL Acceleration encouraging; need adjust package builds?,72048,Paul Johnson
+072063.html,[Rd] MKL Acceleration encouraging; need adjust package builds?,72063,Paul Johnson
+072032.html,[Rd] Outdated information in regex.Rd,72032,Mikko Korpela
+072035.html,[Rd] Outdated information in regex.Rd,72035,Mikko Korpela
+072071.html,[Rd] [patch] Use JIT for PCRE pattern matching,72071,Mikko Korpela
+072039.html,"[Rd] Good practice for naming classes, builders, attributes, getters/setters for object composition",72039,Michael Lawrence
+072031.html,[Rd] Exporting a method to a cluster object,72031,Philip Leifeld
+072022.html,[Rd] corrupt PACKAGES.gz?,72022,Uwe Ligges
+072064.html,[Rd] Inconsistency in treating NaN-results?,72064,Mark van der Loo
+072034.html,[Rd] Outdated information in regex.Rd,72034,Martin Maechler
+072040.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72040,Sebastian Meyer
+072007.html,[Rd] navigation mode(s) in rgl,72007,Duncan Murdoch
+072014.html,[Rd] Puzzled by eval,72014,Duncan Murdoch
+072018.html,[Rd] Puzzled by eval,72018,Duncan Murdoch
+072027.html,[Rd] Best way to implement optional functions?,72027,Duncan Murdoch
+072058.html,[Rd] Custom C finalizers for .Call,72058,Duncan Murdoch
+072044.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72044,Paul Murrell
+072072.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72072,Paul Murrell
+072028.html,[Rd] Best way to implement optional functions?,72028,Thierry Onkelinx
+072055.html,[Rd] Custom C finalizers for .Call,72055,Jeroen Ooms
+072012.html,[Rd] inconsistency between order() and sort(),72012,Herv&#233; Pag&#232;s
+072057.html,[Rd] Custom C finalizers for .Call,72057,Andrew Piskorski
+072030.html,[Rd] Small request of a feature improvement in the next version of R,72030,Martyn Plummer
+072036.html,[Rd] Outdated information in regex.Rd,72036,Brian Ripley
+072042.html,[Rd] R-devel no longer supports Ubuntu 14.04 LTS (insufficient PCRE version),72042,Prof Brian Ripley
+072049.html,[Rd] MKL Acceleration encouraging; need adjust package builds?,72049,David Smith
+072074.html,[Rd] Inconsistency in treating NaN-results?,72074,Greg Snow
+072006.html,[Rd] navigation mode(s) in rgl,72006,Michael Sumner
+072008.html,[Rd] navigation mode(s) in rgl,72008,Michael Sumner
+072013.html,[Rd] Puzzled by eval,72013,"Therneau, Terry M., Ph.D."
+072016.html,[Rd] Puzzled by eval,72016,"Therneau, Terry M., Ph.D."
+072025.html,[Rd] R_MakeExternalPtr 'tag' argument,72025,Simon Urbanek
+072062.html,[Rd] Custom C finalizers for .Call,72062,Simon Urbanek
+072002.html,[Rd] setOldClass(&quot;xts&quot;),72002,Hadley Wickham
+072010.html,[Rd] PDFs and SVGs containing rasterGrobs don't display correctly in some other software,72010,Hadley Wickham
+072020.html,[Rd] Puzzled by eval,72020,Hadley Wickham
+071998.html,[Rd] Major Platform Discrepancies,71998,Joseph Wood
+072001.html,[Rd] Understanding r-patched sources and R-devel sources plus tool	sync,72001,aixtools
+072003.html,[Rd] Building R for AIX in 64-bit mode,72003,aixtools
+072004.html,[Rd] Building R for AIX in 64-bit mode,72004,aixtools
+072005.html,[Rd] Building R for AIX in 64-bit mode,72005,aixtools
+072015.html,[Rd] Building R for AIX in 64-bit mode,72015,aixtools
+072050.html,[Rd] compile question,72050,aixtools
+072052.html,[Rd] compile question,72052,aixtools
+071999.html,[Rd] Major Platform Discrepancies,71999,peter dalgaard
+072054.html,[Rd] compile question,72054,peter dalgaard
+072067.html,[Rd] compile question,72067,peter dalgaard
+072069.html,[Rd] compile question,72069,peter dalgaard
+072066.html,[Rd] Custom C finalizers for .Call,72066,luke-tierney at uiowa.edu

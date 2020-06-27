@@ -1,0 +1,148 @@
+link,Subject,id,author
+020529.html,[Rd] Bug ? mine or ? in R core,20529,Peter Dalgaard BSA
+020531.html,[Rd] Bug ? mine or ? in R core,20531,Peter Dalgaard BSA
+020534.html,"[Rd] another save/load problem, only(?) affecting ascii = TRUE (PR#507)",20534,Peter Dalgaard BSA
+020550.html,[Rd] Strange behaviour of image (PR#510),20550,Peter Dalgaard BSA
+020552.html,[Rd] Bug list summary (automatic post),20552,Peter Dalgaard BSA
+020557.html,[Rd] Re: [R] Perl v5.6.0 breaks the configure script,20557,Peter Dalgaard BSA
+020566.html,[Rd] Strange behaviour of image (PR#510),20566,Peter Dalgaard BSA
+020573.html,xfig device (was [Rd] Re: [R] MetaPost device?),20573,Peter Dalgaard BSA
+020576.html,xfig device (was [Rd] Re: [R] MetaPost device?),20576,Peter Dalgaard BSA
+020599.html,"[Rd] For wishlist: sanity checks for subsets in lm, glm (PR#515)",20599,Peter Dalgaard BSA
+020601.html,"[Rd] For wishlist: sanity checks for subsets in lm, glm (PR#",20601,Peter Dalgaard BSA
+020621.html,[Rd] akima core dumps on loading (PR#521),20621,Peter Dalgaard BSA
+020639.html,[Rd] R CMD check seg fault in Linux,20639,Peter Dalgaard BSA
+020641.html,[Rd] Bug list summary (automatic post),20641,Peter Dalgaard BSA
+020647.html,[Rd] Cross compiling a package for Windows on Linux,20647,Peter Dalgaard BSA
+020649.html,[Rd] Cross compiling a package for Windows on Linux,20649,Peter Dalgaard BSA
+020651.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20651,Peter Dalgaard BSA
+020664.html,"[Rd] graphics: par(mfg=c(i,j,r,c)) (PR#529)",20664,Peter Dalgaard BSA
+020676.html,[Rd] rpois hangs (PR#530),20676,Peter Dalgaard BSA
+020619.html,[Rd] R-1.0.1 now available via rsync,20619,Douglas Bates
+020645.html,[Rd] Cross compiling a package for Windows on Linux,20645,Douglas Bates
+020660.html,[Rd] Cross compiling a package for Windows on Linux,20660,Douglas Bates
+020631.html,[Rd] scale factors/overdispersion in GLM: possible bug?,20631,Ben Bolker
+020663.html,"[Rd] graphics: par(mfg=c(i,j,r,c)) (PR#529)",20663,Craig.Mckinstry@pnl.gov
+020541.html,[Rd] write.table with rows and cols (PR#509),20541,Dirk Eddelbuettel
+020625.html,[Rd] Maths in R documentation (PR#523),20625,Robert Gentleman
+020581.html,[Rd] 00Index of data,20581,Paul Gilbert
+020583.html,[Rd] 00Index of data,20583,Paul Gilbert
+020585.html,[Rd] R CMD build/check,20585,Paul Gilbert
+020586.html,[Rd] 2 \alias{obj},20586,Paul Gilbert
+020593.html,[Rd] 2 \alias{obj},20593,Paul Gilbert
+020604.html,[Rd] R CMD build/check,20604,Paul Gilbert
+020618.html,[Rd] bundle build and Rd2Sd converion fail (PR#519),20618,Paul Gilbert
+020638.html,[Rd] R CMD check seg fault in Linux,20638,Paul Gilbert
+020640.html,[Rd] R CMD check seg fault in Linux,20640,Paul Gilbert
+020665.html,[Rd] Rd files with multiple functions?,20665,Paul Gilbert
+020668.html,[Rd] Rd files with multiple functions?,20668,Paul Gilbert
+020672.html,[Rd] Rd files with multiple functions?,20672,Paul Gilbert
+020532.html,[Rd] C++ support,20532,Kurt Hornik
+020542.html,[Rd] R CMD build,20542,Kurt Hornik
+020553.html,[Rd] Re: [R] Perl v5.6.0 breaks the configure script,20553,Kurt Hornik
+020556.html,[Rd] Re: [R] Perl v5.6.0 breaks the configure script,20556,Kurt Hornik
+020579.html,[Rd] R CMD build/check,20579,Kurt Hornik
+020595.html,[Rd] cannot compile on solaris,20595,Kurt Hornik
+020596.html,[Rd] 00Index of data,20596,Kurt Hornik
+020597.html,[Rd] R CMD build/check,20597,Kurt Hornik
+020637.html,[Rd] INSTALL_SCRIPT during installation (PR#526),20637,Kurt Hornik
+020670.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20670,Kurt Hornik
+020674.html,[Rd] Rd files with multiple functions?,20674,Kurt Hornik
+020551.html,[Rd] Re: [R] MetaPost device?,20551,Ross Ihaka
+020569.html,[Rd] Re: [R] MetaPost device?,20569,Ross Ihaka
+020549.html,[Rd] Strange behaviour of image (PR#510),20549,J.C.Rougier@durham.ac.uk
+020653.html,[Rd] Re: [R] Writing lgrindefs,20653,Kjetil Kjernsmo
+020673.html,[Rd] Writing lgrindefs,20673,Kjetil Kjernsmo
+020677.html,[Rd] rpois hangs (PR#530),20677,Kjetil Kjernsmo
+020535.html,[Rd] window(): feature request,20535,Wolfgang Koller
+020547.html,[Rd] Automation of scripts ... reading a file.,20547,Sivaramakrishna Iyer Krishnan
+020610.html,[Rd] xgobi in R on win95,20610,Duncan Temple Lang
+020528.html,[Rd] Bug ? mine or ? in R core,20528,Michael Lapsley
+020530.html,[Rd] Bug ? mine or ? in R core,20530,Michael Lapsley
+020655.html,[Rd] Re: [R] Writing lgrindefs,20655,Friedrich Leisch
+020656.html,[Rd] Re: [R] Writing lgrindefs,20656,Friedrich Leisch
+020612.html,[Rd] xgobi in R on win95,20612,Nicholas Lewin-Koh
+020546.html,[Rd] xyz.coords(.),20546,Uwe Ligges
+020636.html,[Rd] .Renviron and WinNT4 SP5/SP6,20636,Uwe Ligges
+020657.html,[Rd] Writing lgrindefs,20657,Uwe Ligges
+020560.html,[Rd] Bug in qbinom? (PR#511),20560,Thomas Lumley
+020563.html,[Rd] Bug in qbinom? (PR#511),20563,Thomas Lumley
+020629.html,[Rd] strheight() crashes without opened device (PR#524),20629,Thomas Lumley
+020659.html,[Rd] gcinfo/R_alloc inconsistency,20659,Thomas Lumley
+020580.html,[Rd] R CMD build/check,20580,Martin Maechler
+020611.html,[Rd] Embedding Xgobi into R,20611,Martin Maechler
+020650.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20650,Martin Maechler
+020652.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20652,Martin Maechler
+020662.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20662,Martin Maechler
+020666.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20666,Martin Maechler
+020667.html,[Rd] Rd files with multiple functions?,20667,Martin Maechler
+020671.html,[Rd] &quot;keep.source&quot; changes committed to R-devel,20671,Martin Maechler
+020548.html,[Rd] Re: [R] MetaPost device?,20548,Guido Masarotto
+020568.html,[Rd] cannot compile on solaris,20568,Erich Neuwirth
+020578.html,[Rd] cannot compile on solaris,20578,Erich Neuwirth
+020605.html,[Rd] xgobin on win95,20605,Erich Neuwirth
+020606.html,"[Rd] xgobi, footnote",20606,Erich Neuwirth
+020607.html,"[Rd] xgobi, second footnote",20607,Erich Neuwirth
+020609.html,[Rd] xgobi in R on win95,20609,Erich Neuwirth
+020600.html,"[Rd] For wishlist: sanity checks for subsets in lm, glm (PR#",20600,Martyn Plummer
+020565.html,[Rd] Strange behaviour of image (PR#510),20565,Prof Brian Ripley
+020582.html,[Rd] 00Index of data,20582,Prof Brian Ripley
+020584.html,[Rd] 00Index of data,20584,Prof Brian Ripley
+020603.html,"[Rd] For wishlist: sanity checks for subsets in lm, glm (PR#",20603,Prof Brian Ripley
+020613.html,[Rd] XFig device,20613,Prof Brian Ripley
+020616.html,[Rd] bundle build and Rd2Sd converion fail (PR#519),20616,Prof Brian Ripley
+020617.html,[Rd] Rd2Sd conversion: files (PR#520),20617,Prof Brian Ripley
+020654.html,[Rd] options(keep.source = TRUE) -- also for &quot;library(.)&quot; ?,20654,Prof Brian Ripley
+020658.html,[Rd] Cross compiling a package for Windows on Linux,20658,Prof Brian Ripley
+020669.html,[Rd] Rd files with multiple functions?,20669,Prof Brian Ripley
+020537.html,"[Rd] cbind.ts(),ts.union() (PR#508)",20537,Prof Brian D Ripley
+020540.html,[Rd] write.table with rows and cols (PR#509),20540,Prof Brian D Ripley
+020543.html,[Rd] R CMD build,20543,Prof Brian D Ripley
+020554.html,[Rd] Re: [R] Perl v5.6.0 breaks the configure script,20554,Prof Brian D Ripley
+020570.html,xfig device (was [Rd] Re: [R] MetaPost device?),20570,Prof Brian D Ripley
+020571.html,[Rd] cannot compile on solaris,20571,Prof Brian D Ripley
+020572.html,[Rd] window(): feature request,20572,Prof Brian D Ripley
+020574.html,[Rd] Strange behaviour of image (PR#510),20574,Prof Brian D Ripley
+020575.html,xfig device (was [Rd] Re: [R] MetaPost device?),20575,Prof Brian D Ripley
+020577.html,[Rd] x11 colortype problems ('gray' is broken?) (PR#512),20577,Prof Brian D Ripley
+020587.html,[Rd] 2 \alias{obj},20587,Prof Brian D Ripley
+020589.html,xfig device (was [Rd] Re: [R] MetaPost device?),20589,Prof Brian D Ripley
+020594.html,[Rd] 2 \alias{obj},20594,Prof Brian D Ripley
+020608.html,[Rd] xgobin on win95,20608,Prof Brian D Ripley
+020643.html,[Rd] Comments on Win95 R Distribution (PR#527),20643,Prof Brian D Ripley
+020646.html,[Rd] Cross compiling a package for Windows on Linux,20646,Prof Brian D Ripley
+020661.html,[Rd] Cross compiling a package for Windows on Linux,20661,Prof Brian D Ripley
+020562.html,[Rd] Strange behaviour of image (PR#510),20562,Jonathan Rougier
+020588.html,xfig device (was [Rd] Re: [R] MetaPost device?),20588,Telford Tendys
+020590.html,xfig device (was [Rd] Re: [R] MetaPost device?),20590,Telford Tendys
+020538.html,[Rd] AIX fails on startup with R-1.0.0,20538,Thomas J Vogels
+020558.html,[Rd] Re: [R] MetaPost device?,20558,Thomas J Vogels
+020630.html,"[Rd] Windows-specific: image(z,zlim=()) gives bogus colors outside range (PR#525)",20630,bolker@zoo.ufl.edu
+020559.html,[Rd] Bug in qbinom? (PR#511),20559,dtrenkler@nts6.oec.uni-osnabrueck.de
+020539.html,[Rd] write.table with rows and cols (PR#509),20539,edd@debian.org
+020644.html,"[Rd] Wrong SEs in predict.lm(..., type=&quot;terms&quot;) (PR#528)",20644,john.maindonald@anu.edu.au
+020648.html,[Rd] R,20648,jr
+020675.html,[Rd] rpois hangs (PR#530),20675,kjetikj@astro.uio.no
+020536.html,"[Rd] cbind.ts(),ts.union() (PR#508)",20536,koller2@fgr.wu-wien.ac.at
+020634.html,[Rd] INSTALL_SCRIPT during installation (PR#526),20634,lamj@stat.cmu.edu
+020628.html,[Rd] strheight() crashes without opened device (PR#524),20628,ligges@statistik.uni-dortmund.de
+020533.html,"[Rd] another save/load problem, only(?) affecting ascii = TRUE (PR#507)",20533,maechler@stat.math.ethz.ch
+020555.html,"[Rd] matlines, matpoints don't follow prototype (PR#506)",20555,maechler@stat.math.ethz.ch
+020564.html,[Rd] Bug in qbinom? (PR#511),20564,maechler@stat.math.ethz.ch
+020626.html,[Rd] Maths in R documentation (PR#523),20626,maechler@stat.math.ethz.ch
+020627.html,[Rd] Maths in R documentation (PR#523),20627,maechler@stat.math.ethz.ch
+020544.html,[Rd] People with pain,20544,marggie24@guelmail.com
+020545.html,[Rd] Live long and prosper,20545,marggie24@guelmail.com
+020602.html,"[Rd] For wishlist: sanity checks for subsets in lm, glm (PR#",20602,p.dalgaard@biostat.ku.dk
+020623.html,[Rd] akima core dumps on loading (PR#521),20623,p.dalgaard@biostat.ku.dk
+020591.html,"[Rd] start.ts, end.ts (PR#513)",20591,plummer@iarc.fr
+020592.html,[Rd] aggregate.ts (PR#514),20592,plummer@iarc.fr
+020598.html,"[Rd] For wishlist: sanity checks for subsets in lm, glm (PR#515)",20598,plummer@iarc.fr
+020624.html,[Rd] Maths in R documentation (PR#523),20624,plummer@iarc.fr
+020642.html,[Rd] Comments on Win95 R Distribution (PR#527),20642,salwin@mitretek.org
+020620.html,[Rd] akima core dumps on loading (PR#521),20620,santini@dsi.unimi.it
+020614.html,[Rd] bundle build and Rd2Sd converion fail (PR#519),20614,sergei@stams.strath.ac.uk
+020615.html,[Rd] Rd2Sd conversion: files (PR#520),20615,sergei@stams.strath.ac.uk
+020622.html,[Rd] na.omit fails for matrices (PR#522),20622,sergei@stams.strath.ac.uk
+020567.html,[Rd] Bug in qbinom? (PR#511),20567,thomas@biostat.washington.edu
+020561.html,[Rd] x11 colortype problems ('gray' is broken?) (PR#512),20561,tov@ece.cmu.edu

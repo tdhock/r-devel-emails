@@ -1,0 +1,113 @@
+link,Subject,id,author
+068430.html,[Rd] What this error means,68430,Gabriel Becker
+068432.html,[Rd] What this error means,68432,Gabriel Becker
+068349.html,[Rd] capture.output(): Using a rawConnection() [linear] instead of textConnection() [exponential]?,68349,Henrik Bengtsson
+068342.html,[Rd] seq range argument,68342,Berry Boessenkool
+068346.html,[Rd] seq range argument,68346,Berry Boessenkool
+068356.html,[Rd] C headers,68356,G&#246;ran Brostr&#246;m
+068357.html,[Rd] suggested addition to 'install.packages' help file,68357,Patrick Burns
+068401.html,[Rd] no objects apparent in built package,68401,Patrick Burns
+068388.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68388,Winston Chang
+068398.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68398,Winston Chang
+068360.html,[Rd] suggestion for &quot;sets&quot; tools upgrade,68360,Kevin Coombes
+068333.html,[Rd] Running examples with R5 constructor from package failing,68333,Imanuel Costigan
+068335.html,[Rd] Running examples with R5 constructor from package failing,68335,Imanuel Costigan
+068366.html,[Rd] Redefining .Call,68366,G&#225;bor Cs&#225;rdi
+068368.html,[Rd] Redefining .Call,68368,G&#225;bor Cs&#225;rdi
+068343.html,[Rd] Release plans for R versions 3.0.3 and 3.1.0,68343,Peter Dalgaard
+068415.html,[Rd] &quot;Spinning ball&quot; in Rgui in Windows but not in OS X,68415,Fisher Dennis
+068354.html,[Rd] C headers,68354,Adrian Du&#537;a
+068387.html,[Rd] C headers,68387,Adrian Du&#537;a
+068385.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68385,Dirk Eddelbuettel
+068408.html,[Rd] contrib.url in non-interactive mode,68408,Dirk Eddelbuettel
+068338.html,[Rd] LinkingTo self,68338,Romain Francois
+068393.html,[Rd] getting environment from &quot;top&quot; promise,68393,Romain Francois
+068407.html,[Rd] getting environment from &quot;top&quot; promise,68407,Romain Francois
+068434.html,"[Rd] help with gotoExitingHandler(R_NilValue, call, entry);	. Implementation of error handling internally",68434,Romain Fran&#231;ois
+068435.html,"[Rd] help with gotoExitingHandler(R_NilValue, call, entry);	. Implementation of error handling internally",68435,Romain Fran&#231;ois
+068437.html,"[Rd] help with gotoExitingHandler(R_NilValue, call, entry);	. Implementation of error handling internally",68437,Romain Fran&#231;ois
+068403.html,[Rd] contrib.url in non-interactive mode,68403,Renaud Gaujoux
+068337.html,[Rd] String Vector Encoding,68337,Saptarshi Guha
+068345.html,[Rd] String Vector Encoding,68345,Saptarshi Guha
+068353.html,"[Rd] R CMD check, NOTEs, &amp; S4-dependent packages",68353,Kasper Daniel Hansen
+068394.html,[Rd] FastR,68394,Michael Haupt
+068400.html,[Rd] FastR,68400,Michael Haupt
+068374.html,"[Rd] Question re: NA, NaNs in R",68374,Tim Hesterberg
+068410.html,[Rd]  Revolutions Blog: January 2014 roundup,68410,Wolfgang Huber
+068411.html,[Rd] Revolutions Blog: January 2014 roundup,68411,Wolfgang Huber
+068417.html,[Rd] Where to put package vignettes,68417,S&#248;ren H&#248;jsgaard
+068418.html,[Rd] Where to put package vignettes,68418,S&#248;ren H&#248;jsgaard
+068340.html,[Rd] Fwd: linker issue,68340,Samuel Kemp
+068439.html,[Rd] [PATCH] suggestions for R-lang manual,68439,Scott Kostyshak
+068399.html,[Rd] FastR,68399,Qiang Kou
+068381.html,"[Rd] Question re: NA, NaNs in R",68381,Rainer M Krug
+068389.html,[Rd] getting environment from &quot;top&quot; promise,68389,Michael Lawrence
+068412.html,[Rd] Graphical parameters xaxs/yaxs,68412,Thomas J. Leeper
+068402.html,[Rd] no objects apparent in built package,68402,Uwe Ligges
+068344.html,[Rd] seq range argument,68344,"Lorenz, David"
+068443.html,[Rd] how to draw scatter plots (etc) with streaming data,68443,"MacQueen, Don"
+068436.html,[Rd] R and LANGUAGE,68436,Martin Maechler
+068438.html,[Rd] R and LANGUAGE,68438,Martin Maechler
+068383.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68383,Peter Meilstrup
+068373.html,[Rd] eapply duplicates elements unnecessarily,68373,Martin Morgan
+068391.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68391,Martin Morgan
+068414.html,"[Rd] R CMD Sweave tmp.tex doesn't create figures with fig=TRUE,	include=FALSE",68414,Martin Morgan
+068423.html,[Rd] instantiating a reference class with an initialize() method from .onLoad fails,68423,Martin Morgan
+068334.html,[Rd] Running examples with R5 constructor from package failing,68334,Duncan Murdoch
+068336.html,[Rd] Running examples with R5 constructor from package failing,68336,Duncan Murdoch
+068339.html,[Rd] String Vector Encoding,68339,Duncan Murdoch
+068341.html,[Rd] Fwd: linker issue,68341,Duncan Murdoch
+068361.html,[Rd] suggestion for &quot;sets&quot; tools upgrade,68361,Duncan Murdoch
+068377.html,"[Rd] Question re: NA, NaNs in R",68377,Duncan Murdoch
+068379.html,"[Rd] Question re: NA, NaNs in R",68379,Duncan Murdoch
+068380.html,"[Rd] Question re: NA, NaNs in R",68380,Duncan Murdoch
+068390.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68390,Duncan Murdoch
+068382.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68382,Kirill M&#252;ller
+068384.html,[Rd] $new cannot be accessed when running from Rscript and methods package is not loaded,68384,Kirill M&#252;ller
+068362.html,[Rd] How to set user read request while R install,68362,Sandip Nandi
+068364.html,[Rd] How to set user read request while R install,68364,Sandip Nandi
+068429.html,[Rd] What this error means,68429,Sandip Nandi
+068431.html,[Rd] What this error means,68431,Sandip Nandi
+068413.html,[Rd] dispatch on &quot;c&quot; method when passing named arguments,68413,Herv&#233; Pag&#232;s
+068355.html,[Rd] C headers,68355,Prof Brian Ripley
+068369.html,[Rd] suggested addition to 'install.packages' help file,68369,Prof Brian Ripley
+068372.html,"[Rd] Question re: NA, NaNs in R",68372,Prof Brian Ripley
+068396.html,[Rd] path.package() versus system.file() for locating installed package folders,68396,Prof Brian Ripley
+068404.html,[Rd] contrib.url in non-interactive mode,68404,Prof Brian Ripley
+068428.html,[Rd] acml blas+lapac in R,68428,Prof Brian Ripley
+068442.html,[Rd] vignettes with similar names,68442,Prof Brian Ripley
+068352.html,"[Rd] R CMD check, NOTEs, &amp; S4-dependent packages",68352,"Roebuck,Paul L"
+068406.html,[Rd] contrib.url in non-interactive mode,68406,Barry Rowlingson
+068395.html,[Rd] path.package() versus system.file() for locating installed package folders,68395,Marc Schwartz
+068397.html,[Rd] path.package() versus system.file() for locating installed package folders,68397,Marc Schwartz
+068350.html,[Rd] Revolutions Blog: January 2014 roundup,68350,David Smith
+068351.html,[Rd] Revolutions Blog: January 2014 roundup,68351,David Smith
+068425.html,[Rd] Random Count Generation with rnbinom,68425,Dario Strbenac
+068440.html,[Rd] vignettes with similar names,68440,Michael Sumner
+068441.html,[Rd] how to draw scatter plots (etc) with streaming data,68441,Desi Three
+068348.html,[Rd] String Vector Encoding,68348,Simon Urbanek
+068363.html,[Rd] How to set user read request while R install,68363,Simon Urbanek
+068367.html,[Rd] Redefining .Call,68367,Simon Urbanek
+068392.html,[Rd] $new cannot be accessed when running from Rscript and	methods package is not loaded,68392,Simon Urbanek
+068371.html,"[Rd] Question re: NA, NaNs in R",68371,Kevin Ushey
+068376.html,"[Rd] Question re: NA, NaNs in R",68376,Kevin Ushey
+068378.html,"[Rd] Question re: NA, NaNs in R",68378,Kevin Ushey
+068386.html,"[Rd] Question re: NA, NaNs in R",68386,Kevin Ushey
+068359.html,[Rd] suggestion for &quot;sets&quot; tools upgrade,68359,R. Michael Weylandt
+068409.html,[Rd] contrib.url in non-interactive mode,68409,Hadley Wickham
+068421.html,[Rd] Where to put package vignettes,68421,Hadley Wickham
+068358.html,[Rd] suggestion for &quot;sets&quot; tools upgrade,68358,Carl Witthoft
+068365.html,[Rd] suggestion for &quot;sets&quot; tools upgrade,68365,Carl Witthoft
+068370.html,[Rd] suggestion for &quot;sets&quot; tools upgrade,68370,Carl Witthoft
+068422.html,[Rd] Where to put package vignettes,68422,Yihui Xie
+068347.html,[Rd] seq range argument,68347,Ista Zahn
+068426.html,[Rd] Random Count Generation with rnbinom,68426,Achim Zeileis
+068420.html,[Rd] Where to put package vignettes,68420,baptiste auguie
+068375.html,[Rd] Stata support in package foreign,68375,eleetselad
+068444.html,[Rd] How to use R script inside javascript?,68444,jayesh.baviskar
+068427.html,[Rd] acml blas+lapac in R,68427,lejeczek
+068433.html,[Rd] acml blas+lapac in R,68433,lejeczek
+068405.html,[Rd] getting environment from &quot;top&quot; promise,68405,luke-tierney at uiowa.edu
+068416.html,[Rd] Where to put package vignettes,68416,Guillermo.Vinue at uv.es
+068419.html,[Rd] Where to put package vignettes,68419,Guillermo.Vinue at uv.es
+068424.html,[Rd] Where to put package vignettes,68424,Guillermo.Vinue at uv.es

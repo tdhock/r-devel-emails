@@ -1,0 +1,162 @@
+link,Subject,id,author
+023328.html,[Rd] =?ks_c_5601-1987?B?W2luZm9dci1kZXZlbLTUIL7Is+fHz73KtM+x7j8=?=,23328,=?ks_c_5601-1987?B?wMzH9r/s?=
+023224.html,"[Rd] lm documentation, &quot;formula&quot; component (PR#1105)",23224,Peter Dalgaard BSA
+023227.html,[Rd] What is an error bu21? (PR#1106),23227,Peter Dalgaard BSA
+023229.html,[Rd] problem with strptime example (PR#811),23229,Peter Dalgaard BSA
+023250.html,[Rd] Bug when trying to save a character vector with an embedded / (PR#1115),23250,Peter Dalgaard BSA
+023256.html,[Rd] Characters subsetted with NA (was: Several R vs S-Plus issues),23256,Peter Dalgaard BSA
+023271.html,[Rd] 1.4.0: mean/sum of logicals,23271,Peter Dalgaard BSA
+023277.html,[Rd] Bug list summary (automatic post),23277,Peter Dalgaard BSA
+023279.html,[Rd] Bug in Deriv? (PR#1119),23279,Peter Dalgaard BSA
+023291.html,[Rd] dimnames(X)[[2]] &lt;- foo fails (PR#1122),23291,Peter Dalgaard BSA
+023294.html,[Rd] Pearson residuals (PR#1123),23294,Peter Dalgaard BSA
+023306.html,[Rd] Unable to use names() to set names on a 'dist' object (PR#1129),23306,Peter Dalgaard BSA
+023308.html,[Rd] MASS: isoMDS and sammon,23308,Peter Dalgaard BSA
+023325.html,[Rd] Bug list summary (automatic post),23325,Peter Dalgaard BSA
+023326.html,[Rd] Why not in Debian distro?,23326,Peter Dalgaard BSA
+023337.html,[Rd] status of US mirror,23337,Peter Dalgaard BSA
+023341.html,[Rd] incompletely built html documentation (PR#1142),23341,Peter Dalgaard BSA
+023348.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23348,Peter Dalgaard BSA
+023352.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23352,Peter Dalgaard BSA
+023363.html,[Rd] postscript problem (PR#1147),23363,Peter Dalgaard BSA
+023366.html,[Rd] ks.test (PR#1004),23366,Peter Dalgaard BSA
+023378.html,[Rd] strptime bug (PR#1155),23378,Peter Dalgaard BSA
+023253.html,[Rd] Re: [R] Several R vs S-Plus issues,23253,Douglas Bates
+023344.html,R Performance on P-4 RE: [Rd] P-4,23344,Douglas Bates
+023283.html,[Rd] NA as names of vector from subscripted matrix == bug ?,23283,Charles C. Berry
+023235.html,[Rd] calling browser in Windows,23235,Ben Bolker
+023312.html,[Rd] creating packages for Mac,23312,Ben Bolker
+023317.html,[Rd] possible bugs: boundary conditions and random distribution parameters,23317,Ben Bolker
+023336.html,[Rd] status of US mirror,23336,M. Edward (Ed) Borasky
+023338.html,[Rd] status of US mirror,23338,M. Edward (Ed) Borasky
+023255.html,[Rd] Characters subsetted with NA (was: Several R vs S-Plus issues),23255,David Brahm
+023258.html,[Rd] Characters subsetted with NA (was: Several R vs S-Plus issues),23258,David Brahm
+023265.html,"[Rd] library(..., pos=4)",23265,David Brahm
+023331.html,[Rd] round() doesnt (PR#1138),23331,David Brahm
+023343.html,R Performance on P-4 RE: [Rd] P-4,23343,"Cunningham, Colin A"
+023380.html,[Rd] problem with help.start() in R (PR#1156),23380,Dinh-Tuan.Pham@imag.fr
+023382.html,[Rd] problem with help.start() in R (PR#1156),23382,Dinh-Tuan.Pham@imag.fr
+023313.html,[Rd] pdf files in packages,23313,Paul Gilbert
+023240.html,[Rd] RE: [R] Several R vs S-Plus issues (PR#1112),23240,Harvey.Monder@pharma.com
+023243.html,[Rd] Re: [R] Several R vs S-Plus issues,23243,Kurt Hornik
+023259.html,[Rd] Re: [R] Several R vs S-Plus issues,23259,Kurt Hornik
+023260.html,[Rd] Characters subsetted with NA (was: Several R vs S-Plus issues),23260,Kurt Hornik
+023261.html,[Rd] get.hist.quote does not work (PR#1116),23261,Kurt Hornik
+023310.html,[Rd] Unable to use names() to set names on a 'dist' object (PR#1129),23310,Kurt Hornik
+023314.html,[Rd] pdf files in packages,23314,Kurt Hornik
+023383.html,[Rd] problem with help.start() in R (PR#1156),23383,Kurt Hornik
+023270.html,[Rd] 1.4.0: mean/sum of logicals,23270,Torsten Hothorn
+023368.html,[Rd] wilcox.test point estimates perverse (PR#1150),23368,Torsten Hothorn
+023315.html,[Rd] creating packages for Mac,23315,Stefano Iacus
+023370.html,[Rd] Typo in refman-Logistic (PR#1151),23370,Jan_Svatos@eurotel.cz
+023371.html,[Rd] Typo in refman-Logistic (PR#1152),23371,Jan_Svatos@eurotel.cz
+023372.html,[Rd] Typo in refman-Logistic (PR#1153),23372,Jan_Svatos@eurotel.cz
+023267.html,[Rd] html bug in internal links of documentation (PR#1117),23267,Peter Kleiweg
+023268.html,[Rd] html bug in internal links of documentation (PR#1117),23268,Peter Kleiweg
+023307.html,[Rd] MASS: isoMDS and sammon,23307,Peter Kleiweg
+023362.html,[Rd] postscript problem (PR#1147),23362,Peter Kleiweg
+023351.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23351,Gordon Lack
+023354.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23354,Gordon Lack
+023345.html,[Rd] Hi von Lauren                                                        5C55E8,23345,Lauren
+023232.html,[Rd] Documentation bug in bug.report (PR#1108),23232,Friedrich Leisch
+023234.html,[Rd] Documentation bug in bug.report (PR#1108),23234,Friedrich Leisch
+023248.html,[Rd] Re: RFC: package pixmap,23248,Friedrich Leisch
+023254.html,[Rd] Re: RFC: package pixmap,23254,Friedrich Leisch
+023369.html,[Rd] Concatenating vectors in C (R API),23369,Nicholas Lewin-Koh
+023282.html,[Rd] Rcmd,23282,Uwe Ligges
+023247.html,[Rd] Re: RFC: package pixmap,23247,Agustin Lobo
+023249.html,[Rd] Re: RFC: package pixmap,23249,Agustin Lobo
+023269.html,[Rd] Re: RFC: package pixmap,23269,Agustin Lobo
+023257.html,[Rd] Re: [R] Several R vs S-Plus issues,23257,Thomas Lumley
+023263.html,[Rd] Re: [R] Several R vs S-Plus issues,23263,Thomas Lumley
+023284.html,[Rd] NA as names of vector from subscripted matrix == bug ?,23284,Thomas Lumley
+023295.html,[Rd] Pearson residuals (PR#1123),23295,Thomas Lumley
+023297.html,[Rd] Wrong df in bartlett.test when subsetting data (PR#1124),23297,Thomas Lumley
+023302.html,[Rd] Pearson residuals (PR#1123),23302,Thomas Lumley
+023332.html,[Rd] round() doesnt (PR#1138),23332,Thomas Lumley
+023353.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23353,Thomas Lumley
+023272.html,[Rd] get.hist.quote does not work (PR#1116),23272,Arto Luoma
+023346.html,[Rd] spam..,23346,Martin Maechler
+023350.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23350,Martin Maechler
+023252.html,[Rd] Re: [R] Several R vs S-Plus issues,23252,Duncan Murdoch
+023262.html,[Rd] Re: [R] Several R vs S-Plus issues,23262,Duncan Murdoch
+023319.html,[Rd] Postdoctoral/Internship Opportunities,23319,George Ostrouchov
+023287.html,[Rd] New slimmer R,23287,Prof Brian Ripley
+023274.html,[Rd] 1.4.0: mean/sum of logicals,23274,Prof Brian D Ripley
+023285.html,[Rd] Rcmd,23285,Prof Brian D Ripley
+023300.html,[Rd] Whitespace matters in else construct (PR#1125),23300,Prof Brian D Ripley
+023309.html,[Rd] MASS: isoMDS and sammon,23309,Prof Brian D Ripley
+023233.html,[Rd] Documentation bug in bug.report (PR#1108),23233,A.J. Rossini
+023244.html,[Rd] tiny typo in optim/N-M documentation (PR#1109),23244,Jonathan Rougier
+023286.html,[Rd] New slimmer R,23286,Jonathan Rougier
+023324.html,[Rd] Why not in Debian distro?,23324,Telford
+023264.html,[Rd] Re: [R] Several R vs S-Plus issues,23264,Luke Tierney
+023292.html,[Rd] RE: [R] List of functions with debug() and trace(),23292,"Warnes, Gregory R"
+023333.html,[Rd] round() doesn't (PR#1139),23333,a215020@agate.fmr.com
+023246.html,[Rd] Bug when trying to save a character vector with an embedded / (PR#1115),23246,a296180@mica.fmr.com
+023289.html,[Rd] Problems merging with POSIXct objects and all = TRUE (PR#1121),23289,a296180@mica.fmr.com
+023226.html,[Rd] problem with strptime example (PR#811),23226,al18853@uta.fi
+023251.html,[Rd] get.hist.quote does not work (PR#1116),23251,arto.luoma@uta.fi
+023288.html,[Rd] Please resubmit,23288,bbb@earthlink.net
+023237.html,[Rd] tiny typo in optim/N-M documentation (PR#1109),23237,bolker@zoo.ufl.edu
+023327.html,[Rd] cex/col/etc. in title(): documentation? (PR#1136),23327,bolker@zoo.ufl.edu
+023238.html,[Rd] Several R vs S-Plus issues (PR#1110),23238,brahm@alum.mit.edu
+023330.html,[Rd] round() doesnt (PR#1138),23330,brahm@alum.mit.edu
+023342.html,[Rd] round() doesn't (PR#1139),23342,brahm@alum.mit.edu
+023293.html,[Rd] Pearson residuals (PR#1123),23293,carmen@mcs.st-and.ac.uk
+023365.html,[Rd] ks.test (PR#1004),23365,charlie@muskrat.stat.umn.edu
+023367.html,[Rd] wilcox.test point estimates perverse (PR#1150),23367,charlie@muskrat.stat.umn.edu
+023364.html,[Rd] psignrank and pwilcox null pointer deref (PR#1149),23364,charlie@stat.umn.edu
+023266.html,[Rd] html bug in internal links of documentation (PR#1117),23266,cmaley@alum.mit.edu
+023223.html,"[Rd] lm documentation, &quot;formula&quot; component (PR#1105)",23223,david.firth@nuf.ox.ac.uk
+023239.html,[Rd] summary.lm and summary.glm documentation (PR#1111),23239,david.firth@nuf.ox.ac.uk
+023311.html,[Rd] Crash of RGui under Windows 2000 (PR#1131),23311,dfiaschi@ec.unipi.it
+023278.html,[Rd] Bug in Deriv? (PR#1119),23278,dieter.menne@menne-biomed.de
+023339.html,[Rd] broken build with LDFLAGS (PR#1141),23339,dks@phy.hr
+023340.html,[Rd] incompletely built html documentation (PR#1142),23340,dks@phy.hr
+023273.html,[Rd] Installed file locations (PR#1118),23273,gml4410@ggr.co.uk
+023347.html,[Rd] Problem testing R version 1.3.1 (PR#1143),23347,gml4410@ggr.co.uk
+023349.html,[Rd] Re: Problem testing R version 1.3.1 (PR#1144),23349,gml4410@ggr.co.uk
+023355.html,[Rd] Problem testing R version 1.3.1 on SGI Irix (PR#1145),23355,gml4410@ggr.co.uk
+023281.html,[Rd] Rcmd,23281,kjetil halvorsen
+023318.html,[Rd] plot function,23318,kjetil halvorsen
+023373.html,[Rd] mistake in approx() documentation (PR#1154),23373,htang@hpl.hp.com
+023296.html,[Rd] Wrong df in bartlett.test when subsetting data (PR#1124),23296,jens.lund@nordea.com
+023298.html,[Rd] Whitespace matters in else construct (PR#1125),23298,jens.lund@nordea.com
+023299.html,[Rd] R-bug report www page whishlist (PR#1126),23299,jens.lund@nordea.com
+023303.html,[Rd] unary &quot;-&quot; doesn't convert logicals (PR#1127),23303,john_heumann@agilent.com
+023322.html,[Rd] Canceling close behaves incorrectly (PR#1135),23322,john_heumann@agilent.com
+023357.html,[Rd] postscript problem (PR#1147),23357,kjetilh@umsanet.edu.bo
+023358.html,[Rd] warnings --- wish/bug (PR#1148),23358,kjetilh@umsanet.edu.bo
+023360.html,[Rd] warnings --- wish/bug (PR#1148),23360,kjetilh@umsanet.edu.bo
+023305.html,[Rd] Unable to use names() to set names on a 'dist' object (PR#1129),23305,kleiweg@let.rug.nl
+023236.html,"[Rd] ugly in plotmath: frac(1, sqrt(...)) (PR#1101)",23236,ligges@statistik.uni-dortmund.de
+023245.html,"[Rd] ugly in plotmath: frac(1, sqrt(...)) (PR#1101)",23245,ligges@statistik.uni-dortmund.de
+023335.html,"[Rd] Possible bug, Rprof() and scan(pipe()) (PR#1140)",23335,macq@llnl.gov
+023321.html,[Rd] seq (PR#1133),23321,maechler@stat.math.ethz.ch
+023375.html,[Rd] Typo in refman-Logistic (PR#1153),23375,maechler@stat.math.ethz.ch
+023377.html,[Rd] cex/col/etc. in title(): documentation? (PR#1136),23377,maechler@stat.math.ethz.ch
+023241.html,[Rd] bug.report() &amp; docs should mention r-devel (PR#1113),23241,murdoch@stats.uwo.ca
+023323.html,[Rd] Urgent Investor Info,23323,nfkqg@mail.md
+023329.html,[Rd] =?ks_c_5601-1987?B?W2luZm9dci1idWdztNQgvsiz58fPvcq0z7HuPw==?= (PR#1137),23329,olk@olk.co.kr
+023301.html,[Rd] Pearson residuals (PR#1123),23301,p.dalgaard@biostat.ku.dk
+023334.html,[Rd] round() doesnt (PR#1138),23334,p.dalgaard@biostat.ku.dk
+023225.html,[Rd] What is an error bu21? (PR#1106),23225,patrick.lindsey@luc.ac.be
+023242.html,[Rd] PS &amp; box(col=0) (PR#1114),23242,pgilbert@bank-banque-canada.ca
+023356.html,[Rd] promax rotation matrix (PR#1146),23356,pperkins@ucsd.edu
+023228.html,[Rd] problem with strptime example (PR#811),23228,ripley@stats.ox.ac.uk
+023275.html,[Rd] Installed file locations (PR#1118),23275,ripley@stats.ox.ac.uk
+023290.html,[Rd] dimnames(X)[[2]] &lt;- foo fails (PR#1122),23290,ripley@stats.ox.ac.uk
+023304.html,[Rd] PS &amp; box(col=0) (PR#1114),23304,ripley@stats.ox.ac.uk
+023316.html,[Rd] Crash of RGui under Windows 2000 (PR#1131),23316,ripley@stats.ox.ac.uk
+023359.html,[Rd] warnings --- wish/bug (PR#1148),23359,ripley@stats.ox.ac.uk
+023361.html,[Rd] warnings --- wish/bug (PR#1148),23361,ripley@stats.ox.ac.uk
+023376.html,[Rd] strptime bug (PR#1155),23376,ripley@stats.ox.ac.uk
+023379.html,[Rd] strptime bug (PR#1155),23379,ripley@stats.ox.ac.uk
+023381.html,[Rd] problem with help.start() in R (PR#1156),23381,ripley@stats.ox.ac.uk
+023374.html,[Rd] strptime bug (PR#1155),23374,rmh@surfer.sbm.temple.edu
+023384.html,[Rd] strptime bug (PR#1155),23384,rmh@surfer.sbm.temple.edu
+023280.html,[Rd] bug in write.table? (PR#1120),23280,siim@obs.ee
+023320.html,[Rd] seq (PR#1133),23320,stahel@stat.math.ethz.ch
+023230.html,[Rd] Wrong error message in Rdlists.pm (PR#1107),23230,thoffman@zappa.sax.de
+023231.html,[Rd] Documentation bug in bug.report (PR#1108),23231,thoffman@zappa.sax.de

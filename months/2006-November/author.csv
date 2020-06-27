@@ -1,0 +1,397 @@
+link,Subject,id,author
+040103.html,[Rd] Geschaeftliches Angebot.,40103,Arthur Breton (Esq.)
+043617.html,[Rd] R.exp file for building packages,43617,Christopher G. Green (W)
+043492.html,[Rd] How to put my class into data.frame,43492,Ferdinand Alimadhi
+043508.html,"[Rd] lme4 install,	was Re: [R] Which executable is associated with R CMD INSTALL?",43508,Douglas Bates
+043510.html,"[Rd] lme4 install,	was Re: [R] Which executable is associated with R CMD INSTALL?",43510,Douglas Bates
+043788.html,[Rd] Matrix*vector: coercing sparse to dense matrix for	arithmetic,43788,Douglas Bates
+043616.html,[Rd] [R] Problem with file size,43616,Henrik Bengtsson
+043660.html,[Rd] c.factor,43660,Roger Bivand
+043669.html,[Rd] Manipulating R lists in C,43669,Roger Bivand
+043601.html,[Rd] bug in lrect [lattice]?,43601,Ben Bolker
+043633.html,[Rd] tail recursion in R,43633,Ross Boylan
+043740.html,[Rd] Missing values for S4 slots,43740,Ross Boylan
+043741.html,[Rd] Missing values for S4 slots [One Solution],43741,Ross Boylan
+043817.html,[Rd] Web site link problems (PR#9401),43817,Ross Boylan
+043824.html,[Rd] printing coefficients with text,43824,Ross Boylan
+043502.html,[Rd] eval(match.call()) (PR#9339),43502,Tom 'spot' Callaway
+043574.html,[Rd] Failing to install R-2.4.0 on FC4,43574,Benilton Carvalho
+043590.html,[Rd] Building R from the source,43590,Benilton Carvalho
+043592.html,[Rd] Building R from the source,43592,Benilton Carvalho
+043597.html,[Rd] inconsistency or bug in coef() (PR#9358),43597,Benilton Carvalho
+043435.html,[Rd] setReplaceMethod,43435,John Chambers
+043470.html,[Rd] Formal methods are not loaded from NAMESPACE in reloadedworkspace image,43470,John Chambers
+043474.html,[Rd] WG: Formal methods are not loaded from NAMESPACE inreloadedworkspace image,43474,John Chambers
+043477.html,[Rd] Formal methods are not loaded from NAMESPACE in reloadedworkspace image,43477,John Chambers
+043500.html,[Rd] How to put my S4 class into data.frame,43500,John Chambers
+043504.html,[Rd] Formal methods are not loaded from NAMESPACE in reloadedworkspace image,43504,John Chambers
+043802.html,[Rd] data.frame within a function (PR#9294) (cont'd),43802,Riyan Cheng
+043476.html,"[Rd] data.entry(), de() fail in FC6-x86_64",43476,Peter Dalgaard
+043484.html,[Rd] eval(match.call()) (PR#9339),43484,Peter Dalgaard
+043493.html,[Rd] eval(match.call()) (PR#9339),43493,Peter Dalgaard
+043509.html,"[Rd] lme4 install,	was Re: [R] Which executable is associated with R CMD INSTALL?",43509,Peter Dalgaard
+043512.html,[Rd] memory issues with new release (PR#9344),43512,Peter Dalgaard
+043516.html,[Rd] memory issues with new release (PR#9344),43516,Peter Dalgaard
+043519.html,[Rd] memory issues with new release (PR#9344),43519,Peter Dalgaard
+043524.html,[Rd] memory issues with new release (PR#9344),43524,Peter Dalgaard
+043526.html,[Rd] gc()$Vcells &lt; 0 (PR#9345),43526,Peter Dalgaard
+043571.html,[Rd] Retrieving function name,43571,Peter Dalgaard
+043575.html,[Rd] Failing to install R-2.4.0 on FC4,43575,Peter Dalgaard
+043586.html,[Rd] unwarranted warning from hist.default (PR#9356),43586,Peter Dalgaard
+043625.html,[Rd] String to list and visa versa,43625,Peter Dalgaard
+043647.html,[Rd] save objects from function (PR#9365),43647,Peter Dalgaard
+043780.html,[Rd] Bug in tkStartGUI in package tcltk (PR#9396),43780,Peter Dalgaard
+043784.html,[Rd] Error 1 : undefined first referenced symbol,43784,Peter Dalgaard
+043808.html,[Rd] Web site link problems (PR#9401),43808,Peter Dalgaard
+043441.html,[Rd] Subsetting a vector in C,43441,Sean Davis
+043445.html,[Rd] Some R questions,43445,Vladimir Dergachev
+043444.html,[Rd] Fwd: Re:  Some R questions,43444,Vladimir Dergachev
+043446.html,[Rd] allocVector bug ?,43446,Vladimir Dergachev
+043521.html,[Rd] allocVector bug ?,43521,Vladimir Dergachev
+043527.html,[Rd] gc()$Vcells &lt; 0 (PR#9345),43527,Vladimir Dergachev
+043528.html,[Rd] data frame subscription operator,43528,Vladimir Dergachev
+043541.html,[Rd] gc()$Vcells &lt; 0 (PR#9345),43541,Vladimir Dergachev
+043546.html,[Rd] variable problem,43546,Vladimir Dergachev
+043558.html,[Rd] data frame subscription operator,43558,Vladimir Dergachev
+043564.html,[Rd] allocVector bug ?,43564,Vladimir Dergachev
+043565.html,[Rd] data frame subscription operator,43565,Vladimir Dergachev
+043573.html,[Rd] allocVector bug ?,43573,Vladimir Dergachev
+043623.html,[Rd] String to list and visa versa,43623,Vladimir Dergachev
+043631.html,[Rd] String to list and visa versa,43631,Vladimir Dergachev
+043661.html,[Rd] base-Ex.R make check failure,43661,Vladimir Dergachev
+043776.html,[Rd] data frame subset patch,43776,Vladimir Dergachev
+043620.html,[Rd] c.factor,43620,Matthew Dowle
+043641.html,[Rd] c.factor,43641,Matthew Dowle
+043655.html,[Rd] c.factor,43655,Matthew Dowle
+043718.html,[Rd] c.factor,43718,Matthew Dowle
+043720.html,[Rd] c.factor,43720,Matthew Dowle
+043482.html,[Rd] man page for as.matrix for data frames outdated?,43482,Bill Dunlap
+043488.html,[Rd] eval(match.call()) (PR#9339),43488,Bill Dunlap
+043611.html,"[Rd] readBin(what=&quot;character&quot;, n=overcount)-&gt;extra &quot;&quot; in result (PR#9361)",43611,Bill Dunlap
+043630.html,[Rd] c.factor,43630,Bill Dunlap
+043658.html,[Rd] c.factor,43658,Bill Dunlap
+043674.html,[Rd] setting up a plot without plotting any data,43674,Bill Dunlap
+043799.html,[Rd] R CMD check warning about boot ?,43799,Dirk Eddelbuettel
+043813.html,[Rd] R CMD check warning about boot ?,43813,Dirk Eddelbuettel
+043737.html,[Rd] bin/Shlib overrides the variable PKG_LIBS from Makevars,43737,Mstislav Elagin
+043675.html,[Rd] Data table in C,43675,Byron Ellis
+043513.html,[Rd] memory issues with new release (PR#9344),43513,Derek Stephen Elmerick
+043518.html,[Rd] memory issues with new release (PR#9344),43518,Derek Stephen Elmerick
+043522.html,[Rd] memory issues with new release (PR#9344),43522,Derek Stephen Elmerick
+043472.html,[Rd] WG: Formal methods are not loaded from NAMESPACE	inreloadedworkspace image,43472,Seth Falcon
+043473.html,[Rd] Formal methods are not loaded from NAMESPACE in	reloadedworkspace image,43473,Seth Falcon
+043539.html,[Rd] Getting the name of a SEXP type in package code?,43539,Seth Falcon
+043556.html,[Rd] Getting the name of a SEXP type in package code?,43556,Seth Falcon
+043632.html,[Rd] Problem with X11 configure checking in R-devel?,43632,Seth Falcon
+043635.html,[Rd] Feature request: put NewEnvironment and R_NewhashedEnv into API,43635,Seth Falcon
+043654.html,[Rd] Feature request: put NewEnvironment and R_NewhashedEnv	into API,43654,Seth Falcon
+043673.html,[Rd] Data table in C,43673,Seth Falcon
+043702.html,"[Rd] package vignettes, suggests and R CMD check",43702,Seth Falcon
+043705.html,"[Rd] package vignettes, suggests and R CMD check",43705,Seth Falcon
+043709.html,[Rd] Function lang2 in C,43709,Seth Falcon
+043764.html,[Rd] Source references from the parser,43764,Seth Falcon
+043786.html,[Rd] Source references from the parser,43786,Seth Falcon
+043777.html,[Rd] package tseries: plot.irts() - time axis label pb (PR#9387),43777,Fan
+043549.html,[Rd] How to link to vignette from .Rd file,43549,Rich FitzJohn
+043536.html,[Rd] How to link to vignette from .Rd file,43536,Agner Fog
+043554.html,[Rd] How to link to vignette from .Rd file,43554,Agner Fog
+043619.html,[Rd] R.exp file for building packages,43619,Agner Fog
+043568.html,[Rd] generic sample,43568,Romain Francois
+043576.html,[Rd] invert argument in grep,43576,Romain Francois
+043580.html,[Rd] invert argument in grep,43580,Romain Francois
+043594.html,[Rd] invert argument in grep,43594,Romain Francois
+043538.html,[Rd] Crash when embedding R X11 windows,43538,Thomas Friedrichsmeier
+043692.html,[Rd] Crash when embedding R X11 windows,43692,Thomas Friedrichsmeier
+043785.html,[Rd] Crash when embedding R X11 windows,43785,Thomas Friedrichsmeier
+043714.html,"[Rd] package vignettes, suggests and R CMD check",43714,Paul Gilbert
+043491.html,[Rd] How to put my class into data.frame,43491,Gregor Gorjanc
+043495.html,[Rd] How to put my class into data.frame,43495,Gregor Gorjanc
+043498.html,[Rd] How to put my S4 class into data.frame,43498,Gregor Gorjanc
+043503.html,[Rd] How to put my S4 class into data.frame,43503,Gregor Gorjanc
+043589.html,[Rd] c() for factors,43589,Gregor Gorjanc
+043664.html,[Rd] Typo in save help page,43664,Gregor Gorjanc
+043736.html,[Rd] Wish: add link to Date in date help page,43736,Gregor Gorjanc
+043733.html,[Rd] Writing R Extensions manual?,43733,Spencer Graves
+043735.html,[Rd] Writing R Extensions manual?,43735,Spencer Graves
+043438.html,[Rd] fields appearing in cran descriptions pages,43438,Gabor Grothendieck
+043453.html,[Rd] CRAN task views work only once per session (PR#9330),43453,Gabor Grothendieck
+043478.html,[Rd] [R] difference in using with() and the &quot;data&quot; argument in	glm (PR#9338),43478,Gabor Grothendieck
+043560.html,[Rd] data frame subscription operator,43560,Gabor Grothendieck
+043595.html,[Rd] invert argument in grep,43595,Gabor Grothendieck
+043634.html,[Rd] tail recursion in R,43634,Gabor Grothendieck
+043677.html,[Rd] overhead of function calls,43677,Gabor Grothendieck
+043683.html,[Rd] good practice for values not provided,43683,Gabor Grothendieck
+043715.html,"[Rd] package vignettes, suggests and R CMD check",43715,Gabor Grothendieck
+043756.html,[Rd] as.Date: conversion pb from POSIXct (PR#9386),43756,Gabor Grothendieck
+043766.html,[Rd] package tseries: plot.irts() - time axis label pb (PR#9387),43766,Gabor Grothendieck
+043793.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument	(PR#9399)",43793,Lixin Han
+043514.html,[Rd] memory issues with new release (PR#9344),43514,Kasper Daniel Hansen
+043551.html,[Rd] Chi-squared test (PR#9350),43551,Kasper Daniel Hansen
+043566.html,[Rd] Chi-squared test (PR#9350),43566,Kasper Daniel Hansen
+043567.html,[Rd] Chi-squared test (PR#9350),43567,Kasper Daniel Hansen
+043456.html,[Rd] Connections patch,43456,Jeffrey Horner
+043698.html,[Rd] Smallest R executable,43698,Jeffrey Horner
+043722.html,[Rd] How can I call a function R from C,43722,Jeffrey Horner
+043457.html,[Rd] fields appearing in cran descriptions pages,43457,Kurt Hornik
+043730.html,[Rd] configure issue (PR#9379),43730,Kurt Hornik
+043811.html,[Rd] R CMD check warning about boot ?,43811,Kurt Hornik
+043797.html,[Rd] R-devel does not compile under FreeBSD-7.0 CURRENT,43797,Rainer Hurling
+043810.html,[Rd] R-devel does not compile under FreeBSD-7.0 CURRENT,43810,Rainer Hurling
+043708.html,[Rd] Smallest R executable,43708,S&#248;ren H&#248;jsgaard
+043821.html,[Rd] Arbeitsplatze in der Schweiz!,43821,Emmeliano Juno
+043822.html,[Rd] Arbeitsplatze in der Schweiz!,43822,Emmeliano Juno
+043732.html,[Rd] configure issue (PR#9379),43732,Gordon Lack
+043646.html,[Rd] dyn.load (PR#9364),43646,Duncan Temple Lang
+043653.html,[Rd] dyn.load (PR#9364),43653,Duncan Temple Lang
+043454.html,[Rd] Cross-compilation,43454,Hin-Tak Leung
+043686.html,[Rd] array indexes in C,43686,Hin-Tak Leung
+043801.html,[Rd] strange error from R CMD check about xaxp,43801,"Liaw, Andy"
+043807.html,[Rd] R CMD check warning about boot ?,43807,Uwe Ligges
+043559.html,[Rd] Making Solaris 10 x86/x64 build of R available?,43559,Tai-Wei (David) Lin
+043588.html,[Rd] Making Solaris 10 x86/x64 build of R available?,43588,Tai-Wei (David) Lin
+043687.html,[Rd] array indexes in C,43687,Thomas Lumley
+043672.html,[Rd] setIs() and setAs(),43672,Sebastian P. Luque
+043792.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43792,James W. MacDonald
+043464.html,[Rd] man page for as.matrix for data frames outdated?,43464,Martin Maechler
+043496.html,[Rd] How to put my S4 class into data.frame,43496,Martin Maechler
+043497.html,[Rd] man page for as.matrix for data frames outdated?,43497,Martin Maechler
+043533.html,[Rd] too-large notches in boxplot (PR #7690),43533,Martin Maechler
+043543.html,[Rd] Getting the name of a SEXP type in package code?,43543,Martin Maechler
+043622.html,[Rd] Arithmetic not keeping S4-bit on simple extensions,43622,Martin Maechler
+043662.html,[Rd] valid objects -&gt; using S4 {was &quot;Re:  c.factor&quot;},43662,Martin Maechler
+043545.html,[Rd] variable problem,43545,Tom McCallum
+043547.html,[Rd] variable problem,43547,Tom McCallum
+043569.html,[Rd] Retrieving function name,43569,Tom McCallum
+043621.html,[Rd] String to list and visa versa,43621,Tom McCallum
+043640.html,[Rd] String to list and visa versa,43640,Tom McCallum
+043668.html,[Rd] Manipulating R lists in C,43668,Tom McCallum
+043670.html,[Rd] Manipulating R lists in C,43670,Tom McCallum
+043671.html,[Rd] Data table in C,43671,Tom McCallum
+043701.html,[Rd] dyn.load,43701,Tom McCallum
+043716.html,[Rd] Ralloc clash,43716,Tom McCallum
+043717.html,[Rd] dyn.load,43717,Tom McCallum
+043724.html,[Rd] Ralloc clash,43724,Tom McCallum
+043726.html,[Rd] Ralloc clash,43726,Tom McCallum
+043728.html,[Rd] Ralloc clash,43728,Tom McCallum
+043437.html,[Rd] Argument error reporting slowness,43437,"McGehee, Robert"
+043557.html,[Rd] Chi-squared test (PR#9350),43557,"McGehee, Robert"
+043791.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43791,Steven McKinney
+043794.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43794,Steven McKinney
+043608.html,[Rd] bug in acf (PR#9360),43608,A.I. McLeod
+043610.html,[Rd] bug in acf (PR#9360) S-Plus Addendum,43610,A.I. McLeod
+043772.html,[Rd] ccf documentation bug or suggeston,43772,A.I. McLeod
+043819.html,[Rd] bug in arima?,43819,A.I. McLeod
+043742.html,[Rd] Missing values for S4 slots [One Solution],43742,Martin Morgan
+043823.html,[Rd] viral setClassUnion?,43823,Martin Morgan
+043688.html,[Rd] Smallest R executable,43688,Iago Mosqueira
+043706.html,[Rd] Smallest R executable,43706,Iago Mosqueira
+043442.html,[Rd] Subsetting a vector in C,43442,Duncan Murdoch
+043458.html,[Rd] Syntax Error in Rcmd check on Windows,43458,Duncan Murdoch
+043460.html,[Rd] Syntax Error in Rcmd check on Windows,43460,Duncan Murdoch
+043535.html,"[Rd] R freezes with text(...., srt = -1e-8) (PR#9347)",43535,Duncan Murdoch
+043537.html,[Rd] How to link to vignette from .Rd file,43537,Duncan Murdoch
+043577.html,[Rd] invert argument in grep,43577,Duncan Murdoch
+043579.html,[Rd] invert argument in grep,43579,Duncan Murdoch
+043581.html,[Rd] invert argument in grep,43581,Duncan Murdoch
+043604.html,[Rd] bug in acf (PR#9360),43604,Duncan Murdoch
+043613.html,[Rd] bug in acf (PR#9360),43613,Duncan Murdoch
+043615.html,[Rd] bug in acf (PR#9360),43615,Duncan Murdoch
+043665.html,[Rd] Typo in save help page,43665,Duncan Murdoch
+043684.html,[Rd] good practice for values not provided,43684,Duncan Murdoch
+043690.html,[Rd] packBits (PR#9374),43690,Duncan Murdoch
+043691.html,[Rd] packBits (PR#9374),43691,Duncan Murdoch
+043744.html,[Rd] Source references from the parser,43744,Duncan Murdoch
+043746.html,[Rd] Source references from the parser,43746,Duncan Murdoch
+043747.html,[Rd] Source references from the parser,43747,Duncan Murdoch
+043749.html,[Rd] Source references from the parser,43749,Duncan Murdoch
+043751.html,[Rd] Source references from the parser,43751,Duncan Murdoch
+043765.html,[Rd] Source references from the parser,43765,Duncan Murdoch
+043781.html,[Rd] Source references from the parser,43781,Duncan Murdoch
+043789.html,[Rd] Source references from the parser,43789,Duncan Murdoch
+043796.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43796,Duncan Murdoch
+043779.html,[Rd] Is there a version of RMySQL for Windows?,43779,Henric Nilsson
+043753.html,[Rd] Is there a version of RMySQL for Windows?,43753,Michal Okoniewski
+043461.html,[Rd] Display problem with named complex vectors,43461,Herve Pages
+043463.html,[Rd] man page for as.matrix for data frames outdated?,43463,Herve Pages
+043480.html,[Rd] man page for as.matrix for data frames outdated?,43480,Herve Pages
+043676.html,[Rd] overhead of function calls,43676,Tamas K Papp
+043679.html,[Rd] array indexes in C,43679,Tamas K Papp
+043681.html,[Rd] array indexes in C,43681,Tamas K Papp
+043682.html,[Rd] good practice for values not provided,43682,Tamas K Papp
+043783.html,[Rd] Matrix*vector: coercing sparse to dense matrix for arithmetic,43783,Tamas K Papp
+043787.html,[Rd] least squares with solve: leading minor is not positive	definite,43787,Tamas K Papp
+043540.html,"[Rd] R freezes with text(...., srt = -1e-8) (PR#9347)",43540,Emmanuel Paradis
+043757.html,[Rd] Is there a version of RMySQL for Windows?,43757,Roger D. Peng
+043450.html,[Rd] Formal methods are not loaded from NAMESPACE in reloaded	workspace image,43450,"Pfaff, Bernhard Dr."
+043466.html,[Rd] Formal methods are not loaded from NAMESPACE in	reloadedworkspace image,43466,"Pfaff, Bernhard Dr."
+043469.html,[Rd] WG: Formal methods are not loaded from NAMESPACE	inreloadedworkspace image,43469,"Pfaff, Bernhard Dr."
+043479.html,[Rd] Formal methods are not loaded from NAMESPACE in	reloadedworkspace image,43479,"Pfaff, Bernhard Dr."
+043531.html,[Rd] memory issues with new release (PR#9344),43531,"Pfaff, Bernhard Dr."
+043711.html,[Rd] Undocumented S4 methods: generic 'show',43711,"Pfaff, Bernhard Dr."
+043713.html,[Rd] Undocumented S4 methods: generic 'show',43713,"Pfaff, Bernhard Dr."
+043812.html,[Rd] use one custom package with multiple R versions?,43812,Andrew Piskorski
+043816.html,[Rd] use one custom package with multiple R versions?,43816,Andrew Piskorski
+043697.html,[Rd] Documentation error for data.restore() in package &quot;foreign&quot; (was Re: [R] Import problem with S-Plus 7.0 dataset),43697,Tony Plate
+043704.html,[Rd] Documentation error for data.restore() in package &quot;foreign&quot; (was Re: [R] Import problem with S-Plus 7.0 dataset),43704,Tony Plate
+043505.html,[Rd]  CRAN task views work only once per session (PR#9330),43505,Keith Ponting
+043507.html,[Rd] CRAN task views work only once per session (PR#9330),43507,Keith Ponting
+043739.html,[Rd] f2c to achieve reentrancy in odesolve?,43739,Mike Prager
+043447.html,[Rd] install packages RMySQL fail,43447,Juan Santiago Ramseyer
+043475.html,"[Rd] data.entry(), de() fail in FC6-x86_64",43475,Juan Santiago Ramseyer
+043707.html,[Rd] Function lang2 in C,43707,Ricardo Rios
+043721.html,[Rd] How can I call a function R from C,43721,Ricardo Rios
+043752.html,[Rd] Calling R function from C,43752,Ricardo Rios
+043639.html,[Rd] c.factor,43639,Brian Ripley
+043452.html,[Rd] CRAN task views work only once per session (PR#9330),43452,Prof Brian Ripley
+043506.html,[Rd] CRAN task views work only once per session (PR#9330),43506,Prof Brian Ripley
+043530.html,"[Rd] lme4 install, was Re: [R] Which executable is associated with R CMD INSTALL?",43530,Prof Brian Ripley
+043534.html,[Rd] gc()$Vcells &lt; 0 (PR#9345),43534,Prof Brian Ripley
+043552.html,[Rd] Getting the name of a SEXP type in package code?,43552,Prof Brian Ripley
+043553.html,[Rd] gc()$Vcells &lt; 0 (PR#9345),43553,Prof Brian Ripley
+043555.html,[Rd] data frame subscription operator,43555,Prof Brian Ripley
+043562.html,[Rd] Making Solaris 10 x86/x64 build of R available?,43562,Prof Brian Ripley
+043578.html,[Rd] invert argument in grep,43578,Prof Brian Ripley
+043593.html,[Rd] Building R from the source,43593,Prof Brian Ripley
+043609.html,[Rd] wishlist: xlim in lines.polynomial (PR#9362),43609,Prof Brian Ripley
+043614.html,"[Rd] readBin(what=&quot;character&quot;, n=overcount)-&gt;extra &quot;&quot; in result (PR#9361)",43614,Prof Brian Ripley
+043618.html,[Rd] R.exp file for building packages,43618,Prof Brian Ripley
+043624.html,[Rd] String to list and visa versa,43624,Prof Brian Ripley
+043628.html,[Rd] c.factor,43628,Prof Brian Ripley
+043636.html,[Rd] String to list and visa versa,43636,Prof Brian Ripley
+043637.html,[Rd] Feature request: put NewEnvironment and R_NewhashedEnv into API,43637,Prof Brian Ripley
+043657.html,[Rd] Feature request: put NewEnvironment and R_NewhashedEnv into API,43657,Prof Brian Ripley
+043678.html,[Rd] overhead of function calls,43678,Prof Brian Ripley
+043699.html,[Rd] Documentation error for data.restore() in package &quot;foreign&quot; (was Re: [R] Import problem with S-Plus 7.0 dataset),43699,Prof Brian Ripley
+043712.html,[Rd] Undocumented S4 methods: generic 'show',43712,Prof Brian Ripley
+043723.html,[Rd] Ralloc clash,43723,Prof Brian Ripley
+043725.html,[Rd] Ralloc clash,43725,Prof Brian Ripley
+043727.html,[Rd] Ralloc clash,43727,Prof Brian Ripley
+043754.html,[Rd] Is there a version of RMySQL for Windows?,43754,Prof Brian Ripley
+043803.html,[Rd] Error 1 : undefined first referenced symbol,43803,Prof Brian Ripley
+043805.html,[Rd] R-devel does not compile under FreeBSD-7.0 CURRENT,43805,Prof Brian Ripley
+043806.html,[Rd] strange error from R CMD check about xaxp,43806,Prof Brian Ripley
+043809.html,[Rd] data.frame within a function (PR#9294) (cont'd),43809,Prof Brian Ripley
+043827.html,[Rd] order of levels in interaction(),43827,Prof Brian Ripley
+043591.html,[Rd] Building R from the source,43591,Prof Brian D Ripley
+040082.html,[Rd] Sued Tuerkei.,40082,5 Star Hotel at the Turkish Riviera.
+043570.html,[Rd] Retrieving function name,43570,Dimitris Rizopoulos
+043667.html,[Rd] We are happy to present you our new project!,43667,Roseann
+043659.html,[Rd] c.factor,43659,Barry Rowlingson
+043700.html,"[Rd] package vignettes, suggests and R CMD check",43700,Peter Ruckdeschel
+043703.html,"[Rd] package vignettes, suggests and R CMD check",43703,Peter Ruckdeschel
+043542.html,[Rd] How to link to vignette from .Rd file,43542,Dominick Samperi
+043548.html,[Rd] How to link to vignette from .Rd file,43548,Dominick Samperi
+043607.html,[Rd] bug in lrect [lattice]?,43607,Deepayan Sarkar
+043745.html,[Rd] Source references from the parser,43745,Deepayan Sarkar
+043748.html,[Rd] Source references from the parser,43748,Deepayan Sarkar
+043750.html,[Rd] Source references from the parser,43750,Deepayan Sarkar
+043826.html,[Rd] order of levels in interaction(),43826,Deepayan Sarkar
+043828.html,[Rd] order of levels in interaction(),43828,Deepayan Sarkar
+043626.html,[Rd] c.factor,43626,Marc Schwartz
+043627.html,[Rd] c.factor,43627,Marc Schwartz
+043644.html,[Rd] c.factor,43644,Marc Schwartz
+043544.html,[Rd] How to link to vignette from .Rd file,43544,Gavin Simpson
+043443.html,[Rd] missing SIGWINCH?,43443,Jon Stearley
+043782.html,[Rd] Error 1 : undefined first referenced symbol,43782,"Steiner, Julien"
+043462.html,[Rd] allocVector bug ?,43462,Luke Tierney
+043561.html,[Rd] allocVector bug ?,43561,Luke Tierney
+043572.html,[Rd] allocVector bug ?,43572,Luke Tierney
+043629.html,[Rd] allocVector bug ?,43629,Luke Tierney
+043666.html,[Rd] We are happy to present you our new project!,43666,Timothy
+043719.html,[Rd] Sued Tuerkei.,43719,Sued Tuerkei.
+043599.html,[Rd] &quot;stem&quot; does not give a correct answer (PR#9359),43599,Berwin A Turlach
+043680.html,[Rd]  array indexes in C,43680,Benjamin Tyner
+043685.html,[Rd] array indexes in C,43685,Benjamin Tyner
+043710.html,[Rd] array indexes in C,43710,Benjamin Tyner
+043459.html,[Rd] Syntax Error in Rcmd check on Windows,43459,Simon Urbanek
+043583.html,[Rd] R CMD SHLIB fails under Mac OS (PR#9353),43583,Simon Urbanek
+043815.html,[Rd] use one custom package with multiple R versions?,43815,Simon Urbanek
+043451.html,[Rd] CRAN task views work only once per session (PR#9330),43451,Achim Zeileis
+043449.html,[Rd] CRAN task views work only once per session (PR#9330),43449,k.ponting at aurix.com
+043486.html,[Rd] eval(match.call()) (PR#9339),43486,p.dalgaard at biostat.ku.dk
+043494.html,[Rd] eval(match.call()) (PR#9339),43494,p.dalgaard at biostat.ku.dk
+043517.html,[Rd] memory issues with new release (PR#9344),43517,p.dalgaard at biostat.ku.dk
+043520.html,[Rd] memory issues with new release (PR#9344),43520,p.dalgaard at biostat.ku.dk
+043525.html,[Rd] memory issues with new release (PR#9344),43525,p.dalgaard at biostat.ku.dk
+043795.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43795,p.dalgaard at biostat.ku.dk
+043800.html,[Rd] Web site link problems (PR#9401),43800,ross at biostat.ucsf.edu
+043804.html,[Rd] Blogger post failed (PR#9402),43804,postgateway at blogger.com
+043483.html,[Rd] eval(match.call()) (PR#9339),43483,marc_schwartz at comcast.net
+043485.html,[Rd] eval(match.call()) (PR#9339),43485,marc_schwartz at comcast.net
+043487.html,[Rd] eval(match.call()) (PR#9339),43487,marc_schwartz at comcast.net
+043490.html,[Rd] eval(match.call()) (PR#9339),43490,marc_schwartz at comcast.net
+043501.html,[Rd] eval(match.call()) (PR#9339),43501,marc_schwartz at comcast.net
+043762.html,[Rd] error in xYplot from Hmisc. (PR#9389),43762,mrufino at cripsul.ipimar.pt
+043689.html,[Rd] packBits (PR#9374),43689,prokaj at cs.elte.hu
+043529.html,[Rd] rbind with auto-row-named data.frame + list (PR#9346),43529,Mark.Bravington at csiro.au
+043743.html,[Rd] Message modified (PR#9383),43743,mailadm at dsi.unifi.it
+043760.html,[Rd] R.DLL mapping by P/Invoke,43760,box at dupuislogiciels.com
+043761.html,[Rd] write.matrix error (PR#9388),43761,mli at emmes.com
+043696.html,[Rd] f2c to achieve reentrancy in odesolve?,43696,Setzer.Woodrow at epamail.epa.gov
+043814.html,[Rd] bug in acosh (win32) (PR#9403),43814,tshort at eprisolutions.com
+043468.html,[Rd] win.metafile() resolution too low (PR#9337),43468,pkampst=rbugspam at few.vu.nl
+043778.html,[Rd] Bug in tkStartGUI in package tcltk (PR#9396),43778,jhallman at frb.gov
+043755.html,[Rd] as.Date: conversion pb from POSIXct (PR#9386),43755,xiao.gang.fan1 at free.fr
+043693.html,[Rd] Buig in bin/R script (PR#9375),43693,gml4410 at ggr.co.uk
+043695.html,[Rd] Buig in bin/R script (PR#9375),43695,gml4410 at ggr.co.uk
+043729.html,[Rd] configure issue (PR#9379),43729,gml4410 at ggr.co.uk
+043731.html,[Rd] OSF1 build fails (PR#9380),43731,gml4410 at ggr.co.uk
+043738.html,[Rd] Solaris build produces worrying warning. (PR#9382),43738,gml4410 at ggr.co.uk
+043465.html,[Rd] tip 181 (PR#9335),43465,stukes at gibbs-soell.com
+043584.html,[Rd] typo in hist.Rd (PR#9355),43584,deepayan.sarkar at gmail.com
+043585.html,[Rd] unwarranted warning from hist.default (PR#9356),43585,deepayan.sarkar at gmail.com
+043587.html,[Rd] unwarranted warning from hist.default (PR#9356),43587,deepayan.sarkar at gmail.com
+043763.html,[Rd] error in xYplot from Hmisc. (PR#9389),43763,deepayan.sarkar at gmail.com
+043511.html,[Rd] memory issues with new release (PR#9344),43511,delmeric at gmail.com
+043767.html,[Rd] when loading library tripack entry point &quot;signal&quot; in rgui.exe	not found (PR#9390),43767,erkan77 at gmail.com
+043768.html,[Rd] addition to R-bug (PR#9391),43768,erkan77 at gmail.com
+043825.html,[Rd] Magic Menu library loading error (PR#9405),43825,jleecbd at gmail.com
+043642.html,[Rd] dyn.load (PR#9364),43642,stefano iacus
+043649.html,[Rd] dyn.load (PR#9364),43649,stefano iacus
+043651.html,[Rd] dyn.load (PR#9364),43651,stefano iacus
+043645.html,[Rd] Building R (PR#9366),43645,Julien.Steiner at imd.ch
+043605.html,"[Rd] readBin(what=&quot;character&quot;,	n=overcount)-&gt;extra &quot;&quot; in result (PR#9361)",43605,bill at insightful.com
+043612.html,"[Rd] readBin(what=&quot;character&quot;,	n=overcount)-&gt;extra &quot;&quot; in result (PR#9363)",43612,bill at insightful.com
+043798.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43798,bill at insightful.com
+043532.html,"[Rd] R freezes with text(...., srt = -1e-8) (PR#9347)",43532,paradis at isem.univ-montp2.fr
+043467.html,[Rd] Saving images from dialog (PR#9336),43467,paoso at libero.it
+043759.html,[Rd] package tseries: plot.irts() - time axis label pb (PR#9387),43759,xiao.gang.fan1 at libertysurf.fr
+043550.html,[Rd] Chi-squared test (PR#9350),43550,sarkar at mail.utexas.edu
+043439.html,[Rd] Some R questions,43439,miguel manese
+043448.html,[Rd] Some R questions,43448,miguel manese
+043455.html,[Rd] buglet in plot.lm (PR#9333),43455,ehlers at math.ucalgary.ca
+043523.html,[Rd] gc()$Vcells &lt; 0 (PR#9345),43523,dmaszle at mendelbio.com
+043606.html,[Rd] wishlist: xlim in lines.polynomial (PR#9362),43606,tpapp at princeton.edu
+043638.html,[Rd] dyn.load (PR#9364),43638,tuke at senet.com.au
+043598.html,[Rd] &quot;stem&quot; does not give a correct answer (PR#9359),43598,mgkim at seowon.ac.kr
+043515.html,[Rd] memory issues with new release (PR#9344),43515,khansen at stat.Berkeley.EDU
+043656.html,[Rd] Building R (PR#9366),43656,maechler at stat.math.ethz.ch
+043481.html,[Rd] eval(match.call()) (PR#9339),43481,harringt at stat.ubc.ca
+043489.html,[Rd] eval(match.call()) (PR#9339),43489,harringt at stat.ubc.ca
+043771.html,[Rd] when loading library tripack entry point &quot;signal&quot; in	rgui.exe (PR#9392),43771,ligges at statistik.uni-dortmund.de
+043440.html,[Rd] (PR#9328) Error in optim(...) non-finite finite-difference,43440,ripley at stats.ox.ac.uk
+043600.html,[Rd] inconsistency or bug in coef() (PR#9358),43600,ripley at stats.ox.ac.uk
+043694.html,[Rd] Buig in bin/R script (PR#9375),43694,ripley at stats.ox.ac.uk
+043758.html,[Rd] as.Date: conversion pb from POSIXct (PR#9386),43758,ripley at stats.ox.ac.uk
+043769.html,[Rd] (PR#9390) when loading library tripack entry point &quot;signal&quot;,43769,ripley at stats.ox.ac.uk
+043770.html,[Rd] (PR#9390) when loading library tripack entry point &quot;signal&quot;,43770,ripley at stats.ox.ac.uk
+043773.html,[Rd] ccf documentation bug or suggeston (PR#9393),43773,aim at stats.uwo.ca
+043818.html,[Rd] bug in arima? (PR#9404),43818,aim at stats.uwo.ca
+043471.html,[Rd] [R] difference in using with() and the &quot;data&quot; argument in	glm (PR#9338),43471,murdoch at stats.uwo.ca
+043774.html,[Rd] ccf documentation bug or suggeston (PR#9394),43774,murdoch at stats.uwo.ca
+043775.html,[Rd] ccf documentation bug or suggeston (PR#9394),43775,murdoch at stats.uwo.ca
+043820.html,[Rd] bug in arima? (PR#9404),43820,murdoch at stats.uwo.ca
+043663.html,[Rd] unwarranted warning from hist.default (PR#9356),43663,cig32650 at syd.odn.ne.jp
+043596.html,[Rd] inconsistency or bug in coef() (PR#9358),43596,rmh at temple.edu
+043602.html,[Rd] inconsistency or bug in coef() (PR#9358),43602,rmh at temple.edu
+043563.html,[Rd] boxplot ignores 'boxfill' (PR#9352),43563,arnima at u.washington.edu
+043643.html,[Rd] save objects from function (PR#9365),43643,dragan.sestovic at ubs.com
+043436.html,[Rd] Error in optim(...) non-finite finite-difference value	(PR#9328),43436,avbell at ucdavis.edu
+043582.html,[Rd] R CMD SHLIB fails under Mac OS (PR#9353),43582,fuss-h at ulster.ac.uk
+043650.html,[Rd] dyn.load (PR#9364),43650,stefano.iacus at unimi.it
+043652.html,[Rd] dyn.load (PR#9364),43652,stefano.iacus at unimi.it
+043603.html,[Rd] bug in acf (PR#9360),43603,aimcleod at uwo.ca
+043648.html,[Rd] dyn.load (PR#9364),43648,duncan at wald.ucdavis.edu
+043499.html,[Rd] How to put my S4 class into data.frame,43499,hadley wickham
+043734.html,[Rd] Writing R Extensions manual?,43734,hadley wickham
+043790.html,"[Rd] rm() deletes 'c' if c('a','b') is the argument (PR#9399)",43790,hanl2 at wyeth.com

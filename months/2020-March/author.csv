@@ -1,0 +1,150 @@
+link,Subject,id,author
+079144.html,[Rd] strange bahaviour of predict.lm,79144,Rui Barradas
+079147.html,[Rd] strange bahaviour of predict.lm,79147,Rui Barradas
+079109.html,[Rd] survival bug?,79109,Gabriel Becker
+079229.html,[Rd] is.vector could handle AsIs class better,79229,Gabriel Becker
+079233.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79233,Gabriel Becker
+079249.html,[Rd] Any help needed in prep of 4.0.0?,79249,Gabriel Becker
+079157.html,[Rd] R CMD check --as-cran attempts to hide R_LIBS_USER but fails,79157,Henrik Bengtsson
+079159.html,[Rd]  R CMD check --as-cran attempts to hide R_LIBS_USER but fails,79159,Henrik Bengtsson
+079180.html,[Rd]  R CMD check --as-cran attempts to hide R_LIBS_USER but fails,79180,Henrik Bengtsson
+079188.html,[Rd] WISH: Sys.setlocale() to return value invisibly,79188,Henrik Bengtsson
+079110.html,[Rd] survival bug?,79110,Ben Bolker
+079170.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79170,Ben Bolker
+079172.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79172,Ben Bolker
+079191.html,[Rd] unstable corner of parameter space for qbeta?,79191,Ben Bolker
+079203.html,[Rd] unstable corner of parameter space for qbeta?,79203,Ben Bolker
+079184.html,[Rd] Build failure on powerpc64,79184,Tom Callaway
+079198.html,[Rd] Rebuilding and re-checking of downstream dependencies on CRAN Mac build machines,79198,Winston Chang
+079202.html,[Rd]  Rebuilding and re-checking of downstream dependencies on CRAN Mac build machines,79202,Winston Chang
+079136.html,"[Rd] pipe(): input to, and output from, a single process",79136,G&#225;bor Cs&#225;rdi
+079139.html,"[Rd] pipe(): input to, and output from, a single process",79139,G&#225;bor Cs&#225;rdi
+079169.html,[Rd] unlink() on &quot;~&quot; removes the home directory,79169,G&#225;bor Cs&#225;rdi
+079132.html,[Rd] R 4.0.0 scheduled for April 24,79132,Peter Dalgaard
+079102.html,[Rd] dput(),79102,Steven Dirkse
+079133.html,[Rd] support of `substitute(...())`,79133,William Dunlap
+079167.html,[Rd] Inconsistant result for normalizePath on Windows,79167,William Dunlap
+079238.html,[Rd] is.vector could handle AsIs class better,79238,William Dunlap
+079138.html,"[Rd] pipe(): input to, and output from, a single process",79138,Dirk Eddelbuettel
+079158.html,[Rd]  R CMD check --as-cran attempts to hide R_LIBS_USER but fails,79158,Dirk Eddelbuettel
+079175.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79175,Dirk Eddelbuettel
+079178.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79178,Dirk Eddelbuettel
+079179.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79179,Dirk Eddelbuettel
+079176.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79176,Romain Francois
+079103.html,[Rd] tcl problem with R-3.6.3?,79103,Charles Geyer
+079141.html,[Rd] new bquote feature splice does not address a common LISP @ use case?,79141,Jan Gorecki
+079152.html,[Rd]  new bquote feature splice does not address a common LISP @ use case?,79152,Jan Gorecki
+079153.html,[Rd] substitute inconsistent output,79153,Jan Gorecki
+079228.html,[Rd] is.vector could handle AsIs class better,79228,Jan Gorecki
+079234.html,[Rd] is.vector could handle AsIs class better,79234,Jan Gorecki
+079143.html,[Rd] &quot;:::&quot; operator doesn't work with data object Ecdat:::Crime,79143,Spencer Graves
+079218.html,[Rd] status of Java &amp; rJava?,79218,Spencer Graves
+079222.html,[Rd] [BULK] Re:  status of Java &amp; rJava?,79222,Spencer Graves
+079225.html,[Rd] status of Java &amp; rJava?,79225,Spencer Graves
+079227.html,[Rd] status of Java &amp; rJava?,79227,Spencer Graves
+079237.html,[Rd] status of Java &amp; rJava?,79237,Spencer Graves
+079146.html,[Rd]  new bquote feature splice does not address a common LISP @ use case?,79146,Lionel Henry
+079177.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79177,Lionel Henry
+079204.html,[Rd] Expressions from boxplot() passed to bxp(),79204,Marius Hofert
+079121.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79121,Wang Jiefei
+079122.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79122,Wang Jiefei
+079126.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79126,Wang Jiefei
+079127.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79127,Wang Jiefei
+079130.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79130,Wang Jiefei
+079165.html,[Rd] Inconsistant result for normalizePath on Windows,79165,Wang Jiefei
+079117.html,[Rd] survival bug? - solved,79117,Tomas Kalibera
+079125.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79125,Tomas Kalibera
+079154.html,[Rd]  configure --with-pcre1 fails with latest R 4.0 on Ubuntu 14.04,79154,Tomas Kalibera
+079161.html,[Rd]  configure --with-pcre1 fails with latest R 4.0 on Ubuntu 14.04,79161,Tomas Kalibera
+079166.html,[Rd] Inconsistant result for normalizePath on Windows,79166,Tomas Kalibera
+079168.html,[Rd] unlink() on &quot;~&quot; removes the home directory,79168,Tomas Kalibera
+079171.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79171,Tomas Kalibera
+079209.html,[Rd] object.size vs lobstr::obj_size,79209,Tomas Kalibera
+079211.html,[Rd] object.size vs lobstr::obj_size,79211,Tomas Kalibera
+079137.html,"[Rd] pipe(): input to, and output from, a single process",79137,Ivan Krylov
+079104.html,[Rd] dput(),79104,Martin Maechler
+079106.html,[Rd] dput(),79106,Martin Maechler
+079107.html,[Rd] dput(),79107,Martin Maechler
+079118.html,[Rd] findInterval Documentation Suggestion,79118,Martin Maechler
+079173.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79173,Martin Maechler
+079182.html,[Rd] Build failure on powerpc64,79182,Martin Maechler
+079190.html,[Rd] contribution to package graphics::barplot,79190,Martin Maechler
+079192.html,[Rd] unstable corner of parameter space for qbeta?,79192,Martin Maechler
+079195.html,[Rd] unstable corner of parameter space for qbeta?,79195,Martin Maechler
+079199.html,[Rd] unstable corner of parameter space for qbeta?,79199,Martin Maechler
+079248.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79248,Martin Maechler
+079186.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79186,Nicolas Mailhot
+079236.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79236,Nicolas Mailhot
+079243.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79243,Nicolas Mailhot
+079246.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79246,Nicolas Mailhot
+079135.html,"[Rd] pipe(): input to, and output from, a single process",79135,Greg Minshall
+079150.html,"[Rd] pipe(): input to, and output from, a single process",79150,Greg Minshall
+079148.html,"[Rd] pipe(): input to, and output from, a single process",79148,Greg Minshall
+079149.html,"[Rd] pipe(): input to, and output from, a single process",79149,Greg Minshall
+079105.html,[Rd] dput(),79105,Duncan Murdoch
+079155.html,[Rd] substitute inconsistent output,79155,Duncan Murdoch
+079230.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79230,Paul Murrell
+079232.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79232,Paul Murrell
+079239.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79239,Paul Murrell
+079240.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79240,Paul Murrell
+079242.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79242,Paul Murrell
+079244.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79244,Paul Murrell
+079245.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79245,Paul Murrell
+079250.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79250,Paul Murrell
+079194.html,[Rd] unstable corner of parameter space for qbeta?,79194,J C Nash
+079196.html,[Rd] unstable corner of parameter space for qbeta?,79196,J C Nash
+079142.html,[Rd] strange bahaviour of predict.lm,79142,Moshe Olshansky
+079128.html,[Rd] rounding change,79128,Herv&#233; Pag&#232;s
+079151.html,[Rd] configure --with-pcre1 fails with latest R 4.0 on Ubuntu 14.04,79151,Herv&#233; Pag&#232;s
+079156.html,[Rd]  configure --with-pcre1 fails with latest R 4.0 on Ubuntu 14.04,79156,Herv&#233; Pag&#232;s
+079162.html,[Rd]  configure --with-pcre1 fails with latest R 4.0 on Ubuntu 14.04,79162,Herv&#233; Pag&#232;s
+079210.html,[Rd] object.size vs lobstr::obj_size,79210,Herv&#233; Pag&#232;s
+079214.html,[Rd] object.size vs lobstr::obj_size,79214,Herv&#233; Pag&#232;s
+079216.html,[Rd] object.size vs lobstr::obj_size,79216,Herv&#233; Pag&#232;s
+079224.html,[Rd] status of Java &amp; rJava?,79224,Prof Brian Ripley
+079217.html,[Rd] object.size vs lobstr::obj_size,79217,Stefan Schreiber
+079120.html,[Rd] findInterval Documentation Suggestion,79120,Marc Schwartz
+079181.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79181,Gavin Simpson
+079189.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79189,Gavin Simpson
+079145.html,[Rd] &quot;:::&quot; operator doesn't work with data object Ecdat:::Crime,79145,Abby Spurdle
+079163.html,[Rd] Grid pmax Unusual Result In Alpha Version,79163,Dario Strbenac
+079164.html,[Rd] Grid pmax Unusual Result In Alpha Version,79164,Dario Strbenac
+079206.html,[Rd] Possibility of Less Verbose Stack Trace,79206,Dario Strbenac
+079108.html,[Rd] survival bug?,79108,"Therneau, Terry M., Ph.D."
+079112.html,[Rd] rounding change,79112,"Therneau, Terry M., Ph.D."
+079113.html,[Rd] survival bug? - solved,79113,"Therneau, Terry M., Ph.D."
+079226.html,[Rd] status of Java &amp; rJava?,79226,Adrian Trapletti
+079131.html,[Rd] support of `substitute(...())`,79131,D&#233;nes T&#243;th
+079134.html,[Rd] support of `substitute(...())`,79134,D&#233;nes T&#243;th
+079185.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79185,I&#241;aki Ucar
+079207.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79207,I&#241;aki Ucar
+079231.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79231,I&#241;aki Ucar
+079235.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79235,I&#241;aki Ucar
+079241.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79241,I&#241;aki Ucar
+079247.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79247,I&#241;aki Ucar
+079111.html,[Rd] survival bug?,79111,Simon Urbanek
+079129.html,[Rd] R CMD INSTALL cannot recognize full path on Windows,79129,Simon Urbanek
+079140.html,"[Rd] pipe(): input to, and output from, a single process",79140,Simon Urbanek
+079174.html,[Rd] help with rchk warnings on Rf_eval(Rf_lang2(...)),79174,Simon Urbanek
+079200.html,[Rd]  Rebuilding and re-checking of downstream dependencies on CRAN Mac build machines,79200,Simon Urbanek
+079221.html,[Rd] status of Java &amp; rJava?,79221,Simon Urbanek
+079223.html,[Rd] [BULK] Re:  status of Java &amp; rJava?,79223,Simon Urbanek
+079197.html,[Rd] unstable corner of parameter space for qbeta?,79197,Ravi Varadhan
+079220.html,[Rd] status of Java &amp; rJava?,79220,Ravi Varadhan
+079219.html,[Rd] status of Java &amp; rJava?,79219,Gregory Warnes
+079201.html,[Rd]  Rebuilding and re-checking of downstream dependencies on CRAN Mac build machines,79201,Hadley Wickham
+079212.html,[Rd] object.size vs lobstr::obj_size,79212,Hadley Wickham
+079213.html,[Rd] object.size vs lobstr::obj_size,79213,Hadley Wickham
+079215.html,[Rd] object.size vs lobstr::obj_size,79215,Hadley Wickham
+079183.html,[Rd] Build failure on powerpc64,79183,peter dalgaard
+079193.html,[Rd] unstable corner of parameter space for qbeta?,79193,peter dalgaard
+079205.html,[Rd] Expressions from boxplot() passed to bxp(),79205,peter dalgaard
+079114.html,[Rd] survival bug? - solved,79114,brodie gaslam
+079115.html,[Rd] findInterval Documentation Suggestion,79115,brodie gaslam
+079116.html,[Rd] findInterval Documentation Suggestion,79116,brodie gaslam
+079119.html,[Rd] findInterval Documentation Suggestion,79119,brodie gaslam
+079187.html,[Rd] contribution to package graphics::barplot,79187,ir at  at cois at reb at udo m at iii at g oii ird at ir
+079160.html,[Rd]  [External] Re: new bquote feature splice does not address a common LISP @ use case?,79160,iuke-tier at ey m at iii at g oii uiow at  at edu
+079208.html,[Rd] [External] Re:  Expressions from boxplot() passed to bxp(),79208,iuke-tier at ey m at iii at g oii uiow at  at edu
+079123.html,[Rd] tryCatch without handler in QC.R,79123,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com
+079124.html,[Rd] tryCatch without handler in QC.R,79124,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com

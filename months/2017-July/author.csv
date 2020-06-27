@@ -1,0 +1,170 @@
+link,Subject,id,author
+074629.html,[Rd] Solaris SPARC testbed,74629,Avraham Adler
+074722.html,[Rd] translateChar in NewName in bind.c,74722,Suharto Anggono Suharto Anggono
+074652.html,[Rd] install.packages problem,74652,Rui Barradas
+074654.html,[Rd] install.packages problem on Windows:  CRANextras timeout,74654,Rui Barradas
+074593.html,[Rd] make check-recommended hanging on up-to-date Rdevel from SVN,74593,Gabriel Becker
+074579.html,[Rd] R_LIBS_USER on Ubuntu 16.04,74579,Henrik Bengtsson
+074577.html,[Rd] [New Patch] Fix disk corruption when writing,74577,Jean-S&#233;bastien Bevilacqua
+074608.html,[Rd] bug: deparse sometimes omits parentheses for unary operators,74608,"Binder, Martin"
+074712.html,[Rd] dir.create typo in manual An Introduction to R,74712,John Blischak
+074671.html,[Rd] Wrongly converging glm(),74671,Simon Bonner
+074623.html,[Rd] Background session with R,74623,G&#225;bor Cs&#225;rdi
+074658.html,[Rd] configure check might fail for texi2any on Solaris,74658,G&#225;bor Cs&#225;rdi
+074659.html,[Rd] configure check might fail for texi2any on Solaris,74659,G&#225;bor Cs&#225;rdi
+074709.html,[Rd] italic font on cairo devices in R 3.4,74709,Peter Dalgaard
+074592.html,[Rd] attributes on symbols,74592,William Dunlap
+074626.html,[Rd] 'do.call' appears to show inconsistent behavior for arguments of format &quot;pkg::fun&quot;,74626,William Dunlap
+074672.html,[Rd] matrices with names,74672,William Dunlap
+074719.html,[Rd] force promises inside lapply,74719,William Dunlap
+074721.html,[Rd] force promises inside lapply,74721,William Dunlap
+074564.html,[Rd] R_LIBS_USER on Ubuntu 16.04,74564,Dirk Eddelbuettel
+074561.html,[Rd] The ByteCompile &amp; LazyLoading fields,74561,Colin Gillespie
+074615.html,[Rd] MASS:::dropterm.glm() and MASS:::addterm.glm() should use ... for extractAIC(),74615,Marc Girondot
+074559.html,[Rd] Are you considering the possibility of partnership?,74559,Spencer Graves
+074680.html,[Rd] [PATCH] Fix missing break,74680,Steve Grubb
+074681.html,[Rd] [PATCH] Fix bad free in connections,74681,Steve Grubb
+074683.html,[Rd] [PATCH] Fix memory leak in PicTeXDeviceDriver,74683,Steve Grubb
+074684.html,[Rd] [PATCH] Fix fscanf specifier in InIntegerAscii,74684,Steve Grubb
+074685.html,[Rd] [PATCH] Fix status in main,74685,Steve Grubb
+074688.html,[Rd] [PATCH] Fix missing break,74688,Steve Grubb
+074700.html,[Rd] [PATCH] Fix bad free in connections,74700,Steve Grubb
+074701.html,[Rd] [PATCH] Fix missing break,74701,Steve Grubb
+074587.html,[Rd] bug with dlnorm,74587,"HALL, BENJAMIN            PW"
+074565.html,[Rd] The ByteCompile &amp; LazyLoading fields,74565,Jim Hester
+074574.html,[Rd] write.csv,74574,Jim Hester
+074598.html,[Rd] attributes on symbols,74598,Torsten Hothorn
+074639.html,[Rd] Bug in libR.so (R 3.4.1 Single Candle),74639,IT Infrastructure
+074566.html,[Rd] write.csv,74566,Lipatz Jean-Luc
+074568.html,[Rd] write.csv,74568,Lipatz Jean-Luc
+074656.html,[Rd] list.files returns unwanted files,74656,Lipatz Jean-Luc
+074695.html,[Rd] 'gsub' not perl compatible?,74695,Lipatz Jean-Luc
+074586.html,"[Rd] Rmpi, openMPI editions.",74586,Paul Johnson
+074636.html,[Rd] Bug in libR.so (R 3.4.1 Single Candle),74636,Antonio Jordan
+074590.html,[Rd] [Bug Fix] Default values not applied to ... arguments,74590,Tomas Kalibera
+074589.html,[Rd]  [Bug Fix] Default values not applied to ... arguments,74589,Sahil Kang
+074596.html,[Rd] [Bug Fix] Default values not applied to ... arguments,74596,Sahil Kang
+074607.html,[Rd] [Bug Fix] Default values not applied to ... arguments,74607,Sahil Kang
+074597.html,[Rd] italic font on cairo devices in R 3.4,74597,Ilia Kats
+074604.html,[Rd] italic font on cairo devices in R 3.4,74604,Ilia Kats
+074635.html,[Rd] italic font on cairo devices in R 3.4,74635,Ilia Kats
+074638.html,[Rd] italic font on cairo devices in R 3.4,74638,Ilia Kats
+074557.html,[Rd] Patch for R-exts.texi,74557,Scott Kostyshak
+074611.html,[Rd] Patch for R-exts.texi,74611,Scott Kostyshak
+074657.html,[Rd] [patch] ?confint: &quot;assumes asymptotic normality&quot;,74657,Scott Kostyshak
+074674.html,[Rd] [patch] ?confint: &quot;assumes asymptotic normality&quot;,74674,Scott Kostyshak
+074716.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74716,Michael Lawrence
+074677.html,[Rd] Wrongly converging glm(),74677,Mark Leeds
+074702.html,[Rd] Wrongly converging glm(),74702,Mark Leeds
+074704.html,[Rd] Wrongly converging glm(),74704,Mark Leeds
+074717.html,[Rd] I have corrected a dead link in the treering documentation,74717,Thomas Levine
+074558.html,[Rd] Are you considering the possibility of partnership?,74558,Uwe Ligges
+074628.html,[Rd] write.csv,74628,Uwe Ligges
+074634.html,[Rd] write.csv,74634,Uwe Ligges
+074661.html,[Rd] Separate packages per windows subarch in repository,74661,Uwe Ligges
+074562.html,[Rd] R_LIBS_USER on Ubuntu 16.04,74562,Stefan L&#252;dtke
+074610.html,[Rd] Patch for R-exts.texi,74610,Martin Maechler
+074646.html,[Rd] Proposed Patch for poly.Rd,74646,Martin Maechler
+074647.html,[Rd] Proposed Patch for poly.Rd,74647,Martin Maechler
+074649.html,[Rd] Proposed Patch for poly.Rd,74649,Martin Maechler
+074651.html,[Rd] Proposed Patch for poly.Rd,74651,Martin Maechler
+074653.html,[Rd] install.packages problem on Windows:  CRANextras timeout,74653,Martin Maechler
+074663.html,[Rd] [patch] ?confint: &quot;assumes asymptotic normality&quot;,74663,Martin Maechler
+074668.html,[Rd] Change in print.function between R 3.4.1 and R 3.4.0,74668,Martin Maechler
+074691.html,[Rd] [PATCH] Fix missing break,74691,Martin Maechler
+074692.html,[Rd] [PATCH] Fix status in main,74692,Martin Maechler
+074693.html,[Rd] [PATCH] Fix missing break,74693,Martin Maechler
+074698.html,[Rd] [PATCH] Fix memory leak in PicTeXDeviceDriver,74698,Martin Maechler
+074699.html,[Rd] [PATCH] Fix fscanf specifier in InIntegerAscii,74699,Martin Maechler
+074708.html,[Rd] [PATCH] Fix missing break,74708,Martin Maechler
+074713.html,[Rd] dir.create typo in manual An Introduction to R,74713,Martin Maechler
+074723.html,[Rd] translateChar in NewName in bind.c,74723,Martin Maechler
+074705.html,[Rd] missing `=` in man page for files2,74705,Ben Marwick
+074707.html,[Rd] missing `=` in man page for files2,74707,Ben Marwick
+074631.html,[Rd] Background session with R,74631,Norm Matloff
+074710.html,[Rd] 'gsub' not perl compatible?,74710,Robert McGehee
+074573.html,[Rd] write.csv,74573,Joris Meys
+074669.html,[Rd] Wrongly converging glm(),74669,Joris Meys
+074673.html,[Rd] Wrongly converging glm(),74673,Joris Meys
+074679.html,[Rd] Wrongly converging glm(),74679,Joris Meys
+074689.html,[Rd] [PATCH] Fix missing break,74689,Martin Morgan
+074690.html,[Rd] [PATCH] Fix status in main,74690,Martin Morgan
+074694.html,[Rd] [PATCH] Fix bad free in connections,74694,Martin Morgan
+074660.html,[Rd] Separate packages per windows subarch in repository,74660,Iago Mosqueira
+074664.html,[Rd] Separate packages per windows subarch in repository,74664,Iago Mosqueira
+074667.html,[Rd] Separate packages per windows subarch in repository,74667,Iago Mosqueira
+074567.html,[Rd] write.csv,74567,Duncan Murdoch
+074570.html,[Rd] write.csv,74570,Duncan Murdoch
+074571.html,[Rd] write.csv,74571,Duncan Murdoch
+074575.html,[Rd] write.csv,74575,Duncan Murdoch
+074578.html,[Rd] [New Patch] Fix disk corruption when writing,74578,Duncan Murdoch
+074582.html,[Rd] [New Patch] Fix disk corruption when writing,74582,Duncan Murdoch
+074591.html,[Rd] [New Patch] Fix disk corruption when writing,74591,Duncan Murdoch
+074595.html,[Rd] [New Patch] Fix disk corruption when writing,74595,Duncan Murdoch
+074600.html,[Rd] [New Patch] Fix disk corruption when writing,74600,Duncan Murdoch
+074602.html,[Rd] [New Patch] Fix disk corruption when writing,74602,Duncan Murdoch
+074609.html,[Rd] [New Patch] Fix disk corruption when writing,74609,Duncan Murdoch
+074617.html,[Rd] [New Patch] Fix disk corruption when writing,74617,Duncan Murdoch
+074619.html,[Rd] [New Patch] Fix disk corruption when writing,74619,Duncan Murdoch
+074621.html,[Rd] [New Patch] Fix disk corruption when writing,74621,Duncan Murdoch
+074625.html,[Rd] 'do.call' appears to show inconsistent behavior for arguments of format &quot;pkg::fun&quot;,74625,Duncan Murdoch
+074637.html,[Rd] Bug in libR.so (R 3.4.1 Single Candle),74637,Duncan Murdoch
+074641.html,[Rd] Proposed Patch for poly.Rd,74641,Duncan Murdoch
+074643.html,[Rd] Proposed Patch for poly.Rd,74643,Duncan Murdoch
+074650.html,[Rd] Proposed Patch for poly.Rd,74650,Duncan Murdoch
+074655.html,[Rd] Proposed Patch for poly.Rd,74655,Duncan Murdoch
+074687.html,[Rd] [PATCH] Fix missing break,74687,Duncan Murdoch
+074706.html,[Rd] missing `=` in man page for files2,74706,Duncan Murdoch
+074633.html,[Rd] italic font on cairo devices in R 3.4,74633,Paul Murrell
+074612.html,[Rd] attributes on symbols,74612,Radford Neal
+074613.html,[Rd] bug: deparse sometimes omits parentheses for unary	operators,74613,Radford Neal
+074711.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74711,Andrzej Ole&#347;
+074662.html,[Rd] Separate packages per windows subarch in repository,74662,Jeroen Ooms
+074724.html,[Rd] special latin1 do not print as glyphs in current devel on	windows,74724,Daniel Possenriede
+074630.html,[Rd] Solaris SPARC testbed,74630,Prof Brian Ripley
+074624.html,[Rd] 'do.call' appears to show inconsistent behavior for arguments of format &quot;pkg::fun&quot;,74624,"Schlaepfer, Daniel"
+074560.html,[Rd] Are you considering the possibility of partnership?,74560,Marc Schwartz
+074640.html,[Rd] Proposed Patch for poly.Rd,74640,Marc Schwartz
+074642.html,[Rd] Proposed Patch for poly.Rd,74642,Marc Schwartz
+074644.html,[Rd] Proposed Patch for poly.Rd,74644,Marc Schwartz
+074645.html,[Rd] Proposed Patch for poly.Rd,74645,Marc Schwartz
+074648.html,[Rd] Proposed Patch for poly.Rd,74648,Marc Schwartz
+074614.html,[Rd] Issue with memory deallocation/fragmentation on systems	which use glibc,74614,Dmitriy Selivanov
+074715.html,[Rd] Issue with memory deallocation/fragmentation on systems	which use glibc,74715,Dmitriy Selivanov
+074594.html,[Rd] [New Patch] Fix disk corruption when writing,74594,Sokol Serguei
+074584.html,[Rd] [New Patch] Fix disk corruption when writing,74584,Serguei Sokol
+074585.html,[Rd] [New Patch] Fix disk corruption when writing,74585,Serguei Sokol
+074588.html,[Rd] [New Patch] Fix disk corruption when writing,74588,Serguei Sokol
+074599.html,[Rd] [New Patch] Fix disk corruption when writing,74599,Serguei Sokol
+074601.html,[Rd] [New Patch] Fix disk corruption when writing,74601,Serguei Sokol
+074616.html,[Rd] [New Patch] Fix disk corruption when writing,74616,Serguei Sokol
+074618.html,[Rd] [New Patch] Fix disk corruption when writing,74618,Serguei Sokol
+074620.html,[Rd] [New Patch] Fix disk corruption when writing,74620,Serguei Sokol
+074569.html,[Rd] write.csv,74569,Nathan Sosnovske
+074572.html,[Rd] write.csv,74572,Nathan Sosnovske
+074576.html,[Rd] write.csv,74576,Nathan Sosnovske
+074627.html,[Rd] write.csv,74627,Nathan Sosnovske
+074632.html,[Rd] write.csv,74632,Nathan Sosnovske
+074622.html,[Rd] Background session with R,74622,"Stravs, Michael"
+074714.html,[Rd] matrices with names,74714,"Suzen, Mehmet"
+074696.html,[Rd] Wrongly converging glm(),74696,"Therneau, Terry M., Ph.D."
+074718.html,[Rd] force promises inside lapply,74718,Benjamin Tyner
+074720.html,[Rd] force promises inside lapply,74720,Benjamin Tyner
+074725.html,[Rd] force promises inside lapply,74725,Benjamin Tyner
+074697.html,[Rd] Wrongly converging glm(),74697,Ravi Varadhan
+074703.html,[Rd] Wrongly converging glm(),74703,Ravi Varadhan
+074580.html,[Rd] write.csv,74580,January W.
+074581.html,[Rd] [New Patch] Fix disk corruption when writing,74581,January W.
+074583.html,[Rd] [New Patch] Fix disk corruption when writing,74583,January W.
+074666.html,[Rd] Wrongly converging glm(),74666,Harm-Jan Westra
+074670.html,[Rd] Wrongly converging glm(),74670,Harm-Jan Westra
+074675.html,[Rd] Wrongly converging glm(),74675,Harm-Jan Westra
+074676.html,[Rd] Wrongly converging glm(),74676,Harm-Jan Westra
+074678.html,[Rd] Wrongly converging glm(),74678,Harm-Jan Westra
+074682.html,[Rd] Wrongly converging glm(),74682,Harm-Jan Westra
+074563.html,[Rd] R_LIBS_USER on Ubuntu 16.04,74563,Ista Zahn
+074606.html,[Rd] make check-recommended hanging on up-to-date Rdevel from	SVN,74606,peter dalgaard
+074686.html,[Rd] [patch] ?confint: &quot;assumes asymptotic normality&quot;,74686,peter dalgaard
+074665.html,[Rd] Change in print.function between R 3.4.1 and R 3.4.0,74665,nicola farina
+074603.html,[Rd] italic font on cairo devices in R 3.4,74603,frederik at ofb.net
+074605.html,[Rd] italic font on cairo devices in R 3.4,74605,frederik at ofb.net

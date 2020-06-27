@@ -1,0 +1,442 @@
+link,Subject,id,author
+037157.html,[Rd] setIs and method dispatch in S4 classes,37157,Vincent Carey 525-2265
+037357.html,[Rd] seq() function accuracy inacceptable (PR#8779),37357,Henrik Bengtsson (max 7Mb)
+037398.html,[Rd] R CMD check: non source files in src on (2.3.0 RC	(2006-04-19 r37860)),37398,Henrik Bengtsson (max 7Mb)
+037456.html,[Rd] RSetReg.exe,37456,Henrik Bengtsson (max 7Mb)
+037469.html,[Rd] Large number of linked environments makes save() crash R,37469,Henrik Bengtsson (max 7Mb)
+037344.html,[Rd] bounding box in PostScript,37344,David Allen
+037358.html,[Rd] bounding box in PostScript,37358,David Allen
+037124.html,"[Rd] is.numeric (NA + NA) is TRUE, should be FALSE (PR#8745)",37124,"Antonio, Fabio Di Narzo"
+037476.html,[Rd] as.factor: changed behaviour for Date class,37476,"Antonio, Fabio Di Narzo"
+037277.html,[Rd] Calloc : syntax error,37277,Franck Arnaud
+037492.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37492,Sudipto Banerjee
+037400.html,[Rd] gsummary function (nlme library) (PR#8782),37400,Douglas Bates
+037385.html,[Rd] AIX libjpeg still looms,37385,Matthew Beason
+037071.html,[Rd] package?&lt;pac&gt;,37071,Henrik Bengtsson
+037080.html,[Rd] Substitute() changed since R2.3.0 (2006-02-02 r37243)?,37080,Henrik Bengtsson
+037096.html,[Rd] Example of environment,37096,Henrik Bengtsson
+037101.html,[Rd] Return function from function with minimal environment,37101,Henrik Bengtsson
+037107.html,[Rd] Return function from function with minimal environment,37107,Henrik Bengtsson
+037111.html,[Rd] Return function from function with minimal environment,37111,Henrik Bengtsson
+037112.html,[Rd] Return function from function with minimal environment,37112,Henrik Bengtsson
+037129.html,[Rd] Return function from function and Recall(),37129,Henrik Bengtsson
+037130.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return	function from function and Recall()),37130,Henrik Bengtsson
+037134.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return	function from function and Recall()),37134,Henrik Bengtsson
+037135.html,[Rd] page() (Was: Re: predict.smooth.spline.fit and Recall() (Was:	Re: Return function from function and Recall())),37135,Henrik Bengtsson
+037138.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return	function from function and Recall()),37138,Henrik Bengtsson
+037139.html,[Rd] page() (Was: Re: predict.smooth.spline.fit and Recall()	(Was: Re: Return function from function and Recall())),37139,Henrik Bengtsson
+037151.html,[Rd] prevent reassignment of function names,37151,Henrik Bengtsson
+037196.html,[Rd] Run package code on R shutdown?,37196,Henrik Bengtsson
+037199.html,"[Rd] get(name,	envir=envir) : formal argument &quot;envir&quot; matched by multiple actual	arguments",37199,Henrik Bengtsson
+037202.html,[Rd] Suggestions to speed up median() and has.na(),37202,Henrik Bengtsson
+037220.html,[Rd] Suggestions to speed up median() and has.na(),37220,Henrik Bengtsson
+037148.html,[Rd] prevent reassignment of function names,37148,Tim Bergsma
+037405.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19 r37860)),37405,Roger Bivand
+037255.html,[Rd] Label size in MAplots,37255,"Brooks, Anthony B"
+037389.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19	r37860)),37389,James Bullard
+037200.html,[Rd] setIs and method dispatch in S4 classes,37200,John Chambers
+037204.html,[Rd] setIs and method dispatch in S4 classes,37204,John Chambers
+037240.html,[Rd] [R] type converters not being saved to workspace,37240,John Chambers
+037257.html,[Rd] [R] type converters not being saved to workspace,37257,John Chambers
+037259.html,[Rd] yet another problem with S4 dispatch (with setClassUnion),37259,John Chambers
+037289.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37289,John Chambers
+037298.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37298,John Chambers
+037164.html,[Rd] Compiling PL/R against R.dll in Win32/MinGW,37164,Joe Conway
+037168.html,[Rd] Compiling PL/R against R.dll in Win32/MinGW,37168,Joe Conway
+037177.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37177,Peter Dalgaard
+037181.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37181,Peter Dalgaard
+037304.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37304,Peter Dalgaard
+037319.html,[Rd] Crash in de(),37319,Peter Dalgaard
+037323.html,[Rd] Crash in de(),37323,Peter Dalgaard
+037324.html,[Rd] Crash in de(),37324,Peter Dalgaard
+037355.html,[Rd] xyplot (PR#8778),37355,Peter Dalgaard
+037378.html,[Rd] commercial software selling a R module - question about	GPL license rights,37378,Peter Dalgaard
+037393.html,[Rd] bug: code not working as expected (PR#8783),37393,Peter Dalgaard
+037482.html,[Rd] ? bug in 'sample' (PR#8813),37482,Peter Dalgaard
+037491.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37491,Peter Dalgaard
+037260.html,[Rd] New class: data.table,37260,Matthew Dowle
+037115.html,"[Rd] extending strsplit(): supply pattern to keep, not to split by",37115,Bill Dunlap
+037119.html,"[Rd] extending strsplit(): supply pattern to keep, not to split by",37119,Bill Dunlap
+037209.html,[Rd] Suggestions to speed up median() and has.na(),37209,Bill Dunlap
+037285.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37285,Bill Dunlap
+037443.html,[Rd] gsub + backslashes,37443,Bill Dunlap
+037340.html,[Rd] (PR#8777) strsplit does [not] return correct value when spliting &quot;&quot;,37340,Charles Dupont
+037087.html,[Rd] Integration of C and Fortran,37087,Sebastien Durand
+037090.html,[Rd] Build failure with this morning's R-alpha,37090,Dirk Eddelbuettel
+037099.html,[Rd] Build failure with this morning's R-alpha,37099,Dirk Eddelbuettel
+037121.html,[Rd] Build failure with this morning's R-alpha,37121,Dirk Eddelbuettel
+037178.html,[Rd] using R in a java application,37178,Dirk Eddelbuettel
+037192.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37192,Dirk Eddelbuettel
+037194.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37194,Dirk Eddelbuettel
+037206.html,[Rd] install.packages on unix / su (PR#8760),37206,Dirk Eddelbuettel
+037233.html,[Rd] Bug#361968: Wrong name in manpage,37233,Dirk Eddelbuettel
+037244.html,[Rd] Bug#361968: Wrong name in manpage,37244,Dirk Eddelbuettel
+037140.html,[Rd] wishlist: 'formula' method for stripchart(),37140,Peter Ehlers
+037146.html,[Rd] wishlist: 'formula' method for stripchart(),37146,Peter Ehlers
+037161.html,[Rd] R-2.3.0alpha-win32: Rgui and MDI/SDI,37161,Peter Ehlers
+037346.html,[Rd] (PR#8777) strsplit does [not] return correct value when spliting &quot;&quot;,37346,Peter Ehlers
+037459.html,[Rd] Daily package check and --install=no,37459,Jeff Enos
+037290.html,[Rd] bus error on calling nmmin,37290,David Faden
+037303.html,[Rd] bus error on calling nmmin,37303,David Faden
+037150.html,[Rd] prevent reassignment of function names,37150,Seth Falcon
+037158.html,[Rd] setIs and method dispatch in S4 classes,37158,Seth Falcon
+037201.html,[Rd] setIs and method dispatch in S4 classes,37201,Seth Falcon
+037317.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37317,Seth Falcon
+037367.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37367,Seth Falcon
+037424.html,[Rd] Questions on version arg to setClass and serialized instances,37424,Seth Falcon
+037426.html,"[Rd] R CMD build says, 'Can't call method &quot;print&quot;'",37426,Seth Falcon
+037484.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37484,Seth Falcon
+037092.html,[Rd] change function's formals default values,37092,Andrew Finley
+037105.html,[Rd] change function's formals default values,37105,Andrew Finley
+037118.html,[Rd] change function's formals default values,37118,Andrew Finley
+037506.html,[Rd] random NaN in dpotri result,37506,Andrew Finley
+037153.html,[Rd] R-Project build system: DESTDIR support,37153,Claudio Fontana
+037238.html,[Rd] Setting --sdi in R 2.3.0 beta for Windows,37238,John Fox
+037243.html,[Rd] Setting --sdi in R 2.3.0 beta for Windows,37243,John Fox
+037215.html,[Rd] kcachegrind and R,37215,Romain Francois
+037216.html,[Rd] pattern in history,37216,Romain Francois
+037222.html,[Rd] pattern in history,37222,Romain Francois
+037253.html,[Rd] kcachegrind and R,37253,Romain Francois
+037266.html,[Rd] bash-like history mechanism and prompt settings,37266,Romain Francois
+037207.html,[Rd] install.packages on unix / su (PR#8760),37207,Thomas Friedrichsmeier
+037322.html,"[Rd]  Stack checking, core dumps, and embedding R",37322,Thomas Friedrichsmeier
+037325.html,"[Rd] Stack checking, core dumps, and embedding R",37325,Thomas Friedrichsmeier
+037342.html,"[Rd] Testcase (was: Stack checking, core dumps, and embedding R)",37342,Thomas Friedrichsmeier
+037343.html,"[Rd] Testcase (was: Stack checking, core dumps, and embedding R)",37343,Thomas Friedrichsmeier
+037347.html,[Rd] (PR#8777) strsplit does [not] return correct value when	spliting &quot;&quot;,37347,Thomas Friedrichsmeier
+037493.html,[Rd] Strange parse behavior,37493,Thomas Friedrichsmeier
+037401.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19 r37860)),37401,Robert Gentleman
+037408.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19 r37860)),37408,Robert Gentleman
+037422.html,[Rd] R CMD check: non source files in src on (2.3.0	RC	(2006-04-19 r37860)),37422,Robert Gentleman
+037480.html,[Rd] proposed modifications to deprecated,37480,Robert Gentleman
+037082.html,[Rd] package?&lt;pac&gt;,37082,Paul Gilbert
+037282.html,[Rd] xmkmf?  problem,37282,Paul Gilbert
+037284.html,[Rd] xmkmf?  problem,37284,Paul Gilbert
+037326.html,[Rd] slot named C,37326,Paul Gilbert
+037329.html,[Rd] slot named C,37329,Paul Gilbert
+037332.html,[Rd] slot named C,37332,Paul Gilbert
+037195.html,[Rd] Example in ?order,37195,Gregor Gorjanc
+037100.html,[Rd] Extending www.r-project.org features with a Wiki (PR#8744),37100,Philippe Grosjean
+037374.html,[Rd] commercial software selling a R module - question about GPL license rights,37374,Philippe Grosjean
+037379.html,[Rd] commercial software selling a R module - question about GPL license rights,37379,Philippe Grosjean
+037381.html,[Rd] commercial software selling a R module - question about GPL license rights,37381,Philippe Grosjean
+037088.html,[Rd] Microsoft Monad Shell,37088,Gabor Grothendieck
+037108.html,[Rd] Return function from function with minimal environment,37108,Gabor Grothendieck
+037114.html,[Rd] Return function from function with minimal environment,37114,Gabor Grothendieck
+037116.html,"[Rd] extending strsplit(): supply pattern to keep,	not to split by",37116,Gabor Grothendieck
+037120.html,"[Rd] extending strsplit(): supply pattern to keep,	not to split by",37120,Gabor Grothendieck
+037147.html,"[Rd] extending strsplit(): supply pattern to keep,	not to split by",37147,Gabor Grothendieck
+037160.html,[Rd] rownames for as.matrix.zoo,37160,Gabor Grothendieck
+037169.html,[Rd] Should demo files be run as part of R CMD check?,37169,Gabor Grothendieck
+037291.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37291,Gabor Grothendieck
+037300.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37300,Gabor Grothendieck
+037311.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37311,Gabor Grothendieck
+037312.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37312,Gabor Grothendieck
+037314.html,[Rd] strptime failure R 2.2.1 (PR#8773),37314,Gabor Grothendieck
+037366.html,[Rd] seq() function accuracy inacceptable (PR#8779),37366,Gabor Grothendieck
+037441.html,[Rd] gsub + backslashes,37441,Gabor Grothendieck
+037457.html,[Rd] RSetReg.exe,37457,Gabor Grothendieck
+037268.html,[Rd] R-latest.tar.gz make error,37268,Robin Hankin
+037434.html,[Rd] unsigned long long integers,37434,Robin Hankin
+037254.html,[Rd] headerfile translation to Delphi (Pascal) completed,37254,Hans-Peter
+037450.html,[Rd] protection needed?,37450,Hans-Peter
+037318.html,[Rd] c++ code on amd64,37318,Kasper Daniel Hansen
+037321.html,[Rd] c++ code on amd64,37321,Kasper Daniel Hansen
+037412.html,[Rd] R CMD check: non source files in src on (2.3.0 RC	(2006-04-19 r37860)),37412,Kasper Daniel Hansen
+037348.html,[Rd] bounding box in PostScript,37348, (Ted Harding)
+037307.html,[Rd] minor build problem,37307,Cyrus Harmon
+037383.html,[Rd] commercial software selling a R module - question about	GPL license rights,37383,Cyrus Harmon
+037247.html,"[Rd] Stack checking, core dumps, and embedding R",37247,Jeffrey Horner
+037078.html,[Rd] (no subject),37078,Kurt Hornik
+037128.html,[Rd] CRAN packages with invalid maintainer address,37128,Kurt Hornik
+037133.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall()),37133,Kurt Hornik
+037415.html,[Rd] R CMD check: non source files in src on (2.3.0	RC	(2006-04-19 r37860)),37415,Kurt Hornik
+037431.html,[Rd] transform argument on 2.3 rc 2006-04-20,37431,Kurt Hornik
+037437.html,[Rd] Looking for Jeff Banfield,37437,Kurt Hornik
+037466.html,[Rd] Daily package check and --install=no,37466,Kurt Hornik
+037502.html,[Rd] R-FAQ.pdf TOC missing,37502,Kurt Hornik
+037505.html,[Rd] R-FAQ.pdf TOC missing,37505,Kurt Hornik
+037470.html,"[Rd] Problems after lm(..., qr=FALSE)",37470,J. Hosking
+037439.html,[Rd] gsub + backslashes,37439,Torsten Hothorn
+037077.html,[Rd] pixmaps and R,37077,Wolfgang Huber
+037074.html,[Rd] pixmaps and R,37074,Thibaut Jombart
+037477.html,[Rd] Minor issue building 2.3.0 under Red Hat Linux 9,37477,Peter Kleiweg
+037236.html,"[Rd] Stack checking, core dumps, and embedding R",37236,Duncan Temple Lang
+037423.html,[Rd] R CMD check: non source files in src on (2.3.0	RC	(2006-04-19 r37860)),37423,Duncan Temple Lang
+037163.html,[Rd] Compiling PL/R against R.dll in Win32/MinGW,37163,Mike Leahy
+037167.html,[Rd] Compiling PL/R against R.dll in Win32/MinGW,37167,Mike Leahy
+037173.html,[Rd] Compiling PL/R against R.dll in Win32/MinGW,37173,Mike Leahy
+037428.html,[Rd] undefined type 'struct tms' when compiling for MinGW,37428,Mike Leahy
+037433.html,[Rd] undefined type 'struct tms' when compiling for MinGW,37433,Mike Leahy
+037438.html,[Rd] undefined type 'struct tms' when compiling for MinGW,37438,Mike Leahy
+037131.html,[Rd] Integration of C and Fortran,37131,Hin-Tak Leung
+037418.html,[Rd] R_PAPERSIZE and LC_PAPER,37418,Hin-Tak Leung
+037420.html,[Rd] R_PAPERSIZE and LC_PAPER,37420,Hin-Tak Leung
+037504.html,[Rd] R-FAQ.pdf TOC missing,37504,Hin-Tak Leung
+037267.html,[Rd] bash-like history mechanism and prompt settings,37267,"Liaw, Andy"
+037276.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.li b(),37276,"Liaw, Andy"
+037286.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.li b(),37286,"Liaw, Andy"
+037376.html,[Rd] commercial software selling a R module - question about GPL license rights,37376,"Liaw, Andy"
+037454.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37454,"Liaw, Andy"
+037446.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37446,Uwe Ligges
+037448.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37448,Uwe Ligges
+037453.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37453,Uwe Ligges
+037467.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37467,Uwe Ligges
+037102.html,[Rd] change function's formals default values,37102,Thomas Lumley
+037103.html,[Rd] Return function from function with minimal environment,37103,Thomas Lumley
+037117.html,[Rd] change function's formals default values,37117,Thomas Lumley
+037125.html,"[Rd] is.numeric (NA + NA) is TRUE, should be FALSE (PR#8745)",37125,Thomas Lumley
+037149.html,[Rd] prevent reassignment of function names,37149,Thomas Lumley
+037166.html,[Rd] Should demo files be run as part of R CMD check?,37166,Thomas Lumley
+037208.html,[Rd] Suggestions to speed up median() and has.na(),37208,Thomas Lumley
+037211.html,[Rd] Suggestions to speed up median() and has.na(),37211,Thomas Lumley
+037229.html,[Rd] Suggestions to speed up median() and has.na(),37229,Thomas Lumley
+037231.html,[Rd] gaussian family change suggestion,37231,Thomas Lumley
+037241.html,"[Rd] Stack checking, core dumps, and embedding R",37241,Thomas Lumley
+037261.html,"[Rd] Stack checking, core dumps, and embedding R",37261,Thomas Lumley
+037336.html,[Rd] c++ code on amd64,37336,Thomas Lumley
+037359.html,[Rd] seq() function accuracy inacceptable,37359,Thomas Lumley
+037421.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19 r37860)),37421,Thomas Lumley
+037452.html,[Rd] protection needed?,37452,Thomas Lumley
+037397.html,[Rd] R_PAPERSIZE and LC_PAPER,37397,Marc Schwartz (via MN)
+037402.html,[Rd] R_PAPERSIZE and LC_PAPER,37402,Marc Schwartz (via MN)
+037404.html,[Rd] Typo in R-devel assign.Rd,37404,Marc Schwartz (via MN)
+037406.html,[Rd] R_PAPERSIZE and LC_PAPER,37406,Marc Schwartz (via MN)
+037409.html,[Rd] Typo in R-devel assign.Rd,37409,Marc Schwartz (via MN)
+037334.html,[Rd] row.names in data.frame,37334,Don MacQueen
+037365.html,[Rd] seq() function accuracy inacceptable,37365,Don MacQueen
+037086.html,[Rd] Extending www.r-project.org features with a Wiki (PR#8744),37086,Martin Maechler
+037109.html,[Rd] Return function from function with minimal environment,37109,Martin Maechler
+037273.html,[Rd] contribution offer: df() for non-centrality != 0,37273,Martin Maechler
+037278.html,[Rd] Calloc : syntax error,37278,Martin Maechler
+037287.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.li b(),37287,Martin Maechler
+037337.html,[Rd] row.names in data.frame,37337,Martin Maechler
+037352.html,[Rd] Attaching Files for the mailing lists,37352,Martin Maechler
+037449.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37449,Martin Maechler
+037464.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37464,Martin Maechler
+037175.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37175,Bj&#248;rn-Helge Mevik
+037182.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37182,Bj&#248;rn-Helge Mevik
+037185.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37185,Bj&#248;rn-Helge Mevik
+037193.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37193,Bj&#248;rn-Helge Mevik
+037461.html,"[Rd] Windows MinGW compiler clarification, consequences",37461,Martin Morgan
+037081.html,[Rd] Substitute() changed since R2.3.0 (2006-02-02 r37243)?,37081,Duncan Murdoch
+037091.html,[Rd] Microsoft Monad Shell,37091,Duncan Murdoch
+037098.html,[Rd] Example of environment,37098,Duncan Murdoch
+037123.html,"[Rd] is.numeric (NA + NA) is TRUE, should be FALSE (PR#8745)",37123,Duncan Murdoch
+037127.html,"[Rd] is.numeric (NA + NA) is TRUE, should be FALSE (PR#8745)",37127,Duncan Murdoch
+037156.html,[Rd] [R] documenting s4 methods in package,37156,Duncan Murdoch
+037162.html,[Rd] R-2.3.0alpha-win32: Rgui and MDI/SDI,37162,Duncan Murdoch
+037170.html,[Rd] R-2.3.0alpha-win32: Rgui and MDI/SDI,37170,Duncan Murdoch
+037183.html,[Rd] Run package code on R shutdown?,37183,Duncan Murdoch
+037191.html,[Rd] Branch changes at feature freeze,37191,Duncan Murdoch
+037198.html,[Rd] Run package code on R shutdown?,37198,Duncan Murdoch
+037210.html,[Rd] Suggestions to speed up median() and has.na(),37210,Duncan Murdoch
+037212.html,[Rd] Suggestions to speed up median() and has.na(),37212,Duncan Murdoch
+037242.html,[Rd] Setting --sdi in R 2.3.0 beta for Windows,37242,Duncan Murdoch
+037246.html,[Rd] Bug#361968: Wrong name in manpage,37246,Duncan Murdoch
+037364.html,[Rd] Wishlist for promptPackage / index,37364,Duncan Murdoch
+037396.html,[Rd] Wishlist for promptPackage / index,37396,Duncan Murdoch
+037407.html,[Rd] Typo in R-devel assign.Rd,37407,Duncan Murdoch
+037468.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37468,Duncan Murdoch
+037497.html,[Rd] Minor Windows clipboard issue,37497,Duncan Murdoch
+037299.html,[Rd] UTF8 letters are imaged incorrectly (PR#8770),37299,Ei-ji Nakama
+037302.html,[Rd] UTF8 letters are imaged incorrectly (PR#8770),37302,Ei-ji Nakama
+037308.html,[Rd] UTF8 letters are imaged incorrectly (PR#8770),37308,Ei-ji Nakama
+037386.html,[Rd] AIX libjpeg still looms,37386,Ei-ji Nakama
+037444.html,[Rd] VTK,37444,George Ostrouchov
+037104.html,[Rd] Return function from function with minimal environment,37104,Roger D. Peng
+037113.html,[Rd] request to add argv[0],37113,Roger D. Peng
+037403.html,[Rd] R_PAPERSIZE and LC_PAPER,37403,Roger D. Peng
+037479.html,[Rd] difference in rbind() [print?] behavior between 2.2.1 and 2.3.0,37479,Roger D. Peng
+037445.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37445,"Pfaff, Bernhard Dr."
+037447.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37447,"Pfaff, Bernhard Dr."
+037451.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37451,"Pfaff, Bernhard Dr."
+037463.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37463,"Pfaff, Bernhard Dr."
+037465.html,[Rd] R 2.3.0: Use of NULL as an environment is deprecated,37465,"Pfaff, Bernhard Dr."
+037380.html,[Rd] `as.vector' documentation,37380,Fran&#231;ois Pinard
+037069.html,[Rd] Sys.sleep() burns up CPU on Solaris 8,37069,Stephen C. Pope
+037316.html,[Rd] Crash in de(),37316,Juan Santiago Ramseyer
+037070.html,[Rd] Sys.sleep() burns up CPU on Solaris 8,37070,Prof Brian Ripley
+037075.html,[Rd] pixmaps and R,37075,Prof Brian Ripley
+037076.html,[Rd] Segfault with too many menu items on Rgui,37076,Prof Brian Ripley
+037094.html,[Rd] Build failure with this morning's R-alpha,37094,Prof Brian Ripley
+037097.html,[Rd] Integration of C and Fortran,37097,Prof Brian Ripley
+037106.html,[Rd] Return function from function with minimal environment,37106,Prof Brian Ripley
+037132.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall()),37132,Prof Brian Ripley
+037136.html,[Rd] page() (Was: Re: predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall())),37136,Prof Brian Ripley
+037137.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall()),37137,Prof Brian Ripley
+037142.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall()),37142,Prof Brian Ripley
+037143.html,[Rd] wishlist: 'formula' method for stripchart(),37143,Prof Brian Ripley
+037144.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall()),37144,Prof Brian Ripley
+037154.html,[Rd] prevent reassignment of function names,37154,Prof Brian Ripley
+037172.html,[Rd] Fwd: makeconf issue on R-devel 2006-03-12 r37524,37172,Prof Brian Ripley
+037180.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37180,Prof Brian Ripley
+037186.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37186,Prof Brian Ripley
+037187.html,[Rd] Branch changes at feature freeze,37187,Prof Brian Ripley
+037188.html,[Rd] Should demo files be run as part of R CMD check?,37188,Prof Brian Ripley
+037189.html,[Rd] Run package code on R shutdown?,37189,Prof Brian Ripley
+037218.html,"[Rd] Stack checking, core dumps, and embedding R",37218,Prof Brian Ripley
+037221.html,[Rd] pattern in history,37221,Prof Brian Ripley
+037224.html,[Rd] pattern in history,37224,Prof Brian Ripley
+037225.html,[Rd] Suggestions to speed up median() and has.na(),37225,Prof Brian Ripley
+037228.html,[Rd] gaussian family change suggestion,37228,Prof Brian Ripley
+037232.html,[Rd] gaussian family change suggestion,37232,Prof Brian Ripley
+037249.html,"[Rd] Stack checking, core dumps, and embedding R",37249,Prof Brian Ripley
+037250.html,"[Rd] Stack checking, core dumps, and embedding R",37250,Prof Brian Ripley
+037251.html,"[Rd] Stack checking, core dumps, and embedding R",37251,Prof Brian Ripley
+037252.html,[Rd] [R] type converters not being saved to workspace,37252,Prof Brian Ripley
+037275.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37275,Prof Brian Ripley
+037279.html,[Rd] Calloc : syntax error,37279,Prof Brian Ripley
+037281.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37281,Prof Brian Ripley
+037283.html,[Rd] xmkmf?  problem,37283,Prof Brian Ripley
+037292.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37292,Prof Brian Ripley
+037293.html,[Rd] bus error on calling nmmin,37293,Prof Brian Ripley
+037294.html,[Rd] xmkmf?  problem,37294,Prof Brian Ripley
+037295.html,[Rd] xmkmf?  problem,37295,Prof Brian Ripley
+037301.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37301,Prof Brian Ripley
+037305.html,[Rd] make check of R-alpha_2006-04-08_r37675 fails: qbeta,37305,Prof Brian Ripley
+037306.html,[Rd] row.names in data.frame,37306,Prof Brian Ripley
+037320.html,[Rd] c++ code on amd64,37320,Prof Brian Ripley
+037327.html,[Rd] slot named C,37327,Prof Brian Ripley
+037330.html,[Rd] slot named C,37330,Prof Brian Ripley
+037333.html,[Rd] slot named C,37333,Prof Brian Ripley
+037335.html,[Rd] row.names in data.frame,37335,Prof Brian Ripley
+037338.html,[Rd] row.names in data.frame,37338,Prof Brian Ripley
+037341.html,[Rd] (PR#8777) strsplit does [not] return correct value when spliting &quot;&quot;,37341,Prof Brian Ripley
+037345.html,[Rd] bounding box in PostScript,37345,Prof Brian Ripley
+037351.html,[Rd] bounding box in PostScript,37351,Prof Brian Ripley
+037368.html,"[Rd] Embedding, core dumps, etc.",37368,Prof Brian Ripley
+037388.html,[Rd] Probable Numeric Bugs in svd function (PR#8781),37388,Prof Brian Ripley
+037390.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19 r37860)),37390,Prof Brian Ripley
+037391.html,[Rd] R_PAPERSIZE and LC_PAPER,37391,Prof Brian Ripley
+037399.html,[Rd] R_PAPERSIZE and LC_PAPER,37399,Prof Brian Ripley
+037410.html,[Rd] R CMD check: non source files in src on (2.3.0 RC (2006-04-19 r37860)),37410,Prof Brian Ripley
+037411.html,[Rd] R_PAPERSIZE and LC_PAPER,37411,Prof Brian Ripley
+037417.html,[Rd] plot.default 'ylim' error message is wrong (PR#8784),37417,Prof Brian Ripley
+037419.html,[Rd] R_PAPERSIZE and LC_PAPER,37419,Prof Brian Ripley
+037427.html,"[Rd] R CMD build says, 'Can't call method &quot;print&quot;'",37427,Prof Brian Ripley
+037429.html,[Rd] undefined type 'struct tms' when compiling for MinGW,37429,Prof Brian Ripley
+037435.html,[Rd] unsigned long long integers,37435,Prof Brian Ripley
+037436.html,[Rd] undefined type 'struct tms' when compiling for MinGW,37436,Prof Brian Ripley
+037442.html,[Rd] gsub + backslashes,37442,Prof Brian Ripley
+037460.html,[Rd] libtrio,37460,Prof Brian Ripley
+037462.html,"[Rd] Windows MinGW compiler clarification, consequences",37462,Prof Brian Ripley
+037471.html,[Rd] Large number of linked environments makes save() crash R,37471,Prof Brian Ripley
+037475.html,[Rd] Minor issue building 2.3.0 under Red Hat Linux 9,37475,Prof Brian Ripley
+037496.html,[Rd] Minor issue building 2.3.0 under Red Hat Linux 9,37496,Prof Brian Ripley
+037498.html,[Rd] difference in rbind() [print?] behavior between 2.2.1 and 2.3.0,37498,Prof Brian Ripley
+037499.html,[Rd] Large number of linked environments makes save() crash R,37499,Prof Brian Ripley
+037288.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37288,Paul Roebuck
+037309.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37309,Paul Roebuck
+037310.html,[Rd] [R] S4 method dispatch matrixOrArray (fwd),37310,Paul Roebuck
+037500.html,[Rd] Minor issue building 2.3.0 under Red Hat Linux 9,37500,Paul Roebuck
+037501.html,[Rd] R-FAQ.pdf TOC missing,37501,Paul Roebuck
+037217.html,"[Rd] Stack checking, core dumps, and embedding R",37217,A.J. Rossini
+037219.html,"[Rd] Stack checking, core dumps, and embedding R",37219,A.J. Rossini
+037237.html,"[Rd] Stack checking, core dumps, and embedding R",37237,A.J. Rossini
+037239.html,"[Rd] Stack checking, core dumps, and embedding R",37239,A.J. Rossini
+037248.html,"[Rd] Stack checking, core dumps, and embedding R",37248,A.J. Rossini
+037262.html,"[Rd] Stack checking, core dumps, and embedding R",37262,A.J. Rossini
+037363.html,"[Rd] Embedding, core dumps, etc.",37363,A.J. Rossini
+037370.html,"[Rd] Embedding, core dumps, etc.",37370,A.J. Rossini
+037371.html,"[Rd] Embedding, core dumps, etc.",37371,A.J. Rossini
+037372.html,"[Rd] Embedding, core dumps, etc.",37372,A.J. Rossini
+037395.html,[Rd] R and Commercial applications,37395,A.J. Rossini
+037174.html,[Rd] using R in a java application,37174,Lothar Rubusch
+037179.html,[Rd] using R in a java application,37179,Lothar Rubusch
+037315.html,[Rd] cannot load rJava in R,37315,Lothar Rubusch
+037350.html,[Rd] cannot load rJava in R,37350,Lothar Rubusch
+037155.html,[Rd] setIs and method dispatch in S4 classes,37155,Peter Ruckdeschel
+037190.html,[Rd] setIs and method dispatch in S4 classes,37190,Peter Ruckdeschel
+037205.html,[Rd] setIs and method dispatch in S4 classes,37205,Peter Ruckdeschel
+037258.html,[Rd] yet another problem with S4 dispatch (with setClassUnion),37258,Peter Ruckdeschel
+037265.html,[Rd] yet another problem with S4 dispatch (with setClassUnion),37265,Peter Ruckdeschel
+037271.html,[Rd] contribution offer: df() for non-centrality != 0,37271,Peter Ruckdeschel
+037272.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37272,Peter Ruckdeschel
+037274.html,[Rd] contribution offer: df() for non-centrality != 0,37274,Peter Ruckdeschel
+037280.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37280,Peter Ruckdeschel
+037361.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37361,Peter Ruckdeschel
+037362.html,[Rd] Wishlist for promptPackage / index,37362,Peter Ruckdeschel
+037377.html,[Rd] Wishlist for promptPackage / index,37377,Peter Ruckdeschel
+037382.html,[Rd] Wishlist: 'quietly' argument for .onAttach() / .First.lib(),37382,Peter Ruckdeschel
+037474.html,[Rd] Minor issue building 2.3.0 under Red Hat Linux 9,37474,Dominick Samperi
+037414.html,[Rd] R_PAPERSIZE and LC_PAPER,37414,Marc Schwartz
+037478.html,[Rd] Minor issue building 2.3.0 under Red Hat Linux 9,37478,Marc Schwartz
+037490.html,[Rd] Not making enough money to pay the bills?,37490,Lena Sellers
+037141.html,[Rd] predict.smooth.spline.fit and Recall() (Was: Re: Return function from function and Recall()),37141,Luke Tierney
+037349.html,[Rd] bounding box in PostScript,37349,Berwin A Turlach
+037235.html,[Rd] Fwd: makeconf issue on R-devel 2006-03-12 r37524,37235,Simon Urbanek
+037245.html,"[Rd] Stack checking, core dumps, and embedding R",37245,Simon Urbanek
+037339.html,[Rd] cannot load rJava in R,37339,Simon Urbanek
+037413.html,[Rd] R CMD check: non source files in src on (2.3.0 RC	(2006-04-19 r37860)),37413,Simon Urbanek
+037440.html,[Rd] gsub + backslashes,37440,Simon Urbanek
+037227.html,[Rd] gaussian family change suggestion,37227,Simon Wood
+037230.html,[Rd] gaussian family change suggestion,37230,Simon Wood
+037234.html,[Rd] gaussian family change suggestion,37234,Simon Wood
+037159.html,[Rd] rownames for as.matrix.zoo,37159,Achim Zeileis
+037509.html,[Rd] Wish: Add fill argument to warning and stop (PR#8823),37509,gregor.gorjanc at bfro.uni-lj.si
+037384.html,[Rd] gsummary function (nlme library) (PR#8782),37384,bsaville at bios.unc.edu
+037483.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37483,sudiptob at biostat.umn.edu
+037486.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37486,sudiptob at biostat.umn.edu
+037487.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37487,sudiptob at biostat.umn.edu
+037489.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37489,sudiptob at biostat.umn.edu
+037145.html,[Rd] uniroot warning (lack of) (PR#8750),37145,candrews at buffalo.edu
+037152.html,[Rd] Documentation error in ?write (PR#8752),37152,pinard at carouge.sram.qc.ca
+037508.html,[Rd] Package-check failure (i386) (PR#8822),37508,dan.kelley at dal.ca
+037353.html,[Rd] xyplot (PR#8778),37353,kat at dfu.min.dk
+037269.html,[Rd] R-latest.tar.gz make error,37269,druid at gmail.com
+037394.html,[Rd] bug: code not working as expected (PR#8783),37394,druid at gmail.com
+037079.html,[Rd] FLCore 4 R 2.3,37079,ernesto
+037430.html,[Rd] transform argument on 2.3 rc 2006-04-20,37430,ernesto
+037432.html,[Rd] transform argument on 2.3 rc 2006-04-20,37432,ernesto
+037126.html,"[Rd] is.numeric (NA + NA) is TRUE, should be FALSE (PR#8745)",37126,cheryl fillekes
+037176.html,[Rd] using R in a java application,37176,francoisromain at free.fr
+037122.html,"[Rd] is.numeric (NA + NA) is TRUE, should be FALSE (PR#8745)",37122,cfillekes at gmail.com
+037203.html,[Rd] install.packages on unix / su (PR#8760),37203,thomas.friedrichsmeier at gmx.de
+037360.html,[Rd] typos in src/main/gram.y (PR#8780),37360,htang at hpl.hp.com
+037373.html,[Rd] typos in src/main/gram.y (PR#8780),37373,htang at hpl.hp.com
+037296.html,[Rd] UTF8 letters are imaged incorrectly (PR#8770),37296,bocharov_m at inbox.ru
+037416.html,[Rd] plot.default 'ylim' error message is wrong (PR#8784),37416,prechelt at inf.fu-berlin.de
+037425.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37425,westfeld at inf.tu-dresden.de
+037503.html,[Rd] Tiny documentation error in ?merge (PR#8818),37503,pinard at iro.umontreal.ca
+037171.html,[Rd] Fwd: makeconf issue on R-devel 2006-03-12 r37524,37171,roger koenker
+037223.html,[Rd]  Suggestions to speed up median() and has.na(),37223,roger koenker
+037481.html,[Rd] ? bug in 'sample' (PR#8813),37481,doddl at mail.nih.gov
+037392.html,[Rd] bug: code not working as expected (PR#8783),37392,N.Kalosha at math.ru.nl
+037458.html,[Rd] libtrio,37458,apjaworski at mmm.com
+037485.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37485,mschwartz at mn.rr.com
+037488.html,[Rd] Installation oddity on Fedora Core 5 (PR#8814),37488,mschwartz at mn.rr.com
+037313.html,[Rd] strptime failure R 2.2.1 (PR#8773),37313,hutch at moneyware.com
+037375.html,[Rd] Probable Numeric Bugs in svd function (PR#8781),37375,Mehdi.Kheloufi-Trabaud at moodys.com
+037089.html,[Rd] Offroad Mailing List - Attachment,37089,Offroad-request at offroadlist.com
+037073.html,[Rd] Problems with arima function (PR#8743),37073,stoffer at pitt.edu
+037093.html,[Rd] header containing (PR#8231) -- replace 8231,37093,stoffer at pitt.edu
+037455.html,[Rd] make: sockconn.c; make check: eval-etc.R;	make install: $(EXPORTFILES) (PR#8809),37455,p.c.j.kleiweg at rug.nl
+037495.html,[Rd]  Minor Windows clipboard issue,37495,gordon smith
+037507.html,[Rd] Minor Windows clipboard issue,37507,gordon smith
+037264.html,[Rd] S4 class slot name 'names' is not allowed (PR#8767),37264,maechler at stat.math.ethz.ch
+037256.html,[Rd] Bug#361968: Wrong name in manpage,37256,friedrich.leisch at stat.uni-muenchen.de
+037263.html,[Rd] Bug#361968: Wrong name in manpage,37263,friedrich.leisch at stat.uni-muenchen.de
+037184.html,"[Rd] Spelling of &quot;parameter&quot; in summary.nls(...,	correlation = TRUE) (PR#8759)",37184,henric.nilsson at statisticon.se
+037084.html,[Rd] Extending www.r-project.org features with a Wiki (PR#8744),37084,ripley at stats.ox.ac.uk
+037214.html,[Rd] install.packages on unix / su (PR#8760),37214,ripley at stats.ox.ac.uk
+037226.html,[Rd] eapply() fails on baseenv() (PR#8761),37226,ripley at stats.ox.ac.uk
+037297.html,[Rd] UTF8 letters are imaged incorrectly (PR#8770),37297,ripley at stats.ox.ac.uk
+037331.html,[Rd] (PR#8777) strsplit does [not] return correct value when,37331,ripley at stats.ox.ac.uk
+037354.html,[Rd] xyplot (PR#8778),37354,ripley at stats.ox.ac.uk
+037369.html,[Rd] typos in src/main/gram.y (PR#8780),37369,ripley at stats.ox.ac.uk
+037387.html,[Rd] UTF8 letters are imaged incorrectly (PR#8770),37387,ripley at stats.ox.ac.uk
+037213.html,[Rd] eapply() fails on baseenv() (PR#8761),37213,murdoch at stats.uwo.ca
+037494.html,[Rd] Strange parse behavior (PR#8815),37494,murdoch at stats.uwo.ca
+037472.html,"[Rd] R, Rcmdr crash on WinXP PRO laptop (PR#8583)",37472,Jani.Erola at tukkk.fi
+037473.html,"[Rd] R, Rcmdr crash on WinXP PRO laptop (PR#8583)",37473,Jani.Erola at tukkk.fi
+037085.html,[Rd] Extending www.r-project.org features with a Wiki (PR#8744),37085,Friedrich.Leisch at tuwien.ac.at
+037270.html,[Rd] S4 class slot name 'names' is not allowed (PR#8768),37270,slacey at umich.edu
+037083.html,[Rd] Extending www.r-project.org features with a Wiki (PR#8744),37083,anyakin at users.sourceforge.net
+037095.html,[Rd] Extending www.r-project.org features with a Wiki (PR#8744),37095,anyakin at users.sourceforge.net
+037328.html,[Rd] strsplit does not return correct value when spliting &quot;&quot;	(PR#8777),37328,charles.dupont at vanderbilt.edu
+037072.html,[Rd] MR. Kings Roger (PR#8740),37072,b.bread at virgilio.it
+037110.html,[Rd] request to add argv[0],37110,ivo welch
+037165.html,[Rd] Should demo files be run as part of R CMD check?,37165,hadley wickham
+037197.html,[Rd] Should demo files be run as part of R CMD check?,37197,hadley wickham
+037356.html,[Rd] seq() function accuracy inacceptable (PR#8779),37356,Johannes.Prix at wu-wien.ac.at

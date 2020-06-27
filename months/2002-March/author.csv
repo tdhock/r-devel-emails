@@ -1,0 +1,163 @@
+link,Subject,id,author
+024049.html,[Rd] Bug list summary (automatic post),24049,Peter Dalgaard BSA
+024050.html,"[Rd] R 1.5.0 scheduled for April 29th, feature freeze April 8",24050,Peter Dalgaard BSA
+024055.html,[Rd] 1st January isn't (PR#1370),24055,Peter Dalgaard BSA
+024077.html,[Rd] KDE frontend (PR#1384),24077,Peter Dalgaard BSA
+024080.html,[Rd] KDE frontend (PR#1384),24080,Peter Dalgaard BSA
+024086.html,[Rd] &quot;evaluating expression 0&quot; bug in R-1.4.1 (PR#1385),24086,Peter Dalgaard BSA
+024129.html,[Rd] Bug list summary (automatic post),24129,Peter Dalgaard BSA
+024145.html,[Rd] rare bad bug in sys.function() {or match.arg()} (PR#1409),24145,Peter Dalgaard BSA
+024153.html,[Rd] R-bugs outage,24153,Peter Dalgaard BSA
+024166.html,[Rd] 3D visualization using vtk library,24166,Peter Dalgaard BSA
+024168.html,[Rd] rare bad bug in sys.function() {or match.arg()} (PR#1409),24168,Peter Dalgaard BSA
+024181.html,[Rd] expand.model.frame fails when call creating model has no data (PR#1423),24181,Peter Dalgaard BSA
+024061.html,[Rd] using R API in dynamically loaded code?,24061,Ben Bolker
+024071.html,[Rd] using R API in dynamically loaded code?,24071,Ben Bolker
+024092.html,[Rd] Re: [R] persp(): add second plane,24092,Ben Bolker
+024183.html,[Rd] wmf on Unix?,24183,Ben Bolker
+024070.html,[Rd] Commas in formatC,24070,David Brahm
+024101.html,[Rd] NA in character vectors,24101,David Brahm
+024113.html,[Rd] Missing zlib.h and zconf.h in R-devel/src/main,24113,David Brahm
+024177.html,[Rd] pos argument to library,24177,David Brahm
+024127.html,[Rd] Question re:S4 classes and design; clashing classes?,24127,John Chambers
+024176.html,[Rd] Some new things in r-devel,24176,John Chambers
+024030.html,[Rd] fft,24030,Ole Christensen
+024108.html,[Rd] X11(colortype=&quot;true&quot;) does not give a truecolor visual(PR#1387),24108,E.Velds@balpol.tudelft.nl
+024079.html,[Rd] KDE frontend (PR#1384),24079,Dirk Eddelbuettel
+024102.html,[Rd] File permissions test during R CMD check,24102,Dirk Eddelbuettel
+024103.html,[Rd] X11(colortype=&quot;true&quot;) does not give a truecolor visual (PR#1387),24103,Edwin@balpol.tudelft.nl
+024083.html,[Rd] KDE frontend (PR#1384),24083,Byron Ellis
+024054.html,[Rd] Sys.putenv environment variables disappear (PR#1371),24054,Robert Gentleman
+024095.html,[Rd] File permissions test during R CMD check,24095,Jeff Gentry
+024093.html,[Rd] File permissions test during R CMD check,24093,Paul Gilbert
+024100.html,[Rd] File permissions test during R CMD check,24100,Paul Gilbert
+024088.html,[Rd] File permissions test during R CMD check,24088,Kurt Hornik
+024149.html,[Rd] R on AIX,24149,Kurt Hornik
+024148.html,[Rd] Rnews 2002/2,24148,Kurt Hornik
+024035.html,[Rd] Setting working directory (PR#1338),24035,Stefano Iacus
+024152.html,[Rd] system() function under OSX,24152,Stefano Iacus
+024126.html,[Rd] RMySQL integer range bug (PR#1400),24126,David James
+024067.html,[Rd] File permissions test during R CMD check,24067,David Kane  &lt;David Kane
+024120.html,[Rd] should lapply preserve attributes?,24120,Timothy H. Keitt
+024122.html,[Rd] should lapply preserve attributes?,24122,Timothy H. Keitt
+024140.html,[Rd] name spaces?,24140,Timothy H. Keitt
+024081.html,[Rd] KDE frontend (PR#1384),24081,Duncan Temple Lang
+024058.html,[Rd] L,24058,Jan de Leeuw
+024096.html,[Rd] Re: [R] persp(): add second plane,24096,Uwe Ligges
+024136.html,[Rd] barplots &amp; ylim (PR#1398),24136,Uwe Ligges
+024158.html,[Rd] Re: [R] persp(): add second plane,24158,Uwe Ligges
+024072.html,[Rd] Row-binding factor variables looses the ordered attribute.,24072,Patrick Lindsey
+024033.html,[Rd] Setting working directory (PR#1338),24033,Thomas Lumley
+024036.html,[Rd] Setting working directory (PR#1338),24036,Thomas Lumley
+024053.html,[Rd] Sys.putenv environment variables disappear (PR#1371),24053,Thomas Lumley
+024065.html,[Rd] rbinom silently rounds size argument (PR#1377),24065,Thomas Lumley
+024069.html,[Rd] rbinom silently rounds size argument (PR#1377),24069,Thomas Lumley
+024097.html,[Rd] File permissions test during R CMD check,24097,Thomas Lumley
+024098.html,[Rd] Thought on crossprod,24098,Thomas Lumley
+024039.html,[Rd] pweibull.c (PR#1334),24039,Martin Maechler
+024091.html,[Rd] Thought on crossprod,24091,Martin Maechler
+024134.html,[Rd] Commas in formatC,24134,Martin Maechler
+024139.html,[Rd] Commas in formatC,24139,Martin Maechler
+024151.html,[Rd] monthplot() in R?,24151,Martin Maechler
+024029.html,[Rd] fft,24029,Martin.Schlather@uni-bayreuth.de
+024154.html,[Rd] Re: R on AIX,24154,Dan Million
+024147.html,[Rd] monthplot() in R?,24147,Duncan Murdoch
+024157.html,[Rd] monthplot() in R?,24157,Duncan Murdoch
+024167.html,[Rd] Re: monthplot() in R?,24167,Duncan Murdoch
+024174.html,[Rd] R 1.5.0 pre-release snapshots available on Windows,24174,Duncan Murdoch
+024159.html,[Rd] some problems with r 1.5.0 on win2k,24159,Erich Neuwirth
+024163.html,[Rd] some problems with r 1.5.0 on win2k,24163,Erich Neuwirth
+024172.html,[Rd] help browsers in win2k,24172,Erich Neuwirth
+024087.html,[Rd] two minor differences in behavior of R and S-plus,24087,Tony Plate
+024059.html,[Rd] GNOME locale bug (PR#1321),24059,Martyn Plummer
+024182.html,[Rd] glm start/offset bugs (PR#1422),24182,Brett Presnell
+024044.html,[Rd] Weakness in Knuth-TAOCP RNG (fwd) (PR#1336),24044,Prof Brian Ripley
+024042.html,[Rd] Weakness in Knuth-TAOCP RNG (fwd) (PR#1336),24042,Prof Brian D Ripley
+024056.html,[Rd] Sys.putenv environment variables disappear (PR#1371),24056,Prof Brian D Ripley
+024057.html,[Rd] 1st January isn't (PR#1370),24057,Prof Brian D Ripley
+024112.html,[Rd] Thought on crossprod,24112,Prof Brian D Ripley
+024121.html,[Rd] should lapply preserve attributes?,24121,Prof Brian D Ripley
+024179.html,[Rd] glm start/offset bugs (PR#1422),24179,Prof Brian D Ripley
+024118.html,[Rd] Question re:S4 classes and design; clashing classes?,24118,Anthony Rossini
+024128.html,[Rd] Question re:S4 classes and design; clashing classes?,24128,Anthony Rossini
+024169.html,[Rd] 3D visualization using vtk library,24169,Anthony Rossini
+024186.html,[Rd] First sample release of the R-Orca package.,24186,Anthony Rossini
+024090.html,[Rd] Thought on crossprod,24090,Jonathan Rougier
+024110.html,[Rd] Thought on crossprod,24110,Jonathan Rougier
+024138.html,[Rd] Commas in formatC,24138,Jonathan Rougier
+024043.html,[Rd] Weakness in Knuth-TAOCP RNG (fwd) (PR#1336),24043,Frederic Schutz
+024165.html,[Rd] 3D visualization using vtk library,24165,Jun Sung
+024155.html,[Rd] rare bad bug in sys.function() {or match.arg()} (PR#1409),24155,Luke Tierney
+024156.html,[Rd] name spaces?,24156,Luke Tierney
+024078.html,[Rd] KDE frontend (PR#1384),24078,E.L. Willighagen
+024082.html,[Rd] KDE frontend (PR#1384),24082,E.L. Willighagen
+024188.html,[Rd] Highlighting in KDE editor Kate,24188,E.L. Willighagen
+024052.html,[Rd] Sys.putenv environment variables disappear (PR#1371),24052,a215020@onyx.fmr.com
+024084.html,[Rd] KDE frontend (PR#1384),24084,bellis@hsph.harvard.edu
+024060.html,[Rd] rbinom silently rounds size argument (PR#1377),24060,bolker@zoo.ufl.edu
+024105.html,[Rd] promax (PR#1389),24105,conor@psy.uva.nl
+024037.html,[Rd] GNU tar does not ignore files in .Rbuildignore (PR#1339),24037,daven@llnl.gov
+024150.html,[Rd] Typos in R/src/library/base/man/hist.Rd (PR#1412),24150,eglen@pcg.wustl.edu
+024170.html,[Rd] possible typo in integrate.Rd? (PR#1417),24170,eglen@pcg.wustl.edu
+024076.html,[Rd] KDE frontend (PR#1384),24076,egonw@sci.kun.nl
+024085.html,[Rd] &quot;evaluating expression 0&quot; bug in R-1.4.1 (PR#1385),24085,eneafse@lumc.edu
+024116.html,[Rd] =?big5?Q?=AB=A2=B9=C6 =B3=CC=AA=F1=A6n=B6=DC=3F=3F=3F=3F=3F=3F=3F=3F?= rmJ4DQRldwFQR1v,24116,fgfgf@we.cv
+024175.html,[Rd] Resize in graphics window cause R to crash (PR#1420),24175,hammour@msn.com
+024114.html,[Rd] levels(f)&lt;-list doesn't work as expected when list is longer than nlevels(f) (PR#1394),24114,htang@hpl.hp.com
+024047.html,[Rd] Matrix identification bug (PR#1361),24047,hyu@stats.uwo.ca
+024123.html,[Rd] solve() benchmark in R-1.4.1 (PR#1397),24123,hyu@stats.uwo.ca
+024124.html,[Rd] barplots &amp; ylim (PR#1398),24124,jan.wiener@tuebingen.mpg.de
+024180.html,[Rd] expand.model.frame fails when call creating model has no data (PR#1423),24180,jfox@mcmaster.ca
+024032.html,[Rd] Setting working directory (PR#1338),24032,jmf@atmiserv.com
+024161.html,[Rd] int 32 bit error on SPARC 64bit (PR#1415),24161,kss28@mail.cba.nau.edu
+024171.html,[Rd] persp + postscript/pdf (PR#1419),24171,leisch@ci.tuwien.ac.at
+024132.html,[Rd] legend - bug with argument angle (PR#1404),24132,ligges@amadeus.statistik.uni-dortmund.de
+024164.html,[Rd] seq.default test for relative range (PR#1416),24164,macq@llnl.gov
+024028.html,[Rd] pexp.c (PR#1335),24028,maechler@stat.math.ethz.ch
+024034.html,[Rd] pexp.c (PR#1335),24034,maechler@stat.math.ethz.ch
+024040.html,[Rd] pexp.c (PR#1335),24040,maechler@stat.math.ethz.ch
+024133.html,[Rd] legend - bug with argument angle (PR#1404),24133,maechler@stat.math.ethz.ch
+024141.html,[Rd] Small typo in An Introduction to R (PR#1402),24141,maechler@stat.math.ethz.ch
+024142.html,[Rd] bug in options() - help page (PR#1323),24142,maechler@stat.math.ethz.ch
+024143.html,[Rd] Rdconv -&gt; HTML bug {was ... `las' on `par' help...} (PR#1257),24143,maechler@stat.math.ethz.ch
+024144.html,[Rd] rare bad bug in sys.function() {or match.arg()} (PR#1409),24144,maechler@stat.math.ethz.ch
+024146.html,[Rd] rare bad bug in sys.function() {or match.arg()} (PR#1409),24146,maechler@stat.math.ethz.ch
+024046.html,[Rd] bessel_i (PR#1356),24046,martin.schlather@uni-bayreuth.de
+024066.html,[Rd] rpart error with 0-frequency factor levels (with partial fix) (PR#1378),24066,matthew_wiener@merck.com
+024125.html,[Rd] RMySQL integer range bug (PR#1400),24125,matthias.piksa@web.de
+024115.html,[Rd] mgp parameter in par() (PR#1395),24115,mh.smith@niwa.cri.nz
+024117.html,[Rd] Small typo in An Introduction to R,24117,mikalzet@libero.it
+024130.html,[Rd] Small typo in An Introduction to R (PR#1402),24130,mikalzet@libero.it
+024131.html,[Rd] Small typo in An Introduction to R (PR#1403),24131,mikalzet@libero.it
+024075.html,[Rd] INVITATION - SHIPORT CHINA 2002 (PR#1383),24075,newsletter@marinedigital.com
+024178.html,[Rd] glm start/offset bugs (PR#1422),24178,presnell@stat.ufl.edu
+024135.html,[Rd] Internet Security Update (PR#1405),24135,rdquest12@microsoft.com
+024119.html,[Rd] truehist (MASS) nbins problem (PR#1396),24119,rechung@aol.com
+024027.html,[Rd] Weakness in Knuth-TAOCP RNG (fwd) (PR#1336),24027,ripley@stats.ox.ac.uk
+024038.html,[Rd] GNU tar does not ignore files in .Rbuildignore (PR#1339),24038,ripley@stats.ox.ac.uk
+024048.html,[Rd] Matrix identification bug (PR#1361),24048,ripley@stats.ox.ac.uk
+024063.html,[Rd] several bugs (PR#918) lists and matrices,24063,ripley@stats.ox.ac.uk
+024064.html,[Rd] rbinom silently rounds size argument (PR#1377),24064,ripley@stats.ox.ac.uk
+024068.html,[Rd] rbinom silently rounds size argument (PR#1377),24068,ripley@stats.ox.ac.uk
+024073.html,[Rd] Row-binding factor variables looses the ordered attribute.,24073,ripley@stats.ox.ac.uk
+024089.html,[Rd] File permissions test during R CMD check,24089,ripley@stats.ox.ac.uk
+024094.html,[Rd] File permissions test during R CMD check,24094,ripley@stats.ox.ac.uk
+024099.html,[Rd] Thought on crossprod,24099,ripley@stats.ox.ac.uk
+024104.html,[Rd] X11(colortype=&quot;true&quot;) does not give a truecolor visual (PR#1388),24104,ripley@stats.ox.ac.uk
+024109.html,[Rd] promax (PR#1389),24109,ripley@stats.ox.ac.uk
+024111.html,[Rd] Thought on crossprod,24111,ripley@stats.ox.ac.uk
+024137.html,[Rd] Inconsistencies in sum() (PR#1408),24137,ripley@stats.ox.ac.uk
+024160.html,[Rd] some problems with r 1.5.0 on win2k,24160,ripley@stats.ox.ac.uk
+024162.html,[Rd] int 32 bit error on SPARC 64bit (PR#1415),24162,ripley@stats.ox.ac.uk
+024173.html,[Rd] help browsers in win2k,24173,ripley@stats.ox.ac.uk
+024184.html,[Rd] wmf on Unix?,24184,ripley@stats.ox.ac.uk
+024185.html,[Rd] glm start/offset bugs (PR#1422),24185,ripley@stats.ox.ac.uk
+024187.html,[Rd] persp + postscript/pdf (PR#1419),24187,ripley@stats.ox.ac.uk
+024062.html,[Rd] several bugs (PR#918) lists and matrices,24062,rmh@surfer.sbm.temple.edu
+024026.html,[Rd] Weakness in Knuth-TAOCP RNG (fwd) (PR#1336),24026,schutz@wehi.edu.au
+024041.html,[Rd] Weakness in Knuth-TAOCP RNG (fwd) (PR#1336),24041,schutz@wehi.edu.au
+024074.html,[Rd] promax (PR#1382),24074,span@psy.uva.nl
+024031.html,[Rd] pexp.c (PR#1335),24031,terra@diku.dk
+024051.html,[Rd] 1st January isn't (PR#1370),24051,tlumley@u.washington.edu
+024106.html,[Rd] X11(colortype=&quot;true&quot;) does not give a truecolor visual (PR#1390),24106,tlumley@u.washington.edu
+024045.html,[Rd] optim: gr called at different parameter values than previous fn call if hessian=T (PR#1354),24045,w.huber@dkfz.de

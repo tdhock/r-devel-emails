@@ -1,0 +1,79 @@
+link,Subject,id,author
+077169.html,[Rd]  unsorted - suggestion for performance improvement and ALTREP support for POSIXct,77169,Gabriel Becker
+077186.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77186,Gabriel Becker
+077197.html,[Rd] pmax and long vector,77197,Gabriel Becker
+077189.html,[Rd] Request: make `var` a generic,77189,Kenny Bell
+077157.html,[Rd] Error in re-building vignettes: '\R' is an unrecognized escape in ... &quot;'D:\temp\R&quot;,77157,Henrik Bengtsson
+077149.html,[Rd] history of objects() and ls(),77149,Ben Bolker
+077185.html,[Rd] long-standing documentation bug in ?anova.lme,77185,Ben Bolker
+077188.html,[Rd] long-standing documentation bug in ?anova.lme,77188,Ben Bolker
+077195.html,[Rd] long-standing documentation bug in ?anova.lme,77195,Ben Bolker
+077158.html,[Rd] [patch] Documentation for list.files when no matches found,77158,Jonathan Carroll
+077161.html,[Rd] Bug report with patch: `stats:::regularize.values()` always creates full copies of `x` and `y`,77161,Evgeni Chasnovski
+077184.html,[Rd] Objectsize function visiting every element for alt-rep strings,77184,Travers Ching
+077187.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77187,Travers Ching
+077205.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77205,Travers Ching
+077214.html,"[Rd] Object.size() should not visit every element for alt-rep strings, or there should be an altstring_objectsize_method",77214,Travers Ching
+077223.html,"[Rd] Object.size() should not visit every element for alt-rep strings, or there should be an altstring_objectsize_method",77223,Travers Ching
+077175.html,[Rd] strtoi output of empty string inconsistent across platforms,77175,Michael Chirico
+077179.html,[Rd]  strtoi output of empty string inconsistent across platforms,77179,Michael Chirico
+077200.html,[Rd] Hex sticker,77200,G&#225;bor Cs&#225;rdi
+077212.html,[Rd] R_MAKEVARS_SITE for multiple archs,77212,G&#225;bor Cs&#225;rdi
+077213.html,[Rd] R_MAKEVARS_SITE for multiple archs,77213,G&#225;bor Cs&#225;rdi
+077153.html,[Rd] history of objects() and ls(),77153,Peter Dalgaard
+077164.html,[Rd] Runnable R packages,77164,Gergely Dar&#243;czi
+077154.html,[Rd] history of objects() and ls(),77154,William Dunlap
+077172.html,[Rd] setClass accepts slot-mismatch between slots and prototype arguments,77172,William Dunlap
+077165.html,[Rd] Runnable R packages,77165,Dirk Eddelbuettel
+077167.html,[Rd] Runnable R packages,77167,Dirk Eddelbuettel
+077206.html,[Rd] Possible setClassUnion Unloading Issue,77206,Brodie Gaslam
+077222.html,[Rd] Runnable R packages,77222,Jan Gorecki
+077194.html,[Rd] pmax and long vector,77194,Kasper Daniel Hansen
+077198.html,[Rd] pmax and long vector,77198,Kasper Daniel Hansen
+077146.html,"[Rd] Bug report: R.home() cause package Rcpp failed executing sourceCpp, similar bug are labeled &quot;BUG 16660&quot; since 2016 and here I could provide a solution that tested in my laptop.",77146,Tomas Kalibera
+077159.html,[Rd] [patch] Documentation for list.files when no matches found,77159,Tomas Kalibera
+077177.html,[Rd]  Inconsistent returned values of normalizePath(NA_character_) on Windows and *nix,77177,Tomas Kalibera
+077204.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77204,Tomas Kalibera
+077210.html,[Rd] Bug or undocumented behavior in normalizePath() with file system links on windows,77210,Tomas Kalibera
+077208.html,[Rd] Bug or undocumented behavior in normalizePath() with file system links on windows,77208,David Korfkamp
+077211.html,[Rd] nlminb with constraints failing on some platforms,77211,Kasper Kristensen
+077209.html,[Rd]  Patch idea: an environment variable for setting the user ID,77209,Will L
+077174.html,[Rd] setClass accepts slot-mismatch between slots and prototype arguments,77174,Michael Lawrence
+077163.html,[Rd] Runnable R packages,77163,David Lindelof
+077218.html,[Rd] Runnable R packages,77218,David Lindelof
+077221.html,[Rd] Runnable R packages,77221,David Lindelof
+077193.html,[Rd] orderVector1 (sort.c): Tiny improvement concerning nalast,77193,EMILIO TORRES MANZANERA
+077181.html,[Rd] Error: corrupted double-linked list,77181,Glen MacLachlan
+077183.html,[Rd] Error: corrupted double-linked list,77183,Glen MacLachlan
+077171.html,[Rd] Bug in dt() function in stats - accuracy only 6 dp.,77171,Martin Maechler
+077176.html,[Rd]  strtoi output of empty string inconsistent across platforms,77176,Martin Maechler
+077178.html,[Rd]  strtoi output of empty string inconsistent across platforms,77178,Martin Maechler
+077180.html,[Rd]  strtoi output of empty string inconsistent across platforms,77180,Martin Maechler
+077191.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77191,Martin Maechler
+077192.html,[Rd] long-standing documentation bug in ?anova.lme,77192,Martin Maechler
+077203.html,[Rd] pmax and long vector,77203,Martin Maechler
+077217.html,[Rd] nlminb with constraints failing on some platforms,77217,Amit Mittal
+077151.html,[Rd] Compiler + stopifnot bug,77151,Martin Morgan
+077148.html,[Rd] Compiler + stopifnot bug,77148,Duncan Murdoch
+077150.html,[Rd] Compiler + stopifnot bug,77150,Duncan Murdoch
+077196.html,[Rd] pmax and long vector,77196,Duncan Murdoch
+077219.html,[Rd] Runnable R packages,77219,Duncan Murdoch
+077190.html,[Rd] Request: make `var` a generic,77190,Edzer Pebesma
+077216.html,[Rd] nlminb with constraints failing on some platforms,77216,ProfJCNash
+077224.html,[Rd] nlminb with constraints failing on some platforms,77224,ProfJCNash
+077220.html,[Rd] Runnable R packages,77220,Barry Rowlingson
+077162.html,[Rd] unsorted - suggestion for performance improvement and ALTREP support for POSIXct,77162,Harvey Smith
+077166.html,[Rd] Runnable R packages,77166,Murray Stokely
+077199.html,[Rd] Hex sticker,77199,"Therneau, Terry M., Ph.D."
+077152.html,[Rd] Compiler + stopifnot bug,77152,"Tierney, Luke"
+077155.html,[Rd] Compiler + stopifnot bug,77155,"Tierney, Luke"
+077201.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77201,"Tierney, Luke"
+077215.html,"[Rd] Object.size() should not visit every element for alt-rep strings, or there should be an altstring_objectsize_method",77215,"Tierney, Luke"
+077147.html,[Rd] Compiler + stopifnot bug,77147,I&#241;aki Ucar
+077156.html,[Rd] Compiler + stopifnot bug,77156,I&#241;aki Ucar
+077168.html,[Rd] Runnable R packages,77168,I&#241;aki Ucar
+077182.html,[Rd] Error: corrupted double-linked list,77182,I&#241;aki Ucar
+077202.html,[Rd]  Objectsize function visiting every element for alt-rep strings,77202,Kevin Ushey
+077207.html,[Rd] Inconsistent documentation of the return value of .getXlevels(),77207,Davis Vaughan
+077173.html,[Rd] setClass accepts slot-mismatch between slots and prototype arguments,77173,brodie gaslam
+077170.html,[Rd] Bug in dt() function in stats - accuracy only 6 dp.,77170,mark.chappell

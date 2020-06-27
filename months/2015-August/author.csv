@@ -1,0 +1,121 @@
+link,Subject,id,author
+071582.html,[Rd] 'vapply' not returning list element names when returned	element is a length-1 list,71582,Suharto Anggono Suharto Anggono
+071579.html,[Rd] 'vapply' not returning list element names when returned element is a length-1 list,71579,Dean Attali
+071581.html,[Rd] 'vapply' not returning list element names when returned element is a length-1 list,71581,Dean Attali
+071627.html,[Rd] Multi-line comments in R,71627,Gabriel Becker
+071641.html,[Rd] sprintf error: &quot;only 100 arguments allowed&quot;,71641,Martin Bel
+071676.html,[Rd] sprintf error: &quot;only 100 arguments allowed&quot;,71676,Martin Bel
+071596.html,[Rd] download.file() on ftp URL fails in windows with default download method,71596,Henrik Bengtsson
+071614.html,[Rd] capture.output() duplicates last line unless newline (R-devel	bug),71614,Henrik Bengtsson
+071617.html,[Rd] capture.output() duplicates last line unless newline (R-devel bug),71617,Henrik Bengtsson
+071619.html,[Rd] Why not pthreads on Windows in 'parallel' package?,71619,Henrik Bengtsson
+071621.html,[Rd] Why not pthreads on Windows in 'parallel' package?,71621,Henrik Bengtsson
+071644.html,[Rd] unset() function?,71644,Henrik Bengtsson
+071659.html,[Rd] match()/%in% with language objects?,71659,Ben Bolker
+071583.html,[Rd] Weird issue when iterating through dates,71583,Luca Cerone
+071585.html,[Rd] Weird issue when iterating through dates,71585,Luca Cerone
+071600.html,[Rd] Weird issue when iterating through dates,71600,Luca Cerone
+071584.html,[Rd] Weird issue when iterating through dates,71584,G&#225;bor Cs&#225;rdi
+071586.html,[Rd] Weird issue when iterating through dates,71586,G&#225;bor Cs&#225;rdi
+071601.html,[Rd] Weird issue when iterating through dates,71601,G&#225;bor Cs&#225;rdi
+071691.html,[Rd] R doesn't compile on FreeBSD 10.2,71691,Davor Cubranic
+071696.html,[Rd] R doesn't compile on FreeBSD 10.2,71696,Davor Cubranic
+071587.html,[Rd] Weird issue when iterating through dates,71587,William Dunlap
+071636.html,[Rd] unset() function?,71636,William Dunlap
+071637.html,[Rd] unset() function?,71637,William Dunlap
+071660.html,[Rd] match()/%in% with language objects?,71660,William Dunlap
+071673.html,[Rd] match()/%in% with language objects?,71673,William Dunlap
+071679.html,[Rd] Proposed change in file.exists() to tolerate Windows,71679,William Dunlap
+071631.html,[Rd] names in optim(),71631,Christophe Dutang
+071589.html,[Rd] R-patched is now R-beta?,71589,Dirk Eddelbuettel
+071594.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71594,Dirk Eddelbuettel
+071648.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71648,Dirk Eddelbuettel
+071650.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71650,Dirk Eddelbuettel
+071580.html,[Rd] 'vapply' not returning list element names when returned element is a length-1 list,71580,S Ellison
+071624.html,[Rd] Multi-line comments in R,71624,Nathan Esau
+071592.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71592,Jose Claudio Faria
+071686.html,[Rd] C-API: Reporting syntax errors when calling R_ParseVector(),71686,Laurent Gautier
+071683.html,[Rd] Column name expansion in data.frame(),71683,Michael Hahsler
+071620.html,[Rd] Why not pthreads on Windows in 'parallel' package?,71620,Kasper Daniel Hansen
+071638.html,[Rd] RFC: deprecating some complexity in key methods package	functions,71638,Peter Haverty
+071678.html,[Rd] Proposed change in file.exists() to tolerate Windows,71678,Paul Johnson
+071669.html,[Rd] declaring dependencies of shiny app in inst/,71669,"Jombart, Thibaut"
+071671.html,[Rd] declaring dependencies of shiny app in inst/,71671,"Jombart, Thibaut"
+071690.html,[Rd] Packages required but not available:,71690,Roger Koenker
+071588.html,[Rd] R-patched is now R-beta?,71588,Peter Langfelder
+071590.html,[Rd] R-patched is now R-beta?,71590,Peter Langfelder
+071630.html,[Rd] sequence divided by data.frame,71630,Michael Lawrence
+071597.html,[Rd] download.file() on ftp URL fails in windows with default download method,71597,Uwe Ligges
+071607.html,[Rd] Weird issue when iterating through dates,71607,Martin Maechler
+071606.html,[Rd] enableJIT in Rprofile leads to 'not a proper	evaluation	environment' on startup,71606,Martin Maechler
+071668.html,[Rd] match()/%in% with language objects?,71668,Martin Maechler
+071680.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71680,Martin Maechler
+071609.html,[Rd] Bug in rank with utf8?,71609,John McKown
+071610.html,[Rd] Bug in rank with utf8?,71610,John McKown
+071628.html,[Rd] Child thread libR.so,71628,Ryan C Metzger
+071651.html,[Rd] Child thread libR.so,71651,Ryan C Metzger
+071661.html,[Rd] Child thread libR.so,71661,Ryan C Metzger
+071646.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71646,Bj&#248;rn-Helge Mevik
+071657.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71657,Bj&#248;rn-Helge Mevik
+071623.html,[Rd] download.file() on ftp URL fails in windows with default download method,71623,Martin Morgan
+071663.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71663,Martin Morgan
+071665.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71665,Martin Morgan
+071681.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71681,Martin Morgan
+071684.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71684,Martin Morgan
+071591.html,[Rd] R-patched is now R-beta?,71591,Duncan Murdoch
+071593.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71593,Duncan Murdoch
+071670.html,[Rd] declaring dependencies of shiny app in inst/,71670,Duncan Murdoch
+071672.html,[Rd] declaring dependencies of shiny app in inst/,71672,Duncan Murdoch
+071677.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71677,Duncan Murdoch
+071632.html,[Rd] OpenMP problem with 64-bit Rtools,71632,Radford Neal
+071633.html,[Rd] Problem with psignal.c for Windows builds,71633,Radford Neal
+071634.html,[Rd] Getting SSE2 instructions to work in 32-bit builds on Windows,71634,Radford Neal
+071635.html,"[Rd] Problems with embedded R, ReplDLL",71635,Radford Neal
+071640.html,[Rd] OpenMP problem with 64-bit Rtools,71640,Radford Neal
+071652.html,"[Rd] OpenMP on Windows reset FPU mode, disabling long double",71652,Radford Neal
+071653.html,[Rd] Problem with psignal.c for Windows builds,71653,Radford Neal
+071639.html,[Rd] OpenMP problem with 64-bit Rtools,71639,Jeroen Ooms
+071675.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71675,Jeroen Ooms
+071682.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71682,Jeroen Ooms
+071654.html,[Rd] sprintf error: &quot;only 100 arguments allowed&quot;,71654,Herv&#233; Pag&#232;s
+071674.html,[Rd] sprintf error: &quot;only 100 arguments allowed&quot;,71674,Herv&#233; Pag&#232;s
+071697.html,[Rd] Packages required but not available:,71697,RKoenker
+071612.html,[Rd] Bug in rank with utf8?,71612,Prof Brian Ripley
+071615.html,[Rd] capture.output() duplicates last line unless newline (R-devel bug),71615,Prof Brian Ripley
+071658.html,[Rd] sprintf error: &quot;only 100 arguments allowed&quot;,71658,Prof Brian Ripley
+071693.html,[Rd] R doesn't compile on FreeBSD 10.2,71693,Prof Brian Ripley
+071694.html,[Rd] Build R on Haiku,71694,Prof Brian Ripley
+071626.html,[Rd] Multi-line comments in R,71626,Barry Rowlingson
+071618.html,[Rd] Build R on Haiku,71618,Joe S
+071695.html,[Rd] Build R on Haiku,71695,Joe S
+071603.html,[Rd] download.file() on ftp URL fails in windows with default download method,71603,David Smith
+071604.html,[Rd] enableJIT in Rprofile leads to 'not a proper evaluation	environment' on startup,71604,Sam Steingold
+071595.html,[Rd] download.file() on ftp URL fails in windows with default download method,71595,Dan Tenenbaum
+071598.html,[Rd] download.file() on ftp URL fails in windows with default download method,71598,Dan Tenenbaum
+071599.html,[Rd] download.file() on ftp URL fails in windows with default download method,71599,Dan Tenenbaum
+071605.html,[Rd] download.file() on ftp URL fails in windows with default download method,71605,Dan Tenenbaum
+071622.html,[Rd] Why not pthreads on Windows in 'parallel' package?,71622,Dan Tenenbaum
+071629.html,[Rd] sequence divided by data.frame,71629,Ott Toomet
+071602.html,[Rd] Weird issue when iterating through dates,71602,Joshua Ulrich
+071625.html,[Rd] Multi-line comments in R,71625,Simon Urbanek
+071655.html,[Rd] Child thread libR.so,71655,Simon Urbanek
+071656.html,[Rd] Web apps on a R server,71656,Simon Urbanek
+071662.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71662,Kevin Ushey
+071664.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71664,Kevin Ushey
+071666.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71666,Kevin Ushey
+071667.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71667,Kevin Ushey
+071685.html,"[Rd] Issues with libcurl + HTTP status codes (eg. 403, 404)",71685,Kevin Ushey
+071687.html,[Rd] [OT] new R logo in vector graphics format,71687,Tobias Verbeke
+071689.html,[Rd] [OT] new R logo in vector graphics format,71689,Tobias Verbeke
+071608.html,[Rd] Bug in rank with utf8?,71608,Hadley Wickham
+071688.html,[Rd] [OT] new R logo in vector graphics format,71688,Hadley Wickham
+071698.html,[Rd] Packages required but not available:,71698,Hadley Wickham
+071611.html,[Rd] Bug in rank with utf8?,71611,peter dalgaard
+071613.html,[Rd] Bug in rank with utf8?,71613,peter dalgaard
+071616.html,[Rd] capture.output() duplicates last line unless newline	(R-devel bug),71616,peter dalgaard
+071643.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71643,arnaud gaboury
+071645.html,[Rd] Web apps on a R server,71645,arnaud gaboury
+071647.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71647,arnaud gaboury
+071649.html,"[Rd] Build optimized R : openblas, MKL, ATLAS",71649,arnaud gaboury
+071692.html,[Rd] Buidling R from source on a server,71692,arnaud gaboury
+071642.html,[Rd] unset() function?,71642,luke-tierney at uiowa.edu

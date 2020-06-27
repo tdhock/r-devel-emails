@@ -1,0 +1,285 @@
+link,Subject,id,author
+060290.html,[Rd] Standalone C++ application for processing R parser output(SEXP),60290,Rob Anderson
+060308.html,[Rd] Standalone C++ application for processing R parser	output(SEXP),60308,Rob Anderson
+060329.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60329,Douglas Bates
+060351.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60351,Douglas Bates
+060369.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60369,Douglas Bates
+060278.html,"[Rd] Sweave: multiple graphic formats, e.g. win.metafile",60278,Claudia Beleites
+060101.html,[Rd] file.rename(): Guaranteed to be complete or not at all?,60101,Henrik Bengtsson
+060106.html,[Rd] file.rename(): Guaranteed to be complete or not at all?,60106,Henrik Bengtsson
+060129.html,[Rd] Fwd: file mode lost in file.copy()?,60129,Henrik Bengtsson
+060155.html,[Rd] Create an environment and assign objects to it in one go?,60155,Henrik Bengtsson
+060158.html,[Rd] unique.matrix issue [Was: Anomaly with unique and match],60158,Henrik Bengtsson
+060164.html,[Rd] Create an environment and assign objects to it in one go?,60164,Henrik Bengtsson
+060175.html,[Rd] hook for when R quits,60175,Henrik Bengtsson
+060178.html,[Rd] hook for when R quits,60178,Henrik Bengtsson
+060187.html,[Rd] Excited about the near future...,60187,Henrik Bengtsson
+060217.html,[Rd] .libPaths() on Windows may return duplicated paths,60217,Henrik Bengtsson
+060362.html,[Rd] R CMD build processes inst/doc/Makefile only if there are	vignette files?,60362,Henrik Bengtsson
+060370.html,[Rd] Reading 64-bit integers,60370,Henrik Bengtsson
+060371.html,[Rd] R CMD build now removes empty dirs,60371,Henrik Bengtsson
+060372.html,[Rd] Reading 64-bit integers,60372,Henrik Bengtsson
+060109.html,[Rd] read.csv trap,60109,Ben Bolker
+060266.html,[Rd] R-alpha typo in ?replicate ?,60266,Ben Bolker
+060287.html,[Rd] import question,60287,Ben Bolker
+060288.html,[Rd] import question,60288,Ben Bolker
+060295.html,[Rd] import question,60295,Ben Bolker
+060297.html,[Rd] import question,60297,Ben Bolker
+060309.html,[Rd] another import puzzle,60309,Ben Bolker
+060311.html,[Rd] another import puzzle,60311,Ben Bolker
+060169.html,[Rd] Using missing() in a S4 method with extra arguments,60169,Andreas Borg
+060171.html,[Rd] Using missing() in a S4 method with extra arguments,60171,Andreas Borg
+060205.html,[Rd] Feature request: txtProgressBar with ability to write to arbitrary stream,60205,Andreas Borg
+060218.html,[Rd] Feature request: txtProgressBar with ability to write to arbitrary stream,60218,Andreas Borg
+060098.html,[Rd] changes in recent R-devel revisions?,60098,Benilton Carvalho
+060104.html,[Rd] changes in recent R-devel revisions?,60104,Benilton Carvalho
+060127.html,[Rd] Extending type list: names and inherited methods issue,60127,John Chambers
+060165.html,[Rd] Testing for a reference class object,60165,John Chambers
+060340.html,[Rd] use scan(&quot;http://www.example.com/file.htm&quot;) with an	hidden-fake IP adress,60340,Arthur Charpentier
+060344.html,[Rd] Reading 64-bit integers,60344,Jon Clayden
+060348.html,[Rd] Reading 64-bit integers,60348,Jon Clayden
+060355.html,[Rd] Reading 64-bit integers,60355,Jon Clayden
+060365.html,[Rd] Reading 64-bit integers,60365,Jon Clayden
+060366.html,[Rd] Reading 64-bit integers,60366,Jon Clayden
+060324.html,[Rd] another import puzzle,60324,Davor Cubranic
+060117.html,[Rd] Minor typo in &quot;Writing R Extensions&quot;,60117,Brian Diggs
+060196.html,[Rd] discrepancy between lm and MASS:rlm,60196,William Dunlap
+060259.html,"[Rd] split(factor,	shortGroupVector) gives incorrect results in R 2.12.2",60259,William Dunlap
+060304.html,[Rd] two minor bugs in rowsum(),60304,William Dunlap
+060352.html,[Rd] Reading 64-bit integers,60352,William Dunlap
+060367.html,[Rd] Reading 64-bit integers,60367,William Dunlap
+060099.html,[Rd] vignette typesetting issue,60099,Dirk Eddelbuettel
+060138.html,[Rd] How to disable R's crash prompt,60138,Dirk Eddelbuettel
+060160.html,[Rd] R and ATLAS and distributing across boxes,60160,Dirk Eddelbuettel
+060184.html,[Rd] Run script automatically when package is loaded,60184,Dirk Eddelbuettel
+060246.html,[Rd] [Patch suggestion] Adding 3rd arg to tempfile() to set	extension,60246,Dirk Eddelbuettel
+060252.html,[Rd] Testing window for R 2.13.0,60252,Dirk Eddelbuettel
+060292.html,[Rd] Standalone C++ application for processing R	parser	output(SEXP),60292,Dirk Eddelbuettel
+060325.html,[Rd] Windows build not running on r-forge,60325,S Ellison
+060338.html,[Rd] Windows build not running on r-forge,60338,S Ellison
+060339.html,[Rd] Windows build not running on r-forge,60339,S Ellison
+060301.html,[Rd] Rd2pdf and Rd2dvi don't find texi2dvi,60301,Tobias Erhardt
+060305.html,[Rd] Rd2pdf and Rd2dvi don't find texi2dvi,60305,Tobias Erhardt
+060131.html,[Rd] visualizing data flow and function calls,60131,Robert M. Flight
+060193.html,[Rd] coxph and drop1,60193,John Fox
+060238.html,[Rd] Standardized Pearson residuals,60238,John Fox
+060279.html,[Rd] system.file() to read a text file from a vignette,60279,Michael Friendly
+060282.html,[Rd] system.file() to read a text file from a vignette,60282,Michael Friendly
+060300.html,"[Rd] .Fortran successful, R locks up.",60300,Daniel Fuka
+060307.html,"[Rd] .Fortran successful, R locks up.",60307,Daniel Fuka
+060323.html,"[Rd] .Fortran successful, R locks up.",60323,Daniel Fuka
+060112.html,[Rd] Extending type list: names and inherited methods issue,60112,Renaud Gaujoux
+060185.html,[Rd] par(ask=TRUE) in R CMD check?,60185,Spencer Graves
+060161.html,[Rd] Create an environment and assign objects to it in one go?,60161,Gabor Grothendieck
+060229.html,[Rd] Detecting bad lexical scoping,60229,Gabor Grothendieck
+060113.html,[Rd] removing files on windows as part of vignette building,60113,Kasper Daniel Hansen
+060120.html,[Rd] problem with building bitmapdll on Windows,60120,"Hodgess, Erin"
+060122.html,[Rd] problem with building bitmapdll on Windows,60122,"Hodgess, Erin"
+060162.html,[Rd] Testing for a reference class object,60162,Jeffrey Horner
+060254.html,[Rd] Undefined symbol &quot;Rf_pythag&quot; while loading spatstat,60254,Rainer Hurling
+060256.html,[Rd] Undefined symbol &quot;Rf_pythag&quot; while loading spatstat,60256,Rainer Hurling
+060094.html,[Rd] function call overhead,60094,Paul Johnson
+060313.html,[Rd] Standalone C++ application for processing R parser	output(SEXP),60313,Paul Johnson
+060108.html,"[Rd] axis, title &amp; padj",60108,Philip Johnson
+060225.html,[Rd] Detecting bad lexical scoping,60225,Ryan King
+060118.html,[Rd] Does R use &quot;computed gotos&quot; - a gcc extension of C?,60118,Dr. David Kirkby
+060123.html,[Rd] Does R use &quot;computed gotos&quot; - a gcc extension of C?,60123,Dr. David Kirkby
+060125.html,[Rd] Does R use &quot;computed gotos&quot; - a gcc extension of C?,60125,Dr. David Kirkby
+060126.html,[Rd] Does R use &quot;computed gotos&quot; - a gcc extension of C?,60126,Dr. David Kirkby
+060190.html,[Rd] Tinycore &amp; error in memCompress() in make check,60190,Sigbert Klinke
+060188.html,[Rd] about textConnection,60188,Kenn Konstabel
+060197.html,[Rd] about textConnection,60197,Kenn Konstabel
+060286.html,[Rd] suggestions re trunc.POSIXt,60286,Kenn Konstabel
+060152.html,[Rd] R and ATLAS and distributing across boxes,60152,Adam D. I. Kramer
+060096.html,[Rd] broken link on CRAN,60096,Max Kuhn
+060214.html,[Rd] object not found whilst loading namespace,60214,Max Kuhn
+060215.html,[Rd] object not found whilst loading namespace,60215,Max Kuhn
+060172.html,[Rd] hook for when R quits,60172,Michael Lawrence
+060174.html,[Rd] hook for when R quits,60174,Michael Lawrence
+060314.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60314,Hin-Tak Leung
+060343.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60343,Hin-Tak Leung
+060333.html,[Rd] error in: testing if installed package can be loaded,60333,Uwe Ligges
+060334.html,[Rd] datalist and data objects in R Package building,60334,Uwe Ligges
+060335.html,[Rd] datalist and data objects in R Package building,60335,Uwe Ligges
+060274.html,[Rd] Suggestion: quote POSIXlt and POSIXct in write.table(),60274,Noah Lorang
+060132.html,"[Rd] print(...,digits=2) behavior",60132,Martin Maechler
+060233.html,[Rd] Standardized Pearson residuals,60233,Martin Maechler
+060269.html,[Rd] texi2dvi / egrep issue shows (a.o.) up in R-alpha,60269,Martin Maechler
+060270.html,[Rd] R-alpha typo in ?replicate ?,60270,Martin Maechler
+060330.html,[Rd] core Matrix package segfaulted on R CMD check --use-gct,60330,Martin Maechler
+060207.html,[Rd] Standardized Pearson residuals,60207,John Maindonald
+060223.html,[Rd] Standardized Pearson residuals,60223,John Maindonald
+060315.html,[Rd] bug (or feature) in alpha 2.13?,60315,Norm Matloff
+060321.html,[Rd] bug (or feature) in alpha 2.13?,60321,Norm Matloff
+060253.html,[Rd] Testing window for R 2.13.0,60253,Steven McKinney
+060276.html,"[Rd] Sweave: multiple graphic formats, e.g. win.metafile",60276,"Meyer, Sebastian"
+060100.html,[Rd] changes in recent R-devel revisions?,60100,Martin Morgan
+060167.html,[Rd] Problem with defining new method for residuals(),60167,Martin Morgan
+060170.html,[Rd] Using missing() in a S4 method with extra arguments,60170,Martin Morgan
+060267.html,[Rd] R_HOME path getting munged in inst/doc/Makefile on Windows,60267,Martin Morgan
+060310.html,[Rd] another import puzzle,60310,Martin Morgan
+060327.html,[Rd] R-2-13-alpha invalid subscript when checking for unstated	dependencies,60327,Martin Morgan
+060275.html,[Rd] Suggestion: &quot;kill -USR1 pid&quot; should respect --no-save option,60275,Stig B. Mortensen
+060176.html,[Rd] hook for when R quits,60176,Duncan Murdoch
+060180.html,[Rd] hook for when R quits,60180,Duncan Murdoch
+060212.html,[Rd] Feature request: txtProgressBar with ability to write to arbitrary stream,60212,Duncan Murdoch
+060216.html,[Rd] object not found whilst loading namespace,60216,Duncan Murdoch
+060226.html,[Rd] Detecting bad lexical scoping,60226,Duncan Murdoch
+060227.html,[Rd] Feature request: display file name in R CMD check warning,60227,Duncan Murdoch
+060228.html,[Rd] Feature request: display file name in R CMD check warning,60228,Duncan Murdoch
+060241.html,[Rd] Feature request: display file name in R CMD check warning,60241,Duncan Murdoch
+060248.html,[Rd] [Patch suggestion] Adding 3rd arg to tempfile() to set	extension,60248,Duncan Murdoch
+060281.html,[Rd] system.file() to read a text file from a vignette,60281,Duncan Murdoch
+060284.html,[Rd] argument handling in boot.ci,60284,Duncan Murdoch
+060291.html,[Rd] Standalone C++ application for processing R parser	output(SEXP),60291,Duncan Murdoch
+060302.html,"[Rd] .Fortran successful, R locks up.",60302,Duncan Murdoch
+060303.html,[Rd] Rd2pdf and Rd2dvi don't find texi2dvi,60303,Duncan Murdoch
+060317.html,[Rd] bug (or feature) in alpha 2.13?,60317,Duncan Murdoch
+060319.html,[Rd] bug (or feature) in alpha 2.13?,60319,Duncan Murdoch
+060320.html,[Rd] Bug in tools::compactPDF() in 2.13-0-alpha,60320,Duncan Murdoch
+060349.html,[Rd] Typo in tools:::format.check_Rd_metadata(),60349,Duncan Murdoch
+060356.html,[Rd] Reading 64-bit integers,60356,Duncan Murdoch
+060361.html,[Rd] SurviveGotoBLAS2 for Win64 (RC release),60361,Ei-ji Nakama
+060163.html,[Rd] Problem with defining new method for residuals(),60163,"ONKELINX, Thierry"
+060168.html,[Rd] Problem with defining new method for residuals(),60168,"ONKELINX, Thierry"
+060194.html,[Rd] discrepancy between lm and MASS:rlm,60194,Vadim Ogranovich
+060198.html,[Rd] discrepancy between lm and MASS:rlm,60198,Vadim Ogranovich
+060208.html,[Rd] Standardized Pearson residuals,60208,Jari Oksanen
+060298.html,[Rd] Namespace dependency not required,60298,"Pages, Herve"
+060363.html,[Rd] R CMD build now removes empty dirs,60363,"Pages, Herve"
+060347.html,[Rd] Typo in tools:::format.check_Rd_metadata(),60347,Herv&#233; Pag&#232;s
+060350.html,[Rd] two minor bugs in rowsum(),60350,Herv&#233; Pag&#232;s
+060199.html,[Rd] Standardized Pearson residuals,60199,Brett Presnell
+060201.html,[Rd] Standardized Pearson residuals,60201,Brett Presnell
+060203.html,[Rd] Standardized Pearson residuals,60203,Brett Presnell
+060239.html,[Rd] Standardized Pearson residuals,60239,Brett Presnell
+060244.html,[Rd] Standardized Pearson residuals,60244,Brett Presnell
+060111.html,[Rd] Fixing the HDF5 package: the on.exit mystery,60111,H C Pumphrey
+060219.html,[Rd] Fixing the HDF5 package: the on.exit mystery,60219,H C Pumphrey
+060245.html,[Rd] Fixing the HDF5 package: the on.exit mystery,60245,H C Pumphrey
+060102.html,[Rd] changes in recent R-devel revisions?,60102,Prof Brian Ripley
+060103.html,[Rd] file.rename(): Guaranteed to be complete or not at all?,60103,Prof Brian Ripley
+060105.html,[Rd] Small enhancement for CMD check,60105,Prof Brian Ripley
+060116.html,[Rd] Fixing the HDF5 package: the on.exit mystery,60116,Prof Brian Ripley
+060121.html,[Rd] problem with building bitmapdll on Windows,60121,Prof Brian Ripley
+060137.html,[Rd] How to disable R's crash prompt,60137,Prof Brian Ripley
+060177.html,[Rd] hook for when R quits,60177,Prof Brian Ripley
+060186.html,[Rd] par(ask=TRUE) in R CMD check?,60186,Prof Brian Ripley
+060191.html,[Rd] Tinycore &amp; error in memCompress() in make check,60191,Prof Brian Ripley
+060204.html,[Rd] fortran 90 underscore error,60204,Prof Brian Ripley
+060251.html,[Rd] Testing window for R 2.13.0,60251,Prof Brian Ripley
+060255.html,[Rd] Undefined symbol &quot;Rf_pythag&quot; while loading spatstat,60255,Prof Brian Ripley
+060268.html,[Rd] R_HOME path getting munged in inst/doc/Makefile on Windows,60268,Prof Brian Ripley
+060272.html,[Rd] texi2dvi / egrep issue shows (a.o.) up in R-alpha,60272,Prof Brian Ripley
+060277.html,"[Rd] Sweave: multiple graphic formats, e.g. win.metafile",60277,Prof Brian Ripley
+060289.html,[Rd] import question,60289,Prof Brian Ripley
+060316.html,"[Rd] .Fortran successful, R locks up.",60316,Prof Brian Ripley
+060328.html,[Rd] Windows build not running on r-forge,60328,Prof Brian Ripley
+060342.html,[Rd] two minor bugs in rowsum(),60342,Prof Brian Ripley
+060364.html,[Rd] R CMD build processes inst/doc/Makefile only if there are vignette files?,60364,Prof Brian Ripley
+060260.html,[Rd] error in: testing if installed package can be loaded,60260,Thomas Roth
+060139.html,[Rd] How to disable R's crash prompt,60139,Barry Rowlingson
+060147.html,[Rd] How to disable R's crash prompt,60147,Barry Rowlingson
+060231.html,[Rd] New feature for download.packages(): optional resolution of package dependencies,60231,Dr. Peter Ruckdeschel
+060173.html,[Rd] hook for when R quits,60173,Jeffrey Ryan
+060095.html,[Rd] function call overhead,60095,Dominick Samperi
+060293.html,[Rd] Orthogonal polynomial ANOVA or polynomial regression?,60293,Dominick Samperi
+060150.html,[Rd] Anomaly with unique and match,60150,Petr Savicky
+060157.html,[Rd] unique.matrix issue [Was: Anomaly with unique and match],60157,Petr Savicky
+060181.html,[Rd] unique.matrix issue [Was: Anomaly with unique and match],60181,Petr Savicky
+060258.html,"[Rd] round, unique and factor",60258,Petr Savicky
+060306.html,[Rd] testing presence of pdflatex in R CMD check,60306,Petr Savicky
+060154.html,[Rd] avoid copying big object passed into optimize(),60154,Matt Shotwell
+060209.html,[Rd] Feature request: txtProgressBar with ability to write to arbitrary stream,60209,Matt Shotwell
+060332.html,[Rd] Testing window for R 2.13.0,60332,Matt Shotwell
+060353.html,[Rd] Broken link in R-exts.html,60353,Matt Shotwell
+060312.html,[Rd] rebuilding vignettes in 2.13-0-alpha fails if name of source dir is not package name,60312,Gavin Simpson
+060318.html,[Rd] Bug in tools::compactPDF() in 2.13-0-alpha,60318,Gavin Simpson
+060322.html,[Rd] Bug in tools::compactPDF() in 2.13-0-alpha,60322,Gavin Simpson
+060222.html,[Rd] Standardized Pearson residuals (and score tests),60222,Gordon K Smyth
+060240.html,[Rd] Standardized Pearson residuals (and score tests),60240,Gordon K Smyth
+060213.html,[Rd] Feature request: txtProgressBar with ability to write to arbitrary stream,60213,Greg Snow
+060285.html,"[Rd] Sweave: multiple graphic formats, e.g. win.metafile",60285,Greg Snow
+060143.html,"[Rd] Fatal error: unable to open the base package (R, C++,	Windows 7)",60143,Olga Starunova
+060146.html,[Rd] VennDiagram Bugs,60146,Dario Strbenac
+060110.html,[Rd] Problem building R-2.13 r54645 on Windows,60110,Dan Tenenbaum
+060114.html,[Rd] Problem building R-2.13 r54645 on Windows,60114,Dan Tenenbaum
+060115.html,[Rd] Problem building R-2.13 r54645 on Windows,60115,Dan Tenenbaum
+060133.html,[Rd] Problem building R-2.13 r54683 on Windows,60133,Dan Tenenbaum
+060140.html,[Rd] Problem building R-2.13 r54683 on Windows,60140,Dan Tenenbaum
+060221.html,[Rd] tools::checkRd() output different from R CMD check,60221,Dan Tenenbaum
+060224.html,[Rd] Feature request: display file name in R CMD check warning,60224,Dan Tenenbaum
+060235.html,[Rd] Feature request: display file name in R CMD check warning,60235,Dan Tenenbaum
+060236.html,[Rd] Feature request: display file name in R CMD check warning,60236,Dan Tenenbaum
+060249.html,[Rd] Feature request: display file name in R CMD check warning,60249,Dan Tenenbaum
+060263.html,[Rd] R_HOME path getting munged in inst/doc/Makefile on Windows,60263,Dan Tenenbaum
+060265.html,[Rd] R_HOME path getting munged in inst/doc/Makefile on Windows,60265,Dan Tenenbaum
+060273.html,[Rd] R_HOME path getting munged in inst/doc/Makefile on Windows,60273,Dan Tenenbaum
+060357.html,[Rd] problem with png() and large dimensions on some 32-bit Windows	machines,60357,Dan Tenenbaum
+060359.html,[Rd] problem with png() and large dimensions on some 32-bit	Windows machines,60359,Dan Tenenbaum
+060375.html,[Rd] typo/bug in R-Beta,60375,Dan Tenenbaum
+060376.html,[Rd] typo/bug in R-Beta,60376,Dan Tenenbaum
+060378.html,[Rd] Problem running &quot;make bitmapdll&quot; with R-2.13 beta r55221 on	Windows,60378,Dan Tenenbaum
+060134.html,"[Rd] print(...,digits=2) behavior",60134,Terry Therneau
+060135.html,[Rd] function local to a fit,60135,Terry Therneau
+060149.html,[Rd] Anomaly with unique and match,60149,Terry Therneau
+060166.html,[Rd] unique.matrix issue [Was: Anomaly with unique and match],60166,Terry Therneau
+060192.html,[Rd] coxph and drop1,60192,Terry Therneau
+060195.html,[Rd] coxph and drop1,60195,Terry Therneau
+060257.html,"[Rd] round, unique and factor",60257,Terry Therneau
+060345.html,[Rd] rowsum,60345,Terry Therneau
+060373.html,[Rd] drop.unused.levels,60373,Terry Therneau
+060220.html,[Rd] R-Forge down,60220,Stefan Theussl
+060182.html,[Rd] Run script automatically when package is loaded,60182,Janko Thyson
+060144.html,[Rd] How to disable R's crash prompt,60144,Simon Urbanek
+060151.html,[Rd] unique.matrix issue [Was: Anomaly with unique and match],60151,Simon Urbanek
+060189.html,[Rd] about textConnection,60189,Simon Urbanek
+060234.html,[Rd] New feature for download.packages(): optional resolution	of package dependencies,60234,Simon Urbanek
+060250.html,[Rd] passing a 2D array from Java to R,60250,Simon Urbanek
+060264.html,[Rd] R_HOME path getting munged in inst/doc/Makefile on Windows,60264,Simon Urbanek
+060341.html,[Rd] use scan(&quot;http://www.example.com/file.htm&quot;) with an	hidden-fake IP adress,60341,Simon Urbanek
+060346.html,[Rd] Reading 64-bit integers,60346,Simon Urbanek
+060354.html,[Rd] Reading 64-bit integers,60354,Simon Urbanek
+060358.html,[Rd] Reading 64-bit integers,60358,Simon Urbanek
+060360.html,[Rd] problem with png() and large dimensions on some 32-bit	Windows machines,60360,Simon Urbanek
+060368.html,[Rd] Reading 64-bit integers,60368,Simon Urbanek
+060262.html,[Rd] texi2dvi / egrep issue shows (a.o.) up in R-alpha,60262,Tobias Verbeke
+060271.html,[Rd] texi2dvi / egrep issue shows (a.o.) up in R-alpha,60271,Tobias Verbeke
+060280.html,[Rd] system.file() to read a text file from a vignette,60280,Tobias Verbeke
+060283.html,[Rd] argument handling in boot.ci,60283,Matthew Vernon
+060159.html,[Rd] about textConnection,60159,WANGSONG
+060296.html,[Rd] import question,60296,Hadley Wickham
+060374.html,[Rd] Bug in as.data.frame.POSIXct?,60374,Hadley Wickham
+060128.html,[Rd] Fwd: file mode lost in file.copy()?,60128,Yihui Xie
+060130.html,[Rd] Fwd: file mode lost in file.copy()?,60130,Yihui Xie
+060107.html,[Rd] Newbie Rccp module question. &quot;Failed to initialize	module	pointer&quot;???,60107,A Zege
+060153.html,[Rd] avoid copying big object passed into optimize(),60153,Zepu Zhang
+060242.html,[Rd] avoid copying big object passed into optimize(),60242,Zepu Zhang
+060136.html,[Rd] How to disable R's crash prompt,60136,Wayne.Zhang at barclayscapital.com
+060141.html,[Rd] How to disable R's crash prompt,60141,Wayne.Zhang at barclayscapital.com
+060142.html,[Rd] How to disable R's crash prompt,60142,Wayne.Zhang at barclayscapital.com
+060145.html,[Rd] How to disable R's crash prompt,60145,Wayne.Zhang at barclayscapital.com
+060148.html,[Rd] How to disable R's crash prompt,60148,Wayne.Zhang at barclayscapital.com
+060179.html,[Rd] WARNING Undocumented S4 methods 'initialize' - why?,60179,cstrato
+060183.html,[Rd] WARNING Undocumented S4 methods 'initialize' - why?,60183,cstrato
+060156.html,[Rd] Create an environment and assign objects to it in one go?,60156,peter dalgaard
+060202.html,[Rd] Standardized Pearson residuals,60202,peter dalgaard
+060206.html,[Rd] Standardized Pearson residuals,60206,peter dalgaard
+060210.html,[Rd] Standardized Pearson residuals,60210,peter dalgaard
+060211.html,[Rd] Standardized Pearson residuals,60211,peter dalgaard
+060230.html,[Rd] Standardized Pearson residuals (and score tests),60230,peter dalgaard
+060232.html,[Rd] Standardized Pearson residuals,60232,peter dalgaard
+060237.html,[Rd] Standardized Pearson residuals,60237,peter dalgaard
+060243.html,[Rd] Standardized Pearson residuals,60243,peter dalgaard
+060261.html,"[Rd] split(factor,	shortGroupVector) gives incorrect results in R 2.12.2",60261,peter dalgaard
+060294.html,[Rd] Orthogonal polynomial ANOVA or polynomial regression?,60294,peter dalgaard
+060337.html,[Rd] Testing window for R 2.13.0,60337,peter dalgaard
+060377.html,[Rd] SurviveGotoBLAS2 for Win64 (RC release),60377,peter dalgaard
+060097.html,[Rd] vignette typesetting issue,60097,robin hankin
+060200.html,[Rd] fortran 90 underscore error,60200,jgarcia at ija.csic.es
+060247.html,[Rd] passing a 2D array from Java to R,60247,jcg3441
+060331.html,[Rd] unique.matrix issue [Was: Anomaly with unique and match],60331,jochen laubrock
+060299.html,[Rd] datalist and data objects in R Package building,60299,andrew stewart
+060336.html,[Rd] datalist and data objects in R Package building,60336,andrew stewart
+060119.html,[Rd] Does R use &quot;computed gotos&quot; - a gcc extension of C?,60119,luke-tierney at uiowa.edu
+060124.html,[Rd] Does R use &quot;computed gotos&quot; - a gcc extension of C?,60124,luke-tierney at uiowa.edu

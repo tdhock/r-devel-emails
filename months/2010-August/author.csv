@@ -1,0 +1,302 @@
+link,Subject,id,author
+058244.html,[Rd] fortune? (was: Re: How do you make a formal &quot;feature&quot; request?),58244,Liviu Andronic
+058254.html,[Rd] No RTFM?,58254,Liviu Andronic
+058258.html,[Rd] No RTFM?,58258,Liviu Andronic
+058284.html,[Rd] No RTFM?,58284,Liviu Andronic
+058320.html,[Rd] reliability of R-Forge? (moving to r-Devel),58320,baptiste Augui&#233;
+058093.html,[Rd] rbind on data.frame that contains a column that is also a data.frame,58093,Claudia Beleites
+058118.html,[Rd] [R] cacheSweave / pgfSweave driver for package vignette,58118,Claudia Beleites
+058126.html,[Rd] prompt () and backticks for default arguments,58126,Claudia Beleites
+058130.html,[Rd] prompt () and backticks for default arguments,58130,Claudia Beleites
+058179.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58179,Claudia Beleites
+058192.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58192,Claudia Beleites
+058223.html,[Rd] No RTFM?,58223,Carlos J. Gil Bellosta
+058059.html,[Rd] Suggestion: make if (x) an error also for length(x) &gt; 1,58059,Henrik Bengtsson
+058276.html,[Rd] Internal state indicating if a data object has NAs/no NAs/not sure (Was: Re: Speeding up matrix multiplies),58276,Henrik Bengtsson
+058301.html,[Rd] require is to suggests as what is to imports?,58301,Henrik Bengtsson
+058189.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58189,Charles C. Berry
+058351.html,[Rd] R with multiple processors,58351,Michel Boaventura
+058056.html,[Rd] Disappearance of the file &quot;NEWS&quot;,58056,Ben Bolker
+058120.html,[Rd] adding a built-in drop.levels option for subset() in 2.12 ?,58120,Ben Bolker
+058237.html,[Rd] No RTFM?,58237,Ben Bolker
+058285.html,[Rd] Speeding up matrix multiplies,58285,G&#246;ran Brostr&#246;m
+058234.html,[Rd] How do you make a formal &quot;feature&quot; request?,58234,James Bullard
+058225.html,[Rd] No RTFM?,58225,Ted Byers
+058154.html,[Rd] C or Java code generation,58154,Daniel Cegie&#322;ka
+058156.html,[Rd] C or Java code generation,58156,Daniel Cegie&#322;ka
+058335.html,[Rd] Speeding up matrix multiplies,58335,James Cloos
+058181.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58181,Kevin Coombes
+058184.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58184,Kevin Coombes
+058186.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58186,Kevin Coombes
+058082.html,[Rd] rbind on data.frame that contains a column that is also a data.frame,58082,Nicholas L Crookston
+058268.html,[Rd] small syntax suggestion,58268,Davor Cubranic
+058289.html,[Rd] small syntax suggestion,58289,Davor Cubranic
+058057.html,[Rd] R CMD build wiped my computer (from R-help),58057,Peter Dalgaard
+058117.html,[Rd] accessing tcl variables within R and tcl,58117,Peter Dalgaard
+058123.html,[Rd] adding a built-in drop.levels option for subset() in 2.12 ?,58123,Peter Dalgaard
+058342.html,[Rd] Surprising behavior of Negate(),58342,Peter Dalgaard
+058288.html,[Rd] No RTFM?,58288,Michael Dewey
+058108.html,[Rd] Non-blocking Eval,58108,Matthew Dowle
+058318.html,[Rd] reliability of R-Forge? (moving to r-Devel),58318,Matthew Dowle
+058325.html,[Rd] reliability of R-Forge? (moved to R-Devel),58325,Matthew Dowle
+058063.html,"[Rd] problem in predict.lm(type=&quot;terms&quot;, terms=someNames,	interval=&quot;confidence&quot;, ...)",58063,William Dunlap
+058083.html,[Rd] rbind on data.frame that contains a column that is also a	data.frame,58083,William Dunlap
+058312.html,[Rd] No [[&lt;-.factor(),58312,William Dunlap
+058077.html,[Rd] on the optim function,58077,Christophe Dutang
+058081.html,[Rd] on the optim function,58081,Christophe Dutang
+058164.html,[Rd] C or Java code generation,58164,Dirk Eddelbuettel
+058170.html,[Rd] C or Java code generation,58170,Dirk Eddelbuettel
+058196.html,[Rd] C or Java code generation,58196,Dirk Eddelbuettel
+058199.html,[Rd] C or Java code generation,58199,Dirk Eddelbuettel
+058229.html,[Rd] How do you make a formal &quot;feature&quot; request?,58229,Dirk Eddelbuettel
+058286.html,[Rd] Speeding up matrix multiplies,58286,Dirk Eddelbuettel
+058300.html,[Rd] require is to suggests as what is to imports?,58300,Dirk Eddelbuettel
+058309.html,[Rd] require is to suggests as what is to imports?,58309,Dirk Eddelbuettel
+058104.html,[Rd] suggestion for data.frame.Rd,58104,Stephen Eglen
+058327.html,[Rd] Can you share a working example of R program aided by fast BLAS?,58327,Allan Engelhardt
+058352.html,[Rd] R with multiple processors,58352,Allan Engelhardt
+058338.html,[Rd] Feature request: put NewEnvironment and R_NewhashedEnv	into API,58338,Oliver Flasch
+058191.html,[Rd] C or Java code generation,58191,Romain Francois
+058253.html,"[Rd] Rserve graphics output [Was: R-devel Digest, Vol 90,	Issue 20]",58253,Laurent Gautier
+058220.html,[Rd] No RTFM?,58220,Simone Giannerini
+058166.html,[Rd] c.POSIXct,58166,Paul Gilbert
+058143.html,[Rd] perl.exe has stopped working,58143,Spencer Graves
+058146.html,[Rd] c.POSIXct,58146,Spencer Graves
+058168.html,[Rd] c.POSIXct,58168,Spencer Graves
+058171.html,[Rd] c.POSIXct,58171,Spencer Graves
+058173.html,[Rd] perl.exe has stopped working:  Fixed.,58173,Spencer Graves
+058188.html,[Rd] No RTFM?,58188,Spencer Graves
+058212.html,[Rd] No RTFM?,58212,Spencer Graves
+058222.html,[Rd] No RTFM?,58222,Spencer Graves
+058242.html,[Rd] No RTFM?,58242,Spencer Graves
+058317.html,[Rd] reliability of R-Forge? (moving to r-Devel),58317,Spencer Graves
+058322.html,[Rd] reliability of R-Forge? (moved to R-Devel),58322,Spencer Graves
+058323.html,[Rd] reliability of R-Forge? (moved to R-Devel),58323,Spencer Graves
+058201.html,[Rd] segfault in embedded r after call to repldlldo1,58201,Carl Martin Grewe
+058260.html,[Rd] segfault in embedded r after call to repldlldo1,58260,Carl Martin Grewe
+058105.html,[Rd] Non-blocking Eval,58105,Philippe Grosjean
+058274.html,[Rd] small syntax suggestion,58274,Philippe Grosjean
+058066.html,[Rd] Assignment of individual values to data frame columns:	intentional or unintentional behavior?,58066,Gabor Grothendieck
+058102.html,[Rd] Adding Tcl source to an R package,58102,Gabor Grothendieck
+058112.html,[Rd] c.POSIXct,58112,Gabor Grothendieck
+058116.html,[Rd] accessing tcl variables within R and tcl,58116,Gabor Grothendieck
+058142.html,[Rd] c.POSIXct,58142,Gabor Grothendieck
+058145.html,[Rd] c.POSIXct,58145,Gabor Grothendieck
+058167.html,[Rd] c.POSIXct,58167,Gabor Grothendieck
+058169.html,[Rd] c.POSIXct,58169,Gabor Grothendieck
+058172.html,[Rd] c.POSIXct,58172,Gabor Grothendieck
+058187.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58187,Gabor Grothendieck
+058211.html,[Rd] No RTFM?,58211,Gabor Grothendieck
+058214.html,[Rd] No RTFM?,58214,Gabor Grothendieck
+058239.html,[Rd] No RTFM?,58239,Gabor Grothendieck
+058241.html,[Rd] No RTFM?,58241,Gabor Grothendieck
+058247.html,[Rd] nls.control(warnOnly = TRUE) gives error rather than warning,58247,Gabor Grothendieck
+058248.html,[Rd] nls.control(warnOnly = TRUE) gives error rather than	warning,58248,Gabor Grothendieck
+058319.html,[Rd] reliability of R-Forge? (moving to r-Devel),58319,Gabor Grothendieck
+058061.html,[Rd] Issue with prediction from lm object with poly,58061,Ulrike Gr&#246;mping
+058065.html,[Rd] Assignment of individual values to data frame columns: intentional or unintentional behavior?,58065,Ulrike Gr&#246;mping
+058067.html,[Rd] Assignment of individual values to data frame columns: intentional or unintentional behavior?,58067,Ulrike Gr&#246;mping
+058177.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58177,Kasper Daniel Hansen
+058283.html,[Rd] Speeding up matrix multiplies,58283,Kasper Daniel Hansen
+058094.html,[Rd] suggestion for ?factor,58094, (Ted Harding)
+058243.html,[Rd] No RTFM?,58243, (Ted Harding)
+058252.html,[Rd] No RTFM?,58252, (Ted Harding)
+058256.html,[Rd] No RTFM?,58256, (Ted Harding)
+058273.html,[Rd] small syntax suggestion,58273, (Ted Harding)
+058291.html,[Rd] small syntax suggestion,58291, (Ted Harding)
+058334.html,[Rd] NEWS and readNEWS,58334,Kurt Hornik
+058216.html,[Rd] No RTFM?,58216,P J JAYNES
+058174.html,[Rd] Can you share a working example of R program aided by fast	BLAS?,58174,Paul Johnson
+058204.html,[Rd] C or Java code generation,58204,Paul Johnson
+058208.html,[Rd]  No RTFM?,58208,Paul Johnson
+058236.html,[Rd] No RTFM?,58236,Paul Johnson
+058251.html,[Rd] No RTFM?,58251,Paul Johnson
+058257.html,[Rd] No RTFM?,58257,Paul Johnson
+058337.html,[Rd] How do you make a formal &quot;feature&quot; request?,58337,Paul Johnson
+058152.html,[Rd] C or Java code generation,58152,Vyacheslav Karamov
+058153.html,[Rd] C or Java code generation,58153,Vyacheslav Karamov
+058155.html,[Rd] C or Java code generation,58155,Vyacheslav Karamov
+058165.html,[Rd] C or Java code generation,58165,Vyacheslav Karamov
+058190.html,[Rd] C or Java code generation,58190,Vyacheslav Karamov
+058221.html,[Rd] C or Java code generation,58221,Vyacheslav Karamov
+058129.html,[Rd] DetachedEval Issues,58129,Martin Kerr
+058219.html,[Rd] No RTFM?,58219,Dr. David Kirkby
+058096.html,[Rd] packages checks on OS X with 2.12 devel,58096,Max Kuhn
+058100.html,[Rd] packages checks on OS X with 2.12 devel,58100,Max Kuhn
+058213.html,[Rd] Reproducible Research task view,58213,Max Kuhn
+058087.html,[Rd] readline operate-and-get-next,58087,Rafael Laboissiere
+058090.html,[Rd] readline operate-and-get-next,58090,Rafael Laboissiere
+058092.html,[Rd] R readline not honoring RCustomCompletion,58092,Rafael Laboissiere
+058111.html,[Rd] R readline not honoring RCustomCompletion,58111,Rafael Laboissiere
+058115.html,[Rd] readline operate-and-get-next,58115,Rafael Laboissiere
+058119.html,[Rd] readline operate-and-get-next,58119,Rafael Laboissiere
+058068.html,[Rd] problem with dl tag in tools::Rd2HTML,58068,Michael Lachmann
+058070.html,[Rd] problem with dl tag in tools::Rd2HTML,58070,Michael Lachmann
+058071.html,[Rd] Assignment of individual values to data frame columns: intentional or unintentional behavior?,58071,Michael Lachmann
+058072.html,[Rd] rbind on data.frame that contains a column that is also a data.frame,58072,Michael Lachmann
+058075.html,[Rd] problem with dl tag in tools::Rd2HTML,58075,Michael Lachmann
+058055.html,[Rd] Disappearance of the file &quot;NEWS&quot;,58055,Laurent
+058224.html,"[Rd] R-devel Digest, Vol 90, Issue 20",58224,Laurent
+058245.html,"[Rd] R-devel Digest, Vol 90, Issue 20",58245,Laurent
+058329.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58329,"Liaw, Andy"
+058333.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58333,"Liaw, Andy"
+058132.html,[Rd] [R] Problems building own package (Error: &quot;package has been build before R-2.10.0&quot;),58132,Uwe Ligges
+058134.html,[Rd] [R] Problems building own package (Error: &quot;package has been build before R-2.10.0&quot;),58134,Uwe Ligges
+058099.html,[Rd] R support for 64 bit integers,58099,Thomas Lumley
+058086.html,[Rd] rbind on data.frame that contains a column that is also a data.frame,58086,Martin Maechler
+058097.html,[Rd] R support for 64 bit integers,58097,Martin Maechler
+058193.html,"[Rd] Sweave  &lt;&lt;*, showWarnings=TRUE&gt;&gt;  ?",58193,Martin Maechler
+058305.html,[Rd] save() object w/o all of the loaded environment,58305,Martin Maechler
+058316.html,[Rd] No [[&lt;-.factor(),58316,Martin Maechler
+058321.html,[Rd] RCMD CHECK and non-methods,58321,Martin Maechler
+058346.html,[Rd] No [[&lt;-.factor(),58346,Martin Maechler
+058339.html,[Rd] a small suggestion for improving the building of packages,58339,Kyle Matoba
+058340.html,[Rd] Surprising behavior of Negate(),58340,Olaf Mersmann
+058124.html,[Rd] parent.frame(1) of a S4 method is not a calling	environment.,58124,Martin Morgan
+058058.html,[Rd] Disappearance of the file &quot;NEWS&quot;,58058,Duncan Murdoch
+058069.html,[Rd] problem with dl tag in tools::Rd2HTML,58069,Duncan Murdoch
+058073.html,[Rd] problem with dl tag in tools::Rd2HTML,58073,Duncan Murdoch
+058078.html,[Rd] [R-SIG-Mac] Question about line type in contour() function (R 2.11.1),58078,Duncan Murdoch
+058079.html,[Rd] [R-SIG-Mac] Question about line type in contour() function (R 2.11.1),58079,Duncan Murdoch
+058127.html,[Rd] parent.frame(1) of a S4 method is not a calling	environment.,58127,Duncan Murdoch
+058175.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58175,Duncan Murdoch
+058178.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58178,Duncan Murdoch
+058180.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58180,Duncan Murdoch
+058182.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58182,Duncan Murdoch
+058194.html,"[Rd] Sweave  &lt;&lt;*, showWarnings=TRUE&gt;&gt;  ?",58194,Duncan Murdoch
+058348.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58348,Duncan Murdoch
+058349.html,[Rd] S4 Method Rd Warning,58349,Duncan Murdoch
+058350.html,[Rd] introspective capabilities,58350,Duncan Murdoch
+058074.html,[Rd] gpar fill and transparency on devices,58074,Paul Murrell
+058091.html,[Rd] gpar fill and transparency on devices,58091,Paul Murrell
+058084.html,[Rd] iteration count in optim(),58084,Prof. John C Nash
+058226.html,[Rd] Speed improvement to evalList,58226,Radford Neal
+058262.html,"[Rd] Speed improvement to PROTECT, UNPROTECT, etc.",58262,Radford Neal
+058264.html,[Rd] Speed improvement to evalList,58264,Radford Neal
+058270.html,[Rd] Speeding up sum and prod,58270,Radford Neal
+058275.html,[Rd] Speeding up matrix multiplies,58275,Radford Neal
+058278.html,[Rd] Speeding up matrix multiplies,58278,Radford Neal
+058282.html,[Rd] Speeding up matrix multiplies,58282,Radford Neal
+058302.html,"[Rd] Correction to section 1.1.2 of R Internals doc, on NAMED",58302,Radford Neal
+058313.html,[Rd] Speeding up transpose,58313,Radford Neal
+058326.html,[Rd] Speeding up transpose,58326,Radford Neal
+058255.html,[Rd] No RTFM?,58255,Sean O'Riordain
+058149.html,[Rd] One possible cause for incorrect symbols in X11() output,58149,Jari Oksanen
+058158.html,[Rd] One possible cause for incorrect symbols in X11() output,58158,Jari Oksanen
+058121.html,[Rd] Disable interaction in R to use with Rserve,58121,Jeroen Ooms
+058336.html,[Rd] Speeding up transpose,58336,Herv&#233; Pag&#232;s
+058215.html,[Rd] Reproducible Research task view,58215,Roger D. Peng
+058106.html,[Rd] Adding Tcl source to an R package,58106,Andrew Piskorski
+058060.html,[Rd] License for Rembedded.h,58060,Tom Quarendon
+058062.html,[Rd] License for Rembedded.h,58062,Tom Quarendon
+058328.html,[Rd] introspective capabilities,58328,Christophe Rhodes
+058098.html,[Rd] packages checks on OS X with 2.12 devel,58098,Prof Brian Ripley
+058110.html,[Rd] R readline not honoring RCustomCompletion,58110,Prof Brian Ripley
+058113.html,[Rd] readline operate-and-get-next,58113,Prof Brian Ripley
+058128.html,[Rd] prompt () and backticks for default arguments,58128,Prof Brian Ripley
+058140.html,[Rd] 32/64-bit Windows builds for R-devel,58140,Prof Brian Ripley
+058148.html,[Rd] One possible cause for incorrect symbols in X11() output,58148,Prof Brian Ripley
+058157.html,[Rd] One possible cause for incorrect symbols in X11() output,58157,Prof Brian Ripley
+058160.html,[Rd] One possible cause for incorrect symbols in X11() output,58160,Prof Brian Ripley
+058299.html,[Rd] require is to suggests as what is to imports?,58299,Prof Brian Ripley
+058304.html,[Rd] require is to suggests as what is to imports?,58304,Prof Brian Ripley
+058332.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58332,Prof Brian Ripley
+058343.html,[Rd] Including C Code for Tcl and Tk in an R package,58343,Prof Brian Ripley
+058344.html,[Rd] No [[&lt;-.factor(),58344,Prof Brian Ripley
+058297.html,[Rd] save() object w/o all of the loaded environment,58297,"Roebuck,Paul L"
+058232.html,[Rd] How do you make a formal &quot;feature&quot; request?,58232,Barry Rowlingson
+058263.html,[Rd] small syntax suggestion,58263,Barry Rowlingson
+058271.html,[Rd] small syntax suggestion,58271,Barry Rowlingson
+058292.html,[Rd] small syntax suggestion,58292,Barry Rowlingson
+058294.html,[Rd] No RTFM?,58294,Barry Rowlingson
+058228.html,[Rd] How do you make a formal &quot;feature&quot; request?,58228,Jeff Ryan
+058122.html,[Rd] parent.frame(1) of a S4 method is not a calling environment.,58122,Vitaly S.
+058125.html,[Rd] parent.frame(1) of a S4 method is not a calling	environment.,58125,Vitaly S.
+058136.html,[Rd] parent.frame(1) of a S4 method is not a calling	environment.,58136,Vitaly S.
+058138.html,[Rd] parent.frame(1) of a S4 method is not a calling	environment.,58138,Vitaly S.
+058185.html,[Rd] c.POSIXct,58185,Vitaly S.
+058176.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58176,Marc Schwartz
+058195.html,[Rd] C or Java code generation,58195,Sharpie
+058197.html,[Rd] C or Java code generation,58197,Sharpie
+058203.html,[Rd] Rserve graphics output [was Re: C or Java code generation],58203,Sharpie
+058233.html,[Rd] How do you make a formal &quot;feature&quot; request?,58233,Sharpie
+058295.html,[Rd] including DLL in a package,58295,Sharpie
+058183.html,[Rd] Does anyone use Sweave (RweaveLatex) option &quot;expand=FALSE&quot;?,58183,Matt Shotwell
+058205.html,[Rd] Rserve graphics output [was Re: C or Java code generation],58205,Matt Shotwell
+058159.html,[Rd] One possible cause for incorrect symbols in X11() output,58159,Gavin Simpson
+058161.html,[Rd] One possible cause for incorrect symbols in X11() output,58161,Gavin Simpson
+058238.html,[Rd] How do you make a formal &quot;feature&quot; request?,58238,Gavin Simpson
+058259.html,[Rd] No RTFM?,58259,Gavin Simpson
+058315.html,[Rd] Decision tree and factor variables,58315,Gavin Simpson
+058293.html,[Rd] How do you make a formal &quot;feature&quot; request?,58293,Greg Snow
+058296.html,[Rd] small syntax suggestion,58296,Greg Snow
+058345.html,[Rd] S4 Method Rd Warning,58345,Dario Strbenac
+058357.html,[Rd] R and Epi Info,58357,"Sullivan, Kevin M"
+058200.html,[Rd] Does anyone use Sweave (RweaveLatex)	option	&quot;expand=FALSE&quot;?,58200,Terry Therneau
+058131.html,[Rd] Problems building own package (Error: &quot;package has been build	before R-2.10.0&quot;),58131,Janko Thyson
+058133.html,[Rd] [R] Problems building own package (Error: &quot;package has	been build before R-2.10.0&quot;),58133,Janko Thyson
+058139.html,[Rd] [R] Problems building own package (Error: &quot;package hasbeen	build before R-2.10.0&quot;),58139,Janko Thyson
+058141.html,[Rd] Automatically retrieve correct collation,58141,Janko Thyson
+058151.html,[Rd] Automatically retrieve correct collation,58151,Janko Thyson
+058085.html,[Rd] rbind on data.frame that contains a column that is also a data.frame,58085,Heinz Tuechler
+058135.html,[Rd] DetachedEval Issues,58135,Simon Urbanek
+058144.html,[Rd] c.POSIXct,58144,Simon Urbanek
+058198.html,[Rd] C or Java code generation,58198,Simon Urbanek
+058202.html,[Rd] segfault in embedded r after call to repldlldo1,58202,Simon Urbanek
+058207.html,[Rd] Rserve graphics output [was Re: C or Java code generation],58207,Simon Urbanek
+058209.html,[Rd] C or Java code generation,58209,Simon Urbanek
+058210.html,[Rd] Rserve graphics output [was Re: C or Java code generation],58210,Simon Urbanek
+058235.html,"[Rd] R-devel Digest, Vol 90, Issue 20",58235,Simon Urbanek
+058250.html,"[Rd] R-devel Digest, Vol 90, Issue 20",58250,Simon Urbanek
+058269.html,[Rd] Handle RAWSXP in inspect.c:typename(),58269,Simon Urbanek
+058272.html,[Rd] Speeding up sum and prod,58272,Simon Urbanek
+058279.html,[Rd] Internal state indicating if a data object has NAs/no	NAs/not sure (Was: Re: Speeding up matrix multiplies),58279,Simon Urbanek
+058280.html,[Rd] Speeding up matrix multiplies,58280,Simon Urbanek
+058324.html,[Rd] RCMD CHECK and non-methods,58324,Simon Urbanek
+058080.html,[Rd] on the optim function,58080,Ravi Varadhan
+058217.html,[Rd] No RTFM?,58217,Ravi Varadhan
+058101.html,[Rd] Adding Tcl source to an R package,58101,Adrian Waddell
+058103.html,[Rd] Adding Tcl source to an R package,58103,Adrian Waddell
+058114.html,[Rd] accessing tcl variables within R and tcl,58114,Adrian Waddell
+058341.html,[Rd] Including C Code for Tcl and Tk in an R package,58341,Adrian Waddell
+058354.html,[Rd] Including C Code for Tcl and Tk in an R package,58354,Adrian Waddell
+058137.html,[Rd] parent.frame(1) of a S4 method is not a calling	environment.,58137,Hadley Wickham
+058230.html,[Rd] How do you make a formal &quot;feature&quot; request?,58230,Hadley Wickham
+058231.html,[Rd] No RTFM?,58231,Hadley Wickham
+058240.html,[Rd] No RTFM?,58240,Hadley Wickham
+058298.html,[Rd] require is to suggests as what is to imports?,58298,Hadley Wickham
+058306.html,[Rd] require is to suggests as what is to imports?,58306,Hadley Wickham
+058307.html,[Rd] require is to suggests as what is to imports?,58307,Hadley Wickham
+058308.html,[Rd] require is to suggests as what is to imports?,58308,Hadley Wickham
+058331.html,[Rd] NEWS and readNEWS,58331,Hadley Wickham
+058347.html,[Rd] NEWS and readNEWS,58347,Hadley Wickham
+058227.html,[Rd] How do you make a formal &quot;feature&quot; request?,58227,Donald Winston
+058246.html,[Rd] Handle RAWSXP in inspect.c:typename(),58246,Rory Winston
+058277.html,[Rd] Handle RAWSXP in inspect.c:typename(),58277,Rory Winston
+058206.html,[Rd] No RTFM?,58206,Kevin Wright
+058218.html,[Rd] Reproducible Research task view,58218,Achim Zeileis
+058249.html,[Rd] fortune? (was: Re: How do you make a formal &quot;feature&quot; request?),58249,Achim Zeileis
+058088.html,[Rd] onClose - device notification,58088,_
+058064.html,[Rd] gpar fill and transparency on devices,58064,baptiste auguie
+058076.html,[Rd] gpar fill and transparency on devices,58076,baptiste auguie
+058147.html,[Rd] Automatically retrieve correct collation,58147,baptiste auguie
+058089.html,[Rd] Call R function from Java,58089,bytecode
+058287.html,[Rd] R forge : svn + ssh without key,58287,christophe.genolini
+058314.html,[Rd] Decision tree and factor variables,58314,clusty
+058281.html,[Rd] No RTFM?,58281,Mark.Bravington at csiro.au
+058303.html,[Rd] RCMD CHECK and non-methods,58303,Mark.Bravington at csiro.au
+058095.html,[Rd] suggestion for ?factor,58095,peter dalgaard
+058150.html,[Rd] One possible cause for incorrect symbols in X11() output,58150,peter dalgaard
+058162.html,[Rd] One possible cause for incorrect symbols in X11() output,58162,peter dalgaard
+058163.html,[Rd] One possible cause for incorrect symbols in X11() output,58163,peter dalgaard
+058265.html,[Rd] adding a built-in drop.levels option for subset() in 2.12 ?,58265,peter dalgaard
+058330.html,[Rd] Is it safe not to coerce matrices with as.double() in .C()?,58330,peter dalgaard
+058109.html,[Rd]  possible memory leak in e1071 svm,58109,sgerber
+058266.html,[Rd] Speed improvement to evalList,58266,luke at stat.uiowa.edu
+058267.html,"[Rd] Speed improvement to PROTECT, UNPROTECT, etc.",58267,luke at stat.uiowa.edu
+058353.html,[Rd] R with multiple processors,58353,luke at stat.uiowa.edu
+058310.html,[Rd] Trying to configure R to use acml_mp,58310,szembek
+058311.html,[Rd] Trying to configure R to use acml_mp,58311,szembek
+058261.html,[Rd] small syntax suggestion,58261,ivo welch
+058290.html,[Rd] small syntax suggestion,58290,ivo welch
+058107.html,[Rd] Error during wrapup: Bootstrapping failed,58107,jing hua zhao

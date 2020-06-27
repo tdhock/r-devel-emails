@@ -1,0 +1,52 @@
+link,Subject,id,author
+018459.html,INSTALL,18459,Peter Dalgaard BSA
+018463.html,R on Linux/Alpha ?,18463,Peter Dalgaard BSA
+018468.html,ppoints,18468,Peter Dalgaard BSA
+018480.html,diag() losing dimnames,18480,Peter Dalgaard BSA
+018484.html,"R-beta: A new version of R-0.62.3 for Win3.1/Win32s, Win95 and WinNT",18484,Peter Dalgaard BSA
+018491.html,--save and memory,18491,Peter Dalgaard BSA
+018492.html,--save and memory,18492,Peter Dalgaard BSA
+018493.html,Histograms: default breaks,18493,Peter Dalgaard BSA
+018495.html,&quot;Segmentation Fault - core dumped&quot; in R 0.62.3,18495,Peter Dalgaard BSA
+018483.html,compiling 0.62.3 for SunOS 4.1.4 and Solaris 2.6,18483,Ben Bolker
+018501.html,adding math(s) symbols to src/main/plotmath.c,18501,Ben Bolker
+018487.html,R-beta: (0+0i)^2,18487,U-E59264-Osman F Buyukisik
+018476.html,diag() losing dimnames,18476,Paul Gilbert
+018478.html,diag() losing dimnames,18478,Paul Gilbert
+018494.html,&quot;Segmentation Fault - core dumped&quot; in R 0.62.3,18494,Paul Gilbert
+018496.html,&quot;Segmentation Fault - core dumped&quot; in R 0.62.3,18496,Paul Gilbert
+018500.html,legend,18500,Paul Gilbert
+018503.html,legend,18503,Paul Gilbert
+018504.html,&quot;tsp&lt;-&quot;,18504,Paul Gilbert
+018507.html,&quot;tsp&lt;-&quot;,18507,Paul Gilbert
+018470.html,a nasty error,18470,Peter Holzer
+018457.html,Latin Fonts In Graphics,18457,Ross Ihaka
+018498.html,"format(numericmatrix, ...) : proposal for a change",18498,Friedrich Leisch
+018489.html,--save and memory,18489,Thomas Lumley
+018465.html,{g}lm coefficients labeling etc. [was &quot;R0.62.3 problems&quot;],18465,Martin Maechler
+018467.html,ppoints,18467,Martin Maechler
+018472.html,a nasty error  --&gt; patch to seq.R,18472,Martin Maechler
+018473.html,a nasty error  --&gt; patch to seq.R,18473,Martin Maechler
+018474.html,a nasty error  --&gt; patch to seq.R  [nr. 2],18474,Martin Maechler
+018475.html,R help Web page,18475,Martin Maechler
+018479.html,diag() losing dimnames,18479,Martin Maechler
+018481.html,"seq  --&gt; Dealing with bugs in R, etc.",18481,Martin Maechler
+018486.html,wrong postings to R-announce...,18486,Martin Maechler
+018488.html,R-beta: (0+0i)^2,18488,Martin Maechler
+018497.html,"format(numericmatrix, ...) : proposal for a change",18497,Martin Maechler
+018502.html,0.62.3 &amp; pre0.63: different kinds of NULL objects..,18502,Martin Maechler
+018505.html,Blocking the itmex.com spam..,18505,Martin Maechler
+018506.html,&quot;tsp&lt;-&quot;,18506,Martin Maechler
+018485.html,"R-beta: A new version of R-0.62.3 for Win3.1/Win32s, Win95 and WinNT",18485,Guido Masarotto
+018464.html,R on Linux/Alpha ?,18464,Nassib Nassar
+018490.html,--save and memory,18490,Martyn Plummer
+018469.html,ppoints,18469,Prof Brian Ripley
+018482.html,"seq  --&gt; Dealing with bugs in R, etc.",18482,Prof Brian Ripley
+018499.html,"format(numericmatrix, ...) : proposal for a change",18499,Prof Brian Ripley
+018461.html,INSTALL,18461,Prof Brian D Ripley
+018477.html,diag() losing dimnames,18477,Jim Robison-Cox
+018471.html,Some link errors on the R for Windows documentation,18471,Andrea Rossetti
+018458.html,INSTALL,18458,Bill Simpson
+018460.html,plot symbols,18460,Bill Simpson
+018466.html,ppoints,18466,Bill Simpson
+018462.html,R on Linux/Alpha ?,18462,Pierre TUFFERY

@@ -1,0 +1,530 @@
+link,Subject,id,author
+034880.html,[Rd] R and Java,34880,Vasundhara Akkineni
+035118.html,[Rd] Display a plot in an applet.,35118,Vasundhara Akkineni
+034940.html,[Rd] Gunilla aetiology,34940,Ukko Applebaum
+034889.html,[Rd] R crashes for large formulas in lm() (PR#8180),34889,B.Rowlingson at lancaster.ac.uk
+035203.html,[Rd] calling fortran from C,35203,Charles C. Berry
+035214.html,[Rd] md5sum for R-2.2.0-win32.exe ??,35214,Charles C. Berry
+035317.html,[Rd] unexpected '[&lt;-.data.frame' result,35317,Charles C. Berry
+035322.html,[Rd] unexpected '[&lt;-.data.frame' result,35322,Charles C. Berry
+035296.html,[Rd] error from make: gcc -shared -L/usr/local/lib64 ... relocation R_X86_64_32...,35296,Dick Beyer
+035301.html,[Rd] error from make: gcc -shared -L/usr/local/lib64 ... relocation R_X86_64_32...,35301,Dick Beyer
+034919.html,[Rd] How do I install rbugs ? (PR#8183),34919,Roger Bivand
+035001.html,[Rd] Manual page example of plot.window needs fixing,35001,Roger Bivand
+034955.html,[Rd] windows/g95 peculiarity,34955,Joel Bremson
+035058.html,"[Rd] expm1, R-2.2.0 and Windows",35058,G&#246;ran Brostr&#246;m
+035061.html,"[Rd] expm1, R-2.2.0 and Windows",35061,G&#246;ran Brostr&#246;m
+035198.html,[Rd] calling fortran from C,35198,James Bullard
+035287.html,[Rd] native logistic regression,35287,James Bullard
+035057.html,[Rd] R in Spanish?,35057,Kenneth Cabrera
+035134.html,[Rd]  gfortran Makefile for windows,35134,Fran&#231;ois-Xavier Coudert
+035136.html,[Rd] gfortran Makefile for windows,35136,Fran&#231;ois-Xavier Coudert
+034871.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages()	badly?,34871,Peter Dalgaard
+034886.html,[Rd] R crashes for large formulas in lm() (PR#8180),34886,Peter Dalgaard
+034899.html,[Rd] Ad: Re:  R crashes for large formulas in lm() (PR#8180),34899,Peter Dalgaard
+035059.html,[Rd] R in Spanish?,35059,Peter Dalgaard
+035067.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35067,Peter Dalgaard
+035069.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35069,Peter Dalgaard
+035073.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35073,Peter Dalgaard
+035083.html,[Rd] Hiccup in installing R 2.2.0,35083,Peter Dalgaard
+035088.html,"[Rd] drop() and &quot;[&quot;(), and apply()",35088,Peter Dalgaard
+035092.html,[Rd] BIC doesn't work for glm(family=binomial()) (PR#8208),35092,Peter Dalgaard
+035114.html,"[Rd] [R-gui]  R GUI considerations (was: R, Wine,	and multi-threadedness)",35114,Peter Dalgaard
+035130.html,[Rd] mauchly.test (instead of mauchley.test)  ?,35130,Peter Dalgaard
+035202.html,[Rd] calling fortran from C,35202,Peter Dalgaard
+035220.html,[Rd] md5sum for R-2.2.0-win32.exe ??,35220,Peter Dalgaard
+035243.html,[Rd] Single vs. dual CPUs,35243,Peter Dalgaard
+035259.html,[Rd] Rgnome depends on obsolete components libglade/libxml	(PR#8247),35259,Peter Dalgaard
+035299.html,[Rd] error from make: gcc -shared -L/usr/local/lib64 ...	relocation R_X86_64_32...,35299,Peter Dalgaard
+035300.html,[Rd] error from make: gcc -shared -L/usr/local/lib64 ...	relocation R_X86_64_32...,35300,Peter Dalgaard
+035313.html,[Rd] R patched for Windows missing,35313,Peter Dalgaard
+035318.html,[Rd] unexpected '[&lt;-.data.frame' result,35318,Peter Dalgaard
+035335.html,[Rd] Strange behaviour of type conversion (PR#8256),35335,Peter Dalgaard
+035356.html,[Rd] [R] unvectorized option for outer(),35356,Peter Dalgaard
+035085.html,[Rd] typo in R FAQ: sources.list entry for debian 'stable' backports,35085,Dan Davison
+035087.html,"[Rd] drop() and &quot;[&quot;(), and apply()",35087,Dan Davison
+035032.html,[Rd] Installing R-2.2.0 package,35032,"Dean, David P"
+035040.html,[Rd] Installing R-2.2.0 package,35040,"Dean, David P"
+035052.html,[Rd] Installing R-2.2.0 package,35052,"Dean, David P"
+035295.html,[Rd] download problem: Windows binaries - patched/devel versions,35295,Latchezar Dimitrov
+035096.html,"[Rd] [R-gui]    R GUI considerations (was: R, Wine, and multi-threadedness)",35096,Dirk Eddelbuettel
+035267.html,[Rd] download problem: Windows binaries - patched/devel versions,35267,P Ehlers
+035269.html,[Rd] Problem with Rchtml.dll in R-2.3.0dev-win32.exe?,35269,P Ehlers
+035276.html,[Rd] download problem: Windows binaries - patched/devel versions,35276,P Ehlers
+035354.html,[Rd] Yates' correction for continuity in chisq.test (PR#8265),35354,P Ehlers
+035155.html,[Rd] on ptr_R_WriteErrConsole,35155,Byron Ellis
+035181.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35181,Byron Ellis
+035225.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35225,Byron Ellis
+035191.html,[Rd] read.fwf doesn't work with header = TRUE (PR#8226),35191,Emmanuel.Paradis at mpl.ird.fr
+035239.html,[Rd] read.fwf doesn't work with header = TRUE (PR#8226),35239,Emmanuel.Paradis at mpl.ird.fr
+035257.html,[Rd] read.fwf doesn't work with header = TRUE (PR#8226),35257,Emmanuel.Paradis at mpl.ird.fr
+034948.html,[Rd] svn version number,34948,Seth Falcon
+035149.html,"[Rd] tryCatch, simpleCondition question",35149,Seth Falcon
+035221.html,[Rd] UML + R,35221,Seth Falcon
+034873.html,[Rd] vector labels are not permuted properly in a call to sort() (R	2.1),34873,Greg Finak
+035177.html,[Rd] is.na&lt;- problem,35177,Rich FitzJohn
+034908.html,[Rd] Dont loose your chance list,34908,Kara Floyd
+035108.html,"[Rd] [R-gui]      R GUI considerations (was: R, Wine,	and	multi-threadedness)",35108,John Fox
+034859.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi	reports	errors,34859,Friedrich.Leisch at tuwien.ac.at
+034860.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi	reports	errors,34860,Friedrich.Leisch at tuwien.ac.at
+034975.html,[Rd] Catching warning and error output,34975,Thomas Friedrichsmeier
+034976.html,[Rd] Catching warning and error output,34976,Thomas Friedrichsmeier
+034994.html,[Rd] Catching warning and error output,34994,Thomas Friedrichsmeier
+034997.html,[Rd] Catching warning and error output,34997,Thomas Friedrichsmeier
+035097.html,"[Rd] [R-gui]    R GUI considerations (was: R, Wine,	and multi-threadedness)",35097,Thomas Friedrichsmeier
+035107.html,[Rd] [R-gui]      R GUI considerations,35107,Thomas Friedrichsmeier
+035123.html,[Rd] RFC: API to allow identification of warnings and errors in the	output stream,35123,Thomas Friedrichsmeier
+035128.html,[Rd] RFC: API to allow identification of warnings and errors in	the output stream,35128,Thomas Friedrichsmeier
+035138.html,[Rd] on ptr_R_WriteErrConsole (was: Re: RFC: API to allow	identification of warnings and errors in the output stream),35138,Thomas Friedrichsmeier
+035144.html,[Rd] on ptr_R_WriteErrConsole,35144,Thomas Friedrichsmeier
+035197.html,"[Rd] [R-gui]   R GUI considerations (was: R, Wine,	and multi-threadedness)",35197,Thomas Friedrichsmeier
+035210.html,"[Rd]  [R-gui] R GUI considerations (was: R, Wine, 	and multi-threadedness)",35210,Thomas Friedrichsmeier
+035306.html,[Rd] pb with dyn.load,35306,Gilles GUILLOT
+035307.html,[Rd] pb with dyn.load - fortran code now attached,35307,Gilles GUILLOT
+035323.html,[Rd] pb with dyn.load - fortran code now attached,35323,Gilles GUILLOT
+034983.html,[Rd] bug loading libraries with winXP and 2.2.0 but not 2.1.1 (PR#8200),34983,Robert Gentleman
+035190.html,[Rd] numerical issues in chisq.test(simulate=TRUE) (PR#8224),35190,Simone Giannerini
+035036.html,[Rd] Installing R-2.2.0 package,35036,Paul Gilbert
+035044.html,[Rd] Installing R-2.2.0 package,35044,Paul Gilbert
+035075.html,[Rd] checking S3 generic/method consistency,35075,Paul Gilbert
+035111.html,[Rd] checking S3 generic/method consistency,35111,Paul Gilbert
+034915.html,[Rd] Will these Shares Go higher?,34915,Jane Giles
+035148.html,[Rd] Why no .Machine$sizeof.double?,35148,Earl F. Glynn
+035156.html,[Rd] Why no .Machine$sizeof.double?,35156,Earl F. Glynn
+035158.html,[Rd] Why no .Machine$sizeof.double?,35158,Earl F. Glynn
+035250.html,"[Rd] Coloring leaves, twigs and labels in plot.dendrogram()",35250,Walton A. Green
+034961.html,[Rd] Project suggestion: Interface between R and graphic devices,34961,Philippe Grosjean
+035078.html,"[Rd] R GUI considerations (was: R, Wine, and multi-threadedness)",35078,Philippe Grosjean
+035080.html,[Rd] [R-gui]  R GUI considerations,35080,Philippe Grosjean
+035094.html,[Rd] [R-gui] R GUI considerations,35094,Philippe Grosjean
+035099.html,[Rd] [R-gui]    R GUI considerations,35099,Philippe Grosjean
+035151.html,[Rd] [R-gui]    R GUI considerations,35151,Philippe Grosjean
+035124.html,[Rd] [R-gui]      R GUI considerations,35124,Philippe Grosjean
+035126.html,[Rd] [R-gui]      R GUI considerations,35126,Philippe Grosjean
+035189.html,[Rd] [R-gui] R GUI considerations,35189,Philippe Grosjean
+035246.html,[Rd] [R-gui]  R GUI considerations,35246,Philippe Grosjean
+035247.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35247,Philippe Grosjean
+034858.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi reports	errors,34858,Gabor Grothendieck
+034861.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi reports	errors,34861,Gabor Grothendieck
+034935.html,[Rd] svn version number,34935,Gabor Grothendieck
+034939.html,[Rd] svn version number,34939,Gabor Grothendieck
+034946.html,[Rd] svn version number,34946,Gabor Grothendieck
+034954.html,[Rd] svn version number,34954,Gabor Grothendieck
+035079.html,"[Rd] R GUI considerations (was: R, Wine, and multi-threadedness)",35079,Gabor Grothendieck
+035082.html,[Rd] [R-gui]  R GUI considerations,35082,Gabor Grothendieck
+035174.html,[Rd] is.na&lt;- problem,35174,Gabor Grothendieck
+035179.html,[Rd] is.na&lt;- problem,35179,Gabor Grothendieck
+035213.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35213,Gabor Grothendieck
+035223.html,[Rd] UML + R,35223,Gabor Grothendieck
+035236.html,[Rd] Problems with example(Grid) in grid package,35236,Gabor Grothendieck
+035278.html,[Rd] Problems with example(Grid) in grid package,35278,Gabor Grothendieck
+035305.html,[Rd] R patched for Windows missing,35305,Gabor Grothendieck
+035308.html,[Rd] Microsoft help files,35308,Gabor Grothendieck
+035346.html,[Rd] [R] unvectorized option for outer(),35346,Gabor Grothendieck
+035363.html,[Rd] [R] unvectorized option for outer(),35363,Gabor Grothendieck
+035265.html,[Rd] R interpreter in Java/R plugin or RCP for Eclipse,35265,"Ha, Vu (MN65)"
+034893.html,[Rd] Ad: Re:  R crashes for large formulas in lm() (PR#8180),34893,Hallgeir.Grinde at elkem.no
+034896.html,[Rd] Ad: Re:  R crashes for large formulas in lm() (PR#8180),34896,Hallgeir.Grinde at elkem.no
+034903.html,[Rd] Ad: Re: Ad: Re: R crashes for large formulas in lm() (PR#8180),34903,Hallgeir.Grinde at elkem.no
+035171.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35171,Jeffrey J. Hallman
+035173.html,"[Rd] [R-gui]  R GUI considerations (was: R, Wine,	and multi-threadedness)",35173,Jeffrey J. Hallman
+035209.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35209,Jeffrey J. Hallman
+035110.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35110,Richard Haney
+035150.html,[Rd] cross-compiling tools,35150,Kasper Daniel Hansen
+035182.html,[Rd] cross-compiling tools,35182,Kasper Daniel Hansen
+035244.html,"[Rd] [R-gui]  R GUI considerations (was: R, Wine,	and multi-threadedness)",35244,Kasper Daniel Hansen
+035176.html,[Rd] is.na&lt;- problem,35176, (Ted Harding)
+035121.html,[Rd] Embedded R in C,35121,NGUYEN Truong Hoan
+035358.html,[Rd] (PR#7495) Function Body / Formals Bug,35358,Hong.Ooi at iag.com.au
+034986.html,[Rd] 'R CMD check' gets apparently confused by '%' (PR#8198),34986,Kurt Hornik
+035086.html,[Rd] checking S3 generic/method consistency,35086,Kurt Hornik
+035347.html,[Rd] model.response() as a generic function?,35347,Kosuke Imai
+035115.html,[Rd] Make problem (PR#8210),35115,JHZhang at mdanderson.org
+035215.html,[Rd] Error in building package indices,35215,"Jain, Nitin"
+035242.html,[Rd] Error in building package indices,35242,"Jain, Nitin"
+034901.html,[Rd] vector labels are not permuted properly in a call to	sort() (R 2.1),34901,David James
+035208.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35208,Jeffrey.J.Hallman at frb.gov
+035161.html,[Rd] can't start csh (scripts) (PR#8220),35161,Jens.Gloeckler at math.uni-giessen.de
+035205.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35205,Walter Johnston
+034887.html,[Rd] Fwd:  R and Java,34887,Laurent Jourdren
+034952.html,[Rd] optim warning message. (PR#8186),34952,KKIII at Indiana.Edu
+034930.html,[Rd] Building packages on Windows fails,34930,Peter Kleiweg
+034934.html,[Rd] Building packages on Windows fails,34934,Peter Kleiweg
+034936.html,[Rd] Links to stylesheet are broken,34936,Peter Kleiweg
+034941.html,[Rd] Building packages on Windows fails,34941,Peter Kleiweg
+035175.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine, and multi-threadedness)",35175,Peter Kleiweg
+035196.html,"[Rd] [R-gui]   R GUI considerations (was: R, Wine, and multi-threadedness)",35196,Peter Kleiweg
+035238.html,"[Rd] [R-gui]  R GUI considerations (was: R, Wine, and multi-threadedness)",35238,Peter Kleiweg
+035249.html,[Rd] [R-gui]  R GUI considerations,35249,Peter Kleiweg
+035333.html,[Rd] Strange behaviour of type conversion (PR#8256),35333,Peter Kleiweg
+034883.html,[Rd]  R crashes for large formulas in lm() (PR#8180),34883,Ken Knoblauch
+034884.html,[Rd]  R crashes for large formulas in lm() (PR#8180),34884,Ken Knoblauch
+035326.html,[Rd] do_optimhess: ndeps parscale,35326,Kasper Kristensen
+034957.html,[Rd] Project suggestion: Interface between R and graphic devices,34957,Knut Krueger
+034959.html,[Rd] Project suggestion: Interface between R and graphic devices,34959,Knut Krueger
+034960.html,[Rd] Project suggestion: Interface between R and graphic devices,34960,Knut Krueger
+034963.html,[Rd] Project suggestion: Interface between R and graphic devices,34963,Knut Krueger
+034972.html,[Rd] Project suggestion: Interface between R and graphic devices,34972,Knut Krueger
+034988.html,[Rd] 8 char labels in read.spss,34988,Knut Krueger
+035004.html,[Rd] 8 char labels in read.spss,35004,Knut Krueger
+035005.html,[Rd] 8 char labels in read.spss,35005,Knut Krueger
+035006.html,[Rd] 8 char labels in read.spss,35006,Knut Krueger
+035014.html,[Rd] SPSS I/O dll  was:  8 char labels in read.spss,35014,Knut Krueger
+035016.html,[Rd] SPSS I/O dll  was:  8 char labels in read.spss,35016,Knut Krueger
+035066.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35066,Rainer M Krug
+035068.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35068,Rainer M Krug
+035071.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35071,Rainer M Krug
+035072.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35072,Rainer M Krug
+035109.html,[Rd] Control R from another program (written in Delphi),35109,Rainer M. Krug
+035165.html,[Rd] Socks under R,35165,Rainer M. Krug
+035188.html,[Rd] Socks under R,35188,Rainer M. Krug
+035288.html,[Rd] How to uninstall R when installed with &quot;make install&quot;,35288,Rainer M. Krug
+034951.html,[Rd] FFT,34951,Jennifer Lai
+035019.html,[Rd] additional comments on building R with PGI compiler,35019,Jennifer Lai
+035029.html,[Rd] Building R on Windows,35029,Jennifer Lai
+035054.html,[Rd] Building R on Windows,35054,Jennifer Lai
+035056.html,[Rd] Building R on Windows,35056,Jennifer Lai
+035292.html,[Rd] performance of nchar,35292,Jennifer Lai
+034864.html,[Rd] interpolation using akima (PR#8174),34864,Renaud Lancelot
+034912.html,[Rd] Fwd:  R and Java,34912,Duncan Temple Lang
+034928.html,[Rd] .Net Framework Wrapper,34928,Duncan Temple Lang
+035089.html,"[Rd] [R-gui]  R GUI considerations (was: R, Wine,	and multi-threadedness)",35089,Duncan Temple Lang
+035152.html,[Rd] [R-gui]      R GUI considerations,35152,Duncan Temple Lang
+035125.html,[Rd] [R-gui]      R GUI considerations,35125,Duncan Temple Lang
+035263.html,[Rd] Rgnome depends on obsolete components	libglade/libxml	(PR#8247),35263,Duncan Temple Lang
+035351.html,[Rd] model.response() as a generic function?,35351,Olivia Lau
+035030.html,[Rd] how to compiler the package bundles,35030,Chun-Ying Lee
+035172.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35172,Jan De Leeuw
+035025.html,"[Rd] R, Wine, and multi-threadedness.",35025,Hin-Tak Leung
+035026.html,"[Rd] R, Wine, and multi-threadedness.",35026,Hin-Tak Leung
+035028.html,"[Rd] R, Wine, and multi-threadedness.",35028,Hin-Tak Leung
+035033.html,"[Rd] R, Wine, and multi-threadedness.",35033,Hin-Tak Leung
+035039.html,"[Rd] R, Wine, and multi-threadedness.",35039,Hin-Tak Leung
+035047.html,"[Rd] R, Wine, and multi-threadedness.",35047,Hin-Tak Leung
+035048.html,"[Rd] R, Wine, and multi-threadedness.",35048,Hin-Tak Leung
+035051.html,"[Rd] R, Wine, and multi-threadedness.",35051,Hin-Tak Leung
+035105.html,"[Rd] R GUI considerations (was: R, Wine, and multi-threadedness)",35105,Hin-Tak Leung
+035106.html,[Rd] Cross compiler  taqrgeting Mac OS X,35106,Hin-Tak Leung
+035122.html,[Rd] Embedded R in C,35122,Hin-Tak Leung
+035260.html,[Rd] Rgnome depends on obsolete components libglade/libxml	(PR#8247),35260,Hin-Tak Leung
+035266.html,[Rd] Rgnome depends on obsolete components	libglade/libxml	(PR#8247),35266,Hin-Tak Leung
+035280.html,[Rd] Rgnome depends on obsolete components	libglade/libxml	(PR#8247),35280,Hin-Tak Leung
+035309.html,[Rd] Microsoft help files,35309,Hin-Tak Leung
+035314.html,[Rd] Microsoft help files,35314,Hin-Tak Leung
+035327.html,[Rd] column names in pivoted matrix operations.,35327,Hin-Tak Leung
+035252.html,"[Rd]  Coloring leaves, twigs and labels in plot.dendrogram()",35252,Nicholas Lewin-Koh
+034874.html,[Rd] vector labels are not permuted properly in a call to sort() (R 2.1),34874,"Liaw, Andy"
+034900.html,[Rd] Ad: Re: R crashes for large formulas in lm() (PR#8180),34900,"Liaw, Andy"
+034909.html,[Rd] how do I write Rd file for this?,34909,"Liaw, Andy"
+034914.html,[Rd] bug found in predict.locfit in locfit package ( PR#8057),34914,"Liaw, Andy"
+034967.html,[Rd] cor doesn't accept na.rm? (PR#8193),34967,"Liaw, Andy"
+035199.html,[Rd] [R-gui]      R GUI considerations,35199,"Liaw, Andy"
+035201.html,[Rd] calling fortran from C,35201,"Liaw, Andy"
+035312.html,[Rd] Microsoft help files,35312,"Liaw, Andy"
+035360.html,[Rd] [R] unvectorized option for outer(),35360,"Liaw, Andy"
+035007.html,[Rd] MiKTeX/yap/Ghostcript issues with R-generated postscript,35007,Uwe Ligges
+035023.html,[Rd] rgl package demo causes R memory corruption under Windows,35023,Uwe Ligges
+035035.html,[Rd] Installing R-2.2.0 package,35035,Uwe Ligges
+035037.html,[Rd] Installing R-2.2.0 package,35037,Uwe Ligges
+035063.html,"[Rd] expm1, R-2.2.0 and Windows",35063,Uwe Ligges
+035159.html,[Rd] 64 bit R for Windows,35159,Milton Lopez
+035241.html,[Rd] Single vs. dual CPUs,35241,Milton Lopez
+034853.html,[Rd] access to R parse tree for Lisp-style macros?,34853,Thomas Lumley
+034991.html,[Rd] 8 char labels in read.spss,34991,Thomas Lumley
+035008.html,[Rd] 8 char labels in read.spss,35008,Thomas Lumley
+035015.html,[Rd] SPSS I/O dll  was:  8 char labels in read.spss,35015,Thomas Lumley
+035153.html,[Rd] Why no .Machine$sizeof.double?,35153,Thomas Lumley
+035157.html,[Rd] Why no .Machine$sizeof.double?,35157,Thomas Lumley
+035355.html,[Rd] [R] unvectorized option for outer(),35355,Thomas Lumley
+035364.html,[Rd] [R] unvectorized option for outer(),35364,Thomas Lumley
+035041.html,"[Rd] R, Wine, and multi-threadedness.",35041,Marc Schwartz (via MN)
+035045.html,"[Rd] R, Wine, and multi-threadedness.",35045,Marc Schwartz (via MN)
+035049.html,"[Rd] R, Wine, and multi-threadedness.",35049,Marc Schwartz (via MN)
+035050.html,"[Rd] R, Wine, and multi-threadedness.",35050,Marc Schwartz (via MN)
+035262.html,[Rd] Rgnome depends on obsolete components	libglade/libxml	(PR#8247),35262,Marc Schwartz (via MN)
+035343.html,[Rd] Error in ?strsplit,35343,Marc Schwartz (via MN)
+034892.html,[Rd] R crashes for large formulas in lm() (PR#8180),34892,MSchwartz at mn.rr.com
+034969.html,[Rd] cor doesn't accept na.rm? (PR#8193),34969,MSchwartz at mn.rr.com
+034846.html,[Rd] Question about colnames behavior,34846,Martin Maechler
+034851.html,[Rd] Question about colnames behavior,34851,Martin Maechler
+034881.html,[Rd] vector labels are not permuted properly in a call to sort() (R 2.1),34881,Martin Maechler
+035137.html,[Rd] Documenting newly created generic versions of non-generic	base	R	functions,35137,Martin Maechler
+035194.html,[Rd] is.na&lt;- problem,35194,Martin Maechler
+034989.html,[Rd] Post processing need for installing packages in rpms.,34989,Jos&#233; Matos
+034992.html,[Rd] Post processing need for installing packages in rpms.,34992,Jos&#233; Matos
+035232.html,[Rd] read.table error upon package installation (PR#8230),35232,"McGehee, Robert"
+035235.html,[Rd] read.table error upon package installation (PR#8230),35235,"McGehee, Robert"
+034924.html,[Rd] R crashes for large formulas in lm() (PR#8180),34924,Bj&#248;rn-Helge Mevik
+035204.html,[Rd] [R-gui]    R GUI considerations,35204,David Meyer
+035338.html,[Rd] Fw: Example where PPR crashes,35338,Jo&#227;o Mendes Moreira
+034852.html,[Rd] access to R parse tree for Lisp-style macros?,34852,Duncan Murdoch
+034931.html,[Rd] Building packages on Windows fails,34931,Duncan Murdoch
+034943.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34943,Duncan Murdoch
+034944.html,[Rd] Building packages on Windows fails,34944,Duncan Murdoch
+034945.html,[Rd] svn version number,34945,Duncan Murdoch
+034950.html,[Rd] svn version number,34950,Duncan Murdoch
+034956.html,[Rd] windows/g95 peculiarity,34956,Duncan Murdoch
+034985.html,[Rd] error compiling R-code,34985,Duncan Murdoch
+035020.html,[Rd] GUI error. (PR#8204),35020,Duncan Murdoch
+035021.html,[Rd] SPSS I/O dll  was:  8 char labels in read.spss,35021,Duncan Murdoch
+035064.html,[Rd] Building R on Windows,35064,Duncan Murdoch
+035065.html,[Rd] R in Spanish?,35065,Duncan Murdoch
+035084.html,[Rd] [R-gui]  R GUI considerations,35084,Duncan Murdoch
+035141.html,[Rd] on ptr_R_WriteErrConsole,35141,Duncan Murdoch
+035142.html,[Rd] Inconsistency with matrix indexing (PR#8214),35142,Duncan Murdoch
+035145.html,[Rd] on ptr_R_WriteErrConsole,35145,Duncan Murdoch
+035147.html,[Rd] Antwort: Re: Inconsistency with matrix indexing (PR#8214),35147,Duncan Murdoch
+035211.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35211,Duncan Murdoch
+035216.html,[Rd] md5sum for R-2.2.0-win32.exe ??,35216,Duncan Murdoch
+035224.html,[Rd] image() with all NAs fails (PR#8228),35224,Duncan Murdoch
+035226.html,[Rd] md5sum for R-2.2.0-win32.exe ??,35226,Duncan Murdoch
+035277.html,[Rd] download problem: Windows binaries - patched/devel versions,35277,Duncan Murdoch
+035315.html,[Rd] R patched for Windows missing,35315,Duncan Murdoch
+035330.html,"[Rd] Critical Bug in type conversions: as.integer, trunc, ... (PR#8255)",35330,Duncan Murdoch
+035365.html,[Rd] [R] unvectorized option for outer(),35365,Duncan Murdoch
+035366.html,[Rd] [R] unvectorized option for outer(),35366,Duncan Murdoch
+035368.html,[Rd] [R] unvectorized option for outer(),35368,Duncan Murdoch
+035272.html,[Rd] Problems with example(Grid) in grid package,35272,Paul Murrell
+035273.html,[Rd] Problems with example(Grid) in grid package,35273,Paul Murrell
+034906.html,[Rd] R crashes for large formulas in lm() (PR#8180),34906,Ei-ji Nakama
+034842.html,[Rd] Question about colnames behavior,34842,Erich Neuwirth
+034926.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34926,&quot;Jens Oehlschl&#228;gel&quot;
+034932.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34932,&quot;Jens Oehlschl&#228;gel&quot;
+034845.html,[Rd] access to R parse tree for Lisp-style macros?,34845,Andrew Piskorski
+035345.html,[Rd] unvectorized option for outer(),35345,Tony Plate
+035362.html,[Rd] [R] unvectorized option for outer(),35362,Tony Plate
+035367.html,[Rd] [R] unvectorized option for outer(),35367,Tony Plate
+034921.html,[Rd] How do I install rbugs ? (PR#8183),34921,Martyn Plummer
+034993.html,[Rd] Post processing need for installing packages in rpms.,34993,Martyn Plummer
+035104.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35104,Dan Putler
+034844.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi reports	errors,34844,Prof Brian Ripley
+034847.html,[Rd] Question about colnames behavior,34847,Prof Brian Ripley
+034849.html,[Rd] Foreign function calls without 'PACKAGE' argument (PR#8171),34849,Prof Brian Ripley
+034856.html,"[Rd] storage.mode, C data types and speed",34856,Prof Brian Ripley
+034857.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi reports	errors,34857,Prof Brian Ripley
+034863.html,[Rd] interpolation using akima (PR#8174),34863,Prof Brian Ripley
+034866.html,[Rd] more problems when using &quot;installWithVers&quot;,34866,Prof Brian Ripley
+034868.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages() badly?,34868,Prof Brian Ripley
+034876.html,[Rd] more problems when using &quot;installWithVers&quot;,34876,Prof Brian Ripley
+034878.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages() badly?,34878,Prof Brian Ripley
+034885.html,[Rd] R crashes for large formulas in lm() (PR#8180),34885,Prof Brian Ripley
+034895.html,[Rd] R crashes for large formulas in lm() (PR#8180),34895,Prof Brian Ripley
+034902.html,[Rd] Problems with autoconf example from r-ext.,34902,Prof Brian Ripley
+034905.html,[Rd] vector labels are not permuted properly in a call to sort() (R 2.1),34905,Prof Brian Ripley
+034907.html,[Rd] R crashes for large formulas in lm() (PR#8180),34907,Prof Brian Ripley
+034910.html,[Rd] how do I write Rd file for this?,34910,Prof Brian Ripley
+034920.html,[Rd] arima: segmentation fault,34920,Prof Brian Ripley
+034925.html,[Rd] R crashes for large formulas in lm() (PR#8180),34925,Prof Brian Ripley
+034929.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34929,Prof Brian Ripley
+034937.html,[Rd] Building packages on Windows fails,34937,Prof Brian Ripley
+034938.html,[Rd] Links to stylesheet are broken,34938,Prof Brian Ripley
+034942.html,[Rd] Building packages on Windows fails,34942,Prof Brian Ripley
+034947.html,[Rd] Subscripting fails if name of element is &quot;&quot; (PR#8161),34947,Prof Brian Ripley
+034949.html,[Rd] Subscripting issues unrelated to [Subscripting fails if name of element is &quot;&quot; (PR#8161)],34949,Prof Brian Ripley
+034953.html,[Rd] FFT,34953,Prof Brian Ripley
+034958.html,[Rd] Project suggestion: Interface between R and graphic devices,34958,Prof Brian Ripley
+034978.html,[Rd] using innov in arima.sim,34978,Prof Brian Ripley
+034990.html,[Rd] Post processing need for installing packages in rpms.,34990,Prof Brian Ripley
+034998.html,[Rd] summary of Surv object  crashes R 2.2.0 (PR#8203),34998,Prof Brian Ripley
+034999.html,[Rd] Compile problem R 2.2.0 + Solaris 10 x86,34999,Prof Brian Ripley
+035000.html,[Rd] Error: .First.lib failed for 'SBMLodeSolveR',35000,Prof Brian Ripley
+035003.html,[Rd] Manual page example of plot.window needs fixing,35003,Prof Brian Ripley
+035013.html,[Rd] Using matprod from array.c,35013,Prof Brian Ripley
+035024.html,[Rd] rgl package demo causes R memory corruption under Windows,35024,Prof Brian Ripley
+035027.html,"[Rd] R, Wine, and multi-threadedness.",35027,Prof Brian Ripley
+035031.html,[Rd] Building R on Windows,35031,Prof Brian Ripley
+035034.html,"[Rd] R, Wine, and multi-threadedness.",35034,Prof Brian Ripley
+035038.html,[Rd] Installing R-2.2.0 package,35038,Prof Brian Ripley
+035042.html,"[Rd] R, Wine, and multi-threadedness.",35042,Prof Brian Ripley
+035043.html,[Rd] Installing R-2.2.0 package,35043,Prof Brian Ripley
+035046.html,[Rd] Installing R-2.2.0 package,35046,Prof Brian Ripley
+035053.html,[Rd] Installing R-2.2.0 package,35053,Prof Brian Ripley
+035055.html,[Rd] Building R on Windows,35055,Prof Brian Ripley
+035060.html,"[Rd] expm1, R-2.2.0 and Windows",35060,Prof Brian Ripley
+035076.html,[Rd] extending lattice to S4 classes,35076,Prof Brian Ripley
+035093.html,[Rd] BIC doesn't work for glm(family=binomial()) (PR#8208),35093,Prof Brian Ripley
+035095.html,"[Rd] [R-gui]  R GUI considerations (was: R, Wine, and multi-threadedness)",35095,Prof Brian Ripley
+035098.html,[Rd] MBCS support and iconv,35098,Prof Brian Ripley
+035120.html,[Rd] Display a plot in an applet.,35120,Prof Brian Ripley
+035132.html,[Rd] sort() and attributes,35132,Prof Brian Ripley
+035133.html,[Rd] RFC: API to allow identification of warnings and errors in the output stream,35133,Prof Brian Ripley
+035135.html,[Rd] gfortran Makefile for windows,35135,Prof Brian Ripley
+035200.html,[Rd] calling fortran from C,35200,Prof Brian Ripley
+035217.html,[Rd] image() with all NAs fails (PR#8228),35217,Prof Brian Ripley
+035218.html,[Rd] Error in building package indices,35218,Prof Brian Ripley
+035233.html,[Rd] read.table error upon package installation (PR#8230),35233,Prof Brian Ripley
+035254.html,[Rd] R_MakeExternalPtr,35254,Prof Brian Ripley
+035256.html,[Rd] R_MakeExternalPtr,35256,Prof Brian Ripley
+035268.html,[Rd] download problem: Windows binaries - patched/devel versions,35268,Prof Brian Ripley
+035274.html,[Rd] Problems with example(Grid) in grid package,35274,Prof Brian Ripley
+035275.html,[Rd] X11 redraw events dropped? (PR#8250),35275,Prof Brian Ripley
+035283.html,[Rd] Small issue with R's C API,35283,Prof Brian Ripley
+035289.html,[Rd] How to uninstall R when installed with &quot;make install&quot;,35289,Prof Brian Ripley
+035290.html,[Rd] Small issue with R's C API,35290,Prof Brian Ripley
+035293.html,[Rd] performance of nchar,35293,Prof Brian Ripley
+035297.html,[Rd] strptime problem for 2004-10-03 02:00:00,35297,Prof Brian Ripley
+035298.html,[Rd] error from make: gcc -shared -L/usr/local/lib64 ... relocation R_X86_64_32...,35298,Prof Brian Ripley
+035303.html,[Rd] pairs(oma) warnings (PR#8252),35303,Prof Brian Ripley
+035311.html,[Rd] pb with dyn.load - fortran code now attached,35311,Prof Brian Ripley
+035320.html,[Rd] Borland C++ and [R] dyn.load() for windows,35320,Prof Brian Ripley
+035324.html,[Rd] X11 resources,35324,Prof Brian Ripley
+035340.html,[Rd] R-devel CHTML problem,35340,Prof Brian Ripley
+035344.html,[Rd] Error in ?strsplit,35344,Prof Brian Ripley
+035348.html,[Rd] model.response() as a generic function?,35348,Prof Brian Ripley
+035222.html,[Rd] read.table error upon package installation (PR#8230),35222,Robert.McGehee at geodecapital.com
+034911.html,[Rd] R and Java,34911,Paul Roebuck
+035310.html,[Rd] pb with dyn.load - fortran code now attached,35310,Paul Roebuck
+035316.html,[Rd] pb with dyn.load - fortran code now attached,35316,Paul Roebuck
+034840.html,[Rd] Summary of translation status,34840,Fernando Henrique Ferraz P. da Rosa
+034865.html,[Rd] more problems when using &quot;installWithVers&quot;,34865,A.J. Rossini
+034867.html,[Rd] more problems when using &quot;installWithVers&quot;,34867,A.J. Rossini
+034869.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages()	badly?,34869,A.J. Rossini
+034870.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages()	badly?,34870,A.J. Rossini
+034877.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages()	badly?,34877,A.J. Rossini
+034879.html,[Rd] Option &quot;installWithVers&quot; seems to impact new.packages()	badly?,34879,A.J. Rossini
+035101.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine,	and multi-threadedness)",35101,A.J. Rossini
+035143.html,[Rd] on ptr_R_WriteErrConsole,35143,A.J. Rossini
+035154.html,[Rd] cross-compiling tools,35154,A.J. Rossini
+035184.html,[Rd] cross-compiling tools,35184,A.J. Rossini
+035352.html,[Rd] [R] unvectorized option for outer(),35352,Jonathan Rougier
+034888.html,[Rd] R crashes for large formulas in lm() (PR#8180),34888,Barry Rowlingson
+034891.html,[Rd] R crashes for large formulas in lm() (PR#8180),34891,Barry Rowlingson
+035002.html,[Rd] MiKTeX/yap/Ghostcript issues with R-generated postscript,35002,Dominick Samperi
+035009.html,[Rd] MiKTeX/yap/Ghostcript issues with R-generated postscript,35009,Dominick Samperi
+035017.html,[Rd] rgl package demo causes R memory corruption under Windows,35017,Dominick Samperi
+035282.html,[Rd] Small issue with R's C API,35282,Dominick Samperi
+035284.html,[Rd] Small issue with R's C API,35284,Dominick Samperi
+035285.html,[Rd] Small issue with R's C API,35285,Dominick Samperi
+035291.html,[Rd] Small issue with R's C API,35291,Dominick Samperi
+034875.html,[Rd] more problems when using &quot;installWithVers&quot;,34875,Deepayan Sarkar
+035166.html,[Rd] extending lattice to S4 classes,35166,Deepayan Sarkar
+034894.html,[Rd] Fwd:  R and Java,34894,Marc Schwartz
+035100.html,"[Rd] [R-gui]    R GUI considerations (was: R, Wine,	and	multi-threadedness)",35100,Marc Schwartz
+035178.html,[Rd] is.na&lt;- problem,35178,Marc Schwartz
+035180.html,[Rd] is.na&lt;- problem,35180,Marc Schwartz
+035195.html,[Rd] is.na&lt;- problem,35195,Marc Schwartz
+035332.html,"[Rd] Critical Bug in type conversions: as.integer, trunc,	(PR#8255)",35332,Marc Schwartz
+034979.html,[Rd] Documenting newly created generic versions of non-generic base	R	functions,34979,Gavin Simpson
+035070.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35070,Detlef Steuer
+035077.html,[Rd] Compilation of R-2.2.0 under SUSE 10,35077,Detlef Steuer
+035279.html,[Rd] strptime problem for 2004-10-03 02:00:00,35279,Michael Sumner
+035321.html,[Rd] strptime problem for 2004-10-03 02:00:00,35321,Michael Sumner
+035253.html,[Rd] R_MakeExternalPtr,35253,TB
+035255.html,[Rd] R_MakeExternalPtr,35255,TB
+035018.html,[Rd] recommendation for web interface to R,35018,Tib
+035127.html,[Rd] RFC: API to allow identification of warnings and errors in the output stream,35127,Luke Tierney
+035131.html,[Rd] RFC: API to allow identification of warnings and errors in the output stream,35131,Luke Tierney
+035186.html,[Rd] Windows 2000 crash while using rbind (PR#8225),35186,Tom.Mulholland at dpi.wa.gov.au
+034854.html,"[Rd] storage.mode, C data types and speed",34854,Heather Turner
+035012.html,[Rd] Using matprod from array.c,35012,Heather Turner
+035081.html,[Rd] Hiccup in installing R 2.2.0,35081,Rolf Turner
+034964.html,[Rd] Project suggestion: Interface between R and graphic devices,34964,Simon Urbanek
+035112.html,[Rd] Control R from another program (written in Delphi),35112,Simon Urbanek
+035169.html,[Rd] Socks under R,35169,Simon Urbanek
+035129.html,[Rd] mauchly.test (instead of mauchley.test)  ?,35129,Tobias Verbeke
+034927.html,[Rd] .Net Framework Wrapper,34927,Brian Vesperman
+034977.html,[Rd] using innov in arima.sim,34977,Hjellvik Vidar
+034872.html,[Rd] access to R parse tree for Lisp-style macros?,34872,"Warnes, Gregory R"
+034843.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi reports errors,34843,Peter G. Warren
+034855.html,[Rd] Problem Sweaving vignettes: MiKTeX's texi2dvi reports	errors,34855,Peter G. Warren
+035357.html,[Rd] possible typo in write.table.Rd (PR#8266),35357,Weigand.Stephen at mayo.edu
+035090.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine, and multi-threadedness)",35090,James Wettenhall
+035113.html,"[Rd] [R-gui] R GUI considerations (was: R, Wine, and multi-threadedness)",35113,James Wettenhall
+035183.html,"[Rd] [R-gui]   R GUI considerations (was: R, Wine, and multi-threadedness)",35183,James Wettenhall
+035228.html,"[Rd] [R-gui]   R GUI considerations (was: R, Wine, and multi-threadedness)",35228,James Wettenhall
+034995.html,[Rd] Compile problem R 2.2.0 + Solaris 10 x86,34995,Daniel Wong
+035010.html,[Rd] make check seg faults at base-Ex.R [was Re: Compile problem R	2.2.0 + Solaris 10 x86],35010,Daniel Wong
+034968.html,[Rd] cor doesn't accept na.rm? (PR#8193),34968,Achim Zeileis
+035342.html,[Rd] optim possible bug &quot;L-BFGS-B&quot; (PR#8261),35342,aimcleod at uwo.ca
+034982.html,[Rd] error compiling R-code,34982,apjaworski at mmm.com
+035339.html,[Rd] R-devel CHTML problem,35339,apjaworski at mmm.com
+035302.html,[Rd] pairs(oma) warnings (PR#8252),35302,arnima at u.washington.edu
+034962.html,[Rd] all.equal() improvements (PR#8191),34962,atp at piskorski.com
+034965.html,[Rd] [ subscripting sometimes loses names (PR#8192),34965,atp at piskorski.com
+035167.html,[Rd] [ subscripting sometimes loses names (PR#8192),35167,atp at piskorski.com
+035168.html,[Rd] [ subscripting sometimes loses names (PR#8192),35168,atp at piskorski.com
+035207.html,[Rd] image() with all NAs fails (PR#8228),35207,barry.rowlingson at gmail.com
+035160.html,[Rd] Documentation bug in complex.Rd (PR#8218),35160,berwin at maths.uwa.edu.au
+034933.html,[Rd] new.packages() problem (PR#8185),34933,blindglobe at gmail.com
+035237.html,[Rd] new.packages() reports on packages installed with the	install.packages option installWithVers=TRUE (PR#8237),35237,blindglobe at gmail.com
+035336.html,[Rd] Column names in qr() and chol() (PR#8258),35336,david.clayton at cimr.cam.ac.uk
+034841.html,[Rd] plot.acf() error (PR#8168),34841,debarr at mitre.org
+035185.html,[Rd] numerical issues in chisq.test(simulate=TRUE) (PR#8224),35185,dgrove at fhcrc.org
+035206.html,[Rd] numerical issues in chisq.test(simulate=TRUE) (PR#8224),35206,dgrove at fhcrc.org
+034913.html,[Rd] Problems with autoconf example from r-ext.,34913,dhinds at sonic.net
+035353.html,[Rd] Yates' correction for continuity in chisq.test (PR#8265),35353,dih69530 at syd.odn.ne.jp
+035264.html,[Rd] Rgnome depends on obsolete components	libglade/libxml	(PR#8247),35264,duncan at wald.ucdavis.edu
+035219.html,[Rd] plot.TukeyHSD (PR#8229),35219,ehlers at math.ucalgary.ca
+035325.html,[Rd] PR#8229,35325,ehlers at math.ucalgary.ca
+035361.html,[Rd] Yates' correction for continuity in chisq.test (PR#8265),35361,ehlers at math.ucalgary.ca
+035062.html,[Rd] extending lattice to S4 classes,35062,ernesto
+035074.html,[Rd] extending lattice to S4 classes,35074,ernesto
+035139.html,[Rd] extending lattice to S4 classes,35139,ernesto
+035192.html,[Rd] extending lattice to S4 classes,35192,ernesto
+035102.html,[Rd] Cross compiler  taqrgeting Mac OS X,35102,dave fournier
+035170.html,[Rd] spaces in application name of external editor (PR#8221),35170,fparlamis at gmail.com
+035329.html,[Rd] Strange behaviour of type conversion (PR#8256),35329,g.toedt at dkfz-heidelberg.de
+035328.html,"[Rd] Critical Bug in type conversions: as.integer, trunc,	... (PR#8255)",35328,g.toedt at dkfz.de
+035231.html,"[Rd] read.fwf(...,header=TRUE,...) (PR#8236)",35231,gbonafe at arpa.emr.it
+035337.html,[Rd] Microarray software - GENOM 2005,35337,gsa-rostock at t-online.de
+034882.html,[Rd] R crashes for large formulas in lm() (PR#8180),34882,hallgeir.grinde at elkem.no
+035258.html,[Rd] Rgnome depends on obsolete components libglade/libxml (PR#8247),35258,hin-tak.leung at cimr.cam.ac.uk
+035281.html,[Rd] Rgnome depends on obsolete components	libglade/libxml	(PR#8247),35281,hin-tak.leung at cimr.cam.ac.uk
+035011.html,[Rd] GUI error. (PR#8204),35011,iggbig at gmail.com
+035349.html,[Rd] quirk in &quot;sample&quot; (PR#8264),35349,ihd at isds.duke.edu
+034916.html,[Rd] arima: segmentation fault,34916,jfontain at free.fr
+034923.html,[Rd] arima: segmentation fault,34923,jfontain at free.fr
+035117.html,[Rd] formatC using a &quot;single&quot; as argument (PR#8211),35117,jmaydt at mpi-sb.mpg.de
+034862.html,[Rd] interpolation using akima (PR#8174),34862,jonathan_lees at unc.edu
+035091.html,[Rd] BIC doesn't work for glm(family=binomial()) (PR#8208),35091,jusung at andrew.cmu.edu
+035271.html,[Rd] X11 redraw events dropped? (PR#8250),35271,keith at nissimo.net
+035245.html,[Rd] new.packages --- wishlist (PR#8239),35245,kjetil at redcotel.bo
+035286.html,[Rd] Noncentral problems in pf() (PR#8251),35286,kkiii at indiana.edu
+034980.html,[Rd] bug loading libraries with winXP and 2.2.0 but not 2.1.1	(PR#8200),34980,kompass at vision.wustl.edu
+035294.html,[Rd] MiKTeX/yap/Ghostcript issues with R-generated postscript&quot;	(continue),35294,koul
+035341.html,[Rd] where is Jim Lemon? (PR#8259),35341,kushler at oakland.edu
+034970.html,[Rd] Help page links to index.html are dead (PR#8196),34970,kwright68 at gmail.com
+034974.html,[Rd] 'R CMD check' gets apparently confused by '%' (PR#8198),34974,lgautier at altern.org
+034890.html,[Rd] R crashes for large formulas in lm() (PR#8180),34890,ligges at statistik.uni-dortmund.de
+034918.html,[Rd] How do I install rbugs ? (PR#8183),34918,ligges at statistik.uni-dortmund.de
+035350.html,[Rd] quirk in &quot;sample&quot; (PR#8264),35350,ligges at statistik.uni-dortmund.de
+035162.html,[Rd] Inconsistency with matrix indexing (PR#8214),35162,maechler at stat.math.ethz.ch
+035164.html,[Rd] [ subscripting sometimes loses names (PR#8192),35164,maechler at stat.math.ethz.ch
+035193.html,[Rd] numerical issues in chisq.test(simulate=TRUE) (PR#8224),35193,maechler at stat.math.ethz.ch
+035304.html,[Rd] PR#8210,35304,mcintosh at research.telcordia.com
+034850.html,[Rd] tcltk (PR#8173),34850,mick at cict.fr
+035369.html,[Rd] Minor typos with UseMethod docs (PR#8269),35369,mikek at cires.colorado.edu
+035261.html,[Rd] Rgnome depends on obsolete components libglade/libxml	(PR#8248),35261,mschwartz at mn.rr.com
+035270.html,[Rd] Rgnome depends on obsolete components libglade/libxml	(PR#8249),35270,mschwartz at mn.rr.com
+034971.html,[Rd] Help page links to index.html are dead (PR#8196),34971,murdoch at stats.uwo.ca
+035212.html,[Rd] image() with all NAs fails (PR#8228),35212,murdoch at stats.uwo.ca
+035331.html,"[Rd] Critical Bug in type conversions: as.integer, trunc,	... (PR#8257)",35331,murdoch at stats.uwo.ca
+034897.html,[Rd] Problems with autoconf example from r-ext.,34897,nwew
+034996.html,[Rd] Error: .First.lib failed for 'SBMLodeSolveR',34996,nwew
+034966.html,[Rd] cor doesn't accept na.rm? (PR#8193),34966,pdbailey at uchicago.edu
+034922.html,[Rd] How do I install rbugs ? (PR#8183),34922,plummer at iarc.fr
+034984.html,[Rd] bug loading libraries with winXP and 2.2.0 but not 2.1.1	(PR#8201),34984,rgentlem at fhcrc.org
+034898.html,[Rd] Ad: Re:  R crashes for large formulas in lm() (PR#8180),34898,ripley at stats.ox.ac.uk
+034904.html,[Rd] Ad: Re: Ad: Re: R crashes for large formulas in lm()	(PR#8181),34904,ripley at stats.ox.ac.uk
+034973.html,[Rd] Help page links to index.html are dead (PR#8196),34973,ripley at stats.ox.ac.uk
+035022.html,[Rd] GUI error. (PR#8204),35022,ripley at stats.ox.ac.uk
+035116.html,[Rd] Make problem (PR#8210),35116,ripley at stats.ox.ac.uk
+035119.html,[Rd] formatC using a &quot;single&quot; as argument (PR#8211),35119,ripley at stats.ox.ac.uk
+035163.html,[Rd] can't start csh (scripts) (PR#8220),35163,ripley at stats.ox.ac.uk
+035187.html,[Rd] Windows 2000 crash while using rbind (PR#8225),35187,ripley at stats.ox.ac.uk
+035229.html,[Rd] read.table error upon package installation (PR#8230),35229,ripley at stats.ox.ac.uk
+035230.html,[Rd] read.fwf doesn't work with header = TRUE (PR#8226),35230,ripley at stats.ox.ac.uk
+035234.html,"[Rd] read.fwf(...,header=TRUE,...) (PR#8236)",35234,ripley at stats.ox.ac.uk
+035248.html,[Rd] new.packages --- wishlist (PR#8239),35248,ripley at stats.ox.ac.uk
+035251.html,[Rd] read.fwf doesn't work with header = TRUE (PR#8226),35251,ripley at stats.ox.ac.uk
+035359.html,[Rd] Yates' correction for continuity in chisq.test (PR#8265),35359,ripley at stats.ox.ac.uk
+035140.html,[Rd] Inconsistency with matrix indexing (PR#8214),35140,stefan.albrecht at allianz.com
+035146.html,[Rd] Antwort: Re:  Inconsistency with matrix indexing (PR#8214),35146,stefan.albrecht at allianz.com
+035227.html,[Rd] Error in arima reporting (PR#8231),35227,stoffer at pitt.edu
+034848.html,[Rd] Foreign function calls without 'PACKAGE' argument (PR#8171),34848,u9126801 at stat.nctu.edu.tw
+034917.html,[Rd] How do I install rbugs ? (PR#8183),34917,ulf.lindstroem at imr.no
+034987.html,[Rd] summary of Surv object  crashes R 2.2.0 (PR#8203),34987,v.moreno at ico.scs.es
+035240.html,[Rd] Problems with example(Grid) in grid package,35240,hadley wickham
+035334.html,[Rd] Strange behaviour of type conversion (PR#8256),35334,hadley wickham
+035103.html,[Rd] How can I use the function in &quot;Defn.h&quot;?,35103,jiesheng zhang
+035319.html,[Rd] Borland C++ and [R] dyn.load() for windows,35319,huanyu zhou

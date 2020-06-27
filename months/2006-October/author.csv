@@ -1,0 +1,487 @@
+link,Subject,id,author
+043102.html,[Rd] Should NA's in summary() output always be reported???,43102,Ferdinand Alimadhi
+043245.html,[Rd] utils::methods doesn't list methods of 'hidden' generics,43245,"Antonio, Fabio Di Narzo"
+043093.html,[Rd] plot.POSIXct,43093,"Armstrong, Whit"
+043094.html,[Rd] plot.POSIXct,43094,"Armstrong, Whit"
+043203.html,[Rd] lapack tests fail  -- is this something to worry about?,43203,"Armstrong, Whit"
+043121.html,"[Rd] x86_64, acml-3.5.0-gfortran64 and lme4",43121,Douglas Bates
+043134.html,[Rd] error in lme4 for R 2.4.0 (PR#9297),43134,Douglas Bates
+042984.html,[Rd] documenation duplication and proposed automatic tools,42984,Henrik Bengtsson
+043002.html,"[Rd] exists(..., inherits) &amp; get(..., inherits)",43002,Henrik Bengtsson
+043034.html,[Rd] Extreme slowdown with named vectors. A bug?,43034,Henrik Bengtsson
+043039.html,[Rd] Extreme slowdown with named vectors. A bug?,43039,Henrik Bengtsson
+043299.html,[Rd] Error: invalid multibyte string,43299,Henrik Bengtsson
+043329.html,[Rd] Error: invalid multibyte string,43329,Henrik Bengtsson
+043360.html,[Rd] Error: invalid multibyte string,43360,Henrik Bengtsson
+043400.html,[Rd] Error: invalid multibyte string,43400,Henrik Bengtsson
+043035.html,[Rd] Extreme slowdown with named vectors. A bug?,43035,Charles C. Berry
+043248.html,[Rd] Changing function arguments,43248,Charles C. Berry
+043271.html,[Rd] as.missing,43271,Charles C. Berry
+043097.html,[Rd] [R] multithreading calling from the rpy Python package,43097,Ren&#233; J.V. Bertin
+043218.html,[Rd] [R] multithreading calling from the rpy Python package,43218,Ren&#233; J.V. Bertin
+043224.html,[Rd] [R] multithreading calling from the rpy Python package,43224,Ren&#233; J.V. Bertin
+043371.html,[Rd] [R] multithreading calling from the rpy Python package,43371,Ren&#233; J.V. Bertin
+043052.html,[Rd] Where to put sgml file,43052,Roger Bivand
+043064.html,[Rd] possible bug? (PR#9285),43064,Roger Bivand
+043072.html,[Rd] expression as a parameter of binom.test (PR#9288),43072,Roger Bivand
+043289.html,[Rd] library loading errors (PR#9317),43289,Roger Bivand
+043057.html,"[Rd] boxplot, notches, etc.",43057,Ben Bolker
+043062.html,[Rd] read.table versus read.csv (PR#9284),43062,Ben Bolker
+043138.html,"[Rd] boxplot, notches, etc.",43138,Ben Bolker
+043146.html,[Rd] plotting text with very small negative rotation hangs	(PR#9301),43146,Ben Bolker
+043428.html,[Rd] help with extended mle package?,43428,Ben Bolker
+042980.html,[Rd] documenation duplication and proposed automatic tools,42980,Ross Boylan
+043198.html,[Rd] \link to another package,43198,Ross Boylan
+043197.html,[Rd] Memory leak,43197,"Brahm, David"
+043086.html,[Rd] Compiling R 2.4.0 in ubuntu/linux,43086,James Bullard
+042952.html,[Rd] stack imbalance in contour,42952,Patrick Burns
+043083.html,[Rd] Compiling R 2.4.0 in ubuntu/linux,43083,T C
+042979.html,[Rd] Help for methods,42979,John Chambers
+042999.html,[Rd] Default argument value for &quot;[&quot;,42999,John Chambers
+043028.html,[Rd] class unions?,43028,John Chambers
+043029.html,[Rd] Default argument value for &quot;[&quot;,43029,John Chambers
+043079.html,[Rd] dispatching on group generics with more than one formal,43079,John Chambers
+043106.html,[Rd] getMethods() not finding all methods,43106,John Chambers
+043108.html,[Rd] getMethods() not finding all methods,43108,John Chambers
+043157.html,[Rd] Caching bug with showMethods?,43157,John Chambers
+043174.html,[Rd] Caching bug with showMethods?,43174,John Chambers
+043236.html,[Rd] default arguments in generics and methods,43236,John Chambers
+043237.html,[Rd] understanding virtual classes and extensions thereof,43237,John Chambers
+043337.html,[Rd] Pb with .findInheritedMethods,43337,John Chambers
+043338.html,[Rd] S4 pb in R 2.5.0,43338,John Chambers
+043375.html,[Rd] Pb with .findInheritedMethods,43375,John Chambers
+043386.html,[Rd] Pb with .findInheritedMethods,43386,John Chambers
+043238.html,[Rd] [R] R-2.4.0 and MS Vista OS - installing packages,43238,"Charles Annis, P.E."
+042955.html,[Rd] stack imbalance in contour,42955,Peter Dalgaard
+042988.html,[Rd] Error in X11 (PR#9272),42988,Peter Dalgaard
+042996.html,[Rd] Status of R 2.4.0 in svn repository and R-Admin manual,42996,Peter Dalgaard
+042998.html,[Rd] Status of R 2.4.0 in svn repository and R-Admin manual,42998,Peter Dalgaard
+043013.html,[Rd] Last R-devel snapshot is an empty tarball,43013,Peter Dalgaard
+043021.html,[Rd] Last R-devel snapshot is an empty tarball,43021,Peter Dalgaard
+043043.html,"[Rd] [R] [R-pkg] New packages pmg, gWidgets, gWidgetsRGtk2",43043,Peter Dalgaard
+043076.html,[Rd] nls function does not use subset argument (PR#9290),43076,Peter Dalgaard
+043091.html,[Rd] Installation fails on FreeBSD (PR#9293),43091,Peter Dalgaard
+043116.html,[Rd] error in lme4 for R 2.4.0 (PR#9297),43116,Peter Dalgaard
+043133.html,[Rd] PR#9295,43133,Peter Dalgaard
+043179.html,[Rd] Warnings about unrecognized escapes in Rd,43179,Peter Dalgaard
+043207.html,[Rd] bug in rect (PR#9307),43207,Peter Dalgaard
+043272.html,[Rd] as.missing,43272,Peter Dalgaard
+043274.html,[Rd] Cook's Distance in GLM (PR#9316),43274,Peter Dalgaard
+043280.html,[Rd] sourcing dput output,43280,Peter Dalgaard
+043286.html,[Rd] sourcing dput output,43286,Peter Dalgaard
+043293.html,[Rd] NA handling in as.character applied to a list,43293,Peter Dalgaard
+043319.html,[Rd] Error: invalid multibyte string,43319,Peter Dalgaard
+043340.html,[Rd] as.missing,43340,Peter Dalgaard
+043349.html,[Rd] as.missing,43349,Peter Dalgaard
+043358.html,[Rd] as.missing,43358,Peter Dalgaard
+043359.html,[Rd] sources of 2.4.0 patched,43359,Peter Dalgaard
+043398.html,[Rd] sources of 2.4.0 patched,43398,Peter Dalgaard
+043409.html,[Rd] interactive flag unix,43409,Peter Dalgaard
+043417.html,"[Rd] lme4 install,	was Re: [R] Which executable is associated with R CMD INSTALL?",43417,Peter Dalgaard
+043418.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43418,Peter Dalgaard
+043419.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43419,Peter Dalgaard
+043422.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43422,Peter Dalgaard
+043427.html,[Rd] Syntax Error in Rcmd check on Windows,43427,Peter Dalgaard
+043015.html,[Rd] example using R to aggregate data from multiple Excel files,43015,Sean Davis
+043432.html,[Rd] Some R questions,43432,Vladimir Dergachev
+043285.html,[Rd] Cross-compilation,43285,Ramon Diaz-Uriarte
+043161.html,"[Rd] latin1,utf-8...encoding and data",43161,St&#233;phane Dray
+043190.html,"[Rd] latin1,utf-8...encoding and data",43190,St&#233;phane Dray
+043321.html,[Rd] how to determine if a function's result is invisible,43321,Bill Dunlap
+042960.html,[Rd] Rcmd install mypkg,42960,Dirk Eddelbuettel
+043155.html,[Rd] Automatic C wrapper generation,43155,Dirk Eddelbuettel
+043262.html,[Rd] ANN/RFC: package providing TAB completion for	readline-based R,43262,Dirk Eddelbuettel
+043364.html,[Rd] sources of 2.4.0 patched,43364,Dirk Eddelbuettel
+043372.html,[Rd] sources of 2.4.0 patched,43372,Dirk Eddelbuettel
+043392.html,[Rd] sources of 2.4.0 patched,43392,Dirk Eddelbuettel
+043396.html,[Rd] sources of 2.4.0 patched,43396,Dirk Eddelbuettel
+043399.html,[Rd] sources of 2.4.0 patched,43399,Dirk Eddelbuettel
+043020.html,[Rd] Last R-devel snapshot is an empty tarball,43020,Seth Falcon
+043078.html,[Rd] operator :: and symbols not in the namespace of a package	with a namespace,43078,Seth Falcon
+043080.html,[Rd] Possible bug in accessing methods documentation?,43080,Seth Falcon
+043104.html,[Rd] getMethods() not finding all methods,43104,Seth Falcon
+043107.html,[Rd] getMethods() not finding all methods,43107,Seth Falcon
+043117.html,[Rd] Feature request: names(someEnv) same as ls(someEnv),43117,Seth Falcon
+043141.html,[Rd] request for additional test in R CMD check,43141,Seth Falcon
+043145.html,[Rd] Caching bug with showMethods?,43145,Seth Falcon
+043159.html,[Rd] Caching bug with showMethods?,43159,Seth Falcon
+043162.html,[Rd] Error condition in evaluating a promise,43162,Seth Falcon
+043176.html,[Rd] Caching bug with showMethods?,43176,Seth Falcon
+043177.html,[Rd] Error condition in evaluating a promise,43177,Seth Falcon
+043178.html,[Rd] Warnings about unrecognized escapes in Rd,43178,Seth Falcon
+043180.html,[Rd] Warnings about unrecognized escapes in Rd,43180,Seth Falcon
+043186.html,[Rd] Warnings about unrecognized escapes in Rd,43186,Seth Falcon
+043249.html,[Rd] Getting hold of a package's environment from C code,43249,Seth Falcon
+043250.html,[Rd] Getting hold of a package's environment from C code,43250,Seth Falcon
+043291.html,[Rd] NA handling in as.character applied to a list,43291,Seth Falcon
+043320.html,[Rd] NA handling in as.character applied to a list,43320,Seth Falcon
+043377.html,[Rd] Pb with .findInheritedMethods,43377,Seth Falcon
+043394.html,[Rd] install packages RMySQL fail,43394,Seth Falcon
+042975.html,[Rd] [R] RODBC ERROR on Rcmdr install,42975,John Fox
+043370.html,[Rd] how to determine if a function's result is invisible,43370,John Fox
+043357.html,[Rd] Idea: Testimonials,43357,Romain Francois
+043025.html,[Rd] class unions?,43025,Parlamis Franklin
+043069.html,[Rd] dispatching on group generics with more than one formal,43069,Parlamis Franklin
+043199.html,[Rd] default arguments in generics and methods,43199,Parlamis Franklin
+043212.html,[Rd] understanding virtual classes and extensions thereof,43212,Parlamis Franklin
+043239.html,[Rd] understanding virtual classes and extensions thereof,43239,Parlamis Franklin
+043405.html,[Rd] R GUI API: suggestion for R function to put in there?,43405,Thomas Friedrichsmeier
+043119.html,[Rd] Feature request: names(someEnv) same as ls(someEnv),43119,Robert Gentleman
+043167.html,[Rd] Error condition in evaluating a promise,43167,Robert Gentleman
+043408.html,[Rd] interactive flag unix,43408,Manfred Georg
+043154.html,[Rd] Automatic C wrapper generation,43154,Benjamin Georgi
+042973.html,[Rd] CCF and ACF,42973,Simone Giannerini
+042986.html,[Rd] CCF and ACF,42986,Simone Giannerini
+043124.html,"[Rd] x86_64, acml-3.5.0-gfortran64 and lme4",43124,Simone Giannerini
+043269.html,[Rd] as.missing,43269,Paul Gilbert
+043282.html,[Rd] as.missing,43282,Paul Gilbert
+043317.html,[Rd] as.missing,43317,Paul Gilbert
+043339.html,[Rd] as.missing,43339,Paul Gilbert
+043345.html,[Rd] as.missing,43345,Paul Gilbert
+043348.html,[Rd] as.missing,43348,Paul Gilbert
+043350.html,[Rd] as.missing,43350,Paul Gilbert
+043410.html,[Rd] [R] read.fwf and header,43410,Gregor Gorjanc
+042976.html,[Rd] Fwd: Selfstarting models for soil hydrology using R,42976,Spencer Graves
+043217.html,[Rd] R CMD check/build --binary fail with data/RCS map,43217,Gorjanc Gregor
+043310.html,[Rd] how to determine if a function's result is invisible,43310,Philippe Grosjean
+043316.html,[Rd] how to determine if a function's result is invisible,43316,Philippe Grosjean
+043374.html,[Rd] how to determine if a function's result is invisible,43374,Philippe Grosjean
+043378.html,[Rd] how to determine if a function's result is invisible,43378,Philippe Grosjean
+043380.html,[Rd] how to determine if a function's result is invisible,43380,Philippe Grosjean
+043388.html,[Rd] how to determine if a function's result is invisible,43388,Philippe Grosjean
+043389.html,[Rd] R GUI API: suggestion for R function to put in there?,43389,Philippe Grosjean
+043393.html,[Rd] R GUI API: suggestion for R function to put in there?,43393,Philippe Grosjean
+042949.html,[Rd] Rcmd install mypkg,42949,Gabor Grothendieck
+042951.html,[Rd] Rcmd install mypkg,42951,Gabor Grothendieck
+042956.html,[Rd] Rcmd install mypkg,42956,Gabor Grothendieck
+042961.html,[Rd] Rcmd install mypkg,42961,Gabor Grothendieck
+042963.html,[Rd] Rcmd install mypkg,42963,Gabor Grothendieck
+042965.html,[Rd] Rcmd install mypkg,42965,Gabor Grothendieck
+042968.html,[Rd] Rcmd install mypkg,42968,Gabor Grothendieck
+042974.html,[Rd] CCF and ACF,42974,Gabor Grothendieck
+043051.html,[Rd] Where to put sgml file,43051,Gabor Grothendieck
+043112.html,[Rd] No exit codes from RTerm (Windows) (PR#9296),43112,Gabor Grothendieck
+043123.html,[Rd] OmegaHat and install packages menu,43123,Gabor Grothendieck
+043183.html,[Rd] Error: subscript out of bounds (PR#9305),43183,Gabor Grothendieck
+043185.html,[Rd] http://cran.r-project.org/contrib/extra/,43185,Gabor Grothendieck
+043194.html,[Rd] arraytake for extracting subarrays from multidimensional	arrays,43194,Gabor Grothendieck
+043226.html,[Rd] R sequence function (was: Re: [R] Recursive decreasing	sequences),43226,Gabor Grothendieck
+043231.html,[Rd] parse/INSTALL feature request(s),43231,Gabor Grothendieck
+043251.html,[Rd] Changing function arguments,43251,Gabor Grothendieck
+043279.html,[Rd] sourcing dput output,43279,Gabor Grothendieck
+043281.html,[Rd] sourcing dput output,43281,Gabor Grothendieck
+043284.html,[Rd] as.missing,43284,Gabor Grothendieck
+043294.html,[Rd] how to determine if a function's result is invisible,43294,Gabor Grothendieck
+043301.html,[Rd] how to determine if a function's result is invisible,43301,Gabor Grothendieck
+043302.html,[Rd] how to determine if a function's result is invisible,43302,Gabor Grothendieck
+043304.html,[Rd] how to determine if a function's result is invisible,43304,Gabor Grothendieck
+043309.html,[Rd] how to determine if a function's result is invisible,43309,Gabor Grothendieck
+043312.html,[Rd] how to determine if a function's result is invisible,43312,Gabor Grothendieck
+043314.html,[Rd] how to determine if a function's result is invisible,43314,Gabor Grothendieck
+043328.html,[Rd] as.missing,43328,Gabor Grothendieck
+043335.html,[Rd] all.names() and all.vars(): sorting order of functions'	return vector,43335,Gabor Grothendieck
+043336.html,[Rd] all.names() and all.vars(): sorting order of functions'	return vector,43336,Gabor Grothendieck
+043351.html,[Rd] as.missing,43351,Gabor Grothendieck
+043353.html,[Rd] Idea: Testimonials,43353,Gabor Grothendieck
+043367.html,[Rd] how to determine if a function's result is invisible,43367,Gabor Grothendieck
+043381.html,[Rd] how to determine if a function's result is invisible,43381,Gabor Grothendieck
+043383.html,[Rd] how to determine if a function's result is invisible,43383,Gabor Grothendieck
+043220.html,[Rd] Problem tracking down an R CMD check syntax error,43220,Ulrike Gr&#246;mping
+043222.html,[Rd] Problem tracking down an R CMD check syntax error,43222,Ulrike Gr&#246;mping
+043233.html,[Rd] sort function (PR#9309),43233,Ulrike Gr&#246;mping
+043193.html,[Rd] arraytake for extracting subarrays from multidimensional	arrays,43193,Robin Hankin
+043196.html,[Rd] arraytake for extracting subarrays from multidimensional	arrays,43196,Robin Hankin
+043430.html,[Rd] setReplaceMethod,43430,Robin Hankin
+043175.html,[Rd] Problems building package under Windows (PR#9303),43175,Kasper Daniel Hansen
+043315.html,[Rd] attachments on R mailing lists,43315, (Ted Harding)
+043139.html,[Rd] request for additional test in R CMD check,43139,Richard M. Heiberger
+043425.html,[Rd] Syntax Error in Rcmd check on Windows,43425,Michael Hoehle
+043429.html,[Rd] Syntax Error in Rcmd check on Windows,43429,Michael Hoehle
+042989.html,[Rd] Possible bug in Rcons_vprintf,42989,Jeffrey Horner
+043040.html,[Rd] Request to open up getConnection to embedded interface,43040,Jeffrey Horner
+043042.html,[Rd] Request to open up getConnection to embedded interface,43042,Jeffrey Horner
+043056.html,[Rd] Discussion starter for package level Connection API,43056,Jeffrey Horner
+043058.html,[Rd] Discussion starter for package level Connection API,43058,Jeffrey Horner
+043101.html,[Rd] Should NA's in summary() output always be reported???,43101,S&#248;ren H&#248;jsgaard
+042990.html,[Rd] developing a package with a name space,42990,Erik Iverson
+043077.html,[Rd] nls function does not use subset argument (PR#9290),43077,Tadashi Kadowaki
+043421.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43421,Peter Kleiweg
+043424.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43424,Peter Kleiweg
+043292.html,"[Rd] Cox model - (TStart,Tstop] algorith",43292,Gregory Kotler
+043140.html,[Rd] R and JAVA,43140,Pierre LINDENBAUM
+042958.html,[Rd] WISH: &quot;R CMD build&quot; should use the (correct) package name (PR#9266),42958,Duncan Temple Lang
+043041.html,[Rd] Request to open up getConnection to embedded interface,43041,Duncan Temple Lang
+043158.html,[Rd] Automatic C wrapper generation,43158,Duncan Temple Lang
+043163.html,[Rd] Error condition in evaluating a promise,43163,Duncan Temple Lang
+043221.html,[Rd] [R] multithreading calling from the rpy Python package,43221,Duncan Temple Lang
+043290.html,[Rd] library loading errors (PR#9317),43290,Larry Layne
+043053.html,[Rd] Where to put sgml file,43053,Friedrich Leisch
+043032.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43032,Hin-Tak Leung
+043060.html,[Rd] Installing Rmpi on 64-bit Linux Athlon,43060,Hin-Tak Leung
+043089.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43089,Hin-Tak Leung
+043125.html,[Rd] Bugs with partial name matching during partial replacement (PR#9202),43125,Hin-Tak Leung
+043136.html,[Rd] PR#9299:Re: Bugs with partial name matching during partial replacement (PR#9299),43136,Hin-Tak Leung
+043411.html,"[Rd] matrix/array types, extending R API?",43411,Na Li
+042954.html,[Rd] Rcmd install mypkg,42954,Uwe Ligges
+042971.html,[Rd] pdf() and postscript() fails (PR#9268),42971,Uwe Ligges
+043189.html,[Rd] http://cran.r-project.org/contrib/extra/,43189,Uwe Ligges
+043228.html,[Rd] sort function (PR#9309),43228,Uwe Ligges
+043232.html,[Rd] [R] R-2.4.0 and MS Vista OS - installing packages,43232,Uwe Ligges
+043234.html,[Rd] sort function (PR#9309),43234,Uwe Ligges
+043265.html,[Rd] ANN/RFC: package providing TAB completion for readline-based R,43265,Uwe Ligges
+043258.html,[Rd] Excessive network load,43258,Claudio Lottaz
+043131.html,[Rd] PR#9299:Re: Bugs with partial name matching during partial replacement (PR#9299),43131,Thomas Lumley
+043257.html,[Rd] Changing function arguments,43257,Thomas Lumley
+043318.html,[Rd] Error: invalid multibyte string,43318,Thomas Lumley
+043346.html,[Rd] Error: invalid multibyte string,43346,Thomas Lumley
+042977.html,[Rd] [R] RODBC ERROR on Rcmdr install,42977,Marc Schwartz (via MN)
+043128.html,"[Rd] x86_64, acml-3.5.0-gfortran64 and lme4",43128,James W. MacDonald
+043068.html,[Rd] png problem on Intel Mac (PR#9287),43068,Don MacQueen
+043022.html,[Rd] Last R-devel snapshot is an empty tarball,43022,Martin Maechler
+043195.html,"[Rd] latin1,utf-8...encoding and data",43195,Martin Maechler
+043311.html,[Rd] attachments on R mailing lists,43311,Martin Maechler
+043368.html,[Rd] Idea: Testimonials,43368,Martin Maechler
+043369.html,[Rd] sources of 2.4.0 patched,43369,Martin Maechler
+043004.html,[Rd] update.default evaluating in wrong environment?,43004,Martin C. Martin
+043005.html,[Rd] update.default evaluating in wrong environment?,43005,Martin C. Martin
+043006.html,[Rd] Bug in stepAIC?,43006,Martin C. Martin
+043283.html,[Rd] Cross-compilation,43283,Tom McCallum
+043288.html,[Rd] Cross-compilation,43288,Tom McCallum
+043334.html,[Rd] Overloading functions,43334,Tom McCallum
+043342.html,[Rd] Overloading functions,43342,Tom McCallum
+043343.html,[Rd] Overloading functions,43343,Tom McCallum
+043054.html,[Rd] Installing Rmpi on 64-bit Linux Athlon,43054,"McGehee, Robert"
+043109.html,[Rd] Installing Rmpi on 64-bit Linux Athlon,43109,"McGehee, Robert"
+043122.html,"[Rd] x86_64, acml-3.5.0-gfortran64 and lme4",43122,"McGehee, Robert"
+043247.html,[Rd] Changing function arguments,43247,"McGehee, Robert"
+043259.html,[Rd] Changing function arguments,43259,"McGehee, Robert"
+043103.html,[Rd] getMethods() not finding all methods,43103,Steven McKinney
+043105.html,[Rd] getMethods() not finding all methods,43105,Steven McKinney
+043142.html,"[Rd] boxplot, notches, etc.",43142,Steven McKinney
+043206.html,[Rd] Bug in Acrobat Reader 7 (or R?) with translucent text,43206,Steven McKinney
+043331.html,[Rd] as.missing,43331,Bj&#248;rn-Helge Mevik
+043084.html,[Rd] Possible bug in accessing methods documentation?,43084,Martin Morgan
+043148.html,[Rd] Error condition in evaluating a promise,43148,Martin Morgan
+043152.html,[Rd] Error condition in evaluating a promise,43152,Martin Morgan
+043240.html,[Rd] understanding virtual classes and extensions thereof,43240,Martin Morgan
+043387.html,[Rd] how to determine if a function's result is invisible,43387,Martin Morgan
+042994.html,[Rd] Default argument value for &quot;[&quot;,42994,Iago Mosqueira
+043001.html,[Rd] Default argument value for &quot;[&quot;,43001,Iago Mosqueira
+043046.html,[Rd] Default argument value for &quot;[&quot;,43046,Iago Mosqueira
+041760.html,[Rd] Rcmd install mypkg,41760,Duncan Murdoch
+042962.html,[Rd] Rcmd install mypkg,42962,Duncan Murdoch
+042964.html,[Rd] Rcmd install mypkg,42964,Duncan Murdoch
+042967.html,[Rd] Rcmd install mypkg,42967,Duncan Murdoch
+042982.html,[Rd] More strange [[ behaviour,42982,Duncan Murdoch
+042991.html,[Rd] developing a package with a name space,42991,Duncan Murdoch
+043019.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43019,Duncan Murdoch
+043027.html,[Rd] operator :: and symbols not in the namespace of a package with	a namespace (PR#9279),43027,Duncan Murdoch
+043031.html,[Rd] operator :: and symbols not in the namespace of a package with	a namespace (PR#9279),43031,Duncan Murdoch
+043033.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43033,Duncan Murdoch
+043037.html,[Rd] Extreme slowdown with named vectors. A bug?,43037,Duncan Murdoch
+043065.html,[Rd] possible bug? (PR#9285),43065,Duncan Murdoch
+043082.html,[Rd] Possible bug in accessing methods documentation? (PR#9291),43082,Duncan Murdoch
+043095.html,[Rd] plot.POSIXct,43095,Duncan Murdoch
+043099.html,[Rd] data.frame within a function (PR#9294),43099,Duncan Murdoch
+043118.html,[Rd] Feature request: names(someEnv) same as ls(someEnv),43118,Duncan Murdoch
+043120.html,[Rd] Feature request: names(someEnv) same as ls(someEnv),43120,Duncan Murdoch
+043127.html,[Rd] OmegaHat and install packages menu,43127,Duncan Murdoch
+043132.html,[Rd] Build question Re:  PR#9295,43132,Duncan Murdoch
+043181.html,[Rd] Error condition in evaluating a promise,43181,Duncan Murdoch
+043184.html,[Rd] Problems building package under Windows (PR#9303),43184,Duncan Murdoch
+043205.html,[Rd] bug in rect (PR#9307),43205,Duncan Murdoch
+043208.html,[Rd] bug in rect (PR#9307),43208,Duncan Murdoch
+043230.html,[Rd] parse/INSTALL feature request(s),43230,Duncan Murdoch
+043242.html,[Rd] parse/INSTALL feature request(s),43242,Duncan Murdoch
+043244.html,[Rd] Getting hold of a package's environment from C code,43244,Duncan Murdoch
+043270.html,[Rd] as.missing,43270,Duncan Murdoch
+043278.html,[Rd] Watch out for the latest Cygwin upgrade,43278,Duncan Murdoch
+043300.html,[Rd] how to determine if a function's result is invisible,43300,Duncan Murdoch
+043305.html,[Rd] how to determine if a function's result is invisible,43305,Duncan Murdoch
+043313.html,[Rd] how to determine if a function's result is invisible,43313,Duncan Murdoch
+043324.html,[Rd] how to determine if a function's result is invisible,43324,Duncan Murdoch
+043325.html,[Rd] how to determine if a function's result is invisible,43325,Duncan Murdoch
+043344.html,[Rd] as.missing,43344,Duncan Murdoch
+043366.html,[Rd] how to determine if a function's result is invisible,43366,Duncan Murdoch
+043376.html,[Rd] how to determine if a function's result is invisible,43376,Duncan Murdoch
+043379.html,[Rd] how to determine if a function's result is invisible,43379,Duncan Murdoch
+043382.html,[Rd] how to determine if a function's result is invisible,43382,Duncan Murdoch
+043385.html,[Rd] how to determine if a function's result is invisible,43385,Duncan Murdoch
+043395.html,[Rd] R GUI API: suggestion for R function to put in there?,43395,Duncan Murdoch
+043397.html,[Rd] sources of 2.4.0 patched,43397,Duncan Murdoch
+043402.html,[Rd] Typo in help-file for 'regexp',43402,Duncan Murdoch
+043407.html,[Rd] party package (PR#9324),43407,Duncan Murdoch
+043414.html,[Rd] Confidence interval calculation in prop.test (PR#9325),43414,Duncan Murdoch
+043426.html,[Rd] Syntax Error in Rcmd check on Windows,43426,Duncan Murdoch
+043431.html,[Rd] Syntax Error in Rcmd check on Windows,43431,Duncan Murdoch
+043149.html,[Rd] plotting text with very small negative rotation hangs	(PR#9301),43149,Paul Murrell
+043275.html,[Rd] stack imbalance in contour,43275,Paul Murrell
+043016.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43016,Ei-ji Nakama
+043038.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43038,Ei-ji Nakama
+043151.html,[Rd] [R] crush in edit(),43151,Ei-ji Nakama
+043332.html,[Rd] What to do with a inconsistency in rank() that's in S+ and R ever since?,43332,Jens Oehlschl&#228;gel
+043341.html,[Rd] RMySQL and stored procedures,43341,Michal Okoniewski
+042981.html,[Rd] More strange [[ behaviour,42981,Herve Pages
+042983.html,[Rd] More strange [[ behaviour,42983,Herve Pages
+042993.html,[Rd] Display problem with named raw vectors,42993,Herve Pages
+043009.html,[Rd] Last R-devel snapshot is an empty tarball,43009,Herve Pages
+043024.html,[Rd] Last R-devel snapshot is an empty tarball,43024,Herve Pages
+043322.html,[Rd] S4 pb in R 2.5.0,43322,Herve Pages
+043323.html,[Rd] Pb with .findInheritedMethods,43323,Herve Pages
+043326.html,[Rd] S4 pb in R 2.5.0,43326,Herve Pages
+043327.html,[Rd] Pb with .findInheritedMethods,43327,Herve Pages
+043354.html,[Rd] Pb with .findInheritedMethods,43354,Herve Pages
+043169.html,[Rd] Error condition in evaluating a promise,43169,Roger D. Peng
+043333.html,[Rd] all.names() and all.vars(): sorting order of functions' return	vector,43333,"Pfaff, Bernhard Dr."
+043401.html,[Rd] Typo in help-file for 'regexp',43401,"Pfaff, Bernhard Dr."
+043235.html,[Rd] [R] multithreading calling from the rpy Python package,43235,Andrew Piskorski
+043347.html,[Rd] What to do with a inconsistency in rank() that's in S+ and	R ever since?,43347,Andrew Piskorski
+043135.html,[Rd] PR#9295,43135,Daniel Platt
+043390.html,[Rd] install packages RMySQL fail,43390,Juan Santiago Ramseyer
+043048.html,[Rd] dump (PR#9282),43048,Brian Ripley
+043049.html,[Rd] operator :: and symbols not in the namespace of a package with a namespace,43049,Prof Brian Ripley
+043071.html,[Rd] possible bug? (PR#9285),43071,Prof Brian Ripley
+043075.html,[Rd] nls function does not use subset argument (PR#9290),43075,Prof Brian Ripley
+043088.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43088,Prof Brian Ripley
+043129.html,"[Rd] x86_64, acml-3.5.0-gfortran64 and lme4",43129,Prof Brian Ripley
+043137.html,[Rd] PR#9299:Re: Bugs with partial name matching during partial replacement (PR#9299),43137,Prof Brian Ripley
+043153.html,[Rd] Error condition in evaluating a promise,43153,Prof Brian Ripley
+043165.html,"[Rd] latin1,utf-8...encoding and data",43165,Prof Brian Ripley
+043188.html,[Rd] Warnings about unrecognized escapes in Rd,43188,Prof Brian Ripley
+043211.html,[Rd] R.lib for MS Visual C++,43211,Prof Brian Ripley
+043214.html,[Rd] Antwort: Re:  R.lib for MS Visual C++,43214,Prof Brian Ripley
+043215.html,[Rd] lapack tests fail  -- is this something to worry about?,43215,Prof Brian Ripley
+043252.html,[Rd] Getting hold of a package's environment from C code,43252,Prof Brian Ripley
+043253.html,[Rd] Getting hold of a package's environment from C code,43253,Prof Brian Ripley
+043254.html,[Rd] Getting hold of a package's environment from C code,43254,Prof Brian Ripley
+043264.html,[Rd] Excessive network load,43264,Prof Brian Ripley
+043266.html,[Rd] ANN/RFC: package providing TAB completion for readline-based R,43266,Prof Brian Ripley
+043277.html,"[Rd] latin1,utf-8...encoding and data",43277,Prof Brian Ripley
+043223.html,[Rd] Problem tracking down an R CMD check syntax error,43223,Prof Brian D Ripley
+043365.html,[Rd] What can be effectively implemented in R vs C/C++?,43365,Dominick Samperi
+042950.html,[Rd] newly introduced lattice bug,42950,Deepayan Sarkar
+043087.html,[Rd] warnings with plot=FALSE in hist.default,43087,Deepayan Sarkar
+043243.html,[Rd] Getting hold of a package's environment from C code,43243,Deepayan Sarkar
+043246.html,[Rd] Getting hold of a package's environment from C code,43246,Deepayan Sarkar
+043260.html,[Rd] Getting hold of a package's environment from C code,43260,Deepayan Sarkar
+043261.html,[Rd] ANN/RFC: package providing TAB completion for readline-based R,43261,Deepayan Sarkar
+043263.html,[Rd] ANN/RFC: package providing TAB completion for	readline-based R,43263,Deepayan Sarkar
+043276.html,[Rd] ANN/RFC: package providing TAB completion for	readline-based R,43276,Deepayan Sarkar
+043298.html,[Rd] how to determine if a function's result is invisible,43298,Deepayan Sarkar
+043012.html,[Rd] mean relative differences from all.equal() (PR#9276),43012,Marc Schwartz
+043201.html,[Rd] Bug in Acrobat Reader 7 (or R?) with translucent text,43201,Marc Schwartz
+043295.html,[Rd] how to determine if a function's result is invisible,43295,Marc Schwartz
+043303.html,[Rd] how to determine if a function's result is invisible,43303,Marc Schwartz
+042995.html,[Rd] Status of R 2.4.0 in svn repository and R-Admin manual,42995,Gavin Simpson
+042997.html,[Rd] Status of R 2.4.0 in svn repository and R-Admin manual,42997,Gavin Simpson
+043085.html,[Rd] Compiling R 2.4.0 in ubuntu/linux,43085,Gavin Simpson
+043092.html,[Rd] Installation fails on FreeBSD (PR#9293),43092,"Smith, Peter"
+043100.html,[Rd] Installation fails on FreeBSD (PR#9293),43100,"Smith, Peter"
+043192.html,[Rd] arraytake for extracting subarrays from multidimensional arrays,43192,Balaji S. Srinivasan
+043204.html,[Rd] arraytake for extracting subarrays from multidimensional	arrays,43204,Balaji S. Srinivasan
+043433.html,[Rd] missing SIGWINCH?,43433,Jon Stearley
+043000.html,[Rd] Bug in warning() for condition objects (PR#9274),43000,Luke Tierney
+043030.html,[Rd] operator :: and symbols not in the namespace of a package with	a namespace (PR#9279),43030,Luke Tierney
+043050.html,[Rd] operator :: and symbols not in the namespace of a package with a namespace,43050,Luke Tierney
+043166.html,[Rd] Error condition in evaluating a promise,43166,Luke Tierney
+043173.html,[Rd] Error condition in evaluating a promise,43173,Luke Tierney
+043219.html,[Rd] [R] multithreading calling from the rpy Python package,43219,Luke Tierney
+043225.html,[Rd] [R] multithreading calling from the rpy Python package,43225,Luke Tierney
+043255.html,[Rd] Getting hold of a package's environment from C code,43255,Luke Tierney
+043256.html,[Rd] Getting hold of a package's environment from C code,43256,Luke Tierney
+043352.html,[Rd] as.missing,43352,Luke Tierney
+043384.html,[Rd] how to determine if a function's result is invisible,43384,Luke Tierney
+043229.html,[Rd] parse/INSTALL feature request(s),43229,Michael Toews
+043241.html,[Rd] parse/INSTALL feature request(s),43241,Michael Toews
+043296.html,[Rd]  NA handling in as.character applied to a list,43296,Michael Toews
+043297.html,[Rd]   NA handling in as.character applied to a list,43297,Michael Toews
+043023.html,[Rd] Compilation issue (PR#9275),43023,Simon Urbanek
+043143.html,[Rd] [R] performance reflections,43143,Simon Urbanek
+043147.html,[Rd] Error condition in evaluating a promise,43147,Simon Urbanek
+043150.html,[Rd] Error condition in evaluating a promise,43150,Simon Urbanek
+043160.html,[Rd] Error condition in evaluating a promise,43160,Simon Urbanek
+043164.html,[Rd] Error condition in evaluating a promise,43164,Simon Urbanek
+043171.html,[Rd] Error condition in evaluating a promise,43171,Simon Urbanek
+043172.html,[Rd] Line numbers above 99 not readable in editor (PR#9304),43172,Simon Urbanek
+043373.html,[Rd] [R] multithreading calling from the rpy Python package,43373,Simon Urbanek
+043404.html,[Rd] Compilation issue (PR#9275),43404,Simon Urbanek
+043434.html,[Rd] missing SIGWINCH?,43434,Simon Urbanek
+043044.html,"[Rd] [R] [R-pkg] New packages pmg, gWidgets, gWidgetsRGtk2",43044,John Verzani
+043209.html,[Rd] bug in rect (PR#9307),43209,Joseph Voelkel
+043200.html,[Rd] Bug in Acrobat Reader 7 (or R?) with translucent text,43200,Kevin Wright
+043168.html,[Rd] Problems building package under Windows (PR#9303),43168,agner at agner.org
+042957.html,[Rd] WISH: &quot;R CMD build&quot; should use the (correct) package name	(PR#9266),42957,ahenningsen at agric-econ.uni-kiel.de
+043090.html,[Rd] Installation fails on FreeBSD (PR#9293),43090,p.smith at auckland.ac.nz
+043210.html,[Rd] R.lib for MS Visual C++,43210,juri.solodenko at bayertechnology.com
+043213.html,[Rd] Antwort: Re:  R.lib for MS Visual C++,43213,juri.solodenko at bayertechnology.com
+043216.html,[Rd] bug in rect (PR#9307),43216,p.dalgaard at biostat.ku.dk
+043420.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43420,p.dalgaard at biostat.ku.dk
+043423.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43423,p.dalgaard at biostat.ku.dk
+043047.html,[Rd] dump (PR#9282),43047,ehlers at c3sl.ufpr.br
+043362.html,[Rd] ALARM!!!! Re: [R] regarding large csv file import,43362,gyadav at ccilindia.co.in
+043363.html,[Rd] ALARM!!!! Re: [R] regarding large csv file import,43363,gyadav at ccilindia.co.in
+043227.html,[Rd] sort function (PR#9309),43227,lfrank at cema.edu.ar
+043191.html,[Rd] bug when loading a new version of a function in a given .Rdata	file (PR#9306),43191,frederic.gosselin at cemagref.fr
+043126.html,[Rd] Bugs with partial name matching during partial replacement	(PR#9299),43126,hin-tak.leung at cimr.cam.ac.uk
+043059.html,[Rd] Installing Rmpi on 64-bit Linux Athlon,43059,c.farrow at compserv.gla.ac.uk
+043070.html,[Rd] expression as a parameter of binom.test (PR#9288),43070,savicky at cs.cas.cz
+043007.html,[Rd] mean relative differences from all.equal() (PR#9276),43007,bchristo at email.arizona.edu
+043267.html,[Rd] Variables ordering problem in mle() (PR#9313),43267,sebastien.villemot at ens.fr
+043063.html,[Rd] possible bug? (PR#9285),43063,richj at essex.ac.uk
+042978.html,[Rd] 2.3.1: interacting bugs in load() and gzfile() (PR#9271),42978,jbrzusto at fastmail.fm
+043330.html,[Rd] improperly persisting dialog after Source... on Macintel	(PR#9318),43330,dadrummond at gmail.com
+043074.html,[Rd] nls function does not use subset argument (PR#9290),43074,tadakado at gmail.com
+043361.html,[Rd] interactive mode without tty (PR#9320),43361,tharkban at gmail.com
+043045.html,[Rd] Italian Wine Tour (PR#9281),43045,usa90100 at gmail.com
+043356.html,[Rd] pcre library in R (PR#9319),43356,bkinney at hmdc.harvard.edu
+042987.html,[Rd] Error in X11 (PR#9272),42987,frank.schaeffer at infocity.de
+043156.html,[Rd] survdiff Mac binary in Survival pckg (PR#9302),43156,ulrich.beutner at kssg.ch
+043307.html,[Rd] Cross-compilation,43307,tom at levelelimited.com
+043308.html,[Rd] Cross-compilation,43308,tom at levelelimited.com
+043413.html,[Rd] Confidence interval calculation in prop.test (PR#9325),43413,rmjohnston at mac.com
+043061.html,[Rd] read.table versus read.csv (PR#9284),43061,Arnost.Komarek at med.kuleuven.be
+043355.html,[Rd] sources of 2.4.0 patched,43355,apjaworski at mmm.com
+043008.html,[Rd] mean relative differences from all.equal() (PR#9276),43008,MSchwartz at mn.rr.com
+043011.html,[Rd] mean relative differences from all.equal() (PR#9276),43011,MSchwartz at mn.rr.com
+043273.html,[Rd] Cook's Distance in GLM (PR#9316),43273,A.Robinson at ms.unimelb.edu.au
+043066.html,[Rd] error in dput applied to dataframe (PR#9286),43066,higgins at nceas.ucsb.edu
+043067.html,[Rd] png problem on Intel Mac (PR#9287),43067,higgins at nceas.ucsb.edu
+042970.html,[Rd] Trig.Rd typo (PR#9269),42970,r.hankin at noc.soton.ac.uk
+043098.html,[Rd] data.frame within a function (PR#9294),43098,rcheng at purdue.edu
+043014.html,[Rd] example using R to aggregate data from multiple Excel files,43014,bryan rasmussen
+043202.html,[Rd] bug in rect (PR#9307),43202,jgvcqa at rit.edu
+043026.html,[Rd] operator :: and symbols not in the namespace of a package with	a namespace (PR#9279),43026,thomas.friedrichsmeier at rub.de
+043415.html,[Rd] 'make check' fails on d-p-q-r-tests (PR#9326),43415,p.c.j.kleiweg at rug.nl
+043416.html,[Rd] malformed manual page with 'man R' (PR#9327),43416,p.c.j.kleiweg at rug.nl
+043114.html,[Rd] error in lme4 for R 2.4.0 (PR#9297),43114,din.chen at sdstate.edu
+042985.html,[Rd] Maybe a bug in warning() for condition objects?,42985,dhinds at sonic.net
+042992.html,[Rd] Bug in warning() for condition objects (PR#9274),42992,dhinds at sonic.net
+043306.html,[Rd] Watch out for the latest Cygwin upgrade,43306,dhinds at sonic.net
+042972.html,[Rd] Trig.Rd typo (PR#9269),42972,maechler at stat.math.ethz.ch
+043018.html,[Rd] Compilation issue (PR#9275),43018,maechler at stat.math.ethz.ch
+043073.html,[Rd] expression as a parameter of binom.test (PR#9288),43073,ripley at stats.ox.ac.uk
+043096.html,[Rd] error in dput applied to dataframe (PR#9286),43096,ripley at stats.ox.ac.uk
+043113.html,[Rd] No exit codes from RTerm (Windows) (PR#9296),43113,ripley at stats.ox.ac.uk
+043187.html,[Rd] Error: subscript out of bounds (PR#9305),43187,ripley at stats.ox.ac.uk
+043010.html,[Rd] Bug in 2.4.0 Windows menu setup (PR#9277),43010,murdoch at stats.uwo.ca
+043036.html,[Rd] Extreme slowdown with named vectors. A bug? (PR#9280),43036,murdoch at stats.uwo.ca
+043081.html,[Rd] Possible bug in accessing methods documentation? (PR#9291),43081,murdoch at stats.uwo.ca
+043017.html,"[Rd] Error in seq.default(xtsp[1], xtsp[2], length = n) : (PR#9278)",43017,pollari at sun3.oulu.fi
+043412.html,[Rd] about mantelhaen.test (PR#7779),43412,dfolkins at temple.edu
+043403.html,[Rd] Compilation issue (PR#9275),43403,m.reuter at ucl.ac.uk
+043111.html,[Rd] No exit codes from RTerm (Windows) (PR#9296),43111,russell-lenth at uiowa.edu
+043115.html,[Rd] No exit codes from RTerm (Windows) (PR#9296),43115,russell-lenth at uiowa.edu
+043170.html,[Rd] Line numbers above 99 not readable in editor (PR#9304),43170,fuss-h at ulster.ac.uk
+043268.html,[Rd] Statusbar help sometimes displays wrong function (PR#9314),43268,fuss-h at ulster.ac.uk
+043287.html,[Rd] library loading errors (PR#9317),43287,ljlayne at unm.edu
+043110.html,[Rd] Unable to build (PR#9295),43110,watplatt at us.ibm.com
+043130.html,[Rd] PR#9295,43130,watplatt at us.ibm.com
+043406.html,[Rd] party package (PR#9324),43406,jerry.allgood at veriquest.com
+043182.html,[Rd] Error: subscript out of bounds (PR#9305),43182,salking at verizon.net
+042959.html,[Rd] WISH: &quot;R CMD build&quot; should use the (correct) package name	(PR#9267),42959,duncan at wald.ucdavis.edu
+042966.html,[Rd] Rcmd install mypkg,42966,hadley wickham
+043391.html,[Rd] R GUI API: suggestion for R function to put in there?,43391,hadley wickham
+043003.html,[Rd] Compilation issue (PR#9275),43003,andrew_duba at wustl.edu
+043055.html,[Rd] header containing (PR#9171),43055,JLewis at wyeth.com
+042969.html,[Rd] pdf() and postscript() fails (PR#9268),42969,yurchikb at yahoo.com
+043144.html,[Rd] plotting text with very small negative rotation hangs (PR#9301),43144,bolker at zoo.ufl.edu

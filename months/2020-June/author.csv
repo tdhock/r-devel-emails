@@ -1,0 +1,107 @@
+link,Subject,id,author
+079615.html,[Rd] Debugging packages with compiled C code on Windows,79615,Avraham Adler
+079649.html,[Rd] [External] use of the tcltk package crashes R 4.0.1 for Windows,79649,Avraham Adler
+079666.html,[Rd] Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79666,Juan Telleria Ruiz de Aguirre
+079669.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79669,Juan Telleria Ruiz de Aguirre
+079699.html,[Rd] mget(missingArgument)?,79699,Gabriel Becker
+079657.html,[Rd] r-project.org SSL certificate issues,79657,Henrik Bengtsson
+079704.html,[Rd] Restrict package to load-only access - prevent attempts to attach it,79704,Henrik Bengtsson
+079713.html,[Rd] Unexpected Error Handling by Generic in R 4.0.1,79713,Matthew Carlucci
+079618.html,[Rd] Translations and snprintf on Windows,79618,Michael Chirico
+079644.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79644,G&#225;bor Cs&#225;rdi
+079665.html,[Rd] r-project.org SSL certificate issues,79665,G&#225;bor Cs&#225;rdi
+079619.html,[Rd] R 4.0.1 is released,79619,Peter Dalgaard
+079655.html,[Rd] R 4.0.2 scheduled for June 22,79655,Peter Dalgaard
+079674.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79674,Peter Dalgaard
+079696.html,[Rd] R 4.0.2 is released,79696,Peter Dalgaard
+079702.html,[Rd] [R] R 4.0.2 is released,79702,Hasan Diwan
+079698.html,[Rd] mget(missingArgument)?,79698,William Dunlap
+079623.html,[Rd] Change in package.skeleton behavior from R 3.6.3 to R 4.0.0 ?,79623,Dirk Eddelbuettel
+079625.html,[Rd]  Change in package.skeleton behavior from R 3.6.3 to R 4.0.0 ?,79625,Dirk Eddelbuettel
+079627.html,[Rd]  Change in package.skeleton behavior from R 3.6.3 to R 4.0.0 ?,79627,Dirk Eddelbuettel
+079667.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79667,Dirk Eddelbuettel
+079629.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79629,"Fox, John"
+079633.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79633,"Fox, John"
+079635.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79635,"Fox, John"
+079639.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79639,"Fox, John"
+079652.html,[Rd] [External] use of the tcltk package crashes R 4.0.1 for Windows,79652,"Fox, John"
+079656.html,[Rd] [R]  R 4.0.2 scheduled for June 22,79656,"Fox, John"
+079676.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79676,"Fox, John"
+079680.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79680,"Fox, John"
+079691.html,[Rd] stats::screeplot suggestion,79691,Michael Friendly
+079690.html,[Rd] fixed url for R-release windows binaries,79690,Jan Gorecki
+079715.html,[Rd] &quot;R CMD Sweave --driver=...&quot; woes,79715,Vincent Goulet
+079613.html,[Rd] eval and Calling Frames,79613,Lionel Henry
+079703.html,[Rd] subset data.frame at C level,79703,Jim Hester
+079659.html,[Rd] valgrind false positive on R startup?,79659,Toby Hocking
+079692.html,[Rd] valgrind false positive on R startup?,79692,Toby Hocking
+079695.html,[Rd] Possible bug in heatmap()?,79695,Kurt Hornik
+079654.html,[Rd]  Potential issue with perl-based pattern matching with Unicode characters on Windows R 4.0 and above,79654,Tomas Kalibera
+079670.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79670,Tomas Kalibera
+079697.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79697,Tomas Kalibera
+079700.html,[Rd] base::order breaking change in R-devel,79700,Tomas Kalibera
+079701.html,[Rd] R-ints context documentation,79701,Tomas Kalibera
+079684.html,[Rd] Marking a ticket as a (potential) regression in bug tracker?,79684,Scott Kostyshak
+079711.html,"[Rd] R 4.0.1-4.0.2 built with Intel Composer 19.0-19.1.1, error in &quot;make check&quot; on CentOS 7.7",79711,Ivan Krylov
+079617.html,"[Rd] R standalone Rmath library - missing log1pexp(), rnbeta()",79617,Martin Maechler
+079614.html,[Rd] Debugging packages with compiled C code on Windows,79614,Sue McDonald
+079712.html,"[Rd] R 4.0.1-4.0.2 built with Intel Composer 19.0-19.1.1, error in &quot;make check&quot; on CentOS 7.7",79712,Bj&#248;rn-Helge Mevik
+079689.html,[Rd] subset data.frame at C level,79689,Morgan Morgan
+079708.html,[Rd] subset data.frame at C level,79708,Morgan Morgan
+079621.html,[Rd]  install.packages(): About an option for installing archived versions,79621,Duncan Murdoch
+079624.html,[Rd]  Change in package.skeleton behavior from R 3.6.3 to R 4.0.0 ?,79624,Duncan Murdoch
+079626.html,[Rd]  Change in package.skeleton behavior from R 3.6.3 to R 4.0.0 ?,79626,Duncan Murdoch
+079628.html,[Rd]  Change in package.skeleton behavior from R 3.6.3 to R 4.0.0 ?,79628,Duncan Murdoch
+079636.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79636,Duncan Murdoch
+079705.html,[Rd] Restrict package to load-only access - prevent attempts to attach it,79705,Duncan Murdoch
+079710.html,"[Rd] R 4.0.1-4.0.2 built with Intel Composer 19.0-19.1.1, error in &quot;make check&quot; on CentOS 7.7",79710,Duncan Murdoch
+079685.html,[Rd] numericDeriv alters result of eval in R 4.0.1,79685,Raimundo Neto
+079687.html,[Rd] [External]  numericDeriv alters result of eval in R 4.0.1,79687,Raimundo Neto
+079709.html,"[Rd] R 4.0.1-4.0.2 built with Intel Composer 19.0-19.1.1, error in &quot;make check&quot; on CentOS 7.7",79709,Ryan Novosielski
+079716.html,"[Rd] R 4.0.1-4.0.2 built with Intel Composer 19.0-19.1.1, error in &quot;make check&quot; on CentOS 7.7",79716,Ryan Novosielski
+079717.html,"[Rd] R 4.0.1-4.0.2 built with Intel Composer 19.0-19.1.1, error in &quot;make check&quot; on CentOS 7.7",79717,Ryan Novosielski
+079673.html,[Rd] tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79673,Wayne Oldford
+079675.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79675,Wayne Oldford
+079677.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79677,Wayne Oldford
+079683.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79683,Wayne Oldford
+079616.html,[Rd] Debugging packages with compiled C code on Windows,79616,Jeroen Ooms
+079634.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79634,Jeroen Ooms
+079641.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79641,Jeroen Ooms
+079651.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79651,Jeroen Ooms
+079662.html,[Rd] valgrind false positive on R startup?,79662,Prof Brian Ripley
+079663.html,[Rd] r-project.org SSL certificate issues,79663,Prof Brian Ripley
+079672.html,[Rd] CRAN checks and ASAN,79672,Prof Brian Ripley
+079681.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79681,Prof Brian Ripley
+079620.html,[Rd] install.packages(): About an option for installing archived versions,79620,Patrick Schratz
+079622.html,[Rd]  install.packages(): About an option for installing archived versions,79622,Patrick Schratz
+079653.html,[Rd] Potential issue with perl-based pattern matching with Unicode characters on Windows R 4.0 and above,79653,Carson Sievert
+079647.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79647,Abby Spurdle
+079648.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79648,Abby Spurdle
+079706.html,[Rd] Restrict package to load-only access - prevent attempts to attach it,79706,Abby Spurdle
+079671.html,[Rd] CRAN checks and ASAN,79671,"Therneau, Terry M., Ph.D."
+079658.html,[Rd] r-project.org SSL certificate issues,79658,Simon Urbanek
+079661.html,[Rd] r-project.org SSL certificate issues,79661,Simon Urbanek
+079678.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79678,Simon Urbanek
+079679.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79679,Simon Urbanek
+079682.html,[Rd]  tcltk image reading problem (on a mac?): [tcl] encountered an unsupported criticial chunk type &quot;eXIf&quot;,79682,Simon Urbanek
+079668.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79668,Kevin Ushey
+079693.html,[Rd] Possible bug in heatmap()?,79693,"Viechtbauer, Wolfgang (SP)"
+079694.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79694,Yihui Xie
+079707.html,[Rd]  Possible Bug: file.exists() Function. Due to UTF-8 Encoding differences on Windows between R 4.0.1 and R 3.6.3?,79707,Yihui Xie
+079630.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79630,peter dalgaard
+079631.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79631,peter dalgaard
+079632.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79632,peter dalgaard
+079637.html,[Rd] use of the tcltk package crashes R 4.0.1 for Windows,79637,peter dalgaard
+079642.html,[Rd] [External] use of the tcltk package crashes R 4.0.1 for Windows,79642,peter dalgaard
+079643.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79643,peter dalgaard
+079646.html,[Rd] [External] use of the tcltk package crashes R 4.0.1 for Windows,79646,peter dalgaard
+079650.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79650,peter dalgaard
+079660.html,[Rd] r-project.org SSL certificate issues,79660,peter dalgaard
+079664.html,[Rd] r-project.org SSL certificate issues,79664,peter dalgaard
+079612.html,[Rd] eval and Calling Frames,79612,brodie gaslam
+079638.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79638,iuke-tier at ey m at iii at g oii uiow at  at edu
+079640.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79640,iuke-tier at ey m at iii at g oii uiow at  at edu
+079645.html,[Rd]  [External] Re: use of the tcltk package crashes R 4.0.1 for Windows,79645,iuke-tier at ey m at iii at g oii uiow at  at edu
+079686.html,[Rd] [External]  numericDeriv alters result of eval in R 4.0.1,79686,iuke-tier at ey m at iii at g oii uiow at  at edu
+079688.html,[Rd] [External]  numericDeriv alters result of eval in R 4.0.1,79688,iuke-tier at ey m at iii at g oii uiow at  at edu
+079714.html,[Rd]  [External]  Unexpected Error Handling by Generic in R 4.0.1,79714,iuke-tier at ey m at iii at g oii uiow at  at edu

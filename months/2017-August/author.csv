@@ -1,0 +1,115 @@
+link,Subject,id,author
+074737.html,[Rd] translateChar in NewName in bind.c,74737,Suharto Anggono Suharto Anggono
+074765.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74765,Suharto Anggono Suharto Anggono
+074792.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74792,Suharto Anggono Suharto Anggono
+074794.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74794,Suharto Anggono Suharto Anggono
+074829.html,[Rd] R_xlen_t is an integer type,74829,Suharto Anggono Suharto Anggono
+074816.html,[Rd] [patch] Fix typo in 'rank' documentation,74816,Jonathan Armond
+074783.html,[Rd] strange behaviour read.table and clipboard,74783,Robert Baer
+074786.html,[Rd] Problem with a regular expression.,74786,Rui Barradas
+074818.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74818,Gustavo Fernandez Bayon
+074834.html,[Rd] BUG: HMTL-based help.search() on vignettes may generate error	(with PATCH),74834,Henrik Bengtsson
+074805.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74805,Peter Bosa
+074815.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74815,Peter Bosa
+074804.html,[Rd] Bug report: saving plot as wmf file - extra white space,74804,Francis Burton
+074824.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74824,Peter Dalgaard
+074825.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74825,Peter Dalgaard
+074836.html,[Rd] R 3.4.2  scheduled for September 28,74836,Peter Dalgaard
+074727.html,[Rd] force promises inside lapply,74727,William Dunlap
+074755.html,[Rd] arithmetic with zero-column data.frames,74755,William Dunlap
+074795.html,[Rd] Control multi-threading in standard matrix product,74795,Ghislain Durif
+074798.html,[Rd] Control multi-threading in standard matrix product,74798,Ghislain Durif
+074800.html,[Rd] Control multi-threading in standard matrix product,74800,Ghislain Durif
+074733.html,[Rd] reproducible segmentation fault installing packages on	FreeBSD	11.1,74733,Dirk Eddelbuettel
+074769.html,[Rd] Help to create bugzilla account,74769,Dirk Eddelbuettel
+074771.html,[Rd] Help to create bugzilla account,74771,Dirk Eddelbuettel
+074801.html,[Rd] Control multi-threading in standard matrix product,74801,Stefan Evert
+074734.html,[Rd] configure.ac,74734,Ram&#243;n Fallon
+074740.html,[Rd] configure.ac,74740,Ram&#243;n Fallon
+074821.html,[Rd] Bug in tools::toTitleCase,74821,Carl Ganz
+074814.html,[Rd] MASS:::dropterm.glm() and MASS:::addterm.glm() should use ... for extractAIC(),74814,Marc Girondot
+074831.html,[Rd] patch: automatically adjust width option when terminal is	resized,74831,Ralf Goertz
+074773.html,[Rd] Help to create bugzilla account,74773,Steve Grubb
+074760.html,[Rd] attributes on symbols,74760,Lionel Henry
+074808.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74808,Lionel Henry
+074810.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74810,Lionel Henry
+074828.html,[Rd] A problem with headless R on WIndows,74828,Eric Hopper
+074744.html,[Rd] symantec treating R-devel r73003 for Windows as malware,74744,Tomas Kalibera
+074759.html,[Rd] attributes on symbols,74759,Tomas Kalibera
+074788.html,[Rd] Problem with a regular expression.,74788,Tomas Kalibera
+074790.html,[Rd] strange behaviour read.table and clipboard,74790,Tomas Kalibera
+074796.html,[Rd] Control multi-threading in standard matrix product,74796,Tomas Kalibera
+074802.html,[Rd] Problem with a regular expression.,74802,Tomas Kalibera
+074809.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74809,Tomas Kalibera
+074811.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74811,Tomas Kalibera
+074812.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74812,Tomas Kalibera
+074785.html,[Rd] Problem with a regular expression.,74785,Peter Langfelder
+074754.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74754,Michael Lawrence
+074837.html,[Rd] I have corrected a dead link in the treering documentation,74837,Thomas Levine
+074813.html,[Rd] bugs in documentation of stats::stl,74813,Mark van der Loo
+074742.html,[Rd] symantec treating R-devel r73003 for Windows as malware,74742,Martin Maechler
+074746.html,[Rd] Problem compiling R patched and R devel on Ubuntu,74746,Martin Maechler
+074748.html,[Rd] rnorm is not truly random used in the lm function,74748,Martin Maechler
+074756.html,[Rd] arithmetic with zero-column data.frames,74756,Martin Maechler
+074758.html,[Rd] arithmetic with zero-column data.frames,74758,Martin Maechler
+074762.html,[Rd] Help to create bugzilla account,74762,Martin Maechler
+074774.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74774,Martin Maechler
+074775.html,[Rd] arithmetic with zero-column data.frames,74775,Martin Maechler
+074776.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74776,Martin Maechler
+074780.html,[Rd] strange behaviour read.table and clipboard,74780,Martin Maechler
+074793.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74793,Martin Maechler
+074803.html,[Rd] Issues of R_pretty in src/appl/pretty.c,74803,Martin Maechler
+074806.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74806,Martin Maechler
+074807.html,[Rd] Possible repeat{} / break function bug in R 3.4.1,74807,Martin Maechler
+074817.html,[Rd] [patch] Fix typo in 'rank' documentation,74817,Martin Maechler
+074822.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74822,Martin Maechler
+074826.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74826,Martin Maechler
+074839.html,[Rd] Natural vs National in R signon banner?,74839,Paul McQuesten
+074726.html,[Rd] reproducible segmentation fault installing packages on FreeBSD	11.1,74726,Joseph Mingrone
+074738.html,[Rd] reproducible segmentation fault installing packages on	FreeBSD 11.1,74738,Joseph Mingrone
+074739.html,[Rd] reproducible segmentation fault installing packages on	FreeBSD 11.1,74739,Joseph Mingrone
+074752.html,[Rd] Why is as.function() slower than eval(call(&quot;function&quot;())?,74752,Duncan Murdoch
+074778.html,[Rd] strange behaviour read.table and clipboard,74778,Duncan Murdoch
+074823.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74823,Jari Oksanen
+074732.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74732,Andrzej Ole&#347;
+074757.html,[Rd] Problems with S4 methods dispatching on `...` (aka	dotsMethods),74757,Andrzej Ole&#347;
+074787.html,[Rd] Problem with a regular expression.,74787,Moshe Olshansky
+074830.html,[Rd] special latin1 do not print as glyphs in current devel on windows,74830,Patrick Perry
+074833.html,[Rd] [bug report] Cyrillic letter &quot;&#1103;&quot; interrupts script execution via R source function,74833,Patrick Perry
+074741.html,[Rd] symantec and R instalation info,74741,PIKAL Petr
+074743.html,[Rd] symantec treating R-devel r73003 for Windows as malware,74743,PIKAL Petr
+074777.html,[Rd] strange behaviour read.table and clipboard,74777,PIKAL Petr
+074779.html,[Rd] strange behaviour read.table and clipboard,74779,PIKAL Petr
+074781.html,[Rd] strange behaviour read.table and clipboard,74781,PIKAL Petr
+074782.html,[Rd] strange behaviour read.table and clipboard,74782,PIKAL Petr
+074789.html,[Rd] strange behaviour read.table and clipboard,74789,PIKAL Petr
+074728.html,[Rd] special latin1 do not print as glyphs in current devel on	windows,74728,Daniel Possenriede
+074729.html,[Rd] special latin1 do not print as glyphs in current devel on	windows,74729,Daniel Possenriede
+074731.html,[Rd] special latin1 do not print as glyphs in current devel on	windows,74731,Daniel Possenriede
+074730.html,[Rd] special latin1 do not print as glyphs in current devel on windows,74730,Prof Brian Ripley
+074736.html,[Rd] configure.ac,74736,Prof Brian Ripley
+074761.html,[Rd] Help to create bugzilla account,74761,Dmitriy Selivanov
+074763.html,[Rd] Help to create bugzilla account,74763,Dmitriy Selivanov
+074767.html,[Rd] Help to create bugzilla account,74767,Dmitriy Selivanov
+074770.html,[Rd] Help to create bugzilla account,74770,Dmitriy Selivanov
+074819.html,[Rd] loop compilation problem,74819,Lukas Stadler
+074838.html,[Rd] Missing y label,74838,"Therneau, Terry M., Ph.D."
+074747.html,[Rd] rnorm is not truly random used in the lm function,74747,Victor Tian
+074749.html,[Rd] rnorm is not truly random used in the lm function,74749,Victor Tian
+074784.html,[Rd] Problem with a regular expression.,74784,Chris Triggs
+074745.html,[Rd] Problem compiling R patched and R devel on Ubuntu,74745,Berwin A Turlach
+074751.html,[Rd] Why is as.function() slower than eval(call(&quot;function&quot;())?,74751,Joshua Ulrich
+074766.html,[Rd] Help to create bugzilla account,74766,Simon Urbanek
+074772.html,[Rd] Help to create bugzilla account,74772,Simon Urbanek
+074750.html,[Rd] Why is as.function() slower than eval(call(&quot;function&quot;())?,74750,Gregory Werbin
+074791.html,[Rd]  Problem with a regular expression.,74791,"Wollschlaeger, Daniel"
+074799.html,[Rd] Control multi-threading in standard matrix product,74799,Ista Zahn
+074735.html,[Rd] configure.ac,74735,peter dalgaard
+074827.html,[Rd] Are r2dtable and C_r2dtable behaving correctly?,74827,peter dalgaard
+074753.html,[Rd] `c` with lists with &quot;bytes&quot; names encoding,74753,brodie gaslam
+074768.html,[Rd] Help to create bugzilla account,74768,luke-tierney at uiowa.edu
+074797.html,[Rd] Control multi-threading in standard matrix product,74797,luke-tierney at uiowa.edu
+074820.html,[Rd] loop compilation problem,74820,luke-tierney at uiowa.edu
+074835.html,[Rd] loop compilation problem,74835,luke-tierney at uiowa.edu
+074764.html,[Rd] Help to create bugzilla account,74764,I&#241;aki &#218;car
+074832.html,[Rd] [bug report] Cyrillic letter &quot;&#1103;&quot; interrupts script execution via R source function,74832,&#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088; &#1055;&#1072;&#1085;&#1092;&#1080;&#1083;&#1086;&#1074;

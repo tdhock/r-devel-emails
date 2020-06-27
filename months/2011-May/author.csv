@@ -1,0 +1,371 @@
+link,Subject,id,author
+061011.html,[Rd] Generic Function for dffits?,61011,Viechtbauer Wolfgang (STAT)
+061085.html,[Rd] Use of R in C#,61085,Andra
+061136.html,[Rd] Comment on build and INSTALL,61136,Ronald Barry
+061002.html,[Rd] Milestone: 3000 packages on CRAN,61002,Henrik Bengtsson
+061004.html,[Rd] Reproducible use case for R crash after updating R,61004,Henrik Bengtsson
+061005.html,[Rd] Reproducible use case for R crash after updating R,61005,Henrik Bengtsson
+061042.html,[Rd] Reproducible use case for R crash after updating R,61042,Henrik Bengtsson
+061000.html,[Rd] Renjin - R for the JVM - new milestone released,61000,"Bertram, Alexander"
+060900.html,[Rd] what's R save terminal flag?,60900,Ben Bolker
+061035.html,[Rd] obscure error message from splines::ns,61035,Ben Bolker
+061066.html,[Rd] IDWT - Inverse Discrete Wavelet Transform,61066,Ben Bolker
+060909.html,[Rd] problem with location of libraries 64-bit (opensuse),60909,M. Edward (Ed) Borasky
+060806.html,[Rd] [R] Sweave stops when opening X11 device fails,60806,Andreas Borg
+061056.html,[Rd] Reproducible use case for R crash after updating R,61056,Andreas Borg
+060858.html,[Rd] Wishlist: write R's bin path to the PATH variable and	remove the version string in the installation dir under Windows,60858,Ted Byers
+061072.html,[Rd] Calling Rscript from Makevars,61072,Martyn Byng
+061087.html,[Rd] Calling Rscript from Makevars,61087,Martyn Byng
+060776.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60776,John Chambers
+060780.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60780,John Chambers
+060870.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60870,John Chambers
+060873.html,[Rd] General &quot;nil&quot; reference class object,60873,John Chambers
+060874.html,"[Rd] Reference Classes: (Was:  Accessing methods via [[...]], bug?)",60874,John Chambers
+060892.html,[Rd] Reference Classes: replacing '.self' with an .Rda image of '.self' from within a method? (was replacing '.self' with an .Rda image of '.self' from within a method?),60892,John Chambers
+060947.html,[Rd] Examples for performance studies,60947,John Chambers
+060973.html,[Rd] Reference Classes copy(shallow=FALSE) unexpected behavior.,60973,John Chambers
+061026.html,"[Rd] By default, `names&lt;-` alters S4 objects",61026,John Chambers
+061032.html,"[Rd] By default, `names&lt;-` alters S4 objects",61032,John Chambers
+061036.html,"[Rd] By default, `names&lt;-` alters S4 objects",61036,John Chambers
+061047.html,"[Rd] By default, `names&lt;-` alters S4 objects",61047,John Chambers
+061051.html,"[Rd] By default, `names&lt;-` alters S4 objects",61051,John Chambers
+060904.html,[Rd] matrix not positive definite (while it should be),60904,Arthur Charpentier
+060912.html,[Rd] matrix not positive definite (while it should be),60912,Arthur Charpentier
+060913.html,[Rd] matrix not positive definite (while it should be),60913,Arthur Charpentier
+060848.html,[Rd] General &quot;nil&quot; reference class object,60848,Jon Clayden
+060884.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60884,Kevin R. Coombes
+060920.html,[Rd] cerr and cout not working calling c++ from R,60920,Davor Cubranic
+061092.html,[Rd] External special functions (SPECIALSXP),61092,Peter Danenberg
+061094.html,[Rd] External special functions (SPECIALSXP),61094,Peter Danenberg
+061098.html,[Rd] External special functions (SPECIALSXP),61098,Peter Danenberg
+061099.html,"[Rd] Curry: proposed new functional programming, er, function.",61099,Peter Danenberg
+061128.html,[Rd] Projection Pursuit Index,61128,Mohit Dayal
+061129.html,[Rd] Fwd: Projection Pursuit Index,61129,Mohit Dayal
+060793.html,[Rd] raw connections: reading does not alter current position	pointer,60793,William Dunlap
+061095.html,[Rd] External special functions (SPECIALSXP),61095,William Dunlap
+061096.html,[Rd] External special functions (SPECIALSXP),61096,William Dunlap
+060801.html,[Rd] Source for bash_completion.d/R?,60801,Dirk Eddelbuettel
+060811.html,[Rd] [R] Sweave stops when opening X11 device fails,60811,Dirk Eddelbuettel
+060919.html,[Rd] cerr and cout not working calling c++ from R,60919,Dirk Eddelbuettel
+060923.html,[Rd] Create and access several instances of a C++ class from R,60923,Dirk Eddelbuettel
+060925.html,[Rd] cerr and cout not working calling c++ from R,60925,Dirk Eddelbuettel
+060954.html,[Rd] Time-machine typo,60954,Dirk Eddelbuettel
+060971.html,[Rd] New code in R-devel: Rao score test for glm.,60971,Peter Ehlers
+060805.html,[Rd] Location of Internal Code,60805,Robin Evans
+060772.html,[Rd] Bug report: R 2.14.0dev Sweave option width does not work,60772,Alexander Favorov
+060804.html,[Rd] Bug report: R 2.14.0dev Sweave option width does not work,60804,Alexander Favorov
+061063.html,[Rd] Error in svg() : cairo-based devices are not supported on this	build,61063,Karl Forner
+061060.html,[Rd] Max likelihood using GPU,61060,&#216;yvind Foshaug
+060928.html,[Rd] Create and access several instances of a C++ class from R,60928,Romain Francois
+061010.html,[Rd] Recursively parsing srcrefs,61010,Romain Francois
+061100.html,[Rd] serialization of external pointers,61100,Romain Francois
+061103.html,[Rd] serialization of external pointers,61103,Romain Francois
+061125.html,[Rd] assignInNamespace and new bindings,61125,Romain Francois
+061130.html,[Rd] assignInNamespace and new bindings,61130,Romain Francois
+061133.html,[Rd] assignInNamespace and new bindings,61133,Thomas Friedrichsmeier
+061138.html,[Rd] assignInNamespace and new bindings,61138,Thomas Friedrichsmeier
+061140.html,[Rd] GUI hooks in R [Was: assignInNamespace and new bindings],61140,Thomas Friedrichsmeier
+061050.html,[Rd] lines.loess method - in order to make the plotting of loess consistent with that of lowess,61050,Tal Galili
+060845.html,[Rd] Error in .Fortran Call,60845,Simone Giannerini
+060914.html,[Rd] fortan common block,60914,Paul Gilbert
+060942.html,[Rd] fortan common block,60942,Paul Gilbert
+060946.html,[Rd] fortan common block,60946,Paul Gilbert
+060981.html,[Rd] How to document man/*.Rd pages with images?,60981,Paul Gilbert
+060992.html,[Rd] How to document man/*.Rd pages with images?,60992,Paul Gilbert
+061019.html,[Rd] Add &quot;See Also:  missing&quot; to help('exists')?,61019,Spencer Graves
+061030.html,[Rd] Add &quot;See Also:  missing&quot; to help('exists')?,61030,Spencer Graves
+061077.html,[Rd] non-R package development,61077,Spencer Graves
+061081.html,[Rd] non-R package development,61081,Spencer Graves
+061082.html,[Rd] non-R package development,61082,Spencer Graves
+061084.html,[Rd] non-R package development,61084,Spencer Graves
+060787.html,[Rd] Using substitute to access the expression related to a	promise,60787,Gabor Grothendieck
+060788.html,[Rd] Using substitute to access the expression related to a	promise,60788,Gabor Grothendieck
+060799.html,[Rd] Capturing the expression representing the body of a	function,60799,Gabor Grothendieck
+060822.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60822,Gabor Grothendieck
+060828.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60828,Gabor Grothendieck
+060831.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60831,Gabor Grothendieck
+060855.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60855,Gabor Grothendieck
+060860.html,"[Rd] Curry: proposed new functional programming, er, function.",60860,Gabor Grothendieck
+060863.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60863,Gabor Grothendieck
+060864.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60864,Gabor Grothendieck
+060879.html,"[Rd] Curry: proposed new functional programming, er, function.",60879,Gabor Grothendieck
+060901.html,"[Rd] Curry: proposed new functional programming, er, function.",60901,Gabor Grothendieck
+061064.html,[Rd] r-2.13 fails make check,61064,Kasper Daniel Hansen
+060968.html,[Rd] New code in R-devel: Rao score test for glm.,60968,Frank Harrell
+061123.html,[Rd] Table Figures and Listings,61123,Frank Harrell
+060964.html,[Rd] RCMD check fails on &quot;checkin installed package size&quot;,60964,Stefan McKinnon H&#248;j-Edwards
+060995.html,[Rd] RCMD check fails on &quot;checkin installed package size&quot;,60995,Stefan McKinnon H&#248;j-Edwards
+061044.html,[Rd] RCMD check fails on &quot;checkin installed package size&quot;,61044,Stefan McKinnon H&#248;j-Edwards
+060812.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60812,Geoff Jentry
+061039.html,[Rd] R crashes if &quot;toFile&quot; given &quot;~/&quot; in Linux envirnonment,61039,Mark Kimpel
+061041.html,[Rd] R crashes if &quot;toFile&quot; given &quot;~/&quot; in Linux envirnonment,61041,Mark Kimpel
+060840.html,[Rd] Recursive objects,60840,Kenn Konstabel
+060907.html,[Rd] Recursive objects,60907,Steve Lianoglou
+060994.html,[Rd] How to document man/*.Rd pages with images?,60994,Steve Lianoglou
+060807.html,[Rd] How to create vignette.pdf for R-2.13.0?,60807,Uwe Ligges
+060808.html,[Rd] Location of Internal Code,60808,Uwe Ligges
+060814.html,[Rd] How to create vignette.pdf for R-2.13.0?,60814,Uwe Ligges
+060876.html,[Rd] tkrplot not working in R 2.13.0,60876,Uwe Ligges
+060945.html,[Rd] winbuilder temporary down,60945,Uwe Ligges
+060959.html,[Rd] Reference Classes  copy(shallow=FALSE) unexpected behavior.,60959,Manuel Castej&#243;n Limas
+060996.html,[Rd] Reference Classes copy(shallow=FALSE) unexpected behavior.,60996,Manuel Castej&#243;n Limas
+060997.html,[Rd] Reference Classes copy(shallow=FALSE) unexpected behavior.,60997,Manuel Castej&#243;n Limas
+061059.html,[Rd] Max likelihood using GPU,61059,Robert Lowe
+060830.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60830,Thomas Lumley
+061021.html,[Rd] RProfmem output format,61021,Thomas Lumley
+061027.html,[Rd] RProfmem output format,61027,Thomas Lumley
+060803.html,[Rd] R CMD check and Suggests Packages,60803,Martin Maechler
+060833.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60833,Martin Maechler
+060834.html,[Rd] R CMD check and Suggests Packages,60834,Martin Maechler
+061029.html,[Rd] Add &quot;See Also:  missing&quot; to help('exists')?,61029,Martin Maechler
+061108.html,[Rd] Statistical mode,61108,Arni Magnusson
+061115.html,[Rd] Statistical mode,61115,Arni Magnusson
+060932.html,[Rd] anova.lm fails with test=&quot;Cp&quot;,60932,John Maindonald
+060958.html,[Rd] anova.lm fails with test=&quot;Cp&quot;,60958,John Maindonald
+060917.html,[Rd] cerr and cout not working,60917,Sean Robert McGuffee
+060918.html,[Rd] cerr and cout not working calling c++ from R,60918,Sean Robert McGuffee
+060921.html,[Rd] cerr and cout not working calling c++ from R,60921,Sean Robert McGuffee
+060926.html,[Rd] cerr and cout not working calling c++ from R,60926,Sean Robert McGuffee
+060931.html,[Rd] cerr and cout not working calling c++ from R,60931,Sean Robert McGuffee
+060956.html,[Rd] cerr and cout not working calling c++ from R,60956,Sean Robert McGuffee
+060974.html,[Rd] How to document man/*.Rd pages with images?,60974,Sean Robert McGuffee
+060976.html,[Rd] How to document man/*.Rd pages with images?,60976,Sean Robert McGuffee
+060984.html,[Rd] How to document man/*.Rd pages with images?,60984,Sean Robert McGuffee
+060985.html,[Rd] How to document man/*.Rd pages with images?,60985,Sean Robert McGuffee
+060993.html,[Rd] How to document man/*.Rd pages with images?,60993,Sean Robert McGuffee
+061017.html,[Rd] R html help system [Was: How to document man/*.Rd pages with images?],61017,Sean Robert McGuffee
+061034.html,[Rd] R html help system [Was: How to document man/*.Rd pages with images?],61034,Sean Robert McGuffee
+061073.html,[Rd] Calling Rscript from Makevars,61073,Sean Robert McGuffee
+061076.html,[Rd] Calling Rscript from Makevars,61076,Sean Robert McGuffee
+061078.html,[Rd] Calling Rscript from Makevars,61078,Sean Robert McGuffee
+061088.html,[Rd] Calling Rscript from Makevars,61088,Sean Robert McGuffee
+061090.html,[Rd] Calling Rscript from Makevars,61090,Sean Robert McGuffee
+061109.html,[Rd] Calling Rscript from Makevars,61109,Sean Robert McGuffee
+061012.html,[Rd] readTableHead refers to itself as readTableHeader in some	messages,61012,Joris Meys
+060777.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60777,Martin Morgan
+060916.html,[Rd] Windows Rzlib.dll gzopen and friends,60916,Martin Morgan
+060936.html,[Rd] Devel version of R CMD build may create packages with incomplete doc/ directories,60936,Martin Morgan
+061049.html,[Rd] Windows Rzlib.dll gzopen and friends,61049,Martin Morgan
+061111.html,[Rd] Reference Classes/S4 Classes: can method dispatch check superclasses BEFORE resorting to method for &quot;ANY&quot;?,61111,Martin Morgan
+061132.html,[Rd] Query super- and subclasses of a class: is there a better way than to use 'completeClassDefinition()',61132,Martin Morgan
+060774.html,[Rd] Bug report: R 2.14.0dev Sweave option width does not work,60774,Duncan Murdoch
+060778.html,[Rd] Bug report: R 2.14.0dev Sweave option width does not work,60778,Duncan Murdoch
+060779.html,[Rd] How to create vignette.pdf for R-2.13.0?,60779,Duncan Murdoch
+060786.html,[Rd] Using substitute to access the expression related to a	promise,60786,Duncan Murdoch
+060798.html,[Rd] Capturing the expression representing the body of a	function,60798,Duncan Murdoch
+060823.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60823,Duncan Murdoch
+060836.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60836,Duncan Murdoch
+060844.html,[Rd] Error in .Fortran Call,60844,Duncan Murdoch
+060847.html,[Rd] Capturing the complete unevaluated expression corresponding to function (body + formals),60847,Duncan Murdoch
+060859.html,"[Rd] Curry: proposed new functional programming, er, function.",60859,Duncan Murdoch
+060915.html,[Rd] fortan common block,60915,Duncan Murdoch
+060960.html,[Rd] Fortran Symbol Name not in Load Table,60960,Duncan Murdoch
+060987.html,[Rd] How to document man/*.Rd pages with images?,60987,Duncan Murdoch
+060988.html,[Rd] How to document man/*.Rd pages with images?,60988,Duncan Murdoch
+060999.html,[Rd] RCMD check fails on &quot;checkin installed package size&quot;,60999,Duncan Murdoch
+061006.html,[Rd] Recursively parsing srcrefs,61006,Duncan Murdoch
+061007.html,[Rd] Reproducible use case for R crash after updating R,61007,Duncan Murdoch
+061009.html,[Rd] Recursively parsing srcrefs,61009,Duncan Murdoch
+061015.html,[Rd] Reproducible use case for R crash after updating R,61015,Duncan Murdoch
+061016.html,[Rd] Recursively parsing srcrefs,61016,Duncan Murdoch
+061031.html,[Rd] RCMD check fails on &quot;checkin installed package size&quot;,61031,Duncan Murdoch
+061045.html,[Rd] Reproducible use case for R crash after updating R,61045,Duncan Murdoch
+061058.html,[Rd] Reproducible use case for R crash after updating R,61058,Duncan Murdoch
+061065.html,"[Rd] Feature request: extend functionality of 'unlist()' by args 'delim=c(&quot;/&quot;, &quot;_&quot;, etc.)' and 'keep.special=TRUE/FALSE'",61065,Duncan Murdoch
+061093.html,[Rd] External special functions (SPECIALSXP),61093,Duncan Murdoch
+061097.html,[Rd] External special functions (SPECIALSXP),61097,Duncan Murdoch
+061114.html,"[Rd] [R] NaN, Inf to NA",61114,Duncan Murdoch
+061118.html,"[Rd] [R] NaN, Inf to NA",61118,Duncan Murdoch
+061119.html,"[Rd] [R] NaN, Inf to NA",61119,Duncan Murdoch
+061121.html,"[Rd] [R] NaN, Inf to NA",61121,Duncan Murdoch
+061137.html,[Rd] Comment on build and INSTALL,61137,Duncan Murdoch
+060781.html,[Rd] grid stringHeight,60781,Paul Murrell
+061086.html,[Rd] Use of R in C#,61086,Erich Neuwirth
+060784.html,[Rd] R CMD build processes inst/doc/Makefile only if there are vignette files?,60784,Herv&#233; Pag&#232;s
+060795.html,[Rd] R CMD check and Suggests Packages,60795,Herv&#233; Pag&#232;s
+060886.html,[Rd] R CMD check and Suggests Packages,60886,Herv&#233; Pag&#232;s
+060937.html,[Rd] How to create vignette.pdf for R-2.13.0?,60937,Herv&#233; Pag&#232;s
+060939.html,[Rd] How to create vignette.pdf for R-2.13.0?,60939,Herv&#233; Pag&#232;s
+061020.html,"[Rd] By default, `names&lt;-` alters S4 objects",61020,Herv&#233; Pag&#232;s
+061028.html,"[Rd] By default, `names&lt;-` alters S4 objects",61028,Herv&#233; Pag&#232;s
+061033.html,"[Rd] By default, `names&lt;-` alters S4 objects",61033,Herv&#233; Pag&#232;s
+061037.html,[Rd] R html help system [Was: How to document man/*.Rd pages with images?],61037,Herv&#233; Pag&#232;s
+061038.html,"[Rd] By default, `names&lt;-` alters S4 objects",61038,Herv&#233; Pag&#232;s
+061043.html,"[Rd] By default, `names&lt;-` alters S4 objects",61043,Herv&#233; Pag&#232;s
+061048.html,"[Rd] By default, `names&lt;-` alters S4 objects",61048,Herv&#233; Pag&#232;s
+061052.html,"[Rd] By default, `names&lt;-` alters S4 objects",61052,Herv&#233; Pag&#232;s
+060967.html,[Rd] New code in R-devel: Rao score test for glm.,60967,Brett Presnell
+060972.html,[Rd] New code in R-devel: Rao score test for glm.,60972,Brett Presnell
+061122.html,[Rd] Table Figures and Listings,61122,Orin Richards
+060782.html,[Rd] How to create vignette.pdf for R-2.13.0?,60782,Prof Brian Ripley
+060875.html,[Rd] tkrplot not working in R 2.13.0,60875,Prof Brian Ripley
+060950.html,[Rd] matrix multiplication speed R,60950,Prof Brian Ripley
+060965.html,[Rd] RCMD check fails on &quot;checkin installed package size&quot;,60965,Prof Brian Ripley
+060998.html,[Rd] raw connections: reading does not alter current position pointer,60998,Prof Brian Ripley
+061083.html,[Rd] non-R package development,61083,Prof Brian Ripley
+061117.html,"[Rd] [R] NaN, Inf to NA",61117,Prof Brian Ripley
+061126.html,[Rd] assignInNamespace and new bindings,61126,Prof Brian Ripley
+061127.html,[Rd] assignInNamespace and new bindings,61127,Prof Brian Ripley
+060978.html,[Rd] How to document man/*.Rd pages with images?,60978,Thomas Roth
+060980.html,[Rd] How to document man/*.Rd pages with images?,60980,Thomas Roth
+060983.html,[Rd] How to document man/*.Rd pages with images?,60983,Thomas Roth
+060989.html,[Rd] How to document man/*.Rd pages with images?,60989,Thomas Roth
+060850.html,[Rd] Recursive objects,60850,Barry Rowlingson
+060933.html,[Rd] fortan common block,60933,Barry Rowlingson
+061080.html,[Rd] non-R package development,61080,Barry Rowlingson
+060802.html,[Rd] Source for bash_completion.d/R?,60802,Deepayan Sarkar
+060911.html,[Rd] matrix not positive definite (while it should be),60911,Petr Savicky
+061116.html,"[Rd] [R] NaN, Inf to NA",61116,Marc Schwartz
+060794.html,[Rd] Source for bash_completion.d/R?,60794,Sharpie
+060878.html,"[Rd] Curry: proposed new functional programming, er, function.",60878,Sharpie
+060887.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60887,Sharpie
+060930.html,[Rd] fortan common block,60930,Sharpie
+060949.html,[Rd] matrix multiplication speed R,60949,Sharpie
+060957.html,[Rd] Fortran Symbol Name not in Load Table,60957,Sharpie
+060866.html,[Rd] tkrplot not working in R 2.13.0,60866,Greg Snow
+060880.html,[Rd] tkrplot not working in R 2.13.0,60880,Greg Snow
+060883.html,[Rd] tkrplot not working in R 2.13.0,60883,Greg Snow
+060902.html,[Rd] problem with location of libraries 64-bit (opensuse),60902,Detlef Steuer
+060906.html,[Rd] problem with location of libraries 64-bit (opensuse),60906,Detlef Steuer
+060910.html,[Rd] problem with location of libraries 64-bit (opensuse),60910,Detlef Steuer
+060821.html,[Rd] R CMD check and Suggests Packages,60821,Dario Strbenac
+060835.html,[Rd] R CMD check and Suggests Packages,60835,Dario Strbenac
+060857.html,[Rd] Recursive objects,60857,Michael Sumner
+060838.html,[Rd] proposal for package that creates the isomarginal family of two-way contingency tables,60838,Frank Technow
+060975.html,[Rd] How to document man/*.Rd pages with images?,60975,Dan Tenenbaum
+060962.html,"[Rd] stats:::biplot.prcomp: Scaling, typo in the help file?",60962,"Thaler, Thorn, LAUSANNE,	Applied Mathematics"
+060791.html,[Rd] R 2.13 segfault with range(),60791,Terry Therneau
+060792.html,[Rd] Replacing '.self' with an .Rda image of '.self' from within a	method?,60792,Janko Thyson
+060888.html,[Rd] Reference Classes: replacing '.self' with an .Rda image of '.self' from within a method? (was replacing '.self' with an .Rda image of '.self' from within a method?),60888,Janko Thyson
+061062.html,"[Rd] Feature request: extend functionality of 'unlist()' by args 'delim=c(&quot;/&quot;, &quot;_&quot;, etc.)' and 'keep.special=TRUE/FALSE'",61062,Janko Thyson
+061070.html,"[Rd] Feature request: extend functionality of 'unlist()' by args 'delim=c(&quot;/&quot;, &quot;_&quot;, etc.)' and 'keep.special=TRUE/FALSE'",61070,Janko Thyson
+061071.html,"[Rd] Feature request: extend functionality of 'unlist()' by args 'delim=c(&quot;/&quot;, &quot;_&quot;, etc.)' and 'keep.special=TRUE/FALSE'",61071,Janko Thyson
+061102.html,[Rd] Is it possible to define a function's arguments via a wildcard in 'substitute()'?,61102,Janko Thyson
+061105.html,[Rd] Is it possible to define a function's arguments via a wildcard in 'substitute()'?,61105,Janko Thyson
+061106.html,[Rd] Reference Classes: getter and setter functions/methods and possible shortcuts,61106,Janko Thyson
+061107.html,[Rd] Reference Classes: strange behavior when trying to change class def in the same R session,61107,Janko Thyson
+061110.html,[Rd] Reference Classes/S4 Classes: can method dispatch check superclasses BEFORE resorting to method for &quot;ANY&quot;?,61110,Janko Thyson
+061112.html,[Rd] Reference Classes/S4 Classes: can method dispatch check superclasses BEFORE resorting to method for &quot;ANY&quot;?,61112,Janko Thyson
+061124.html,[Rd] Query super- and subclasses of a class: is there a better way than to use 'completeClassDefinition()',61124,Janko Thyson
+060810.html,[Rd] R CMD build - will reset the timestamps of all files in a	package,60810,Valentin Todorov
+060905.html,[Rd] median and data frames,60905,Joshua Ulrich
+060816.html,[Rd] How to create vignette.pdf for R-2.13.0?,60816,Simon Urbanek
+060819.html,[Rd] How to create vignette.pdf for R-2.13.0?,60819,Simon Urbanek
+060826.html,[Rd] Wishlist: write R's bin path to the PATH variable and	remove the version string in the installation dir under Windows,60826,Simon Urbanek
+060853.html,[Rd] R CMD check and Suggests Packages,60853,Simon Urbanek
+060882.html,[Rd] Wishlist: write R's bin path to the PATH variable and	remove the version string in the installation dir under Windows,60882,Simon Urbanek
+060903.html,[Rd] problem with location of libraries 64-bit (opensuse),60903,Simon Urbanek
+060924.html,[Rd] cerr and cout not working calling c++ from R,60924,Simon Urbanek
+060929.html,[Rd] cerr and cout not working calling c++ from R,60929,Simon Urbanek
+060943.html,[Rd] fortan common block,60943,Simon Urbanek
+060979.html,[Rd] How to document man/*.Rd pages with images?,60979,Simon Urbanek
+060982.html,[Rd] How to document man/*.Rd pages with images?,60982,Simon Urbanek
+060986.html,[Rd] How to document man/*.Rd pages with images?,60986,Simon Urbanek
+061001.html,[Rd] R html help system [Was: How to document man/*.Rd pages with	images?],61001,Simon Urbanek
+061018.html,[Rd] R html help system [Was: How to document man/*.Rd pages	with images?],61018,Simon Urbanek
+061040.html,[Rd] R crashes if &quot;toFile&quot; given &quot;~/&quot; in Linux envirnonment,61040,Simon Urbanek
+061054.html,[Rd] S3 method dispatch - can methods come from the enclosing	environment?,61054,Simon Urbanek
+061067.html,[Rd] Error in svg() : cairo-based devices are not supported on	this build,61067,Simon Urbanek
+061068.html,[Rd] r-2.13 fails make check,61068,Simon Urbanek
+061069.html,[Rd] r-2.13 fails make check,61069,Simon Urbanek
+061074.html,[Rd] Calling Rscript from Makevars,61074,Simon Urbanek
+061075.html,[Rd] Calling Rscript from Makevars,61075,Simon Urbanek
+061079.html,[Rd] Calling Rscript from Makevars,61079,Simon Urbanek
+061089.html,[Rd] Calling Rscript from Makevars,61089,Simon Urbanek
+061091.html,[Rd] Calling Rscript from Makevars,61091,Simon Urbanek
+061101.html,[Rd] serialization of external pointers,61101,Simon Urbanek
+061134.html,[Rd] assignInNamespace and new bindings,61134,Simon Urbanek
+061139.html,[Rd] GUI hooks in R [Was: assignInNamespace and new bindings],61139,Simon Urbanek
+060856.html,"[Rd] Curry: proposed new functional programming, er, function.",60856,Ravi Varadhan
+060891.html,"[Rd] Curry: proposed new functional programming, er, function.",60891,Ravi Varadhan
+060955.html,[Rd] Time-machine typo,60955,Ravi Varadhan
+060773.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60773,Hadley Wickham
+060785.html,[Rd] Using substitute to access the expression related to a promise,60785,Hadley Wickham
+060789.html,[Rd] Using substitute to access the expression related to a	promise,60789,Hadley Wickham
+060790.html,[Rd] write.csv and match.call,60790,Hadley Wickham
+060796.html,[Rd] Capturing the expression representing the body of a function,60796,Hadley Wickham
+060800.html,[Rd] Capturing the expression representing the body of a	function,60800,Hadley Wickham
+060818.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60818,Hadley Wickham
+060837.html,[Rd] Recursive objects,60837,Hadley Wickham
+060841.html,[Rd] Capturing the complete unevaluated expression corresponding to function (body + formals),60841,Hadley Wickham
+060843.html,[Rd] Recursive objects,60843,Hadley Wickham
+060849.html,[Rd] Recursive objects,60849,Hadley Wickham
+060851.html,[Rd] Capturing the complete unevaluated expression corresponding to function (body + formals),60851,Hadley Wickham
+060852.html,[Rd] Recursive objects,60852,Hadley Wickham
+060854.html,"[Rd] Curry: proposed new functional programming, er, function.",60854,Hadley Wickham
+060867.html,"[Rd] Curry: proposed new functional programming, er, function.",60867,Hadley Wickham
+060868.html,"[Rd] Curry: proposed new functional programming, er, function.",60868,Hadley Wickham
+060871.html,"[Rd] Curry: proposed new functional programming, er, function.",60871,Hadley Wickham
+060872.html,"[Rd] Reference Classes: Accessing methods via [[...]], bug?",60872,Hadley Wickham
+060877.html,"[Rd] Reference Classes: (Was: Accessing methods via [[...]],	bug?)",60877,Hadley Wickham
+060897.html,"[Rd] Curry: proposed new functional programming, er, function.",60897,Hadley Wickham
+060898.html,"[Rd] Curry: proposed new functional programming, er, function.",60898,Hadley Wickham
+060899.html,"[Rd] Curry: proposed new functional programming, er, function.",60899,Hadley Wickham
+060935.html,[Rd] Warning when drop is missing,60935,Hadley Wickham
+060952.html,[Rd] Which higher-order function,60952,Hadley Wickham
+060953.html,[Rd] Debugging warnings,60953,Hadley Wickham
+060966.html,[Rd] Reference Classes copy(shallow=FALSE) unexpected behavior.,60966,Hadley Wickham
+060969.html,[Rd] Reference Classes copy(shallow=FALSE) unexpected behavior.,60969,Hadley Wickham
+060977.html,[Rd] How to document man/*.Rd pages with images?,60977,Hadley Wickham
+060990.html,[Rd] How to document man/*.Rd pages with images?,60990,Hadley Wickham
+060991.html,[Rd] Reference Classes copy(shallow=FALSE) unexpected behavior.,60991,Hadley Wickham
+061003.html,[Rd] Recursively parsing srcrefs,61003,Hadley Wickham
+061008.html,[Rd] Recursively parsing srcrefs,61008,Hadley Wickham
+061014.html,[Rd] RProfmem output format,61014,Hadley Wickham
+061022.html,[Rd] RProfmem output format,61022,Hadley Wickham
+061024.html,[Rd] Recursively parsing srcrefs,61024,Hadley Wickham
+061023.html,[Rd] Recursively parsing srcrefs,61023,Hadley Wickham
+061025.html,[Rd] RProfmem output format,61025,Hadley Wickham
+061104.html,[Rd] Is it possible to define a function's arguments via a wildcard in 'substitute()'?,61104,Hadley Wickham
+060832.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60832,Wincent
+060908.html,[Rd] Recursive objects,60908,David Winsemius
+061113.html,[Rd] Statistical mode,61113,Kevin Wright
+060820.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60820,Yihui Xie
+060824.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60824,Yihui Xie
+060825.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60825,Yihui Xie
+060827.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60827,Yihui Xie
+060829.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60829,Yihui Xie
+060862.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60862,Yihui Xie
+060865.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60865,Yihui Xie
+060869.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60869,Yihui Xie
+060894.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60894,Yihui Xie
+060895.html,[Rd] Wishlist: write R's bin path to the PATH variable and remove the version string in the installation dir under Windows,60895,Yihui Xie
+060951.html,[Rd] matrix multiplication speed R,60951,aftar
+060783.html,[Rd] grid stringHeight,60783,baptiste auguie
+060893.html,"[Rd] Curry: proposed new functional programming, er, function.",60893,baptiste auguie
+061053.html,[Rd] S3 method dispatch - can methods come from the enclosing environment?,61053,Bill.Venables at csiro.au
+061055.html,[Rd] S3 method dispatch - can methods come from the enclosing environment?,61055,Bill.Venables at csiro.au
+061046.html,[Rd] Reproducible use case for R crash after updating R,61046,Mark.Bravington at csiro.au
+060775.html,[Rd] How to create vignette.pdf for R-2.13.0?,60775,cstrato
+060797.html,[Rd] How to create vignette.pdf for R-2.13.0?,60797,cstrato
+060813.html,[Rd] How to create vignette.pdf for R-2.13.0?,60813,cstrato
+060815.html,[Rd] How to create vignette.pdf for R-2.13.0?,60815,cstrato
+060817.html,[Rd] How to create vignette.pdf for R-2.13.0?,60817,cstrato
+060889.html,[Rd] How to create vignette.pdf for R-2.13.0?,60889,cstrato
+060938.html,[Rd] How to create vignette.pdf for R-2.13.0?,60938,cstrato
+060944.html,[Rd] How to create vignette.pdf for R-2.13.0?,60944,cstrato
+060809.html,[Rd] [R] Sweave stops when opening X11 device fails,60809,peter dalgaard
+060842.html,[Rd] Recursive objects,60842,peter dalgaard
+060881.html,[Rd] tkrplot not working in R 2.13.0,60881,peter dalgaard
+060934.html,[Rd] anova.lm fails with test=&quot;Cp&quot;,60934,peter dalgaard
+060963.html,[Rd] New code in R-devel: Rao score test for glm.,60963,peter dalgaard
+060970.html,[Rd] New code in R-devel: Rao score test for glm.,60970,peter dalgaard
+060896.html,[Rd] what's R save terminal flag?,60896,dma
+060771.html,[Rd] Kendall's tau code,60771,SeshanV at mskcc.org
+061057.html,[Rd] Max likelihood using GPU,61057,oyvfos
+061061.html,[Rd] IDWT - Inverse Discrete Wavelet Transform,61061,ruoccoma
+060846.html,[Rd] Recursive objects,60846,luke-tierney at uiowa.edu
+060861.html,"[Rd] Curry: proposed new functional programming, er, function.",60861,luke-tierney at uiowa.edu
+060890.html,[Rd] tkrplot not working in R 2.13.0,60890,luke-tierney at uiowa.edu
+061131.html,[Rd] assignInNamespace and new bindings,61131,luke-tierney at uiowa.edu
+061135.html,[Rd] assignInNamespace and new bindings,61135,luke-tierney at uiowa.edu
+061120.html,[Rd] Nested design,61120,unpeatable
+060922.html,[Rd] Create and access several instances of a C++ class from R,60922,soeren.vogel at uzh.ch
+060927.html,[Rd] Create and access several instances of a C++ class from R,60927,soeren.vogel at uzh.ch
+061013.html,[Rd] Create and access several instances of a C++ class from R,61013,soeren.vogel at uzh.ch
+060839.html,[Rd] Error in .Fortran Call,60839,vioravis
+060885.html,[Rd] Error in .Fortran Call,60885,vioravis
+060940.html,[Rd] Fortran Symbol Name not in Load Table,60940,vioravis
+060941.html,[Rd] Fortran Symbol Name not in Load Table,60941,vioravis
+060948.html,[Rd] Fortran Symbol Name not in Load Table,60948,vioravis
+060961.html,[Rd] Fortran Symbol Name not in Load Table,60961,vioravis

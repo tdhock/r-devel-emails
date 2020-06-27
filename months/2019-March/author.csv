@@ -1,0 +1,179 @@
+link,Subject,id,author
+077419.html,[Rd] Package inclusion in R core implementation,77419,Avraham Adler
+077509.html,[Rd] R 3.5.3 having trouble spawning a new process on my Windows 10 machine,77509,Sam Albers
+077514.html,[Rd]  R 3.5.3 having trouble spawning a new process on my Windows 10 machine,77514,Sam Albers
+077408.html,[Rd] stopifnot,77408,Suharto Anggono Suharto Anggono
+077409.html,[Rd] stopifnot,77409,Suharto Anggono Suharto Anggono
+077432.html,[Rd] stopifnot,77432,Suharto Anggono Suharto Anggono
+077449.html,[Rd] stopifnot,77449,Suharto Anggono Suharto Anggono
+077482.html,[Rd] Inappropriate &quot;Unix-alike platforms&quot; in txtProgressBar.Rd in R devel,77482,Suharto Anggono Suharto Anggono
+077573.html,[Rd] stopifnot,77573,Suharto Anggono Suharto Anggono
+077517.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77517,Rui Barradas
+077425.html,[Rd]  Should CRAN accept packages with non-R code that transcompiles into R code?,77425,Gabriel Becker
+077440.html,[Rd]  Should CRAN accept packages with non-R code that transcompiles into R code?,77440,Gabriel Becker
+077441.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77441,Gabriel Becker
+077444.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77444,Gabriel Becker
+077513.html,[Rd] bugs in head() and tail(),77513,Gabriel Becker
+077524.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77524,Gabriel Becker
+077528.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77528,Gabriel Becker
+077541.html,[Rd] [RFC] readtable enhancement,77541,Gabriel Becker
+077556.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77556,Gabriel Becker
+077567.html,[Rd] Use of C++ in Packages,77567,Gabriel Becker
+077477.html,[Rd] SUGGESTION: Proposal to mitigate problem with stray processes left behind by parallel::makeCluster(),77477,Henrik Bengtsson
+077537.html,[Rd] issue with latest release of R-devel,77537,Henrik Bengtsson
+077538.html,[Rd]  SUGGESTION: Proposal to mitigate problem with stray processes left behind by parallel::makeCluster(),77538,Henrik Bengtsson
+077411.html,"[Rd] bug: sample( x, size, replace = TRUE, prob= skewed.probs) produces uniform sample",77411,"Berry, Charles"
+077516.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77516,"Berry, Charles"
+077467.html,[Rd] r76237 broken?,77467,Ben Bolker
+077468.html,[Rd] r76237 broken?,77468,Ben Bolker
+077521.html,[Rd] [PATCH 1/2] readtable: add hook for type conversions per column,77521,Ben Bolker
+077534.html,[Rd] [RFC] readtable enhancement,77534,Ben Bolker
+077563.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77563,Ben Bolker
+077483.html,[Rd] Possibly broken system2 env-option,77483,Henning Bredel
+077489.html,[Rd] Possibly broken system2 env-option,77489,Henning Bredel
+077422.html,[Rd] R CMD build installing the package to process help pages,77422,G&#225;bor Cs&#225;rdi
+077450.html,[Rd] package installation needs the file utility on Unix,77450,G&#225;bor Cs&#225;rdi
+077452.html,[Rd] package installation needs the file utility on Unix,77452,G&#225;bor Cs&#225;rdi
+077484.html,[Rd] Possibly broken system2 env-option,77484,G&#225;bor Cs&#225;rdi
+077486.html,[Rd] Possibly broken system2 env-option,77486,G&#225;bor Cs&#225;rdi
+077488.html,[Rd] Possibly broken system2 env-option,77488,G&#225;bor Cs&#225;rdi
+077547.html,[Rd] topenv of emptyenv,77547,G&#225;bor Cs&#225;rdi
+077458.html,[Rd] R 3.5.3 is released,77458,Peter Dalgaard
+077499.html,[Rd] R 3.6.0 scheduled for April 26,77499,Peter Dalgaard
+077507.html,[Rd] [PATCH 1/2] readtable: add hook for type conversions per column,77507,Kurt Van Dijck
+077508.html,[Rd] [PATCH 2/2] readtable: add test for type conversion hook 'colConvert',77508,Kurt Van Dijck
+077518.html,[Rd] [PATCH 1/2] readtable: add hook for type conversions per column,77518,Kurt Van Dijck
+077520.html,[Rd] [PATCH 1/2] readtable: add hook for type conversions per column,77520,Kurt Van Dijck
+077532.html,[Rd] [RFC] readtable enhancement,77532,Kurt Van Dijck
+077540.html,[Rd] [RFC] readtable enhancement,77540,Kurt Van Dijck
+077542.html,[Rd] [RFC] readtable enhancement,77542,Kurt Van Dijck
+077442.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77442,William Dunlap
+077454.html,[Rd] POSIXlt$zone and $gmtoff questions,77454,William Dunlap
+077523.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77523,William Dunlap
+077554.html,[Rd] default for 'signif.stars',77554,"Fox, John"
+077569.html,[Rd] Use of C++ in Packages,77569,Romain Francois
+077572.html,[Rd] Use of C++ in Packages,77572,Brodie Gaslam
+077417.html,[Rd] Package inclusion in R core implementation,77417,Jim Hester
+077560.html,[Rd] Use of C++ in Packages,77560,Jim Hester
+077406.html,[Rd] Problem with compiling OpenBLAS to work with R,77406,Erin Hodgess
+077410.html,[Rd] Using a different compiler when creating a package on Windows,77410,Erin Hodgess
+077416.html,[Rd] Problem with compiling OpenBLAS to work with R,77416,Erin Hodgess
+077460.html,[Rd]  Spurious warning from checkReplaceFuns about a non-replacement function,77460,Kurt Hornik
+077464.html,[Rd] Possible bug in requireNamespace,77464,David Hugh-Jones
+077396.html,[Rd] pcre problems,77396,Tomas Kalibera
+077398.html,[Rd] pcre problems,77398,Tomas Kalibera
+077400.html,[Rd] pcre problems,77400,Tomas Kalibera
+077404.html,[Rd]  Surprising results from INTEGER_GET_REGION with ALTREP object,77404,Tomas Kalibera
+077451.html,[Rd] package installation needs the file utility on Unix,77451,Tomas Kalibera
+077473.html,[Rd] Exit status of Rscript when setting options(error=utils::recover),77473,Tomas Kalibera
+077531.html,[Rd]  SUGGESTION: Proposal to mitigate problem with stray processes left behind by parallel::makeCluster(),77531,Tomas Kalibera
+077434.html,[Rd] R cairo_pdf function does not respect plotting boundaries,77434,Lee Steven Kelvin
+077490.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77490,Michael Lawrence
+077494.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77494,Michael Lawrence
+077496.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77496,Michael Lawrence
+077519.html,[Rd] [PATCH 1/2] readtable: add hook for type conversions per column,77519,Michael Lawrence
+077533.html,[Rd] [RFC] readtable enhancement,77533,Michael Lawrence
+077551.html,[Rd] [RFC] readtable enhancement,77551,Michael Lawrence
+077552.html,[Rd] topenv of emptyenv,77552,Michael Lawrence
+077525.html,[Rd] default for 'signif.stars',77525,"Lenth, Russell V"
+077571.html,[Rd] [External] re:  default for 'signif.stars',77571,"Lenth, Russell V"
+077402.html,[Rd] stopifnot,77402,Martin Maechler
+077414.html,[Rd] Problem with compiling OpenBLAS to work with R,77414,Martin Maechler
+077415.html,[Rd] stopifnot,77415,Martin Maechler
+077429.html,[Rd] Development version of R fails tests and is not installed,77429,Martin Maechler
+077431.html,[Rd] Development version of R fails tests and is not installed,77431,Martin Maechler
+077436.html,[Rd] stopifnot,77436,Martin Maechler
+077445.html,[Rd] stopifnot,77445,Martin Maechler
+077446.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77446,Martin Maechler
+077447.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77447,Martin Maechler
+077459.html,[Rd] Ellipsis and dot-dot-number [Re: Dots are not fixed by make.names()],77459,Martin Maechler
+077466.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77466,Martin Maechler
+077478.html,[Rd] broken link in docs for Binormial functions,77478,Martin Maechler
+077498.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77498,Martin Maechler
+077503.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77503,Martin Maechler
+077529.html,[Rd] [PATCH 1/2] readtable: add hook for type conversions per column,77529,Martin Maechler
+077544.html,[Rd] default for 'signif.stars',77544,Martin Maechler
+077545.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77545,Martin Maechler
+077546.html,[Rd] topenv of emptyenv,77546,Martin Maechler
+077559.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77559,Martin Maechler
+077492.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77492,Robert McGehee
+077501.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77501,Robert McGehee
+077510.html,[Rd]  R 3.5.3 having trouble spawning a new process on my Windows 10 machine,77510,Joris Meys
+077421.html,[Rd] Package inclusion in R core implementation,77421,Duncan Murdoch
+077426.html,[Rd]  [FORGED] [R] R cairo_pdf function does not respect plotting boundaries,77426,Paul Murrell
+077461.html,[Rd] R cairo_pdf function does not respect plotting boundaries,77461,Paul Murrell
+077476.html,[Rd]  [FORGED] Could we make filled.contour() more suitable for PDF viewers?,77476,Paul Murrell
+077462.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77462,"Mychaleckyj, Josyf C (jcm6t)"
+077470.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77470,"Mychaleckyj, Josyf C (jcm6t)"
+077453.html,[Rd] Ellipsis and dot-dot-number [Re: Dots are not fixed by make.names()],77453,Kirill M&#252;ller
+077418.html,[Rd] Package inclusion in R core implementation,77418,J C Nash
+077420.html,[Rd] Package inclusion in R core implementation,77420,J C Nash
+077423.html,[Rd] Fwd:  Package inclusion in R core implementation,77423,J C Nash
+077562.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77562,J C Nash
+077465.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77465,"Pages, Herve"
+077493.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77493,"Pages, Herve"
+077495.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77495,"Pages, Herve"
+077497.html,[Rd] selectMethod() can fail to find methods in situations of multiple dispatch,77497,"Pages, Herve"
+077455.html,[Rd] Spurious warning from checkReplaceFuns about a non-replacement function,77455,Hugh Parsonage
+077430.html,[Rd] Development version of R fails tests and is not installed,77430,Prof Brian Ripley
+077558.html,[Rd] default for 'signif.stars',77558,Andrew Robinson
+077543.html,[Rd] bugs in head() and tail(),77543,Barry Rowlingson
+077506.html,[Rd] topenv of emptyenv,77506,Konrad Rudolph
+077548.html,[Rd] topenv of emptyenv,77548,Konrad Rudolph
+077505.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77505,Marc Schwartz
+077413.html,[Rd] Bug: as.matrix.data.frame() treats numeric vectors with &quot;levels&quot; attribute as factors,77413,David Skalinder
+077515.html,"[Rd] [Enhancement] New argument for dirname() -- dirname(path, depth = 1L)",77515,Luke Smith
+077424.html,[Rd] Should CRAN accept packages with non-R code that transcompiles into R code?,77424,Abs Spurdle
+077437.html,[Rd]  Should CRAN accept packages with non-R code that transcompiles into R code?,77437,Abs Spurdle
+077438.html,[Rd]  Should CRAN accept packages with non-R code that transcompiles into R code?,77438,Abs Spurdle
+077469.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77469,Abs Spurdle
+077475.html,[Rd] Could we make filled.contour() more suitable for PDF viewers?,77475,Abs Spurdle
+077511.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77511,Abs Spurdle
+077512.html,[Rd] bugs in head() and tail(),77512,Abs Spurdle
+077522.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77522,Abs Spurdle
+077526.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77526,Abs Spurdle
+077527.html,[Rd] bugs in head() and tail(),77527,Abs Spurdle
+077535.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77535,Abs Spurdle
+077539.html,[Rd] default for 'signif.stars',77539,Abs Spurdle
+077555.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77555,Abs Spurdle
+077566.html,[Rd] default for 'signif.stars',77566,Abs Spurdle
+077480.html,[Rd] RIOT 2019,77480,Stepan
+077403.html,[Rd] Surprising results from INTEGER_GET_REGION with ALTREP object,77403,Ralf Stubner
+077500.html,[Rd] Status of R_unif_index,77500,Ralf Stubner
+077457.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77457,Shian Su
+077557.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77557,Saren Tasciyan
+077561.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77561,Saren Tasciyan
+077471.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77471,"Therneau, Terry M., Ph.D."
+077474.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77474,"Therneau, Terry M., Ph.D."
+077536.html,[Rd] issue with latest release of R-devel,77536,"Therneau, Terry M., Ph.D."
+077549.html,[Rd] default for 'signif.stars',77549,"Therneau, Terry M., Ph.D."
+077550.html,[Rd] [EXTERNAL] Re:  issue with latest release of R-devel,77550,"Therneau, Terry M., Ph.D."
+077407.html,[Rd] issue with sample in R 3.6.0.,77407,"Tierney, Luke"
+077412.html,"[Rd] bug: sample( x, size, replace = TRUE, prob= skewed.probs) produces uniform sample",77412,"Tierney, Luke"
+077448.html,"[Rd] bug: sample( x, size, replace = TRUE, prob= skewed.probs) produces uniform sample",77448,"Tierney, Luke"
+077427.html,[Rd] Development version of R fails tests and is not installed,77427,Berwin A Turlach
+077481.html,[Rd] Exit status of Rscript when setting options(error=utils::recover),77481,Simon Urbanek
+077564.html,[Rd] Use of C++ in Packages,77564,Simon Urbanek
+077568.html,[Rd] Use of C++ in Packages,77568,Simon Urbanek
+077565.html,[Rd] Use of C++ in Packages,77565,Kevin Ushey
+077428.html,[Rd] Weird problem / bug with augPred() from nlme,77428,"Viechtbauer, Wolfgang (SP)"
+077433.html,[Rd]  Should CRAN accept packages with non-R code that transcompiles into R code?,77433,jan Vitek
+077439.html,[Rd]  Should CRAN accept packages with non-R code that transcompiles into R code?,77439,jan Vitek
+077435.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77435,Richard White
+077443.html,[Rd] as.Date(Inf) displays as 'NA' but is actually 'Inf',77443,Richard White
+077530.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77530,Hadley Wickham
+077553.html,"[Rd] Discrepancy between is.list() and is(x, &quot;list&quot;)",77553,Hadley Wickham
+077405.html,[Rd] issue with sample in R 3.6.0.,77405,Joseph Wood
+077570.html,[Rd] Use of C++ in Packages,77570,cstrato
+077463.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77463,peter dalgaard
+077472.html,[Rd] as.data.frame.table() does not recognize default.stringsAsFactors(),77472,peter dalgaard
+077485.html,[Rd] Possibly broken system2 env-option,77485,peter dalgaard
+077487.html,[Rd] Possibly broken system2 env-option,77487,peter dalgaard
+077502.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77502,peter dalgaard
+077504.html,[Rd] prettyNum digits=0 not compatible with scientific notation,77504,peter dalgaard
+077456.html,[Rd] Exit status of Rscript when setting options(error=utils::recover),77456,comic fans
+077479.html,[Rd] Exit status of Rscript when setting options(error=utils::recover),77479,comic fans
+077395.html,[Rd] pcre problems,77395,robin hankin
+077397.html,[Rd] pcre problems,77397,robin hankin
+077399.html,[Rd] pcre problems,77399,robin hankin
+077491.html,[Rd] Possibly broken system2 env-option,77491,l o

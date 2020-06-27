@@ -1,0 +1,108 @@
+link,Subject,id,author
+021791.html,stock idea dvdt,21791,1hotbuy@4-charity.org
+021777.html,format.char() speedup,21777,Jens Oehlschlägel-Akiyoshi
+021813.html,functions for flat file import/export + utilities,21813,Jens Oehlschlägel-Akiyoshi
+021815.html,"inconsistencies between formatC(), format() and format.char()",21815,Jens Oehlschlägel-Akiyoshi
+021868.html,NA not printed after table (PR#407),21868,Andreas.Weingessel@ci.tuwien.ac.at
+021778.html,set functions,21778,Peter Dalgaard BSA
+021780.html,set functions,21780,Peter Dalgaard BSA
+021781.html,set functions,21781,Peter Dalgaard BSA
+021814.html,a +1 shift overlaying lines/points on a boxplot (PR#398),21814,Peter Dalgaard BSA
+021834.html,Bug list summary (automatic post),21834,Peter Dalgaard BSA
+021838.html,tabulate,21838,Peter Dalgaard BSA
+021840.html,tabulate,21840,Peter Dalgaard BSA
+021842.html,tabulate,21842,Peter Dalgaard BSA
+021846.html,core dump involving function closure (PR#402),21846,Peter Dalgaard BSA
+021866.html,handling of dimension-attribute in density (PR#406),21866,Peter Dalgaard BSA
+021870.html,handling of dimension-attribute in density (PR#406),21870,Peter Dalgaard BSA
+021790.html,network outage 1/9/2000 05:00 - 09:30 CST,21790,Douglas Bates
+021794.html,anoncvs -- use rsync !,21794,Douglas Bates
+021798.html,Are blank fields allowed in SAS data sets?,21798,Douglas Bates
+021799.html,Are blank fields allowed in SAS data sets?,21799,Douglas Bates
+021854.html,"src/include/{Complex,MathLib,PrtUtil,Random}.h in CVS",21854,Douglas Bates
+021822.html,lwd patches for &quot;contour&quot;,21822,Ben Bolker
+021823.html,RNG initialization,21823,Ben Bolker
+021825.html,RNG initialization,21825,Ben Bolker
+021858.html,oops,21858,Ben Bolker
+021864.html,oops,21864,Ben Bolker
+021847.html,patch for using GNU linker with sparc-sun-solaris2.*,21847,Marcus G. Daniels
+021848.html,passing through configure parameters during module installation?,21848,Marcus G. Daniels
+021851.html,passing through configure parameters during module installation?,21851,Marcus G. Daniels
+021853.html,"src/include/{Complex,MathLib,PrtUtil,Random}.h in CVS",21853,Marcus G. Daniels
+021855.html,"src/include/{Complex,MathLib,PrtUtil,Random}.h in CVS",21855,Marcus G. Daniels
+020080.html,HDF5 as a module,20080,Marcus G. Daniels
+021833.html,bug in setting length of a list,21833,Saikat DebRoy
+021789.html,anoncvs,21789,Paul Gilbert
+021808.html,Figure margins too large,21808,Paul Gilbert
+021826.html,RNG initialization,21826,Paul Gilbert
+021828.html,RNG initialization,21828,Paul Gilbert
+021830.html,RNG initialization,21830,Paul Gilbert
+021773.html,Segfault in dataentry() (PR#391),21773,Kurt Hornik
+021849.html,passing through configure parameters during module installation?,21849,Kurt Hornik
+020084.html,[Rd] Re: HDF5 as a module,20084,Kurt Hornik
+020087.html,[Rd] Re: HDF5 as a module,20087,Kurt Hornik
+021795.html,anoncvs -- use rsync !,21795,Duncan Temple Lang
+021859.html,mailx (PR#404),21859,Friedrich Leisch
+021860.html,oops,21860,Friedrich Leisch
+021861.html,oops,21861,Friedrich Leisch
+021785.html,set functions,21785,Martin Maechler
+021792.html,anoncvs -- use rsync !,21792,Martin Maechler
+021812.html,Figure margins too large,21812,Martin Maechler
+021818.html,missing warnings...,21818,Martin Maechler
+021820.html,"'at' parameter in mtext(.., adj=0, outer=T) (PR#396)",21820,Martin Maechler
+013342.html,"[R-d] E-mail to R-devel will have prefix, ok?",13342,Martin Maechler
+020081.html,"[Rd] Re: E-mail to R-devel will have prefix, ok?",20081,Martin Maechler
+020086.html,[Rd] Feature requests for princomp(.) : Allow cor() specifications,20086,Martin Maechler
+021843.html,lwd patches for &quot;contour&quot;,21843,Paul Murrell
+020085.html,[Rd] Re: HDF5 as a module,20085,Martyn Plummer
+021827.html,RNG initialization,21827,Prof Brian Ripley
+021829.html,RNG initialization,21829,Prof Brian Ripley
+021856.html,"data.frame[1,1]&lt;- differs from data.frame[[1]][1]&lt;- (PR#403)",21856,Prof Brian Ripley
+021865.html,error in dweibull (PR#405),21865,Prof Brian Ripley
+021867.html,handling of dimension-attribute in density (PR#406),21867,Prof Brian Ripley
+021786.html,set functions,21786,Prof Brian D Ripley
+021810.html,deviance residuals in binomial GLM (PR#399),21810,Prof Brian D Ripley
+021819.html,"'at' parameter in mtext(.., adj=0, outer=T) (PR#396)",21819,Prof Brian D Ripley
+021821.html,"'at' parameter in mtext(.., adj=0, outer=T) (PR#396)",21821,Prof Brian D Ripley
+021824.html,RNG initialization,21824,Prof Brian D Ripley
+021831.html,RNG initialization,21831,Prof Brian D Ripley
+021837.html,R header files,21837,Prof Brian D Ripley
+021844.html,tabulate,21844,Prof Brian D Ripley
+021797.html,anoncvs for R should work again,21797,A.J. Rossini
+021796.html,anoncvs -- use rsync !,21796,A.J. Rossini
+021776.html,set functions,21776,Jonathan Rougier
+021779.html,set functions,21779,Jonathan Rougier
+013274.html,set functions,13274,Jonathan Rougier
+021783.html,set functions,21783,Jonathan Rougier
+021787.html,set functions,21787,Jonathan Rougier
+021793.html,set functions,21793,Jonathan Rougier
+021804.html,sets again (trivial),21804,Jonathan Rougier
+020083.html,[Rd] Interest in R plotting capabilities,20083,Bill Simpson
+020082.html,[Rd] Interest in R plotting capabilities,20082,Telford Tendys
+021836.html,tabulate,21836,Bill Venables
+021841.html,tabulate,21841,Bill Venables
+021835.html,tabulate,21835,David Wooff
+021839.html,tabulate,21839,David Wooff
+021807.html,a +1 shift overlaying lines/points on a boxplot (PR#398),21807,acuster@nature.berkeley.edu
+021774.html,links in faq file broken (PR#393),21774,aim@uwo.ca
+021857.html,mailx (PR#404),21857,bolker@zoo.ufl.edu
+021809.html,deviance residuals in binomial GLM (PR#399),21809,faraway@umich.edu
+021788.html,bug in glm.fit (PR#395),21788,holzer@stat.math.ethz.ch
+021801.html,bug in glm (PR#397),21801,holzer@stat.math.ethz.ch
+021805.html,bug in glm (PR#397),21805,holzer@stat.math.ethz.ch
+021775.html,formatC (bug and fix) (PR#394),21775,jens.oehlschlaegel-akiyoshi@mdfactory.de
+021852.html,"data.frame[1,1]&lt;- differs from data.frame[[1]][1]&lt;- (PR#403)",21852,jens.oehlschlaegel-akiyoshi@mdfactory.de
+021845.html,core dump involving function closure (PR#402),21845,jlindsey@alpha.luc.ac.be
+021800.html,"'at' parameter in mtext(.., adj=0, outer=T) (PR#396)",21800,john.maindonald@anu.edu.au
+021802.html,bug in glm (PR#397),21802,maechler@stat.math.ethz.ch
+021811.html,deviance residuals in binomial GLM (PR#399),21811,maechler@stat.math.ethz.ch
+021816.html,X11 troubles (PR#400),21816,p.dalgaard@biostat.ku.dk
+021869.html,handling of dimension-attribute in density (PR#406),21869,p.dalgaard@biostat.ku.dk
+021863.html,handling of dimension-attribute in density (PR#406),21863,polzehl@wias-berlin.de
+021803.html,bug in glm (PR#397),21803,ripley@stats.ox.ac.uk
+021806.html,bug in glm (PR#397),21806,ripley@stats.ox.ac.uk
+021817.html,bug in glm (PR#397),21817,ripley@stats.ox.ac.uk
+021832.html,bug in setting length of a list (PR#401),21832,saikat@stat.wisc.edu
+021862.html,error in dweibull (PR#405),21862,setzer.woodrow@epa.gov
+021784.html,Welcome to post your business and trade offers in sino trade Leads wwwboard!,21784,sino123@hotmail.com
+021871.html,convolution bug (PR#408),21871,wsimpson@gcal.ac.uk

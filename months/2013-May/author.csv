@@ -1,0 +1,230 @@
+link,Subject,id,author
+066729.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66729,"Adler, Avraham"
+066731.html,"[Rd] &quot;Unable to optimize&quot; error returned in factanal using R-3.0.1, Windows 64 bit, and OpenBLAS",66731,"Adler, Avraham"
+066746.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66746,"Adler, Avraham"
+066747.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66747,"Adler, Avraham"
+066751.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66751,"Adler, Avraham"
+066754.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66754,"Adler, Avraham"
+066671.html,[Rd] is.vector(as.vector(data.frame(a=1))) and	is.vector(as.vector(call(&quot;c&quot;))) are FALSE,66671,Suharto Anggono Suharto Anggono
+066727.html,[Rd] 'rbind' in example(make.unique),66727,Suharto Anggono Suharto Anggono
+066569.html,[Rd] Minimal build of R ...,66569,Gabriel Becker
+066590.html,[Rd] Minimal build of R ...,66590,Gabriel Becker
+066593.html,[Rd] Minimal build of R ...,66593,Gabriel Becker
+066601.html,[Rd] Minimal build of R ...,66601,Gabriel Becker
+066622.html,[Rd] call R function from C code,66622,Gabriel Becker
+066680.html,[Rd] Accessing i'th element of a vector without using a macro,66680,Gabriel Becker
+066620.html,[Rd] cairo is not the default when available,66620,Michael Bell
+066614.html,[Rd] getting corrupted data when using readBin() after seek() on a gzfile connection,66614,Henrik Bengtsson
+066708.html,[Rd] Code compilation: Drop certain statements in a function before calling it multiple times?,66708,Henrik Bengtsson
+066722.html,[Rd] Assigning NULL to large variables is much faster than rm() - any reason why I should still use rm()?,66722,Henrik Bengtsson
+066726.html,[Rd] Assigning NULL to large variables is much faster than rm() - any reason why I should still use rm()?,66726,Henrik Bengtsson
+066545.html,[Rd] foreign: write.xport,66545,Tim Bergsma
+066668.html,[Rd] locking down R,66668,Ben Bolker
+066676.html,[Rd] locking down R,66676,Ben Bolker
+066677.html,[Rd] locking down R,66677,Ben Bolker
+066732.html,[Rd] quick question about glm() example,66732,Ben Bolker
+066734.html,[Rd] quick question about glm() example,66734,Ben Bolker
+066530.html,[Rd] trace with reference class,66530,John Chambers
+066611.html,[Rd] Namespace/inheritance problem in S4 methods for a union class,66611,John Chambers
+066618.html,[Rd] Namespace/inheritance problem in S4 methods for a union	class,66618,John Chambers
+066669.html,[Rd] Copy on assignment to large field of reference class,66669,John Chambers
+066533.html,[Rd] objects with tsp attribute but no class,66533,William Dunlap
+066637.html,[Rd] problem in add1's F statistic when data contains NAs?,66637,William Dunlap
+066700.html,[Rd] Objects created by more than one data call?,66700,William Dunlap
+066702.html,[Rd] Objects created by more than one data call?,66702,William Dunlap
+066705.html,[Rd] Inconsistent results from .C(),66705,William Dunlap
+066723.html,[Rd] Assigning NULL to large variables is much faster than rm() - any reason why I should still use rm()?,66723,William Dunlap
+066743.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66743,William Dunlap
+066624.html,[Rd] call R function from C code,66624,Dirk Eddelbuettel
+066632.html,[Rd] invalid operands of types &#8216;SEXPREC*&#8217; an d &#8216;R_len_t&#8217; to binary &#8216;operator/&#8217; wit	h Rcpp.,66632,Dirk Eddelbuettel
+066633.html,[Rd] call R function from C code,66633,Dirk Eddelbuettel
+066635.html,[Rd] invalid operands of types &#8216;SEXPREC*&#8217; an d &#8216;R_len_t&#8217; to binary &#8216;operator/&#8217; wit h Rcpp.,66635,Dirk Eddelbuettel
+066686.html,[Rd] Inconsistent results from .C(),66686,Robin Evans
+066687.html,[Rd] Inconsistent results from .C(),66687,Robin Evans
+066693.html,[Rd] Inconsistent results from .C(),66693,Robin Evans
+066704.html,[Rd] Inconsistent results from .C(),66704,Robin Evans
+066604.html,[Rd] Catch SIGINT from user in backend C++ code,66604,Karl Forner
+066631.html,[Rd] invalid operands of types &#8216;SEXPREC*&#8217; and &#8216;R_len_t&#8217; to binary &#8216;operator/&#8217; with Rcpp.,66631,Romain Francois
+066657.html,[Rd] R 3.0.1: wrong MD5 checksums for Windows?,66657,Tal Galili
+066660.html,[Rd] R 3.0.1: wrong MD5 checksums for Windows?,66660,Tal Galili
+066609.html,[Rd] Namespace/inheritance problem in S4 methods for a union class,66609,Renaud Gaujoux
+066617.html,[Rd] Namespace/inheritance problem in S4 methods for a union	class,66617,Renaud Gaujoux
+066689.html,[Rd] R CMD check: unknown option ?--outdir==RCHECK?,66689,Renaud Gaujoux
+066691.html,[Rd] R CMD check: unknown option ?--outdir==RCHECK?,66691,Renaud Gaujoux
+066737.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66737,Paul Gilbert
+066683.html,[Rd] Objects created by more than one data call?,66683,Spencer Graves
+066694.html,[Rd] Objects created by more than one data call?,66694,Spencer Graves
+066696.html,[Rd] Objects created by more than one data call?,66696,Spencer Graves
+066699.html,[Rd] Objects created by more than one data call?,66699,Spencer Graves
+066701.html,[Rd] Objects created by more than one data call?,66701,Spencer Graves
+066703.html,[Rd] Objects created by more than one data call?,66703,Spencer Graves
+066678.html,[Rd] Accessing element of a vector using a function (as opposed to	macro),66678,Saptarshi Guha
+066679.html,[Rd] Accessing i'th element of a vector without using a macro,66679,Saptarshi Guha
+066681.html,[Rd] Accessing i'th element of a vector without using a macro,66681,Saptarshi Guha
+066630.html,[Rd] invalid operands of types &#8216;SEXPREC*&#8217; and &#8216;R_len_t&#8217; to binary &#8216;operator/&#8217; with Rcpp.,66630,Xiao He
+066634.html,[Rd] invalid operands of types &#8216;SEXPREC*&#8217; an d &#8216;R_len_t&#8217; to binary &#8216;operator/&#8217; wit h Rcpp.,66634,Xiao He
+066709.html,[Rd] Using a shared object without installing a library required by	the object.,66709,Xiao He
+066713.html,[Rd] Using a shared object without installing a library required by the object.,66713,Xiao He
+066730.html,[Rd] Customizing tab completion for package functions?,66730,Stefan Holzheu
+066566.html,[Rd] Minimal build of R ...,66566,Jony Hudson
+066588.html,[Rd] Minimal build of R ...,66588,Jony Hudson
+066591.html,[Rd] Minimal build of R ...,66591,Jony Hudson
+066710.html,[Rd] Minimal build of R ...,66710,Jony Hudson
+066724.html,[Rd] R in the browser ...,66724,Jony Hudson
+066543.html,[Rd] Catch SIGINT from user in backend C++ code,66543,"Jewell, Chris"
+066531.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66531,Paul Johnson
+066603.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66603,Paul Johnson
+066656.html,[Rd] problem in add1's F statistic when data contains NAs?,66656,Paul Johnson
+066643.html,[Rd] Incorrect target file name for gramLatex.c,66643,Ingo Korb
+066619.html,[Rd] call R function from C code,66619,Matwey V. Kornilov
+066623.html,[Rd] call R function from C code,66623,Matwey V. Kornilov
+066626.html,[Rd] call R function from C code,66626,Matwey V. Kornilov
+066552.html,[Rd] install.packages from own rpository - depencies,66552,Knut Krueger
+066572.html,[Rd] Latex errors  (build on windows),66572,Knut Krueger
+066574.html,[Rd] Latex errors (build on windows),66574,Knut Krueger
+066576.html,[Rd] Latex errors  (build on windows),66576,Knut Krueger
+066578.html,[Rd] Latex errors (build on windows),66578,Knut Krueger
+066580.html,[Rd] Latex errors  (build on windows),66580,Knut Krueger
+066582.html,[Rd] submiting a package [was]Latex errors  (build on windows),66582,Knut Krueger
+066714.html,[Rd] Problem with Rboolean in c++ code,66714,Jan van der Laan
+066718.html,[Rd] Problem with Rboolean in c++ code,66718,Jan van der Laan
+066720.html,[Rd] Problem with Rboolean in c++ code,66720,Jan van der Laan
+066735.html,[Rd] What is preferable - a single large package or a few smaller	packages?,66735,Peter Langfelder
+066596.html,[Rd] Package update for old version of R,66596,Uwe Ligges
+066597.html,[Rd] Please check link for R-patched.tar.gz,66597,Uwe Ligges
+066636.html,[Rd] Documentation request Re: [R] recode categorial vars into	binary data,66636,Martin Maechler
+066739.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66739,Martin Maechler
+066741.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66741,Martin Maechler
+066745.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66745,Martin Maechler
+066749.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66749,Martin Maechler
+066748.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66748,Mike Marchywka
+066752.html,[Rd] R-3.0.1 - &quot;transient&quot; make check failure in splines-EX.r,66752,Mike Marchywka
+066641.html,[Rd] Substitute unaware when promise objects are evaluated,66641,"McGehee, Robert"
+066647.html,[Rd] Substitute / delayedAssign (was: Substitute unaware when promise objects are evaluated),66647,"McGehee, Robert"
+066608.html,[Rd] Dependencies of Imports not attached?,66608,Peter Meilstrup
+066652.html,[Rd] Substitute / delayedAssign (was: Substitute unaware when promise objects are evaluated),66652,Peter Meilstrup
+066654.html,[Rd] Substitute / delayedAssign (was: Substitute unaware when promise objects are evaluated),66654,Peter Meilstrup
+066565.html,[Rd] dyn.load inside a package in R &gt;= 3.0,66565,Adrian Mejia
+066535.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66535,Joris Meys
+066559.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66559,Joris Meys
+066567.html,[Rd] Please check link for R-patched.tar.gz,66567,John Minter
+066564.html,[Rd] loading of an unwanted namespace,66564,Martin Morgan
+066613.html,[Rd] Dependencies of Imports not attached?,66613,Martin Morgan
+066534.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66534,Duncan Murdoch
+066540.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66540,Duncan Murdoch
+066558.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66558,Duncan Murdoch
+066563.html,[Rd] loading of an unwanted namespace,66563,Duncan Murdoch
+066575.html,[Rd] Latex errors  (build on windows),66575,Duncan Murdoch
+066579.html,[Rd] Latex errors  (build on windows),66579,Duncan Murdoch
+066581.html,[Rd] Latex errors  (build on windows),66581,Duncan Murdoch
+066586.html,[Rd] Licence change,66586,Duncan Murdoch
+066592.html,[Rd] Licence change,66592,Duncan Murdoch
+066600.html,[Rd] Licence change,66600,Duncan Murdoch
+066642.html,[Rd] Substitute unaware when promise objects are evaluated,66642,Duncan Murdoch
+066644.html,[Rd] Incorrect target file name for gramLatex.c,66644,Duncan Murdoch
+066648.html,[Rd] Substitute / delayedAssign (was: Substitute unaware when promise objects are evaluated),66648,Duncan Murdoch
+066653.html,[Rd] Substitute / delayedAssign (was: Substitute unaware when promise objects are evaluated),66653,Duncan Murdoch
+066662.html,[Rd] R 3.0.1: wrong MD5 checksums for Windows?,66662,Duncan Murdoch
+066666.html,[Rd] R 3.0.1: wrong MD5 checksums for Windows?,66666,Duncan Murdoch
+066674.html,[Rd] R CMD check: unknown option &#8216;--outdir==RCHECK&#8217;,66674,Duncan Murdoch
+066675.html,[Rd] R CMD check: unknown option &#8216;--outdir==RCHECK&#8217;,66675,Duncan Murdoch
+066690.html,[Rd] R CMD check: unknown option ?--outdir==RCHECK?,66690,Duncan Murdoch
+066740.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66740,Duncan Murdoch
+066744.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66744,Duncan Murdoch
+066627.html,[Rd] call R function from C code,66627,Radford Neal
+066605.html,[Rd] Avoid entering {} evaluation in debugger,66605,Josh O'Brien
+066649.html,[Rd] setTimeLimit sometimes fails to terminate idle call in R,66649,Jeroen Ooms
+066651.html,[Rd] setTimeLimit sometimes fails to terminate idle call in R,66651,Jeroen Ooms
+066539.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66539,Herv&#233; Pag&#232;s
+066541.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66541,Herv&#233; Pag&#232;s
+066562.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66562,Herv&#233; Pag&#232;s
+066607.html,[Rd] error when calling seek() twice on a gzfile connection,66607,Herv&#233; Pag&#232;s
+066610.html,[Rd] getting corrupted data when using readBin() after seek() on a gzfile connection,66610,Herv&#233; Pag&#232;s
+066616.html,[Rd] subsetting by name is very slow when subscript contains a lot of &quot;invalid&quot; names,66616,Herv&#233; Pag&#232;s
+066638.html,[Rd] Documentation request Re: [R] recode categorial vars into binary data,66638,Herv&#233; Pag&#232;s
+066736.html,[Rd] What is preferable - a single large package or a few smaller packages?,66736,Herv&#233; Pag&#232;s
+066667.html,[Rd] Copy on assignment to large field of reference class,66667,Giles Percy
+066728.html,[Rd] Variable labels in a data.frame,66728,Brian Quistorff
+066685.html,[Rd] locking down R,66685,Davide Rambaldi
+066661.html,[Rd] R CMD config for R &gt;= 3.0.1,66661,Prof Brian Ripley
+066664.html,[Rd] R CMD config for R &gt;= 3.0.1,66664,Prof Brian Ripley
+066684.html,[Rd] Objects created by more than one data call?,66684,Prof Brian Ripley
+066695.html,[Rd] Objects created by more than one data call?,66695,Prof Brian Ripley
+066697.html,[Rd] Objects created by more than one data call?,66697,Prof Brian Ripley
+066698.html,[Rd] making makepredictcall() work,66698,Prof Brian Ripley
+066706.html,[Rd] Inconsistent results from .C(),66706,Prof Brian Ripley
+066717.html,[Rd] Problem with Rboolean in c++ code,66717,Prof Brian Ripley
+066719.html,[Rd] Problem with Rboolean in c++ code,66719,Prof Brian Ripley
+066738.html,[Rd] What is preferable - a single large package or a few smaller packages?,66738,Prof Brian Ripley
+066688.html,[Rd] making makepredictcall() work,66688,D. Rizopoulos
+066560.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66560,Brian Lee Yung Rowe
+066672.html,[Rd] locking down R,66672,Barry Rowlingson
+066707.html,[Rd] minor typo in docs for 'sort',66707,Enrico Schumann
+066550.html,[Rd] foreign: write.xport,66550,Marc Schwartz
+066640.html,[Rd] Missing Dependency: tex(latex) is needed by package R-devel - Help Required,66640,Marc Schwartz
+066602.html,[Rd] Avoid entering {} evaluation in debugger,66602,Vitalie Spinu
+066606.html,[Rd] Avoid entering {} evaluation in debugger,66606,Vitalie Spinu
+066673.html,[Rd] R CMD check: unknown option &#8216;--outdir==RCHECK&#8217;,66673,Matthieu Stigler
+066549.html,[Rd] trace with reference class,66549,Kohske Takahashi
+066548.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66548,Terry Therneau
+066561.html,[Rd] loading of an unwanted namespace,66561,Terry Therneau
+066577.html,[Rd] loading of unwanted namespace,66577,Terry Therneau
+066742.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66742,Terry Therneau
+066532.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66532,"Tim Triche, Jr."
+066536.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66536,"Tim Triche, Jr."
+066682.html,[Rd] locking down R,66682,"Tim Triche, Jr."
+066584.html,[Rd] Package update for old version of R,66584,Eilidh Troup
+066658.html,[Rd] R CMD config for R &gt;= 3.0.1,66658,Berwin A Turlach
+066663.html,[Rd] R CMD config for R &gt;= 3.0.1,66663,Berwin A Turlach
+066665.html,[Rd] R CMD config for R &gt;= 3.0.1,66665,Berwin A Turlach
+066721.html,[Rd] segfault when using browser() in Rprofile.site,66721,Benjamin Tyner
+066528.html,[Rd] Comments in the DESCRIPTION file,66528,Simon Urbanek
+066537.html,"[Rd] Windows, format.POSIXct and character encodings",66537,Simon Urbanek
+066538.html,"[Rd] Windows, format.POSIXct and character encodings",66538,Simon Urbanek
+066553.html,[Rd] Comments in the DESCRIPTION file,66553,Simon Urbanek
+066554.html,[Rd] install.packages from own rpository - depencies,66554,Simon Urbanek
+066556.html,[Rd] Comments in the DESCRIPTION file,66556,Simon Urbanek
+066571.html,[Rd] Minimal build of R ...,66571,Simon Urbanek
+066587.html,[Rd] Licence change,66587,Simon Urbanek
+066594.html,[Rd] Minimal build of R ...,66594,Simon Urbanek
+066595.html,[Rd] Minimal build of R ...,66595,Simon Urbanek
+066612.html,[Rd] Dependencies of Imports not attached?,66612,Simon Urbanek
+066615.html,[Rd] Dependencies of Imports not attached?,66615,Simon Urbanek
+066621.html,[Rd] call R function from C code,66621,Simon Urbanek
+066625.html,[Rd] call R function from C code,66625,Simon Urbanek
+066650.html,[Rd] setTimeLimit sometimes fails to terminate idle call in R,66650,Simon Urbanek
+066712.html,[Rd] Using a shared object without installing a library	required by the object.,66712,Simon Urbanek
+066716.html,[Rd] Standalone example to use eval in C (not eval in R)?,66716,Simon Urbanek
+066725.html,[Rd] Assigning NULL to large variables is much faster than rm()	- any reason why I should still use rm()?,66725,Simon Urbanek
+066755.html,[Rd] R 3.0.1 : parallel collection triggers &quot;long memory not	supported yet&quot;,66755,Simon Urbanek
+066750.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66750,Ravi Varadhan
+066546.html,[Rd] Catch SIGINT from user in backend C++ code,66546,R. Michael Weylandt
+066547.html,[Rd] diag() when input is a numeric scalar,66547,R. Michael Weylandt
+066570.html,[Rd] Minimal build of R ...,66570,R. Michael Weylandt
+066573.html,[Rd] Latex errors (build on windows),66573,R. Michael Weylandt
+066670.html,[Rd] locking down R,66670,R. Michael Weylandt
+066692.html,[Rd] Inconsistent results from .C(),66692,R. Michael Weylandt
+066529.html,"[Rd] Windows, format.POSIXct and character encodings",66529,Hadley Wickham
+066551.html,"[Rd] Windows, format.POSIXct and character encodings",66551,Hadley Wickham
+066628.html,[Rd] Documentation request Re: [R] recode categorial vars into	binary data,66628,David Winsemius
+066715.html,[Rd] Standalone example to use eval in C (not eval in R)?,66715,Peng Yu
+066583.html,[Rd] Licence change,66583,Mauricio Zambrano-Bigiarini
+066589.html,[Rd] Licence change,66589,Mauricio Zambrano-Bigiarini
+066646.html,[Rd] tools to document ReferenceClasses,66646,andfra
+066527.html,[Rd] Comments in the DESCRIPTION file,66527,cgenolin
+066542.html,[Rd] Comments in the DESCRIPTION file,66542,cgenolin
+066555.html,[Rd] Comments in the DESCRIPTION file,66555,cgenolin
+066557.html,[Rd] Data in packages: save or write.table?,66557,cgenolin
+066629.html,[Rd] Segmentation fault on Python+Rpy2+R,66629,cuiyan
+066585.html,[Rd] Package update for old version of R,66585,peter dalgaard
+066599.html,[Rd] Licence change,66599,peter dalgaard
+066645.html,[Rd] Incorrect target file name for gramLatex.c,66645,peter dalgaard
+066655.html,[Rd] Substitute / delayedAssign (was: Substitute unaware when	promise objects are evaluated),66655,peter dalgaard
+066659.html,[Rd] R 3.0.1: wrong MD5 checksums for Windows?,66659,peter dalgaard
+066711.html,[Rd] Minimal build of R ...,66711,peter dalgaard
+066733.html,[Rd] quick question about glm() example,66733,peter dalgaard
+066544.html,[Rd] diag() when input is a numeric scalar,66544,philchalmers
+066568.html,[Rd] diag() when input is a numeric scalar,66568,philchalmers
+066639.html,[Rd] Missing Dependency: tex(latex) is needed by package R-devel - Help Required,66639,santoshdvn
+066753.html,[Rd] R 3.0.1 : parallel collection triggers &quot;long memory not	supported yet&quot;,66753,ivo welch
+066598.html,[Rd] Licence change,66598,mauricio zambrano

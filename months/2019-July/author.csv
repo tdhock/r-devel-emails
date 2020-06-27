@@ -1,0 +1,142 @@
+link,Subject,id,author
+078211.html,[Rd] Recommended Reading: Advanced R Second Edition,78211,Juan Telleria Ruiz de Aguirre
+078126.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78126,Suharto Anggono Suharto Anggono
+078246.html,[Rd] R evolution suggestion request,78246,neonira Arinoem
+078172.html,[Rd]  Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78172,Rui Barradas
+078177.html,[Rd]  Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78177,Rui Barradas
+078207.html,[Rd] inconsistent behaviour of c(...),78207,Rui Barradas
+078208.html,[Rd] inconsistent behaviour of c(...),78208,Rui Barradas
+078151.html,[Rd] strange increase in the reference number,78151,Gabriel Becker
+078153.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78153,Gabriel Becker
+078190.html,[Rd] Convert STRSXP or INTSXP to factor,78190,Gabriel Becker
+078204.html,[Rd] ALTREP wrappers and factors,78204,Gabriel Becker
+078226.html,[Rd] Any plans for ALTREP lists (VECSXP)?,78226,Gabriel Becker
+078233.html,[Rd] [External] Re:  Any plans for ALTREP lists (VECSXP)?,78233,Gabriel Becker
+078234.html,[Rd] [External] Re:  Any plans for ALTREP lists (VECSXP)?,78234,Gabriel Becker
+078227.html,[Rd] Writing files with long paths on Windows fails even after enabling long paths,78227,Kenny Bell
+078201.html,[Rd] ALTREP wrappers and factors,78201,"Bemis, Kylie"
+078223.html,[Rd] Any plans for ALTREP lists (VECSXP)?,78223,"Bemis, Kylie"
+078229.html,[Rd] difficulty with sanitizer using bigmemory,78229,Henrik Bengtsson
+078123.html,[Rd] trivial typos in man/switch.Rd,78123,Ben Bolker
+078219.html,[Rd] [External] Re: quiet namespace load is noisy,78219,Ben Bolker
+078115.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true,78115,Georgi Boshnakov
+078119.html,[Rd] eliminate a partial argument match warning in R CMD check,78119,Jennifer Bryan
+078193.html,[Rd] What is the best way to determine the version of an `.rds`?,78193,Jennifer Bryan
+078247.html,[Rd] Is win-builder development branch down?,78247,Dev Chakraborty
+078168.html,[Rd] Unexpected behaviour when comparing (==) long quoted expressions,78168,Daniel Chen
+078196.html,[Rd] Unexpected behaviour when comparing (==) long quoted expressions,78196,Daniel Chen
+078210.html,[Rd] Use of restricted c++ keywords as variable names in headers,78210,Travers Ching
+078143.html,[Rd] head.matrix can return 1000s of columns -- limit to n or add new argument?,78143,Michael Chirico
+078108.html,[Rd] Making R CMD nicer,78108,G&#225;bor Cs&#225;rdi
+078127.html,[Rd] R 3.6.1 is released,78127,Peter Dalgaard
+078147.html,[Rd] Determining the exit code of an &quot;almost finished&quot; R script,78147,Gergely Dar&#243;czi
+078183.html,[Rd] Potential bug with data.frame replacement,78183,William Dunlap
+078129.html,[Rd] CRAN down ?,78129,Dirk Eddelbuettel
+078179.html,[Rd] R-Forge &gt; GitHub?,78179,Dirk Eddelbuettel
+078182.html,[Rd] GitHub passwords in .git/config?,78182,Dirk Eddelbuettel
+078236.html,[Rd] install packages with missing pkg argument,78236,Ant F
+078239.html,[Rd] install packages with missing pkg argument,78239,Ant F
+078241.html,[Rd] install packages with missing pkg argument,78241,Ant F
+078185.html,[Rd] Unexpected behaviour when comparing (==) long quoted expressions,78185,Clark Fitzgerald
+078165.html,[Rd] Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78165,Ghiggi Gionata
+078200.html,[Rd] MKL with latest Rs,78200,Robert B. Gramacy
+078265.html,[Rd] MKL with latest Rs,78265,Robert B. Gramacy
+078111.html,[Rd] R-Forge &gt; GitHub?,78111,Spencer Graves
+078125.html,[Rd] R-Forge &gt; GitHub?,78125,Spencer Graves
+078158.html,[Rd] .travis.yml ... most likely included in error,78158,Spencer Graves
+078161.html,[Rd] .travis.yml ... most likely included in error,78161,Spencer Graves
+078162.html,[Rd] R-Forge &gt; GitHub?,78162,Spencer Graves
+078181.html,[Rd] GitHub passwords in .git/config?,78181,Spencer Graves
+078187.html,[Rd] GitHub passwords in .git/config?,78187,Spencer Graves
+078189.html,[Rd] GitHub passwords in .git/config?,78189,Spencer Graves
+078195.html,[Rd]  [External]  Mitigating Stalls Caused by Call Deparse on Error,78195,Lionel Henry
+078217.html,[Rd] quiet namespace load is noisy,78217,Lionel Henry
+078121.html,[Rd] eliminate a partial argument match warning in R CMD check,78121,Kurt Hornik
+078124.html,[Rd] trivial typos in man/switch.Rd,78124,Kurt Hornik
+078212.html,[Rd] Addition of a meta viewport tag to HTML manuals,78212,Kurt Hornik
+078214.html,[Rd] Addition of a meta viewport tag to HTML manuals,78214,Kurt Hornik
+078149.html,[Rd] strange increase in the reference number,78149,King Jiefei
+078178.html,[Rd] strange increase in the reference number,78178,King Jiefei
+078203.html,[Rd] ALTREP wrappers and factors,78203,King Jiefei
+078242.html,[Rd] Questions regarding ALTREP_SET_ELT APIs,78242,Wang Jiefei
+078244.html,[Rd] [External]  Questions regarding ALTREP_SET_ELT APIs,78244,Wang Jiefei
+078231.html,[Rd] Writing files with long paths on Windows fails even after enabling long paths,78231,Tomas Kalibera
+078235.html,[Rd] MKL with latest Rs,78235,Tomas Kalibera
+078206.html,[Rd] inconsistent behaviour of c(...),78206,Peter Langfelder
+078137.html,[Rd] Format printing inside a matrix,78137,Michael Lawrence
+078170.html,[Rd]  Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78170,Michael Lawrence
+078225.html,[Rd] Any plans for ALTREP lists (VECSXP)?,78225,Michael Lawrence
+078130.html,[Rd] CRAN down ?,78130,Friedrich Leisch
+078216.html,[Rd] quiet namespace load is noisy,78216,"Lenth, Russell V"
+078218.html,[Rd] [External] Re:  quiet namespace load is noisy,78218,"Lenth, Russell V"
+078221.html,[Rd] [External] Re: quiet namespace load is noisy,78221,"Lenth, Russell V"
+078167.html,[Rd] MacOS parallel::makeCluster fails,78167,Dominik Leutnant
+078120.html,[Rd] Format printing inside a matrix,78120,Jialin Ma
+078135.html,[Rd] Format printing inside a matrix,78135,Jialin Ma
+078138.html,[Rd] Format printing inside a matrix,78138,Jialin Ma
+078139.html,[Rd] Format printing inside a matrix,78139,Jialin Ma
+078142.html,[Rd] Format printing inside a matrix,78142,Jialin Ma
+078116.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true,78116,Martin Maechler
+078133.html,[Rd] methods package: A _R_CHECK_LENGTH_1_LOGIC2_=true error,78133,Martin Maechler
+078148.html,[Rd] Documentation tweak for ?traceback,78148,Martin Maechler
+078163.html,[Rd] Format printing inside a matrix,78163,Martin Maechler
+078164.html,[Rd] Addition of a meta viewport tag to HTML manuals,78164,Martin Maechler
+078192.html,[Rd] Convert STRSXP or INTSXP to factor,78192,Martin Maechler
+078194.html,[Rd] Unexpected behaviour when comparing (==) long quoted expressions,78194,Martin Maechler
+078230.html,[Rd] Minor typo in R-exts,78230,Martin Maechler
+078128.html,[Rd] parse() drops parse data when encountering `` (bug?),78128,Miles McBain
+078205.html,[Rd] inconsistent behaviour of c(...),78205,Michael Meyer
+078166.html,[Rd] Convert STRSXP or INTSXP to factor,78166,Morgan Morgan
+078110.html,[Rd] Making R CMD nicer,78110,Duncan Murdoch
+078150.html,[Rd] strange increase in the reference number,78150,Duncan Murdoch
+078171.html,[Rd]  Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78171,Duncan Murdoch
+078174.html,[Rd]  Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78174,Duncan Murdoch
+078175.html,[Rd]  [External] Re: Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78175,Duncan Murdoch
+078240.html,[Rd] install packages with missing pkg argument,78240,Duncan Murdoch
+078215.html,[Rd] Minor typo in R-exts,78215,Josh O'Brien
+078141.html,[Rd] Format printing inside a matrix,78141,"Pages, Herve"
+078237.html,[Rd] install packages with missing pkg argument,78237,Hugh Parsonage
+078184.html,[Rd] GitHub passwords in .git/config?,78184,Brian G. Peterson
+078188.html,[Rd] GitHub passwords in .git/config?,78188,Marcel Ramos
+078122.html,[Rd] ASAN error with R-devel,78122,Prof Brian Ripley
+078117.html,[Rd] Making R CMD nicer,78117,Barry Rowlingson
+078144.html,[Rd] Addition of a meta viewport tag to HTML manuals,78144,Bob Rudis
+078202.html,[Rd] Addition of a meta viewport tag to HTML manuals,78202,Bob Rudis
+078238.html,[Rd] install packages with missing pkg argument,78238,Enrico Schumann
+078220.html,[Rd] [External] Re: quiet namespace load is noisy,78220,Henrik Singmann
+078160.html,[Rd] .travis.yml ... most likely included in error,78160,Danny Smith
+078107.html,[Rd] Making R CMD nicer,78107,Abby Spurdle
+078109.html,[Rd] Making R CMD nicer,78109,Abby Spurdle
+078134.html,[Rd] Format printing inside a matrix,78134,Abby Spurdle
+078136.html,[Rd] Format printing inside a matrix,78136,Abby Spurdle
+078140.html,[Rd] Format printing inside a matrix,78140,Abby Spurdle
+078152.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78152,Abby Spurdle
+078213.html,[Rd] Recommended Reading: Advanced R Second Edition,78213,Abby Spurdle
+078146.html,[Rd] Integration with exchanged and infinite limits,78146,Ralf Stubner
+078118.html,[Rd] ASAN error with R-devel,78118,"Therneau, Terry M., Ph.D."
+078157.html,[Rd]  [External]  Mitigating Stalls Caused by Call Deparse on Error,78157,"Tierney, Luke"
+078173.html,[Rd]  [External] Re: Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78173,"Tierney, Luke"
+078176.html,[Rd]  [External]  Mitigating Stalls Caused by Call Deparse on Error,78176,"Tierney, Luke"
+078191.html,[Rd] [External]  Potential bug with data.frame replacement,78191,"Tierney, Luke"
+078197.html,[Rd]  [External] Re: Unexpected behaviour when comparing (==) long quoted expressions,78197,"Tierney, Luke"
+078198.html,[Rd]  [External] What is the best way to determine the version of an `.rds`?,78198,"Tierney, Luke"
+078209.html,[Rd] [External] Re:  ALTREP wrappers and factors,78209,"Tierney, Luke"
+078224.html,[Rd] [External]  Any plans for ALTREP lists (VECSXP)?,78224,"Tierney, Luke"
+078232.html,[Rd] [External] Re:  Any plans for ALTREP lists (VECSXP)?,78232,"Tierney, Luke"
+078243.html,[Rd] [External]  Questions regarding ALTREP_SET_ELT APIs,78243,"Tierney, Luke"
+078112.html,[Rd] R-Forge &gt; GitHub?,78112,Ott Toomet
+078169.html,[Rd] Potential bug with data.frame replacement,78169,Benjamin Jean-Marie Tremblay
+078186.html,[Rd] Potential bug with data.frame replacement,78186,I&#241;aki Ucar
+078180.html,[Rd]  Possible bug in `class&lt;-` when a class-specific '[[.' method is defined,78180,Kevin Ushey
+078222.html,[Rd] [External] Re: quiet namespace load is noisy,78222,Yihui Xie
+078113.html,[Rd] Making R CMD nicer,78113,Jason Xu
+078114.html,[Rd] Making R CMD nicer,78114,Jason Xu
+078131.html,[Rd] CRAN down ?,78131,peter dalgaard
+078132.html,[Rd] CRAN down ?,78132,peter dalgaard
+078145.html,[Rd] Documentation tweak for ?traceback,78145,brodie gaslam
+078154.html,[Rd] Mitigating Stalls Caused by Call Deparse on Error,78154,brodie gaslam
+078155.html,[Rd] strange increase in the reference number,78155,brodie gaslam
+078156.html,[Rd] strange increase in the reference number,78156,brodie gaslam
+078159.html,[Rd]  [External]  Mitigating Stalls Caused by Call Deparse on Error,78159,brodie gaslam
+078199.html,[Rd]  [External]  Mitigating Stalls Caused by Call Deparse on Error,78199,brodie gaslam
+078228.html,[Rd] difficulty with sanitizer using bigmemory,78228,pete mohanty

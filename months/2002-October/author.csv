@@ -1,0 +1,222 @@
+link,Subject,id,author
+025334.html,silent option for library function,25334,Vincent Carey 525-2265
+025338.html,silent option for library function,25338,Vincent Carey 525-2265
+025135.html,X11 font at size 22 could not be loaded,25135,Peter Dalgaard BSA
+025137.html,X11 font at size 22 could not be loaded,25137,Peter Dalgaard BSA
+025140.html,Unsolved symbols: meet_ Tcl_EvalObjv (PR#2090),25140,Peter Dalgaard BSA
+025164.html,Core dump with &quot;parse&quot; (PR#2120),25164,Peter Dalgaard BSA
+025184.html,growing process size in simulation,25184,Peter Dalgaard BSA
+025186.html,growing process size in simulation,25186,Peter Dalgaard BSA
+025188.html,growing process size in simulation,25188,Peter Dalgaard BSA
+025199.html,The class attribute on an environment seems buggy (PR#2159),25199,Peter Dalgaard BSA
+025202.html,possible memory leak in 1.6 (PR#2160),25202,Peter Dalgaard BSA
+025212.html,Core dump with a 64-bit system (PR#2165),25212,Peter Dalgaard BSA
+025228.html,R-1.6.1beta available,25228,Peter Dalgaard BSA
+025240.html,Chron problem with R 1.6.0 (PR#2181),25240,Peter Dalgaard BSA
+025241.html,Bug list summary (automatic post),25241,Peter Dalgaard BSA
+025264.html,negative numbers in R plots in Illustrator 8 (and higher?) (PR#2199),25264,Peter Dalgaard BSA
+025281.html,Function scale (PR#2209),25281,Peter Dalgaard BSA
+025318.html,as.POSIX (PR#2222),25318,Peter Dalgaard BSA
+025341.html,native OS X R,25341,Peter Dalgaard BSA
+025344.html,gam bug with poisson family? (PR#2234),25344,Peter Dalgaard BSA
+025207.html,growing process size in simulation,25207,David Bauer
+025226.html,configure/build issue with gcc 3.2.0 (PR#2176),25226,RenE J.V. Bertin
+025265.html,negative numbers in R plots in Illustrator 8 (and higher?) (PR#2199),25265,RenE J.V. Bertin
+025268.html,Loading packages at startup,25268,Bill.Venables@cmis.csiro.au
+025274.html,model.matrix (via predict) (PR#2206),25274,Bill.Venables@cmis.csiro.au
+025276.html,model.matrix (via predict) (PR#2206),25276,Bill.Venables@cmis.csiro.au
+025131.html,install.packages warning,25131,Ben Bolker
+025282.html,Function scale (PR#2209),25282,Ben Bolker
+025213.html,cut() on NA gives 0 when labels=F,25213,David Brahm
+025197.html,The class attribute on an environment seems buggy (PR#2159),25197,John Chambers
+025203.html,The class attribute on an environment seems buggy (PR#2159),25203,John Chambers
+025178.html,Sweave (PR#2142),25178,Christophe Declercq
+025180.html,Sweave (PR#2142),25180,Dirk Eddelbuettel
+025237.html,Debian packages of R-1.6.1beta available,25237,Dirk Eddelbuettel
+025299.html,RODBC patchlet,25299,Dirk Eddelbuettel
+025312.html,RODBC patchlet,25312,Dirk Eddelbuettel
+025211.html,Sweave (PR#2142),25211,John Fox
+025127.html,uploading binary packages (was RE: [R] Update packages),25127,Friedrich.Leisch@ci.tuwien.ac.at
+025154.html,R CMD check dependency simplification,25154,Friedrich.Leisch@ci.tuwien.ac.at
+025177.html,Sweave (PR#2142),25177,Friedrich.Leisch@ci.tuwien.ac.at
+025196.html,Sweave (PR#2142),25196,Friedrich.Leisch@ci.tuwien.ac.at
+025251.html,RFC: Loading packages at startup,25251,Friedrich.Leisch@ci.tuwien.ac.at
+025302.html,RFC: no automatic updates of packages with major version change,25302,Friedrich.Leisch@ci.tuwien.ac.at
+025348.html,silent option for library function,25348,Friedrich.Leisch@ci.tuwien.ac.at
+025255.html,RFC: Loading packages at startup,25255,Robert Gentleman
+025317.html,no automatic updates of packages with major version change,25317,Jeff Gentry
+025326.html,dependency in tests,25326,Jeff Gentry
+025129.html,R CMD check dependency simplification,25129,Paul Gilbert
+025218.html,R-patched make warnings on Mandrake 9.0,25218,Paul Gilbert
+025260.html,RFC: Loading packages at startup,25260,Paul Gilbert
+025315.html,RFC: no automatic updates of packages with major version change,25315,Paul Gilbert
+025323.html,dependency in tests,25323,Paul Gilbert
+025325.html,dependency in tests,25325,Paul Gilbert
+025273.html,model.matrix (via predict) (PR#2206),25273,Glenn.Stone@csiro.au
+025275.html,model.matrix (via predict) (PR#2206),25275,Glenn.Stone@csiro.au
+025308.html,no automatic updates of packages with major version change,25308,Philippe Grosjean
+025252.html,RFC: Loading packages at startup,25252, (Ted Harding)
+025141.html,Scripts not executable (PR#2091),25141,Kurt Hornik
+025147.html,Scripts not executable (PR#2091),25147,Kurt Hornik
+025174.html,R-1.6.0-beta compiling on Solaris with gcc-3.2,25174,Kurt Hornik
+025287.html,RFC: Loading packages at startup,25287,Kurt Hornik
+025300.html,RODBC patchlet,25300,Kurt Hornik
+025305.html,RFC: no automatic updates of packages with major version change,25305,Kurt Hornik
+025306.html,RODBC patchlet,25306,Kurt Hornik
+025335.html,silent option for library function,25335,Kurt Hornik
+025337.html,Building and installing packages with functions with names starting with (PR#2229),25337,Kurt Hornik
+025303.html,RFC: no automatic updates of packages with major version change,25303,Torsten Hothorn
+025307.html,RFC: no automatic updates of packages with major version change,25307,Torsten Hothorn
+025236.html,REventLoop,25236,Stefano Iacus
+025342.html,native OS X R,25342,Stefano Iacus
+025284.html,RFC: Loading packages at startup,25284,David James
+025330.html,Building and installing packages with functions with names starting with (PR#2229),25330,JensHenrik.Badsberg@agrsci.dk
+025266.html,Loading packages at startup,25266,Timothy H. Keitt
+025143.html,Mean and var inconsistency (PR#2094),25143,Kevin.Wright@pioneer.com
+025134.html,X11 font at size 22 could not be loaded,25134,Peter Kleiweg
+025136.html,X11 font at size 22 could not be loaded,25136,Peter Kleiweg
+025142.html,Scripts not executable (PR#2091),25142,Peter Kleiweg
+025152.html,R-1.6.0 for Darwin,25152,Jan de Leeuw
+025156.html,R-1.6.0,25156,Jan de Leeuw
+025158.html,[R-SIG-Mac]R-1.6.0,25158,Jan de Leeuw
+025175.html,R-1.6.0-beta compiling on Solaris with gcc-3.2,25175,Jan de Leeuw
+025189.html,tkrplot,25189,Jan de Leeuw
+025191.html,XML package,25191,Jan de Leeuw
+025192.html,RXLisp,25192,Jan de Leeuw
+025193.html,"RXLisp, works one way on Jaguar",25193,Jan de Leeuw
+025221.html,R-patched make warnings on Mandrake 9.0,25221,Jan de Leeuw
+025233.html,REventLoop,25233,Jan de Leeuw
+025249.html,gcc-3.3,25249,Jan de Leeuw
+025269.html,R-1.6.1 with gcc-3.3,25269,Jan de Leeuw
+025272.html,configure/build issue with gcc 3.2.0 (PR#2176),25272,Jan de Leeuw
+025340.html,native OS X R,25340,Jan de Leeuw
+025126.html,uploading binary packages (was RE: [R] Update packages),25126,"Liaw, Andy"
+025150.html,items in Rd file,25150,"Liaw, Andy"
+025210.html,Typos in help page for model.extract?,25210,"Liaw, Andy"
+025155.html,Welch versus Satterthwaith (PR#2111),25155,Thomas Lumley
+025163.html,Core dump with &quot;parse&quot; (PR#2120),25163,Thomas Lumley
+025183.html,Odd outcome of attr with environments (PR#2148),25183,Thomas Lumley
+025204.html,growing process size in simulation,25204,Thomas Lumley
+025205.html,possible memory leak in 1.6 (PR#2160),25205,Thomas Lumley
+025208.html,growing process size in simulation,25208,Thomas Lumley
+025214.html,cut() on NA gives 0 when labels=F,25214,Thomas Lumley
+025313.html,RFC: no automatic updates of packages with major version change,25313,Thomas Lumley
+025157.html,[R-SIG-Mac]R-1.6.0,25157,Don MacQueen
+025242.html,dist() {&quot;mva&quot; package} bug: treats +/- Inf as NA,25242,Martin Maechler
+025254.html,dist() {&quot;mva&quot; package} bug: treats +/- Inf as NA,25254,Martin Maechler
+025328.html,[R] pretty not pretty,25328,Martin Maechler
+025345.html,[R] Symbols for male/female,25345,Martin Maechler
+025248.html,savehistory directories and quitting R (PR#2038),25248,Mark.Bravington@csiro.au
+025286.html,Function scale (PR#2209),25286,Duncan Murdoch
+025290.html,RFC: Loading packages at startup,25290,Duncan Murdoch
+025310.html,RFC: no automatic updates of packages with major version change,25310,Duncan Murdoch
+025162.html,Core dump with &quot;parse&quot; (PR#2120),25162,Roger Peng
+025271.html,configure/build issue with gcc 3.2.0 (PR#2176),25271,Roger Peng
+025244.html,RFC: Loading packages at startup,25244,Prof Brian D Ripley
+025253.html,basename/dirname changes warning.,25253,Prof Brian D Ripley
+025234.html,Documentation for .Renviron (PR#2175),25234,Jonathan Rougier
+025261.html,methods function,25261,Jonathan Rougier
+025270.html,New version of lattice (possible incompatibility with old code),25270,Deepayan Sarkar
+025190.html,[R] barplot x axis,25190,Marc Schwartz
+025185.html,growing process size in simulation,25185,Luke Tierney
+025187.html,growing process size in simulation,25187,Luke Tierney
+025256.html,No subject,25256,Tom
+025176.html,R DCOM VC6 example,25176,Simon Tomlinson
+025288.html,[R] Combinatorial Optimisation,25288,Adrian Trapletti
+025292.html,[R] Combinatorial Optimisation,25292,Adrian Trapletti
+025319.html,RFC: no automatic updates of packages with major version change,25319,Berwin Turlach
+025331.html,silent option for library function,25331,"Vincent J. Carey, Jr."
+025132.html,submitting binary windows packages,25132,Ko-Kang Kevin Wang
+025232.html,R-1.6.1beta available,25232,Ko-Kang Kevin Wang
+025293.html,R-1.6.1beta available,25293,Ko-Kang Kevin Wang
+025128.html,submitting binary windows packages,25128,"Warnes, Gregory R"
+025257.html,Loading packages at startup,25257,"Warnes, Gregory R"
+025258.html,Loading packages at startup,25258,"Warnes, Gregory R"
+025283.html,Function scale (PR#2209),25283,"Warnes, Gregory R"
+025130.html,install.packages warning,25130,"Wright, Kevin"
+025133.html,Possible inconsistency with mean &amp; var,25133,"Wright, Kevin"
+025151.html,items in Rd file,25151,Achim Zeileis
+025181.html,growing process size in simulation,25181,Achim Zeileis
+025309.html,RFC: no automatic updates of packages with major version change,25309,Achim Zeileis
+025316.html,as.POSIX (PR#2222),25316,a.stephenson@lancaster.ac.uk
+025320.html,documentation for require (PR#2226),25320,a.stephenson@lancaster.ac.uk
+025343.html,gam bug with poisson family? (PR#2234),25343,aukema@entomology.wisc.edu
+025231.html,underflow handling in besselK (PR#2179),25231,bolker@zoo.ufl.edu
+025172.html,Sweave (PR#2142),25172,c.declercq@orsnpdc.org
+025160.html,plot crashes (PR#2121),25160,cord1@gmx.de
+025148.html,Problem with construction (1-x)^(1-y) (PR#2103),25148,dmurdoch@pair.com
+025149.html,parse (PR#2104),25149,dmurdoch@pair.com
+025339.html,typo in p.adjust (PR#2231),25339,ehlers@math.ucalgary.ca
+025350.html,typo in documentation for boxplot.stats (PR#2240),25350,ehlers@math.ucalgary.ca
+025295.html,"ls() without variables, which begins with a point (PR#2216)",25295,frank.kroll@uni-bielefeld.de
+025166.html,problems with missing values created by conversion using as.matri (PR#2130),25166,gregory_r_warnes@groton.pfizer.com
+025322.html,patch to mva:prcomp to use La.svd instead of svd (PR#2227),25322,gregory_r_warnes@groton.pfizer.com
+025347.html,header containing (PR#2003),25347,grimm.heinz@rcc.ch
+025314.html,RFC: no automatic updates of packages with major version change,25314,kjetil halvorsen
+025195.html,The class attribute on an environment seems buggy (PR#2159),25195,hb@maths.lth.se
+025159.html,Core dump with &quot;parse&quot; (PR#2120),25159,j.c.rougier@durham.ac.uk
+025182.html,Odd outcome of attr with environments (PR#2148),25182,j.c.rougier@durham.ac.uk
+025223.html,Documentation for .Renviron (PR#2175),25223,j.c.rougier@durham.ac.uk
+025259.html,Minor changes in ?class (PR#2197),25259,j.c.rougier@durham.ac.uk
+025220.html,xlim in plot.survfit() [with a discussion on &quot;...&quot;] (PR#2173),25220,jerome@hivnet.ubc.ca
+025165.html,spec.pgram bug (PR#2123),25165,jimmy@econostat.co.uk
+025209.html,Core dump with a 64-bit system (PR#2165),25209,kai.makisara@metla.fi
+025138.html,Unsolved symbols: meet_ Tcl_EvalObjv (PR#2090),25138,kleiweg@let.rug.nl
+025139.html,Scripts not executable (PR#2091),25139,kleiweg@let.rug.nl
+025145.html,Problem with construction (1-x)^(1-y) (PR#2103),25145,ligges@statistik.uni-dortmund.de
+025297.html,"ls() without variables, which begins with a point (PR#2216)",25297,ligges@statistik.uni-dortmund.de
+025215.html,documentation: Missing paranthesis in reshape.Rd (PR#2170),25215,lina@u.washington.edu
+025280.html,Function scale (PR#2209),25280,lucas@toulouse.inra.fr
+025230.html,documentation: Missing paranthesis in reshape.Rd (PR#2170),25230,maechler@stat.math.ethz.ch
+025239.html,underflow handling in besselK (PR#2179),25239,maechler@stat.math.ethz.ch
+025329.html,documentation for require (PR#2226),25329,maechler@stat.math.ethz.ch
+025346.html,typo in p.adjust (PR#2231),25346,maechler@stat.math.ethz.ch
+025245.html,png printing (PR#2192),25245,mark0060@tc.umn.edu
+025246.html,png printing (PR#2193),25246,mark0060@tc.umn.edu
+025247.html,png-oops (PR#2195),25247,mark0060@tc.umn.edu
+025349.html,Quick Question (PR#2239),25349,medrecord2001@yahoo.com
+025146.html,parse (PR#2104),25146,mmcstephen@cogstate.com
+025161.html,plot crashes (PR#2121),25161,murdoch@stats.uwo.ca
+025238.html,Chron problem with R 1.6.0 (PR#2181),25238,rab@nauticom.net
+025277.html,crash report (PR#2207),25277,rdarnell@shrs.uq.edu.au
+025171.html,Documentation for randu() (PR#2141),25171,ripley@stats.ox.ac.uk
+025173.html,R-1.6.0-beta compiling on Solaris with gcc-3.2,25173,ripley@stats.ox.ac.uk
+025179.html,Sweave (PR#2142),25179,ripley@stats.ox.ac.uk
+025194.html,XML package,25194,ripley@stats.ox.ac.uk
+025198.html,savehistory directories and quitting R (PR#2038),25198,ripley@stats.ox.ac.uk
+025201.html,Install with 64-bit GCC 3.2 (PR#2048),25201,ripley@stats.ox.ac.uk
+025206.html,growing process size in simulation,25206,ripley@stats.ox.ac.uk
+025216.html,submitting binary windows packages,25216,ripley@stats.ox.ac.uk
+025217.html,install.packages warning,25217,ripley@stats.ox.ac.uk
+025219.html,R-patched make warnings on Mandrake 9.0,25219,ripley@stats.ox.ac.uk
+025222.html,R-patched make warnings on Mandrake 9.0,25222,ripley@stats.ox.ac.uk
+025225.html,configure/build issue with gcc 3.2.0 (PR#2176),25225,ripley@stats.ox.ac.uk
+025227.html,configure/build issue with gcc 3.2.0 (PR#2176),25227,ripley@stats.ox.ac.uk
+025229.html,Documentation for .Renviron (PR#2175),25229,ripley@stats.ox.ac.uk
+025235.html,Documentation for .Renviron (PR#2175),25235,ripley@stats.ox.ac.uk
+025243.html,dist() {&quot;mva&quot; package} bug: treats +/- Inf as NA,25243,ripley@stats.ox.ac.uk
+025250.html,savehistory directories and quitting R (PR#2038),25250,ripley@stats.ox.ac.uk
+025263.html,RFC: Loading packages at startup,25263,ripley@stats.ox.ac.uk
+025267.html,Loading packages at startup,25267,ripley@stats.ox.ac.uk
+025278.html,crash report (PR#2207),25278,ripley@stats.ox.ac.uk
+025279.html,model.matrix (via predict) (PR#2206),25279,ripley@stats.ox.ac.uk
+025285.html,RFC: Loading packages at startup,25285,ripley@stats.ox.ac.uk
+025289.html,[R] Combinatorial Optimisation,25289,ripley@stats.ox.ac.uk
+025294.html,R-1.6.1beta available,25294,ripley@stats.ox.ac.uk
+025296.html,"ls() without variables, which begins with a point (PR#2216)",25296,ripley@stats.ox.ac.uk
+025298.html,VR update,25298,ripley@stats.ox.ac.uk
+025301.html,RODBC patchlet,25301,ripley@stats.ox.ac.uk
+025304.html,RFC: no automatic updates of packages with major version change,25304,ripley@stats.ox.ac.uk
+025324.html,dependency in tests,25324,ripley@stats.ox.ac.uk
+025332.html,silent option for library function,25332,ripley@stats.ox.ac.uk
+025336.html,silent option for library function,25336,ripley@stats.ox.ac.uk
+025224.html,configure/build issue with gcc 3.2.0 (PR#2176),25224,rjvbertin@hotmail.com
+025262.html,negative numbers in R plots in Illustrator 8 (and higher?) (PR#2199),25262,rjvbertin@hotmail.com
+025153.html,Welch versus Satterthwaith (PR#2111),25153,roxburg@kih.net
+025144.html,Problem with construction (1-x)^(1-y) (PR#2103),25144,rss@rss.phtd.tpu.edu.ru
+025200.html,possible memory leak in 1.6 (PR#2160),25200,socher@stat.uni-muenchen.de
+025170.html,Documentation for randu() (PR#2141),25170,sta6ajb@leeds.ac.uk
+025291.html,qgamma precision (PR#2214),25291,terra@diku.dk
+025169.html,problems with missing values created by conversion using as.matri (PR#2133),25169,tlumley@u.washington.edu
+025167.html,help-links.sh doesn't make sure that packages.html is writable (PR#2131),25167,voegelas@users.sourceforge.net
+025327.html,2002-09-08 1.6.0 build fails in Recommended (PR#1995),25327,y-yoshida@jp.fujitsu.com

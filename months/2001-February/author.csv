@@ -1,0 +1,133 @@
+link,Subject,id,author
+022025.html,[Rd] tk non-widget commands (esp. update and winfo),22025,Peter Dalgaard BSA
+022030.html,[Rd] Linux shared library problem (PR#838),22030,Peter Dalgaard BSA
+022038.html,[Rd] X11 warnings about &quot;wrong&quot; font sizes (PR#840),22038,Peter Dalgaard BSA
+022040.html,[Rd] X11 warnings about &quot;wrong&quot; font sizes (PR#840),22040,Peter Dalgaard BSA
+022041.html,[Rd] Bug list summary (automatic post),22041,Peter Dalgaard BSA
+022046.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22046,Peter Dalgaard BSA
+022076.html,[Rd] tk non-widget commands (esp. update and winfo),22076,Peter Dalgaard BSA
+022093.html,[Rd] X11 device doesn't handle destroy events correcly (PR#848),22093,Peter Dalgaard BSA
+022100.html,[Rd] (PR#849),22100,Peter Dalgaard BSA
+022104.html,[Rd] who frees dd and xd in X11_Open?,22104,Peter Dalgaard BSA
+022125.html,[Rd] segfault,22125,Peter Dalgaard BSA
+022126.html,[Rd] Bug list summary (automatic post),22126,Peter Dalgaard BSA
+022130.html,[Rd] segfault,22130,Peter Dalgaard BSA
+022132.html,[Rd] Off-topic: Pretty-printing R (or S) code with GNU a2ps,22132,Peter Dalgaard BSA
+022141.html,[Rd] Patch to coplot.R,22141,Dr. Thomas Baumann
+022059.html,[Rd] hollow points bug?,22059,Ragnar Beer
+022061.html,[Rd] hollow points bug?,22061,Ragnar Beer
+022021.html,[Rd] factors in data.frames (PR#835),22021,Bill.Venables@CMIS.CSIRO.AU
+022086.html,[Rd] Documentation suggestion!,22086,Yves Gauvreau
+022098.html,[Rd] R_LIBS setting in R -d gdb,22098,Paul Gilbert
+022121.html,[Rd] R_LIBS setting in R -d gdb,22121,Paul Gilbert
+022123.html,[Rd] R_LIBS setting in R -d gdb,22123,Paul Gilbert
+022124.html,[Rd] segfault,22124,Paul Gilbert
+022129.html,[Rd] segfault,22129,Paul Gilbert
+022145.html,[Rd] -malign-double,22145,Paul Gilbert
+022023.html,[Rd] configure bug in R-1.2.1 and earlier (PR#836),22023,Lars Hecking
+022022.html,[Rd] configure bug in R-1.2.1 and earlier (PR#836),22022,Kurt Hornik
+022042.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22042,Kurt Hornik
+022045.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22045,Kurt Hornik
+022047.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22047,Kurt Hornik
+022050.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22050,Kurt Hornik
+022051.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22051,Kurt Hornik
+022053.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22053,Kurt Hornik
+022062.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22062,Kurt Hornik
+022131.html,[Rd] Off-topic: Pretty-printing R (or S) code with GNU a2ps,22131,Kurt Hornik
+022083.html,[Rd] Re: tabular data (was RE: [R] Removing &quot;row.names&quot;),22083,Kurt Hornik
+022113.html,[Rd] Comments on R-1.2.1 builds (PR#851),22113,Kurt Hornik
+022115.html,[Rd] R_LIBS setting in R -d gdb,22115,Kurt Hornik
+022122.html,[Rd] R_LIBS setting in R -d gdb,22122,Kurt Hornik
+022133.html,[Rd] Off-topic: Pretty-printing R (or S) code with GNU a2ps,22133,Kurt Hornik
+022146.html,[Rd] Re: [R] re: Spatial stats: R vs. Splus,22146,Kurt Hornik
+022136.html,[Rd] %*% in examples (PR#855),22136,Torsten Hothorn
+022097.html,[Rd] (PR#849),22097,I.Wilson@maths.abdn.ac.uk
+022105.html,[Rd] R 1.2.2 (pre-release) available,22105,Stefano Iacus
+022080.html,[Rd] Scatter plot calling R function from C,22080,Tsumiyama Isao
+022089.html,[Rd] Scatter plot calling R function from C,22089,Tsumiyama Isao
+022056.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22056,David James
+022072.html,[Rd] tabular data (was RE: [R] Removing &quot;row.names&quot;),22072,David James
+022147.html,[Rd] Re: [R] re: Spatial stats: R vs. Splus,22147,Timothy H. Keitt
+022063.html,[Rd] What is R?,22063,Diego Kuonen
+022018.html,[Rd] Is Omegahat in R a general language function bus ?,22018,Duncan Temple Lang
+022044.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22044,Thomas Lumley
+022048.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22048,Thomas Lumley
+022049.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22049,Thomas Lumley
+022052.html,[Rd] RE: [R] Removing &quot;row.names&quot;,22052,Thomas Lumley
+022065.html,[Rd] Re: [R] What is R?,22065,Thomas Lumley
+022075.html,[Rd] default data= arg to glm() (PR#844),22075,Thomas Lumley
+022085.html,[Rd] Sticky levels (PR#846),22085,Thomas Lumley
+022106.html,[Rd] print.matrix segfaults if rowlab vector too short (PR#850),22106,Thomas Lumley
+022142.html,[Rd] Patch to coplot.R,22142,Martin Maechler
+022077.html,[Rd] system command,22077,Guido Masarotto
+022078.html,[Rd] system command,22078,Guido Masarotto
+022054.html,[Rd] Re: Writing graphics code (was: [R] get vector data from contour),22054,Duncan Murdoch
+022057.html,[Rd] Re: Writing graphics code (was: [R] get vector data from contour),22057,Paul Murrell
+022082.html,[Rd] Scatter plot calling R function from C,22082,Paul Murrell
+022099.html,[Rd] (PR#849),22099,Paul Murrell
+022118.html,[Rd] Re: polygon border colors,22118,Paul Murrell
+022144.html,[Rd] Plotting points on a filled.contour plot (PR#857),22144,Paul Murrell
+022026.html,[Rd] help with build on windows needed.,22026,Erich Neuwirth
+022028.html,[Rd] Rcsound,22028,Erich Neuwirth
+022068.html,[Rd] system command,22068,Erich Neuwirth
+022070.html,[Rd] system command,22070,Erich Neuwirth
+022033.html,[Rd] clipped lines have wrong slope in log plot (PR#839),22033,Emmanuel Paradis
+022034.html,[Rd] Proposal: Generalizing unique() and duplicated(),22034,Kaspar Pflugshaupt
+022035.html,AW: [Rd] Proposal: Generalizing unique() and duplicated(),22035,Kaspar Pflugshaupt
+022039.html,AW: [Rd] Proposal: Generalizing unique() and duplicated(),22039,Kaspar Pflugshaupt
+022027.html,[Rd] help with build on windows needed.,22027,Prof Brian Ripley
+022043.html,[Rd] Change of licence for header files and import libraries,22043,Prof Brian Ripley
+022036.html,AW: [Rd] Proposal: Generalizing unique() and duplicated(),22036,Prof Brian Ripley
+022060.html,[Rd] hollow points bug?,22060,Prof Brian Ripley
+022069.html,[Rd] system command,22069,Prof Brian Ripley
+022081.html,[Rd] Scatter plot calling R function from C,22081,Prof Brian Ripley
+022088.html,[Rd] Documentation suggestion!,22088,Prof Brian Ripley
+022090.html,[Rd] Scatter plot calling R function from C,22090,Prof Brian Ripley
+022095.html,[Rd] who frees dd and xd in X11_Open?,22095,Prof Brian Ripley
+022103.html,[Rd] who frees dd and xd in X11_Open?,22103,Prof Brian Ripley
+022116.html,[Rd] R_LIBS setting in R -d gdb,22116,Prof Brian Ripley
+022119.html,[Rd] match vs. %in% (PR#853),22119,Prof Brian D Ripley
+022110.html,[Rd] Re: R 1.2.2 (pre-release) available,22110,G. Sawitzki
+022134.html,[Rd] %*% in examples (PR#855),22134,Torsten.Hothorn@rzmail.uni-erlangen.de
+022102.html,[Rd] who frees dd and xd in X11_Open?,22102,Adrian Trapletti
+022120.html,[Rd] who frees dd and xd in X11_Open?,22120,Adrian Trapletti
+022024.html,[Rd] tk non-widget commands (esp. update and winfo),22024,Thomas Vogels
+022073.html,[Rd] tk non-widget commands (esp. update and winfo),22073,Thomas Vogels
+022092.html,[Rd] devX11.c -- questions about expose events and XBell,22092,Thomas Vogels
+022094.html,[Rd] who frees dd and xd in X11_Open?,22094,Thomas Vogels
+022096.html,[Rd] who frees dd and xd in X11_Open?,22096,Thomas Vogels
+022109.html,[Rd] who frees dd and xd in X11_Open?,22109,Thomas Vogels
+022108.html,[Rd] Re: polygon border colors,22108,Denis White
+022015.html,[Rd] inconsistent behaviour between class() and inherits() (PR#834),22015,adrian@olsen.ch
+022117.html,[Rd] match vs. %in% (PR#853),22117,baron@cattell.psych.upenn.edu
+022111.html,[Rd] Comments on R-1.2.1 builds (PR#851),22111,beebe@math.utah.edu
+022112.html,[Rd] More comments on R-1.2.1 builds (PR#852),22112,beebe@math.utah.edu
+022071.html,[Rd] Minor doc bug (PR#843),22071,bwheeler@echip.com
+022084.html,[Rd] Sticky levels (PR#846),22084,bwheeler@echip.com
+022029.html,[Rd] Linux shared library problem (PR#838),22029,daniel.egloff@dplanet.ch
+022016.html,[Rd] factors in data.frames (PR#835),22016,james.lindsey@luc.ac.be
+022031.html,[Rd] clipped lines have wrong slope in log plot (PR#839),22031,jason@cs.rochester.edu
+022019.html,[Rd] configure bug in R-1.2.1 and earlier (PR#836),22019,lhecking@nmrc.ie
+022137.html,[Rd] %*% in examples (PR#855),22137,ligges@statistik.uni-dortmund.de
+022066.html,"[Rd] dnbinom(,size&lt;1,)=0 (PR#842)",22066,maechler@stat.math.ethz.ch
+022067.html,"[Rd] dnbinom(,size&lt;1,)=0 (PR#842)",22067,maechler@stat.math.ethz.ch
+022140.html,[Rd] Plotting points on a filled.contour plot (PR#857),22140,marchini@stats.ox.ac.uk
+022079.html,[Rd] Bug in pictex output. (PR#845),22079,patrick.lindsey@luc.ac.be
+022101.html,[Rd] print.matrix segfaults if rowlab vector too short (PR#850),22101,pdenis2@home.com
+022138.html,[Rd] &quot;}  {&quot; problem in Rd files (PR#856),22138,pgilbert@bank-banque-canada.ca
+022058.html,[Rd] RE: [R] Re: failed rpm installation of R 1.2-1 (fwd) (PR#841),22058,plummer@iarc.fr
+022087.html,[Rd] RE: [R] silly question about spec (PR#847),22087,plummer@iarc.fr
+022074.html,[Rd] default data= arg to glm() (PR#844),22074,pperkins@ucsd.edu
+022127.html,[Rd] onefile= arg to postscript() (PR#854),22127,pperkins@ucsd.edu
+022017.html,[Rd] factors in data.frames (PR#835),22017,ripley@stats.ox.ac.uk
+022114.html,[Rd] More comments on R-1.2.1 builds (PR#852),22114,ripley@stats.ox.ac.uk
+022128.html,[Rd] onefile= arg to postscript() (PR#854),22128,ripley@stats.ox.ac.uk
+022135.html,[Rd] %*% in examples (PR#855),22135,ripley@stats.ox.ac.uk
+022139.html,[Rd] &quot;}  {&quot; problem in Rd files (PR#856),22139,ripley@stats.ox.ac.uk
+022143.html,[Rd] Patch to coplot.R,22143,thomas.baumann@ch.tum.de
+022064.html,"[Rd] dnbinom(,size&lt;1,)=0 (PR#842)",22064,tlumley@u.washington.edu
+022107.html,[Rd] print.matrix segfaults if rowlab vector too short (PR#850),22107,tlumley@u.washington.edu
+022014.html,[Rd] screen can't go back to log=&quot;y&quot; plot (PR#831),22014,tov@ece.cmu.edu
+022020.html,[Rd] screen doesn't handle redrawing properly (PR#837),22020,tov@ece.cmu.edu
+022037.html,[Rd] X11 warnings about &quot;wrong&quot; font sizes (PR#840),22037,tov@ece.cmu.edu
+022091.html,[Rd] X11 device doesn't handle destroy events correcly (PR#848),22091,tov@ece.cmu.edu

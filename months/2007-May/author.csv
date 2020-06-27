@@ -1,0 +1,390 @@
+link,Subject,id,author
+045855.html,[Rd] list element names in S4 class extending list,45855,Vincent Carey 525-2265
+045827.html,[Rd] AIX testers needed,45827,Jason Barnhart
+045844.html,[Rd] AIX testers needed,45844,Jason Barnhart
+045847.html,[Rd] AIX testers needed,45847,Jason Barnhart
+045948.html,[Rd] AIX testers needed,45948,Jason Barnhart
+045729.html,[Rd] select.list() not on front of other windows,45729,Henrik Bengtsson
+045731.html,[Rd] Native implementation of rowMedians(),45731,Henrik Bengtsson
+045742.html,[Rd] Native implementation of rowMedians(),45742,Henrik Bengtsson
+045743.html,[Rd] Native implementation of rowMedians(),45743,Henrik Bengtsson
+045696.html,[Rd] bounties,45696,Ben Bolker
+045707.html,[Rd] bounties,45707,Ben Bolker
+045804.html,[Rd] citation question,45804,Ben Bolker
+045834.html,"[Rd] importing a function, generic conflicts",45834,Ben Bolker
+045945.html,[Rd] bug from nlm function (PR#9711),45945,Ben Bolker
+045920.html,[Rd] R scripts slowing down after repeated called to compiled code,45920,Michael Braun
+045922.html,[Rd] R scripts slowing down after repeated called to	compiled	code,45922,Michael Braun
+045927.html,[Rd] R scripts slowing down after repeated called to compiled	code,45927,Michael Braun
+045946.html,[Rd] Use of Rf_duplicate,45946,Michael Braun
+045721.html,[Rd] symbollic differentiation in R,45721,Andrew Clausen
+045722.html,"[Rd] relist, an inverse operator to unlist",45722,Andrew Clausen
+045724.html,"[Rd] relist, an inverse operator to unlist",45724,Andrew Clausen
+045732.html,"[Rd] relist, an inverse operator to unlist",45732,Andrew Clausen
+045786.html,[Rd] optim bug (PR#9684),45786,Andrew Clausen
+045829.html,"[Rd] relist, an inverse operator to unlist",45829,Andrew Clausen
+045830.html,"[Rd] relist, an inverse operator to unlist",45830,Andrew Clausen
+045860.html,"[Rd] relist, an inverse operator to unlist",45860,Andrew Clausen
+045882.html,"[Rd] relist, an inverse operator to unlist",45882,Andrew Clausen
+045596.html,[Rd] integer constants given by hexadecimal notation (PR#9648),45596,Peter Dalgaard
+045601.html,[Rd] Nonexistent URL in R_ext/Callbacks.h,45601,Peter Dalgaard
+045667.html,[Rd] Problem calling $ inside a $ method,45667,Peter Dalgaard
+045836.html,[Rd] section needed in FAQ - Using R (PR#9698),45836,Peter Dalgaard
+045848.html,[Rd] section needed in FAQ - Using R (PR#9698),45848,Peter Dalgaard
+045871.html,[Rd] Quoting,45871,Peter Dalgaard
+045799.html,[Rd] 'attach workspace' on R console File menu,45799,Henrique Dallazuanna
+045910.html,[Rd] C code for qbeta,45910,Sean Davis
+045868.html,[Rd] inline C/C++ in R: question and suggestion,45868,Vladimir Dergachev
+045870.html,[Rd] Quoting (was:  inline C/C++ in R: question and suggestion,45870,Vladimir Dergachev
+045874.html,[Rd] Quoting,45874,Vladimir Dergachev
+045892.html,[Rd] is.finite confusion,45892,Vladimir Dergachev
+045901.html,[Rd] is.finite confusion,45901,Vladimir Dergachev
+045921.html,[Rd] R scripts slowing down after repeated called to compiled	code,45921,Vladimir Dergachev
+045608.html,"[Rd] R CMD Rdconv drops sections: arguments, seealso, examples (PR#9645)",45608,Bill Dunlap
+045662.html,"[Rd] R CMD Rdconv drops sections: arguments, seealso, examples (PR#9649)",45662,Bill Dunlap
+045780.html,[Rd] optim bug (PR#9684),45780,Bill Dunlap
+045814.html,[Rd] RFC: adding an 'exact' argument to [[,45814,Bill Dunlap
+045751.html,[Rd] Native implementation of rowMedians(),45751,Dirk Eddelbuettel
+045832.html,[Rd] Cannot install rsprng package (PR#9697),45832,Dirk Eddelbuettel
+045900.html,[Rd] (PR#9691) 'Bug'#424696: R CMD INSTALL -l &lt;path&gt; does not,45900,Dirk Eddelbuettel
+045923.html,[Rd] R scripts slowing down after repeated called to compiled	code,45923,Dirk Eddelbuettel
+045976.html,[Rd] Possible changes to connections,45976,Byron Ellis
+045676.html,[Rd] One for the wish list - var.default etc,45676,S Ellison
+045678.html,[Rd] One for the wish list - var.default etc,45678,S Ellison
+045840.html,[Rd] section needed in FAQ - Using R (PR#9698),45840,Vladimir Eremeev
+045907.html,[Rd] Problem with accessing internal variable in package.,45907,Vladimir Eremeev
+045908.html,[Rd] Problem with accessing internal variable in package.,45908,Vladimir Eremeev
+045911.html,[Rd] private variables in package.,45911,Vladimir Eremeev
+045913.html,[Rd] private variables in package.,45913,Vladimir Eremeev
+045915.html,[Rd] private variables in package.,45915,Vladimir Eremeev
+045916.html,[Rd] solved.,45916,Vladimir Eremeev
+045939.html,[Rd] How to correctly write a package?,45939,Vladimir Eremeev
+045591.html,[Rd] Possible problem with S4 dispatch,45591,Seth Falcon
+045607.html,[Rd] Possible problem with S4 dispatch,45607,Seth Falcon
+045613.html,[Rd] Questions about name space directives,45613,Seth Falcon
+045616.html,[Rd] Embedding R and registering routines,45616,Seth Falcon
+045665.html,[Rd] Problem calling $ inside a $ method,45665,Seth Falcon
+045669.html,[Rd] Problem calling $ inside a $ method,45669,Seth Falcon
+045753.html,[Rd] Best Practise,45753,Seth Falcon
+045754.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45754,Seth Falcon
+045757.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45757,Seth Falcon
+045788.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45788,Seth Falcon
+045794.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45794,Seth Falcon
+045811.html,[Rd] RFC: adding an 'exact' argument to [[,45811,Seth Falcon
+045815.html,[Rd] RFC: adding an 'exact' argument to [[,45815,Seth Falcon
+045851.html,[Rd] Passing R CMD Check without data,45851,Seth Falcon
+045852.html,"[Rd] relist, an inverse operator to unlist",45852,Seth Falcon
+045872.html,[Rd] RFC: adding an 'exact' argument to [[,45872,Seth Falcon
+045884.html,"[Rd] relist, an inverse operator to unlist",45884,Seth Falcon
+045918.html,[Rd] Recent changes in R related to CHARSXPs,45918,Seth Falcon
+045953.html,[Rd] S4 assignment \alias and \usage,45953,Seth Falcon
+045960.html,[Rd] S4 assignment \alias and \usage,45960,Seth Falcon
+045967.html,[Rd] Possible changes to connections,45967,Seth Falcon
+045971.html,[Rd] Possible changes to connections,45971,Seth Falcon
+045975.html,[Rd] Possible changes to connections,45975,Seth Falcon
+045686.html,[Rd] Behaviour of read.table with empty columns,45686,John Fox
+045694.html,[Rd] Behaviour of read.table with empty columns,45694,John Fox
+045841.html,[Rd] section needed in FAQ - Using R (PR#9698),45841,John Fox
+045846.html,[Rd] section needed in FAQ - Using R (PR#9698),45846,John Fox
+045906.html,[Rd] Problems with R 2.5.0 (PR#9708),45906,John Fox
+045769.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45769,Thomas Friedrichsmeier
+045964.html,[Rd] Sort in ecdf,45964,Shiazy Fuzzy
+045909.html,[Rd] C code for qbeta,45909,Gatsu
+045692.html,[Rd] One for the wish list - var.default etc,45692,Robert Gentleman
+045750.html,[Rd] Native implementation of rowMedians(),45750,Robert Gentleman
+045977.html,[Rd] Calling R_PolledEvents from R_CheckUserInterrupt,45977,Robert Gentleman
+045679.html,[Rd] fix() changes the class of mts objects,45679,Simone Giannerini
+045684.html,[Rd] fix() changes the class of mts objects,45684,Simone Giannerini
+045687.html,[Rd] fix() changes the class of mts objects,45687,Simone Giannerini
+045633.html,[Rd] Imports/exports of S4 methods,45633,Paul Gilbert
+045951.html,[Rd] S4 assignment \alias and \usage,45951,Paul Gilbert
+045959.html,[Rd] S4 assignment \alias and \usage,45959,Paul Gilbert
+045963.html,[Rd] S4 assignment \alias and \usage,45963,Paul Gilbert
+045642.html,[Rd] [R] factanal  AIC?,45642,Spencer Graves
+045660.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45660,Gabor Grothendieck
+045680.html,[Rd] One for the wish list - var.default etc,45680,Gabor Grothendieck
+045689.html,[Rd] Behaviour of read.table with empty columns,45689,Gabor Grothendieck
+045693.html,[Rd] One for the wish list - var.default etc,45693,Gabor Grothendieck
+045712.html,[Rd] Implicit vs explicit printing and the call stack,45712,Gabor Grothendieck
+045723.html,[Rd] symbollic differentiation in R,45723,Gabor Grothendieck
+045727.html,[Rd] symbollic differentiation in R,45727,Gabor Grothendieck
+045728.html,"[Rd] relist, an inverse operator to unlist",45728,Gabor Grothendieck
+045733.html,"[Rd] relist, an inverse operator to unlist",45733,Gabor Grothendieck
+045789.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45789,Gabor Grothendieck
+045800.html,[Rd] 'attach workspace' on R console File menu,45800,Gabor Grothendieck
+045803.html,[Rd] 'attach workspace' on R console File menu,45803,Gabor Grothendieck
+045805.html,[Rd] citation question,45805,Gabor Grothendieck
+045825.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45825,Gabor Grothendieck
+045862.html,[Rd] RFC: adding an 'exact' argument to [[,45862,Gabor Grothendieck
+045873.html,"[Rd] relist, an inverse operator to unlist",45873,Gabor Grothendieck
+045883.html,"[Rd] relist, an inverse operator to unlist",45883,Gabor Grothendieck
+045885.html,"[Rd] relist, an inverse operator to unlist",45885,Gabor Grothendieck
+045887.html,"[Rd] relist, an inverse operator to unlist",45887,Gabor Grothendieck
+045889.html,"[Rd] relist, an inverse operator to unlist",45889,Gabor Grothendieck
+045688.html,[Rd] fix() changes the class of mts objects,45688,Jeffrey J. Hallman
+045690.html,[Rd] One for the wish list - var.default etc,45690,Jeffrey J. Hallman
+045797.html,[Rd] 'attach workspace' on R console File menu,45797,Christos Hatzis
+045801.html,[Rd] 'attach workspace' on R console File menu,45801,Christos Hatzis
+045806.html,[Rd] 'attach workspace' on R console File menu,45806,Christos Hatzis
+045599.html,[Rd] Nonexistent URL in R_ext/Callbacks.h,45599,Jeffrey Horner
+045606.html,[Rd] Embedding R and registering routines,45606,Jeffrey Horner
+045657.html,[Rd] sending signals to embedded R,45657,Jeffrey Horner
+045683.html,[Rd] Duplicate assignment in function newbzfile on R-trunk,45683,Jeffrey Horner
+045968.html,[Rd] Possible changes to connections,45968,Jeffrey Horner
+045622.html,[Rd] ? R 2.5.0 alpha bug,45622,"Inman, Brant A.   M.D."
+045902.html,[Rd] development,45902,Jonathan Kelfer
+045856.html,[Rd] section needed in FAQ - Using R (PR#9698),45856,Ray Kiddy
+045610.html,[Rd] Embedding R and registering routines,45610,Duncan Temple Lang
+045612.html,[Rd] Embedding R and registering routines,45612,Duncan Temple Lang
+045615.html,[Rd] Embedding R and registering routines,45615,Duncan Temple Lang
+045620.html,[Rd] Embedding R and registering routines,45620,Duncan Temple Lang
+045776.html,[Rd] XML parsing under R / Extracting nodes&#8217; values,45776,Duncan Temple Lang
+045768.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45768,Friedrich Leisch
+045603.html,[Rd] (PR#9648) integer constants given by hexadecimal notation,45603,Hin-Tak Leung
+045621.html,[Rd] mingw-cross rpm spec file,45621,Hin-Tak Leung
+045772.html,[Rd] XML parsing under R / Extracting nodes&#8217; values,45772,Hin-Tak Leung
+045843.html,[Rd] readLines needs some extra bit of documentation.,45843,Hin-Tak Leung
+045845.html,[Rd] AIX testers needed,45845,Hin-Tak Leung
+045774.html,[Rd] read.table() can't read in this table (But Splus can),45774,"Liaw, Andy"
+045859.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact floating point values,45859,Uwe Ligges
+045877.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact floating point values,45877,Uwe Ligges
+045940.html,[Rd] How to correctly write a package?,45940,Uwe Ligges
+045919.html,[Rd] C code for qbeta,45919,Thomas Lumley
+045972.html,[Rd] Problems when linking to R shared library,45972,John Maddock
+045600.html,[Rd] integer constants given by hexadecimal notation,45600,Martin Maechler
+045646.html,[Rd] Qt device update,45646,Martin Maechler
+045648.html,[Rd] Qt device update,45648,Martin Maechler
+045674.html,[Rd] Do NOT misuse R-devel! {was &quot;Median&quot;},45674,Martin Maechler
+045697.html,[Rd] One for the wish list - var.default etc,45697,Martin Maechler
+045735.html,"[Rd] relist, an inverse operator to unlist",45735,Martin Maechler
+045736.html,[Rd] Native implementation of rowMedians(),45736,Martin Maechler
+045749.html,[Rd] Native implementation of rowMedians(),45749,Martin Maechler
+045798.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45798,Martin Maechler
+045807.html,[Rd] citation question,45807,Martin Maechler
+045864.html,"[Rd] relist, an inverse operator to unlist",45864,Martin Maechler
+045886.html,"[Rd] relist, an inverse operator to unlist",45886,Martin Maechler
+045934.html,[Rd] [Bioc-devel] promptClass,45934,Martin Maechler
+045955.html,[Rd] S4 assignment \alias and \usage,45955,Martin Maechler
+045965.html,[Rd] Sort in ecdf,45965,Martin Maechler
+045590.html,[Rd] Levels attribute in integer columns created by model.frame(),45590,John Maindonald
+045593.html,[Rd] Levels attribute in integer columns created by	model.frame(),45593,John Maindonald
+045737.html,[Rd] Best Practise,45737,Tom McCallum
+045812.html,[Rd] model.matrix bug? Nested factor yields singular design matrix.,45812,Steven McKinney
+045813.html,[Rd] model.matrix bug? Nested factor yields singular design	matrix.,45813,Steven McKinney
+045954.html,[Rd] R 2.5.0 MAC OS X version,45954,Roy Mendelssohn
+045671.html,[Rd] Median,45671,Jos&#233; Fern&#225;ndez Men&#233;ndez
+045625.html,[Rd] Inherited S4 .Data prototype not assigned,45625,Martin Morgan
+045725.html,[Rd] Help understanding LAPACK symbol resolution,45725,Martin Morgan
+045730.html,[Rd] Help understanding LAPACK symbol resolution,45730,Martin Morgan
+045897.html,[Rd] list element names in S4 class extending list,45897,Martin Morgan
+045929.html,[Rd] [Bioc-devel] promptClass,45929,Martin Morgan
+045720.html,[Rd] Strange behavior of debugger,45720,Duncan Murdoch
+045745.html,"[Rd] round(#, digits=x) unreliable for x=2 (PR#9682)",45745,Duncan Murdoch
+045756.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45756,Duncan Murdoch
+045790.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45790,Duncan Murdoch
+045796.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45796,Duncan Murdoch
+045817.html,[Rd] RFC: adding an 'exact' argument to [[,45817,Duncan Murdoch
+045822.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45822,Duncan Murdoch
+045826.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45826,Duncan Murdoch
+045867.html,[Rd] inline C/C++ in R: question and suggestion,45867,Duncan Murdoch
+045869.html,[Rd] Quoting (was:  inline C/C++ in R: question and suggestion,45869,Duncan Murdoch
+045895.html,[Rd] package: 'inline' to inline C or C++ code in R functions,45895,Duncan Murdoch
+045914.html,[Rd] private variables in package.,45914,Duncan Murdoch
+045932.html,[Rd] Problem with installing a package for R 2.5.0,45932,Duncan Murdoch
+045943.html,[Rd] question about R_ParseVector function,45943,Duncan Murdoch
+045701.html,[Rd] Display list redraw incomplete,45701,Paul Murrell
+045833.html,[Rd] AIX testers needed,45833,Ei-ji Nakama
+045853.html,[Rd] AIX testers needed,45853,Ei-ji Nakama
+045842.html,[Rd] Passing R CMD Check without data,45842,Arjun Ravi Narayan
+045713.html,[Rd] The best way to use R's linear algebra functions from C,45713,Daniel Oberski
+045675.html,[Rd] step() in sink() and Sweave(),45675,Jari Oksanen
+045949.html,[Rd] LAPACK and BLAS libraries,45949,Tommy Ouellet
+045838.html,[Rd] bug? in first plot,45838,Petr PIKAL
+045767.html,[Rd] Unexpected alteration of data frame column names,45767,Herve Pages
+045632.html,[Rd] Display list redraw incomplete,45632,Roger Peng
+045699.html,[Rd] Display list redraw incomplete,45699,Roger Peng
+045966.html,[Rd] Possible changes to connections,45966,Roger Peng
+045627.html,[Rd] Imports/exports of S4 methods,45627,Roger D. Peng
+045704.html,[Rd] bounties,45704,Tony Plate
+045702.html,[Rd] data.entry bugs,45702,Juan Santiago Ramseyer
+045592.html,[Rd] Levels attribute in integer columns created by	model.frame(),45592,Prof Brian Ripley
+045597.html,[Rd] Possible problem with S4 dispatch,45597,Prof Brian Ripley
+045604.html,[Rd] (PR#9648) integer constants given by hexadecimal notation,45604,Prof Brian Ripley
+045619.html,[Rd] Questions about name space directives,45619,Prof Brian Ripley
+045623.html,[Rd] ? R 2.5.0 alpha bug,45623,Prof Brian Ripley
+045624.html,"[Rd] R CMD Rdconv drops sections: arguments, seealso, examples (PR#9649)",45624,Prof Brian Ripley
+045630.html,[Rd] Qt device update,45630,Prof Brian Ripley
+045631.html,"[Rd] R CMD Rdconv drops sections: arguments, seealso, examples (PR#9649)",45631,Prof Brian Ripley
+045637.html,[Rd] Qt device update,45637,Prof Brian Ripley
+045639.html,[Rd] sending signals to embedded R,45639,Prof Brian Ripley
+045644.html,[Rd] sending signals to embedded R,45644,Prof Brian Ripley
+045647.html,[Rd] Qt device update,45647,Prof Brian Ripley
+045650.html,[Rd] sending signals to embedded R,45650,Prof Brian Ripley
+045652.html,[Rd] Building R on Solaris,45652,Prof Brian Ripley
+045654.html,[Rd] (PR#9657) rbind fails with zero row data.frame and non-data.frame,45654,Prof Brian Ripley
+045663.html,[Rd] Qt device update,45663,Prof Brian Ripley
+045668.html,[Rd] Problem calling $ inside a $ method,45668,Prof Brian Ripley
+045673.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45673,Prof Brian Ripley
+045677.html,[Rd] One for the wish list - var.default etc,45677,Prof Brian Ripley
+045681.html,[Rd] fix() changes the class of mts objects,45681,Prof Brian Ripley
+045682.html,[Rd] One for the wish list - var.default etc,45682,Prof Brian Ripley
+045685.html,[Rd] fix() changes the class of mts objects,45685,Prof Brian Ripley
+045691.html,[Rd] Behaviour of read.table with empty columns,45691,Prof Brian Ripley
+045710.html,[Rd] Problem with rnorm ?,45710,Prof Brian Ripley
+045716.html,[Rd] Implicit vs explicit printing and the call stack,45716,Prof Brian Ripley
+045718.html,[Rd] Implicit vs explicit printing and the call stack,45718,Prof Brian Ripley
+045726.html,[Rd] Help understanding LAPACK symbol resolution,45726,Prof Brian Ripley
+045734.html,[Rd] select.list() not on front of other windows,45734,Prof Brian Ripley
+045738.html,[Rd] Native implementation of rowMedians(),45738,Prof Brian Ripley
+045739.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45739,Prof Brian Ripley
+045744.html,[Rd] Native implementation of rowMedians(),45744,Prof Brian Ripley
+045752.html,[Rd] file separator inconsistencies on windows?,45752,Prof Brian Ripley
+045758.html,[Rd] set_seed,45758,Prof Brian Ripley
+045765.html,[Rd] optim bug (PR#9684),45765,Prof Brian Ripley
+045766.html,[Rd] Calling erf function in package NORMT3 produce a R crash on Linux/AMD opteron (PR#9683),45766,Prof Brian Ripley
+045771.html,[Rd] getNamespaceExports(&quot;base&quot;) error,45771,Prof Brian Ripley
+045779.html,[Rd] Rgui open script file selection filter wish,45779,Prof Brian Ripley
+045783.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45783,Prof Brian Ripley
+045784.html,[Rd] optim bug (PR#9684),45784,Prof Brian Ripley
+045791.html,[Rd] optim non-bug,45791,Prof Brian Ripley
+045810.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45810,Prof Brian Ripley
+045816.html,[Rd] RFC: adding an 'exact' argument to [[,45816,Prof Brian Ripley
+045820.html,[Rd] R 2.5.0 building problem,45820,Prof Brian Ripley
+045821.html,[Rd] RFC: adding an 'exact' argument to [[,45821,Prof Brian Ripley
+045839.html,[Rd] bug? in first plot,45839,Prof Brian Ripley
+045854.html,[Rd] dev.interactive() changes,45854,Prof Brian Ripley
+045876.html,[Rd] regexp bug in very recent r-devel,45876,Prof Brian Ripley
+045894.html,[Rd] is.finite confusion,45894,Prof Brian Ripley
+045896.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact floating point values,45896,Prof Brian Ripley
+045912.html,[Rd] private variables in package.,45912,Prof Brian Ripley
+045938.html,"[Rd] When loading evir after evd,	dgumbel gives an error (PR#9704)",45938,Prof Brian Ripley
+045944.html,[Rd] Correct usage of nchar(): precautionary change for R 2.6.0,45944,Prof Brian Ripley
+045950.html,[Rd] LAPACK and BLAS libraries,45950,Prof Brian Ripley
+045956.html,[Rd] R 2.5.0 MAC OS X version,45956,Prof Brian Ripley
+045961.html,[Rd] Possible changes to connections,45961,Prof Brian Ripley
+045962.html,[Rd] S4 assignment \alias and \usage,45962,Prof Brian Ripley
+045970.html,[Rd] Possible changes to connections,45970,Prof Brian Ripley
+045802.html,[Rd] attach/detach asymmetry,45802,Barry Rowlingson
+045837.html,[Rd] setIs-relation does not entail automatic coercion in S4 method	dispatch --- should it?,45837,Peter Ruckdeschel
+045629.html,[Rd] Qt device update,45629,Deepayan Sarkar
+045636.html,[Rd] Qt device update,45636,Deepayan Sarkar
+045638.html,[Rd] sending signals to embedded R,45638,Deepayan Sarkar
+045640.html,[Rd] sending signals to embedded R,45640,Deepayan Sarkar
+045661.html,[Rd] Qt device update,45661,Deepayan Sarkar
+045664.html,[Rd] sending signals to embedded R,45664,Deepayan Sarkar
+045700.html,[Rd] Display list redraw incomplete,45700,Deepayan Sarkar
+045849.html,[Rd] dev.interactive() changes,45849,Deepayan Sarkar
+045875.html,[Rd] regexp bug in very recent r-devel,45875,Deepayan Sarkar
+045973.html,[Rd] Calling R_PolledEvents from R_CheckUserInterrupt,45973,Deepayan Sarkar
+045974.html,[Rd] feature request for page() and options(),45974,Deepayan Sarkar
+045659.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45659,Petr Savicky
+045703.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45703,Petr Savicky
+045709.html,[Rd] Problem with rnorm ?,45709,Petr Savicky
+045809.html,[Rd] grep with fixed=TRUE and ignore.case=TRUE,45809,Petr Savicky
+045891.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45891,Petr Savicky
+045893.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45893,Petr Savicky
+045917.html,"[Rd] documented/undocumented behavior of as.double(formatC(x,	digits=17))",45917,Petr Savicky
+045787.html,[Rd] Unexpected alteration of data frame column names,45787,Marc Schwartz
+045850.html,[Rd] section needed in FAQ - Using R (PR#9698),45850,David Scott
+045670.html,[Rd] Median,45670,Jose Sierra
+045628.html,[Rd] Inherited S4 .Data prototype not assigned,45628,Oleg Sklyar
+045865.html,[Rd] inline C/C++ in R: question and suggestion,45865,Oleg Sklyar
+045880.html,[Rd] inline C/C++ in R: question and suggestion,45880,Oleg Sklyar
+045881.html,[Rd] inline C/C++ in R: question and suggestion,45881,Oleg Sklyar
+045890.html,[Rd] package: 'inline' to inline C or C++ code in R functions,45890,Oleg Sklyar
+045926.html,[Rd] R scripts slowing down after repeated called to compiled code,45926,Oleg Sklyar
+045947.html,[Rd] Use of Rf_duplicate,45947,Oleg Sklyar
+045695.html,[Rd] One for the wish list - var.default etc,45695,Greg Snow
+045594.html,[Rd] integer constants given by hexadecimal notation,45594,Stephan
+045778.html,[Rd] Rgui open script file selection filter wish,45778,Jonathan Swinton
+045983.html,[Rd] Problem  building R from source on Windows,45983,Jonathan Swinton
+045641.html,[Rd] sending signals to embedded R,45641,Luke Tierney
+045649.html,[Rd] sending signals to embedded R,45649,Luke Tierney
+045651.html,[Rd] sending signals to embedded R,45651,Luke Tierney
+045656.html,[Rd] sending signals to embedded R,45656,Luke Tierney
+045748.html,[Rd] file separator inconsistencies on windows?,45748,Ernest Turro
+045611.html,[Rd] Embedding R and registering routines,45611,Simon Urbanek
+045614.html,[Rd] Embedding R and registering routines,45614,Simon Urbanek
+045617.html,[Rd] Embedding R and registering routines,45617,Simon Urbanek
+045618.html,[Rd] Embedding R and registering routines,45618,Simon Urbanek
+045634.html,[Rd] Qt device update,45634,Simon Urbanek
+045781.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45781,Simon Urbanek
+045782.html,[Rd] R (PR#9686),45782,Simon Urbanek
+045785.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45785,Simon Urbanek
+045792.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45792,Simon Urbanek
+045793.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45793,Simon Urbanek
+045795.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45795,Simon Urbanek
+045861.html,[Rd] The R.dll problem,45861,Simon Urbanek
+045866.html,[Rd] inline C/C++ in R: question and suggestion,45866,Simon Urbanek
+045672.html,[Rd] Median,45672,R. Villegas
+045708.html,[Rd] Problem with rnorm ?,45708,Tong Wang
+045714.html,[Rd] Problem with rnorm ?,45714,Tong Wang
+045715.html,[Rd] Strange behavior of debugger,45715,Tong Wang
+045755.html,[Rd] set_seed,45755,Tong Wang
+045759.html,[Rd] set_seed,45759,Tong Wang
+045857.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45857,Zack Weinberg
+045863.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45863,Zack Weinberg
+045933.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45933,Zack Weinberg
+045819.html,[Rd] R 2.5.0 building problem,45819,Ev Whin
+045858.html,[Rd] The R.dll problem,45858,Ev Whin
+045942.html,[Rd] question about R_ParseVector function,45942,Ev Whin
+045823.html,[Rd] Is formula(data.frame) documented?,45823,Kevin Wright
+045931.html,[Rd] Problem with installing a package for R 2.5.0,45931,Recai Yucel
+045952.html,[Rd] R 2.5.0 MAC OS X version,45952,Recai Yucel
+045957.html,[Rd] R 2.5.0 MAC OS X version,45957,Recai Yucel
+045705.html,[Rd] changing the mode of a factor (PR#9675),45705,frederic.gosselin at cemagref.fr
+045706.html,[Rd] dump function and compatibility of .RData files between	versions 2.4/2.5 and lower (PR#9676),45706,frederic.gosselin at cemagref.fr
+045773.html,[Rd] read.table() can't read in this table (But Splus can)	(PR#9687),45773,marc_schwartz at comcast.net
+045903.html,[Rd] development,45903,Bill.Venables at csiro.au
+045741.html,"[Rd] round(#, digits=x) unreliable for x=2 (PR#9682)",45741,scott.wilkinson at csiro.au
+045930.html,[Rd] [Bioc-devel] promptClass,45930,cstrato
+045808.html,[Rd] Bug#424696: R CMD INSTALL -l &lt;path&gt; does not create path	(PR#9691),45808,edd at debian.org
+045626.html,[Rd] (PR#9623)  qr.coef: permutes dimnames; inserts NA; promises,45626,brech at delphioutpost.com
+045958.html,[Rd] Anova doesn't work in newer versions (PR#9712),45958,mbreuer at ecology.uni-kiel.de
+045770.html,[Rd] getNamespaceExports(&quot;base&quot;) error,45770,ml-it-r-devel at epigenomics.com
+045777.html,[Rd] getNamespaceExports(&quot;base&quot;) error,45777,ml-it-r-devel at epigenomics.com
+045818.html,[Rd] Unexpected alteration of data frame column names,45818,hpages at fhcrc.org
+045835.html,[Rd] section needed in FAQ - Using R (PR#9698),45835,ray at ganymede.org
+045655.html,[Rd] sending signals to embedded R,45655,deepayan.sarkar at gmail.com
+045658.html,[Rd] sending signals to embedded R,45658,deepayan.sarkar at gmail.com
+045666.html,[Rd] sending signals to embedded R [SOLVED],45666,deepayan.sarkar at gmail.com
+045763.html,[Rd] read.table() can't read in this table (But Splus can) (PR#9685),45763,vax9000 at gmail.com
+045760.html,[Rd] optim bug (PR#9684),45760,christina.merz at gmx.de
+045645.html,[Rd] rbind fails with zero row data.frame and non-data.frame	(PR#9657),45645,lawremi at iastate.edu
+045761.html,[Rd] Calling erf function in package NORMT3 produce a R crash on	Linux/AMD opteron (PR#9683),45761,benjamin.leblanc at igh.cnrs.fr
+045698.html,[Rd] 'aggregate' should preserve level ordering of factors (PR#9666),45698,prechelt at inf.fu-berlin.de
+045609.html,"[Rd] R CMD Rdconv drops sections: arguments, seealso,	examples (PR#9649)",45609,bill at insightful.com
+045764.html,[Rd] R (PR#9686),45764,conyike1 at jhmi.edu
+045775.html,[Rd] error in help file for bartlett.test() (PR#9688),45775,D.A.Cairns at leeds.ac.uk
+045969.html,[Rd] Possible changes to connections,45969,mel
+045935.html,[Rd] Merge (PR#9699),45935,edward.m at psu.ac.th
+045941.html,[Rd] Merge (PR#9699),45941,edward.m at psu.ac.th
+045924.html,[Rd] R disapears strangely,45924,ronggui
+045925.html,[Rd] R disapears strangely,45925,ronggui
+045598.html,[Rd] integer constants given by hexadecimal notation (PR#9648),45598,ripley at stats.ox.ac.uk
+045602.html,[Rd] [Fwd: Re: [R-downunder] Beware unclass(factor)] (PR#9641),45602,ripley at stats.ox.ac.uk
+045605.html,[Rd] (PR#9623)  qr.coef: permutes dimnames; inserts NA; promises,45605,ripley at stats.ox.ac.uk
+045643.html,[Rd] Bug in qr.R ? (PR#9655),45643,ripley at stats.ox.ac.uk
+045740.html,[Rd] (PR#9666) 'aggregate' should preserve level ordering of,45740,ripley at stats.ox.ac.uk
+045746.html,[Rd] (PR#9676) dump function and compatibility of .RData files,45746,ripley at stats.ox.ac.uk
+045747.html,[Rd] changing the mode of a factor (PR#9675),45747,ripley at stats.ox.ac.uk
+045899.html,[Rd] (PR#9691) 'Bug'#424696: R CMD INSTALL -l &lt;path&gt; does not,45899,ripley at stats.ox.ac.uk
+045937.html,[Rd] Merge (PR#9699),45937,ripley at stats.ox.ac.uk
+045595.html,[Rd] integer constants given by hexadecimal notation (PR#9648),45595,murdoch at stats.uwo.ca
+045653.html,[Rd] Building R on Solaris,45653,elw at stderr.org
+045905.html,[Rd] Problems with R 2.5.0 (PR#9708),45905,fjcaba at teleline.es
+045936.html,"[Rd] When loading evir after evd, dgumbel gives an error (PR#9704)",45936,r.r.p.vannooyen at tudelft.nl
+045928.html,[Rd] bug from nlm function (PR#9711),45928,bla at udec.cl
+045635.html,[Rd] Bug in qr.R ? (PR#9655),45635,Dietrich.Trenkler at uni-osnabrueck.de
+045711.html,[Rd] Implicit vs explicit printing and the call stack,45711,hadley wickham
+045717.html,[Rd] Implicit vs explicit printing and the call stack,45717,hadley wickham
+045719.html,[Rd] Implicit vs explicit printing and the call stack,45719,hadley wickham
+045824.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45824,hadley wickham
+045828.html,[Rd] RFC: allow packages to advertise vignettes on Windows,45828,hadley wickham
+045878.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45878,hadley wickham
+045879.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45879,hadley wickham
+045888.html,"[Rd] relist, an inverse operator to unlist",45888,hadley wickham
+045898.html,[Rd] R 2.5.0 refuses to print enough digits to recover exact	floating point values,45898,hadley wickham
+045762.html,[Rd] XML parsing under R / Extracting nodes&#8217; values,45762,Abdelhakim z
+045904.html,[Rd] image(): wrong comment in error message (PR#9707),45904,rene.locher at zhwin.ch
+045831.html,[Rd] Cannot install rsprng package (PR#9697),45831,fchen at zlanddpsasp.specmarkmet.com

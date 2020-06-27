@@ -1,0 +1,237 @@
+link,Subject,id,author
+070447.html,[Rd] Help finding source of warnings,70447,Prof J C Nash (U30A)
+070450.html,[Rd] Help finding source of warnings,70450,Prof J C Nash (U30A)
+070354.html,[Rd] Failing lm-tests due to extra 0 in scientific notation?,70354,Avraham Adler
+070356.html,[Rd] Failing lm-tests due to extra 0 in scientific notation?,70356,Avraham Adler
+070365.html,[Rd] New version of Rtools for Windows,70365,Avraham Adler
+070377.html,[Rd] New version of Rtools for Windows,70377,Avraham Adler
+070393.html,[Rd] New version of Rtools for Windows,70393,Avraham Adler
+070413.html,[Rd] New version of Rtools for Windows,70413,Avraham Adler
+070421.html,[Rd] Request for help with UBSAN and total absense of CRAN	response,70421,Avraham Adler
+070537.html,[Rd] Building rinstaller using R-devel (3.2.0-to-be) halts when trying to copy html files,70537,Avraham Adler
+070539.html,[Rd] Building rinstaller using R-devel (3.2.0-to-be) halts when trying to copy html files,70539,Avraham Adler
+070516.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70516,Mario Annau
+070518.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70518,Mario Annau
+070419.html,[Rd] [PATCH] Makefile: add support for git svn clones,70419,Felipe Balbi
+070453.html,[Rd] [PATCH] Makefile: add support for git svn clones,70453,Felipe Balbi
+070456.html,[Rd] [PATCH] Makefile: add support for git svn clones,70456,Felipe Balbi
+070458.html,[Rd] [PATCH] Makefile: add support for git svn clones,70458,Felipe Balbi
+070461.html,[Rd] [PATCH] Makefile: add support for git svn clones,70461,Felipe Balbi
+070468.html,[Rd] [PATCH] Makefile: add support for git svn clones,70468,Felipe Balbi
+070531.html,[Rd] [PATCH v2] Makefile: add support for git svn clones,70531,Felipe Balbi
+070340.html,[Rd] Help in building R with minGW,70340,Edoardo Baldoni
+070376.html,[Rd] unloadNamespace,70376,Gabriel Becker
+070404.html,[Rd] unloadNamespace,70404,Gabriel Becker
+070552.html,[Rd] libcurl support and curlGetHeaders warning message in R CMD	check,70552,Skye Bender-deMoll
+070342.html,"[Rd] Benchmark code, but avoid printing",70342,Henrik Bengtsson
+070410.html,[Rd] Shouldn't grDevices::quartz() give an error instead of a warning when not available?,70410,Henrik Bengtsson
+070474.html,[Rd] default min-v/nsize parameters,70474,Henrik Bengtsson
+070484.html,[Rd] Programming Tools CTV,70484,Henrik Bengtsson
+070493.html,[Rd] :: and ::: as .Primitives?,70493,Henrik Bengtsson
+070532.html,[Rd] Inspect a &quot;delayed&quot; assigned whose value throws an error?,70532,Henrik Bengtsson
+070533.html,[Rd] problem with update.packages() in R-Devel (3.2.0) on	Windows,70533,Henrik Bengtsson
+070536.html,[Rd] Inspect a &quot;delayed&quot; assigned whose value throws an error?,70536,Henrik Bengtsson
+070549.html,[Rd] problem with update.packages() in R-Devel (3.2.0) on	Windows,70549,Henrik Bengtsson
+070485.html,[Rd] Programming Tools CTV,70485,Luca Braglia
+070500.html,[Rd] Programming Tools CTV,70500,Luca Braglia
+070501.html,[Rd] Programming Tools CTV,70501,Luca Braglia
+070425.html,[Rd] R CMD check: &quot;...&quot; used in a situation where it does not exist,70425,Michal Burda
+070561.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70561,John Chambers
+070566.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70566,John Chambers
+070568.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70568,John Chambers
+070402.html,[Rd] unloadNamespace,70402,Winston Chang
+070508.html,[Rd] speedbump in library,70508,Winston Chang
+070337.html,[Rd] UCBAdmissions help link update request,70337,John Christie
+070401.html,[Rd] latex warning,70401,Craig Citro
+070339.html,"[Rd] Benchmark code, but avoid printing",70339,G&#225;bor Cs&#225;rdi
+070345.html,"[Rd] Benchmark code, but avoid printing",70345,G&#225;bor Cs&#225;rdi
+070386.html,[Rd] latex warning,70386,G&#225;bor Cs&#225;rdi
+070398.html,[Rd] latex warning,70398,G&#225;bor Cs&#225;rdi
+070503.html,[Rd] Programming Tools CTV,70503,Michael Dewey
+070387.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70387,William Dunlap
+070409.html,[Rd] as.hexmode(big number) fails in R-3.1.2,70409,William Dunlap
+070498.html,[Rd] :: and ::: as .Primitives?,70498,William Dunlap
+070565.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70565,William Dunlap
+070502.html,[Rd] Programming Tools CTV,70502,Christophe Dutang
+070347.html,[Rd] Potential cross-platform package building issue,70347,Dirk Eddelbuettel
+070348.html,[Rd] Potential cross-platform package building issue,70348,Dirk Eddelbuettel
+070396.html,[Rd] latex warning,70396,Dirk Eddelbuettel
+070420.html,[Rd] Request for help with UBSAN and total absense of CRAN response,70420,Dirk Eddelbuettel
+070423.html,[Rd] Request for help with UBSAN and total absense of CRAN response,70423,Dirk Eddelbuettel
+070449.html,[Rd] Help finding source of warnings,70449,Dirk Eddelbuettel
+070451.html,[Rd] [Resolved] (Was: Request for help with UBSAN and total absense of CRAN) response,70451,Dirk Eddelbuettel
+070466.html,[Rd] [PATCH] Makefile: add support for git svn clones,70466,Dirk Eddelbuettel
+070511.html,[Rd] Programming Tools CTV,70511,Dirk Eddelbuettel
+070530.html,[Rd] problem with update.packages() in R-Devel (3.2.0) on Windows,70530,John Fox
+070551.html,[Rd] problem with update.packages() in R-Devel	(3.2.0)	on	Windows,70551,John Fox
+070510.html,[Rd] :: and ::: as .Primitives?,70510,Philippe GROSJEAN
+070465.html,[Rd] Link to NEWS.2 in NEWS is broken,70465,Tal Galili
+070473.html,[Rd] Link to NEWS.2 in NEWS is broken,70473,Tal Galili
+070374.html,[Rd] unloadNamespace,70374,Paul Gilbert
+070408.html,[Rd] unloadNamespace,70408,Paul Gilbert
+070371.html,[Rd] gsub with perl=TRUE results in 'this version of PCRE is not compiled with Unicode property support' in R-devel,70371,Kasper Daniel Hansen
+070383.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70383,Peter Haverty
+070384.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70384,Peter Haverty
+070388.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70388,Peter Haverty
+070390.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70390,Peter Haverty
+070391.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70391,Peter Haverty
+070405.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70405,Peter Haverty
+070406.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70406,Peter Haverty
+070452.html,[Rd] default min-v/nsize parameters,70452,Peter Haverty
+070476.html,[Rd] reducing redundant work in methods package,70476,Peter Haverty
+070478.html,[Rd] reducing redundant work in methods package,70478,Peter Haverty
+070489.html,[Rd] speedbump in library,70489,Peter Haverty
+070490.html,[Rd] :: and ::: as .Primitives?,70490,Peter Haverty
+070497.html,[Rd] :: and ::: as .Primitives?,70497,Peter Haverty
+070509.html,[Rd] speedbump in library,70509,Peter Haverty
+070519.html,[Rd] names function for environments?,70519,Peter Haverty
+070546.html,[Rd] names function for environments?,70546,Peter Haverty
+070448.html,[Rd] Help finding source of warnings,70448,Kurt Hornik
+070441.html,[Rd] S3 generic method dispatch on promises,70441,Paul Johnson
+070492.html,[Rd] :: and ::: as .Primitives?,70492,Tim Keitt
+070554.html,[Rd] capturing user windows message,70554,Teodor Krastev
+070481.html,[Rd] Programming Tools CTV,70481,Max Kuhn
+070487.html,[Rd] Programming Tools CTV,70487,Max Kuhn
+070494.html,[Rd] Programming Tools CTV,70494,Max Kuhn
+070395.html,[Rd] Cost of garbage collection seems excessive,70395,Nathan Kurz
+070438.html,[Rd] Request to speed up save(),70438,Nathan Kurz
+070446.html,[Rd] default min-v/nsize parameters,70446,Nathan Kurz
+070462.html,[Rd] [PATCH] Makefile: add support for git svn clones,70462,Nathan Kurz
+070440.html,[Rd] Request for help with UBSAN and total absense of CRAN response,70440,Jan van der Laan
+070444.html,[Rd] Request for help with UBSAN and total absense of CRAN	response,70444,Jan van der Laan
+070430.html,[Rd] R under deveoplment CMD check note &quot; ... used in a situation where it does not exist&quot;,70430,Peter Langfelder
+070431.html,[Rd] R under deveoplment CMD check note &quot; ... used in a situation where it does not exist&quot;,70431,Peter Langfelder
+070372.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70372,Michael Lawrence
+070385.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70385,Michael Lawrence
+070389.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70389,Michael Lawrence
+070439.html,[Rd] default min-v/nsize parameters,70439,Michael Lawrence
+070477.html,[Rd] reducing redundant work in methods package,70477,Michael Lawrence
+070479.html,[Rd] reducing redundant work in methods package,70479,Michael Lawrence
+070480.html,[Rd] reducing redundant work in methods package,70480,Michael Lawrence
+070495.html,[Rd] :: and ::: as .Primitives?,70495,Michael Lawrence
+070515.html,[Rd] :: and ::: as .Primitives?,70515,Michael Lawrence
+070517.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70517,Michael Lawrence
+070525.html,[Rd] speedbump in library,70525,Michael Lawrence
+070527.html,[Rd] speedbump in library,70527,Michael Lawrence
+070545.html,[Rd] names function for environments?,70545,Michael Lawrence
+070548.html,[Rd] names function for environments?,70548,Michael Lawrence
+070556.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70556,Michael Lawrence
+070558.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70558,Michael Lawrence
+070562.html,[Rd] names function for environments?,70562,Michael Lawrence
+070563.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70563,Michael Lawrence
+070567.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70567,Michael Lawrence
+070411.html,[Rd] Bug in URLencode and patch,70411,Thomas J. Leeper
+070375.html,[Rd] New version of Rtools for Windows,70375,Hin-Tak Leung
+070378.html,[Rd] New version of Rtools for Windows,70378,Hin-Tak Leung
+070475.html,"[Rd] updated R-cairo bridge, official R-3.1.*-mavericks.pkg crippled,	snpMatrix 1.19.0.20",70475,Hin-Tak Leung
+070499.html,[Rd]  Programming Tools CTV,70499,Willem Ligtenberg
+070341.html,[Rd] Reimplement stats:::plotNode as iterative to avoid	recursion	limits?,70341,Martin Maechler
+070361.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70361,Martin Maechler
+070368.html,[Rd] On base::rank,70368,Martin Maechler
+070373.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70373,Martin Maechler
+070394.html,[Rd] latex warning,70394,Martin Maechler
+070397.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70397,Martin Maechler
+070399.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70399,Martin Maechler
+070469.html,[Rd] default min-v/nsize parameters,70469,Martin Maechler
+070470.html,[Rd] [PATCH] Makefile: add support for git svn clones,70470,Martin Maechler
+070471.html,[Rd] Link to NEWS.2 in NEWS is broken,70471,Martin Maechler
+070523.html,[Rd] speedbump in library,70523,Martin Maechler
+070524.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70524,Martin Maechler
+070526.html,[Rd] speedbump in library,70526,Martin Maechler
+070529.html,[Rd] speedbump in library,70529,Martin Maechler
+070542.html,[Rd] Inspect a &quot;delayed&quot; assigned whose value throws an error?,70542,Martin Maechler
+070544.html,[Rd] names function for environments?,70544,Martin Maechler
+070553.html,[Rd] [PATCH v2] Makefile: add support for git svn clones,70553,Martin Maechler
+070560.html,[Rd] names function for environments?,70560,Martin Maechler
+070520.html,[Rd] R CMD check message: &quot;The following files should probably not be installed&quot;,70520,John Maindonald
+070540.html,[Rd] R CMD check message: &quot;The following files should probably not be installed&quot;,70540,John Maindonald
+070541.html,"[Rd] R-devel Digest, Vol 143, Issue 25",70541,John Maindonald
+070547.html,[Rd] How do I prevent '.install_extras' from being installed?,70547,John Maindonald
+070467.html,[Rd] [PATCH] Makefile: add support for git svn clones,70467,Karl Millar
+070432.html,[Rd] Request to speed up save(),70432,Stewart Morris
+070336.html,[Rd] Unexpected behavior of debug() in step-wise mode,70336,Duncan Murdoch
+070349.html,[Rd] Potential cross-platform package building issue,70349,Duncan Murdoch
+070350.html,[Rd] Potential cross-platform package building issue,70350,Duncan Murdoch
+070355.html,[Rd] New version of Rtools for Windows,70355,Duncan Murdoch
+070360.html,[Rd] New version of Rtools for Windows,70360,Duncan Murdoch
+070362.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70362,Duncan Murdoch
+070369.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70369,Duncan Murdoch
+070403.html,[Rd] New version of Rtools for Windows,70403,Duncan Murdoch
+070417.html,[Rd] R CMD build looking for texi2dvi in the wrong place	(R-devel),70417,Duncan Murdoch
+070427.html,[Rd] R CMD check: &quot;...&quot; used in a situation where it does not exist,70427,Duncan Murdoch
+070442.html,[Rd] S3 generic method dispatch on promises,70442,Duncan Murdoch
+070454.html,[Rd] [PATCH] Makefile: add support for git svn clones,70454,Duncan Murdoch
+070457.html,[Rd] [PATCH] Makefile: add support for git svn clones,70457,Duncan Murdoch
+070460.html,[Rd] [PATCH] Makefile: add support for git svn clones,70460,Duncan Murdoch
+070464.html,[Rd] [PATCH] Makefile: add support for git svn clones,70464,Duncan Murdoch
+070514.html,[Rd] :: and ::: as .Primitives?,70514,Duncan Murdoch
+070538.html,[Rd] Building rinstaller using R-devel (3.2.0-to-be) halts when trying to copy html files,70538,Duncan Murdoch
+070559.html,[Rd] Error in help files connection,70559,Duncan Murdoch
+070335.html,[Rd]  Unexpected behavior of debug() in step-wise mode,70335,Radford Neal
+070367.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70367,John Nolan
+070358.html,[Rd] New version of Rtools for Windows,70358,Jeroen Ooms
+070380.html,[Rd] Testing R packages on Solaris Studio,70380,Jeroen Ooms
+070381.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70381,Jeroen Ooms
+070353.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70353,Herv&#233; Pag&#232;s
+070392.html,"[Rd] setequal: better readability, reduced memory footprint, and minor speedup",70392,Herv&#233; Pag&#232;s
+070407.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70407,Herv&#233; Pag&#232;s
+070512.html,[Rd] :: and ::: as .Primitives?,70512,Herv&#233; Pag&#232;s
+070428.html,[Rd] Request for help with UBSAN and total absense of CRAN response,70428,Martyn Plummer
+070346.html,[Rd] Potential cross-platform package building issue,70346,Steven Ranney
+070357.html,[Rd] Failing lm-tests due to extra 0 in scientific notation?,70357,Prof Brian Ripley
+070363.html,[Rd] gsub with perl=TRUE results in 'this version of PCRE is not compiled with Unicode property support' in R-devel,70363,Prof Brian Ripley
+070434.html,[Rd] Request to speed up save(),70434,Prof Brian Ripley
+070522.html,[Rd] R CMD check message: &quot;The following files should probably not be installed&quot;,70522,Prof Brian Ripley
+070555.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70555,"Roebuck,Paul L"
+070557.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70557,"Roebuck,Paul L"
+070528.html,[Rd] Is the tcltk failure in affylmGUI related to R bug 15957,70528,Konrad Rudolph
+070351.html,[Rd] Rtools install on new Windows 8.1 desktop stalls with &quot;Not	responding&quot;,70351,Dominick Samperi
+070352.html,[Rd] Rtools install on new Windows 8.1 desktop stalls with &quot;Not	responding&quot;,70352,Dominick Samperi
+070424.html,[Rd] Is the tcltk failure in affylmGUI related to R bug 15957,70424,Keith Satterley
+070445.html,[Rd] Is the tcltk failure in affylmGUI related to R bug 15957,70445,Keith Satterley
+070482.html,[Rd] R CMD check: Locale not set to C?,70482,Tobias Setz
+070433.html,[Rd] Closing over Garbage,70433,Christian Sigg
+070364.html,[Rd] On base::rank,70364,Arunkumar Srinivasan
+070370.html,[Rd] On base::rank,70370,Arunkumar Srinivasan
+070455.html,"[Rd] order(..., na.last = NA) performance hit",70455,Murat Tasan
+070359.html,[Rd] gsub with perl=TRUE results in 'this version of PCRE is not compiled with Unicode property support' in R-devel,70359,Dan Tenenbaum
+070414.html,[Rd] R CMD build looking for texi2dvi in the wrong place (R-devel),70414,Dan Tenenbaum
+070416.html,[Rd] R CMD build looking for texi2dvi in the wrong place (R-devel),70416,Dan Tenenbaum
+070418.html,[Rd] R CMD build looking for texi2dvi in the wrong place (R-devel),70418,Dan Tenenbaum
+070422.html,[Rd] Request for help with UBSAN and total absense of CRAN response,70422,Dan Tenenbaum
+070513.html,[Rd] issue with update.packages(),70513,Dan Tenenbaum
+070534.html,[Rd] problem with update.packages() in R-Devel (3.2.0)	on	Windows,70534,Dan Tenenbaum
+070550.html,[Rd] problem with update.packages() in R-Devel (3.2.0)	on	Windows,70550,Dan Tenenbaum
+070435.html,[Rd] Request to speed up save(),70435,D&#233;nes T&#243;th
+070463.html,[Rd] [PATCH] Makefile: add support for git svn clones,70463,Joshua Ulrich
+070343.html,"[Rd] Benchmark code, but avoid printing",70343,Simon Urbanek
+070344.html,[Rd] Help in building R with minGW,70344,Simon Urbanek
+070415.html,[Rd] R CMD build looking for texi2dvi in the wrong place	(R-devel),70415,Simon Urbanek
+070436.html,[Rd] Request to speed up save(),70436,Simon Urbanek
+070521.html,[Rd] Error in help files connection,70521,Axel Urbiz
+070459.html,[Rd] [PATCH] Makefile: add support for git svn clones,70459,Kevin Ushey
+070338.html,[Rd] Reimplement stats:::plotNode as iterative to avoid recursion	limits?,70338,Gregory R. Warnes
+070483.html,[Rd] Programming Tools CTV,70483,Gregory R. Warnes
+070426.html,[Rd] R CMD check: &quot;...&quot; used in a situation where it does not	exist,70426,Hadley Wickham
+070504.html,[Rd] Programming Tools CTV,70504,Hadley Wickham
+070535.html,[Rd] Inspect a &quot;delayed&quot; assigned whose value throws an error?,70535,Hadley Wickham
+070543.html,[Rd] Inspect a &quot;delayed&quot; assigned whose value throws an error?,70543,Hadley Wickham
+070564.html,[Rd] [Q] Get formal arguments of my implemented S4 method,70564,Hadley Wickham
+070569.html,[Rd] names function for environments?,70569,Hadley Wickham
+070366.html,[Rd] New version of Rtools for Windows,70366,Henric Winell
+070400.html,[Rd] New version of Rtools for Windows,70400,Henric Winell
+070486.html,[Rd] Programming Tools CTV,70486,Achim Zeileis
+070488.html,[Rd] Programming Tools CTV,70488,Achim Zeileis
+070496.html,[Rd] Programming Tools CTV,70496,Achim Zeileis
+070505.html,[Rd] Programming Tools CTV,70505,Achim Zeileis
+070382.html,"[Rd] setequal: better readability, reduced memory footprint,	and minor speedup",70382,peter dalgaard
+070429.html,[Rd] Is the tcltk failure in affylmGUI related to R bug 15957,70429,peter dalgaard
+070472.html,[Rd] Link to NEWS.2 in NEWS is broken,70472,peter dalgaard
+070570.html,[Rd] error code 1 from Lapack routine 'dsyevr',70570,eigen
+070379.html,[Rd] RFC: getifexists() {was [Bug 16065] &quot;exists&quot; ...},70379,luke-tierney at uiowa.edu
+070412.html,[Rd] Cost of garbage collection seems excessive,70412,luke-tierney at uiowa.edu
+070437.html,[Rd] Closing over Garbage,70437,luke-tierney at uiowa.edu
+070443.html,[Rd] default min-v/nsize parameters,70443,luke-tierney at uiowa.edu
+070491.html,[Rd] :: and ::: as .Primitives?,70491,luke-tierney at uiowa.edu
+070506.html,[Rd] :: and ::: as .Primitives?,70506,luke-tierney at uiowa.edu
+070507.html,[Rd] :: and ::: as .Primitives?,70507,luke-tierney at uiowa.edu

@@ -1,0 +1,11 @@
+Analysis of R-devel, the R core developers email list
+
+https://stat.ethz.ch/pipermail/r-devel/
+
+** 27 June 2020
+
+[[file:download.R]] grabs monthly email summary web pages.
+
+[[file:convert.R]] computes csv files from html files.
+[[
+file:analyze.R]] makes some data visualizations.

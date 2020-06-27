@@ -1,0 +1,299 @@
+link,Subject,id,author
+044741.html,[Rd] IDE for R C++ package writing ?,44741,Henric Nilsson (Public)
+044631.html,[Rd] Problem with the 'hist' function,44631,Edo Airoldi
+044573.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44573,"Armstrong, Whit"
+044627.html,[Rd] make check failure: lapack.Rout.fail,44627,"Armstrong, Whit"
+044574.html,[Rd] strategies for incorporating a data= argument,44574,Ben Bolker
+044630.html,[Rd] environment confusion,44630,Ben Bolker
+044583.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44583,Ross Boylan
+044584.html,[Rd] One possible use for threads in R,44584,Ross Boylan
+044586.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44586,Ross Boylan
+044591.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44591,Ross Boylan
+044642.html,[Rd] pinning down symbol values (Scoping/Promises) question,44642,Ross Boylan
+044643.html,[Rd] R Language Manual: possible error,44643,Ross Boylan
+044657.html,[Rd] &quot;try&quot;ing to understand condition handling,44657,Ross Boylan
+044663.html,[Rd] &quot;try&quot;ing to understand condition handling,44663,Ross Boylan
+044679.html,[Rd] &quot;try&quot;ing to understand condition handling (interrupts),44679,Ross Boylan
+044681.html,[Rd] &quot;try&quot;ing to understand condition handling,44681,Ross Boylan
+044772.html,[Rd] R/C++/memory leaks,44772,Ross Boylan
+044777.html,[Rd] R/C++/memory leaks,44777,Ross Boylan
+044791.html,[Rd] R/C++/memory leaks,44791,Ross Boylan
+044655.html,[Rd] S3 vs S4 classes,44655,John Chambers
+044541.html,[Rd] Wrong vector size reported by error message,44541,Peter Dalgaard
+044550.html,[Rd] Metapost device driver,44550,Peter Dalgaard
+044592.html,[Rd] obscure error with subsetting as.list() of a function then assigning that a (PR#9500),44592,Peter Dalgaard
+044804.html,"[Rd] Help with &quot;row.names = as.integer(c(NA, 5))&quot; in file from dput",44804,Peter Dalgaard
+044806.html,"[Rd] Help with &quot;row.names = as.integer(c(NA, 5))&quot; in file from dput",44806,Peter Dalgaard
+044687.html,[Rd] JIT compiler library,44687,Marcus G. Daniels
+044666.html,[Rd] RODBC problems with unixodbc,44666,Sean Davis
+044735.html,[Rd] IDE for R C++ package writing ?,44735,Sean Davis
+044514.html,"[Rd] SEXP i/o, .Call(), and garbage collection.",44514,Vladimir Dergachev
+044582.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44582,Vladimir Dergachev
+044668.html,[Rd] RODBC problems with unixodbc,44668,Vladimir Dergachev
+044686.html,[Rd] JIT compiler library,44686,Vladimir Dergachev
+044737.html,[Rd] IDE for R C++ package writing ?,44737,Ramon Diaz-Uriarte
+044747.html,[Rd] IDE for R C++ package writing ?,44747,Ramon Diaz-Uriarte
+044783.html,[Rd] IDE for R C++ package writing ?,44783,Ramon Diaz-Uriarte
+044673.html,[Rd] proposal to allow just transcript files (output only) in the 'tests' directory,44673,Bill Dunlap
+044676.html,[Rd] fix for a major format.pval limitation,44676,Charles Dupont
+044709.html,[Rd] Graphical device questions,44709,Sebastien Durand
+044634.html,[Rd] Graphical device questions!,44634,Sebastien Durand
+044637.html,[Rd] Graphical device questions!,44637,Sebastien Durand
+044523.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44523,Dirk Eddelbuettel
+044525.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44525,Dirk Eddelbuettel
+044658.html,[Rd] Custom per-package options passed down via library() ?,44658,Dirk Eddelbuettel
+044662.html,[Rd] Custom per-package options passed down via library() ?,44662,Dirk Eddelbuettel
+044759.html,[Rd] Depending on many packages: another best practice question,44759,Dirk Eddelbuettel
+044605.html,[Rd] dump.frames in call from debugger(),44605,Stephen Eglen
+044766.html,[Rd] typo in R-lang.texi,44766,Stephen Eglen
+044560.html,[Rd] Transparency convenience function,44560,Byron Ellis
+044609.html,[Rd] Graphics driver test script?,44609,Byron Ellis
+044689.html,[Rd] JIT compiler library,44689,Byron Ellis
+044705.html,[Rd] R_tryEval not properly documented in 'Writing R	Extensions' (PR#9524),44705,Byron Ellis
+044530.html,[Rd] How to customize the list of exported functions in a shared	library,44530,Vladimir Eremeev
+044532.html,[Rd] How to customize the list of exported functions in a shared library,44532,Vladimir Eremeev
+044533.html,[Rd] How to customize the list of exported functions in a shared library (update),44533,Vladimir Eremeev
+044508.html,[Rd] Problems with definitions of S4-generics,44508,Seth Falcon
+044526.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44526,Seth Falcon
+044771.html,[Rd] Depending on many packages: another best practice question,44771,Seth Falcon
+044638.html,[Rd] Encoding API,44638,Thomas Friedrichsmeier
+044692.html,[Rd] non-interactive R_tryEval does not return,44692,Thomas Friedrichsmeier
+044697.html,[Rd] non-interactive R_tryEval does not return,44697,Thomas Friedrichsmeier
+044698.html,[Rd] non-interactive R_tryEval does not return,44698,Thomas Friedrichsmeier
+044567.html,[Rd] manage R function and data dependencies like 'make',44567,Paul Gilbert
+044745.html,[Rd] IDE for R C++ package writing ?,44745,Vincent Goulet
+044784.html,[Rd] Is there any package on CRAN that uses Fortran-90/95,44784,Gorjanc Gregor
+044576.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44576,Gabor Grothendieck
+044577.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44577,Gabor Grothendieck
+044590.html,[Rd] obscure error with subsetting as.list() of a function then	assigning that a (PR#9500),44590,Gabor Grothendieck
+044599.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44599,Gabor Grothendieck
+044640.html,[Rd] Rscript on Windows,44640,Gabor Grothendieck
+044644.html,[Rd] pinning down symbol values (Scoping/Promises) question,44644,Gabor Grothendieck
+044646.html,[Rd] Rscript on Windows,44646,Gabor Grothendieck
+044648.html,[Rd] Rscript on Windows,44648,Gabor Grothendieck
+044651.html,[Rd] Rscript on Windows,44651,Gabor Grothendieck
+044755.html,[Rd] Functions that write functions in R packages,44755,Gabor Grothendieck
+044761.html,[Rd] Functions that write functions in R packages,44761,Gabor Grothendieck
+044769.html,[Rd] Depending on many packages: another best practice question,44769,Gabor Grothendieck
+044515.html,[Rd] Help with OS X (BSD) ps command,44515,Jeffrey J. Hallman
+044578.html,[Rd] RPM support for package installation?,44578,Jeffrey J. Hallman
+044752.html,[Rd] How to override functions in namespaces?,44752,Jeffrey J. Hallman
+044607.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44607,Hans-Peter
+044611.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44611,Hans-Peter
+044612.html,[Rd] append within worksheet in write.xls,44612,Hans-Peter
+044613.html,[Rd] newline with cell of Excel worksheet created with write.xls,44613,Hans-Peter
+044633.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44633,Hans-Peter
+044579.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44579,Kasper Daniel Hansen
+044603.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44603,Kasper Daniel Hansen
+044517.html,"[Rd] SEXP i/o, .Call(), and garbage collection.",44517,Jeffrey Horner
+044691.html,[Rd] Adding difftime objects to POSIXt objects,44691,Jeffrey Horner
+044693.html,[Rd] Adding difftime objects to POSIXt objects,44693,Jeffrey Horner
+044706.html,[Rd] Patch for &quot;units&lt;-&quot; in datetime.R,44706,Jeffrey Horner
+044751.html,[Rd] Formatting difftime objects,44751,Jeffrey Horner
+044720.html,[Rd] rgl update:  please test!,44720,Rainer Hurling
+044758.html,[Rd]  IDE for R C++ package writing ?,44758,Grant Izmirlian
+044568.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44568,Mark W Kimpel
+044575.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel worksheets,44575,Mark W Kimpel
+044595.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel worksheets,44595,Mark W Kimpel
+044596.html,[Rd] append within worksheet in write.xls,44596,Mark W Kimpel
+044597.html,[Rd] newline with cell of Excel worksheet created with write.xls,44597,Mark W Kimpel
+044608.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel	worksheets,44608,Mark W Kimpel
+044614.html,[Rd] newline with cell of Excel worksheet created with write.xls,44614,Mark W Kimpel
+044718.html,[Rd] text.rpart for the &quot;class&quot; method doesn't act on label=&quot;yprob&quot;,44718,Robert King
+044792.html,[Rd] Checking for user interrupt in a .C() call without without triggering a non-local exit.,44792,Pavel N. Krivitsky
+044504.html,[Rd] possible bug: dev.copy / could not find any X11 fonts,44504,Hin-Tak Leung
+044513.html,"[Rd] SEXP i/o, .Call(), and garbage collection.",44513,Hin-Tak Leung
+044570.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel worksheets,44570,Hin-Tak Leung
+044572.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel worksheets,44572,Hin-Tak Leung
+044744.html,[Rd] IDE for R C++ package writing ?,44744,Hin-Tak Leung
+044779.html,[Rd] R/C++/memory leaks,44779,Hin-Tak Leung
+044802.html,[Rd] incremental plots with pdf and dev.copy,44802,Hin-Tak Leung
+044790.html,[Rd] R/C++/memory leaks,44790,Thomas Lumley
+044664.html,[Rd] RODBC problems with unixodbc,44664,Sebastian P. Luque
+044555.html,[Rd] R from SVN fails to build on win32,44555,James MacDonald
+044559.html,[Rd] R from SVN fails to build on win32,44559,James W. MacDonald
+044571.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel worksheets,44571,James W. MacDonald
+044511.html,[Rd] prop.test.Rd References patch,44511,Martin Maechler
+044521.html,[Rd] convolve: request for &quot;usual&quot; behaviour + some	improvements + some fixes,44521,Martin Maechler
+044562.html,[Rd] RPM support for package installation?,44562,Martin Maechler
+044564.html,[Rd] RPM support for package installation?,44564,Martin Maechler
+044714.html,[Rd] R crashes in Mac OS,44714,Giusi Moffa
+044659.html,[Rd]  Using GPUs for computation,44659,Rod Montgomery
+044690.html,[Rd] non-interactive R_tryEval does not return,44690,Martin Morgan
+044694.html,[Rd] non-interactive R_tryEval does not return,44694,Martin Morgan
+044699.html,[Rd] non-interactive R_tryEval does not return,44699,Martin Morgan
+044549.html,[Rd] convolve: request for &quot;usual&quot; behaviour + some improvements + some fixes,44549,Katharine Mullen
+044780.html,[Rd] typo in nls.Rd,44780,Katharine Mullen
+044622.html,[Rd] question on docs for delayedAssign and substitute,44622,Duncan Murdoch
+044632.html,[Rd] Problem with the 'hist' function,44632,Duncan Murdoch
+044635.html,[Rd] Graphical device questions!,44635,Duncan Murdoch
+044645.html,[Rd] Rscript on Windows,44645,Duncan Murdoch
+044647.html,[Rd] Rscript on Windows,44647,Duncan Murdoch
+044654.html,[Rd] Rscript on Windows,44654,Duncan Murdoch
+044704.html,[Rd] rgl update:  please test!,44704,Duncan Murdoch
+044728.html,[Rd] How to override functions in namespaces?,44728,Duncan Murdoch
+044749.html,[Rd] Functions that write functions in R packages,44749,Duncan Murdoch
+044616.html,[Rd] Graphics driver test script?,44616,Paul Murrell
+044757.html,[Rd] IDE for R C++ package writing ?,44757,Daniel Nordlund
+044519.html,[Rd] convolve: request for &quot;usual&quot; behaviour + some improvements + some fixes,44519,Herve Pages
+044520.html,[Rd] convolve: request for &quot;usual&quot; behaviour + some improvements + some fixes,44520,Herve Pages
+044542.html,[Rd] Wrong vector size reported by error message,44542,Herve Pages
+044545.html,[Rd] Wrong vector size reported by error message,44545,Herve Pages
+044546.html,[Rd] Wrong vector size reported by error message,44546,Herve Pages
+044656.html,[Rd] OT: suggestions for a 64-bit server / cluster,44656,Tamas K Papp
+044799.html,[Rd] asking for advice on how to catch nonexistent list elements,44799,Tamas K Papp
+044531.html,[Rd] How to customize the list of exported functions in a	shared library,44531,Andrew Piskorski
+044617.html,[Rd] bug in partial matching of attribute names,44617,Tony Plate
+044621.html,[Rd] question on docs for delayedAssign and substitute,44621,Tony Plate
+044623.html,[Rd] bug in partial matching of attribute names,44623,Tony Plate
+044629.html,[Rd] bug in partial matching of attribute names,44629,Tony Plate
+044669.html,[Rd] proposal to allow just transcript files (output only) in the 'tests' directory,44669,Tony Plate
+044803.html,"[Rd] Help with &quot;row.names = as.integer(c(NA, 5))&quot; in file from dput",44803,Mike Prager
+044805.html,"[Rd] Help with &quot;row.names = as.integer(c(NA,	5))&quot; in file from dput",44805,Mike Prager
+044565.html,[Rd] manage R function and data dependencies like 'make',44565,Lutz Prechelt
+044774.html,[Rd] Edits of R-exts.texi,44774,Brett Presnell
+044775.html,[Rd] Edits of R-exts.texi,44775,Brett Presnell
+044776.html,[Rd] Edits of R-exts.texi (2nd try),44776,Brett Presnell
+044516.html,[Rd] Help with OS X (BSD) ps command,44516,Prof Brian Ripley
+044534.html,[Rd] How to customize the list of exported functions in a shared library,44534,Prof Brian Ripley
+044535.html,[Rd] How to customize the list of exported functions in a shared library (update),44535,Prof Brian Ripley
+044547.html,[Rd] Build error with last R-devel tarball,44547,Prof Brian Ripley
+044553.html,[Rd] Build error with last R-devel tarball,44553,Prof Brian Ripley
+044554.html,[Rd] RPM support for package installation?,44554,Prof Brian Ripley
+044556.html,[Rd] R from SVN fails to build on win32,44556,Prof Brian Ripley
+044558.html,[Rd] R from SVN fails to build on win32,44558,Prof Brian Ripley
+044566.html,[Rd] manage R function and data dependencies like 'make',44566,Prof Brian Ripley
+044598.html,[Rd] supsmu(periodic=TRUE) can crash R by reading before start of array (PR#9502),44598,Prof Brian Ripley
+044610.html,[Rd] Graphics driver test script?,44610,Prof Brian Ripley
+044619.html,[Rd] bug in partial matching of attribute names,44619,Prof Brian Ripley
+044625.html,[Rd] bug in partial matching of attribute names,44625,Prof Brian Ripley
+044626.html,[Rd] How to upload metapost driver ?,44626,Prof Brian Ripley
+044628.html,[Rd] make check failure: lapack.Rout.fail,44628,Prof Brian Ripley
+044639.html,[Rd] R-devel news: non-ASCII character strings in packages,44639,Prof Brian Ripley
+044641.html,[Rd] Requiring iconv,44641,Prof Brian Ripley
+044653.html,[Rd] S3 vs S4 classes,44653,Prof Brian Ripley
+044660.html,[Rd] &quot;try&quot;ing to understand condition handling,44660,Prof Brian Ripley
+044661.html,[Rd] Custom per-package options passed down via library() ?,44661,Prof Brian Ripley
+044674.html,[Rd] &quot;try&quot;ing to understand condition handling,44674,Prof Brian Ripley
+044685.html,[Rd] R unstable and crashes after executing .C,44685,Prof Brian Ripley
+044695.html,[Rd] non-interactive R_tryEval does not return,44695,Prof Brian Ripley
+044696.html,[Rd] Adding difftime objects to POSIXt objects,44696,Prof Brian Ripley
+044700.html,[Rd] non-interactive R_tryEval does not return,44700,Prof Brian Ripley
+044702.html,[Rd] R_tryEval not properly documented in 'Writing R Extensions' (PR#9524),44702,Prof Brian Ripley
+044724.html,[Rd] Problem with types on 64-bit,44724,Prof Brian Ripley
+044726.html,[Rd] (PR#9523) avoiding a needless function evaluation in optimize(),44726,Prof Brian Ripley
+044727.html,[Rd] memory problem read.table v array (PR#9526),44727,Prof Brian Ripley
+044729.html,[Rd] How to override functions in namespaces?,44729,Prof Brian Ripley
+044731.html,[Rd] Writing a package in which files must be sourced in a specific order,44731,Prof Brian Ripley
+044733.html,[Rd] text.rpart for the &quot;class&quot; method doesn't act on	label=&quot;yprob&quot;,44733,Prof Brian Ripley
+044736.html,[Rd] IDE for R C++ package writing ?,44736,Prof Brian Ripley
+044740.html,[Rd] Bootstrapping stepAIC() with glm.nb(),44740,Prof Brian Ripley
+044743.html,[Rd] Bootstrapping stepAIC() with glm.nb(),44743,Prof Brian Ripley
+044763.html,[Rd] Depending on many packages: another best practice question,44763,Prof Brian Ripley
+044765.html,[Rd] Depending on many packages: another best practice question,44765,Prof Brian Ripley
+044739.html,[Rd] Bootstrapping stepAIC() with glm.nb(),44739,Dimitris Rizopoulos
+044742.html,[Rd] Bootstrapping stepAIC() with glm.nb(),44742,Dimitris Rizopoulos
+044561.html,[Rd] Help with OS X (BSD) ps command,44561,Paul Roebuck
+044594.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44594,Paul Roebuck
+044652.html,[Rd] S3 vs S4 classes,44652,"Rossi, Peter E."
+044756.html,[Rd] IDE for R C++ package writing ?,44756,AJ Rossini
+044548.html,[Rd] Metapost device driver,44548,Geoff Russell
+044606.html,[Rd] Graphics driver test script?,44606,Geoff Russell
+044618.html,[Rd] Graphics driver test script?,44618,Geoff Russell
+044620.html,[Rd] Problems with metapost colors,44620,Geoff Russell
+044624.html,[Rd] How to upload metapost driver ?,44624,Geoff Russell
+044800.html,[Rd] incremental plots with pdf and dev.copy,44800,Giampiero Salvi
+044600.html,[Rd] obscure error with subsetting as.list() of a function then assigning that a (PR#9500),44600,Peter-M Schumacher
+044509.html,[Rd] prop.test.Rd References patch,44509,Marc Schwartz
+044510.html,[Rd] prop.test.Rd References patch,44510,Marc Schwartz
+044746.html,[Rd] IDE for R C++ package writing ?,44746,Marc Schwartz
+044650.html,[Rd] Rscript on Windows,44650,Gavin Simpson
+044540.html,[Rd] Wrong vector size reported by error message,44540,Oleg Sklyar
+044544.html,[Rd] Wrong vector size reported by error message,44544,Oleg Sklyar
+044684.html,[Rd] R unstable and crashes after executing .C,44684,Oleg Sklyar
+044725.html,[Rd] Problem with types on 64-bit,44725,Oleg Sklyar
+044730.html,[Rd] Writing a package in which files must be sourced in a specific order,44730,Oleg Sklyar
+044683.html,[Rd] R unstable and crashes after executing .C,44683,"Sole Acha, Xavi"
+044615.html,[Rd] Package build Vignette creation errors,44615,Daniel Suo
+044670.html,[Rd] &quot;try&quot;ing to understand condition handling,44670,Luke Tierney
+044671.html,[Rd] &quot;try&quot;ing to understand condition handling,44671,Luke Tierney
+044675.html,[Rd] &quot;try&quot;ing to understand condition handling,44675,Luke Tierney
+044678.html,[Rd] &quot;try&quot;ing to understand condition handling,44678,Luke Tierney
+044680.html,[Rd] &quot;try&quot;ing to understand condition handling (interrupts),44680,Luke Tierney
+044682.html,[Rd] &quot;try&quot;ing to understand condition handling,44682,Luke Tierney
+044795.html,[Rd] Checking for user interrupt in a .C() call without without triggering a non-local exit.,44795,Luke Tierney
+044796.html,[Rd] R/C++/memory leaks,44796,Luke Tierney
+044798.html,[Rd] R/C++/memory leaks,44798,Luke Tierney
+044770.html,[Rd] R/C++/memory leaks,44770,Ernest Turro
+044773.html,[Rd] R/C++/memory leaks,44773,Ernest Turro
+044781.html,[Rd] R/C++/memory leaks,44781,Ernest Turro
+044786.html,[Rd] R/C++/memory leaks,44786,Ernest Turro
+044789.html,[Rd] R/C++/memory leaks,44789,Ernest Turro
+044793.html,[Rd] R/C++/memory leaks,44793,Ernest Turro
+044794.html,[Rd] R/C++/memory leaks,44794,Ernest Turro
+044797.html,[Rd] R/C++/memory leaks,44797,Ernest Turro
+044512.html,"[Rd] SEXP i/o, .Call(), and garbage collection.",44512,K. B. Udaya
+044539.html,"[Rd] SEXP i/o, .Call(), and garbage collection.",44539,K. B. Udaya
+044762.html,[Rd] R crashes in Mac OS,44762,Simon Urbanek
+044788.html,[Rd] R/C++/memory leaks,44788,Simon Urbanek
+044569.html,[Rd] possible bug: dev.copy / could not find any X11 fonts,44569,R. Villegas
+044551.html,[Rd] RPM support for package installation?,44551,Rhiannon L Weaver
+044557.html,[Rd] RPM support for package installation?,44557,Rhiannon L Weaver
+044753.html,[Rd] Solved two problems with Cygwin,44753,Kevin Wright
+044536.html,[Rd] strange error message get from La.svd(X),44536,Lei Wu
+044563.html,[Rd] what's the C code for La.svd function?,44563,Lei Wu
+044589.html,"[Rd] wheel ownership of new documents: OS X, (PR#9499)",44589,wd213355 at albany.edu
+044593.html,[Rd] obscure error with subsetting as.list() of a function then	(PR#9504),44593,p.dalgaard at biostat.ku.dk
+044716.html,[Rd] lower.tail for plnorm (PR#9520),44716,candrews at buffalo.edu
+044522.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44522,cstrato
+044524.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44524,cstrato
+044527.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44527,cstrato
+044528.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44528,cstrato
+044538.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44538,cstrato
+044585.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44585,cstrato
+044587.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44587,cstrato
+044602.html,[Rd]  Problem using ofstream in C++ class in package for MacOS X,44602,cstrato
+044604.html,[Rd] Problem using ofstream in C++ class in package for MacOS X,44604,cstrato
+044712.html,[Rd] MCMC Pack Crashes R-GUI session (PR#9516),44712,lloydl at cybermesa.com
+044588.html,[Rd] obscure error with subsetting as.list() of a function then	assigning that a (PR#9500),44588,peter-m.schumacher at db.com
+044601.html,[Rd] obscure error with subsetting as.list() of a function then	(PR#9506),44601,peter-m.schumacher at db.com
+044715.html,[Rd] supsmu produces segfault when handed all NAs. (PR#9519),44715,boe at demog.berkeley.edu
+044721.html,[Rd] memory problem read.table v array (PR#9526),44721,wlangdon at essex.ac.uk
+044518.html,[Rd] Inaccuracy in ?convolve,44518,hpages at fhcrc.org
+044529.html,[Rd] convolve: request for &quot;usual&quot; behaviour + some	improvements + some fixes,44529,hpages at fhcrc.org
+044537.html,[Rd] Wrong vector size reported by error message,44537,hpages at fhcrc.org
+044543.html,[Rd] Build error with last R-devel tarball,44543,hpages at fhcrc.org
+044552.html,[Rd] Build error with last R-devel tarball,44552,hpages at fhcrc.org
+044708.html,[Rd] How to override functions in namespaces?,44708,jhallman at frb.gov
+044711.html,[Rd] Request: make as.POSIXlt generic,44711,jhallman at frb.gov
+044710.html,[Rd] Bug in httpget function for internet.Rout test (PR#9509),44710,plynchnlm at gmail.com
+044581.html,[Rd] supsmu(periodic=TRUE) can crash R by reading before start of	array (PR#9502),44581,bill at insightful.com
+044767.html,[Rd] slow graphics on MAC OS X R-2.4.1 (PR#9530),44767,felix.naef at isrec.ch
+044717.html,[Rd] Problem with types on 64-bit,44717,tom at levelelimited.com
+044719.html,[Rd] avoiding a needless function evaluation in optimize() (PR#9523),44719,j.j.goeman at lumc.nl
+044734.html,[Rd] IDE for R C++ package writing ?,44734,mel
+044738.html,[Rd] IDE for R C++ package writing ?,44738,mel
+044778.html,[Rd] IDE for R C++ package writing ?,44778,mel
+044801.html,[Rd] Tk GUI : Select Packages from CRAN Dialog does not have a	scrollbar (PR#9534),44801,a.maier at mpie.de
+044722.html,[Rd] Error in ICC1.CI ? (PR#9528),44722,Mathieu.DAcremont at pse.unige.ch
+044688.html,[Rd] &quot;Re: Contents of R-devel digest...&quot;,44688,ahmed sedky
+044713.html,[Rd] Windows EPS format error (PR#9518),44713,mwtoews at sfu.ca
+044701.html,[Rd] R_tryEval not properly documented in 'Writing R Extensions'	(PR#9524),44701,ellis at stat.harvard.edu
+044703.html,[Rd] R_tryEval not properly documented in 'Writing R	Extensions' (PR#9525),44703,ripley at stats.ox.ac.uk
+044649.html,[Rd] Rscript on Windows,44649,elw at stderr.org
+044782.html,[Rd] IDE for R C++ package writing ?,44782,elw at stderr.org
+044785.html,[Rd] IDE for R C++ package writing ?,44785,elw at stderr.org
+044580.html,[Rd] xlsReadWrite Pro and embedding objects and files in Excel worksheets,44580,tshort
+044707.html,[Rd] dyn.load (PR#9364),44707,Christophe.Jean at uv.es
+044636.html,[Rd] error messages with dimension mismatch?,44636,ivo welch
+044672.html,[Rd] &quot;try&quot;ing to understand condition handling,44672,hadley wickham
+044677.html,[Rd] &quot;try&quot;ing to understand condition handling,44677,hadley wickham
+044723.html,[Rd] Writing a package in which files must be sourced in a specific	order,44723,hadley wickham
+044732.html,[Rd] Writing a package in which files must be sourced in a	specific order,44732,hadley wickham
+044748.html,[Rd] Functions that write functions in R packages,44748,hadley wickham
+044750.html,[Rd] Functions that write functions in R packages,44750,hadley wickham
+044754.html,[Rd] Depending on many packages: another best practice question,44754,hadley wickham
+044760.html,[Rd] Functions that write functions in R packages,44760,hadley wickham
+044764.html,[Rd] Depending on many packages: another best practice question,44764,hadley wickham
+044768.html,[Rd] Depending on many packages: another best practice question,44768,hadley wickham
+044787.html,[Rd] Depending on many packages: another best practice question,44787,hadley wickham

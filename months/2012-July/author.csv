@@ -1,0 +1,181 @@
+link,Subject,id,author
+064473.html,[Rd] duplicated() variation that goes both ways to capture all	duplicates,64473,Liviu Andronic
+064399.html,[Rd] Negative years with strptime?,64399,Rui Barradas
+064402.html,[Rd] Negative years with strptime?,64402,Rui Barradas
+064427.html,[Rd] R CMD build/check on Windows 7,64427,Henrik Bengtsson
+064537.html,[Rd] confusion over S3/S4 importing,64537,Ben Bolker
+064542.html,[Rd] Numerics behind splineDesign,64542,Ben Bolker
+064543.html,[Rd] Numerics behind splineDesign,64543,Ben Bolker
+064392.html,[Rd] creating a '[' method for an S4 class,64392,Benilton Carvalho
+064398.html,[Rd] Negative years with strptime?,64398,Winston Chang
+064401.html,[Rd] Negative years with strptime?,64401,Winston Chang
+064491.html,[Rd] Finding dynamic shared libraries loaded with a package,64491,Winston Chang
+064493.html,[Rd] Finding dynamic shared libraries loaded with a package,64493,Winston Chang
+064495.html,[Rd] Using .onUnload to unload DLLs,64495,Winston Chang
+064378.html,[Rd] print.data.frame function with option na.print=&quot; &quot; actually prints NA,64378,Ole Fredslund Christensen
+064405.html,[Rd] Understanding tracemem,64405,Matthew Dowle
+064419.html,[Rd] Non ascii character on Mac on CRAN (C locale),64419,Matthew Dowle
+064527.html,[Rd] Version of substitute that evaluates it's first argument,64527,William Dunlap
+064528.html,[Rd] C code validation,64528,Adrian Du&#351;a
+064530.html,[Rd] C code validation,64530,Adrian Du&#351;a
+064369.html,[Rd] Dependency problem for &quot;hasArg&quot;,64369,Dirk Eddelbuettel
+064370.html,[Rd] Dependency problem for &quot;hasArg&quot;,64370,Dirk Eddelbuettel
+064439.html,[Rd] installing spam package is failing (spam_0.29-1),64439,Dirk Eddelbuettel
+064511.html,[Rd] Rconfig.h &amp; unsupported architectures,64511,Dirk Eddelbuettel
+064512.html,[Rd] Rconfig.h &amp; unsupported architectures,64512,Dirk Eddelbuettel
+064516.html,[Rd] rep fails on pairlist,64516,Dirk Eddelbuettel
+064368.html,[Rd] Dependency problem for &quot;hasArg&quot;,64368,Charlie Friedemann
+064386.html,[Rd] Extracting srcref for S4 methods,64386,Renaud Gaujoux
+064387.html,[Rd] Extracting srcref for S4 methods,64387,Renaud Gaujoux
+064534.html,[Rd] Package index help file question.,64534,Damien Georges
+064484.html,[Rd] large dataset - confused,64484,Sarah Goslee
+064413.html,[Rd] extractAIC.nls,64413,Spencer Graves
+064415.html,[Rd] extractAIC.nls,64415,Spencer Graves
+064417.html,[Rd] extractAIC.nls,64417,Spencer Graves
+064454.html,[Rd] subRaw?,64454,Spencer Graves
+064457.html,[Rd] subRaw?,64457,Spencer Graves
+064414.html,[Rd] extractAIC.nls,64414,Gabor Grothendieck
+064416.html,[Rd] extractAIC.nls,64416,Gabor Grothendieck
+064492.html,[Rd] Finding dynamic shared libraries loaded with a package,64492,Gabor Grothendieck
+064515.html,[Rd] rep fails on pairlist,64515,Gabor Grothendieck
+064517.html,[Rd] rep fails on pairlist,64517,Gabor Grothendieck
+064519.html,[Rd] rep fails on pairlist,64519,Gabor Grothendieck
+064426.html,[Rd] R CMD build/check on Windows 7,64426,Bert Gunter
+064507.html,[Rd] Convenience function to get unevaluated ... function arguments,64507,Bert Gunter
+064514.html,[Rd] Convenience function to get unevaluated ... function	arguments,64514,Bert Gunter
+064522.html,[Rd] Convenience function to get unevaluated ... function	arguments,64522,Bert Gunter
+064544.html,[Rd] Numerics behind splineDesign,64544,Bert Gunter
+064442.html,[Rd] Warning when sourcing file after require,64442,David Hastie
+064391.html,[Rd] depends/suggests when making a new generic to override a	function in a user package,64391,Dr Gregory Jefferis
+064379.html,[Rd] Problem in vignette packaging of Sweave in utils package,64379,Paul Johnson
+064383.html,[Rd] Problem in vignette packaging of Sweave in utils package,64383,Paul Johnson
+064445.html,[Rd] Are R packages supposed to be &quot;relocatable&quot;? (avoiding	BioConductor scripts...),64445,Paul Johnson
+064520.html,[Rd] Problem in vignette packaging of Sweave in utils package,64520,Paul Johnson
+064524.html,[Rd] Problem in vignette packaging of Sweave in utils package,64524,Paul Johnson
+064510.html,[Rd] pie() bug in r59963,64510,Hiroyuki Kawakatsu
+064464.html,[Rd] Announce Jenkins R Plug-in,64464,Bruno P. Kinoshita
+064373.html,[Rd] Questions about imports to a namespace,64373,Simon Knapp
+064385.html,[Rd] Questions about imports to a namespace,64385,Simon Knapp
+064384.html,[Rd] Suggestion / patch to support more Unicode characters in R CMD	Rd2pdf,64384,Mikko Korpela
+064366.html,[Rd] [patch] Behavior of .C() and .Fortran() when given double(0) or integer(0).,64366,Pavel N. Krivitsky
+064459.html,[Rd] On RObjectTables,64459,Duncan Temple Lang
+064448.html,[Rd] On RObjectTables,64448,Michael Lawrence
+064462.html,[Rd] callGeneric(...) and lazy evaluation,64462,Michael Lawrence
+064490.html,[Rd] On RObjectTables,64490,Michael Lawrence
+064422.html,[Rd] installing spam package is failing (spam_0.29-1),64422,Steve Lianoglou
+064431.html,[Rd] installing spam package is failing (spam_0.29-1),64431,Steve Lianoglou
+064420.html,[Rd] installing spam package is failing (spam_0.29-1),64420,Uwe Ligges
+064540.html,[Rd] [BUG?] utils::prompt(name=f),64540,Uwe Ligges
+064489.html,[Rd] S4 objects in formulas,64489,David L Lorenz
+064536.html,[Rd] Shared routines in a dynamic library.,64536,David L Lorenz
+064365.html,[Rd] [patch] one-line fix for the FAQ: disabling okular	antia-aliasing,64365,Manuel L&#243;pez-Ib&#225;&#241;ez
+064393.html,[Rd] creating a '[' method for an S4 class,64393,Martin Maechler
+064446.html,[Rd] installing spam package is failing (spam_0.29-1),64446,Martin Maechler
+064469.html,[Rd] Use GPU in R with .Call,64469,Norm Matloff
+064371.html,[Rd] Dependency problem for &quot;hasArg&quot;,64371,Martin Morgan
+064375.html,[Rd] Dependency problem for &quot;hasArg&quot;,64375,Martin Morgan
+064453.html,[Rd] Are R packages supposed to be &quot;relocatable&quot;? (avoiding BioConductor scripts...),64453,Martin Morgan
+064377.html,[Rd] Questions about imports to a namespace,64377,Duncan Murdoch
+064380.html,[Rd] Problem in vignette packaging of Sweave in utils package,64380,Duncan Murdoch
+064390.html,[Rd] typo in src/library/base/man/connections.Rd,64390,Duncan Murdoch
+064394.html,[Rd] Problem in vignette packaging of Sweave in utils package,64394,Duncan Murdoch
+064432.html,[Rd] Changes to parser in R-devel,64432,Duncan Murdoch
+064443.html,[Rd] Warning when sourcing file after require,64443,Duncan Murdoch
+064452.html,[Rd] Changes to parser in R-devel,64452,Duncan Murdoch
+064458.html,[Rd] Changes to parser in R-devel,64458,Duncan Murdoch
+064468.html,[Rd] Reading many large files causes R to crash - Possible Bug in R 2.15.1 64-bit Ubuntu,64468,Duncan Murdoch
+064474.html,[Rd] duplicated() variation that goes both ways to capture all duplicates,64474,Duncan Murdoch
+064505.html,[Rd] Encoding errors in Rd files,64505,Duncan Murdoch
+064518.html,[Rd] rep fails on pairlist,64518,Duncan Murdoch
+064523.html,[Rd] Problem in vignette packaging of Sweave in utils package,64523,Duncan Murdoch
+064447.html,[Rd] On RObjectTables,64447,Jeroen Ooms
+064497.html,[Rd] On RObjectTables,64497,Jeroen Ooms
+064455.html,[Rd] subRaw?,64455,Herv&#233; Pag&#232;s
+064500.html,[Rd] On RObjectTables,64500,Roger D. Peng
+064441.html,[Rd] installing spam package is failing (spam_0.29-1),64441,Brian G. Peterson
+064463.html,[Rd] Use GPU in R with .Call,64463,Brian G. Peterson
+064482.html,[Rd] large dataset - confused,64482,Brian G. Peterson
+064485.html,[Rd] Reading many large files causes R to crash - Possible Bug in R 2.15.1 64-bit Ubuntu,64485,Brian G. Peterson
+064461.html,[Rd] Use GPU in R with .Call,64461,Raymond
+064465.html,[Rd] Use GPU in R with .Call,64465,Raymond
+064396.html,[Rd] Using a function from splines.c in our package,64396,Prof Brian Ripley
+064403.html,[Rd] Suggestion / patch to support more Unicode characters in R CMD Rd2pdf,64403,Prof Brian Ripley
+064406.html,[Rd] Understanding tracemem,64406,Prof Brian Ripley
+064408.html,[Rd] Understanding tracemem,64408,Prof Brian Ripley
+064444.html,[Rd] Warning when sourcing file after require,64444,Prof Brian Ripley
+064451.html,[Rd] Are R packages supposed to be &quot;relocatable&quot;? (avoiding BioConductor scripts...),64451,Prof Brian Ripley
+064481.html,[Rd] large dataset - confused,64481,Prof Brian Ripley
+064494.html,"[Rd] S4 objects in formulas (really, model frames)",64494,Prof Brian Ripley
+064496.html,[Rd] Using .onUnload to unload DLLs,64496,Prof Brian Ripley
+064503.html,[Rd] Encoding errors in Rd files,64503,Prof Brian Ripley
+064513.html,[Rd] pie() bug in r59963,64513,Prof Brian Ripley
+064529.html,[Rd] C code validation,64529,Prof Brian Ripley
+064539.html,[Rd] Shared routines in a dynamic library.,64539,Prof Brian Ripley
+064535.html,[Rd] [BUG?] utils::prompt(name=f),64535,Paul Roebuck
+064400.html,[Rd] Negative years with strptime?,64400,Jeffrey Ryan
+064372.html,[Rd] S4 class for chunked data that inherits from numeric- numeric methods won't work,64372,Elizabeth Sander
+064382.html,[Rd] Problem in vignette packaging of Sweave in utils package,64382,Marc Schwartz
+064389.html,[Rd] typo in src/library/base/man/connections.Rd,64389,"Shotwell, Matthew Stephen"
+064541.html,[Rd] Numerics behind splineDesign,64541,Nathaniel Smith
+064395.html,[Rd] Using a function from splines.c in our package,64395,Gordon K Smyth
+064397.html,[Rd] Using a function from splines.c in our package,64397,Gordon K Smyth
+064412.html,[Rd] Modifying a list: what gets copied?,64412,Kohske Takahashi
+064466.html,[Rd] Reading many large files causes R to crash - Possible Bug in R	2.15.1 64-bit Ubuntu,64466,David Terk
+064470.html,[Rd] Reading many large files causes R to crash - Possible Bug	in R 2.15.1 64-bit Ubuntu,64470,David Terk
+064471.html,[Rd] Reading many large files causes R to crash - Possible Bug	in R 2.15.1 64-bit Ubuntu,64471,David Terk
+064476.html,[Rd] Reading many large files causes R to crash - Possible Bug	in R 2.15.1 64-bit Ubuntu,64476,David Terk
+064477.html,[Rd] Reading many large files causes R to crash - Possible Bug	in R 2.15.1 64-bit Ubuntu,64477,David Terk
+064479.html,[Rd] Reading many large files causes R to crash - Possible Bug	in R 2.15.1 64-bit Ubuntu,64479,David Terk
+064388.html,[Rd] Feature request: workaround for 'Sys.timezone()' issue for German MS-Windows,64388,Janko Thyson
+064425.html,[Rd] installing spam package is failing (spam_0.29-1),64425,Heather Turner
+064467.html,[Rd] Reading many large files causes R to crash - Possible Bug in R 2.15.1 64-bit Ubuntu,64467,Joshua Ulrich
+064472.html,[Rd] Reading many large files causes R to crash - Possible Bug in R 2.15.1 64-bit Ubuntu,64472,Joshua Ulrich
+064475.html,[Rd] Reading many large files causes R to crash - Possible Bug in R 2.15.1 64-bit Ubuntu,64475,Joshua Ulrich
+064478.html,[Rd] Reading many large files causes R to crash - Possible Bug in R 2.15.1 64-bit Ubuntu,64478,Joshua Ulrich
+064449.html,[Rd] Are R packages supposed to be &quot;relocatable&quot;? (avoiding	BioConductor scripts...),64449,Simon Urbanek
+064486.html,[Rd] Reading many large files causes R to crash - Possible Bug	in R 2.15.1 64-bit Ubuntu,64486,Simon Urbanek
+064531.html,[Rd] Rconfig.h &amp; unsupported architectures,64531,Simon Urbanek
+064423.html,[Rd] installing spam package is failing (spam_0.29-1),64423,Tobias Verbeke
+064521.html,[Rd] Convenience function to get unevaluated ...	function	arguments,64521,"Warnes, Gregory"
+064483.html,[Rd] large dataset - confused,64483,R. Michael Weylandt
+064502.html,[Rd] questions on R CMD INSTALL et al,64502,R. Michael Weylandt
+064538.html,[Rd] [BUG?] utils::prompt(name=f),64538,R. Michael Weylandt
+064404.html,[Rd] Understanding tracemem,64404,Hadley Wickham
+064407.html,[Rd] Understanding tracemem,64407,Hadley Wickham
+064409.html,[Rd] Understanding tracemem,64409,Hadley Wickham
+064410.html,[Rd] Understanding tracemem,64410,Hadley Wickham
+064411.html,[Rd] Modifying a list: what gets copied?,64411,Hadley Wickham
+064508.html,[Rd] Rconfig.h &amp; unsupported architectures,64508,Hadley Wickham
+064525.html,[Rd] Rconfig.h &amp; unsupported architectures,64525,Hadley Wickham
+064526.html,[Rd] Version of substitute that evaluates it's first argument,64526,Hadley Wickham
+064533.html,[Rd] Rconfig.h &amp; unsupported architectures,64533,Hadley Wickham
+064509.html,[Rd] Convenience function to get unevaluated ... function	arguments,64509,David Winsemius
+064381.html,[Rd] Problem in vignette packaging of Sweave in utils package,64381,Yihui Xie
+064450.html,[Rd] Changes to parser in R-devel,64450,Yihui Xie
+064460.html,[Rd] Changes to parser in R-devel,64460,Yihui Xie
+064367.html,[Rd] Dependency problem for &quot;hasArg&quot;,64367,Mauricio Zambrano-Bigiarini
+064374.html,[Rd] Dependency problem for &quot;hasArg&quot;,64374,Mauricio Zambrano-Bigiarini
+064376.html,[Rd] Dependency problem for &quot;hasArg&quot;,64376,Mauricio Zambrano-Bigiarini
+064418.html,[Rd] installing spam package is failing (spam_0.29-1),64418,chuckles the clone
+064421.html,[Rd] installing spam package is failing (spam_0.29-1),64421,chuckles the clone
+064424.html,[Rd] installing spam package is failing (spam_0.29-1),64424,chuckles the clone
+064428.html,[Rd] installing spam package is failing (spam_0.29-1),64428,chuckles the clone
+064430.html,[Rd] installing spam package is failing (spam_0.29-1),64430,chuckles the clone
+064433.html,[Rd] installing spam package is failing (spam_0.29-1),64433,chuckles the clone
+064435.html,[Rd] installing spam package is failing (spam_0.29-1),64435,chuckles the clone
+064436.html,[Rd] installing spam package is failing (spam_0.29-1),64436,chuckles the clone
+064437.html,[Rd] installing spam package is failing (spam_0.29-1),64437,chuckles the clone
+064438.html,[Rd] installing spam package is failing (spam_0.29-1),64438,chuckles the clone
+064440.html,[Rd] installing spam package is failing (spam_0.29-1),64440,chuckles the clone
+064429.html,[Rd] installing spam package is failing (spam_0.29-1),64429,peter dalgaard
+064434.html,[Rd] installing spam package is failing (spam_0.29-1),64434,peter dalgaard
+064532.html,[Rd] Rconfig.h &amp; unsupported architectures,64532,peter dalgaard
+064499.html,[Rd] questions on  R CMD INSTALL et al,64499,luxInteg
+064501.html,[Rd] Encoding errors in Rd files,64501,steven mosher
+064504.html,[Rd] Encoding errors in Rd files,64504,steven mosher
+064506.html,[Rd] Encoding errors in Rd files,64506,steven mosher
+064487.html,[Rd] large dataset - confused,64487,oliver
+064488.html,[Rd] large dataset - confused,64488,oliver
+064456.html,[Rd] On RObjectTables,64456,luke-tierney at uiowa.edu
+064498.html,[Rd] On RObjectTables,64498,luke-tierney at uiowa.edu
+064480.html,[Rd] large dataset - confused,64480,walcotteric

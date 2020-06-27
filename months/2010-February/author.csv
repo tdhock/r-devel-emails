@@ -1,0 +1,329 @@
+link,Subject,id,author
+056577.html,[Rd] lm combined with splines,56577,Randriamiharisoa Alex
+056575.html,[Rd] Incorrect Kendall's tau for ordered variables (PR#14207),56575,Marek Ancukiewicz
+056529.html,[Rd] proposal for new axis.Date/axis.POSIXct,56529,Felix Andrews
+056565.html,[Rd] tiny typo in translation (src/library/tools/po/R-de.po),56565,Martin Becker
+056671.html,[Rd] suggestion: tiny documentation improvement for R-admin,56671,Martin Becker
+056803.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals	-,56803,Claudia Beleites
+056811.html,[Rd] dots for sample,56811,Claudia Beleites
+056729.html,"[Rd] Best style to organize code, namespaces",56729,Ben
+056738.html,"[Rd] Best style to organize code, namespaces",56738,Ben
+056757.html,[Rd] proto and baseenv(),56757,Ben
+056763.html,[Rd] proto and baseenv(),56763,Ben
+056773.html,[Rd] proto and baseenv(),56773,Ben
+056784.html,[Rd] proto and baseenv(),56784,Ben
+056794.html,[Rd] proto and baseenv(),56794,Ben
+056625.html,[Rd] R Startup configuration file,56625,Henrik Bengtsson
+056645.html,[Rd] Darwinian software development and the library function,56645,Henrik Bengtsson
+056669.html,[Rd] FYI: A case that the code validation of R CMD check misses,56669,Henrik Bengtsson
+056701.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56701,Henrik Bengtsson
+056703.html,[Rd] R-forge down,56703,Henrik Bengtsson
+056713.html,[Rd] system.time provides inaccurate sys.child (PR#14210),56713,Henrik Bengtsson
+056563.html,[Rd] Canberra distance,56563,Ben Bolker
+056661.html,[Rd] Feature Request: Multiline Comments,56661,Ben Bolker
+056764.html,"[Rd] scale(x, center=FALSE) (PR#14219)",56764,Ben Bolker
+056792.html,"[Rd] scale(x, center=FALSE) (PR#14219)",56792,Ben Bolker
+056673.html,"[Rd] install.packages, normalizePath, file permissions",56673,Georgi Boshnakov
+056504.html,[Rd] [lbraglia at gmail.com: [wishlist] \href in Rd],56504,Luca Braglia
+056514.html,[Rd] Package options,56514,Chris Brien
+056680.html,[Rd] Building  R  fails,56680,G&#246;ran Brostr&#246;m
+056684.html,[Rd] Building  R  fails,56684,G&#246;ran Brostr&#246;m
+056537.html,[Rd] Why is there no c.factor?,56537,Patrick Burns
+056502.html,[Rd] [R] Suppressing scientific notation on plot axis tick	labels (PR#14202),56502,Peter Dalgaard
+056543.html,[Rd] Bug in as.character? (PR#14206),56543,Peter Dalgaard
+056545.html,[Rd] Why is there no c.factor?,56545,Peter Dalgaard
+056566.html,[Rd] tiny typo in translation (src/library/tools/po/R-de.po),56566,Peter Dalgaard
+056569.html,[Rd] Incorrect Kendall's tau for ordered variables (PR#14207),56569,Peter Dalgaard
+056574.html,[Rd] bug in cut.POSIXt (with patch) (PR#14208),56574,Peter Dalgaard
+056584.html,"[Rd] cbind(deparse.level=2,...) problems",56584,Peter Dalgaard
+056608.html,[Rd] Copyright on src/nmath/qnorm.c,56608,Peter Dalgaard
+056668.html,[Rd] src/main/par.c (PR#14214),56668,Peter Dalgaard
+056702.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56702,Peter Dalgaard
+056705.html,[Rd] R logo as SVG ?,56705,Peter Dalgaard
+056707.html,[Rd] R logo as SVG ?,56707,Peter Dalgaard
+056711.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56711,Peter Dalgaard
+056712.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56712,Peter Dalgaard
+056714.html,[Rd] system.time provides inaccurate sys.child (PR#14210),56714,Peter Dalgaard
+056751.html,[Rd] Suppressing a warning from library(),56751,Peter Dalgaard
+056801.html,[Rd] R logo as SVG ?,56801,Peter Dalgaard
+056756.html,[Rd] proto and baseenv(),56756,Peter Danenberg
+056759.html,[Rd] proto and baseenv(),56759,Peter Danenberg
+056769.html,[Rd] proto and baseenv(),56769,Peter Danenberg
+056770.html,[Rd] proto and baseenv(),56770,Peter Danenberg
+056775.html,[Rd] proto and baseenv(),56775,Peter Danenberg
+056777.html,[Rd] proto and baseenv(),56777,Peter Danenberg
+056779.html,[Rd] proto and baseenv(),56779,Peter Danenberg
+056800.html,[Rd] proto and baseenv(),56800,Peter Danenberg
+056496.html,[Rd] Error with cut.POSIXt and daylight savings time switchover	dates,56496,Brian Diggs
+056517.html,[Rd] Error with cut.POSIXt and daylight savings time switchover dates,56517,Brian Diggs
+056541.html,[Rd] Error with cut.POSIXt and daylight savings time switchover dates (patch included),56541,Brian Diggs
+056540.html,[Rd] Why is there no c.factor?,56540,Matthew Dowle
+056548.html,[Rd] Why is there no c.factor?,56548,Matthew Dowle
+056724.html,[Rd] shash in unique.c,56724,Matthew Dowle
+056522.html,[Rd] Proposal unary - operator for factors,56522,William Dunlap
+056524.html,[Rd] Proposal unary - operator for factors,56524,William Dunlap
+056527.html,[Rd] Proposal unary - operator for factors,56527,William Dunlap
+056546.html,[Rd] Why is there no c.factor?,56546,William Dunlap
+056549.html,[Rd] Why is there no c.factor?,56549,William Dunlap
+056583.html,"[Rd] cbind(deparse.level=2,...) problems",56583,William Dunlap
+056585.html,"[Rd] cbind(deparse.level=2,...) problems",56585,William Dunlap
+056596.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56596,Dirk Eddelbuettel
+056600.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56600,Dirk Eddelbuettel
+056626.html,[Rd] R Startup configuration file,56626,Dirk Eddelbuettel
+056654.html,[Rd] Portability of a C function,56654,Dirk Eddelbuettel
+056741.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals,56741,Dirk Eddelbuettel
+056743.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals,56743,Dirk Eddelbuettel
+056750.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals,56750,Dirk Eddelbuettel
+056804.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for	Proposals	-,56804,Dirk Eddelbuettel
+056580.html,[Rd] Confusing error message for [[.factor (PR#14209),56580,Peter Ehlers
+056634.html,"[Rd] Unexpected behaviour of x[i] when i is a matrix, on Windows",56634,Peter Ehlers
+056638.html,[Rd] aggregate: with 2 by variables in the result the 2nd	by-variable is wrong (PR#14213),56638,Peter Ehlers
+056670.html,[Rd] R_LIBS_USER bugs,56670,Jens Elkner
+056677.html,"[Rd] Where does install.R go when R gets compiled? Or,	how to experiment 	with changes to install.R?",56677,Jens Elkner
+056692.html,[Rd] R_LIBS_USER bugs,56692,Jens Elkner
+056704.html,[Rd] R logo as SVG ?,56704,Jens Elkner
+056708.html,[Rd] R logo as SVG ?,56708,Jens Elkner
+056796.html,[Rd] R logo as SVG ?,56796,Jens Elkner
+056805.html,[Rd] R logo as SVG ?,56805,Jens Elkner
+056547.html,[Rd] Why is there no c.factor?,56547,S Ellison
+056616.html,[Rd] Compiling R projects with multiple external libraries,56616,Seth Falcon
+056636.html,"[Rd] Unexpected behaviour of x[i] when i is a matrix, on Windows",56636,Seth Falcon
+056672.html,[Rd] R_LIBS_USER bugs,56672,Seth Falcon
+056709.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56709,Seth Falcon
+056536.html,[Rd] Why is there no c.factor?,56536,John Fox
+056604.html,[Rd] LinkingTo and C++,56604,Romain Francois
+056606.html,[Rd] LinkingTo and C++,56606,Romain Francois
+056610.html,[Rd] LinkingTo and C++,56610,Romain Francois
+056615.html,[Rd] LinkingTo and C++,56615,Romain Francois
+056653.html,[Rd] Portability of a C function,56653,Romain Francois
+056657.html,[Rd] How S3method() is implemented and called? And when to use it?,56657,Romain Francois
+056695.html,[Rd] how to create a SEXP which could be accessed in embedded R,56695,Romain Francois
+056559.html,"[Rd] Estimate actual memory usage, not cumulative allocated",56559,Renaud Gaujoux
+056560.html,"[Rd] Estimate actual memory usage, not cumulative allocated",56560,Renaud Gaujoux
+056550.html,[Rd] Canberra distance,56550,Christophe Genolini
+056552.html,[Rd] Canberra distance,56552,Christophe Genolini
+056553.html,[Rd] Canberra distance and binary distance,56553,Christophe Genolini
+056652.html,[Rd] Portability of a C function,56652,Christophe Genolini
+056659.html,[Rd] Portability of a C function,56659,Christophe Genolini
+056513.html,[Rd] Package Directory Hierarchy: Recursive inclusion of *.R	possible?,56513,Johannes Graumann
+056665.html,[Rd] Darwinian software development and the library function,56665,Spencer Graves
+056747.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals,56747,Philippe Grosjean
+056696.html,[Rd] Problem with ?Syntax,56696,Gabor Grothendieck
+056698.html,[Rd] Problem with ?Syntax,56698,Gabor Grothendieck
+056731.html,"[Rd] Best style to organize code, namespaces",56731,Gabor Grothendieck
+056740.html,"[Rd] Best style to organize code, namespaces",56740,Gabor Grothendieck
+056760.html,[Rd] proto and baseenv(),56760,Gabor Grothendieck
+056768.html,[Rd] proto and baseenv(),56768,Gabor Grothendieck
+056776.html,[Rd] proto and baseenv(),56776,Gabor Grothendieck
+056778.html,[Rd] proto and baseenv(),56778,Gabor Grothendieck
+056780.html,[Rd] proto and baseenv(),56780,Gabor Grothendieck
+056786.html,[Rd] proto and baseenv(),56786,Gabor Grothendieck
+056797.html,[Rd] proto and baseenv(),56797,Gabor Grothendieck
+056798.html,[Rd] proto and baseenv(),56798,Gabor Grothendieck
+056655.html,[Rd] Feature Request: Multiline Comments,56655,Saptarshi Guha
+056667.html,[Rd] org-mode (was Re: Feature Request: Multiline Comments),56667,Saptarshi Guha
+056767.html,[Rd] grid unit bug? (PR#14220),56767,Bert Gunter
+056772.html,"[Rd] build, data and vignettes",56772,Kasper Daniel Hansen
+056787.html,"[Rd]  build, data and vignettes",56787,Kasper Daniel Hansen
+056603.html,[Rd] Copyright on src/nmath/qnorm.c,56603,David Heffernan
+056812.html,[Rd] Problem with gsl package,56812,"Hoptman, Matthew"
+056508.html,[Rd] codoc mismatches warning,56508,Kurt Hornik
+056632.html,"[Rd] Unexpected behaviour of x[i] when i is a matrix, on Windows",56632,Wolfgang Huber
+056637.html,"[Rd] Unexpected behaviour of x[i] when i is a matrix, on Windows",56637,Wolfgang Huber
+056497.html,[Rd] R's X11 Device Properties,56497,Erik Iverson
+056663.html,[Rd] org-mode (was Re:  Feature Request: Multiline Comments),56663,Erik Iverson
+056658.html,[Rd] R CMD INSTALL customization; followup on Dirk's question,56658,Paul Johnson
+056676.html,"[Rd] Where does install.R go when R gets compiled? Or,	how to experiment 	with changes to install.R?",56676,Paul Johnson
+056690.html,"[Rd] Where does install.R go when R gets compiled? Or,	how to 	experiment with changes to install.R?",56690,Paul Johnson
+056681.html,[Rd] Sweave in PNG: driver online,56681,"Jombart, Thibaut"
+056706.html,[Rd] R logo as SVG ?,56706,G. Jay Kerns
+056737.html,"[Rd] Best style to organize code, namespaces",56737,Mark Kimpel
+056489.html,[Rd] update method for nls,56489,Ken Knoblauch
+056746.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals,56746,Friedrich Leisch
+056487.html,[Rd] questions as to building R from source under Windows,56487,Uwe Ligges
+056555.html,[Rd] win-builder offline,56555,Uwe Ligges
+056582.html,[Rd] Confusing error message for [[.factor (PR#14209),56582,Uwe Ligges
+056686.html,[Rd] R CMD check: OK in LINUX. Crashes in Windows!,56686,Uwe Ligges
+056725.html,"[Rd] Where does install.R go when R gets compiled? Or, how to 	experiment with changes to install.R?",56725,Uwe Ligges
+056788.html,[Rd] Problem with cut and paste corruption,56788,Uwe Ligges
+056789.html,"[Rd] build, data and vignettes",56789,Uwe Ligges
+056810.html,"[Rd] build, data and vignettes",56810,Uwe Ligges
+056534.html,[Rd] Package Directory Hierarchy: Recursive inclusion of *.R possible?,56534,Thomas Lumley
+056535.html,[Rd] Why is there no c.factor?,56535,Thomas Lumley
+056507.html,[Rd] codoc mismatches warning,56507,Sebastian P. Luque
+056510.html,[Rd] codoc mismatches warning,56510,Sebastian P. Luque
+056591.html,[Rd] incoming/14210 system.time provides inaccurate sys.child,56591,Manuel L&#243;pez-Ib&#225;&#241;ez
+056687.html,[Rd] sample on data.frame,56687,Stavros Macrakis
+056564.html,[Rd] p.adjust.Rd sugggestion,56564,Martin Maechler
+056587.html,[Rd] Aggregate dataframe .. *inappropriate* for R-devel,56587,Martin Maechler
+056605.html,[Rd] Rounding multinomial proportions,56605,Arni Magnusson
+056607.html,[Rd] Rounding multinomial proportions,56607,Arni Magnusson
+056617.html,[Rd] Darwinian software development and the library function,56617,Charlotte Maia
+056643.html,[Rd] Darwinian software development and the library function,56643,Charlotte Maia
+056678.html,[Rd] pictex,56678,Kyle Matoba
+056688.html,[Rd] Small documentation fix for [.data.frame,56688,Olaf Mersmann
+056689.html,[Rd] Fix for incorrect use of restrict in xz third party code,56689,Olaf Mersmann
+056511.html,[Rd] S4 setClass / initialize misunderstanding,56511,Martin Morgan
+056662.html,[Rd] org-mode (was Re:  Feature Request: Multiline Comments),56662,Martin Morgan
+056515.html,[Rd] Package options,56515,Duncan Murdoch
+056525.html,[Rd] Proposal unary - operator for factors,56525,Duncan Murdoch
+056528.html,[Rd] Proposal unary - operator for factors,56528,Duncan Murdoch
+056551.html,[Rd] Canberra distance,56551,Duncan Murdoch
+056554.html,[Rd] Canberra distance,56554,Duncan Murdoch
+056567.html,[Rd] tiny typo in translation (src/library/tools/po/R-de.po),56567,Duncan Murdoch
+056581.html,[Rd] Confusing error message for [[.factor (PR#14209),56581,Duncan Murdoch
+056589.html,[Rd] R Startup configuration file,56589,Duncan Murdoch
+056621.html,[Rd] R Startup configuration file,56621,Duncan Murdoch
+056629.html,[Rd] R Startup configuration file,56629,Duncan Murdoch
+056720.html,"[Rd] Where does install.R go when R gets compiled? Or, how to experiment 	with changes to install.R?",56720,Duncan Murdoch
+056721.html,[Rd] Problem with ?Syntax,56721,Duncan Murdoch
+056722.html,[Rd] Problem with ?Syntax,56722,Duncan Murdoch
+056730.html,"[Rd] Best style to organize code, namespaces",56730,Duncan Murdoch
+056735.html,"[Rd] Best style to organize code, namespaces",56735,Duncan Murdoch
+056739.html,"[Rd] Best style to organize code, namespaces",56739,Duncan Murdoch
+056765.html,[Rd] proto and baseenv(),56765,Duncan Murdoch
+056781.html,[Rd] proto and baseenv(),56781,Duncan Murdoch
+056785.html,[Rd] Error on Windows build: &quot;unable to re-encode&quot;,56785,Duncan Murdoch
+056791.html,[Rd] Error on Windows build: &quot;unable to re-encode&quot;,56791,Duncan Murdoch
+056802.html,[Rd] Error on Windows build: &quot;unable to re-encode&quot;,56802,Duncan Murdoch
+056808.html,[Rd] Error on Windows build: &quot;unable to re-encode&quot;,56808,Duncan Murdoch
+056694.html,[Rd] sample on data.frame,56694,Sean O'Riordain
+056556.html,[Rd] Canberra distance,56556,Jari Oksanen
+056506.html,[Rd] Missing arg default values in Docs are not triggering an 'R CMD check' warning,56506,Herv&#233; Pag&#232;s
+056488.html,[Rd] Sort order of vignettes in help index and CRAN,56488,Thomas Petzoldt
+056761.html,[Rd] proto and baseenv(),56761,Thomas Petzoldt
+056734.html,[Rd] Compiling R on Linux with SunStudio 12.1: &quot;wide-character type&quot; problems,56734,Martyn Plummer
+056790.html,[Rd] Compiling R on Linux with SunStudio 12.1: &quot;wide-character type&quot; problems (rt),56790,Martyn Plummer
+056485.html,[Rd] Mksetup() limited to hashing with 32 bits,56485,Prof Brian Ripley
+056492.html,[Rd] qpois Help problems (PR#14200),56492,Prof Brian Ripley
+056498.html,[Rd] R's X11 Device Properties,56498,Prof Brian Ripley
+056516.html,[Rd] Package options,56516,Prof Brian Ripley
+056530.html,[Rd] Proposal unary - operator for factors,56530,Prof Brian Ripley
+056558.html,[Rd] Canberra distance,56558,Prof Brian Ripley
+056570.html,[Rd] Incorrect Kendall's tau for ordered variables (PR#14207),56570,Prof Brian Ripley
+056578.html,[Rd] lm combined with splines,56578,Prof Brian Ripley
+056599.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56599,Prof Brian Ripley
+056612.html,[Rd] R crashes when setWinProgressBar is give a numeric value for label argument,56612,Prof Brian Ripley
+056622.html,[Rd] filenames with special characters in the R/ directory of a package?,56622,Prof Brian Ripley
+056664.html,[Rd] Incorrect Kendall's tau for ordered variables (PR#14207),56664,Prof Brian Ripley
+056679.html,[Rd] pictex,56679,Prof Brian Ripley
+056693.html,[Rd] Fix for incorrect use of restrict in xz third party code,56693,Prof Brian Ripley
+056733.html,[Rd] patch about compile R with clang,56733,Prof Brian Ripley
+056753.html,[Rd] Suppressing a warning from library(),56753,Prof Brian Ripley
+056758.html,[Rd] grid unit bug? (PR#14220),56758,Prof Brian Ripley
+056532.html,[Rd] Package Directory Hierarchy: Recursive inclusion of *.R	possible?,56532,Barry Rowlingson
+056588.html,[Rd] R Startup configuration file,56588,Barry Rowlingson
+056592.html,[Rd] R Startup configuration file,56592,Barry Rowlingson
+056619.html,[Rd] filenames with special characters in the R/ directory of a	package?,56619,Barry Rowlingson
+056620.html,[Rd] R Startup configuration file,56620,Barry Rowlingson
+056627.html,[Rd] R Startup configuration file,56627,Barry Rowlingson
+056697.html,[Rd] Problem with ?Syntax,56697,Barry Rowlingson
+056716.html,[Rd] R logo as SVG ?,56716,Barry Rowlingson
+056486.html,[Rd] questions as to building R from source under Windows,56486,Peter Ruckdeschel
+056490.html,[Rd] questions as to building R from source under Windows,56490,Peter Ruckdeschel
+056493.html,[Rd] questions as to building R from source under Windows,56493,Peter Ruckdeschel
+056494.html,[Rd] questions as to building R from source under Windows,56494,Peter Ruckdeschel
+056495.html,[Rd] questions as to building R from source under Windows / small corrections for R-admin sec. 3.1.7,56495,Peter Ruckdeschel
+056660.html,[Rd] Portability of a C function,56660,J Ryan
+056640.html,[Rd] Copyright versus Licenses,56640,Dominick Samperi
+056642.html,[Rd] Copyright versus Licenses,56642,Dominick Samperi
+056647.html,[Rd] Copyright versus Licenses,56647,Dominick Samperi
+056650.html,[Rd] Copyright versus Licenses,56650,Dominick Samperi
+056501.html,"[Rd] choose(n,k) when n is almost integer",56501,Petr Savicky
+056512.html,"[Rd] choose(n,k) when n is almost integer",56512,Petr Savicky
+056782.html,[Rd] Error on Windows build: &quot;unable to re-encode&quot;,56782,Felix Sch&#246;nbrodt
+056799.html,[Rd] Error on Windows build: &quot;unable to re-encode&quot;,56799,Felix Sch&#246;nbrodt
+056745.html,[Rd] O(N log N) impl of Kendall's Tau,56745,David Simcha
+056594.html,[Rd] R crashes when setWinProgressBar is give a numeric value for label argument,56594,Greg Snow
+056613.html,[Rd] R crashes when setWinProgressBar is give a numeric value for label argument,56613,Greg Snow
+056576.html,[Rd] Canberra distance,56576,Hank Stevens
+056749.html,[Rd] Suppressing a warning from library(),56749,Terry Therneau
+056754.html,[Rd] Suppressing a warning from library(),56754,Terry Therneau
+056783.html,[Rd] Problem with cut and paste corruption,56783,Ian Thurlbeck
+056795.html,"[Rd] build, data and vignettes",56795,Berwin A Turlach
+056519.html,[Rd] ctrl-C aborts R when compiling package code with ICC+openMP,56519,Ernest Turro
+056520.html,[Rd] Fwd: ctrl-C aborts R when compiling package code with	ICC+openMP,56520,Ernest Turro
+056609.html,[Rd] LinkingTo and C++,56609,Simon Urbanek
+056614.html,[Rd] LinkingTo and C++,56614,Simon Urbanek
+056623.html,[Rd] R Startup configuration file,56623,Simon Urbanek
+056633.html,[Rd] long integer in R?,56633,Simon Urbanek
+056635.html,"[Rd] Unexpected behaviour of x[i] when i is a matrix, on Windows",56635,Simon Urbanek
+056644.html,[Rd] Copyright versus Licenses,56644,Simon Urbanek
+056649.html,[Rd] long integer in R?,56649,Simon Urbanek
+056793.html,[Rd] Announce: Speicial issue of the JSS on Graphical User Interfaces for R,56793,Pedro Valero-Mora
+056807.html,[Rd] Deadline for Special issue of the JSS on Graphical User Interfaces for R,56807,Pedro Valero-Mora
+056685.html,[Rd] expression(pi) produces not-equal symbol in X11 plot,56685,Perry de Valpine
+056562.html,[Rd] p.adjust.Rd sugggestion,56562,Tobias Verbeke
+056521.html,[Rd] Proposal unary - operator for factors,56521,Hadley Wickham
+056523.html,[Rd] Proposal unary - operator for factors,56523,Hadley Wickham
+056526.html,[Rd] Proposal unary - operator for factors,56526,Hadley Wickham
+056531.html,[Rd] Proposal unary - operator for factors,56531,Hadley Wickham
+056533.html,[Rd] Why is there no c.factor?,56533,Hadley Wickham
+056538.html,[Rd] Why is there no c.factor?,56538,Hadley Wickham
+056544.html,[Rd] Why is there no c.factor?,56544,Hadley Wickham
+056728.html,[Rd] patch about compile R with clang,56728,Gong Yu
+056674.html,[Rd] tm installation (PR#14193),56674,Yva
+056561.html,[Rd] Autoconf macros for R?,56561,Guillaume Yziquel
+056639.html,[Rd] [ANN] OCaml-R binding for the R language.,56639,Guillaume Yziquel
+056641.html,[Rd] Copyright versus Licenses,56641,Guillaume Yziquel
+056646.html,[Rd] Copyright versus Licenses,56646,Guillaume Yziquel
+056717.html,[Rd] R logo as SVG ?,56717,baptiste auguie
+056806.html,[Rd] R logo as SVG ?,56806,baptiste auguie
+056723.html,"[Rd] scale(x, center=FALSE) (PR#14219)",56723,mrizzo at bgsu.edu
+056683.html,[Rd] pchisq accuracy (PR#14216),56683,Jerry.Lewis at biogenidec.com
+056503.html,[Rd] [R] Suppressing scientific notation on plot axis	tick	labels (PR#14203),56503,P.Dalgaard at biostat.ku.dk
+056593.html,[Rd] (PR#14210) incoming/14210 system.time provides inaccurate,56593,P.Dalgaard at biostat.ku.dk
+056715.html,[Rd] system.time provides inaccurate sys.child (PR#14210),56715,p.dalgaard at biostat.ku.dk
+056568.html,[Rd] Incorrect Kendall's tau for ordered variables (PR#14207),56568,msa at biostat.mgh.harvard.edu
+056744.html,[Rd] survival package: Surv handles invalid intervals (start time &gt;	stop (PR#14221),56744,buhr at biostat.wisc.edu
+056557.html,[Rd] Canberra distance,56557,Bill.Venables at csiro.au
+056732.html,"[Rd] Best style to organize code, namespaces",56732,Mark.Bravington at csiro.au
+056595.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56595,cstrato
+056598.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56598,cstrato
+056601.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56601,cstrato
+056602.html,[Rd] wcstombs error when compiling package with Debian/Ubuntu,56602,cstrato
+056518.html,[Rd] mclapply on a set not divisible by number of cores (PR#14205),56518,o.heil at dkfz.de
+056579.html,[Rd] Confusing error message for [[.factor (PR#14209),56579,g.russell at eos-solutions.com
+056699.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56699,g.russell at eos-solutions.com
+056752.html,[Rd] bug in &quot;R Help on 'rmultinom()'&quot; (PR#14222),56752,somorcik at fmph.uniba.sk
+056727.html,[Rd] grid unit bug? (PR#14220),56727,gunter.berton at gene.com
+056755.html,[Rd] grid unit bug? (PR#14220),56755,gunter.berton at gene.com
+056700.html,[Rd] read.csv('/dev/stdin') fails (PR#14218),56700,egoldlust at gmail.com
+056505.html,[Rd] [lbraglia at gmail.com: [wishlist] \href in Rd] (PR#14204),56505,lbraglia at gmail.com
+056762.html,[Rd] wishlist: Clarify how to auto-load libraries at R start-up	(PR#14224),56762,jgibson at hhcorp.org
+056666.html,[Rd] src/main/par.c (PR#14214),56666,A.R.Runnalls at kent.ac.uk
+056586.html,"[Rd] Aggregate dataframe variables, return more than 2 vars",56586,violet lock
+056542.html,[Rd] Bug in as.character? (PR#14206),56542,Havard.Rue at math.ntnu.no
+056630.html,[Rd] aggregate: with 2 by variables in the result the 2nd	by-variable is wrong (PR#14213),56630,franz.quehenberger at medunigraz.at
+056572.html,[Rd] bug in cut.POSIXt (with patch) (PR#14208),56572,diggsb at ohsu.edu
+056573.html,[Rd] bug in cut.POSIXt (with patch) (PR#14208),56573,diggsb at ohsu.edu
+056611.html,[Rd] Compiling R projects with multiple external libraries,56611,rt
+056675.html,[Rd] R CMD check: OK in LINUX. Crashes in Windows!,56675,rt
+056718.html,[Rd] R CMD check: OK in LINUX. Crashes in Windows!,56718,rt
+056719.html,[Rd] R CMD check: OK in LINUX. Crashes in Windows!,56719,rt
+056726.html,[Rd] Compiling R on Linux with SunStudio 12.1: &quot;wide-character	type&quot; problems,56726,rt
+056736.html,[Rd] Compiling R on Linux with SunStudio 12.1: &quot;wide-character	type&quot; problems (rt),56736,rt
+056809.html,[Rd] Compiling R on Linux with SunStudio 12.1: &quot;wide-character	type&quot; problems,56809,rt
+056748.html,[Rd] Typo in the man page of ?cutree (PR#14223),56748,phgrosjean at sciviews.org
+056682.html,[Rd] Error in coding for splinefun(method = &quot;monoH.FC&quot;) (PR#14215),56682,t.heaton at shef.ac.uk
+056618.html,[Rd] filenames with special characters in the R/ directory of a	package?,56618,blue sky
+056624.html,[Rd] filenames with special characters in the R/ directory of a	package?,56624,blue sky
+056631.html,[Rd] long integer in R?,56631,blue sky
+056648.html,[Rd] long integer in R?,56648,blue sky
+056651.html,[Rd] long integer in R?,56651,blue sky
+056656.html,[Rd] How S3method() is implemented and called? And when to use it?,56656,blue sky
+056628.html,[Rd] Darwinian software development and the library function,56628,spencerg
+056509.html,[Rd] S4 setClass / initialize misunderstanding,56509,bullard at stat.Berkeley.EDU
+056491.html,[Rd] qpois Help problems (PR#14200),56491,maechler at stat.math.ethz.ch
+056597.html,[Rd] Wrong documentation of  'isTRUE' (PR#14212),56597,gb at stat.umu.se
+056571.html,[Rd] Incorrect Kendall's tau for ordered variables (PR#14207),56571,ripley at stats.ox.ac.uk
+056500.html,[Rd] [R] Suppressing scientific notation on plot axis tick	labels (PR#14202),56500,murdoch at stats.uwo.ca
+056499.html,[Rd] str() and signs in imaginary parts (PR#14201),56499,c-w.hoffmann at sunrise.ch
+056590.html,[Rd] system.time provides inaccurate sys.child (PR#14210),56590,manuel.lopez-ibanez at ulb.ac.be
+056710.html,[Rd] Rubbish values written with zero-length vectors (PR#14217),56710,seth at userprimary.net
+056539.html,[Rd] Why is there no c.factor?,56539,hadley wickham
+056742.html,[Rd] [SoC] R and Google Summer of Code 2010: Call for Proposals,56742,hadley wickham
+056766.html,[Rd] proto and baseenv(),56766,hadley wickham
+056771.html,[Rd] proto and baseenv(),56771,hadley wickham
+056774.html,[Rd] proto and baseenv(),56774,hadley wickham
+056691.html,[Rd] how to create a SEXP which could be accessed in embedded R,56691,yeahzx

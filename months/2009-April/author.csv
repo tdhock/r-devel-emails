@@ -1,0 +1,356 @@
+link,Subject,id,author
+053187.html,[Rd] Managing DLLs with the same names in an R session,53187,Patrick Aboyoun
+053189.html,[Rd] Managing DLLs with the same names in an R session,53189,Patrick Aboyoun
+052950.html,[Rd] Possible bug: How does libR.so find RHOME?,52950,Simon Anders
+052951.html,[Rd] Possible bug: How does libR.so find RHOME?,52951,Simon Anders
+052922.html,[Rd] what is the preferred method to create a package local	variable?,52922,Whit Armstrong
+052924.html,[Rd] what is the preferred method to create a package local	variable?,52924,Whit Armstrong
+053114.html,[Rd] 'is.integer' (PR#13671),53114,Charles C. Berry
+053226.html,[Rd] Some extensions to class inheritance and method selection,53226,Roger Bivand
+052949.html,[Rd] summary for negative binomial GLMs (PR#13640),52949,Ben Bolker
+052968.html,[Rd] summary for negative binomial GLMs (PR#13640),52968,Ben Bolker
+052908.html,[Rd] RGoogleDocs so close but errors with spreadsheet reading,52908,Farrel Buchinsky
+052909.html,[Rd] RGoogleDocs so close but errors with spreadsheet reading,52909,Farrel Buchinsky
+052938.html,[Rd] RGoogleDocs so close but errors with spreadsheet reading,52938,Farrel Buchinsky
+053041.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53041,Ted Byers
+053060.html,[Rd] bug in classesToAM(),53060,John Chambers
+053205.html,[Rd] Some extensions to class inheritance and method selection,53205,John Chambers
+053231.html,[Rd] Some extensions to class inheritance and method selection,53231,John Chambers
+053107.html,[Rd] arima,53107,Pierre Chauss&#233;
+053193.html,[Rd] Managing DLLs with the same names in an R session,53193,Alex Chen
+053190.html,[Rd] About ParallelR and licensing of packages,53190,Danese Cooper
+053112.html,[Rd] 'is.integer' (PR#13671),53112,Peter Cowan
+052917.html,[Rd] Compiler options for Makefile.win,52917,G&#225;bor Cs&#225;rdi
+053180.html,[Rd] Closed-source non-free ParallelR ?,53180,G&#225;bor Cs&#225;rdi
+053186.html,[Rd] Closed-source non-free ParallelR ?,53186,G&#225;bor Cs&#225;rdi
+052944.html,[Rd] R-alpha/R-beta builds on Alpha platform failing with compiler error,52944,Peter Dalgaard
+052954.html,[Rd] typo in R-ints.texi's description of P_ macro,52954,Peter Dalgaard
+052959.html,[Rd] 'R CMD build --binary BUNDLE' and Windows,52959,Peter Dalgaard
+052963.html,[Rd] type.convert (PR#13646),52963,Peter Dalgaard
+052966.html,[Rd] type.convert (PR#13646),52966,Peter Dalgaard
+052972.html,[Rd] type.convert (PR#13646),52972,Peter Dalgaard
+052982.html,[Rd] data argument and environments,52982,Peter Dalgaard
+052987.html,[Rd] dnbinom with a large size parameter (PR#13650),52987,Peter Dalgaard
+053023.html,[Rd] R (2.9.0 rc) CMD INSTALL will leave OOLOCK folder even if installation succeeded,53023,Peter Dalgaard
+053068.html,[Rd] R build fails during make when configured with &quot;--with-x=no&quot; (PR#13665),53068,Peter Dalgaard
+053083.html,[Rd] Patch for tk/GUI,53083,Peter Dalgaard
+053098.html,[Rd] Installation fails (PR#13669),53098,Peter Dalgaard
+053135.html,[Rd] Problems building R 2.9.0... on SGI and Sun once again,53135,Peter Dalgaard
+053185.html,[Rd] Closed-source non-free ParallelR ?,53185,Peter Dalgaard
+053011.html,[Rd] Correction to documentation of print.ls_str in utils package,53011,Brian Diggs
+053046.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53046,Brian Diggs
+053138.html,[Rd] 'is.integer' (PR#13671),53138,Latchezar (Lucho) Dimitrov
+053092.html,[Rd] Closed-source non-free ParallelR ?,53092,Matthew Dowle
+053134.html,[Rd] Closed-source non-free ParallelR ?,53134,Matthew Dowle
+053206.html,[Rd] About ParallelR and licensing of packages,53206,Matthew Dowle
+052953.html,[Rd] typo in R-ints.texi's description of P_ macro,52953,William Dunlap
+052971.html,[Rd] type.convert (PR#13646),52971,William Dunlap
+052975.html,[Rd] type.convert (PR#13646),52975,William Dunlap
+052985.html,[Rd] Simple class with an automatic printing issue,52985,William Dunlap
+052992.html,"[Rd] should sub(perl=TRUE) also handle \E in replacement,	to complement \U and \L?",52992,William Dunlap
+053022.html,[Rd] How can I catch errors thrown from c via the	Rcpperror()	function?,53022,William Dunlap
+053025.html,[Rd] How can I catch errors thrown from c via the	Rcpperror()	function?,53025,William Dunlap
+053027.html,[Rd] How can I catch errors thrown from c via	the	Rcpperror()function?,53027,William Dunlap
+053044.html,[Rd] some .Primitive's generate odd missing-argument messages,53044,William Dunlap
+053139.html,[Rd] reference counting problem in .Primitive's?,53139,William Dunlap
+053160.html,[Rd] reference counting problem in .Primitive's?,53160,William Dunlap
+053239.html,"[Rd] NA_real_ &lt;op&gt; NaN -&gt; NA or NaN, should we care?",53239,William Dunlap
+052905.html,[Rd] License question (RUnit),52905,Christophe Dutang
+053191.html,[Rd] License status of CRAN packages,53191,Christophe Dutang
+052943.html,[Rd] R-alpha/R-beta builds on Alpha platform failing with compiler	error,52943,Dirk Eddelbuettel
+052945.html,[Rd] R-alpha/R-beta builds on Alpha platform failing with compiler error,52945,Dirk Eddelbuettel
+052955.html,[Rd] R-alpha/R-beta builds on Alpha platform failing with compiler error,52955,Dirk Eddelbuettel
+053002.html,[Rd] Problem cross-compiling on Ubuntu,53002,Dirk Eddelbuettel
+053016.html,[Rd] How can I catch errors thrown from c via the Rcpp	error()	function?,53016,Dirk Eddelbuettel
+053038.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53038,Dirk Eddelbuettel
+053042.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53042,Dirk Eddelbuettel
+053043.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53043,Dirk Eddelbuettel
+053144.html,[Rd] License status of CRAN packages,53144,Dirk Eddelbuettel
+053146.html,[Rd] License status of CRAN packages,53146,Dirk Eddelbuettel
+053151.html,[Rd] License status of CRAN packages,53151,Dirk Eddelbuettel
+053153.html,[Rd] License status of CRAN packages,53153,Dirk Eddelbuettel
+053178.html,[Rd] License status of CRAN packages,53178,Dirk Eddelbuettel
+053203.html,[Rd] Error in X11() : X11 module cannot be loaded,53203,Dirk Eddelbuettel
+053099.html,[Rd] Clarification for options(OutDec),53099,Stephen Eglen
+052967.html,[Rd] Package (PR#13475),52967,S Ellison
+053132.html,[Rd] Problems building R 2.9.0... on SGI and Sun once again,53132,Darin A. England
+053166.html,[Rd] Problems building R 2.9.0... on SGI and Sun once again,53166,Darin A. England
+052888.html,[Rd] R in standalone application,52888,Eric
+053159.html,[Rd] Closed-source non-free ParallelR ?,53159,Ian Fellows
+053183.html,[Rd] Closed-source non-free ParallelR ?,53183,Ian Fellows
+053207.html,[Rd] About ParallelR and licensing of packages,53207,"Fellows, Ian"
+053051.html,[Rd] wish list: automatic package installation,53051,John Fox
+053235.html,[Rd] crash after using graphics in Rcmdr (PR#13679),53235,John Fox
+052996.html,[Rd] top level condition handlers,52996,Romain Francois
+053013.html,[Rd] HTML help,53013,Romain Francois
+053039.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53039,Romain Francois
+053052.html,[Rd] speedup for as.matrix.dist,53052,Romain Francois
+053053.html,[Rd] print.closure at the R level,53053,Romain Francois
+053058.html,[Rd] print.closure at the R level,53058,Romain Francois
+053059.html,[Rd] print.closure at the R level,53059,Romain Francois
+053062.html,[Rd] print.closure at the R level,53062,Romain Francois
+053072.html,[Rd] print.closure at the R level,53072,Romain Francois
+053128.html,[Rd] Custom browser prompt instead of Browse[1]&gt;,53128,Romain Francois
+053172.html,[Rd] speedup for as.matrix.dist,53172,Romain Francois
+053219.html,[Rd] vignettes in a bundle,53219,Romain Francois
+053222.html,[Rd] vignettes in a bundle,53222,Romain Francois
+053101.html,"[Rd] reversing xlim, ylim in smoothScatter",53101,Shashikiran Ganesh
+053152.html,[Rd] License status of CRAN packages,53152,Ben Goodrich
+053157.html,[Rd] License status of CRAN packages,53157,Ben Goodrich
+053181.html,[Rd] License status of CRAN packages,53181,Ben Goodrich
+053192.html,[Rd] License status of CRAN packages,53192,Ben Goodrich
+053029.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53029,Philippe Grosjean
+053036.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53036,Philippe Grosjean
+053045.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53045,Philippe Grosjean
+053048.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53048,Philippe Grosjean
+052941.html,[Rd] suggestion: default v.names in reshape,52941,Gabor Grothendieck
+053009.html,[Rd] Automatic Differentiation for R,53009,Gabor Grothendieck
+053143.html,[Rd] Closed-source non-free ParallelR ?,53143,Gabor Grothendieck
+053145.html,[Rd] License status of CRAN packages,53145,Gabor Grothendieck
+053148.html,[Rd] License status of CRAN packages,53148,Gabor Grothendieck
+053150.html,[Rd] License status of CRAN packages,53150,Gabor Grothendieck
+053155.html,[Rd] License status of CRAN packages,53155,Gabor Grothendieck
+053164.html,[Rd] Closed-source non-free ParallelR ?,53164,Gabor Grothendieck
+053182.html,[Rd] License status of CRAN packages,53182,Gabor Grothendieck
+053215.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53215,Gabor Grothendieck
+052889.html,[Rd] Creating a VECSXP when n is unknown(using Linked list),52889,Saptarshi Guha
+052946.html,"[Rd] RJava question(class not found with rJava's vm,	though found with 	alternate vm)",52946,Saptarshi Guha
+052948.html,"[Rd] RJava question(class not found with rJava's vm,	though found 	with alternate vm)",52948,Saptarshi Guha
+053176.html,[Rd] License status of CRAN packages,53176,Kjetil Halvorsen
+053218.html,[Rd] vignettes in a bundle,53218,Robin Hankin
+053221.html,[Rd] vignettes in a bundle,53221,Robin Hankin
+053223.html,[Rd] vignettes in a bundle,53223,Robin Hankin
+052999.html,[Rd] Problem cross-compiling on Ubuntu,52999,Kasper Daniel Hansen
+053111.html,[Rd] RFC: Ability to suppress 'locale' from sessionInfo,53111,Kasper Daniel Hansen
+053116.html,[Rd] wishlist: change default for units  in print.object_size,53116,Kasper Daniel Hansen
+053163.html,[Rd] Closed-source non-free ParallelR ?,53163, (Ted Harding)
+053200.html,[Rd] Closed-source non-free ParallelR ?,53200, (Ted Harding)
+053175.html,[Rd] License status of CRAN packages,53175,Kurt Hornik
+053177.html,[Rd] License status of CRAN packages,53177,Kurt Hornik
+053007.html,[Rd] HTML help,53007,"Jack (Zhan, Hua Ping)"
+053063.html,[Rd] wish list: automatic package installation,53063,Hiroyuki Kawakatsu
+052936.html,[Rd] Error in par(split.screens[[n]]) : parameter &quot;i&quot; in &quot;mfg&quot; is out of range,52936,Dan Kelley
+052939.html,[Rd] Error in par(split.screens[[n]]) : parameter &quot;i&quot; in &quot;mfg&quot; is out of range,52939,Dan Kelley
+052940.html,[Rd]  split.screen bug and patch,52940,Dan Kelley
+053084.html,[Rd]  R CMD check dislikes .git directories,53084,Dan Kelley
+053087.html,[Rd] R CMD check dislikes .git directories,53087,Dan Kelley
+052989.html,[Rd]  BUG in RODBC() on Ubuntu 64amd : rows_at_time=1024,52989,Ken-JP
+053071.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53071,Max Kuhn
+053154.html,[Rd] Closed-source non-free ParallelR ?,53154,Max Kuhn
+053228.html,[Rd] link to latest package announcements,53228,Max Kuhn
+052895.html,[Rd] duplicated.data.frame {was &quot;[R] which rows are	duplicates?&quot;},52895,Wacek Kusnierczyk
+052897.html,[Rd] [R] variance/mean,52897,Wacek Kusnierczyk
+052898.html,[Rd] Gamma funtion(s) bug,52898,Wacek Kusnierczyk
+052907.html,[Rd] Assignment to string,52907,Wacek Kusnierczyk
+052912.html,[Rd] [R] Definition of = vs. &lt;-,52912,Wacek Kusnierczyk
+052913.html,[Rd] [R] Definition of = vs. &lt;-,52913,Wacek Kusnierczyk
+052915.html,[Rd] Assignment to string,52915,Wacek Kusnierczyk
+052920.html,[Rd] actual argument matching does not conform to the definition (PR#13634),52920,Wacek Kusnierczyk
+053077.html,[Rd] sprintf limits output string length with no warning/error	message,53077,Wacek Kusnierczyk
+053122.html,[Rd] incorrect output and segfaults from sprintf with	%*d	(PR#13667),53122,Wacek Kusnierczyk
+053174.html,[Rd] incorrect output and segfaults from sprintf with	%*d	(PR#13667),53174,Wacek Kusnierczyk
+053217.html,[Rd] incorrect output and segfaults from sprintf with	%*d	(PR#13667),53217,Wacek Kusnierczyk
+053232.html,[Rd] Some extensions to class inheritance and method selection,53232,Wacek Kusnierczyk
+052910.html,[Rd] RGoogleDocs so close but errors with spreadsheet reading,52910,Duncan Temple Lang
+053241.html,"[Rd] unexpected behavior of rpart 3.1-43, loss matrix",53241,Lars
+053076.html,[Rd] terminating R code evalutation asynchronously,53076,Christian Ledergerber
+053094.html,[Rd] RFC: Ability to suppress 'locale' from sessionInfo,53094,Friedrich Leisch
+053131.html,[Rd] RFC: Ability to suppress 'locale' from sessionInfo,53131,Friedrich Leisch
+053141.html,[Rd] Closed-source non-free ParallelR ?,53141,Friedrich Leisch
+053230.html,[Rd] link to latest package announcements,53230,Friedrich Leisch
+052916.html,[Rd] Compiler options for Makefile.win,52916,Uwe Ligges
+052969.html,[Rd] Package (PR#13475),52969,Uwe Ligges
+053169.html,[Rd] memory.limit(): Typo in Windows NEWS and function returns a	&quot;disregarded&quot; error,53169,Uwe Ligges
+052893.html,[Rd] 'sep' argument in reshape(),52893,Thomas Lumley
+052901.html,[Rd] Possible bug in summary.survfit - 'scale' argument ignored?,52901,Thomas Lumley
+052918.html,[Rd] actual argument matching does not conform to the definition (PR#13634),52918,Thomas Lumley
+052970.html,[Rd] Wishlist: timeout detection (was Package (PR#13475)),52970,Thomas Lumley
+052993.html,"[Rd] using Sweave, how to save a plot in a given size",52993,Lore M
+052994.html,"[Rd] using Sweave, how to save a plot in a given size",52994,Lore M
+052903.html,[Rd] Assignment to string,52903,Stavros Macrakis
+052906.html,[Rd] Assignment to string,52906,Stavros Macrakis
+052911.html,[Rd] Assignment to string,52911,Stavros Macrakis
+053028.html,[Rd] Using trace,53028,Stavros Macrakis
+053117.html,[Rd] 'is.integer' (PR#13671),53117,Stavros Macrakis
+053137.html,[Rd] Closed-source non-free ParallelR ?,53137,Stavros Macrakis
+053147.html,[Rd] Closed-source non-free ParallelR ?,53147,Stavros Macrakis
+053162.html,[Rd] Closed-source non-free ParallelR ?,53162,Stavros Macrakis
+053184.html,[Rd] Closed-source non-free ParallelR ?,53184,Stavros Macrakis
+053202.html,[Rd] Closed-source non-free ParallelR ?,53202,Stavros Macrakis
+053229.html,[Rd] Some extensions to class inheritance and method selection,53229,Stavros Macrakis
+052890.html,[Rd] duplicated.data.frame {was &quot;[R] which rows are	duplicates?&quot;},52890,Martin Maechler
+052891.html,[Rd] 'sep' argument in reshape(),52891,Martin Maechler
+052892.html,[Rd] Gamma funtion(s) bug,52892,Martin Maechler
+052894.html,[Rd] [R] variance/mean,52894,Martin Maechler
+052997.html,"[Rd] should sub(perl=TRUE) also handle \E in replacement,	to complement \U and \L?",52997,Martin Maechler
+053056.html,[Rd] dotplot in a loop,53056,Martin Maechler
+053074.html,[Rd] print.closure at the R level,53074,Martin Maechler
+053080.html,[Rd] print.closure at the R level,53080,Martin Maechler
+053096.html,[Rd] RFC: Ability to suppress 'locale' from sessionInfo,53096,Martin Maechler
+053109.html,"[Rd] reversing xlim, ylim in smoothScatter",53109,Martin Maechler
+053120.html,[Rd] 'is.integer' (PR#13671),53120,Martin Maechler
+053121.html,[Rd] 'is.integer' (PR#13671),53121,Martin Maechler
+053220.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53220,Martin Maechler
+053079.html,[Rd] Sharing variables in seperate workspace,53079,Martin Morgan
+052925.html,[Rd] what is the preferred method to create a package	local	variable?,52925,Duncan Murdoch
+052926.html,[Rd] what is the preferred method to create a package	local	variable?,52926,Duncan Murdoch
+052979.html,[Rd] data argument and environments,52979,Duncan Murdoch
+052981.html,[Rd] data argument and environments,52981,Duncan Murdoch
+052991.html,[Rd] Rgui bug (PR#13654),52991,Duncan Murdoch
+053019.html,[Rd] Error in .readRDS(nsInfoFilePath) : unknown input format (PR#13659),53019,Duncan Murdoch
+053030.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53030,Duncan Murdoch
+053032.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53032,Duncan Murdoch
+053035.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53035,Duncan Murdoch
+053037.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53037,Duncan Murdoch
+053040.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53040,Duncan Murdoch
+053054.html,[Rd] print.closure at the R level,53054,Duncan Murdoch
+053085.html,[Rd] R CMD check dislikes .git directories,53085,Duncan Murdoch
+053086.html,[Rd] R CMD check dislikes .git directories,53086,Duncan Murdoch
+053088.html,[Rd] R CMD check dislikes .git directories,53088,Duncan Murdoch
+053090.html,[Rd] R CMD check dislikes .git directories,53090,Duncan Murdoch
+053173.html,[Rd] memory.limit(): Typo in Windows NEWS and function returns a	&quot;disregarded&quot; error,53173,Duncan Murdoch
+053213.html,[Rd] small typo in &quot;CHANGES IN R VERSION 2.9.0&quot;,53213,Duncan Murdoch
+053008.html,[Rd] Automatic Differentiation for R,53008,John C Nash
+053014.html,[Rd] (Not quite) Automatic Differentiation,53014,John C Nash
+053198.html,[Rd] Error in X11() : X11 module cannot be loaded,53198,Petr Novak
+053015.html,[Rd] How can I catch errors thrown from c via the Rcpp error()	function?,53015,Kieran O'Neill
+053026.html,[Rd] How can I catch errors thrown from c via the Rcpperror() function?,53026,Kieran O'Neill
+053073.html,[Rd] bug in classesToAM(),53073,Herv&#233; Pag&#232;s
+053212.html,[Rd] small typo in &quot;CHANGES IN R VERSION 2.9.0&quot;,53212,Henrik Parn
+052923.html,[Rd] what is the preferred method to create a package local	variable?,52923,Roger Peng
+053168.html,[Rd] memory.limit(): Typo in Windows NEWS and function returns a	&quot;disregarded&quot; error,53168,"Pfaff, Bernhard Dr."
+053075.html,[Rd] Sharing variables in seperate workspace,53075,Philip
+053081.html,[Rd] Sharing variables in seperate workspace,53081,Philip
+052899.html,[Rd] License question (RUnit),52899,Pierre-Yves
+053179.html,[Rd] Closed-source non-free ParallelR ?,53179,Andrew Piskorski
+052962.html,[Rd] how to add a target to the Make that R CMD check uses for running tests?,52962,Tony Plate
+053118.html,[Rd] 'is.integer' (PR#13671),53118,Tony Plate
+053130.html,[Rd] Suggestion for changing r-project.org webpage text around bug reporting (was Re: 'is.integer' (PR#13671)),53130,Tony Plate
+052976.html,[Rd] type.convert (PR#13646),52976,"Raberger, Stefan"
+052977.html,[Rd] type.convert (PR#13646),52977,"Raberger, Stefan"
+052930.html,[Rd] Hello! I got error in C - R,52930,Mathieu Ribatet
+053115.html,[Rd] 'is.integer' (PR#13671),53115,Mathieu Ribatet
+052957.html,[Rd] history function does not work correctly (PR#13645),52957,Prof Brian Ripley
+053100.html,[Rd] Clarification for options(OutDec),53100,Prof Brian Ripley
+053188.html,[Rd] Managing DLLs with the same names in an R session,53188,Prof Brian Ripley
+052900.html,[Rd] Typo in the documentation of model.extract()?,52900,Christian Ritz
+053034.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53034,Christian Ritz
+053067.html,[Rd] ave returns wrong data type (PR#13664),53067,Dimitris Rizopoulos
+052896.html,[Rd] Wishlist: optional svn-revision number tag in package DESCRIPTION file,52896,Peter Ruckdeschel
+053204.html,[Rd] Closed-source non-free ParallelR ?,53204,Deepayan Sarkar
+053119.html,[Rd] 'is.integer' (PR#13671),53119,Petr Savicky
+053124.html,[Rd] 'is.integer' (PR#13671),53124,Petr Savicky
+052934.html,[Rd] Possible bug in summary.survfit - 'scale' argument ignored?,52934,Marc Schwartz
+052958.html,[Rd] Possible bug in summary.survfit - 'scale' argument ignored?,52958,Marc Schwartz
+053102.html,[Rd] [R] bug when subtracting decimals?,53102,Marc Schwartz
+053140.html,[Rd] Closed-source non-free ParallelR ?,53140,Marc Schwartz
+053149.html,[Rd] License status of CRAN packages,53149,Marc Schwartz
+053158.html,[Rd] Closed-source non-free ParallelR ?,53158,Marc Schwartz
+053171.html,[Rd] Closed-source non-free ParallelR ?,53171,Marc Schwartz
+052933.html,[Rd] Problem building DLL under Windows,52933,Jon Senior
+052937.html,[Rd] Problem building DLL under Windows,52937,Jon Senior
+053104.html,[Rd] Closed-source non-free ParallelR ?,53104,Patrick Shields
+052984.html,[Rd] Simple class with an automatic printing issue,52984,Tom Short
+052988.html,[Rd] Simple class with an automatic printing issue,52988,Tom Short
+053156.html,[Rd] Closed-source non-free ParallelR ?,53156,Fraser Sim
+053136.html,[Rd] Closed-source non-free ParallelR ?,53136,"Sim, Fraser"
+053105.html,[Rd] Closed-source non-free ParallelR ?,53105,David M Smith
+053208.html,[Rd] About ParallelR and licensing of packages,53208,David M Smith
+053165.html,[Rd] License status of CRAN packages,53165,Greg Snow
+052998.html,[Rd] Problem cross-compiling on Ubuntu,52998,Harry Southworth
+053000.html,[Rd] Problem cross-compiling on Ubuntu,53000,Harry Southworth
+053003.html,[Rd] Problem cross-compiling on Ubuntu,53003,Harry Southworth
+053070.html,[Rd] Problems building R 2.9.0... on SGI and Sun once again,53070,Atro Tossavainen
+053225.html,[Rd] Problems building R 2.9.0... on SGI and Sun once again,53225,Atro Tossavainen
+053210.html,[Rd] Patch proposal for logspace_sub,53210,Berwin A Turlach
+053113.html,[Rd] 'is.integer' (PR#13671),53113,Josh Ulrich
+052887.html,[Rd] Compile R Library with GCC garbage collection on or	supported,52887,Simon Urbanek
+052902.html,[Rd] R in standalone application,52902,Simon Urbanek
+052904.html,[Rd] Assignment to string,52904,Simon Urbanek
+052935.html,[Rd] Problem building DLL under Windows,52935,Simon Urbanek
+052947.html,"[Rd] RJava question(class not found with rJava's vm,	though found with 	alternate vm)",52947,Simon Urbanek
+053001.html,[Rd] Problem cross-compiling on Ubuntu,53001,Simon Urbanek
+053005.html,[Rd] R console freezes after several runs of compiled C code,53005,Simon Urbanek
+053010.html,[Rd] HTML help,53010,Simon Urbanek
+053064.html,[Rd] export C++ array to R,53064,Simon Urbanek
+053199.html,[Rd] R build fails during make when configured with	&quot;--with-x=no&quot; (PR#13665),53199,Simon Urbanek
+053201.html,[Rd] Closed-source non-free ParallelR ?,53201,Simon Urbanek
+053227.html,[Rd] Problems building R 2.9.0... on SGI and Sun once again,53227,Simon Urbanek
+052965.html,[Rd] &quot;master&quot; vignette,52965,Tobias Verbeke
+053047.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53047,Tobias Verbeke
+053049.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53049,Tobias Verbeke
+053095.html,[Rd] RFC: Ability to suppress 'locale' from sessionInfo,53095,Tobias Verbeke
+053091.html,[Rd] RFC: Ability to suppress 'locale' from sessionInfo,53091,Kevin W
+052886.html,[Rd] 'sep' argument in reshape(),52886,Stephen Weigand
+053004.html,[Rd] R console freezes after several runs of compiled C code,53004,Xiangyang Ye
+053006.html,[Rd] R console freezes after several runs of compiled C code,53006,Xiangyang Ye
+053133.html,[Rd] 'is.integer' (PR#13671),53133,Mauricio Zambrano
+053055.html,[Rd] dotplot in a loop,53055,Qifei Zhu
+053057.html,[Rd] dotplot in a loop,53057,Qifei Zhu
+052956.html,[Rd] history function does not work correctly (PR#13645),52956,jadler at alum.mit.edu
+052952.html,[Rd] 'R CMD build --binary BUNDLE' and Windows,52952,coco at badsberg.eu
+052995.html,[Rd] 'R CMD build --binary BUNDLE' and Windows,52995,jens.henrik at badsberg.eu
+053069.html,[Rd] R build fails during make when configured with	&quot;--with-x=no&quot; (PR#13666),53069,P.Dalgaard at biostat.ku.dk
+052973.html,[Rd] type.convert (PR#13646),52973,p.dalgaard at biostat.ku.dk
+053065.html,[Rd] ave returns wrong data type (PR#13664),53065,brenbarn at brenbarn.net
+052927.html,[Rd] Compiler options for Makefile.win,52927,cstrato
+052928.html,[Rd] Compiler options for Makefile.win,52928,cstrato
+053236.html,[Rd] problems installing rjags | tcltk,53236,egc
+053237.html,[Rd] [Fwd:  problems installing rjags | tcltk],53237,egc
+053238.html,[Rd] [Fwd:  problems installing rjags | tcltk],53238,egc
+053106.html,[Rd] make fails when using with-x=no on linux CentOS 5.3 (PR#13670),53106,delhomme at embl.de
+053021.html,[Rd] R (2.9.0 rc) CMD INSTALL will leave OOLOCK folder even if installation succeeded,53021,ml-it-r-devel at epigenomics.com
+052960.html,[Rd] bug/suggestion: debugger should respect option	&quot;deparse.max.lines&quot; when printing the call (PR#13647),52960,jbrzusto at fastmail.fm
+052964.html,[Rd] corrected patch: debugger should respect deparse.max.lines	(PR#13648),52964,jbrzusto at fastmail.fm
+053050.html,[Rd] bug in classesToAM(),53050,hpages at fhcrc.org
+053110.html,[Rd] 'is.integer' (PR#13671),53110,hzambran.newsgroups at gmail.com
+053093.html,[Rd] build-aux missing in 2.9.0 packages (PR#13668),53093,michael.m.spiegel at gmail.com
+053209.html,[Rd] memory.limit returns error (PR#13678),53209,cyrix333 at gmx.net
+052921.html,[Rd] actual argument matching does not conform to the	definition (PR#13636),52921,Waclaw.Marcin.Kusnierczyk at idi.ntnu.no
+053125.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53125,Waclaw.Marcin.Kusnierczyk at idi.ntnu.no
+053196.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53196,Waclaw.Marcin.Kusnierczyk at idi.ntnu.no
+053216.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53216,Waclaw.Marcin.Kusnierczyk at idi.ntnu.no
+052914.html,[Rd] actual argument matching does not conform to the definition	(PR#13634),52914,waku at idi.ntnu.no
+053078.html,[Rd] incorrect output and segfaults from sprintf with %*d (PR#13667),53078,waku at idi.ntnu.no
+052961.html,[Rd] type.convert (PR#13646),52961,s.raberger at innovest.at
+053082.html,[Rd]  Patch for tk/GUI,53082,jdeisenberg
+052978.html,[Rd] data argument and environments,52978,roger koenker
+052980.html,[Rd] data argument and environments,52980,roger koenker
+052983.html,[Rd] data argument and environments,52983,roger koenker
+053066.html,[Rd] R build fails during make when configured with &quot;--with-x=no&quot;	(PR#13665),53066,jeet at ku.edu
+053012.html,[Rd] HTML help,53012,mnorton52
+053233.html,[Rd] Linux Huge R/lib64/R/doc/html/search/index.txt (PR#13683),53233,bef at northwestern.edu
+052942.html,[Rd] summary for negative binomial GLMs (PR#13640),52942,kushler at oakland.edu
+053197.html,[Rd] Closed-source non-free ParallelR ?,53197,pax131
+052986.html,[Rd] dnbinom with a large size parameter (PR#13650),52986,4ap1 at queensu.ca
+052931.html,[Rd] Problem with LD_LIBRARY_PATH setting in ldpaths (PR#13637),52931,meyer at rice.edu
+053031.html,[Rd] suggestion for R &gt;= 3.0: computer-readable CHANGELOG,53031,ronggui
+052932.html,[Rd] actual argument matching does not conform to the	definition (PR#13634),52932,maechler at stat.math.ethz.ch
+053103.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53103,maechler at stat.math.ethz.ch
+053123.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53123,maechler at stat.math.ethz.ch
+053127.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53127,maechler at stat.math.ethz.ch
+053129.html,[Rd] matplot does not considere the parametre lend (PR#13619),53129,maechler at stat.math.ethz.ch
+053170.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53170,maechler at stat.math.ethz.ch
+053194.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13675),53194,maechler at stat.math.ethz.ch
+053214.html,[Rd] incorrect output and segfaults from sprintf with %*d	(PR#13667),53214,maechler at stat.math.ethz.ch
+053224.html,[Rd] printCoefmat() with all-zero first column (PR#13677),53224,maechler at stat.math.ethz.ch
+052929.html,[Rd] Hello! I got error in C - R,52929,kentjin at stat.tamu.edu
+053024.html,[Rd] How can I catch errors thrown from c via the	Rcpperror() function?,53024,luke at stat.uiowa.edu
+053033.html,[Rd] How can I catch errors thrown from c via	the Rcpperror()function?,53033,luke at stat.uiowa.edu
+053142.html,[Rd] reference counting problem in .Primitive's?,53142,luke at stat.uiowa.edu
+053161.html,[Rd] reference counting problem in .Primitive's?,53161,luke at stat.uiowa.edu
+053211.html,[Rd] memory.limit returns error (PR#13678),53211,ligges at statistik.tu-dortmund.de
+053020.html,[Rd] Error in .readRDS(nsInfoFilePath) : unknown input format	(PR#13660),53020,murdoch at stats.uwo.ca
+053097.html,[Rd] Installation fails (PR#13669),53097,Dieter.Kadelka at stoch.uni-karlsruhe.de
+052974.html,[Rd] type.convert (PR#13646),52974,wdunlap at tibco.com
+052919.html,[Rd] actual argument matching does not conform to the	definition (PR#13635),52919,tlumley at u.washington.edu
+053195.html,[Rd] printCoefmat() with all-zero first column (PR#13677),53195,tlumley at u.washington.edu
+053234.html,[Rd] crash after using graphics in Rcmdr (PR#13679),53234,nhepburn at ualberta.ca
+053017.html,[Rd] incorrect handling of NAs by na.action with lmList (package	nlme) (PR#13658),53017,charles.beaudette at usherbrooke.ca
+053018.html,[Rd] Error in .readRDS(nsInfoFilePath) : unknown input format	(PR#13659),53018,j.w.a.jansen at uu.nl
+053167.html,[Rd] memory.limit returns error (not present in 2.8.) (PR#13673),53167,francisco at voseconsulting.com
+053061.html,[Rd]  export C++ array to R,53061,whizvast
+053089.html,[Rd] R CMD check dislikes .git directories,53089,hadley wickham
+053108.html,[Rd] Closed-source non-free ParallelR ?,53108,hadley wickham
+053126.html,[Rd] 'is.integer' (PR#13671),53126,hadley wickham
+052990.html,[Rd] Rgui bug (PR#13654),52990,zhlong8 at yeah.net

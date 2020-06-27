@@ -1,0 +1,134 @@
+link,Subject,id,author
+072515.html,[Rd] documentation / warning when passing a vector as lower/upper	bound in stats::integrate(),72515,Baptiste Auguie
+072391.html,[Rd] Milestone: 8000 packages on CRAN,72391,Henrik Bengtsson
+072465.html,[Rd] formals(x)&lt;- drops attributes including class,72465,Henrik Bengtsson
+072399.html,[Rd] *tiny* inaccuracy in ?dbinom,72399,Ben Bolker
+072507.html,[Rd] trivial typo in ?colorRampPalette,72507,Ben Bolker
+072500.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72500,Steve Bronder
+072501.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72501,Steve Bronder
+072418.html,[Rd] ALLOCATE in a FORTRAN subroutine,72418,Martyn Byng
+072430.html,[Rd] ALLOCATE in a FORTRAN subroutine,72430,Martyn Byng
+072389.html,[Rd] Milestone: 8000 packages on CRAN,72389,Gergely Dar&#243;czi
+072482.html,[Rd] keepNA in nchar and nzchar,72482,William Dunlap
+072398.html,[Rd] install.packages() fails with drat repository on	networkdrive,72398,Dirk Eddelbuettel
+072404.html,[Rd] R 3.2.4 rc issue,72404,Dirk Eddelbuettel
+072411.html,[Rd] R 3.2.4 rc issue,72411,Dirk Eddelbuettel
+072426.html,[Rd] R 3.2.4 rc issue,72426,Dirk Eddelbuettel
+072450.html,[Rd] Problem building R-3.2.4,72450,Dirk Eddelbuettel
+072402.html,[Rd] as.vector in R-devel loaded 3/3/2016,72402,Jeff Laake - NOAA Federal
+072403.html,[Rd] as.vector in R-devel loaded 3/3/2016,72403,Jeff Laake - NOAA Federal
+072412.html,[Rd] as.vector in R-devel loaded 3/3/2016,72412,Jeff Laake - NOAA Federal
+072400.html,[Rd] Ubuntu console weird behaviour,72400,Renaud Gaujoux
+072487.html,[Rd] for in r-devel,72487,Gabor Grothendieck
+072499.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72499,Kasper Daniel Hansen
+072431.html,[Rd] ALLOCATE in a FORTRAN subroutine,72431,Berend Hasselman
+072432.html,[Rd] ALLOCATE in a FORTRAN subroutine,72432,Berend Hasselman
+072455.html,[Rd] rmultinom.c error probability not sum to 1,72455,Berend Hasselman
+072496.html,[Rd] R Memory Management,72496,Alfonso Izzo
+072447.html,[Rd] Problem building R-3.2.4,72447,Mick Jordan
+072451.html,[Rd] Problem building R-3.2.4,72451,Mick Jordan
+072458.html,[Rd] Regression in strptime,72458,Mick Jordan
+072459.html,[Rd] R-3.2.4 Mac/Linux different in &lt; on characters,72459,Mick Jordan
+072460.html,[Rd] R-3.2.4 Mac/Linux different in &lt; on characters,72460,Mick Jordan
+072463.html,[Rd] Regression in strptime,72463,Mick Jordan
+072467.html,[Rd] Help with libiconv problem,72467,Mick Jordan
+072469.html,[Rd] Help with libiconv problem,72469,Mick Jordan
+072478.html,[Rd] Regression in strptime,72478,Mick Jordan
+072510.html,[Rd] sys.function(0),72510,Mick Jordan
+072512.html,[Rd] sys.function(0),72512,Mick Jordan
+072519.html,[Rd] reg-tests-1a fails with r70391,72519,Hiroyuki Kawakatsu
+072488.html,[Rd] for in r-devel,72488,Michael Lawrence
+072490.html,[Rd] unary class union of an S3 class,72490,Michael Lawrence
+072492.html,[Rd] unary class union of an S3 class,72492,Michael Lawrence
+072494.html,[Rd] unary class union of an S3 class,72494,Michael Lawrence
+072392.html,[Rd] Data frame printing buglet when multiple empty column names,72392,Martin Maechler
+072397.html,[Rd] [patch] Support many columns in model.matrix,72397,Martin Maechler
+072407.html,[Rd] as.vector in R-devel loaded 3/3/2016,72407,Martin Maechler
+072413.html,[Rd] as.vector in R-devel loaded 3/3/2016,72413,Martin Maechler
+072429.html,[Rd] body(NULL) &lt;- something;  ditto formals() -- should not work,72429,Martin Maechler
+072471.html,[Rd] Regression in strptime,72471,Martin Maechler
+072480.html,[Rd] Regression in strptime,72480,Martin Maechler
+072498.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72498,Martin Maechler
+072513.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72513,Martin Maechler
+072518.html,[Rd] body(NULL) &lt;- something; ditto formals() -- should not work,72518,Martin Maechler
+072520.html,[Rd] reg-tests-1a fails with r70391,72520,Martin Maechler
+072521.html,[Rd] documentation / warning when passing a vector as	lower/upper	bound in stats::integrate(),72521,Martin Maechler
+072410.html,[Rd] as.vector in R-devel loaded 3/3/2016,72410,"Morgan, Martin"
+072419.html,[Rd] vignette index,72419,"Morgan, Martin"
+072409.html,[Rd] ALLOCATE in a FORTRAN subroutine,72409,Duncan Murdoch
+072416.html,[Rd] vignette index,72416,Duncan Murdoch
+072420.html,[Rd] vignette index,72420,Duncan Murdoch
+072443.html,[Rd] getParseData() for installed packages,72443,Duncan Murdoch
+072445.html,[Rd] getParseData() for installed packages,72445,Duncan Murdoch
+072452.html,[Rd] Problem building R-3.2.4,72452,Duncan Murdoch
+072466.html,[Rd] formals(x)&lt;- drops attributes including class,72466,Duncan Murdoch
+072486.html,[Rd] formatting of complex matrix,72486,Duncan Murdoch
+072497.html,[Rd] R Memory Management,72497,Duncan Murdoch
+072508.html,[Rd] trivial typo in ?colorRampPalette,72508,Duncan Murdoch
+072433.html,[Rd] Could unit.list() from grid package be made an exported function?,72433,Paul Murrell
+072434.html,[Rd] Could unit.list() from grid package be made an exported function?,72434,Paul Murrell
+072439.html,[Rd] Could unit.list() from grid package be made an exported function?,72439,Paul Murrell
+072470.html,[Rd] [FORGED] Different results based on the order of arguments to par,72470,Paul Murrell
+072476.html,[Rd] [FORGED] Different results based on the order of arguments to par,72476,Paul Murrell
+072442.html,[Rd] getParseData() for installed packages,72442,Kirill M&#252;ller
+072444.html,[Rd] getParseData() for installed packages,72444,Kirill M&#252;ller
+072446.html,[Rd] getParseData() for installed packages,72446,Kirill M&#252;ller
+072516.html,[Rd] DESCRIPTION file: Space after colon mandatory?,72516,Kirill M&#252;ller
+072503.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72503,Jari Oksanen
+072505.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72505,Jari Oksanen
+072396.html,[Rd] install.packages() fails with drat repository on networkdrive,72396,Thierry Onkelinx
+072401.html,[Rd] install.packages() fails with drat repository on	networkdrive,72401,Thierry Onkelinx
+072453.html,[Rd] checking https certificates,72453,Jeroen Ooms
+072479.html,"[Rd] print( , right=TRUE) displays the col numbers on the left",72479,Herv&#233; Pag&#232;s
+072483.html,[Rd] match and unique,72483,Herv&#233; Pag&#232;s
+072489.html,[Rd] unary class union of an S3 class,72489,Herv&#233; Pag&#232;s
+072491.html,[Rd] unary class union of an S3 class,72491,Herv&#233; Pag&#232;s
+072493.html,[Rd] unary class union of an S3 class,72493,Herv&#233; Pag&#232;s
+072495.html,[Rd] unary class union of an S3 class,72495,Herv&#233; Pag&#232;s
+072517.html,[Rd] body(NULL) &lt;- something; ditto formals() -- should not work,72517,Herv&#233; Pag&#232;s
+072415.html,[Rd] vignette index,72415,Brian G. Peterson
+072448.html,[Rd] Problem building R-3.2.4,72448,Martyn Plummer
+072468.html,[Rd] Different results based on the order of arguments to par,72468,Greg Snow
+072474.html,[Rd] [FORGED] Different results based on the order of arguments to par,72474,Greg Snow
+072477.html,[Rd] [FORGED] Different results based on the order of arguments to par,72477,Greg Snow
+072472.html,[Rd] Regression in strptime,72472,Lukas Stadler
+072473.html,[Rd] Help with libiconv problem,72473,Lukas Stadler
+072485.html,[Rd] formatting of complex matrix,72485,Lukas Stadler
+072481.html,[Rd] match and unique,72481,"Therneau, Terry M., Ph.D."
+072484.html,[Rd] match and unique,72484,"Therneau, Terry M., Ph.D."
+072506.html,[Rd] library.dynam.unload,72506,"Therneau, Terry M., Ph.D."
+072421.html,[Rd] Problem installing R-devel data 4 March 2016.,72421,Rolf Turner
+072423.html,[Rd] Problem installing R-devel dated 4 March 2016.,72423,Rolf Turner
+072425.html,[Rd] Problem installing R-devel dated 4 March 2016.,72425,Rolf Turner
+072436.html,[Rd] ALLOCATE in a FORTRAN subroutine,72436,Simon Urbanek
+072414.html,[Rd] vignette index,72414,"Wang, Zhu"
+072417.html,[Rd] vignette index,72417,"Wang, Zhu"
+072390.html,[Rd] Data frame printing buglet when multiple empty column names,72390,Hadley Wickham
+072395.html,[Rd] Data frame printing buglet when multiple empty column names,72395,Hadley Wickham
+072427.html,[Rd] Could unit.list() from grid package be made an exported	function?,72427,"Wilke, Claus O"
+072438.html,[Rd] Could unit.list() from grid package be made an exported function?,72438,"Wilke, Claus O"
+072509.html,[Rd] library.dynam.unload,72509,Henric Winell
+072461.html,[Rd] R-3.2.4 Mac/Linux different in &lt; on characters,72461,David Winsemius
+072394.html,[Rd] Source code of early S versions,72394,Achim Zeileis
+072393.html,[Rd] Source code of early S versions,72393,peter dalgaard
+072405.html,[Rd] R 3.2.4 rc issue,72405,peter dalgaard
+072406.html,[Rd] as.vector in R-devel loaded 3/3/2016,72406,peter dalgaard
+072422.html,[Rd] Problem installing R-devel data 4 March 2016.,72422,peter dalgaard
+072424.html,[Rd] Problem installing R-devel dated 4 March 2016.,72424,peter dalgaard
+072441.html,[Rd] rmultinom.c error probability not sum to 1,72441,peter dalgaard
+072449.html,[Rd] Problem building R-3.2.4,72449,peter dalgaard
+072456.html,[Rd] rmultinom.c error probability not sum to 1,72456,peter dalgaard
+072462.html,[Rd] Regression in strptime,72462,peter dalgaard
+072464.html,[Rd] Regression in strptime,72464,peter dalgaard
+072475.html,[Rd] Regression in strptime,72475,peter dalgaard
+072502.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72502,peter dalgaard
+072504.html,"[Rd] summary( prcomp(*, tol = .) ) -- and 'rank.'",72504,peter dalgaard
+072511.html,[Rd] sys.function(0),72511,peter dalgaard
+072514.html,[Rd] sys.function(0),72514,peter dalgaard
+072408.html,[Rd] ALLOCATE in a FORTRAN subroutine,72408,MAURICE Jean - externe
+072428.html,[Rd] ALLOCATE in a FORTRAN subroutine,72428,MAURICE Jean - externe
+072435.html,[Rd] ALLOCATE in a FORTRAN subroutine,72435,MAURICE Jean - externe
+072437.html,[Rd] ALLOCATE in a FORTRAN subroutine,72437,MAURICE Jean - externe
+072440.html,[Rd] rmultinom.c error probability not sum to 1,72440,M.van_Iterson at lumc.nl
+072454.html,[Rd] rmultinom.c error probability not sum to 1,72454,M.van_Iterson at lumc.nl
+072457.html,[Rd] rmultinom.c error probability not sum to 1,72457,M.van_Iterson at lumc.nl

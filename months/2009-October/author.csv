@@ -1,0 +1,368 @@
+link,Subject,id,author
+055386.html,[Rd] Request: bring back windows chm help support (PR#14034),55386,alexios at 4dscape.com
+055147.html,[Rd] R on Google Android,55147,Mikkel Meyer Andersen
+055156.html,[Rd] R on Google Android,55156,Mikkel Meyer Andersen
+055158.html,[Rd] R on Google Android,55158,Mikkel Meyer Andersen
+055162.html,[Rd] unexpected behaviour of isSymmetric() (PR#14000),55162,Douglas Bates
+055295.html,[Rd] Confusion regarding allocating Matrices.,55295,Douglas Bates
+055296.html,[Rd] Confusion regarding allocating Matrices.,55296,Douglas Bates
+055301.html,[Rd] Confusion regarding allocating Matrices.,55301,Douglas Bates
+055014.html,[Rd] creating environments in package's C code,55014,Martin Becker
+055168.html,[Rd] Sweave output encoding in R-2.10.0beta on Windows (Rgui &lt;-&gt;	Rterm),55168,Martin Becker
+055169.html,[Rd] Sweave output encoding in R-2.10.0beta on Windows (Rgui &lt;-&gt;	Rterm),55169,Martin Becker
+055252.html,[Rd] Sweave output encoding in R-2.10.0beta on Windows (Rgui &lt;-&gt;	Rterm),55252,Martin Becker
+055046.html,[Rd] Named backreference in gsub()?,55046,Henrik Bengtsson
+055048.html,[Rd] Named backreference in gsub()?,55048,Henrik Bengtsson
+055049.html,[Rd] Milestone: 2000 packages on CRAN,55049,Henrik Bengtsson
+055214.html,[Rd] Specifying (set of random) port numbers for the help HTML	server (Was: Re: Fixing html help port in 2.10),55214,Henrik Bengtsson
+055215.html,[Rd] R v2.11.0: HTML package index broken(?),55215,Henrik Bengtsson
+055244.html,[Rd] Specifying (set of random) port numbers for the help HTML	server (Was: Re: Fixing html help port in 2.10),55244,Henrik Bengtsson
+055265.html,[Rd] Suggestion for exception handling: More informative error	message for &quot;no applicable method...&quot; (S3),55265,Henrik Bengtsson
+055319.html,"[Rd] Typo in help(parse_Rd, package=&quot;tools&quot;)",55319,Henrik Bengtsson
+055320.html,[Rd] help.start() only recognizes forward slashes in R_LIBS_USER	which is not the default case,55320,Henrik Bengtsson
+055363.html,[Rd] Suggestion for exception handling: More informative error	message for &quot;no applicable method...&quot; (S3),55363,Henrik Bengtsson
+055364.html,[Rd] weighted.mean uses zero when na.rm=TRUE (PR#14032),55364,Henrik Bengtsson
+055294.html,[Rd] Confusion regarding allocating Matrices.,55294,Abhijit Bera
+055299.html,[Rd] Confusion regarding allocating Matrices.,55299,Abhijit Bera
+055302.html,[Rd] Confusion regarding allocating Matrices.,55302,Abhijit Bera
+055342.html,[Rd] Help with lang4,55342,Abhijit Bera
+055343.html,[Rd] Help with lang4,55343,Abhijit Bera
+055279.html,[Rd] trigamma for very large arguments (PR#14020),55279,Jerry.Lewis at BiogenIdec.com
+055154.html,[Rd] Accuracy (PR#13999),55154,Ben Bolker
+055195.html,[Rd] forwarded: bug (?) in cut.POSIXt with &quot;breaks&quot;=integer,55195,Ben Bolker
+055205.html,[Rd] forwarded: bug (?) in cut.POSIXt with &quot;breaks&quot;=integer,55205,Ben Bolker
+055329.html,[Rd] odd evaluation within correlation argument of glmmPQL,55329,Ben Bolker
+055272.html,[Rd] odd evaluation within correlation argument of glmmPQL,55272,"Bolker,Benjamin Michael"
+055288.html,[Rd] mysteriously persistent generic definition,55288,Ross Boylan
+055332.html,[Rd] mysteriously persistent generic definition,55332,Ross Boylan
+055333.html,[Rd] mysteriously persistent generic definition,55333,Ross Boylan
+055078.html,[Rd] how to document stuff most users don't want to see,55078,Patrick Burns
+055093.html,[Rd] how to document stuff most users don't want to see,55093,Patrick Burns
+055185.html,[Rd] typo in nlminb ?,55185,Yohan Chalabi
+055057.html,[Rd] unit testing for R packages?,55057,Blair Christian
+055312.html,[Rd] Segfault reporting: memory not mapped error,55312,Blair Christian
+055077.html,[Rd] unit testing for R packages?,55077,Shane Conway
+055084.html,[Rd] unit testing for R packages?,55084,Shane Conway
+055217.html,[Rd] Goto BLAS,55217,Evan Cooch
+055286.html,[Rd] Goto memory alignment query...,55286,Evan Cooch
+055038.html,[Rd] Compiling with High Performance Fortran,55038,Fabio Mathias Corr&#234;a
+055229.html,[Rd] Fortran with OpenMP,55229,Fabio Mathias Corr&#234;a
+055255.html,[Rd] Changing options in R CMD SHLIB,55255,Fabio Mathias Corr&#234;a
+055259.html,[Rd] Changing options in R CMD SHLIB,55259,Fabio Mathias Corr&#234;a
+055266.html,[Rd] Changing options in R CMD SHLIB,55266,Fabio Mathias Corr&#234;a
+055267.html,[Rd] Changing options in R CMD SHLIB,55267,Fabio Mathias Corr&#234;a
+055271.html,[Rd] Error when compiling code in C,55271,Fabio Mathias Corr&#234;a
+055072.html,[Rd] unit testing for R packages?,55072,Peter Cowan
+055074.html,[Rd] unit testing for R packages?,55074,Peter Cowan
+055023.html,[Rd] Rd.sty question: LaTeX expert needed,55023,G&#225;bor Cs&#225;rdi
+055182.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55182,Peter Dalgaard
+055184.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55184,Peter Dalgaard
+055227.html,[Rd] (PR#14012),55227,Peter Dalgaard
+055306.html,[Rd] reg-tests-1.R failure with unstable,55306,Peter Dalgaard
+055355.html,[Rd] weighted.mean uses zero when na.rm=TRUE (PR#14032),55355,Peter Dalgaard
+055056.html,[Rd] how to document stuff most users don't want to see,55056,William Dunlap
+055100.html,[Rd] how to document stuff most users don't want to see,55100,William Dunlap
+055264.html,[Rd] isFALSE,55264,William Dunlap
+055285.html,[Rd] Error in link in Rd file stops package installation,55285,William Dunlap
+055287.html,[Rd] Error in link in Rd file stops package installation,55287,William Dunlap
+055337.html,[Rd] unable to compile mgcv,55337,William Dunlap
+055339.html,[Rd] unable to compile mgcv,55339,William Dunlap
+055137.html,[Rd] [R-SIG-Mac] rnorm.halton,55137,Christophe Dutang
+055155.html,[Rd] [R-SIG-Mac] rnorm.halton,55155,Christophe Dutang
+055035.html,[Rd] X11 Problems,55035,Dirk Eddelbuettel
+055131.html,[Rd] Errors in installing package &quot;rJava&quot; on Ubuntu (PR#13992),55131,Dirk Eddelbuettel
+055132.html,[Rd] installing any package fails using	'install.packages()'	(PR#13993),55132,Dirk Eddelbuettel
+055133.html,"[Rd] rJava downloads but cannot load,	when I run R as root (PR#13994)",55133,Dirk Eddelbuettel
+055136.html,[Rd] Setting a mirror &quot;permanently&quot; on R on ubuntu (PR#13995),55136,Dirk Eddelbuettel
+055179.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55179,Dirk Eddelbuettel
+055181.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55181,Dirk Eddelbuettel
+055189.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55189,Dirk Eddelbuettel
+055233.html,[Rd] Rscript not returning zero,55233,Dirk Eddelbuettel
+055374.html,"[Rd] Makevars, cc files in multiple directories",55374,Dirk Eddelbuettel
+055039.html,[Rd] lattice's mai/mar analog,55039,Peter Ehlers
+055304.html,[Rd] names drop for columns from data.frame (PR#14002),55304,Peter Ehlers
+055370.html,[Rd] promptMethods() in R-2.10.0,55370,Jay Emerson
+055060.html,[Rd] unit testing for R packages?,55060,Seth Falcon
+055090.html,[Rd] how to document stuff most users don't want to see,55090,Seth Falcon
+055224.html,[Rd] (PR#14012),55224,Seth Falcon
+055344.html,[Rd] Help with lang4,55344,Seth Falcon
+055349.html,[Rd] Help with lang4,55349,Seth Falcon
+055164.html,[Rd] unexpected error steming from print.data.frame,55164,"Fellows, Ian"
+055230.html,[Rd] Rscript not returning zero,55230,Rodrigo Flores
+055177.html,[Rd] unexpected behavior in list of lexical closures (PR#14004),55177,Elliott Forney
+055022.html,[Rd] Rd.sty question: LaTeX expert needed,55022,Romain Francois
+055032.html,[Rd] environment( seq.int ) is NULL,55032,Romain Francois
+055125.html,[Rd] as.matrix.data.frame( Date ) -&gt; character,55125,Romain Francois
+055146.html,[Rd] isFALSE,55146,Romain Francois
+055150.html,"[Rd] help( ., package = variable ) -&gt; error",55150,Romain Francois
+055161.html,[Rd] unexpected behaviour of isSymmetric() (PR#14000),55161,Romain Francois
+055165.html,[Rd] for loop over S4,55165,Romain Francois
+055171.html,[Rd] for loop over S4,55171,Romain Francois
+055172.html,[Rd] for loop over S4,55172,Romain Francois
+055253.html,[Rd] to connect R from ejb,55253,Romain Francois
+055260.html,[Rd] to connect R from ejb,55260,Romain Francois
+055327.html,[Rd] recover and &quot;called from&quot; information,55327,Romain Francois
+055054.html,[Rd] how to document stuff most users don't want to see,55054,Charles Geyer
+055114.html,[Rd] how to document stuff most users don't want to see,55114,Charles Geyer
+055061.html,[Rd] unit testing for R packages?,55061,Paul Gilbert
+055173.html,[Rd] beta build problem,55173,Paul Gilbert
+055188.html,[Rd] news() format,55188,Paul Gilbert
+055193.html,[Rd] R  RSS feed,55193,Paul Gilbert
+055070.html,[Rd] unit testing for R packages?,55070,Philippe Grosjean
+055047.html,[Rd] Named backreference in gsub()?,55047,Gabor Grothendieck
+055220.html,[Rd] forwarded: bug (?) in cut.POSIXt with &quot;breaks&quot;=integer,55220,Gabor Grothendieck
+055225.html,[Rd] (PR#14012),55225,Gabor Grothendieck
+055021.html,[Rd] Value of SET_STRING_ELT() must be a 'CHARSXP' not a	'character' &amp; 'getEncChar' must be called on a CHARSXP,55021,Saptarshi Guha
+055027.html,[Rd] Value of SET_STRING_ELT() must be a 'CHARSXP' not a	'character' &amp; 'getEncChar' must be called on a CHARSXP,55027,Saptarshi Guha
+055347.html,"[Rd] Makevars, cc files in multiple directories",55347,Saptarshi Guha
+055163.html,[Rd] weigths in nls (PR#13991),55163,Kjetil Halvorsen
+055037.html,[Rd] unable to load shared library (Symbol not found:	_PQbackendPID),55037,Jeff Hamann
+055103.html,[Rd] compiling packages without Framework and CoreFoundation	options on OSX,55103,Jeff Hamann
+055036.html,[Rd] suggest enhancement to segments and arrows to facilitate	horizontal and vertical segments,55036,Tim Hesterberg
+055174.html,[Rd]  weigths in nls (PR#13991),55174,Joerg van den Hoff
+055354.html,[Rd] bug in `pmatch' (error with too long 'choices')?,55354,Joerg van den Hoff
+055015.html,[Rd] creating environments in package's C code,55015,Jeff Horner
+055017.html,[Rd] creating environments in package's C code,55017,Jeff Horner
+055024.html,[Rd] creating environments in package's C code,55024,Jeff Horner
+055042.html,[Rd] Because it's Friday. was creating environments in package's C	code,55042,Jeffrey Horner
+055080.html,[Rd] Help file doesn't display correctly,55080,Ronggui Huang
+055085.html,[Rd] Help file doesn't display correctly,55085,Ronggui Huang
+055110.html,[Rd]  R_CallMethodDef: 'type' and 'style' fields?,55110,Steve Jaffe
+055111.html,[Rd]  R_CallMethodDef: 'type' and 'style' fields?,55111,Steve Jaffe
+055119.html,[Rd] R_CallMethodDef: 'type' and 'style' fields?,55119,Steve Jaffe
+055122.html,[Rd] R_CallMethodDef: 'type' and 'style' fields?,55122,Steve Jaffe
+055290.html,[Rd] reg-tests-1.R failure with unstable,55290,Hiroyuki Kawakatsu
+055305.html,[Rd] reg-tests-1.R failure with unstable,55305,Hiroyuki Kawakatsu
+055307.html,[Rd] reg-tests-1.R failure with unstable,55307,Hiroyuki Kawakatsu
+055310.html,[Rd] reg-tests-1.R failure with unstable,55310,Hiroyuki Kawakatsu
+055341.html,[Rd] what should NCOL(NULL) return?,55341,Hiroyuki Kawakatsu
+055102.html,[Rd] Improved Function Information with &lt;TAB&gt; Key,55102,Lee Kelvin
+055109.html,[Rd] Improved Function Information with &lt;TAB&gt; Key,55109,Lee Kelvin
+055187.html,[Rd] Can't locate R/Rdconv.pm in @INC,55187,Grainne Kerr
+055160.html,[Rd] package manual without index? check breaks with - LaTeX errors when creating PDF version.,55160,Robert King
+055357.html,[Rd] evince pdf viewing,55357,Roger Koenker
+055358.html,[Rd] quoted strings in foo.Rd rendered as &#226;,55358,Roger Koenker
+055371.html,[Rd] evince pdf viewing,55371,Roger Koenker
+055372.html,[Rd] quoted strings in foo.Rd rendered as &#226;,55372,Roger Koenker
+055373.html,[Rd] quoted strings in foo.Rd rendered as &#226;,55373,Roger Koenker
+055314.html,[Rd] R CMD check: Error in .C,55314,Etienne Lalibert&#233;
+055322.html,[Rd] R CMD check: Error in .C,55322,Etienne Lalibert&#233;
+055117.html,[Rd] R_CallMethodDef: 'type' and 'style' fields?,55117,Duncan Temple Lang
+055121.html,[Rd] R_CallMethodDef: 'type' and 'style' fields?,55121,Duncan Temple Lang
+055324.html,[Rd] R CMD check: Error in .C,55324,Friedrich Leisch
+055098.html,[Rd] Buglet in qbeta?,55098,Josef Leydold
+055051.html,[Rd] exTremes and ismev (PR#13981),55051,Uwe Ligges
+055183.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55183,Uwe Ligges
+055300.html,[Rd] Advice on how to arrange fix of buglet,55300,Uwe Ligges
+055099.html,[Rd] Buglet in qbeta?,55099,Martin Maechler
+055263.html,[Rd] isFALSE,55263,Martin Maechler
+055280.html,[Rd] R Updates or Changes in corporate version of R,55280,Martin Maechler
+055315.html,[Rd] Advice on how to arrange fix of buglet,55315,Martin Maechler
+055331.html,[Rd] Segfault reporting: memory not mapped error,55331,Martin Maechler
+055206.html,[Rd]  Fixing html help port in 2.10,55206,Dieter Menne
+055210.html,[Rd] Fixing html help port in 2.10,55210,Dieter Menne
+055212.html,[Rd] Fixing html help port in 2.10,55212,Dieter Menne
+055235.html,[Rd] Specifying (set of random) port numbers for the help HTML server (Was: Re: Fixing html help port in 2.10),55235,Dieter Menne
+055013.html,[Rd] Dependency 'sma' is not available,55013,Martin Morgan
+055289.html,[Rd] mysteriously persistent generic definition,55289,Martin Morgan
+055018.html,[Rd] Rd.sty question: LaTeX expert needed,55018,Duncan Murdoch
+055020.html,[Rd] creating environments in package's C code,55020,Duncan Murdoch
+055031.html,[Rd] Dependency 'sma' is not available,55031,Duncan Murdoch
+055033.html,[Rd] environment( seq.int ) is NULL,55033,Duncan Murdoch
+055045.html,[Rd] plotmath documentation (PR#13978),55045,Duncan Murdoch
+055055.html,[Rd] how to document stuff most users don't want to see,55055,Duncan Murdoch
+055059.html,[Rd] unit testing for R packages?,55059,Duncan Murdoch
+055065.html,[Rd] unit testing for R packages?,55065,Duncan Murdoch
+055067.html,[Rd] unit testing for R packages?,55067,Duncan Murdoch
+055081.html,[Rd] Help file doesn't display correctly,55081,Duncan Murdoch
+055088.html,[Rd] Help file doesn't display correctly,55088,Duncan Murdoch
+055095.html,[Rd] how to document stuff most users don't want to see,55095,Duncan Murdoch
+055097.html,[Rd] inconsistency in return value of peaks() {splus2R}	(PR#13988),55097,Duncan Murdoch
+055124.html,[Rd] R-10 alpha windows() bug?,55124,Duncan Murdoch
+055139.html,[Rd] Possible bug in the Rd parser?,55139,Duncan Murdoch
+055141.html,[Rd] Possible bug in the Rd parser?,55141,Duncan Murdoch
+055142.html,[Rd] Possible bug in the Rd parser?,55142,Duncan Murdoch
+055149.html,[Rd] Possible bug in the Rd parser?,55149,Duncan Murdoch
+055170.html,[Rd] unexpected behavior in list of lexical closures (PR#14004),55170,Duncan Murdoch
+055180.html,"[Rd] MASS (and class, nnet, spatial) for R 2.10.0 ?",55180,Duncan Murdoch
+055194.html,[Rd] R  RSS feed,55194,Duncan Murdoch
+055198.html,[Rd] Eigenvalue Bug in &quot;psych&quot; &quot;principal&quot; (PR#14010),55198,Duncan Murdoch
+055201.html,[Rd] R RSS feed,55201,Duncan Murdoch
+055202.html,[Rd] Question when compiling source code with VC++,55202,Duncan Murdoch
+055208.html,[Rd] Fixing html help port in 2.10,55208,Duncan Murdoch
+055221.html,[Rd] linking to package directories broken in R &gt;= 2.10 beta,55221,Duncan Murdoch
+055234.html,[Rd] Specifying (set of random) port numbers for the help HTML server (Was: Re: Fixing html help port in 2.10),55234,Duncan Murdoch
+055236.html,[Rd] Specifying (set of random) port numbers for the help HTML server (Was: Re: Fixing html help port in 2.10),55236,Duncan Murdoch
+055237.html,[Rd] linking to package directories broken in R &gt;= 2.10 beta,55237,Duncan Murdoch
+055239.html,[Rd] linking to package directories broken in R &gt;= 2.10 beta,55239,Duncan Murdoch
+055241.html,[Rd] Bug with .First  in R 2.10,55241,Duncan Murdoch
+055254.html,[Rd] Bug with .First  in R 2.10,55254,Duncan Murdoch
+055262.html,[Rd] Bug with .First  in R 2.10,55262,Duncan Murdoch
+055282.html,[Rd] source and textConnection,55282,Duncan Murdoch
+055292.html,[Rd] Error in link in Rd file stops package installation,55292,Duncan Murdoch
+055293.html,[Rd] source and textConnection,55293,Duncan Murdoch
+055298.html,[Rd] source and textConnection,55298,Duncan Murdoch
+055316.html,[Rd] R CMD check: Error in .C,55316,Duncan Murdoch
+055321.html,"[Rd] Typo in help(parse_Rd, package=&quot;tools&quot;)",55321,Duncan Murdoch
+055325.html,[Rd] Me or a bug? Package Install does not unzip (PR#14026),55325,Duncan Murdoch
+055334.html,[Rd] mysteriously persistent generic definition,55334,Duncan Murdoch
+055345.html,[Rd] Help with lang4,55345,Duncan Murdoch
+055361.html,[Rd] parse_Rd and/or lazyload problem,55361,Duncan Murdoch
+055366.html,[Rd] parse_Rd and/or lazyload problem,55366,Duncan Murdoch
+055268.html,[Rd] Buglet in optim() SANN,55268,Prof. John C Nash
+055283.html,[Rd] Advice on how to arrange fix of buglet,55283,Prof. John C Nash
+055313.html,[Rd] Buglet in optim() SANN,55313,Prof. John C Nash
+055250.html,[Rd] source and textConnection,55250,Erich Neuwirth
+055281.html,[Rd] source and textConnection,55281,Erich Neuwirth
+055087.html,[Rd] how to document stuff most users don't want to see,55087,Sean O'Riordain
+055041.html,[Rd]  Multicore bootstrap,55041,Jeroen Ooms
+055330.html,[Rd] inaccurate integer conversion in coercion,55330,Herv&#233; Pag&#232;s
+055218.html,[Rd] linking to package directories broken in R &gt;= 2.10 beta,55218,Thomas Petzoldt
+055222.html,[Rd] linking to package directories broken in R &gt;= 2.10 beta,55222,Thomas Petzoldt
+055238.html,[Rd] linking to package directories broken in R &gt;= 2.10 beta,55238,Thomas Petzoldt
+055246.html,[Rd] linking to package directories is NOT broken in R &gt;= 2.10 beta,55246,Thomas Petzoldt
+055064.html,[Rd] R's --enable-threads does nothing?; gdb needs -lpthread,55064,Andrew Piskorski
+055123.html,[Rd] weigths in nls (PR#13991),55123,Tony Plate
+055346.html,[Rd] what should NCOL(NULL) return?,55346,Tony Plate
+055356.html,[Rd] bug in `pmatch' (error with too long 'choices')?,55356,Tony Plate
+055116.html,"[Rd] Make error, fails to install  base packages (e.g., 'method')",55116,Daniel Reidpath
+055126.html,[Rd] Possible bug in the Rd parser?,55126,Mathieu Ribatet
+055148.html,[Rd] Possible bug in the Rd parser?,55148,Mathieu Ribatet
+055317.html,[Rd] R CMD check: Error in .C,55317,Mathieu Ribatet
+055052.html,[Rd] suggest enhancement to segments and arrows to facilitate horizontal and vertical segments,55052,Prof Brian Ripley
+055053.html,[Rd] R 2.9.2 crashes when sorting latin1-encoded strings,55053,Prof Brian Ripley
+055076.html,[Rd] R's --enable-threads does nothing?; gdb needs -lpthread,55076,Prof Brian Ripley
+055082.html,[Rd] Help file doesn't display correctly,55082,Prof Brian Ripley
+055086.html,[Rd] Help file doesn't display correctly,55086,Prof Brian Ripley
+055094.html,[Rd] Bug (PR#13987),55094,Prof Brian Ripley
+055105.html,[Rd] (PR#13957) Reading clipboard with read.delim(&quot;clipboard&quot;) crash,55105,Prof Brian Ripley
+055151.html,[Rd] Possible bug in the Rd parser?,55151,Prof Brian Ripley
+055175.html,[Rd] beta build problem,55175,Prof Brian Ripley
+055223.html,[Rd] linking to package directories is NOT broken in R &gt;= 2.10 beta,55223,Prof Brian Ripley
+055228.html,[Rd] (PR#14012),55228,Prof Brian Ripley
+055231.html,[Rd] Rscript not returning zero,55231,Prof Brian Ripley
+055249.html,[Rd] Use of lm on polynomial models (PR#14014),55249,Prof Brian Ripley
+055251.html,[Rd] Use of lm on polynomial models (PR#14014),55251,Prof Brian Ripley
+055256.html,[Rd] Changing options in R CMD SHLIB,55256,Prof Brian Ripley
+055308.html,[Rd] reg-tests-1.R failure with unstable,55308,Prof Brian Ripley
+055309.html,[Rd] Buglet in optim() SANN,55309,Prof Brian Ripley
+055311.html,[Rd] reg-tests-1.R failure with unstable,55311,Prof Brian Ripley
+055359.html,[Rd] quoted strings in foo.Rd rendered as &#226;,55359,Prof Brian Ripley
+055360.html,[Rd] evince pdf viewing,55360,Prof Brian Ripley
+055367.html,[Rd] quoted strings in foo.Rd rendered as &#226;,55367,Prof Brian Ripley
+055375.html,"[Rd] unable to compile RODBC (R 2.9.2, AIX)",55375,Prof Brian Ripley
+055348.html,"[Rd] Makevars, cc files in multiple directories",55348,Paul Roebuck
+055107.html,[Rd] [not extremely urgent:] modifiying messages on overriding implicit S4 generics + intended maskings,55107,Peter Ruckdeschel
+055216.html,[Rd] forwarded: bug (?) in cut.POSIXt with &quot;breaks&quot;=integer,55216,Vitalie S.
+055269.html,[Rd] Problem/anomalous behavior with image() function (and	ReadImages?),55269,Dominick Samperi
+055270.html,[Rd] Problem/anomalous behavior with image() function	(and	ReadImages?),55270,Dominick Samperi
+055104.html,[Rd] Improved Function Information with &lt;TAB&gt; Key,55104,Deepayan Sarkar
+055112.html,[Rd] Improved Function Information with &lt;TAB&gt; Key,55112,Deepayan Sarkar
+055029.html,[Rd] Windows Laptop specification query,55029,Keith Satterley
+055365.html,[Rd] evince pdf viewing,55365,Marc Schwartz
+055376.html,"[Rd] unable to compile RODBC (R 2.9.2, AIX)",55376,Marc Schwartz
+055075.html,[Rd] Characters vs. factors,55075,David M Smith
+055016.html,[Rd] creating environments in package's C code,55016,Simon Urbanek
+055019.html,[Rd] creating environments in package's C code,55019,Simon Urbanek
+055026.html,[Rd] Value of SET_STRING_ELT() must be a 'CHARSXP' not a	'character' &amp; 'getEncChar' must be called on a CHARSXP,55026,Simon Urbanek
+055028.html,[Rd] Value of SET_STRING_ELT() must be a 'CHARSXP' not a	'character' &amp; 'getEncChar' must be called on a CHARSXP,55028,Simon Urbanek
+055043.html,[Rd] Compiling with High Performance Fortran,55043,Simon Urbanek
+055106.html,[Rd] compiling packages without Framework and CoreFoundation	options on OSX,55106,Simon Urbanek
+055138.html,[Rd] [R-SIG-Mac] rnorm.halton,55138,Simon Urbanek
+055140.html,[Rd] [R-SIG-Mac] rnorm.halton,55140,Simon Urbanek
+055144.html,[Rd] Help with OCaml bindings for R interpreter.,55144,Simon Urbanek
+055153.html,[Rd] R on Google Android,55153,Simon Urbanek
+055157.html,[Rd] R on Google Android,55157,Simon Urbanek
+055209.html,[Rd] Question when compiling source code with VC++,55209,Simon Urbanek
+055211.html,[Rd] Fixing html help port in 2.10,55211,Simon Urbanek
+055303.html,[Rd] Confusion regarding allocating Matrices.,55303,Simon Urbanek
+055328.html,[Rd] R on maemo,55328,Simon Urbanek
+055350.html,[Rd] Help with lang4,55350,Simon Urbanek
+055318.html,[Rd] Buglet in optim() SANN,55318,Ravi Varadhan
+055277.html,[Rd] R Updates or Changes in corporate version of R,55277,Tobias Verbeke
+055326.html,[Rd] R on maemo,55326,Juha Vierinen
+055025.html,[Rd] X11 Problems,55025,Kay Wanous
+055034.html,[Rd] X11 Problems,55034,Kay Wanous
+055226.html,[Rd] R292 on AIX53 using gcc,55226,Chuck White
+055245.html,[Rd] R292 on AIX53 using gcc,55245,Chuck White
+055278.html,[Rd] R292 on AIX53 using gcc,55278,Chuck White
+055335.html,[Rd] unable to compile mgcv,55335,Chuck White
+055336.html,[Rd] unable to compile mgcv,55336,Chuck White
+055338.html,[Rd] unable to compile mgcv,55338,Chuck White
+055351.html,[Rd] unable to compile mgcv,55351,Chuck White
+055368.html,[Rd] unable to compile mgcv,55368,Chuck White
+055369.html,"[Rd] unable to compile RODBC (R 2.9.2, AIX)",55369,Chuck White
+055199.html,[Rd] R RSS feed,55199,Yihui Xie
+055203.html,[Rd] R RSS feed,55203,Yihui Xie
+055143.html,[Rd]  Help with OCaml bindings for R interpreter.,55143,Guillaume Yziquel
+055145.html,[Rd] Help with OCaml bindings for R interpreter.,55145,Guillaume Yziquel
+055101.html,[Rd] how to document stuff most users don't want to see,55101,baptiste auguie
+055297.html,[Rd] (PR#14020) trigamma for very large arguments,55297,jerry.lewis at biogenidec.com
+055063.html,[Rd] Wish for stripchart to handle pch %in% 21:25 with bg (PR#13984),55063,lobry at biomserv.univ-lyon1.fr
+055274.html,[Rd] design library (PR#14018),55274,alain.bernard at chu-dijon.fr
+055120.html,[Rd] weigths in nls (PR#13991),55120,Stephen.Bond at cibc.com
+055166.html,[Rd] names drop for columns from data.frame (PR#14002),55166,veraf at clemson.edu
+055196.html,[Rd] let R and Rscript infer paths from their own location	(PR#14007),55196,pkensche at cmbi.ru.nl
+055204.html,[Rd] post-installation startup problem with 2.10.0,55204,Mark.Bravington at csiro.au
+055240.html,[Rd] Bug with .First  in R 2.10,55240,Mark.Bravington at csiro.au
+055242.html,[Rd] Bug with .First  in R 2.10,55242,Mark.Bravington at csiro.au
+055243.html,[Rd] weird warning in [.data.frame with 2.10,55243,Mark.Bravington at csiro.au
+055352.html,[Rd] parse_Rd and/or lazyload problem,55352,Mark.Bravington at csiro.au
+055362.html,[Rd] parse_Rd and/or lazyload problem,55362,Mark.Bravington at csiro.au
+055200.html,[Rd] Question when compiling source code with VC++,55200,cstrato
+055207.html,[Rd] Question when compiling source code with VC++,55207,cstrato
+055213.html,[Rd] Question when compiling source code with VC++,55213,cstrato
+055219.html,[Rd] (PR#14012),55219,sje30 at damtp.cam.ac.uk
+055134.html,[Rd] installing any package fails using 'install.packages()'	(PR#13996),55134,edd at debian.org
+055135.html,"[Rd] rJava downloads but cannot load, (PR#13997)",55135,edd at debian.org
+055323.html,[Rd] Me or a bug? Package Install does not unzip (PR#14026),55323,j.burke at earthlink.net
+055248.html,[Rd] Use of lm on polynomial models (PR#14014),55248,michael_karsh at earthlink.net
+055092.html,[Rd] Bug (PR#13987),55092,Bockmeyer at gmail.com
+055275.html,[Rd] Division by zero on window resized (PR#14019),55275,alexandre.maurel at gmail.com
+055167.html,[Rd] unexpected behavior in list of lexical closures (PR#14004),55167,elliott.forney at gmail.com
+055284.html,[Rd] R quits immediately upon start-up (PR#14021),55284,gavin.koh at gmail.com
+055040.html,[Rd] plotmath documentation (PR#13978),55040,inpost at gmail.com
+055127.html,[Rd] Errors in installing package &quot;rJava&quot; on Ubuntu (PR#13992),55127,lmramba at gmail.com
+055128.html,[Rd] installing any package fails using 'install.packages()'	(PR#13993),55128,lmramba at gmail.com
+055129.html,"[Rd] rJava downloads but cannot load,	when I run R as root (PR#13994)",55129,lmramba at gmail.com
+055130.html,[Rd] Setting a mirror &quot;permanently&quot; on R on ubuntu (PR#13995),55130,lmramba at gmail.com
+055050.html,[Rd] exTremes and ismev (PR#13981),55050,mzukisi.gwata at gmail.com
+055353.html,[Rd] weighted.mean uses zero when na.rm=TRUE (PR#14032),55353,arnima at hafro.is
+055176.html,[Rd] Mac R spinning wheel with Package Manager (PR#14005),55176,james at howison.name
+055186.html,[Rd] Mac R spinning wheel with Package Manager (PR#14005),55186,james at howison.name
+055257.html,[Rd] plot.POSIXct uses wrong x axis (PR#14016),55257,karl at huftis.org
+055011.html,[Rd] Installation problem from R 2.8.x,55011,zong-pei.han at imm.ox.ac.uk
+055012.html,[Rd] Dependency 'sma' is not available,55012,zong-pei.han at imm.ox.ac.uk
+055030.html,[Rd] X11 Problems,55030,zong-pei.han at imm.ox.ac.uk
+055113.html,[Rd] R-10 alpha windows() bug?,55113,apjaworski at mmm.com
+055115.html,[Rd] R-10 alpha windows() bug?,55115,apjaworski at mmm.com
+055276.html,[Rd] R Updates or Changes in corporate version of R,55276,Ajay ohri
+055089.html,[Rd] openNLP Segmentation Fault (PR#13986),55089,michael at olschimke.eu
+055118.html,[Rd] Any reference to tukeyline algorithm?,55118,shanmukha patel
+055096.html,[Rd] inconsistency in return value of peaks() {splus2R} (PR#13988),55096,vijgh at phil.uu.nl
+055190.html,[Rd] R segfault in fgets from do_system under high memory use	(PR#14008),55190,atp at piskorski.com
+055191.html,"[Rd] bugs.r-project.org, Submit Changes does nothing (PR#14009)",55191,atp at piskorski.com
+055192.html,"[Rd] PR#14008,	R segfault in fgets from do_system under high memory use",55192,atp at piskorski.com
+055247.html,[Rd]  to connect R from ejb,55247,pragathichi
+055258.html,[Rd] to connect R from ejb,55258,pragathichi
+055273.html,[Rd] to connect R from ejb,55273,pragathichi
+055178.html,[Rd] Mac R spinning wheel with Package Manager (PR#14005),55178,simon.urbanek at r-project.org
+055068.html,[Rd] str() gives odd looking output on complex vectors that are not	purely imaginary (PR#13985),55068,richcalaway at revolution-computing.com
+055152.html,[Rd] Accuracy (PR#13999),55152,witkovsky at savba.sk
+055197.html,[Rd] Eigenvalue Bug in &quot;psych&quot; &quot;principal&quot; (PR#14010),55197,kyler at smu.edu
+055044.html,[Rd] Because it's Friday. was creating environments in package's C	code,55044,spencerg
+055058.html,[Rd] how to document stuff most users don't want to see,55058,spencerg
+055062.html,[Rd] unit testing for R packages?,55062,spencerg
+055066.html,[Rd] unit testing for R packages?,55066,spencerg
+055091.html,[Rd] how to document stuff most users don't want to see,55091,spencerg
+055079.html,[Rd] str() gives odd looking output on complex vectors that are	not purely imaginary (PR#13985),55079,maechler at stat.math.ethz.ch
+055291.html,[Rd] trigamma for very large arguments (PR#14020),55291,maechler at stat.math.ethz.ch
+055159.html,[Rd] unexpected behaviour of isSymmetric() (PR#14000),55159,mike at stat.ubc.ca
+055261.html,[Rd] Bug with .First  in R 2.10,55261,luke at stat.uiowa.edu
+055108.html,[Rd] bug inside plot.lm (PR#13989),55108,rmh at temple.edu
+055069.html,[Rd] Characters vs. factors,55069,hadley wickham
+055071.html,[Rd] unit testing for R packages?,55071,hadley wickham
+055073.html,[Rd] unit testing for R packages?,55073,hadley wickham
+055083.html,[Rd] unit testing for R packages?,55083,hadley wickham
+055232.html,[Rd] Grid Graphics Documentation: color specification with gpar()	(PR#14013),55232,tom.gottfried at wzw.tum.de
+055340.html,"[Rd] In the result of applying 'bquote' to function definition with	2 or more arguments, first function argument disappears (PR#14031)",55340,suharto_anggono at yahoo.com

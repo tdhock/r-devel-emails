@@ -1,0 +1,325 @@
+link,Subject,id,author
+048010.html,[Rd] as.function(),48010,"Antonio, Fabio Di Narzo"
+047969.html,[Rd] S3 vs S4 for a simple package,47969,Douglas Bates
+048039.html,[Rd] bug in mmlcr ? (PR#10576),48039,Ken Beath
+047908.html,[Rd] readBin differences on Windows and Linux/mac,47908,Henrik Bengtsson
+047909.html,[Rd] readBin differences on Windows and Linux/mac,47909,Henrik Bengtsson
+047935.html,[Rd] checking whether the name space can be loaded with stated	dependencies,47935,Henrik Bengtsson
+048081.html,[Rd] Great tool,48081,Henrik Bengtsson
+048083.html,[Rd] Misinformative error message for vector(),48083,Henrik Bengtsson
+048172.html,[Rd] A &quot;safe&quot; do.call,48172,Henrik Bengtsson
+048193.html,[Rd] Understanding an R improvement that already occurred.,48193,Henrik Bengtsson
+048098.html,[Rd] Great tool,48098,Charles C. Berry
+048021.html,[Rd] knnFinder package,48021,Roger Bivand
+047942.html,[Rd] Addendum: nls (with SSlogis model and upper limit) never	returns (PR#10548),47942,Ben Bolker
+048138.html,[Rd] Problem building R with Intel MKL v10 BLAS,48138,Michael Braun
+048149.html,[Rd] Problem building R with Intel MKL v10 BLAS,48149,Michael Braun
+048216.html,[Rd] S4: setGeneric() and setMethod() with changed argument order,48216,Christoph Buser
+048003.html,[Rd] Adding weights to ecdf,48003,Jorge Luis Ojeda Cabrera
+047910.html,[Rd] Problem with dyn.load'ed code,47910,Matt Calder
+048161.html,[Rd]  Distributing R Programs,48161,CapCity
+048164.html,[Rd] Distributing R Programs,48164,CapCity
+047945.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;, &quot;parent&quot;) (PR#10549)",47945,John Chambers
+047959.html,[Rd] S3 vs S4 for a simple package,47959,John Chambers
+048042.html,[Rd] %s in filename when opening device causes crash (PR#10571),48042,Richard Cotton
+047929.html,[Rd] nls (with SSlogis model and upper limit) never	returns	(PR#10544),47929,Peter Dalgaard
+047954.html,[Rd] xtable (PR#10553),47954,Peter Dalgaard
+047998.html,[Rd] R Bugs link broken,47998,Peter Dalgaard
+048031.html,[Rd] %s in filename when opening device causes crash (PR#10571),48031,Peter Dalgaard
+048041.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48041,Peter Dalgaard
+048043.html,[Rd] %s in filename when opening device causes crash (PR#10571),48043,Peter Dalgaard
+048049.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48049,Peter Dalgaard
+048051.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48051,Peter Dalgaard
+048054.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48054,Peter Dalgaard
+048067.html,[Rd] Wishlist- Windows Gui (PR#10589),48067,Peter Dalgaard
+048075.html,[Rd] Updating library,48075,Peter Dalgaard
+048086.html,[Rd] read.table: wrong error message? (PR#10592),48086,Peter Dalgaard
+048102.html,[Rd] gctorture and proc.time (PR#10600),48102,Peter Dalgaard
+048163.html,[Rd] Distributing R Programs,48163,Peter Dalgaard
+048188.html,[Rd] R 2.6.2 scheduled for February 8,48188,Peter Dalgaard
+048012.html,[Rd] as.function(),48012,Henrique Dallazuanna
+047912.html,[Rd] readBin differences on Windows and Linux/mac,47912,Sean Davis
+047989.html,[Rd] read.table: aborting based on a time constraint,47989,Sean Davis
+047944.html,[Rd] Rscript argument processing minor bug with -g,47944,Dan Davison
+048025.html,[Rd] Possible bug in R 2.6.1 (PR#10565),48025,Latchezar (Lucho) Dimitrov
+047992.html,[Rd] read.table: aborting based on a time constraint,47992,Bill Dunlap
+047993.html,[Rd] read.table: aborting based on a time constraint,47993,Dirk Eddelbuettel
+048007.html,[Rd] Embedding R,48007,Dirk Eddelbuettel
+048036.html,[Rd] Rscript argument processing minor bug with -g,48036,Dirk Eddelbuettel
+047995.html,[Rd] write.dta (foreign package),47995,Edward
+047988.html,[Rd] read.table: aborting based on a time constraint,47988,Derek Stephen Elmerick
+048192.html,[Rd] Understanding an R improvement that already occurred.,48192,Jay Emerson
+047918.html,[Rd] setting the seed in standalone code using Rlib,47918,David Faden
+048205.html,[Rd] segfault in gregexpr(),48205,Seth Falcon
+048217.html,[Rd] segfault in gregexpr(),48217,Seth Falcon
+048061.html,[Rd] knnFinder package,48061,Andrew Finley
+048065.html,[Rd] Wishlist- Windows Gui (PR#10589),48065,John Fox
+048068.html,[Rd] Wishlist- Windows Gui (PR#10589),48068,John Fox
+048118.html,[Rd] pseudo dataframes with RODBC,48118,John Fox
+048154.html,[Rd] Strict-prototypes definitions in R includes,48154,Laurent Gautier
+048158.html,[Rd] Strict-prototypes definitions in R includes,48158,Laurent Gautier
+047932.html,[Rd] Evaluating R expressions from C,47932,Robert Gentleman
+047972.html,[Rd] course announcement,47972,Robert Gentleman
+048182.html,[Rd] Problem with new(&quot;externalptr&quot;),48182,Robert Gentleman
+048063.html,[Rd] Bug in pacf -- Proposed patch (PR#10455),48063,Simone Giannerini
+048126.html,[Rd] Package Building and Name Space,48126,Paul Gilbert
+048128.html,[Rd] Package Building and Name Space,48128,Paul Gilbert
+048113.html,"[Rd] [wishlist, patch] Removing .bzr/ directory when calling R CMD build (PR#10625)",48113,Ben Goodrich
+048108.html,[Rd] Package Building and Name Space,48108,Johannes Graumann
+048123.html,[Rd] Package Building and Name Space,48123,Johannes Graumann
+048124.html,[Rd] Package Building and Name Space,48124,Johannes Graumann
+048131.html,[Rd] R CMD check and postscript fonts,48131,Johannes Graumann
+048132.html,[Rd] Plot definition for custom class,48132,Johannes Graumann
+048135.html,[Rd] R CMD check and postscript fonts,48135,Johannes Graumann
+048137.html,[Rd] Plot definition for custom class,48137,Johannes Graumann
+048141.html,[Rd] R CMD check and postscript fonts,48141,Johannes Graumann
+048151.html,[Rd] R CMD check and postscript fonts,48151,Johannes Graumann
+048165.html,[Rd] Distributing R Programs,48165,Spencer Graves
+047914.html,[Rd] Wish List,47914,Gabor Grothendieck
+047922.html,[Rd] Typo in DateTimeClasses.Rd,47922,Gabor Grothendieck
+047947.html,[Rd] nls (with SSlogis model and upper limit) never returns	(PR#10544),47947,Gabor Grothendieck
+047973.html,[Rd] S3 vs S4 for a simple package,47973,Gabor Grothendieck
+047987.html,[Rd] R Bugs link broken,47987,Gabor Grothendieck
+047990.html,[Rd] read.table: aborting based on a time constraint,47990,Gabor Grothendieck
+047991.html,[Rd] read.table: aborting based on a time constraint,47991,Gabor Grothendieck
+048001.html,[Rd] R Bugs link broken,48001,Gabor Grothendieck
+048024.html,[Rd] as.function(),48024,Gabor Grothendieck
+048030.html,[Rd] as.function(),48030,Gabor Grothendieck
+048071.html,[Rd] Updating library,48071,Gabor Grothendieck
+048076.html,[Rd] Updating library,48076,Gabor Grothendieck
+048078.html,[Rd] Updating library,48078,Gabor Grothendieck
+048082.html,[Rd] Great tool,48082,Gabor Grothendieck
+048094.html,[Rd] experiments with slot functions and possible problems NOTE,48094,Gabor Grothendieck
+048099.html,[Rd] Great tool,48099,Gabor Grothendieck
+048112.html,"[Rd] [wishlist,	patch] Removing .bzr/ directory when calling R CMD build (PR#10625)",48112,Gabor Grothendieck
+048115.html,"[Rd] [wishlist,	patch] Removing .bzr/ directory when calling R CMD build (PR#10625)",48115,Gabor Grothendieck
+048121.html,[Rd] seekViewport error,48121,Gabor Grothendieck
+048222.html,[Rd] Pb with lapply(),48222,Gabor Grothendieck
+048225.html,[Rd] Pb with lapply(),48225,Gabor Grothendieck
+048229.html,"[Rd] Feature request: about lag(), which.min() and cat().",48229,Gabor Grothendieck
+047951.html,[Rd] S3 vs S4 for a simple package,47951,Robin Hankin
+048009.html,[Rd] as.function(),48009,Robin Hankin
+048011.html,[Rd] as.function(),48011,Robin Hankin
+048016.html,[Rd] as.function(),48016,Robin Hankin
+048019.html,[Rd] as.function(),48019,Robin Hankin
+048062.html,[Rd] knnFinder package,48062,Christos Hatzis
+047957.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;,	&quot;parent&quot;) (PR#10549)",47957,Tim Hesterberg
+047967.html,[Rd] S3 vs S4 for a simple package,47967,Tim Hesterberg
+048119.html,[Rd] deprecate &quot;freq&quot; argument to hist,48119,Tim Hesterberg
+048134.html,[Rd] Plot definition for custom class,48134,Kurt Hornik
+047915.html,[Rd] Error from wilcox.test,47915,Wolfgang Huber
+048195.html,[Rd] The standalone Rmath library and VC++ 2003,48195,Oran Johnson
+048209.html,[Rd] The standalone Rmath library and VC++ 2003,48209,Oran Johnson
+048107.html,[Rd] R command to refresh graphical output?,48107,Parker Jones
+048005.html,[Rd] Adding weights to ecdf,48005,Frank E Harrell Jr
+048101.html,[Rd] calling MPI parallel C code from R,48101,Mark W Kimpel
+048181.html,[Rd] R package Matrix failing to build with R-devel on Ubuntu AMD64,48181,Mark W Kimpel
+047974.html,[Rd] Finding windows DLLs,47974,Duncan Temple Lang
+047976.html,[Rd] Finding windows DLLs,47976,Duncan Temple Lang
+048186.html,[Rd] [rfc] Package to access the internal zlib library.,48186,Duncan Temple Lang
+047994.html,[Rd] pdf viewers Re:  Evaluating R expressions,47994,Hin-Tak Leung
+048002.html,[Rd] do_gsub (PR#10540),48002,Hin-Tak Leung
+048008.html,[Rd] Embedding R,48008,Hin-Tak Leung
+048105.html,[Rd] gctorture and proc.time (PR#10600),48105,Hin-Tak Leung
+048146.html,[Rd] Problem building R with Intel MKL v10 BLAS,48146,Hin-Tak Leung
+048166.html,[Rd] Distributing R Programs,48166,Hin-Tak Leung
+048167.html,[Rd] Problem building R with Intel MKL v10 BLAS,48167,Hin-Tak Leung
+048175.html,[Rd] Problem building R with Intel MKL v10 BLAS,48175,Hin-Tak Leung
+048218.html,[Rd] X11 device distortion (PR#10666),48218,Hin-Tak Leung
+047907.html,[Rd] readBin differences on Windows and Linux/mac,47907,Uwe Ligges
+047911.html,[Rd] readBin differences on Windows and Linux/mac,47911,Uwe Ligges
+048077.html,[Rd] Updating library,48077,Uwe Ligges
+048023.html,[Rd] Possible bug in R 2.6.1 (PR#10565),48023,Thomas Lumley
+048116.html,[Rd] Package Building and Name Space,48116,James W. MacDonald
+047946.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;,	&quot;parent&quot;) (PR#10549)",47946,Martin Maechler
+047997.html,[Rd] R Bugs link broken,47997,Martin Maechler
+047999.html,[Rd] R-FAQ.html change breaks &quot;R Bugs&quot; link in posting guide.,47999,Martin Maechler
+048000.html,[Rd] R-FAQ.html change breaks &quot;R Bugs&quot; link in posting guide.,48000,Martin Maechler
+048187.html,[Rd] A &quot;safe&quot; do.call,48187,Martin Maechler
+048206.html,[Rd] R package Matrix failing to build with R-devel on Ubuntu	AMD64,48206,Martin Maechler
+048219.html,[Rd] Problem with R.2.6.1 and JRI - All worked file wih R2.5.1,48219,Vladmir Makarov
+048079.html,[Rd] R_alloc segfaults,48079,Markus
+048060.html,[Rd] Memory loss in RODBC when reading DateTime values (no problem	with integers),48060,Dieter Menne
+048052.html,[Rd] Just-in-time compiler for R,48052,Stephen Milborrow
+048104.html,[Rd] gctorture and proc.time (PR#10600),48104,Stephen Milborrow
+047961.html,[Rd] Finding windows DLLs,47961,Martin Morgan
+047971.html,[Rd] Finding windows DLLs,47971,Martin Morgan
+047984.html,[Rd] Finding windows DLLs,47984,Martin Morgan
+048125.html,[Rd] Package Building and Name Space,48125,Martin Morgan
+047923.html,[Rd] Typo in DateTimeClasses.Rd,47923,Duncan Murdoch
+047962.html,[Rd] Finding windows DLLs,47962,Duncan Murdoch
+047965.html,[Rd] Finding windows DLLs,47965,Duncan Murdoch
+048018.html,[Rd] as.function(),48018,Duncan Murdoch
+048035.html,[Rd] rm: failed to get attributes of `/':,48035,Duncan Murdoch
+048046.html,[Rd] data types / numerative system,48046,Duncan Murdoch
+048059.html,[Rd] rm: failed to get attributes of `/':,48059,Duncan Murdoch
+048070.html,[Rd] Wishlist- Windows Gui (PR#10589),48070,Duncan Murdoch
+048089.html,[Rd] experiments with slot functions and possible problems NOTE,48089,Duncan Murdoch
+048093.html,[Rd] experiments with slot functions and possible problems NOTE,48093,Duncan Murdoch
+048097.html,[Rd] experiments with slot functions and possible problems NOTE,48097,Duncan Murdoch
+048109.html,[Rd] Package Building and Name Space,48109,Duncan Murdoch
+048110.html,[Rd] Package Building and Name Space,48110,Duncan Murdoch
+048127.html,[Rd] Package Building and Name Space,48127,Duncan Murdoch
+048143.html,"[Rd] strsignif.c, util.c (PR#10635)",48143,Duncan Murdoch
+048147.html,"[Rd] strsignif.c, util.c (PR#10635)",48147,Duncan Murdoch
+048189.html,[Rd] [rfc] Package to access the internal zlib library.,48189,Duncan Murdoch
+048213.html,[Rd] logical operator and addition (PR#10665),48213,Duncan Murdoch
+048120.html,[Rd] seekViewport error,48120,Paul Murrell
+048130.html,[Rd] seekViewport error,48130,Paul Murrell
+048155.html,[Rd] seekViewport error,48155,Paul Murrell
+048183.html,[Rd] Problem building R with Intel MKL v10 BLAS,48183,Ei-ji Nakama
+048040.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot;	manual,48040,Herve Pages
+048048.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48048,Herve Pages
+048053.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48053,Herve Pages
+048055.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48055,Herve Pages
+048177.html,[Rd] Problem with new(&quot;externalptr&quot;),48177,Herve Pages
+048178.html,[Rd] Problem with new(&quot;externalptr&quot;),48178,Herve Pages
+048180.html,[Rd] Problem with new(&quot;externalptr&quot;),48180,Herve Pages
+048204.html,[Rd] segfault in gregexpr(),48204,Herve Pages
+048230.html,[Rd] segfault in gregexpr(),48230,Herve Pages
+048015.html,[Rd] knnFinder package,48015,Gregoire Pau
+048088.html,[Rd] experiments with slot functions and  possible problems NOTE,48088,Thomas Petzoldt
+048092.html,[Rd] experiments with slot functions and possible problems NOTE,48092,Thomas Petzoldt
+048095.html,[Rd] experiments with slot functions and possible problems NOTE,48095,Thomas Petzoldt
+048096.html,[Rd] experiments with slot functions and possible problems NOTE,48096,Thomas Petzoldt
+048022.html,[Rd] Possible bug in R 2.6.1 (PR#10565),48022,Fran&#231;ois Pinard
+047925.html,[Rd] as.Date.numeric origin default,47925,Tony Plate
+047943.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;, &quot;parent&quot;) (PR#10549)",47943,Tony Plate
+048029.html,[Rd] as.function(),48029,Tony Plate
+048207.html,[Rd] Documentation of the dev.copy2eps function. (PR#10656),48207,Cl&#233;ment Raievsky
+047916.html,[Rd] large netCDF files under Windows.,47916,Prof Brian Ripley
+047917.html,[Rd] Error from wilcox.test,47917,Prof Brian Ripley
+047919.html,[Rd] Error from wilcox.test,47919,Prof Brian Ripley
+047920.html,[Rd] setting the seed in standalone code using Rlib,47920,Prof Brian Ripley
+047926.html,[Rd] checking whether the name space can be loaded with stated dependencies,47926,Prof Brian Ripley
+047934.html,[Rd] checking whether the name space can be loaded with stated dependencies,47934,Prof Brian Ripley
+047939.html,[Rd] Unicode whitespace,47939,Prof Brian Ripley
+047952.html,[Rd] S3 vs S4 for a simple package,47952,Prof Brian Ripley
+047956.html,[Rd] Unicode whitespace,47956,Prof Brian Ripley
+047966.html,[Rd] Finding windows DLLs,47966,Prof Brian Ripley
+047968.html,[Rd] Finding windows DLLs,47968,Prof Brian Ripley
+047970.html,[Rd] Finding windows DLLs,47970,Prof Brian Ripley
+047975.html,[Rd] Finding windows DLLs,47975,Prof Brian Ripley
+047977.html,[Rd] Finding windows DLLs,47977,Prof Brian Ripley
+047978.html,[Rd] checking whether the name space can be loaded with stated dependencies,47978,Prof Brian Ripley
+047981.html,[Rd] Finding windows DLLs,47981,Prof Brian Ripley
+047983.html,[Rd] checking whether the name space can be loaded with stated dependencies,47983,Prof Brian Ripley
+047996.html,[Rd] write.dta (foreign package),47996,Prof Brian Ripley
+048013.html,[Rd] as.function(),48013,Prof Brian Ripley
+048020.html,[Rd] as.function(),48020,Prof Brian Ripley
+048032.html,[Rd] %s in filename when opening device causes crash (PR#10571),48032,Prof Brian Ripley
+048044.html,[Rd] %s in filename when opening device causes crash (PR#10571),48044,Prof Brian Ripley
+048047.html,[Rd] data types / numerative system,48047,Prof Brian Ripley
+048058.html,[Rd] PR#10583,48058,Prof Brian Ripley
+048073.html,[Rd] a problem when i use JRI package in java,48073,Prof Brian Ripley
+048074.html,[Rd] Updating library,48074,Prof Brian Ripley
+048080.html,[Rd] R_alloc segfaults,48080,Prof Brian Ripley
+048084.html,[Rd] Misinformative error message for vector(),48084,Prof Brian Ripley
+048091.html,[Rd] read.table: wrong error message? (PR#10592),48091,Prof Brian Ripley
+048117.html,[Rd] gctorture and proc.time (PR#10600),48117,Prof Brian Ripley
+048133.html,[Rd] R CMD check and postscript fonts,48133,Prof Brian Ripley
+048139.html,[Rd] R CMD check and postscript fonts,48139,Prof Brian Ripley
+048140.html,[Rd] Problem building R with Intel MKL v10 BLAS,48140,Prof Brian Ripley
+048148.html,"[Rd] strsignif.c, util.c (PR#10635)",48148,Prof Brian Ripley
+048150.html,[Rd] Problem building R with Intel MKL v10 BLAS,48150,Prof Brian Ripley
+048153.html,[Rd] Character encodings and packages,48153,Prof Brian Ripley
+048156.html,[Rd] Strict-prototypes definitions in R includes,48156,Prof Brian Ripley
+048159.html,[Rd] Strict-prototypes definitions in R includes,48159,Prof Brian Ripley
+048160.html,[Rd] Notes for writers of graphics devices,48160,Prof Brian Ripley
+048170.html,[Rd] Problem building R with Intel MKL v10 BLAS,48170,Prof Brian Ripley
+048171.html,[Rd] A &quot;safe&quot; do.call,48171,Prof Brian Ripley
+048185.html,[Rd] [rfc] Package to access the internal zlib library.,48185,Prof Brian Ripley
+048191.html,[Rd] A &quot;safe&quot; do.call,48191,Prof Brian Ripley
+048201.html,[Rd] The standalone Rmath library and VC++ 2003,48201,Prof Brian Ripley
+048202.html,[Rd] The standalone Rmath library and VC++ 2003,48202,Prof Brian Ripley
+048203.html,[Rd] Documentation of the dev.copy2eps function. (PR#10656),48203,Prof Brian Ripley
+048144.html,[Rd] do_gsub (PR#10540),48144,Andrew Runnalls
+048152.html,"[Rd] strsignif.c, util.c (PR#10635)",48152,Andrew Runnalls
+048200.html,[Rd] numbers after dot missing (PR#10663),48200,Jeff Ryan
+048004.html,[Rd] hist.Date() and cut.Date(): approximations used when using breaks = 'months' or 'years',48004,Marc Schwartz
+047963.html,[Rd] Finding windows DLLs,47963,Oleg Sklyar
+047964.html,[Rd] S3 vs S4 for a simple package,47964,Oleg Sklyar
+047980.html,[Rd] S3 vs S4 for a simple package,47980,Oleg Sklyar
+048027.html,[Rd] %s in filename when opening device causes crash (PR#10571),48027,Oleg Sklyar
+048227.html,"[Rd] Feature request: about lag(), which.min() and cat().",48227,Matthieu Stigler
+047931.html,[Rd] Evaluating R expressions from C,47931,Terry Therneau
+047933.html,[Rd] Evaluating R expressions,47933,Terry Therneau
+048050.html,[Rd] Pb with defineVar() example in the &quot;Writing R Extensions&quot; manual,48050,Luke Tierney
+048179.html,[Rd] Problem with new(&quot;externalptr&quot;),48179,Luke Tierney
+047913.html,[Rd] Problem with dyn.load'ed code,47913,Simon Urbanek
+048224.html,[Rd] Problem with R.2.6.1 and JRI - All worked file wih R2.5.1,48224,Simon Urbanek
+048226.html,[Rd] X11 device distortion (PR#10666),48226,Thomas Zumbrunn
+048184.html,[Rd] [rfc] Package to access the internal zlib library.,48184,jason at acm.org
+048211.html,[Rd] [rfc] Package to access the internal zlib library.,48211,jason at acm.org
+048212.html,[Rd] [rfc] Package to access the internal zlib library.,48212,jason at acm.org
+048064.html,[Rd] Wishlist- Windows Gui (PR#10589),48064,rbaer at atsu.edu
+047949.html,[Rd] chi-squared with zero df (PR#10551),47949,Jerry.Lewis at biogenidec.com
+048196.html,[Rd] R-intro.info.gz ellipsis node bug [SEC=UNCLASSIFIED] (PR#10658),48196,L.Hanson at bom.gov.au
+048197.html,[Rd] numbers after dot missing (PR#10663),48197,michael.krueckl at chello.at
+048106.html,[Rd] gctorture and proc.time (PR#10600),48106,hin-tak.leung at cimr.cam.ac.uk
+048220.html,[Rd] X11 device distortion (PR#10666),48220,marc_schwartz at comcast.net
+048208.html,[Rd] logical operator and addition (PR#10665),48208,nicolas_simonis at dfci.harvard.edu
+048111.html,"[Rd] [wishlist,	patch] Removing .bzr/ directory when calling R CMD build (PR#10625)",48111,goodrich at fas.harvard.edu
+048114.html,"[Rd] [wishlist,	patch] Removing .bzr/ directory when calling (PR#10628)",48114,goodrich at fas.harvard.edu
+048221.html,[Rd] Pb with lapply(),48221,hpages at fhcrc.org
+048223.html,[Rd] Pb with lapply(),48223,hpages at fhcrc.org
+047985.html,[Rd] Change Dir issue in Vista (PR#10561),47985,fannin.14 at fisher.osu.edu
+048194.html,[Rd] Documentation of the dev.copy2eps function. (PR#10656),48194,clement.raievsky at gmail.com
+048085.html,[Rd] read.table: wrong error message? (PR#10592),48085,david.reitter at gmail.com
+048090.html,[Rd] read.table: wrong error message? (PR#10592),48090,david.reitter at gmail.com
+048136.html,[Rd] Plot definition for custom class,48136,jeff.a.ryan at gmail.com
+048056.html,[Rd] Problematic sentence in Section 6.1 (Lists) of &quot;An	introduction to R&quot; (PR#10583),48056,michael.hoehle at gmail.com
+048057.html,[Rd] PR#10583,48057,michael.hoehle at gmail.com
+048006.html,[Rd] Embedding R,48006,AlexanderP at gmx.at
+048045.html,[Rd] data types / numerative system,48045,AlexanderP at gmx.at
+047928.html,[Rd] nls (with SSlogis model and upper limit) never returns	(PR#10544),47928,hendrik.weisser at gmx.net
+047936.html,[Rd] Addendum: nls (with SSlogis model and upper limit) never	returns (PR#10548),47936,hendrik.weisser at gmx.net
+048038.html,[Rd] %s in filename when opening device causes crash (PR#10571),48038,Richard.Cotton at hsl.gov.uk
+048026.html,[Rd] %s in filename when opening device causes crash (PR#10571),48026,richard.cotton at hsl.gov.uk
+048157.html,[Rd] tapply on empty data.frames (PR#10644),48157,hilmar.berger at imise.uni-leipzig.de
+047938.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;,	&quot;parent&quot;) (PR#10549)",47938,timh at insightful.com
+047958.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;,	&quot;parent&quot;) (PR#10549)",47958,timh at insightful.com
+047960.html,"[Rd] library(splines) is missing setOldClass(c(&quot;bs&quot;,	&quot;basis&quot;)) (PR#10554)",47960,timh at insightful.com
+048033.html,[Rd] illegal data frame produced by [&lt;-.data.frame (PR#10574),48033,timh at insightful.com
+048034.html,"[Rd] extra space in:  all.equal(5,6) (PR#10575)",48034,timh at insightful.com
+047921.html,[Rd] do_gsub (PR#10540),47921,A.R.Runnalls at kent.ac.uk
+048142.html,"[Rd] strsignif.c, util.c (PR#10635)",48142,A.R.Runnalls at kent.ac.uk
+048174.html,[Rd] &quot;ROracle&quot; Packages is not to be installed (PR#10652),48174,bacycho at korea.com
+048066.html,[Rd] Wishlist- Windows Gui (PR#10589),48066,jfox at mcmaster.ca
+048069.html,[Rd] Wishlist- Windows Gui (PR#10589),48069,jfox at mcmaster.ca
+048198.html,[Rd] kruskalmc(pgirmess) (PR#10664),48198,sommerfeld at mpil-ploen.mpg.de
+047979.html,"[Rd] fisher.test(... , simulate.p.value=TRUE) (PR#10558)",47979,r.hankin at noc.soton.ac.uk
+048014.html,[Rd] Possible bug in R 2.6.1 (PR#10565),48014,galway at rand.org
+048176.html,[Rd] &quot;ROracle&quot; Packages is not to be installed (PR#10652),48176,dhinds at sonic.net
+047953.html,[Rd] xtable (PR#10553),47953,feodor at stat.ku.dk
+047940.html,[Rd] nls (with SSlogis model and upper limit) never returns	(PR#10544),47940,maechler at stat.math.ethz.ch
+047941.html,"[Rd] is(x, &quot;parent&quot;) returns FALSE when class(x) is c(&quot;child&quot;,	&quot;parent&quot;) (PR#10549)",47941,maechler at stat.math.ethz.ch
+047950.html,[Rd] chi-squared with zero df (PR#10551),47950,maechler at stat.math.ethz.ch
+047955.html,[Rd] chi-squared with zero df (PR#10551),47955,maechler at stat.math.ethz.ch
+048103.html,[Rd] gctorture and proc.time (PR#10600),48103,maechler at stat.math.ethz.ch
+048129.html,"[Rd] [wishlist,	patch] Removing .bzr/ directory when calling R CMD build (PR#10625)",48129,maechler at stat.math.ethz.ch
+048100.html,[Rd] gctorture and proc.time (PR#10600),48100,charlie at stat.umn.edu
+047986.html,[Rd] Change Dir issue in Vista (PR#10561),47986,ripley at stats.ox.ac.uk
+048017.html,[Rd] Possible bug in R 2.6.1 (PR#10565),48017,ripley at stats.ox.ac.uk
+048028.html,[Rd] %s in filename when opening device causes crash (PR#10571),48028,ripley at stats.ox.ac.uk
+048087.html,[Rd] read.table: wrong error message? (PR#10592),48087,ripley at stats.ox.ac.uk
+048145.html,"[Rd] strsignif.c, util.c (PR#10635)",48145,ripley at stats.ox.ac.uk
+048162.html,[Rd] tapply on empty data.frames (PR#10644),48162,ripley at stats.ox.ac.uk
+048199.html,[Rd] numbers after dot missing (PR#10663),48199,ripley at stats.ox.ac.uk
+048214.html,[Rd] logical operator and addition (PR#10665),48214,ripley at stats.ox.ac.uk
+048215.html,[Rd] X11 device distortion (PR#10666),48215,ripley at stats.ox.ac.uk
+048037.html,[Rd] bug in mmlcr ? (PR#10576),48037,cgenolin at u-paris10.fr
+048228.html,[Rd] nlme package. Minor change in method print.VarCov (PR#10669),48228,agalecki at umich.edu
+048210.html,[Rd] X11 device distortion (PR#10666),48210,t.zumbrunn at unibas.ch
+047924.html,[Rd] checking whether the name space can be loaded with stated	dependencies,47924,hadley wickham
+047927.html,[Rd] checking whether the name space can be loaded with stated	dependencies,47927,hadley wickham
+047930.html,[Rd] Unicode whitespace,47930,hadley wickham
+047937.html,[Rd] checking whether the name space can be loaded with stated	dependencies,47937,hadley wickham
+047948.html,[Rd] Unicode whitespace,47948,hadley wickham
+047982.html,[Rd] checking whether the name space can be loaded with stated	dependencies,47982,hadley wickham
+048122.html,[Rd] seekViewport error,48122,hadley wickham
+048168.html,[Rd] A &quot;safe&quot; do.call,48168,hadley wickham
+048169.html,[Rd] A &quot;safe&quot; do.call,48169,hadley wickham
+048173.html,[Rd] A &quot;safe&quot; do.call,48173,hadley wickham
+048190.html,[Rd] A &quot;safe&quot; do.call,48190,hadley wickham
+048072.html,[Rd] a problem when i use JRI package in java,48072,&#25991;&#27874;&#32993;

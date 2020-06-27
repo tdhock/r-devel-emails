@@ -1,0 +1,211 @@
+link,Subject,id,author
+065701.html,[Rd] Minor issue in code of 'diffinv.vector' in R 2.15.2,65701,Suharto Anggono Suharto Anggono
+065703.html,[Rd] Suggestions for 'diff.default',65703,Suharto Anggono Suharto Anggono
+065711.html,[Rd] Suggestions for 'diff.default',65711,Suharto Anggono Suharto Anggono
+065639.html,"[Rd] R-forge, package dependencies",65639,Mengsteab Aregay
+065618.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65618,Oliver Bandel
+065570.html,[Rd] Small changes to big objects (1),65570,Douglas Bates
+065563.html,[Rd] Missing /share/dictionaries/en_stats.rds,65563,Henrik Bengtsson
+065564.html,"[Rd] aspell(..., dictionaries) incorrectly passes double-quoted arguments via shell() [and a patch]",65564,Henrik Bengtsson
+065588.html,[Rd] Patch for setwd() to show path in error message,65588,Henrik Bengtsson
+065592.html,[Rd] Tricking Promises into Sending Info Via Args into Caller,65592,Henrik Bengtsson
+065593.html,[Rd] Patch for setwd() to show path in error message,65593,Henrik Bengtsson
+065648.html,[Rd] Trouble building package using R in development,65648,Henrik Bengtsson
+065649.html,[Rd] Trouble building package using R in development,65649,Henrik Bengtsson
+065527.html,[Rd] Understanding svd usage and its necessity in generalized inverse calculation,65527,Matt Blackwell
+065522.html,[Rd] sQuote() on zero-length inputs,65522,Ben Bolker
+065546.html,[Rd] Bounty on Error Checking,65546,Ben Bolker
+065554.html,[Rd] Bounty on Error Checking,65554,Ben Bolker
+065585.html,[Rd] .print.via.format not found when building r61617?,65585,Ben Bolker
+065587.html,[Rd] .print.via.format not found when building r61617?,65587,Ben Bolker
+065600.html,[Rd] Incorporating single functions from other packages: rules	and regulations?,65600,Ben Bolker
+065624.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65624,Ben Bolker
+065698.html,[Rd] (patch) Layers for pdf() grDevice,65698,Ben Bolker
+065567.html,[Rd] Plots not drawn with buffered Cairo 1.12,65567,Milan Bouchet-Valat
+065682.html,[Rd] (patch) Layers for pdf() grDevice,65682,Evan J Brunner
+065717.html,[Rd] Mac v Windows Mystery,65717,"Cade, Brian"
+065542.html,[Rd] Small changes to big objects (1),65542,John Chambers
+065559.html,[Rd] Small changes to big objects (1),65559,John Chambers
+065562.html,[Rd] Small changes to big objects (2): Local Reference Classes,65562,John Chambers
+065571.html,[Rd] Small changes to big objects (1),65571,John Chambers
+065575.html,[Rd] &quot;Default&quot; accessor in S4 classes,65575,John Chambers
+065605.html,[Rd] Regarding the recent changes to @&lt;-,65605,John Chambers
+065614.html,[Rd] Regarding the recent changes to @&lt;-,65614,John Chambers
+065640.html,[Rd] How to call Java main method using rJava package?,65640,Gaurav Dasgupta
+065671.html,[Rd] ordering in 'gnls' with 'corCompSymm' corStruct,65671,Yves Deville
+065543.html,[Rd] Bounty on Error Checking,65543,Matthew Dowle
+065550.html,[Rd] Bounty on Error Checking,65550,Matthew Dowle
+065552.html,[Rd] Bounty on Error Checking,65552,Matthew Dowle
+065555.html,[Rd] Bounty on Error Checking,65555,Matthew Dowle
+065557.html,[Rd] Bounty on Error Checking,65557,Matthew Dowle
+065687.html,[Rd] Implications of a Dependency on a GPLed Package,65687,Matthew Dowle
+065699.html,[Rd] Implications of a Dependency on a GPLed Package,65699,Matthew Dowle
+065581.html,"[Rd] Cannot override default  -O3 flag on Winodws, dll does not have symbols",65581,Dirk Eddelbuettel
+065596.html,[Rd] Incorporating single functions from other packages: rules	and	regulations?,65596,Dirk Eddelbuettel
+065598.html,[Rd] Project wanted,65598,Dirk Eddelbuettel
+065670.html,[Rd] file.system() in packages,65670,Dirk Eddelbuettel
+065683.html,[Rd] Suggested updated to doc/manual/R-exts.texi,65683,Dirk Eddelbuettel
+065695.html,[Rd] Implications of a Dependency on a GPLed Package,65695,S Ellison
+065662.html,[Rd] debugging C/Fortran code with Visual Studio and Intel compilers,65662,Vitaliy FEOKTISTOV
+065530.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65530,Karl Forner
+065569.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65569,Karl Forner
+065651.html,[Rd] Declaring/importing non-exported functions [car] in	another package,65651,John Fox
+065641.html,"[Rd] Small clarification to R-exts, questions on ptr_do_selectlist",65641,Thomas Friedrichsmeier
+065645.html,[Rd] Declaring/importing non-exported functions [car] in another	package,65645,Michael Friendly
+065647.html,[Rd] Declaring/importing non-exported functions [car] in another package,65647,Michael Friendly
+065650.html,[Rd] Declaring/importing non-exported functions [car] in another package,65650,Michael Friendly
+065652.html,[Rd] Declaring/importing non-exported functions [car] in another package,65652,Michael Friendly
+065722.html,[Rd] CRAN task views: markdown? better .CSS?,65722,Michael Friendly
+065727.html,[Rd] CRAN task views: markdown? better .CSS?,65727,Michael Friendly
+065621.html,[Rd] Mac libgfortran.2.dylib,65621,Daniel Fuka
+065549.html,[Rd] Bounty on Error Checking,65549,Laurent Gautier
+065719.html,[Rd] Bug: C-level and _set_rl_word_breaks,65719,Laurent Gautier
+065721.html,[Rd] Bug: C-level and _set_rl_word_breaks,65721,Laurent Gautier
+065630.html,"[Rd] R-forge, package dependencies",65630,Paul Gilbert
+065665.html,[Rd] maintaining multiple R versions,65665,Paul Gilbert
+065678.html,[Rd] maintaining multiple R versions,65678,Paul Gilbert
+065594.html,[Rd] Incorporating single functions from other packages: rules and	regulations?,65594,Johannes Graumann
+065716.html,[Rd] ROxygen2-Documenting of S4 Method,65716,Johannes Graumann
+065532.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65532,Gabor Grothendieck
+065533.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65533,Gabor Grothendieck
+065538.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65538,Gabor Grothendieck
+065590.html,[Rd] Tricking Promises into Sending Info Via Args into Caller,65590,Gabor Grothendieck
+065712.html,[Rd] Creating ref class with same name as S4 class results in error,65712,Gabor Grothendieck
+065548.html,[Rd] Bounty on Error Checking,65548,Bert Gunter
+065597.html,[Rd] Project wanted,65597,Siddhant Gupta
+065674.html,[Rd] Length of seed for l'Ecuyer-CMRG,65674,Marius Hofert
+065676.html,[Rd] Length of seed for l'Ecuyer-CMRG,65676,Marius Hofert
+065572.html,[Rd] &quot;Default&quot; accessor in S4 classes,65572,Chris Jewell
+065577.html,[Rd] &quot;Default&quot; accessor in S4 classes,65577,Chris Jewell
+065544.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65544,Paul Johnson
+065685.html,[Rd] maintaining multiple R versions,65685,Aaron King
+065666.html,[Rd] maintaining multiple R versions,65666,Aaron A. King
+065713.html,[Rd] Mac v Windows Mystery,65713,Roger Koenker
+065715.html,[Rd] Mac v Windows Mystery,65715,Roger Koenker
+065574.html,[Rd] &quot;Default&quot; accessor in S4 classes,65574,Michael Lawrence
+065658.html,[Rd] FYI cairo/freetype issues affecting cairo_pdf ;	&amp; using non-English in R code.,65658,Hin-Tak Leung
+065626.html,[Rd] rpvm arch check,65626,Michael Li
+065659.html,[Rd] rpvm arch check,65659,Michael Li
+065566.html,[Rd] Missing /share/dictionaries/en_stats.rds,65566,Uwe Ligges
+065628.html,"[Rd] R-forge, package dependencies",65628,Uwe Ligges
+065672.html,[Rd] R_tabulate,65672,Francisco Javier Molina Lopez
+065520.html,[Rd] as.matrix.Surv -- R core question/opinions,65520,Thomas Lumley
+065521.html,[Rd] Understanding svd usage and its necessity in generalized inverse calculation,65521,Thomas Lumley
+065627.html,"[Rd] R-forge, package dependencies",65627,Thomas Lumley
+065565.html,[Rd] Missing /share/dictionaries/en_stats.rds,65565,Martin Maechler
+065583.html,[Rd] &quot;Default&quot; accessor in S4 classes,65583,Martin Maechler
+065608.html,[Rd] Regarding the recent changes to @&lt;-,65608,Martin Maechler
+065638.html,"[Rd] R-forge, package dependencies",65638,Martin Maechler
+065657.html,[Rd] Declaring/importing non-exported functions [car] in another package,65657,Martin Maechler
+065705.html,[Rd] Minor issue in code of 'diffinv.vector' in R 2.15.2,65705,Martin Maechler
+065632.html,[Rd] Prevent serialization of an environment?,65632,Peter Meilstrup
+065634.html,[Rd] Prevent serialization of an environment?,65634,Peter Meilstrup
+065637.html,[Rd] Prevent serialization of an environment?,65637,Peter Meilstrup
+065679.html,[Rd] Arguments passing through dot-dot-dot lose ability to check	for missing()?,65679,Peter Meilstrup
+065602.html,[Rd] Regarding the recent changes to @&lt;-,65602,Fran&#231;ois Michonneau
+065606.html,[Rd] Regarding the recent changes to @&lt;-,65606,Fran&#231;ois Michonneau
+065609.html,[Rd] Regarding the recent changes to @&lt;-,65609,Fran&#231;ois Michonneau
+065700.html,[Rd] bug and enhancement to split?,65700,Martin Morgan
+065518.html,[Rd] Behavior or as.environment in function arguments/call (and force() behaviors...),65518,Duncan Murdoch
+065534.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65534,Duncan Murdoch
+065551.html,[Rd] Bounty on Error Checking,65551,Duncan Murdoch
+065553.html,[Rd] Bounty on Error Checking,65553,Duncan Murdoch
+065556.html,[Rd] Bounty on Error Checking,65556,Duncan Murdoch
+065560.html,[Rd] Bounty on Error Checking,65560,Duncan Murdoch
+065601.html,[Rd] Incorporating single functions from other packages: rules and regulations?,65601,Duncan Murdoch
+065604.html,[Rd] Issue with getParserData in R3.0.0,65604,Duncan Murdoch
+065623.html,[Rd] Issue with getParserData in R3.0.0,65623,Duncan Murdoch
+065633.html,[Rd] Prevent serialization of an environment?,65633,Duncan Murdoch
+065646.html,[Rd] Declaring/importing non-exported functions [car] in another package,65646,Duncan Murdoch
+065663.html,[Rd] debugging C/Fortran code with Visual Studio and Intel	compilers,65663,Duncan Murdoch
+065684.html,[Rd] Implications of a Dependency on a GPLed Package,65684,Duncan Murdoch
+065691.html,[Rd] Implications of a Dependency on a GPLed Package,65691,Duncan Murdoch
+065707.html,[Rd] bug in help: R-devel pre 3.0,65707,Duncan Murdoch
+065708.html,[Rd] bug in help: R-devel pre 3.0,65708,Duncan Murdoch
+065714.html,[Rd] Mac v Windows Mystery,65714,Duncan Murdoch
+065720.html,[Rd] Bug: C-level and _set_rl_word_breaks,65720,Duncan Murdoch
+065702.html,[Rd] incorrect import?,65702,"ONKELINX, Thierry"
+065704.html,[Rd] incorrect import?,65704,"ONKELINX, Thierry"
+065656.html,[Rd] R CMD check not reading R_LIBS from ~/.R/check.Renviron,65656,Jari Oksanen
+065680.html,[Rd] rpvm arch check,65680,George Ostrouchov
+065613.html,[Rd] Patch for setwd() to show path in error message,65613,Herv&#233; Pag&#232;s
+065625.html,"[Rd] Who does develop the R core and libs, and how / where is it hosted?",65625,Herv&#233; Pag&#232;s
+065636.html,"[Rd] Who does develop the R core and libs, and how / where is it hosted?",65636,Herv&#233; Pag&#232;s
+065667.html,[Rd] utils::tar() and files &gt;= 2GB,65667,Herv&#233; Pag&#232;s
+065523.html,[Rd] Behavior or as.environment in function arguments/call (and force() behaviors...),65523,Prof Brian Ripley
+065535.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65535,Prof Brian Ripley
+065568.html,[Rd] Missing /share/dictionaries/en_stats.rds,65568,Prof Brian Ripley
+065582.html,"[Rd] Cannot override default  -O3 flag on Winodws, dll does not have symbols",65582,Prof Brian Ripley
+065589.html,[Rd] Patch for setwd() to show path in error message,65589,Prof Brian Ripley
+065595.html,[Rd] .print.via.format not found when building r61617?,65595,Prof Brian Ripley
+065669.html,[Rd] file.system() in packages,65669,Prof Brian Ripley
+065673.html,[Rd] R_tabulate,65673,Prof Brian Ripley
+065675.html,[Rd] Length of seed for l'Ecuyer-CMRG,65675,Prof Brian Ripley
+065603.html,[Rd] Issue with getParserData in R3.0.0,65603,Brian Lee Yung Rowe
+065616.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65616,Brian Lee Yung Rowe
+065617.html,[Rd] Issue with getParserData in R3.0.0,65617,Brian Lee Yung Rowe
+065619.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65619,Brian Lee Yung Rowe
+065724.html,[Rd] CRAN task views: markdown? better .CSS?,65724,Barry Rowlingson
+065710.html,"[Rd] R-forge, package dependencies",65710,Peter Ruckdeschel
+065517.html,[Rd] Behavior or as.environment in function arguments/call (and	force() behaviors...),65517,Jeff Ryan
+065519.html,[Rd] Behavior or as.environment in function arguments/call (and force() behaviors...),65519,Jeff Ryan
+065528.html,[Rd] formal vs. passed args: parent.frame() behavior.,65528,Jeff Ryan
+065629.html,"[Rd] R-forge, package dependencies",65629,Nick Sabbe
+065686.html,[Rd] Implications of a Dependency on a GPLed Package,65686,Marc Schwartz
+065692.html,[Rd] Implications of a Dependency on a GPLed Package,65692,Marc Schwartz
+065694.html,[Rd] Implications of a Dependency on a GPLed Package,65694,Marc Schwartz
+065681.html,[Rd] Implications of a Dependency on a GPLed Package,65681,Christian Sigg
+065688.html,[Rd] Implications of a Dependency on a GPLed Package,65688,Christian Sigg
+065689.html,[Rd] Implications of a Dependency on a GPLed Package,65689,Christian Sigg
+065690.html,[Rd] Implications of a Dependency on a GPLed Package,65690,Christian Sigg
+065696.html,[Rd] Implications of a Dependency on a GPLed Package,65696,Christian Sigg
+065697.html,[Rd] Implications of a Dependency on a GPLed Package,65697,Christian Sigg
+065642.html,[Rd] Trouble building package using R in development,65642,Gavin Simpson
+065644.html,[Rd] Trouble building package using R in development,65644,Gavin Simpson
+065653.html,[Rd] R CMD check not reading R_LIBS from ~/.R/check.Renviron,65653,Gavin Simpson
+065655.html,[Rd] Trouble building package using R in development,65655,Gavin Simpson
+065677.html,[Rd] na.omit option in prcomp: formula interface only,65677,Matthieu Stigler
+065578.html,[Rd] Bug in list subset assignment due to NAMED optimization,65578,Justin Talbot
+065576.html,"[Rd] Win 32-bit, stack size problem with third party software?",65576,"Thiele, Jan Christoph"
+065541.html,[Rd] Bounty on Error Checking,65541,"Tim Triche, Jr."
+065599.html,[Rd] Incorporating single functions from other packages: rules and regulations?,65599,"Tim Triche, Jr."
+065525.html,[Rd] scientific notation and comparison with character variable,65525,Joshua Ulrich
+065611.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65611,Joshua Ulrich
+065539.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65539,Simon Urbanek
+065573.html,[Rd] &quot;Default&quot; accessor in S4 classes,65573,Simon Urbanek
+065586.html,[Rd] Date time conversion bug (as.POSIXct)?,65586,Simon Urbanek
+065612.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65612,Simon Urbanek
+065620.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65620,Simon Urbanek
+065622.html,[Rd] Mac libgfortran.2.dylib,65622,Simon Urbanek
+065635.html,[Rd] rpvm arch check,65635,Simon Urbanek
+065643.html,[Rd] How to call Java main method using rJava package?,65643,Simon Urbanek
+065660.html,[Rd] rpvm arch check,65660,Simon Urbanek
+065693.html,[Rd] Implications of a Dependency on a GPLed Package,65693,Simon Urbanek
+065524.html,[Rd] scientific notation and comparison with character variable,65524,Tobias Verbeke
+065526.html,[Rd] scientific notation and comparison with character variable,65526,Tobias Verbeke
+065584.html,[Rd] Date time conversion bug (as.POSIXct)?,65584,Dries Verheyen
+065654.html,[Rd] Trouble building package using R in development,65654,Hadley Wickham
+065664.html,[Rd] Trouble building package using R in development,65664,Hadley Wickham
+065718.html,[Rd] Mac v Windows Mystery,65718,David Winsemius
+065547.html,[Rd] Bug in R CMD check for \ in Rd?,65547,Yihui Xie
+065561.html,[Rd] Bug in R CMD check for \ in Rd?,65561,Yihui Xie
+065723.html,[Rd] CRAN task views: markdown? better .CSS?,65723,Yihui Xie
+065725.html,[Rd] CRAN task views: markdown? better .CSS?,65725,Achim Zeileis
+065726.html,[Rd] CRAN task views: markdown? better .CSS?,65726,Achim Zeileis
+065706.html,[Rd] bug in help: R-devel pre 3.0,65706,Mark.Bravington at csiro.au
+065529.html,[Rd] formal vs. passed args: parent.frame() behavior.,65529,peter dalgaard
+065531.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65531,peter dalgaard
+065536.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65536,peter dalgaard
+065537.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65537,peter dalgaard
+065545.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65545,peter dalgaard
+065591.html,[Rd] Tricking Promises into Sending Info Via Args into Caller,65591,peter dalgaard
+065668.html,[Rd] file.system() in packages,65668,robin hankin
+065607.html,[Rd] debug package calling C++ code using valgrind,65607,mullahmohammedomar
+065610.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65610,oliver
+065615.html,"[Rd] Who does develop the R core and libs, and how / where is it hosted?",65615,oliver
+065580.html,"[Rd] Cannot override default  -O3 flag on Winodws, dll does not have symbols",65580,rtaylor
+065579.html,[Rd] Bug in list subset assignment due to NAMED optimization,65579,luke-tierney at uiowa.edu
+065661.html,[Rd] Bug in list subset assignment due to NAMED optimization,65661,luke-tierney at uiowa.edu
+065540.html,[Rd] Bounty on Error Checking,65540,ivo welch
+065558.html,[Rd] Bounty on Error Checking,65558,ivo welch
+065631.html,"[Rd] Who does develop the R core and libs,	and how / where is it hosted?",65631,elijah wright

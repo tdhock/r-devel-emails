@@ -1,0 +1,213 @@
+link,Subject,id,author
+070817.html,[Rd] Requirement for pandoc 1.12.3 in R 3.1.3,70817,Prof J C Nash (U30A)
+070825.html,[Rd] Requirement for pandoc 1.12.3 in R 3.1.3,70825,Prof J C Nash (U30A)
+070864.html,[Rd] nls,70864,Prof J C Nash (U30A)
+070780.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70780,Avraham Adler
+070782.html,[Rd] ICU_531 and sjlj vs.seh,70782,Avraham Adler
+070783.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70783,Avraham Adler
+070786.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70786,Avraham Adler
+070787.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70787,Avraham Adler
+070793.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70793,Avraham Adler
+070794.html,[Rd] ICU_531 and sjlj vs.seh,70794,Avraham Adler
+070806.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70806,Avraham Adler
+070808.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70808,Avraham Adler
+070812.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70812,Avraham Adler
+070833.html,[Rd] Rtools version 3.3.0.1957 looking for C even though RTOOLS variable is pointing elsewhere,70833,Avraham Adler
+070834.html,[Rd] Rtools version 3.3.0.1957 looking for C even though RTOOLS variable is pointing elsewhere,70834,Avraham Adler
+070835.html,[Rd] Rtools version 3.3.0.1957 looking for C even though RTOOLS variable is pointing elsewhere,70835,Avraham Adler
+070836.html,[Rd] Rtools version 3.3.0.1957 looking for C even though RTOOLS variable is pointing elsewhere,70836,Avraham Adler
+070843.html,[Rd] Proposing a change in the base::sink interface for type	argument,70843,Hamid Bazzaz
+070862.html,[Rd] Proposing a change in the base::sink interface for type	argument,70862,Hamid Bazzaz
+070757.html,[Rd] [R] Why does R replace all row values with NAs,70757,Gabriel Becker
+070884.html,[Rd] quieting the &quot;apparent S3 methods&quot; warning,70884,Skye Bender-deMoll
+070764.html,[Rd] Performance issue in stats:::weighted.mean.default method,70764,Henrik Bengtsson
+070771.html,[Rd] Submit a package which use doParallel,70771,Henrik Bengtsson
+070887.html,[Rd] robust updating methods,70887,Ben Bolker
+070895.html,[Rd] robust updating methods,70895,Ben Bolker
+070916.html,[Rd] robust updating methods,70916,Ben Bolker
+070725.html,[Rd] Fixing ambiguous corrections and reattempting to submit	package to R,70725,Luck Buttered
+070837.html,"[Rd] Understanding why &quot;no metadata object found ... not	exported?&quot; warnings from the methods package exist,	and what they mean",70837,John Chambers
+070838.html,"[Rd] Understanding why &quot;no metadata object found ... not	exported?&quot; warnings from the methods package exist,	and what they mean",70838,John Chambers
+070735.html,[Rd] Errors on Windows with grep(fixed=TRUE) on UTF-8 strings,70735,Winston Chang
+070759.html,[Rd] Errors on Windows with grep(fixed=TRUE) on UTF-8 strings,70759,Winston Chang
+070888.html,[Rd] Possible values for R version status,70888,Richard Cotton
+070891.html,[Rd] Possible values for R version status,70891,Richard Cotton
+070832.html,[Rd] How do you debug the R implementation?,70832,G&#225;bor Cs&#225;rdi
+070865.html,"[Rd] CRAN binary, but no source",70865,G&#225;bor Cs&#225;rdi
+070868.html,"[Rd] CRAN binary, but no source",70868,G&#225;bor Cs&#225;rdi
+070869.html,"[Rd] CRAN binary, but no source",70869,G&#225;bor Cs&#225;rdi
+070871.html,"[Rd] CRAN binary, but no source",70871,G&#225;bor Cs&#225;rdi
+070873.html,"[Rd] CRAN binary, but no source",70873,G&#225;bor Cs&#225;rdi
+070883.html,"[Rd] CRAN binary, but no source",70883,G&#225;bor Cs&#225;rdi
+070909.html,[Rd] About removing zlib from R-devel,70909,G&#225;bor Cs&#225;rdi
+070911.html,[Rd] About removing zlib from R-devel,70911,G&#225;bor Cs&#225;rdi
+070761.html,[Rd] nonlinear least square,70761,William Dunlap
+070858.html,[Rd] Help,70858,William Dunlap
+070899.html,[Rd] F77_CALL/NAME problem,70899,William Dunlap
+070920.html,[Rd] Segfault with match(),70920,William Dunlap
+070921.html,[Rd] Segfault with match(),70921,William Dunlap
+070730.html,[Rd] R-devel does not update the C++ returned variables,70730,Dirk Eddelbuettel
+070736.html,[Rd] R-devel does not update the C++ returned variables,70736,Dirk Eddelbuettel
+070773.html,[Rd] R with Array Hashes,70773,Dirk Eddelbuettel
+070822.html,[Rd] Best way to handle dependency on non-CRAN package / large	data	package?,70822,Dirk Eddelbuettel
+070824.html,[Rd] Best way to handle dependency on non-CRAN package / large data package?,70824,Dirk Eddelbuettel
+070831.html,[Rd] Best way to handle dependency on non-CRAN package / large data package?,70831,Dirk Eddelbuettel
+070855.html,[Rd] [Rcpp-devel] Windows gcc toolchain for R 3.2.0,70855,Dirk Eddelbuettel
+070914.html,[Rd] About removing zlib from R-devel,70914,Dirk Eddelbuettel
+070756.html,[Rd] [R] Why does R replace all row values with NAs,70756,Stephanie M. Gogarten
+070878.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod, tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70878,Michael Hahsler
+070861.html,[Rd] Proposing a change in the base::sink interface for type	argument,70861,Kasper Daniel Hansen
+070915.html,[Rd] About removing zlib from R-devel,70915,Kasper Daniel Hansen
+070926.html,[Rd] About removing zlib from R-devel,70926,Kasper Daniel Hansen
+070877.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod,	tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70877,Trevor Hastie
+070842.html,[Rd] Initial covariance matrix in StructTS,70842,"Helske, Jouni"
+070778.html,[Rd] Seed in 'parallel' vignette,70778,Marius Hofert
+070894.html,[Rd] Faster version of rgeom(),70894,Marius Hofert
+070772.html,[Rd] R with Array Hashes,70772,Jeffrey Horner
+070774.html,[Rd] R with Array Hashes,70774,Jeffrey Horner
+070886.html,[Rd] R with Array Hashes,70886,Jeffrey Horner
+070830.html,[Rd] How do you debug the R implementation?,70830,Mick Jordan
+070841.html,[Rd] gzfile text value,70841,Mick Jordan
+070928.html,[Rd] VPATH build of R on MacOSX,70928,Mick Jordan
+070929.html,[Rd] VPATH build of R on MacOSX,70929,Mick Jordan
+070751.html,[Rd] Asssistance,70751,Gregor Kastner
+070900.html,[Rd] vignette checking woes,70900,Roger Koenker
+070904.html,[Rd] vignette checking woes,70904,Roger Koenker
+070912.html,[Rd] vignette checking woes,70912,Roger Koenker
+070847.html,[Rd] Reduce memory peak when serializing to raw vectors,70847,Michael Lawrence
+070827.html,"[Rd] Understanding why &quot;no metadata object found ... not exported?&quot;	warnings from the methods package exist, and what they mean",70827,Geoff Lee
+070839.html,"[Rd] Understanding why &quot;no metadata object found ... not	exported?&quot; warnings from the methods package exist,	and what they mean",70839,Geoff Lee
+070840.html,"[Rd] Ah I've got it now .Thanks! RE: Understanding why &quot;no metadata	object found ... not exported?&quot; warnings from the methods	package exist, and what they mean",70840,Geoff Lee
+070844.html,[Rd] Using Fortran 90 code in packages for CRAN,70844,Lukas Lehnert
+070890.html,[Rd] Possible values for R version status,70890,Mark van der Loo
+070766.html,[Rd] Submit a package which use doParallel,70766,Etienne Lord
+070770.html,[Rd] Submit a package which use doParallel,70770,Etienne Lord
+070860.html,[Rd] Proposing a change in the base::sink interface for type argument,70860,"MacQueen, Don"
+070733.html,[Rd] R-devel does not update the C++ returned variables,70733,Martin Maechler
+070745.html,[Rd] R-devel does not update the C++ returned variables,70745,Martin Maechler
+070747.html,[Rd] [R] Why does R replace all row values with NAs,70747,Martin Maechler
+070798.html,[Rd] Seed in 'parallel' vignette,70798,Martin Maechler
+070876.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod, tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70876,Martin Maechler
+070880.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod,	tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70880,Martin Maechler
+070881.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod, tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70881,Martin Maechler
+070845.html,[Rd] Reduce memory peak when serializing to raw vectors,70845,"Martinez de Salinas, Jorge"
+070848.html,[Rd] Reduce memory peak when serializing to raw vectors,70848,"Martinez de Salinas, Jorge"
+070850.html,[Rd] Reduce memory peak when serializing to raw vectors,70850,"Martinez de Salinas, Jorge"
+070866.html,"[Rd] CRAN binary, but no source",70866,John McKown
+070867.html,"[Rd] CRAN binary, but no source",70867,John McKown
+070898.html,[Rd] F77_CALL/NAME problem,70898,John McKown
+070788.html,[Rd] Fwd: Rstudio R-devel libR.so,70788,Karim Mezhoud
+070791.html,[Rd] Fwd: Rstudio R-devel libR.so,70791,Karim Mezhoud
+070796.html,[Rd] R_HOME default setting,70796,Karim Mezhoud
+070738.html,[Rd] R-devel does not update the C++ returned variables,70738,Martin Morgan
+070726.html,[Rd] Fixing ambiguous corrections and reattempting to submit package to R,70726,Duncan Murdoch
+070728.html,[Rd] R-devel does not update the C++ returned variables,70728,Duncan Murdoch
+070729.html,[Rd] R-devel does not update the C++ returned variables,70729,Duncan Murdoch
+070750.html,[Rd] Asssistance,70750,Duncan Murdoch
+070768.html,[Rd] Submit a package which use doParallel,70768,Duncan Murdoch
+070769.html,[Rd] Submit a package which use doParallel,70769,Duncan Murdoch
+070776.html,[Rd] Hyper-dual numbers in R,70776,Duncan Murdoch
+070784.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70784,Duncan Murdoch
+070789.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70789,Duncan Murdoch
+070790.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70790,Duncan Murdoch
+070795.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70795,Duncan Murdoch
+070800.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70800,Duncan Murdoch
+070801.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70801,Duncan Murdoch
+070803.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70803,Duncan Murdoch
+070810.html,[Rd] normalizePath output depends on existence of directory,70810,Duncan Murdoch
+070813.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70813,Duncan Murdoch
+070816.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70816,Duncan Murdoch
+070826.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70826,Duncan Murdoch
+070853.html,[Rd] Windows gcc toolchain for R 3.2.0,70853,Duncan Murdoch
+070854.html,[Rd] Windows gcc toolchain for R 3.2.0,70854,Duncan Murdoch
+070859.html,[Rd] [Rcpp-devel] Windows gcc toolchain for R 3.2.0,70859,Duncan Murdoch
+070863.html,[Rd] Windows gcc toolchain for R 3.2.0,70863,Duncan Murdoch
+070875.html,"[Rd] CRAN binary, but no source",70875,Duncan Murdoch
+070889.html,[Rd] Possible values for R version status,70889,Duncan Murdoch
+070901.html,[Rd] vignette checking woes,70901,Duncan Murdoch
+070819.html,[Rd] Requirement for pandoc 1.12.3 in R 3.1.3,70819,John Nash
+070719.html,[Rd] iterated lapply,70719,Radford Neal
+070721.html,[Rd] iterated lapply,70721,Radford Neal
+070902.html,[Rd] nested parallel workers,70902,Valerie Obenchain
+070919.html,[Rd] nested parallel workers,70919,Valerie Obenchain
+070924.html,[Rd] nested parallel workers,70924,Valerie Obenchain
+070749.html,[Rd] Asssistance,70749,Evans Otieno Ochiaga
+070760.html,[Rd] nonlinear least square,70760,Evans Otieno Ochiaga
+070852.html,[Rd] Help,70852,Evans Otieno Ochiaga
+070809.html,[Rd] normalizePath output depends on existence of directory,70809,Thierry Onkelinx
+070893.html,[Rd] robust updating methods,70893,Thierry Onkelinx
+070903.html,[Rd] vignette checking woes,70903,Thierry Onkelinx
+070905.html,[Rd] vignette checking woes,70905,Thierry Onkelinx
+070917.html,[Rd] robust updating methods,70917,Thierry Onkelinx
+070744.html,[Rd] Import data set from another package?,70744,Jeroen Ooms
+070754.html,[Rd] Feature request: copy attributes in gzcon,70754,Jeroen Ooms
+070804.html,[Rd] [R] How to access https page,70804,Jeroen Ooms
+070739.html,[Rd] R-devel does not update the C++ returned variables,70739,Herv&#233; Pag&#232;s
+070740.html,[Rd] R-devel does not update the C++ returned variables,70740,Herv&#233; Pag&#232;s
+070755.html,[Rd] [R] Why does R replace all row values with NAs,70755,Herv&#233; Pag&#232;s
+070758.html,[Rd] [R] Why does R replace all row values with NAs,70758,Herv&#233; Pag&#232;s
+070762.html,[Rd] Performance issue in stats:::weighted.mean.default method,70762,Tade&#225;&#353; Palusga
+070765.html,[Rd] Performance issue in stats:::weighted.mean.default method,70765,Tade&#225;&#353; Palusga
+070742.html,[Rd] Import data set from another package?,70742,Brian G. Peterson
+070767.html,[Rd] Submit a package which use doParallel,70767,Brian G. Peterson
+070851.html,[Rd] Using Fortran 90 code in packages for CRAN,70851,Martyn Plummer
+070857.html,[Rd] [Rcpp-devel] Windows gcc toolchain for R 3.2.0,70857,Martyn Plummer
+070908.html,[Rd] vignette checking woes,70908,Martyn Plummer
+070746.html,[Rd] Import data set from another package?,70746,Prof Brian Ripley
+070763.html,[Rd] Performance issue in stats:::weighted.mean.default method,70763,Prof Brian Ripley
+070818.html,[Rd] Requirement for pandoc 1.12.3 in R 3.1.3,70818,Prof Brian Ripley
+070882.html,"[Rd] CRAN binary, but no source",70882,Prof Brian Ripley
+070910.html,[Rd] About removing zlib from R-devel,70910,Prof Brian Ripley
+070927.html,[Rd] About removing zlib from R-devel,70927,Prof Brian Ripley
+070930.html,[Rd] VPATH build of R on MacOSX,70930,Prof Brian Ripley
+070885.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod, tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70885,Dr. Peter Ruckdeschel
+070805.html,[Rd] R_HOME default setting,70805,Gavin Simpson
+070779.html,[Rd] Notes on building a gcc toolchain for Rtools (but not multilib),70779,Hsiu-Khuern Tang
+070781.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70781,Hsiu-Khuern Tang
+070785.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70785,Hsiu-Khuern Tang
+070792.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70792,Hsiu-Khuern Tang
+070799.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70799,Hsiu-Khuern Tang
+070807.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70807,Hsiu-Khuern Tang
+070811.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70811,Hsiu-Khuern Tang
+070814.html,[Rd] Notes on building a gcc toolchain for Rtools (but not	multilib),70814,Hsiu-Khuern Tang
+070797.html,[Rd] Notes on building a gcc toolchain for Rtools (but	not	multilib),70797,Dan Tenenbaum
+070802.html,[Rd] Notes on building a gcc toolchain for Rtools (but not multilib),70802,Dan Tenenbaum
+070815.html,[Rd] Notes on building a gcc toolchain for Rtools (but not multilib),70815,Dan Tenenbaum
+070820.html,[Rd] Requirement for pandoc 1.12.3 in R 3.1.3,70820,Dan Tenenbaum
+070829.html,[Rd] Notes on building a gcc toolchain for Rtools (but	not	multilib),70829,Dan Tenenbaum
+070856.html,[Rd] [Rcpp-devel] Windows gcc toolchain for R 3.2.0,70856,Dan Tenenbaum
+070870.html,"[Rd] CRAN binary, but no source",70870,Dan Tenenbaum
+070872.html,"[Rd] CRAN binary, but no source",70872,Dan Tenenbaum
+070731.html,[Rd] clarification on import/depends for a method,70731,"Therneau, Terry M., Ph.D."
+070741.html,[Rd] Import data set from another package?,70741,"Therneau, Terry M., Ph.D."
+070752.html,[Rd] Import data set from another package?,70752,"Therneau, Terry M., Ph.D."
+070879.html,"[Rd] RFC: Matrix package: Matrix products (%*%, crossprod, tcrossprod) involving &quot;nsparseMatrix&quot; aka sparse pattern matrices",70879,Heather Turner
+070737.html,[Rd] R-devel does not update the C++ returned variables,70737,D&#233;nes T&#243;th
+070846.html,[Rd] Reduce memory peak when serializing to raw vectors,70846,Simon Urbanek
+070849.html,[Rd] Reduce memory peak when serializing to raw vectors,70849,Simon Urbanek
+070906.html,[Rd] nested parallel workers,70906,Simon Urbanek
+070913.html,[Rd] About removing zlib from R-devel,70913,Simon Urbanek
+070923.html,[Rd] nested parallel workers,70923,Simon Urbanek
+070775.html,[Rd] Hyper-dual numbers in R,70775,Ravi Varadhan
+070777.html,[Rd] Hyper-dual numbers in R,70777,Ravi Varadhan
+070734.html,[Rd] clarification on import/depends for a method,70734,Hadley Wickham
+070743.html,[Rd] Import data set from another package?,70743,Hadley Wickham
+070918.html,[Rd] Segfault with match(),70918,Hadley Wickham
+070922.html,[Rd] Segfault with match(),70922,Hadley Wickham
+070753.html,[Rd] Asking for tasks of summer code 2015,70753,"beleites,claudia"
+070896.html,[Rd] F77_CALL/NAME problem,70896,bstr
+070897.html,[Rd] F77_CALL/NAME problem,70897,bstr
+070907.html,[Rd] F77_CALL/NAME problem,70907,bstr
+070748.html,[Rd] Asking for tasks of summer code 2015,70748,han cao
+070874.html,"[Rd] CRAN binary, but no source",70874,peter dalgaard
+070892.html,[Rd] Possible values for R version status,70892,peter dalgaard
+070821.html,[Rd] Best way to handle dependency on non-CRAN package / large data	package?,70821,arilamstein at gmail.com
+070823.html,[Rd] Best way to handle dependency on non-CRAN package / large data package?,70823,arilamstein at gmail.com
+070828.html,[Rd] Best way to handle dependency on non-CRAN package / large data package?,70828,arilamstein at gmail.com
+070727.html,[Rd] R-devel does not update the C++ returned variables,70727,sarah manderni
+070732.html,[Rd] R-devel does not update the C++ returned variables,70732,sarah manderni
+070720.html,[Rd] iterated lapply,70720,luke-tierney at uiowa.edu
+070722.html,[Rd] iterated lapply,70722,luke-tierney at uiowa.edu
+070723.html,[Rd] iterated lapply,70723,luke-tierney at uiowa.edu
+070724.html,[Rd] iterated lapply,70724,luke-tierney at uiowa.edu
+070925.html,[Rd] Segfault with match(),70925,luke-tierney at uiowa.edu

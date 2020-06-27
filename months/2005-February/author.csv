@@ -1,0 +1,250 @@
+link,Subject,id,author
+032268.html,[Rd] want to call R from aplatform written i strict ANSI C,32268,Ralf &#214;stermark
+032320.html,[Rd] calling an R-function from C,32320,Ralf &#214;stermark
+032256.html,[Rd] Re: [R] Memory Fragmentation in R,32256,Nawaaz Ahmed
+032260.html,[Rd] Re: [R] Memory Fragmentation in R,32260,Nawaaz Ahmed
+032317.html,[Rd] Re: [R] Do environments make copies?,32317,Nawaaz Ahmed
+032248.html,[Rd] creating POSIXct dates in C,32248,Whit Armstrong
+032046.html,[Rd] Problem with Linux installation,32046,Miguel A. Arranz
+032181.html,[Rd] Internationalization,32181,Henrik Bengtsson
+032220.html,"[Rd] Depends, require(), autoload() and &quot;side effects&quot;?",32220,Henrik Bengtsson
+032309.html,[Rd] How graphical an interface should the default be?,32309,Henrik Bengtsson
+032290.html,[Rd] DSC 2005: announcement and call for papers,32290,Biostatistics
+032222.html,[Rd] Gtk2 interface to R,32222,Bluefuture
+032226.html,[Rd] Gtk2 interface to R,32226,Bluefuture
+032084.html,[Rd] R-patched Make Check Fails on reg-tests-1.R on linux and OS X,32084,Jake Bowers
+032063.html,[Rd] Respuesta autom&#225;tica de Fuera de la oficina: massas!,32063,Laura  Celaya
+032049.html,[Rd] Re: [R] RData loading weirdness,32049,Peter Dalgaard
+032066.html,[Rd] getAnywhere,32066,Peter Dalgaard
+032079.html,[Rd] sys.on.exit not working (PR#7665),32079,Peter Dalgaard
+032107.html,[Rd] Environment with no parent?,32107,Peter Dalgaard
+032110.html,[Rd] Environment with no parent?,32110,Peter Dalgaard
+032114.html,[Rd] Environment with no parent?,32114,Peter Dalgaard
+032127.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32127,Peter Dalgaard
+032143.html,[Rd] install issue | suse 9.2,32143,Peter Dalgaard
+032162.html,[Rd] Pipe / Fork: Partial Solution / Providing Connections from C?,32162,Peter Dalgaard
+032180.html,[Rd] getAnywhere and functions starting with &quot;.&quot; (PR#7684),32180,Peter Dalgaard
+032183.html,[Rd] Bug in cor function (PR#7689),32183,Peter Dalgaard
+032216.html,"mapply(), was Re: [Rd] sprintf",32216,Peter Dalgaard
+032239.html,[Rd] eapply weirdness/bug,32239,Peter Dalgaard
+032240.html,[Rd] Suggestions for enhanced routines for &quot;mlm&quot; models.,32240,Peter Dalgaard
+032246.html,[Rd] eapply weirdness/bug,32246,Peter Dalgaard
+032259.html,[Rd] eapply weirdness/bug,32259,Peter Dalgaard
+032296.html,[Rd] bug report for as.function (PR#7702),32296,Peter Dalgaard
+032301.html,[Rd] Re: [R] H-F corr.: covariance matrix for interaction effect,32301,Peter Dalgaard
+032325.html,[Rd] Getting width of Tk text widget via tcltk,32325,Peter Dalgaard
+032327.html,[Rd] Getting width of Tk text widget via tcltk,32327,Peter Dalgaard
+032331.html,[Rd] Getting width of Tk text widget via tcltk,32331,Peter Dalgaard
+032336.html,[Rd] Re: [R] H-F corr.: covariance matrix for interaction effect,32336,Peter Dalgaard
+032055.html,[Rd] modules with libtool and -dlpreopen,32055,Marcus G. Daniels
+032056.html,[Rd] modules with libtool and -dlpreopen,32056,Marcus G. Daniels
+032060.html,[Rd] modules with libtool and -dlpreopen,32060,Marcus G. Daniels
+032061.html,[Rd] modules with libtool and -dlpreopen,32061,Marcus G. Daniels
+032081.html,[Rd] Problems encountered/fixed making CrossCompileBuild,32081,Steve Dutky
+032217.html,[Rd] Apropos sprintf behavior,32217,Steve Dutky
+032271.html,[Rd] eBay update  T738OS,32271,EYXGPW at aol.com
+032274.html,[Rd] Re: [R] minus I and minus L flags,32274,Dirk Eddelbuettel
+032198.html,[Rd] formatC with illegal input crashes Rgui (PR#7686),32198,P Ehlers
+032241.html,"[Rd] read.ftable, write.ftable -- move to base?",32241,David Firth
+032322.html,[Rd] Getting width of Tk text widget via tcltk,32322,John Fox
+032324.html,[Rd] Getting width of Tk text widget via tcltk,32324,John Fox
+032326.html,[Rd] Getting width of Tk text widget via tcltk,32326,John Fox
+032328.html,[Rd] Getting width of Tk text widget via tcltk,32328,John Fox
+032204.html,[Rd] Wishlist: simple legend options (PR#7400),32204,Friedrich.Leisch at tuwien.ac.at
+032194.html,[Rd] Wishlist: simple legend options (PR#7400),32194,Gregor GORJANC
+032201.html,[Rd] Wishlist: simple legend options (PR#7400),32201,Gregor GORJANC
+032251.html,[Rd] &#185;&#218;&#200;&#186;&#189;&#240;&#179;&#189; KILL Shield Gateway &#178;&#161;&#182;&#190;&#190;&#175;&#177;&#168;,32251,KILL Shield Gateway
+032108.html,[Rd] Environment with no parent?,32108,Robert Gentleman
+032303.html,[Rd] How graphical an interface should the default be?,32303,Robert Gentleman
+032115.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32115,Jeff Gentry
+032054.html,[Rd] Re: package checks and tests;  was: Re:  A &quot;rude&quot; question,32054,Paul Gilbert
+032059.html,[Rd] windows dse bundle install problem,32059,Paul Gilbert
+032087.html,[Rd] link to an alias in another package,32087,Paul Gilbert
+032125.html,[Rd] link to an alias in another package,32125,Paul Gilbert
+032163.html,[Rd] Notes on bug reports 3229 and 3242 - as.matrix.data.frame,32163,Gorjanc Gregor
+032165.html,[Rd] Notes on bug reports 3229 and 3242 - as.matrix.data.frame,32165,Gorjanc Gregor
+032171.html,[Rd] Notes on bug reports 3229 and 3242 - as.matrix.data.fram e,32171,Gorjanc Gregor
+032178.html,[Rd] Notes on bug reports 3229 and 3242 - as.matrix.data.fram e,32178,Gorjanc Gregor
+032185.html,[Rd] Wishlist: simple legend options (PR#7400),32185,Gorjanc Gregor
+032186.html,[Rd] Wish: multiline comments,32186,Gorjanc Gregor
+032211.html,[Rd] Test Tools,32211,Gabor Grothendieck
+032263.html,[Rd] matrix operations,32263,Gabor Grothendieck
+032318.html,[Rd] Re: [R] Do environments make copies?,32318,Gabor Grothendieck
+032213.html,[Rd] difference between class - SOM and som_pack,32213,Manuel Gutierrez
+032184.html,[Rd] docu buglet,32184,Kjetil Brinchmann Halvorsen
+032109.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32109, (Ted Harding)
+032072.html,[Rd] modules with libtool and -dlpreopen,32072,Kurt Hornik
+032101.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32101,Kurt Hornik
+032119.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32119,Kurt Hornik
+032128.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32128,Kurt Hornik
+032130.html,[Rd] Re: Compiler-specific flags with PKG_CFLAGS,32130,Kurt Hornik
+032132.html,[Rd] Re: Compiler-specific flags with PKG_CFLAGS,32132,Kurt Hornik
+032145.html,[Rd] Re: Compiler-specific flags with PKG_CFLAGS,32145,Kurt Hornik
+032146.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32146,Kurt Hornik
+032150.html,[Rd] Re: Packages and Libraries,32150,Kurt Hornik
+032316.html,[Rd] SystemRequirements clarification,32316,Kurt Hornik
+032212.html,[Rd] R News: Call for Papers,32212,Torsten Hothorn
+032223.html,[Rd] promptMethods(foo) &amp; \alias{foo},32223,Torsten Hothorn
+032069.html,[Rd] RE: [R] Keeping the data of C structure in R variables?..,32069,"Huntsinger, Reid"
+032288.html,[Rd] Re: [R-SIG-Mac] Bug running pbinom() in R-GUI?,32288,IandJMSmith at aol.com
+032134.html,[Rd] Please read.,32134,Julia
+032136.html,[Rd] Please read.,32136,Julia
+032126.html,[Rd] Please read.,32126,Julia
+032284.html,[Rd] package check - empty line at end of .R file,32284,"Kiermeier, Andreas (PIRSA - SARDI)"
+032051.html,[Rd] Re: [R] Process to both write to and read from (pipe/fork)?,32051,Jan T. Kim
+032161.html,[Rd] Pipe / Fork: Partial Solution / Providing Connections from C?,32161,Jan T. Kim
+032170.html,[Rd] Pipe / Fork: Partial Solution / Providing Connections from C?,32170,Jan T. Kim
+032270.html,[Rd] Re: [R] LD_LIBRARY_PATH is harmfull,32270,Alexander Klimov
+032273.html,[Rd] Re: [R] LD_LIBRARY_PATH is harmfull,32273,Alexander Klimov
+032159.html,[Rd] Canonical S4 Method signature,32159,Matthias Kohl
+032312.html,[Rd] Profiling C functions called from R.,32312,Pavel N. Krivitsky
+032070.html,[Rd] Re: [R] R package with C code on Windows,32070,Uwe Ligges
+032189.html,[Rd] Wishlist: simple legend options (PR#7400),32189,Uwe Ligges
+032197.html,[Rd] Wishlist: simple legend options (PR#7400),32197,Uwe Ligges
+032293.html,[Rd] Graphics devices file[name] argument,32293,Uwe Ligges
+032172.html,[Rd] double/integer (PR#7687),32172,Thomas Lumley
+032098.html,[Rd] Pre-building lazyload DB,32098,James MacDonald
+032104.html,[Rd] Pre-building lazyload DB (fwd),32104,James W. MacDonald
+032095.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32095,Martin Maechler
+032177.html,[Rd] getAnywhere and functions starting with &quot;.&quot; (PR#7684),32177,Mark.Bravington at csiro.au
+032237.html,[Rd] eapply weirdness/bug,32237,Mark.Bravington at csiro.au
+032065.html,[Rd] getAnywhere,32065,"McGehee, Robert"
+032105.html,[Rd] RE: [R] Windows Printing and Line Widths,32105,"McGehee, Robert"
+032332.html,[Rd] Changing function arguments to NULL,32332,"McGehee, Robert"
+032334.html,[Rd] Changing function arguments to NULL,32334,"McGehee, Robert"
+032228.html,[Rd] Subsetting using dimnames on S4 array-based class,32228,Iago Mosqueira
+032230.html,[Rd] Subsetting using dimnames on S4 array-based class,32230,Iago Mosqueira
+032089.html,[Rd] link to an alias in another package,32089,Duncan Murdoch
+032096.html,[Rd] link to an alias in another package,32096,Duncan Murdoch
+032103.html,[Rd] Environment with no parent?,32103,Duncan Murdoch
+032111.html,[Rd] Environment with no parent?,32111,Duncan Murdoch
+032140.html,[Rd] Environment with no parent?,32140,Duncan Murdoch
+032235.html,[Rd] Documentation typos (PR#7693),32235,Duncan Murdoch
+032238.html,[Rd] german translation,32238,Duncan Murdoch
+032250.html,[Rd] Translation Teams,32250,Duncan Murdoch
+032321.html,[Rd] calling an R-function from C,32321,Duncan Murdoch
+032210.html,[Rd] R News: Call for Papers,32210,Paul Murrell
+032305.html,[Rd] png device plot on athlon 64 processor (PR#7706),32305,P.E.VerLorenvanThemaat at amc.uva.nl
+032243.html,[Rd] calling optif0 in a C function,32243,Emmanuel Paradis
+032276.html,[Rd] Re: calling optif0 in a C function,32276,Emmanuel Paradis
+032333.html,[Rd] Changing function arguments to NULL,32333,Roger D. Peng
+032219.html,[Rd] Test Tools,32219,Tony Plate
+032047.html,[Rd] Re: [R] RData loading weirdness,32047,Prof Brian Ripley
+032048.html,[Rd] Re: [R] Process to both write to and read from (pipe/fork)?,32048,Prof Brian Ripley
+032050.html,[Rd] Problem with Linux installation,32050,Prof Brian Ripley
+032053.html,[Rd] anova.glm (PR#7624),32053,Prof Brian Ripley
+032058.html,[Rd] modules with libtool and -dlpreopen,32058,Prof Brian Ripley
+032062.html,[Rd] windows dse bundle install problem,32062,Prof Brian Ripley
+032074.html,[Rd] Re: [R] Internationalization and localization of R,32074,Prof Brian Ripley
+032076.html,[Rd] sys.on.exit not working (PR#7665),32076,Prof Brian Ripley
+032078.html,[Rd] bug in fix &amp; edit (PR#7642),32078,Prof Brian Ripley
+032088.html,[Rd] link to an alias in another package,32088,Prof Brian Ripley
+032092.html,[Rd] link to an alias in another package,32092,Prof Brian Ripley
+032094.html,[Rd] R-patched Make Check Fails on reg-tests-1.R on linux and OS X,32094,Prof Brian Ripley
+032100.html,[Rd] Pre-building lazyload DB,32100,Prof Brian Ripley
+032102.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32102,Prof Brian Ripley
+032113.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32113,Prof Brian Ripley
+032122.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32122,Prof Brian Ripley
+032139.html,[Rd] install issue | suse 9.2,32139,Prof Brian Ripley
+032142.html,[Rd] install issue | suse 9.2,32142,Prof Brian Ripley
+032153.html,[Rd] hist() error when prob=NULL (PR#7682),32153,Prof Brian Ripley
+032157.html,[Rd] getAnywhere and functions starting with &quot;.&quot; (PR#7684),32157,Prof Brian Ripley
+032160.html,[Rd] R-patched Make Check Fails on reg-tests-1.R on linux and OS X,32160,Prof Brian Ripley
+032164.html,[Rd] Notes on bug reports 3229 and 3242 - as.matrix.data.frame,32164,Prof Brian Ripley
+032173.html,[Rd] Re: [R-SIG-Mac] Bug running pbinom() in R-GUI?,32173,Prof Brian Ripley
+032179.html,[Rd] getAnywhere and functions starting with &quot;.&quot; (PR#7684),32179,Prof Brian Ripley
+032188.html,[Rd] Wish: multiline comments,32188,Prof Brian Ripley
+032191.html,[Rd] docu buglet,32191,Prof Brian Ripley
+032192.html,[Rd] formatC with illegal input crashes Rgui (PR#7686),32192,Prof Brian Ripley
+032196.html,[Rd] Wishlist: simple legend options (PR#7400),32196,Prof Brian Ripley
+032202.html,[Rd] Wishlist: simple legend options (PR#7400),32202,Prof Brian Ripley
+032215.html,[Rd] sprintf,32215,Prof Brian Ripley
+032218.html,[Rd] Apropos sprintf behavior,32218,Prof Brian Ripley
+032225.html,[Rd] Gtk2 interface to R,32225,Prof Brian Ripley
+032229.html,[Rd] Subsetting using dimnames on S4 array-based class,32229,Prof Brian Ripley
+032231.html,[Rd] Subsetting using dimnames on S4 array-based class,32231,Prof Brian Ripley
+032234.html,[Rd] german translation,32234,Prof Brian Ripley
+032244.html,[Rd] contrasts (PR#7695),32244,Prof Brian Ripley
+032253.html,[Rd] creating POSIXct dates in C,32253,Prof Brian Ripley
+032258.html,[Rd] Re: [R] Memory Fragmentation in R,32258,Prof Brian Ripley
+032265.html,[Rd] matrix operations,32265,Prof Brian Ripley
+032267.html,[Rd] Re: [R] LD_LIBRARY_PATH is harmfull,32267,Prof Brian Ripley
+032269.html,[Rd] Re: [R] minus I and minus L flags,32269,Prof Brian Ripley
+032272.html,[Rd] Re: [R] LD_LIBRARY_PATH is harmfull,32272,Prof Brian Ripley
+032277.html,[Rd] problems with tcltk in R 2.0.1 (PR#7698),32277,Prof Brian Ripley
+032286.html,[Rd] package check - empty line at end of .R file,32286,Prof Brian Ripley
+032287.html,[Rd] Re: [R-SIG-Mac] Bug running pbinom() in R-GUI?,32287,Prof Brian Ripley
+032302.html,[Rd] How graphical an interface should the default be?,32302,Prof Brian Ripley
+032304.html,[Rd] How graphical an interface should the default be?,32304,Prof Brian Ripley
+032314.html,(PR#7707) Re: [Rd] vcov on result of rlm() yields &quot;-- please report!&quot;,32314,Prof Brian Ripley
+032315.html,[Rd] Profiling C functions called from R.,32315,Prof Brian Ripley
+032319.html,[Rd] Re: [R] Do environments make copies?,32319,Prof Brian Ripley
+032323.html,[Rd] Getting width of Tk text widget via tcltk,32323,Prof Brian Ripley
+032330.html,[Rd] GUI File&gt;Load workspace &quot;bug&quot; in Windows (PR#7710),32330,Prof Brian Ripley
+032335.html,[Rd] Changing function arguments to NULL,32335,Prof Brian Ripley
+032129.html,[Rd] Compiler-specific flags with PKG_CFLAGS,32129,Paul Roebuck
+032131.html,[Rd] Re: Compiler-specific flags with PKG_CFLAGS,32131,Paul Roebuck
+032137.html,[Rd] Re: Compiler-specific flags with PKG_CFLAGS,32137,Paul Roebuck
+032155.html,[Rd] Canonical S4 Method signature,32155,Paul Roebuck
+032209.html,[Rd] Test Tools,32209,Paul Roebuck
+032291.html,[Rd] Graphics devices file[name] argument,32291,Paul Roebuck
+032310.html,[Rd] SystemRequirements clarification,32310,Paul Roebuck
+032073.html,[Rd] Re: [R] Internationalization and localization of R,32073,Fernando Henrique Ferraz P. da Rosa
+032236.html,[Rd] german translation,32236,Fernando Henrique Ferraz P. da Rosa
+032255.html,[Rd] Translation commentaries,32255,Fernando Henrique Ferraz P. da Rosa
+032099.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32099,A.J. Rossini
+032117.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32117,A.J. Rossini
+032118.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32118,A.J. Rossini
+032135.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32135,A.J. Rossini
+032147.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc ..),32147,A.J. Rossini
+032124.html,[Rd] Re: Packages and Libraries,32124,Barry Rowlingson
+032148.html,[Rd] Re: Packages and Libraries,32148,Barry Rowlingson
+032077.html,[Rd] W&amp;C Unsafe attachment(s) blocked notification.,32077,WorldSecure Server
+032227.html,[Rd] german translation,32227,Detlef Steuer
+032245.html,[Rd] eapply weirdness/bug,32245,Luke Tierney
+032247.html,[Rd] eapply weirdness/bug,32247,Luke Tierney
+032257.html,[Rd] Re: [R] Memory Fragmentation in R,32257,Luke Tierney
+032264.html,[Rd] eapply weirdness/bug,32264,Luke Tierney
+032133.html,[Rd] Re: Compiler-specific flags with PKG_CFLAGS,32133,Simon Urbanek
+032169.html,[Rd] Re: [R-SIG-Mac] Bug running pbinom() in R-GUI?,32169,Simon Urbanek
+032175.html,[Rd] Re: [R-SIG-Mac] Bug running pbinom() in R-GUI?,32175,Simon Urbanek
+032262.html,[Rd] matrix operations,32262,Melanie Vida
+032093.html,[Rd] problems with tcltk in R2.0.1,32093,Hjellvik Vidar
+032149.html,[Rd] Informar al remitente,32149,W-CMESP-001 at clarkemodet.com
+032285.html,[Rd] Re: [R-SIG-Mac] Bug running pbinom() in R-GUI?,32285,Morten Welinder
+032138.html,[Rd] install issue | suse 9.2,32138,Dale Ryon Wilhelm
+032141.html,[Rd] install issue | suse 9.2,32141,Dale Ryon Wilhelm
+032144.html,[Rd] install issue | suse 9.2,32144,Dale Ryon Wilhelm
+032221.html,[Rd] config.status: error: cannot find input file: po/Makefile.in.in,32221,"Wittner, Ben"
+032261.html,[Rd] Comments to promptMethods/promptClass,32261,W.E. Wolski
+032232.html,[Rd] Subsetting using dimnames on S4 array-based class,32232,Witold Eryk Wolski
+032112.html,[Rd] Re: Packages and Libraries (was: Re: lme4 &quot;package&quot; etc,32112,Achim Zeileis
+032106.html,[Rd] Crash when R-devel is started from a shortcut,32106,apjaworski at mmm.com
+032233.html,[Rd] Documentation typos (PR#7693),32233,arnima at u.washington.edu
+032294.html,[Rd] bug report for as.function (PR#7702),32294,becker at kfs.oeaw.ac.at
+032116.html,[Rd] Linux: /usr/shar/doc/R-2.0.1/*.pdf all have bad fonts (PR#7675),32116,bef at northwestern.edu
+032329.html,[Rd] GUI File&gt;Load workspace &quot;bug&quot; in Windows (PR#7710),32329,bgunter at gene.com
+032182.html,[Rd] Bug in cor function (PR#7689),32182,cig69410 at syd.odn.ne.jp
+032068.html,[Rd] Re: Server Error (feedback@gamespyarcade.com),32068,customercare at gamespy.com
+032242.html,[Rd] contrasts (PR#7695),32242,david.clayton at cimr.cam.ac.uk
+032167.html,[Rd] formatC with illegal input crashes Rgui (PR#7686),32167,ehlers at math.ucalgary.ca
+032311.html,[Rd] vcov on result of rlm() yields &quot;-- please report!&quot; (PR#7707),32311,frank at trdlnk.com
+032097.html,[Rd] R-patched Make Check Fails on reg-tests-1.R on linux and OS X,32097,stefano iacus
+032057.html,[Rd] reading data from a pipe() uses 99% CPU (PR#7634),32057,keith at nissimo.net
+032090.html,[Rd] barplot: space makes beside=F (PR#7668),32090,ligges at statistik.uni-dortmund.de
+032158.html,[Rd] getAnywhere and functions starting with &quot;.&quot; (PR#7684),32158,ligges at statistik.uni-dortmund.de
+032091.html,[Rd] barplot: space makes beside=F (PR#7668),32091,maechler at stat.math.ethz.ch
+032075.html,[Rd] sys.on.exit not working (PR#7665),32075,mark.bravington at csiro.au
+032156.html,[Rd] getAnywhere and functions starting with &quot;.&quot; (PR#7684),32156,mark.bravington at csiro.au
+032266.html,[Rd] Hot st0ck tips from experts who beat the market (PR#7696),32266,mcrdhigkg at cyberdif.com
+032295.html,[Rd] bug report for as.function (PR#7702),32295,murdoch at stats.uwo.ca
+032082.html,[Rd] barplot: space makes beside=F (PR#7668),32082,o.medek at sh.cvut.cz
+032080.html,[Rd] sys.on.exit not working (PR#7665),32080,p.dalgaard at biostat.ku.dk
+032067.html,[Rd] make check hangs on internet.R (PR#7645),32067,pasha at computer.org
+032064.html,[Rd] bug in fix &amp; edit (PR#7642),32064,roberts at berkeley.edu
+032168.html,[Rd] double/integer (PR#7687),32168,spencer at stats.ox.ac.uk
+032152.html,[Rd] hist() error when prob=NULL (PR#7682),32152,tomhopper at comcast.net
+032289.html,[Rd] Savvy p|ayers w0u|d be wise tO |Oad up ear|y (PR#7699),32289,unpppuomhnbb at 21cn.com
+032275.html,[Rd] problems with tcltk in R 2.0.1 (PR#7698),32275,vidarh at imr.no
+032292.html,[Rd] Remember that SmallCaps outperform the Dow (PR#7700),32292,wntwwjewuf at wawasan2020.com
+032052.html,[Rd] anova.glm (PR#7624),32052,yuedong at pstat.ucsb.edu

@@ -1,0 +1,294 @@
+link,Subject,id,author
+044017.html,[Rd] turning expression object to function,44017,"Antonio, Fabio Di Narzo"
+044025.html,[Rd] turning expression object to function,44025,"Antonio, Fabio Di Narzo"
+043955.html,[Rd] Using substitute from inside an S4 method,43955,Franck Arnaud
+043945.html,"[Rd] data frame subset patch, take 2",43945,Jason Barnhart
+044052.html,[Rd] Possible bug in cut.Date(),44052,Martin Becker
+043963.html,[Rd] caching frequently used values,43963,Henrik Bengtsson
+044115.html,[Rd] Fwd: [R] axis and times() problem,44115,Charles C. Berry
+043897.html,[Rd] mixed effects model and r-squared,43897,Ben Bolker
+043995.html,[Rd] question about trailing arguments in an S4 method,43995,Ben Bolker
+044038.html,[Rd] question about trailing arguments in an S4 method,44038,Ben Bolker
+044071.html,[Rd] tiny typo in ?formals,44071,Ben Bolker
+044103.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44103,Zoran Bosnic
+043832.html,[Rd] promptClass misses methods,43832,Ross Boylan
+043833.html,[Rd] promptClass misses methods (addendum),43833,Ross Boylan
+043849.html,[Rd] promptClass misses methods,43849,Ross Boylan
+043850.html,[Rd] printing coefficients with text,43850,Ross Boylan
+043852.html,[Rd] promptClass misses methods,43852,Ross Boylan
+044116.html,[Rd] setGeneric and file order in a package,44116,Ross Boylan
+044121.html,[Rd] Capturing argument values,44121,Ross Boylan
+043925.html,[Rd] Undefined symbol when trying to dyn.load a shared object,43925,Michael Braun
+044107.html,"[Rd] FW: Passing lists from R to C, extracting elements, and sending lists back again",44107,Michael Braun
+044004.html,[Rd] Trabaja para la Empresa de Logistica como su Agente Autorizado,44004,Britney
+043929.html,[Rd] [R] Segfault in pure R code,43929,G&#246;ran Brostr&#246;m
+043959.html,[Rd] [R] Segfault in pure R code,43959,G&#246;ran Brostr&#246;m
+043975.html,[Rd] [R] Segfault in pure R code,43975,G&#246;ran Brostr&#246;m
+043977.html,[Rd] [R] Segfault in pure R code,43977,G&#246;ran Brostr&#246;m
+043978.html,[Rd] [R] Segfault in pure R code,43978,G&#246;ran Brostr&#246;m
+044057.html,[Rd] Missing install libraries for R on OpenSuse 10.2 (PR#9425),44057,Benilton Carvalho
+043878.html,[Rd] Fw: Get a Diplom awithout the hassle!,43878,(270) 818-7244 Chuck 
+043934.html,"[Rd] They had produced so much butter,	that they couldn't sell it on their own markets at the normal price.",43934,Henry Collier
+043844.html,[Rd] R 2.4.1 scheduled for December 18,43844,Peter Dalgaard
+043885.html,[Rd] tcltk::tk_select.list has bad width (PR#9410),43885,Peter Dalgaard
+043889.html,[Rd] Prerelease tarballs of R 2.4.1,43889,Peter Dalgaard
+043892.html,[Rd] Matplot does not work with x being POSIXt class (PR#9412),43892,Peter Dalgaard
+043909.html,[Rd] Floating point maths in R,43909,Peter Dalgaard
+043935.html,[Rd] [R] Segfault in pure R code,43935,Peter Dalgaard
+043996.html,[Rd] Curious finding in MASS:::confint.glm() tied to eval(),43996,Peter Dalgaard
+044014.html,[Rd] Error compiling on HP-UX,44014,Peter Dalgaard
+044061.html,[Rd] R windows crash (PR#9426),44061,Peter Dalgaard
+044066.html,[Rd] R windows crash (PR#9426),44066,Peter Dalgaard
+044079.html,[Rd] substitute creates an object which prints incorrectly	(PR#9427),44079,Peter Dalgaard
+044092.html,[Rd] substitute creates an object which prints	incorrectly	(PR#9427),44092,Peter Dalgaard
+043919.html,"[Rd] data frame subset patch, take 2",43919,Marcus G. Daniels
+043921.html,"[Rd] data frame subset patch, take 2",43921,Marcus G. Daniels
+043947.html,"[Rd] data frame subset patch, take 2",43947,Marcus G. Daniels
+043884.html,"[Rd] data frame subset patch, take 2",43884,Vladimir Dergachev
+043903.html,[Rd] empty pages in xyplot (2.4.0),43903,Vladimir Dergachev
+043946.html,"[Rd] data frame subset patch, take 2",43946,Vladimir Dergachev
+043950.html,"[Rd] data frame subset patch, take 2",43950,Vladimir Dergachev
+044042.html,"[Rd] data frame subset patch, take 2",44042,Vladimir Dergachev
+043845.html,[Rd] R CMD check warning about boot ?,43845,Dirk Eddelbuettel
+043857.html,[Rd] R 2.4.1 scheduled for December 18,43857,Dirk Eddelbuettel
+043862.html,[Rd] passing matrix as argument to a C function,43862,Dirk Eddelbuettel
+043914.html,[Rd] Wondering about methods (selecting a less specialized method),43914,Byron Ellis
+043916.html,[Rd] Wondering about methods (selecting a less specialized	method),43916,Byron Ellis
+043936.html,[Rd] Pre-compilation and server-side parallel execution,43936,Byron Ellis
+044002.html,[Rd] question about trailing arguments in an S4 method,44002,Byron Ellis
+043854.html,[Rd] promptClass misses methods,43854,Seth Falcon
+043915.html,[Rd] Wondering about methods (selecting a less specialized	method),43915,Seth Falcon
+043926.html,[Rd] Conditional suggest,43926,Seth Falcon
+043961.html,[Rd] caching frequently used values,43961,Seth Falcon
+043962.html,[Rd] A possible improvement to apropos,43962,Seth Falcon
+043967.html,[Rd] A possible improvement to apropos,43967,Seth Falcon
+043984.html,[Rd] A possible improvement to apropos,43984,Seth Falcon
+044000.html,[Rd] question about trailing arguments in an S4 method,44000,Seth Falcon
+043922.html,"[Rd] data frame subset patch, take 2",43922,Robert Gentleman
+043951.html,"[Rd] data frame subset patch, take 2",43951,Robert Gentleman
+043953.html,"[Rd] data frame subset patch, take 2",43953,Robert Gentleman
+043956.html,[Rd] caching frequently used values,43956,Robert Gentleman
+043958.html,[Rd] caching frequently used values,43958,Robert Gentleman
+043973.html,[Rd] A possible improvement to apropos,43973,Robert Gentleman
+043906.html,[Rd] dyn.load and function calls without 'PACKAGE' argument,43906,Paul Gilbert
+043863.html,[Rd] R 2.4.1 scheduled for December 18,43863,Gregor Gorjanc
+043875.html,[Rd] R 2.4.1 scheduled for December 18,43875,Gregor Gorjanc
+043876.html,[Rd] R 2.4.1 scheduled for December 18,43876,Gregor Gorjanc
+043881.html,[Rd] R-devel: rownames of a data.frame,43881,Gregor Gorjanc
+043888.html,"[Rd] Enhances, require() and quality control",43888,Gregor Gorjanc
+043894.html,[Rd] Matplot does not work with x being POSIXt class (PR#9412),43894,Gregor Gorjanc
+043917.html,"[Rd] Enhances, require() and quality control",43917,Gregor Gorjanc
+043923.html,"[Rd] Conditional suggest (was Re:  Enhances, require() and quality control)",43923,Gregor Gorjanc
+044117.html,[Rd] setGeneric and file order in a package,44117,Gregor Gorjanc
+043933.html,[Rd] Leroy and I strolled out in the dimming afternoon light for a	breath of air and to check out the progress of the colors in	preparation for the Museum's annual Fall Colors Stroll.,43933,Cyrus Grace
+044067.html,[Rd] Problem installing MinGW 5.0.3: Your internet connection seems to be not permitted or dropped out!,44067,Spencer Graves
+044072.html,[Rd] Problem installing MinGW 5.0.3: Your internet connection seems to be not permitted or dropped out!,44072,Spencer Graves
+044001.html,[Rd] caching frequently used values,44001,Gabor Grothendieck
+044020.html,[Rd] turning expression object to function,44020,Gabor Grothendieck
+044080.html,[Rd] substitute creates an object which prints incorrectly	(PR#9427),44080,Gabor Grothendieck
+044084.html,[Rd] apropos changes in r-devel: intended feature or bug?,44084,Gabor Grothendieck
+044113.html,[Rd] Fwd: [R] axis and times() problem,44113,Gabor Grothendieck
+043887.html,[Rd] tcltk::tk_select.list has bad width (PR#9410),43887,Jeffrey J. Hallman
+043898.html,[Rd] jhallman at frb.gov: dyn.load and function calls without	'PACKAGE' argument,43898,Jeffrey J. Hallman
+043904.html,[Rd] dyn.load and function calls without 'PACKAGE' argument,43904,Jeffrey J. Hallman
+043858.html,[Rd] passing matrix as argument to a C function,43858,Christos Hatzis
+043861.html,[Rd] passing matrix as argument to a C function,43861,Christos Hatzis
+043864.html,[Rd] passing matrix as argument to a C function,43864,Christos Hatzis
+043870.html,[Rd] Library file for the R engine in Windows?,43870,Christos Hatzis
+043872.html,[Rd] Library file for the R engine in Windows?,43872,Christos Hatzis
+043877.html,[Rd] Library file for the R engine in Windows?,43877,Christos Hatzis
+044031.html,[Rd] Phonetic symbols (IPA) in R graphics,44031,Jeffrey Horner
+043983.html,[Rd] A possible improvement to apropos,43983,Kurt Hornik
+043985.html,[Rd] A possible improvement to apropos,43985,Kurt Hornik
+044081.html,[Rd] apropos changes in r-devel: intended feature or bug?,44081,Kurt Hornik
+043834.html,[Rd] R-devel does not compile under FreeBSD-7.0 CURRENT [SOLVED],43834,Rainer Hurling
+043942.html,[Rd] capturing value of C or Fortran function,43942,Harris A. Jaffee
+043982.html,[Rd] fork package problem,43982,Jan T. Kim
+043901.html,[Rd] dyn.load and function calls without 'PACKAGE' argument,43901,Duncan Temple Lang
+043928.html,[Rd] include libraries for C code called from R,43928,Duncan Temple Lang
+044053.html,[Rd] Connections to https: URLs -- IE expert help needed,44053,Duncan Temple Lang
+043853.html,"[Rd] You Need a Better Degree,{} and we can Hlep!",43853,(270) 818-7244 Leanne 
+043949.html,[Rd] capturing value of C or Fortran function,43949,Hin-Tak Leung
+044009.html,[Rd] Phonetic symbols (IPA) in R graphics,44009,Hin-Tak Leung
+044015.html,[Rd] Error compiling on HP-UX,44015,Hin-Tak Leung
+044029.html,[Rd] Error compiling on HP-UX,44029,Hin-Tak Leung
+044032.html,[Rd] Error compiling on HP-UX,44032,Hin-Tak Leung
+044064.html,[Rd] jpeg() and png() in R-2.4.x (PR#9423),44064,Hin-Tak Leung
+044120.html,[Rd] calling optimize/fmin from C code,44120,Hin-Tak Leung
+043874.html,[Rd] Error importing data (PR#9409),43874,Uwe Ligges
+043890.html,[Rd] Cannot run R (PR#9411),43890,Uwe Ligges
+043938.html,[Rd] Problem with tuned Rblas from CRAN with R-2.4.0,43938,Uwe Ligges
+044096.html,[Rd] bug in sqlSave with fast=F option (PR#9429),44096,Uwe Ligges
+044097.html,[Rd] Windows binary package builder and checker,44097,Uwe Ligges
+044110.html,"[Rd] FW: Passing lists from R to C, extracting elements, and sending lists back again",44110,Manuel Castej&#243;n Limas
+043847.html,[Rd] mixed effects model and r-squared,43847,Indermaur Lukas
+044016.html,[Rd] capturing value of C or Fortran function,44016,Thomas Lumley
+044109.html,"[Rd] FW: Passing lists from R to C, extracting elements, and sending lists back again",44109,Thomas Lumley
+044111.html,[Rd] proposal: allowing alternative variance estimators in glm/lm,44111,Thomas Lumley
+044108.html,[Rd] .Rbuildignore and vignettes,44108,Sebastian P. Luque
+043924.html,[Rd] include libraries for C code called from R,43924,braunm at MIT.EDU
+043893.html,[Rd] Matplot does not work with x being POSIXt class (PR#9412),43893,Don MacQueen
+043837.html,[Rd] printing coefficients with text,43837,Martin Maechler
+043838.html,[Rd] order of levels in interaction(),43838,Martin Maechler
+043839.html,[Rd] promptClass misses methods,43839,Martin Maechler
+043841.html,[Rd] R CMD check warning about boot ?,43841,Martin Maechler
+043851.html,[Rd] promptClass misses methods,43851,Martin Maechler
+043880.html,[Rd] R-devel: rownames of a data.frame,43880,Martin Maechler
+043913.html,[Rd] abline for intercept-only simple lm models (with and	without offset),43913,Martin Maechler
+043920.html,"[Rd] data frame subset patch, take 2",43920,Martin Maechler
+043964.html,[Rd] A possible improvement to apropos,43964,Martin Maechler
+043979.html,[Rd] A possible improvement to apropos,43979,Martin Maechler
+043998.html,"[Rd] data frame subset patch, take 2",43998,Martin Maechler
+043999.html,"[Rd] data frame subset patch, take 2",43999,Martin Maechler
+044006.html,[Rd] Mailing lists R-devel and R-core .. moderation,44006,Martin Maechler
+044007.html,[Rd] abline for intercept-only simple lm models (with and	without offset),44007,Martin Maechler
+044049.html,[Rd] preserving sparse matrices (Matrix),44049,Martin Maechler
+044075.html,[Rd] apropos changes in r-devel: intended feature or bug?,44075,Martin Maechler
+044076.html,[Rd] variable scope in update(): bug or feature?,44076,Martin Maechler
+044083.html,[Rd] apropos changes in r-devel: intended feature or bug?,44083,Martin Maechler
+044118.html,[Rd] Fwd: [R] axis and times() problem,44118,Martin Maechler
+043907.html,[Rd] Floating point maths in R,43907,Tom McCallum
+043911.html,[Rd] Floating point maths in R,43911,Tom McCallum
+044070.html,[Rd] variable scope in update(): bug or feature?,44070,Michael
+044087.html,[Rd] variable scope in update(): bug or feature?,44087,Michael
+044090.html,[Rd] variable scope in update(): bug or feature?,44090,Michael
+043842.html,[Rd] Non central chi squared bug (PR#9406),43842,Duncan Murdoch
+043855.html,[Rd] Non central chi squared bug (PR#9406),43855,Duncan Murdoch
+043910.html,[Rd] Floating point maths in R,43910,Duncan Murdoch
+043927.html,[Rd] Undefined symbol when trying to dyn.load a shared object,43927,Duncan Murdoch
+043981.html,[Rd] fork package problem,43981,Duncan Murdoch
+043989.html,[Rd] max.col oddity,43989,Duncan Murdoch
+043993.html,[Rd] max.col oddity,43993,Duncan Murdoch
+044021.html,[Rd] help search mechanism for ?&quot;$&quot;,44021,Duncan Murdoch
+044035.html,[Rd] precision when calling a C function; presence of Fortran call,44035,Duncan Murdoch
+044037.html,[Rd] precision when calling a C function; presence of Fortran call,44037,Duncan Murdoch
+044043.html,[Rd] Source references from the parser,44043,Duncan Murdoch
+044044.html,[Rd] Source references from the parser,44044,Duncan Murdoch
+044069.html,[Rd] Problem installing MinGW 5.0.3: Your internet connection seems to be not permitted or dropped out!,44069,Duncan Murdoch
+044086.html,[Rd] Base R: applying min/max functions() to character string vectors (PR#9428),44086,Duncan Murdoch
+044098.html,[Rd] substitute creates an object which	prints	incorrectly	(PR#9427),44098,Duncan Murdoch
+044100.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44100,Duncan Murdoch
+044101.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44101,Duncan Murdoch
+043948.html,[Rd] Phonetic symbols (IPA) in R graphics,43948,Paul Murrell
+043974.html,[Rd] Phonetic symbols (IPA) in R graphics,43974,Paul Murrell
+044093.html,[Rd] variable scope in update(): bug or feature?,44093,NL
+044011.html,[Rd] Error compiling on HP-UX,44011,Pascal A. Niklaus
+044012.html,[Rd] Error compiling on HP-UX,44012,Pascal A. Niklaus
+044026.html,[Rd] Error compiling on HP-UX,44026,Pascal A. Niklaus
+044028.html,[Rd] Error compiling on HP-UX,44028,Pascal A. Niklaus
+044030.html,[Rd] Error compiling on HP-UX,44030,Pascal A. Niklaus
+043937.html,[Rd] Problem with tuned Rblas from CRAN with R-2.4.0,43937,Daniel Nordlund
+043944.html,[Rd] Problem with tuned Rblas from CRAN with R-2.4.0,43944,Daniel Nordlund
+043869.html,[Rd] book for the reluctant C programmer,43869,Tamas K Papp
+043954.html,[Rd] caching frequently used values,43954,Tamas K Papp
+043957.html,[Rd] caching frequently used values,43957,Tamas K Papp
+043960.html,[Rd] caching frequently used values,43960,Tamas K Papp
+044033.html,[Rd] preserving sparse matrices (Matrix),44033,Tamas K Papp
+044114.html,[Rd] calling optimize/fmin from C code,44114,Tamas K Papp
+044013.html,[Rd] .Rprofile not executed completely in 2.5.0,44013,Petr Pikal
+043882.html,[Rd] R-devel: rownames of a data.frame,43882,Tony Plate
+043943.html,"[Rd] data frame subset patch, take 2",43943,Tony Plate
+044024.html,[Rd] turning expression object to function,44024,Tony Plate
+043879.html,[Rd] Entry for &quot;sub&quot;,43879,Mike Prager
+044077.html,[Rd] tiny typo in ?formals,44077,Brian Ripley
+043843.html,[Rd] R CMD check warning about boot ?,43843,Prof Brian Ripley
+043859.html,[Rd] passing matrix as argument to a C function,43859,Prof Brian Ripley
+043873.html,[Rd] Library file for the R engine in Windows?,43873,Prof Brian Ripley
+043930.html,[Rd] include libraries for C code called from R,43930,Prof Brian Ripley
+043931.html,[Rd] [R] Segfault in pure R code,43931,Prof Brian Ripley
+043969.html,[Rd] Detecting compilation under R,43969,Prof Brian Ripley
+043971.html,[Rd] Detecting compilation under R,43971,Prof Brian Ripley
+043988.html,[Rd] possible bug in co.intervals when overlap=0,43988,Prof Brian Ripley
+043997.html,[Rd] question about trailing arguments in an S4 method,43997,Prof Brian Ripley
+044008.html,[Rd] Curious finding in MASS:::confint.glm() tied to eval(),44008,Prof Brian Ripley
+044022.html,[Rd] abline for intercept-only simple lm models (with and without offset),44022,Prof Brian Ripley
+044039.html,[Rd] precision when calling a C function; presence of Fortran call,44039,Prof Brian Ripley
+044051.html,[Rd] Connections to https: URLs -- IE expert help needed,44051,Prof Brian Ripley
+044062.html,[Rd] R windows crash (PR#9426),44062,Prof Brian Ripley
+044089.html,[Rd] variable scope in update(): bug or feature?,44089,Prof Brian Ripley
+044112.html,[Rd] proposal: allowing alternative variance estimators in	glm/lm,44112,Prof Brian Ripley
+044041.html,[Rd] Detecting compilation under R,44041,Paul Roebuck
+043968.html,[Rd] Detecting compilation under R,43968,Barry Rowlingson
+043970.html,[Rd] Detecting compilation under R,43970,Barry Rowlingson
+043972.html,[Rd] Detecting compilation under R,43972,Barry Rowlingson
+043932.html,"[Rd] Once again, thanks from all of us at the Janus Museum.",43932,Tobias Russo
+043939.html,[Rd] Phonetic symbols (IPA) in R graphics,43939,Giampiero Salvi
+043965.html,[Rd] Phonetic symbols (IPA) in R graphics,43965,Giampiero Salvi
+043976.html,[Rd] Phonetic symbols (IPA) in R graphics,43976,Giampiero Salvi
+044027.html,[Rd] Phonetic symbols (IPA) in R graphics,44027,Giampiero Salvi
+043902.html,[Rd] empty pages in xyplot (2.4.0),43902,Deepayan Sarkar
+044073.html,[Rd] apropos changes in r-devel: intended feature or bug?,44073,Deepayan Sarkar
+044088.html,[Rd] apropos changes in r-devel: intended feature or bug?,44088,Deepayan Sarkar
+043952.html,[Rd] Curious finding in MASS:::confint.glm() tied to eval(),43952,Marc Schwartz
+043994.html,[Rd] Curious finding in MASS:::confint.glm() tied to eval(),43994,Marc Schwartz
+044010.html,[Rd] Curious finding in MASS:::confint.glm() tied to eval(),44010,Marc Schwartz
+044019.html,[Rd] turning expression object to function,44019,Marc Schwartz
+044068.html,[Rd] Problem installing MinGW 5.0.3: Your internet	connection	seems to be not permitted or dropped out!,44068,Marc Schwartz
+043941.html,[Rd] Phonetic symbols (IPA) in R graphics,43941,Greg Snow
+044060.html,[Rd] Missing install libraries for R on OpenSuse 10.2 (PR#9425),44060,Detlef Steuer
+044065.html,[Rd] R windows crash (PR#9426),44065,Luke Tierney
+044082.html,[Rd] apropos changes in r-devel: intended feature or bug?,44082,Luke Tierney
+043986.html,[Rd] possible bug in co.intervals when overlap=0,43986,Benjamin Tyner
+044034.html,[Rd] precision when calling a C function; presence of Fortran call,44034,Benjamin Tyner
+044036.html,[Rd] precision when calling a C function; presence of Fortran call,44036,Benjamin Tyner
+044040.html,[Rd] precision when calling a C function; presence of Fortran call,44040,Benjamin Tyner
+043846.html,[Rd] Magic Menu library loading error (PR#9405),43846,Simon Urbanek
+043905.html,[Rd] Pre-compilation and server-side parallel execution,43905,Simon Urbanek
+043912.html,[Rd] abline for intercept-only simple lm models (with and without	offset),43912,Tobias Verbeke
+044005.html,[Rd] abline for intercept-only simple lm models (with and without offset),44005,Tobias Verbeke
+044018.html,[Rd] help search mechanism for ?&quot;$&quot;,44018,Tobias Verbeke
+043895.html,[Rd] Wishlist: abs method for difftime,43895,Stephen D. Weigand
+043987.html,[Rd] max.col oddity,43987,John Zedlewski
+043992.html,[Rd] max.col oddity,43992,John Zedlewski
+043900.html,[Rd] Pre-compilation and server-side parallel execution,43900,Erik van Zijst
+043908.html,[Rd] Pre-compilation and server-side parallel execution,43908,Erik van Zijst
+044048.html,[Rd] jpeg() and png() in R-2.4.x (PR#9423),44048,sophie.martin at actigenics.com
+044055.html,[Rd] Missing install libraries for R on OpenSuse 10.2 (PR#9425),44055,matjaz.jeran at amis.net
+043891.html,[Rd] Matplot does not work with x being POSIXt class (PR#9412),43891,gregor.gorjanc at bfro.uni-lj.si
+043980.html,[Rd] fork package problem,43980,billk01
+044063.html,[Rd] R windows crash (PR#9426),44063,P.Dalgaard at biostat.ku.dk
+044023.html,[Rd] R.DLL mapping by P/Invoke,44023,box
+044078.html,[Rd] substitute creates an object which prints incorrectly (PR#9427),44078,Bill.Venables at csiro.au
+044091.html,[Rd] substitute creates an object which prints incorrectly	(PR#9427),44091,Bill.Venables at csiro.au
+044104.html,[Rd] substitute creates an object which prints	incorrectly	(PR#9427),44104,Bill.Venables at csiro.au
+044045.html,[Rd] Bug in rt() ? (PR#9422),44045,goodrich at fas.harvard.edu
+044056.html,[Rd] Bug in rt() ? (PR#9422),44056,goodrich at fas.harvard.edu
+043883.html,[Rd] tcltk::tk_select.list has bad width (PR#9410),43883,jhallman at frb.gov
+043896.html,[Rd] How to get DLL paths in a package?,43896,jhallman at frb.gov
+043899.html,[Rd] dyn.load and function calls without 'PACKAGE' argument,43899,jhallman at frb.gov
+043918.html,[Rd] Documenting revised functions,43918,jhallman at frb.gov
+044094.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44094,zoran.bosnic at fri.uni-lj.si
+043831.html,[Rd] Totally OutOfDebt Overnight,43831,tasia gilbert
+043840.html,[Rd] Non central chi squared bug (PR#9406),43840,alan.bain at gmail.com
+043871.html,[Rd] Error importing data (PR#9409),43871,neoscopio at gmail.com
+044095.html,[Rd] bug in sqlSave with fast=F option (PR#9429),44095,paul.macmanus at gmail.com
+043829.html,[Rd] Magic Menu library loading error (PR#9405),43829,stefano iacus
+043830.html,[Rd] Magic Menu library loading error (PR#9405),43830,stefano iacus
+043966.html,[Rd] A possible improvement to apropos,43966,stefano iacus
+044085.html,[Rd] Base R: applying min/max functions() to character string	vectors (PR#9428),44085,xiao.gang.fan1 at libertysurf.fr
+043940.html,[Rd] Problem with tuned Rblas from CRAN with R-2.4.0,43940,apjaworski at mmm.com
+044119.html,[Rd] bug in cut.Date() (PR#9433),44119,martin.becker at mx.uni-saarland.de
+044003.html,[Rd] Oferta de trabajo de TTES Logistica (PR#9421),44003,Young at nisursystems.com
+044054.html,[Rd] R windows crash (PR#9426),44054,robert.denham at nrm.qld.gov.au
+043866.html,[Rd] erroneous warning in hist (PR#9408),43866,alex.deckmyn$oma.be at pubhealth.ku.dk
+043848.html,[Rd] DebtFree Immediately,43848,nathaniel rodriguez
+043886.html,[Rd] Cannot run R (PR#9411),43886,jfu at science.uva.nl
+044074.html,[Rd] DBI + ROracle problem with parser ?? (PR#9424),44074,dhinds at sonic.net
+043868.html,[Rd] erroneous warning in hist (PR#9408),43868,maechler at stat.math.ethz.ch
+044046.html,[Rd] Bug in rt() ? (PR#9422),44046,maechler at stat.math.ethz.ch
+043990.html,[Rd] co.intervals when overlap=0 or 0.5 (PR#9419),43990,btyner at stat.purdue.edu
+043860.html,[Rd] bug in acosh (win32) (PR#9403),43860,ripley at stats.ox.ac.uk
+043867.html,[Rd] erroneous warning in hist (PR#9408),43867,ripley at stats.ox.ac.uk
+043991.html,[Rd] co.intervals when overlap=0 or 0.5 (PR#9419),43991,ripley at stats.ox.ac.uk
+044047.html,[Rd] Bug in rt() ? (PR#9422),44047,ripley at stats.ox.ac.uk
+044058.html,[Rd] jpeg() and png() in R-2.4.x (PR#9423),44058,ripley at stats.ox.ac.uk
+044059.html,[Rd] R windows crash (PR#9426),44059,ripley at stats.ox.ac.uk
+044105.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44105,ripley at stats.ox.ac.uk
+043856.html,[Rd] Non central chi squared bug (PR#9406),43856,murdoch at stats.uwo.ca
+044099.html,[Rd] substitute creates an object which	prints	incorrectly	(PR#9427),44099,murdoch at stats.uwo.ca
+044102.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44102,murdoch at stats.uwo.ca
+044106.html,[Rd] AltGr not working in R GUI Script Editor (PR#9430),44106,murdoch at stats.uwo.ca
+043865.html,[Rd] bug in acosh (win32) (PR#9403),43865,tshort
+044050.html,[Rd] DBI + ROracle problem with parser ?? (PR#9424),44050,christian.hoffmann at wsl.ch
+043835.html,[Rd] &#1044;&#1051;&#1071; &#1057;&#1055;&#1045;&#1062;&#1048;&#1040;&#1051;&#1048;&#1057;&#1058;&#1054;&#1042; &#1042; &#1057;&#1060;&#1045;&#1056;&#1045; &#1052;&#1040;&#1056;&#1050;&#1045;&#1058;&#1048;&#1053;&#1043;&#1040; &#1048; &#1052;&#1045;&#1053;&#1045;&#1044;&#1046;&#1052;&#1045;&#1053;&#1058;&#1040;,43835,&#1051;&#1077;&#1086;&#1085;&#1080;&#1076; &#1041;&#1077;&#1083;&#1080;&#1082;&#1086;&#1074;
+043836.html,[Rd] &#1042; &#1054;&#1058;&#1044;&#1045;&#1051;&#1067; &#1052;&#1040;&#1056;&#1050;&#1045;&#1058;&#1048;&#1053;&#1043;&#1040; &#1048; &#1052;&#1045;&#1053;&#1045;&#1044;&#1046;&#1052;&#1045;&#1053;&#1058;&#1040;,43836,&#1040;.&#1058; &#1055;&#1077;&#1090;&#1088;&#1086;&#1087;&#1072;&#1074;&#1083;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081;

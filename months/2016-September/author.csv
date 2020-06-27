@@ -1,0 +1,176 @@
+link,Subject,id,author
+073052.html,[Rd] Coercion of 'exclude' in function 'factor' (was 'droplevels' inappropriate change),73052,Suharto Anggono Suharto Anggono
+073109.html,[Rd] R-intro: function 'stderr' and 'sd',73109,Suharto Anggono Suharto Anggono
+073119.html,[Rd] table(exclude = NULL) always includes NA,73119,Suharto Anggono Suharto Anggono
+073136.html,[Rd] R-intro: length of 'ifelse' result,73136,Suharto Anggono Suharto Anggono
+073174.html,[Rd] Undocumented 'use.names' argument to c(),73174,Suharto Anggono Suharto Anggono
+073181.html,[Rd] Undocumented 'use.names' argument to c(),73181,Suharto Anggono Suharto Anggono
+073185.html,[Rd] Undocumented 'use.names' argument to c(),73185,Suharto Anggono Suharto Anggono
+073079.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73079,Jonathan Baron
+073081.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73081,Jonathan Baron
+073084.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73084,Jonathan Baron
+073090.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73090,Jonathan Baron
+073091.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73091,Jonathan Baron
+073044.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73044,Gabriel Becker
+073095.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73095,Gabriel Becker
+073096.html,[Rd] mget call can trigger C stack usage error,73096,Gabriel Becker
+073098.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73098,Gabriel Becker
+073116.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73116,Gabriel Becker
+073129.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73129,Gabriel Becker
+073054.html,[Rd] WISH: Export utils:::findMatches(),73054,Henrik Bengtsson
+073176.html,[Rd] Undocumented 'use.names' argument to c(),73176,Henrik Bengtsson
+073180.html,[Rd] withAutoprint({ .... }) ?,73180,Henrik Bengtsson
+073184.html,[Rd] withAutoprint({ .... }) ?,73184,Henrik Bengtsson
+073144.html,"[Rd] getGraphicsEvent() questions, minor feature/tweak request, and patch(es).",73144,Richard Bodewits
+073145.html,[Rd] Handlers in setGraphicsEventHandlers() can recursively call getGraphicsEvent(). Intended behavior?,73145,Richard Bodewits
+073146.html,"[Rd] getGraphicsEvent() questions, minor feature/tweak request, and patch(es).",73146,Richard Bodewits
+073147.html,[Rd] getGraphicsEvent() and setTimeLimit() bug and compatibility	patch.,73147,Richard Bodewits
+073158.html,[Rd] Handlers in setGraphicsEventHandlers() can recursively call getGraphicsEvent(). Intended behavior?,73158,Richard Bodewits
+073110.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73110,Hans W Borchers
+073113.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73113,Hans W Borchers
+073122.html,"[Rd] c(&lt;Matrix&gt;, &lt;Matrix&gt;) / help(dotsMethods) etc",73122,John Chambers
+073141.html,[Rd] Time zone issues when compiling R,73141,Winston Chang
+073208.html,[Rd] Problems with sub() due to inability to set encoding of ASCII	strings,73208,Winston Chang
+073093.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73093,Kevin Coombes
+073187.html,[Rd] Recursive dir.create() on Windows shares,73187,Evan Cortens
+073201.html,[Rd] Recursive dir.create() on Windows shares,73201,Evan Cortens
+073062.html,[Rd] mget call can trigger C stack usage error,73062,Alexandre Courtiol
+073190.html,[Rd] src/Makevars ignored ?,73190,Eric Deveaud
+073194.html,[Rd] src/Makevars ignored ?,73194,Eric Deveaud
+073197.html,[Rd] src/Makevars ignored ?,73197,Eric Deveaud
+073198.html,[Rd] src/Makevars ignored ?,73198,Eric Deveaud
+073086.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73086,Michael Dewey
+073051.html,[Rd] withAutoprint({ .... }) ?,73051,William Dunlap
+073097.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73097,William Dunlap
+073099.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73099,William Dunlap
+073112.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73112,William Dunlap
+073114.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73114,William Dunlap
+073118.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73118,William Dunlap
+073133.html,[Rd] R-intro: function 'stderr' and 'sd',73133,William Dunlap
+073161.html,[Rd] strcapture enhancement,73161,William Dunlap
+073165.html,[Rd] error handling in strcapture,73165,William Dunlap
+073168.html,[Rd] error handling in strcapture,73168,William Dunlap
+073175.html,[Rd] Undocumented 'use.names' argument to c(),73175,William Dunlap
+073066.html,[Rd] The use of match.fun,73066,Adrian Du&#537;a
+073048.html,[Rd] CRAN packages maintained by you,73048,Dirk Eddelbuettel
+073072.html,[Rd] Building R under Linux - library dependencies,73072,Dirk Eddelbuettel
+073076.html,[Rd] Building R under Linux - library dependencies,73076,Dirk Eddelbuettel
+073087.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73087,Dirk Eddelbuettel
+073092.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73092,Dirk Eddelbuettel
+073106.html,[Rd] forgive possible repost: alternate bzip2 library,73106,Dirk Eddelbuettel
+073193.html,[Rd] src/Makevars ignored ?,73193,Dirk Eddelbuettel
+073196.html,[Rd] src/Makevars ignored ?,73196,Dirk Eddelbuettel
+073217.html,[Rd] winbuilder down,73217,Dirk Eddelbuettel
+073148.html,[Rd] row names of 'rowsum()',73148,S Ellison
+073105.html,[Rd] forgive possible repost: alternate bzip2 library,73105,Ram&#243;n Fallon
+073108.html,[Rd] forgive possible repost: alternate bzip2 library,73108,Ram&#243;n Fallon
+073043.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73043,Paul Gilbert
+073100.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73100,Paul Gilbert
+073115.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73115,Paul Gilbert
+073206.html,[Rd] Web site for MacOSX R-devel precompiled version,73206,Marc Girondot
+073058.html,[Rd] How to print UTF-8 encoded strings from a C routine to R's	output?,73058,Lixin Gong
+073061.html,[Rd] How to print UTF-8 encoded strings from a C routine to R's	output?,73061,Lixin Gong
+073077.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73077,Spencer Graves
+073088.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73088,Spencer Graves
+073089.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73089,Spencer Graves
+073162.html,[Rd] strcapture enhancement,73162,Gabor Grothendieck
+073057.html,[Rd] new function to tools/utils package: dependencies based on DESCRIPTION file,73057,Jan G&#243;recki
+073195.html,[Rd] src/Makevars ignored ?,73195,Kasper Daniel Hansen
+073199.html,[Rd] src/Makevars ignored ?,73199,Kasper Daniel Hansen
+073150.html,[Rd] Subsetting issue in model.frame with na.omit,73150,Trevor John Hastie
+073082.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73082,Oliver Keyes
+073170.html,[Rd] Typo in ?image,73170,Mikko Korpela
+073191.html,[Rd] library() asks user to accept license of some built-in packages,73191,Mikko Korpela
+073159.html,[Rd] formal process for orphaning a package,73159,Max Kuhn
+073164.html,[Rd] formal process for orphaning a package,73164,Max Kuhn
+073124.html,"[Rd] c(&lt;Matrix&gt;, &lt;Matrix&gt;) / help(dotsMethods) etc",73124,Michael Lawrence
+073163.html,[Rd] strcapture enhancement,73163,Michael Lawrence
+073167.html,[Rd] error handling in strcapture,73167,Michael Lawrence
+073169.html,[Rd] error handling in strcapture,73169,Michael Lawrence
+073173.html,[Rd] as.character.factor and S4 object containing factor,73173,Michael Lawrence
+073210.html,[Rd] winbuilder down,73210,Uwe Ligges
+073216.html,[Rd] winbuilder down,73216,Uwe Ligges
+073045.html,[Rd] withAutoprint({ .... }) ?,73045,Martin Maechler
+073063.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73063,Martin Maechler
+073064.html,[Rd] A bug in the R Mersenne Twister (RNG) code?,73064,Martin Maechler
+073068.html,"[Rd] R (development) changes in arith, logic,	relop with (0-extent) arrays",73068,Martin Maechler
+073069.html,"[Rd] R (development) changes in arith, logic,	relop with (0-extent) arrays",73069,Martin Maechler
+073078.html,"[Rd] R (development) changes in arith, logic,	relop with (0-extent) arrays",73078,Martin Maechler
+073085.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73085,Martin Maechler
+073103.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73103,Martin Maechler
+073104.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73104,Martin Maechler
+073121.html,"[Rd] c(&lt;Matrix&gt;, &lt;Matrix&gt;) / help(dotsMethods) etc",73121,Martin Maechler
+073123.html,[Rd] table(exclude = NULL) always includes NA,73123,Martin Maechler
+073125.html,"[Rd] c(&lt;Matrix&gt;, &lt;Matrix&gt;) / help(dotsMethods) etc",73125,Martin Maechler
+073126.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73126,Martin Maechler
+073131.html,"[Rd] c(&lt;Matrix&gt;, &lt;Matrix&gt;) / help(dotsMethods) etc",73131,Martin Maechler
+073132.html,[Rd] R-intro: function 'stderr' and 'sd',73132,Martin Maechler
+073134.html,[Rd] Coercion of 'exclude' in function 'factor' (was 'droplevels' inappropriate change),73134,Martin Maechler
+073135.html,[Rd] R-intro: function 'stderr' and 'sd',73135,Martin Maechler
+073151.html,[Rd] Numerical accuracy of matrix multiplication,73151,Martin Maechler
+073152.html,[Rd] Numerical accuracy of matrix multiplication,73152,Martin Maechler
+073157.html,[Rd] Undocumented 'use.names' argument to c(),73157,Martin Maechler
+073178.html,[Rd] withAutoprint({ .... }) ?,73178,Martin Maechler
+073179.html,[Rd] Undocumented 'use.names' argument to c(),73179,Martin Maechler
+073182.html,[Rd] Undocumented 'use.names' argument to c(),73182,Martin Maechler
+073183.html,[Rd] withAutoprint({ .... }) ?,73183,Martin Maechler
+073186.html,[Rd] Undocumented 'use.names' argument to c(),73186,Martin Maechler
+073189.html,[Rd] withAutoprint({ .... }) ?,73189,Martin Maechler
+073205.html,[Rd] Undocumented 'use.names' argument to c(),73205,Martin Maechler
+073213.html,[Rd] Coercion of 'exclude' in function 'factor' (was 'droplevels' inappropriate change),73213,Martin Maechler
+073056.html,[Rd] Defragmentation of memory,73056,M&#229;ns Magnusson
+073111.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73111,John McKown
+073094.html,"[Rd] Fwd: Re: RSiteSearch, sos, rdocumentation.org, ...?",73094,John Merrill
+073065.html,[Rd] The use of match.fun,73065,Joris Meys
+073067.html,[Rd] The use of match.fun,73067,Joris Meys
+073155.html,[Rd] Undocumented 'use.names' argument to c(),73155,Karl Millar
+073177.html,[Rd] Undocumented 'use.names' argument to c(),73177,Karl Millar
+073046.html,[Rd] withAutoprint({ .... }) ?,73046,Duncan Murdoch
+073059.html,[Rd] How to print UTF-8 encoded strings from a C routine to R's output?,73059,Duncan Murdoch
+073137.html,[Rd] R-intro: length of 'ifelse' result,73137,Duncan Murdoch
+073171.html,[Rd] Typo in ?image,73171,Duncan Murdoch
+073188.html,[Rd] Recursive dir.create() on Windows shares,73188,Duncan Murdoch
+073215.html,[Rd] Sys.setFileTime(),73215,Duncan Murdoch
+073154.html,[Rd] Handlers in setGraphicsEventHandlers() can recursively call getGraphicsEvent(). Intended behavior?,73154,Paul Murrell
+073166.html,[Rd] Handlers in setGraphicsEventHandlers() can recursively call getGraphicsEvent(). Intended behavior?,73166,Paul Murrell
+073049.html,[Rd] withAutoprint({ .... }) ?,73049,Kirill M&#252;ller
+073192.html,[Rd] withAutoprint({ .... }) ?,73192,Kirill M&#252;ller
+073102.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73102,Radford Neal
+073107.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73107,Radford Neal
+073127.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73127,Radford Neal
+073202.html,[Rd] problem in levels&lt;- and other inconsistencies,73202,Dr. Jens Oehlschl&#228;gel
+073138.html,[Rd] Finalizer execution order question,73138,Jeroen Ooms
+073130.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73130,Herv&#233; Pag&#232;s
+073203.html,[Rd] problem in levels&lt;- and other inconsistencies,73203,Herv&#233; Pag&#232;s
+073047.html,[Rd] CRAN packages maintained by you,73047,Thomas Petzoldt
+073050.html,[Rd] CRAN packages maintained by you,73050,Thomas Petzoldt
+073071.html,[Rd] Building R under Linux - library dependencies,73071,Pawe&#322; Pi&#261;tkowski
+073073.html,[Rd] Building R under Linux - library dependencies,73073,Pawe&#322; Pi&#261;tkowski
+073075.html,[Rd] Building R under Linux - library dependencies,73075,Pawe&#322; Pi&#261;tkowski
+073083.html,[Rd] Building R under Linux - library dependencies,73083,Pawe&#322; Pi&#261;tkowski
+073055.html,[Rd] Fortran issues. Was CRAN packages maintained by you,73055,ProfJCNash
+073120.html,[Rd] Announcing the R Documentation Task Force,73120,Andrew Redd
+073128.html,[Rd] Announcing the R Documentation Task Force,73128,Andrew Redd
+073160.html,[Rd] formal process for orphaning a package,73160,Andrew Redd
+073200.html,[Rd] src/Makevars ignored ?,73200,Bob Rudis
+073207.html,[Rd] Web site for MacOSX R-devel precompiled version,73207,Bob Rudis
+073214.html,[Rd] Sys.setFileTime(),73214,Bob Rudis
+073142.html,[Rd] Numerical accuracy of matrix multiplication,73142,Alexis Sarda
+073153.html,[Rd] Numerical accuracy of matrix multiplication,73153,Alexis Sarda
+073117.html,[Rd] Different results for tan(pi/2) and tanpi(1/2),73117,Greg Snow
+073070.html,"[Rd] R (development) changes in arith,	logic relop with 0-extent arrays",73070,"Therneau, Terry M., Ph.D."
+073140.html,[Rd] row names of 'rowsum()',73140,Ott Toomet
+073149.html,[Rd] row names of 'rowsum()',73149,Ott Toomet
+073172.html,[Rd] as.character.factor and S4 object containing factor,73172,Ott Toomet
+073209.html,[Rd] Web site for MacOSX R-devel precompiled version,73209,Simon Urbanek
+073211.html,[Rd] Web site for MacOSX R-devel precompiled version,73211,Simon Urbanek
+073156.html,[Rd] Undocumented 'use.names' argument to c(),73156,David Winsemius
+073143.html,[Rd] Numerical accuracy of matrix multiplication,73143,peter dalgaard
+073212.html,[Rd] A package that traces base functions,73212,brodie gaslam
+073080.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73080,robin hankin
+073101.html,"[Rd] R (development) changes in arith, logic, relop with (0-extent) arrays",73101,robin hankin
+073204.html,[Rd] problem in levels&lt;- and other inconsistencies,73204,jens.oehlschlaegel at truecluster.com
+073053.html,[Rd] withAutoprint({ .... }) ?,73053,luke-tierney at uiowa.edu
+073060.html,[Rd] Defragmentation of memory,73060,luke-tierney at uiowa.edu
+073139.html,[Rd] Finalizer execution order question,73139,luke-tierney at uiowa.edu
+073074.html,[Rd] Building R under Linux - library dependencies,73074,elijah wright

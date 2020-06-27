@@ -1,0 +1,293 @@
+link,Subject,id,author
+033386.html,[Rd] Buidling R on Linux (Itanium) fails (PR#7897),33386,Bader at lrz.de
+033304.html,[Rd] returning an empty list.,33304,Douglas Bates
+033196.html,[Rd] Implementation of the names attribute of attribute lists ,33196,Gabriel Baud-Bovy
+033151.html,[Rd] Misspelled German error message: --nosave (PR#7841),33151,Bernhard.Schmalhofer at biomax.de
+033080.html,[Rd] RE: as.numeric method for objects of class &quot;difftime&quot;,33080,Bill.Venables at csiro.au
+033081.html,[Rd] heads and tails,33081,Bill.Venables at csiro.au
+033083.html,[Rd] RE: as.numeric method for objects of class &quot;difftime&quot;,33083,Bill.Venables at csiro.au
+033303.html,[Rd] returning an empty list.,33303,James Bullard
+033358.html,[Rd] Windows/7706 (PR#7889),33358,Andy Bunn
+033362.html,[Rd] Windows/7706 (PR#7889),33362,Andy Bunn
+033085.html,[Rd] formals assignment now strips attributres,33085,Patrick Burns
+033089.html,[Rd] Re: Calling R functions from Java,33089,D0c
+033097.html,[Rd] Re: Calling R functions from Java,33097,D0c
+033274.html,[Rd] Re: Calling R functions from Java,33274,D0c
+033086.html,[Rd] formals assignment now strips attributres,33086,Peter Dalgaard
+033141.html,[Rd] documenation for arrows() is backwards (PR#7839),33141,Peter Dalgaard
+033142.html,[Rd] documenation for arrows() is backwards (PR#7839),33142,Peter Dalgaard
+033146.html,[Rd] documenation for arrows() is backwards (PR#7839),33146,Peter Dalgaard
+033149.html,[Rd] Varying as.Date performance,33149,Peter Dalgaard
+033188.html,[Rd] Variable names with spaces in lm,33188,Peter Dalgaard
+033220.html,[Rd] bug in modulus operator %% (PR#7852),33220,Peter Dalgaard
+033225.html,[Rd] bug in modulus operator %% (PR#7852),33225,Peter Dalgaard
+033241.html,[Rd] Windows freezes plotting large line plots (PR#7856),33241,Peter Dalgaard
+033242.html,[Rd] Building R for windows tools link,33242,Peter Dalgaard
+033261.html,[Rd] Bug in axis labels (PR#7860),33261,Peter Dalgaard
+033283.html,[Rd] Specifying dependency on a specific patched version,33283,Peter Dalgaard
+033321.html,[Rd] R Include File Guards,33321,Peter Dalgaard
+033347.html,[Rd] Internationalizing the Rcmdr package?,33347,Peter Dalgaard
+033131.html,[Rd] DLL modules with other dependent libraries,33131,Marcus G. Daniels
+033087.html,[Rd] dll symbol loading: possible bug,33087,Dan Davison
+033284.html,[Rd] add Rvsnprintf to API ??,33284,John W. Eaton
+033280.html,[Rd] Specifying dependency on a specific patched version,33280,Dirk Eddelbuettel
+033132.html,[Rd] Varying as.Date performance,33132,Jeff Enos
+033147.html,[Rd] Varying as.Date performance,33147,Jeff Enos
+033161.html,[Rd] Varying as.Date performance,33161,Jeff Enos
+033206.html,"[Rd] bug, feature of mistery?",33206,Seth Falcon
+033346.html,[Rd] Internationalizing the Rcmdr package?,33346,John Fox
+033157.html,[Rd] Embedding x11-window causes R to segfault,33157,Thomas Friedrichsmeier
+033235.html,[Rd] Building R for windows tools link,33235,Gregor GORJANC
+033239.html,[Rd] Building R for windows tools link,33239,Gregor GORJANC
+033268.html,[Rd] add Rvsnprintf to API ??,33268,Charles Geyer
+033382.html,[Rd] Rout for  library/base/R-ex/Extract.data.frame.R,33382,Paul Gilbert
+033373.html,[Rd] R OS X,33373,Rob J Goedman
+033229.html,[Rd] Building R for windows tools link,33229,Gorjanc Gregor
+033291.html,[Rd] Form of \item{arg_i}{Description of arg_i.} in \arguments,33291,Gorjanc Gregor
+033174.html,[Rd] Different package versions on CRAN?,33174,Philippe Grosjean
+033194.html,[Rd] French translation of R,33194,Philippe Grosjean
+033307.html,[Rd] Problem with limmaGUI (PR#7877),33307,Philippe Grosjean
+033348.html,[Rd] Internationalizing the Rcmdr package?,33348,Philippe Grosjean
+033357.html,[Rd] Windows/7706 (PR#7889),33357,Philippe Grosjean
+033359.html,[Rd] Windows/7706 (PR#7889),33359,Philippe Grosjean
+033133.html,[Rd] Varying as.Date performance,33133,Gabor Grothendieck
+033134.html,[Rd] Varying as.Date performance,33134,Gabor Grothendieck
+033166.html,[Rd] how to add method to .Primitive function,33166,Gabor Grothendieck
+033167.html,[Rd] NextMethod problem,33167,Gabor Grothendieck
+033172.html,[Rd] how to add method to .Primitive function,33172,Gabor Grothendieck
+033173.html,[Rd] Re: NextMethod problem,33173,Gabor Grothendieck
+033180.html,"[Rd] How to understand packages, namespaces, environments",33180,Gabor Grothendieck
+033187.html,[Rd] Variable names with spaces in lm,33187,Gabor Grothendieck
+033192.html,[Rd] Variable names with spaces in lm,33192,Gabor Grothendieck
+033273.html,[Rd] Specifying dependency on a specific patched version,33273,Gabor Grothendieck
+033400.html,[Rd] as.Date.factor,33400,Gabor Grothendieck
+033178.html,[Rd] docu of isoreg,33178,Kjetil Brinchmann Halvorsen
+033248.html,[Rd] bug in modulus operator %% (PR#7852),33248,Kjetil Brinchmann Halvorsen
+033183.html,[Rd] can't build packages anymore...,33183,Jeff D. Hamann
+033213.html,[Rd] typesetting a matrix,33213,Robin Hankin
+033084.html,[Rd] heads and tails,33084, (Ted Harding)
+033222.html,[Rd] bug in modulus operator %% (PR#7852),33222, (Ted Harding)
+033245.html,[Rd] Windows freezes plotting large line plots (PR#7856),33245, (Ted Harding)
+033407.html,[Rd] minus: operator and sign (PR#7908),33407, (Ted Harding)
+033408.html,[Rd] minus: operator and sign (PR#7908),33408, (Ted Harding)
+033314.html,[Rd] SVN revision numbers,33314,Cyrus Harmon
+033315.html,[Rd] SVN revision numbers,33315,Cyrus Harmon
+033333.html,[Rd] Memory question on R,33333,Dr L. Y Hin
+033154.html,[Rd] documenation for arrows() is backwards (PR#7839),33154,Michael Hoffman
+033218.html,[Rd] Implementing R on  IBM p690 cluster Jump,33218,Kurt Hornik
+033258.html,[Rd] Implementing R on  IBM p690 cluster Jump,33258,Kurt Hornik
+033275.html,[Rd] Thank you for your inquiry to the Campus Hub.,33275,Campus Hub
+033278.html,[Rd] Thank you for your inquiry to the Campus Hub.,33278,Campus Hub
+033100.html,[Rd] memory problem,33100,Wolfgang Huber
+033098.html,[Rd] memory problem,33098,Jared.O'Connell at csiro.au
+033101.html,[Rd] memory problem,33101,Jared.O'Connell at csiro.au
+033145.html,[Rd] documenation for arrows() is backwards (PR#7839),33145,Peter Kleiweg
+033148.html,[Rd] documenation for arrows() is backwards (PR#7839),33148,Peter Kleiweg
+033198.html,[Rd] French translation of R,33198,Frederic Lehobey
+033190.html,[Rd] Random Forests 4.5-10 varImpPlot (PR#7844),33190,"Liaw, Andy"
+033251.html,[Rd] segfault on large number of open brackets (PR#7859),33251,"Liaw, Andy"
+033267.html,[Rd] Implementing R on  IBM p690 cluster Jump,33267,"Liaw, Andy"
+033176.html,[Rd] Different package versions on CRAN?,33176,Uwe Ligges
+033186.html,[Rd] can't build packages anymore...,33186,Uwe Ligges
+033208.html,"[Rd] bug, feature of mistery?",33208,Uwe Ligges
+033211.html,[Rd] Implementing R on  IBM p690 cluster Jump,33211,Uwe Ligges
+033244.html,"[Rd] bug, feature of mistery?",33244,Uwe Ligges
+033276.html,[Rd] Specifying dependency on a specific patched version,33276,Uwe Ligges
+033281.html,[Rd] Specifying dependency on a specific patched version,33281,Uwe Ligges
+033293.html,[Rd] voluntary tester: RWinEdt with Win9x/ME,33293,Uwe Ligges
+033350.html,[Rd] Internationalizing the Rcmdr package?,33350,Uwe Ligges
+033377.html,[Rd] Using a C++ library to read a binary file,33377,Uwe Ligges
+033378.html,[Rd] Rout for  library/base/R-ex/Extract.data.frame.R,33378,Uwe Ligges
+033399.html,looking for RMySQL Windows binary; was: [Rd] (no subject),33399,Uwe Ligges
+033406.html,[Rd] minus: operator and sign (PR#7908),33406,Uwe Ligges
+033120.html,[Rd] Problem with pbirthday (PR#7837),33120,Thomas Lumley
+033263.html,[Rd] segfault on large number of open brackets (PR#7859),33263,Thomas Lumley
+033360.html,[Rd] Windows/7706 (PR#7889),33360,James W. MacDonald
+033365.html,[Rd] Windows/7706 (PR#7889),33365,James W. MacDonald
+033127.html,[Rd] Re: [R] Unbundling gregmisc (was: loading gap package),33127,Martin Maechler
+033381.html,[Rd] Rout for  library/base/R-ex/Extract.data.frame.R,33381,Martin Maechler
+033179.html,"[Rd] How to understand packages, namespaces, environments",33179,Mark.Bravington at csiro.au
+033181.html,"[Rd] How to understand packages, namespaces, environments",33181,Mark.Bravington at csiro.au
+033223.html,[Rd] bug in modulus operator %% (PR#7852),33223,"McGehee, Robert"
+033247.html,[Rd] bug in modulus operator %% (PR#7852),33247,"McGehee, Robert"
+033354.html,[Rd] Best configure options for Data Mining,33354,Daniele Medri
+033376.html,[Rd] Using a C++ library to read a binary file,33376,Demitri Muna
+033144.html,[Rd] documenation for arrows() is backwards (PR#7839),33144,Duncan Murdoch
+033160.html,"[Rd] How to understand packages, namespaces, environments",33160,Duncan Murdoch
+033185.html,"[Rd] How to understand packages, namespaces, environments",33185,Duncan Murdoch
+033197.html,[Rd] big bug with edit(data.frame(a)) (PR#7846),33197,Duncan Murdoch
+033228.html,[Rd] bug in modulus operator %% (PR#7852),33228,Duncan Murdoch
+033270.html,[Rd] Bug in axis labels (PR#7860),33270,Duncan Murdoch
+033271.html,"[Rd] PR$7706, png device plot on athlon 64 processor",33271,Duncan Murdoch
+033298.html,[Rd] locator() (PR#7873),33298,Duncan Murdoch
+033324.html,[Rd] Getting ... without evaluating it?,33324,Duncan Murdoch
+033326.html,[Rd] Getting ... without evaluating it?,33326,Duncan Murdoch
+033363.html,[Rd] Windows/7706 (PR#7889),33363,Duncan Murdoch
+033388.html,[Rd] Buidling R on Linux (Itanium) fails (PR#7897),33388,Ei-ji Nakama
+033090.html,[Rd] MacOS X 10.4 build problem,33090,Bill Northcott
+033094.html,[Rd] MacOS X 10.4 build problem,33094,Bill Northcott
+033095.html,[Rd] MacOS X 10.4 build problem,33095,Bill Northcott
+033217.html,[Rd] Implementing R on  IBM p690 cluster Jump,33217,Bill Northcott
+033232.html,[Rd] Implementing R on  IBM p690 cluster Jump,33232,Bill Northcott
+033334.html,[Rd] R 2.1 and gfortran,33334,Bill Northcott
+033162.html,[Rd] treating lists as data.frame-s,33162,Vadim Ogranovich
+033164.html,[Rd] how to add method to .Primitive function,33164,Vadim Ogranovich
+033168.html,[Rd] how to add method to .Primitive function,33168,Vadim Ogranovich
+033171.html,[Rd] how to add method to .Primitive function,33171,Vadim Ogranovich
+033369.html,[Rd] Rout for  library/base/R-ex/Extract.data.frame.R,33369,Vadim Ogranovich
+033113.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7836),33113,Jari Oksanen
+033114.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7836),33114,Jari Oksanen
+033355.html,[Rd] Best configure options for Data Mining,33355,Roger D. Peng
+033387.html,[Rd] Buidling R on Linux (Itanium) fails (PR#7897),33387,Christophe Pouzat
+033290.html,[Rd] Re: Calling R functions from Java (D0c),33290,RICKY_CHEN at promos.com.tw
+033202.html,"[Rd] bug, feature of mistery?",33202,Giuseppe Ragusa
+033231.html,"[Rd] bug, feature of mistery?",33231,Giuseppe Ragusa
+033191.html,[Rd] Status (PR#7845),33191,Ret at sender.ingenio.com
+033257.html,[Rd] Implementing R on  IBM p690 cluster Jump,33257,Brian D Ripley
+033341.html,[Rd] R 2.1 and gfortran,33341,Brian D Ripley
+033082.html,[Rd] RE: as.numeric method for objects of class &quot;difftime&quot;,33082,Prof Brian Ripley
+033099.html,[Rd] memory problem,33099,Prof Brian Ripley
+033106.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7831),33106,Prof Brian Ripley
+033110.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7836),33110,Prof Brian Ripley
+033115.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7836),33115,Prof Brian Ripley
+033121.html,[Rd] Re: [R] Unbundling gregmisc (was: loading gap package),33121,Prof Brian Ripley
+033136.html,[Rd] DLL modules with other dependent libraries,33136,Prof Brian Ripley
+033137.html,[Rd] Varying as.Date performance,33137,Prof Brian Ripley
+033150.html,[Rd] Varying as.Date performance,33150,Prof Brian Ripley
+033159.html,"[Rd] How to understand packages, namespaces, environments",33159,Prof Brian Ripley
+033165.html,[Rd] how to add method to .Primitive function,33165,Prof Brian Ripley
+033175.html,[Rd] Different package versions on CRAN?,33175,Prof Brian Ripley
+033184.html,"[Rd] How to understand packages, namespaces, environments",33184,Prof Brian Ripley
+033212.html,[Rd] Implementing R on  IBM p690 cluster Jump,33212,Prof Brian Ripley
+033234.html,[Rd] Building R for windows tools link,33234,Prof Brian Ripley
+033237.html,[Rd] Building R for windows tools link,33237,Prof Brian Ripley
+033243.html,[Rd] bug in modulus operator %% (PR#7852),33243,Prof Brian Ripley
+033246.html,[Rd] Windows freezes plotting large line plots (PR#7856),33246,Prof Brian Ripley
+033250.html,[Rd] bug in modulus operator %% (PR#7852),33250,Prof Brian Ripley
+033259.html,[Rd] segfault on large number of open brackets (PR#7859),33259,Prof Brian Ripley
+033264.html,[Rd] R make errors,33264,Prof Brian Ripley
+033269.html,[Rd] add Rvsnprintf to API ??,33269,Prof Brian Ripley
+033288.html,[Rd] add Rvsnprintf to API ??,33288,Prof Brian Ripley
+033312.html,[Rd] Re: [R] Fortran 95 in R ?,33312,Prof Brian Ripley
+033313.html,[Rd] SVN revision numbers,33313,Prof Brian Ripley
+033317.html,[Rd] SVN revision numbers,33317,Prof Brian Ripley
+033318.html,[Rd] R Include File Guards,33318,Prof Brian Ripley
+033320.html,[Rd] SVN revision numbers,33320,Prof Brian Ripley
+033325.html,[Rd] Getting ... without evaluating it?,33325,Prof Brian Ripley
+033336.html,[Rd] Memory question on R,33336,Prof Brian Ripley
+033340.html,[Rd] Problem with proj,33340,Prof Brian Ripley
+033224.html,[Rd] bug in modulus operator %% (PR#7852),33224,Robert.McGehee at geodecapital.com
+033227.html,[Rd] bug in modulus operator %% (PR#7852),33227,Robert.McGehee at geodecapital.com
+033308.html,[Rd] [Q] Example Data Files for Package,33308,Paul Roebuck
+033316.html,[Rd] R Include File Guards,33316,Paul Roebuck
+033319.html,[Rd] R Include File Guards,33319,Paul Roebuck
+033323.html,[Rd] R quits after 6 seconds (PR#7878),33323,Paul Roebuck
+033372.html,[Rd] R OS X,33372,Volker Runkel
+033370.html,[Rd] locator() (PR#7873),33370,Sascha.Frydman at aad.gov.au
+033210.html,[Rd] Implementing R on  IBM p690 cluster Jump,33210,Ralf Seppelt
+033300.html,[Rd] Implementing R on  IBM p690 cluster Jump,33300,Ralf Seppelt
+033158.html,"[Rd] How to understand packages, namespaces, environments",33158,Alexander Stoddard
+033262.html,[Rd] R make errors,33262,Ambika Sundaresan
+033091.html,[Rd] Re: Calling R functions from Java,33091,Simon Urbanek
+033092.html,[Rd] MacOS X 10.4 build problem,33092,Simon Urbanek
+033116.html,[Rd] Workspace [Was: MacOS X: update.packages(type=&quot;mac.binary&quot;)],33116,Simon Urbanek
+033170.html,[Rd] how to add method to .Primitive function,33170,Simon Urbanek
+033342.html,[Rd] New R (2.1) not openable under emacs files (PR#7882),33342,Simon Urbanek
+033352.html,[Rd] R2.1.0a.dmg fails to mount (PR#7886),33352,Simon Urbanek
+033385.html,[Rd] R OS X,33385,Simon Urbanek
+033396.html,[Rd] crash in R OS X GUI (PR#7903),33396,Simon Urbanek
+033398.html,[Rd] (no subject),33398,Annika Wetzko
+033332.html,[Rd] Problem with proj,33332,Simon Wotherspoon
+033294.html,[Rd] Max likelihood arima code question,33294,Joseph Yarmus
+033310.html,[Rd] [Q] Example Data Files for Package,33310,Achim Zeileis
+033356.html,[Rd] Windows/7706 (PR#7889),33356,abunn at whrc.org
+033404.html,[Rd] minus: operator and sign (PR#7908),33404,allsi at eau.ee
+033118.html,[Rd] Problem with pbirthday (PR#7837),33118,andy.lynch at phpc.cam.ac.uk
+033252.html,[Rd] segfault on large number of open brackets (PR#7859),33252,andy_liaw at merck.com
+033152.html,"[Rd] But in add1, presumably in add1.lm (PR#7842)",33152,berwin at maths.uwa.edu.au
+033343.html,[Rd] Memory question on R,33343,roger bos
+033351.html,[Rd] Have you checked the latest-weekly special yet? (PR#7887),33351,celena at wosaddict.com
+033088.html,[Rd] Help me! (PR#7828),33088,difusiometer at deportista.com
+033337.html,[Rd] MacOS Classic incompatibility? (PR#7884),33337,harloff at softuse.com
+033140.html,[Rd] documenation for arrows() is backwards (PR#7839),33140,hoffman.mm+R-project.org at ebi.ac.uk
+033103.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7831),33103,jari.oksanen at oulu.fi
+033108.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7834),33108,jarioksa at sun3.oulu.fi
+033109.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7836),33109,jarioksa at sun3.oulu.fi
+033105.html,[Rd] R2HTML bug? shell bug? (PR#7832),33105,jjgoye at iesta.edu.uy
+033361.html,[Rd] Windows/7706 (PR#7889),33361,jmacdon at med.umich.edu
+033199.html,[Rd] Re: Good day,33199,jose at teleport.com
+033221.html,[Rd] Accessing Raw Mode Vectors from .C (PR#7853),33221,keithf at amnis.com
+033230.html,"[Rd] Patch to address (PR#7853)  -- tested briefly, seems to work",33230,keithf at amnis.com
+033219.html,[Rd] bug in modulus operator %% (PR#7852),33219,kjetil at acelerate.com
+033375.html,[Rd] Non-nested testing and anova.lm(),33375,roger koenker
+033093.html,[Rd] Revised scatter.smooth using xy.coords,33093,kwright at eskimo.com
+033102.html,[Rd] Bug #7829 reproducible example (rejected by bug tracker),33102,kwright at eskimo.com
+033345.html,[Rd] A patch for scatter.smooth,33345,kwright at eskimo.com
+033272.html,[Rd] Re: [CSL #263000] Verbrechen der deutschen Frau,33272,lab at cs.wisc.edu
+033277.html,[Rd] Re: [CSL #265686] Vorbildliche Aktion (PR#7866),33277,lab at cs.wisc.edu
+033279.html,[Rd] Re: [CSL #266660] Vorbildliche Aktion (PR#7867),33279,lab at cs.wisc.edu
+033282.html,[Rd] Re: [CSL #268348] 60 Jahre Befreiung: Wer feiert mit?,33282,lab at cs.wisc.edu
+033286.html,[Rd] Re: [CSL #268455] Trotz Stellenabbau,33286,lab at cs.wisc.edu
+033287.html,[Rd] Re: [CSL #268481] The Whore Lived Like a German (PR#7869),33287,lab at cs.wisc.edu
+033111.html,[Rd] R2HTML bug? shell bug? (PR#7832),33111,ligges at statistik.uni-dortmund.de
+033253.html,[Rd] segfault on large number of open brackets (PR#7859),33253,ligges at statistik.uni-dortmund.de
+033391.html,[Rd] Reversing axis in a log plot (PR#7894),33391,ligges at statistik.uni-dortmund.de
+033392.html,[Rd] Reversing axis in a log plot (PR#7894),33392,ligges at statistik.uni-dortmund.de
+033397.html,"[Rd] (PR#7899) seek(con, 0, &quot;end&quot;, rw=&quot;r&quot;) does not always work",33397,ligges at statistik.uni-dortmund.de
+033405.html,[Rd] minus: operator and sign (PR#7908),33405,ligges at statistik.uni-dortmund.de
+033249.html,[Rd] segfault on large number of open brackets (PR#7859),33249,m.e.bruche at lse.ac.uk
+033256.html,[Rd] segfault on large number of open brackets (PR#7859),33256,m.e.bruche at lse.ac.uk
+033401.html,[Rd] Reversing axis in a log plot (PR#7894),33401,maechler at stat.math.ethz.ch
+033403.html,[Rd] ?strptime ambiguity (PR#7907),33403,maechler at stat.math.ethz.ch
+033169.html,[Rd] [Conte&#250;do n&#227;o permitido],33169,mailmarshal at bancobmg.com.br
+033285.html,[Rd] [Conte&#250;do n&#227;o permitido],33285,mailmarshal at bancobmg.com.br
+033289.html,[Rd] [Conte&#250;do n&#227;o permitido],33289,mailmarshal at bancobmg.com.br
+033295.html,[Rd] [Conte&#250;do n&#227;o permitido] (PR#7872),33295,mailmarshal at bancobmg.com.br
+033374.html,[Rd] Reversing axis in a log plot (PR#7894),33374,marquardt.christian at gmail.com
+033302.html,[Rd] install.packages Bug? (PR#7876),33302,martin.posch at univie.ac.at
+033330.html,[Rd] New R (2.1) not openable under emacs files (PR#7882),33330,menke at u.arizona.edu
+033189.html,[Rd] Random Forests 4.5-10 varImpPlot (PR#7844),33189,monk at umich.edu
+033216.html,[Rd] This is an alert from eSafe (PR#7851),33216,mpais at pais.co.il
+033143.html,[Rd] documenation for arrows() is backwards (PR#7839),33143,murdoch at stats.uwo.ca
+033260.html,[Rd] Bug in axis labels (PR#7860),33260,murdoch at stats.uwo.ca
+033299.html,[Rd] locator() (PR#7873),33299,murdoch at stats.uwo.ca
+033309.html,[Rd] Problem with limmaGUI (PR#7877),33309,murdoch at stats.uwo.ca
+033364.html,[Rd] Windows/7706 (PR#7889),33364,murdoch at stats.uwo.ca
+033390.html,"[Rd] qpois accuracy, efficiency, termination (PR#7900)",33390,mwelinder at gmail.com
+033394.html,[Rd] qcauchy accuracy (PR#7902),33394,mwelinder at gmail.com
+033322.html,[Rd] R quits after 6 seconds (PR#7878),33322,ngoldsmi at bigpond.net.au
+033226.html,[Rd] bug in modulus operator %% (PR#7852),33226,p.dalgaard at biostat.ku.dk
+033395.html,[Rd] crash in R OS X GUI (PR#7903),33395,pdbailey at uchicago.edu
+033368.html,[Rd] lowess output looks wrong (PR#7891),33368,pelzc at ohsu.edu
+033292.html,"[Rd] branch cuts in atan(), asin(), acos() (PR#7871)",33292,r.hankin at noc.soton.ac.uk
+033301.html,"[Rd] branch cuts in atan(), asin(), acos() (PR#7871)",33301,r.hankin at noc.soton.ac.uk
+033329.html,[Rd] make fails in errors.c (PR#7881),33329,rhurlin at gwdg.de
+033195.html,[Rd] big bug with edit(data.frame(a)) (PR#7846),33195,richard_maxime at yahoo.Fr
+033104.html,[Rd] MacOS X: update.packages(type=&quot;mac.binary&quot;) fails (PR#7831),33104,ripley at stats.ox.ac.uk
+033153.html,[Rd] Misspelled German error message: --nosave (PR#7841),33153,ripley at stats.ox.ac.uk
+033155.html,"[Rd] But in add1, presumably in add1.lm (PR#7842)",33155,ripley at stats.ox.ac.uk
+033156.html,(PR#7824) [Rd] handling of zero and negative indices in,33156,ripley at stats.ox.ac.uk
+033204.html,[Rd] wish: print.condition and html (PR#7848),33204,ripley at stats.ox.ac.uk
+033215.html,[Rd] rank (PR#7850),33215,ripley at stats.ox.ac.uk
+033233.html,[Rd] bug in modulus operator %% (PR#7852),33233,ripley at stats.ox.ac.uk
+033236.html,"[Rd] Patch to address (PR#7853)  -- tested briefly, seems to",33236,ripley at stats.ox.ac.uk
+033240.html,[Rd] Windows freezes plotting large line plots (PR#7856),33240,ripley at stats.ox.ac.uk
+033254.html,[Rd] segfault on large number of open brackets (PR#7859),33254,ripley at stats.ox.ac.uk
+033255.html,[Rd] segfault on large number of open brackets (PR#7859),33255,ripley at stats.ox.ac.uk
+033297.html,"[Rd] branch cuts in atan(), asin(), acos() (PR#7871)",33297,ripley at stats.ox.ac.uk
+033305.html,[Rd] install.packages Bug? (PR#7876),33305,ripley at stats.ox.ac.uk
+033335.html,[Rd] make fails in errors.c (PR#7881),33335,ripley at stats.ox.ac.uk
+033265.html,[Rd] RFC822/M400 Mail Network -- Delivery Report (PR#7861),33265,root at terminator1.vsnl.net.in
+033296.html,[Rd] locator() (PR#7873),33296,sascha.frydman at aad.gov.au
+033214.html,[Rd] rank (PR#7850),33214,stella.david at math.uni-augsburg.de
+033306.html,[Rd] Problem with limmaGUI (PR#7877),33306,supergecko at aliceposta.it
+033349.html,[Rd] R2.1.0a.dmg fails to mount (PR#7886),33349,tim.cole at ich.ucl.ac.uk
+033096.html,[Rd] Font size in Mac OS X console won't stick (PR#7830),33096,tim.sears at anu.edu.au
+033238.html,[Rd] Windows freezes plotting large line plots (PR#7856),33238,timo.becker at oeaw.ac.at
+033402.html,[Rd] ?strptime ambiguity (PR#7907),33402,tobias.verbeke at telenet.be
+033409.html,"[Rd] (PR#7899) seek(con, 0, &quot;end&quot;, rw=&quot;r&quot;) does not always work",33409,tplate at blackmesacapital.com
+033266.html,[Rd] [avast! - INFECTED]   Duvido voce me reconher =) (PR#7862),33266,trossari at terra.com.br
+033203.html,[Rd] wish: print.condition and html (PR#7848),33203,tshort at eprisolutions.com
+033366.html,[Rd] alloca() on FreeBSD (PR#7890),33366,vangyzen at stat.duke.edu
+033371.html,[Rd] Segmentation violation in eval.c (R 2.1.0) (PR#7893),33371,westfeld at inf.tu-dresden.de
+033380.html,[Rd] Error with user defined split function in rpart (PR#7895),33380,wheelerb at imsweb.com

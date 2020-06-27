@@ -1,0 +1,133 @@
+link,Subject,id,author
+020780.html,[Rd] Suggestion for comments in data files (i.e. read.table),20780,Jens Oehlschlägel-Akiyoshi
+020682.html,[Rd] Possible bug in factor (PR#531),20682,Peter Dalgaard BSA
+020696.html,[Rd] wsfe bug report just made (PR#533),20696,Peter Dalgaard BSA
+020702.html,[Rd] Windows version of R-devel,20702,Peter Dalgaard BSA
+020706.html,[Rd] Bug list summary (automatic post),20706,Peter Dalgaard BSA
+020708.html,[Rd] Problem with match.arg() (PR#536),20708,Peter Dalgaard BSA
+020711.html,[Rd] eigen broken on AIX with R-devel? (PR#537),20711,Peter Dalgaard BSA
+020728.html,[Rd] Documentation of par(gamma) (PR#540),20728,Peter Dalgaard BSA
+020742.html,[Rd] variance of a scalar (PR#546),20742,Peter Dalgaard BSA
+020746.html,[Rd] variance of a scalar (PR#546),20746,Peter Dalgaard BSA
+020753.html,[Rd] Bug list summary (automatic post),20753,Peter Dalgaard BSA
+020755.html,[Rd] graphics character misplaced (PR#548),20755,Peter Dalgaard BSA
+020801.html,[Rd] Documentatio: typo in Writing R Extensions (PR#557),20801,Peter Dalgaard BSA
+020695.html,"[Rd] acepack, akima and tripack will not load (PR#533)",20695,Douglas Bates
+020709.html,[Rd] P_sychics.com partnership,20709,Douglas Bates
+020773.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20773,Ben Bolker
+020797.html,[Rd] Bus Error crash (PR#551),20797,Paul Gilbert
+020737.html,[Rd] attach (S-style)?,20737,Christian Hoffmann
+020788.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20788,Kurt Hornik
+020752.html,[Rd] graphics character misplaced (PR#548),20752,Ross Ihaka
+020739.html,[Rd] variance of a scalar (PR#546),20739,J.C.Rougier@durham.ac.uk
+020787.html,[Rd] Random number generation problem (PR#554),20787,Kjetil Kjernsmo
+020796.html,[Rd] Bus Error crash (PR#551),20796,Kjetil Kjernsmo
+020807.html,[Rd] no $method from as.hclust (PR#538),20807,Friedrich Leisch
+020698.html,[Rd] Windows version of R-devel,20698,Uwe Ligges
+020699.html,[Rd] Data Entry Editor,20699,Uwe Ligges
+020700.html,[Rd] Windows version of R-devel,20700,Uwe Ligges
+020704.html,[Rd] Data Entry Editor,20704,Uwe Ligges
+020713.html,[Rd] R-WinEdt news,20713,Uwe Ligges
+020731.html,[Rd] Documentation of par(ann) (PR#539),20731,Uwe Ligges
+020732.html,[Rd] Documentation of par(gamma) (PR#540),20732,Uwe Ligges
+020743.html,[Rd] variance of a scalar (PR#546),20743,Uwe Ligges
+020802.html,[Rd] read.table and strip.white,20802,Uwe Ligges
+020804.html,[Rd] read.table and strip.white,20804,Uwe Ligges
+020808.html,[Rd] read.table and strip.white,20808,Uwe Ligges
+020681.html,[Rd] Possible bug in factor (PR#531),20681,Thomas Lumley
+020687.html,[Rd] print() &quot;bug&quot; for arrays with 0 columns,20687,Thomas Lumley
+020715.html,[Rd] eigen broken on AIX with R-devel? (PR#537),20715,Thomas Lumley
+020718.html,[Rd] R and Java ? [forwarded],20718,Thomas Lumley
+020683.html,[Rd] Possible bug in factor (PR#531),20683,Martin Maechler
+020685.html,[Rd] print() &quot;bug&quot; for arrays with 0 columns,20685,Martin Maechler
+020717.html,[Rd] R and Java ? [forwarded],20717,Martin Maechler
+020748.html,[Rd] variance of a scalar (PR#546),20748,Martin Maechler
+020768.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20768,Martin Maechler
+020771.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20771,Martin Maechler
+020774.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20774,Martin Maechler
+020790.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20790,Martin Maechler
+020791.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20791,Martin Maechler
+020793.html,[Rd] Bus Error crash (PR#551),20793,Brad McNeney
+020678.html,"[Rd] graphics: par(mfg=c(i,j,r,c)) (PR#529)",20678,Paul Murrell
+020809.html,[Rd] read.table and strip.white,20809,Erich Neuwirth
+020712.html,[Rd] Type III Sums of Squares?,20712,Kaspar Pflugshaupt
+020770.html,[Rd] RE:bug 548 graphics '*' (PR#549),20770,Martyn Plummer
+020781.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20781,Martyn Plummer
+020784.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20784,Martyn Plummer
+020697.html,[Rd] Windows version of R-devel,20697,Prof Brian Ripley
+020720.html,[Rd] scale factors/overdispersion in GLM: possible bug?,20720,Prof Brian Ripley
+020736.html,[Rd] pythag missing in src/appl/ROUTINES (PR#544),20736,Prof Brian Ripley
+020738.html,[Rd] attach (S-style)?,20738,Prof Brian Ripley
+020740.html,[Rd] variance of a scalar (PR#546),20740,Prof Brian Ripley
+020744.html,[Rd] variance of a scalar (PR#546),20744,Prof Brian Ripley
+020761.html,[Rd] RE:bug 548 graphics '*' (PR#549),20761,Prof Brian Ripley
+020766.html,integer functions {was [Rd] Inconsistencies },20766,Prof Brian Ripley
+020769.html,[Rd] character arguments with call_R (PR#552),20769,Prof Brian Ripley
+020775.html,[Rd] RE:bug 548 graphics '*' (PR#549),20775,Prof Brian Ripley
+020776.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20776,Prof Brian Ripley
+020782.html,[Rd] Suggestion for comments in data files (i.e. read.table),20782,Prof Brian Ripley
+020783.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20783,Prof Brian Ripley
+020803.html,[Rd] read.table and strip.white,20803,Prof Brian Ripley
+020805.html,[Rd] read.table and strip.white,20805,Prof Brian Ripley
+020806.html,[Rd] read.table and strip.white,20806,Prof Brian Ripley
+020689.html,"[Rd] Bug report -- 1.0.1, HP-UX (PR#532)",20689,Prof Brian D Ripley
+020694.html,"[Rd] acepack, akima and tripack will not load (PR#533)",20694,Prof Brian D Ripley
+020701.html,[Rd] Data Entry Editor,20701,Prof Brian D Ripley
+020705.html,[Rd] Data Entry Editor,20705,Prof Brian D Ripley
+020725.html,[Rd] Documentation of par(ann) (PR#539),20725,Prof Brian D Ripley
+020726.html,[Rd] Documentation of par(gamma) (PR#540),20726,Prof Brian D Ripley
+020727.html,[Rd] Typo in documentation for order() (PR#541),20727,Prof Brian D Ripley
+020730.html,[Rd] X11 not present leads to compile error (PR#543),20730,Prof Brian D Ripley
+020750.html,"[Rd] system(.., ignore.stderr = TRUE)  problem on Solaris (PR#547)",20750,Prof Brian D Ripley
+020760.html,[Rd] Inconsistencies (PR#550),20760,Prof Brian D Ripley
+020778.html,[Rd] Suggestion for comments in data files (i.e. read.table),20778,Prof Brian D Ripley
+020786.html,[Rd] Random number generation problem (PR#554),20786,Prof Brian D Ripley
+020789.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20789,Prof Brian D Ripley
+020792.html,"[Rd] hypot(x,y) instead of pythag(a,b) ?!",20792,Prof Brian D Ripley
+020800.html,[Rd] Documentatio: typo in Writing R Extensions (PR#557),20800,Prof Brian D Ripley
+020734.html,[Rd] pythag missing in src/appl/ROUTINES (PR#544),20734,Roger.Bivand@nhh.no
+020686.html,[Rd] print() &quot;bug&quot; for arrays with 0 columns,20686,Jonathan Rougier
+020741.html,[Rd] variance of a scalar (PR#546),20741,Jonathan Rougier
+020745.html,[Rd] variance of a scalar (PR#546),20745,Jonathan Rougier
+020690.html,[Rd] Possible bug in factor (PR#531),20690,Murray Smith
+020759.html,[Rd] variance of a scalar (PR#546),20759,Telford Tendys
+020777.html,[Rd] Suggestion for comments in data files (i.e. read.table),20777,Telford Tendys
+020779.html,[Rd] Suggestion for comments in data files (i.e. read.table),20779,Telford Tendys
+020733.html,[Rd] Macintosh version of R,20733,Jean Thioulouse
+020762.html,[Rd] Inconsistencies (PR#550),20762,Berwin Turlach
+020714.html,[Rd] Type III Sums of Squares?,20714,Bill Venables
+020747.html,[Rd] variance of a scalar (PR#546),20747,Bill Venables
+020795.html,[Rd] diag() (PR#555),20795,Bill Venables
+020703.html,[Rd] axis() deficiency (PR#535),20703,William.Venables@cmis.CSIRO.AU
+020751.html,[Rd] graphics character misplaced (PR#548),20751,acuster@nature.berkeley.edu
+020756.html,[Rd] RE:bug 548 graphics '*' (PR#549),20756,acuster@nature.berkeley.edu
+020716.html,[Rd] The Contrarian - BUY ALERT                        .                ~*,20716,alert35@us.sina.com
+020758.html,[Rd] Inconsistencies (PR#550),20758,berwin@maths.uwa.edu.au
+020794.html,[Rd] diag() (PR#555),20794,davidD@qimr.edu.au
+020719.html,[Rd] no $method from as.hclust (PR#538),20719,denis@mercury.cor.epa.gov
+020767.html,[Rd] character arguments with call_R (PR#552),20767,jlindsey@alpha.luc.ac.be
+020707.html,[Rd] Problem with match.arg() (PR#536),20707,kjetikj@astro.uio.no
+020735.html,[Rd] Segmentation Fault of unknown cause (PR#545),20735,kjetikj@astro.uio.no
+020765.html,[Rd] Bus Error crash (PR#551),20765,kjetikj@astro.uio.no
+020785.html,[Rd] Random number generation problem (PR#554),20785,kjetikj@astro.uio.no
+020679.html,[Rd] rpois hangs (PR#530),20679,maechler@stat.math.ethz.ch
+020684.html,[Rd] Possible bug in factor (PR#531),20684,maechler@stat.math.ethz.ch
+020749.html,"[Rd] system(.., ignore.stderr = TRUE)  problem on Solaris (PR#547)",20749,maechler@stat.math.ethz.ch
+020764.html,integer functions {was [Rd] Inconsistencies (PR#550)},20764,maechler@stat.math.ethz.ch
+020692.html,"[Rd] acepack, akima and tripack will not load (PR#533)",20692,mallen@tntech.edu
+020693.html,[Rd] wsfe bug report just made (PR#534),20693,mallen@tntech.edu
+020757.html,[Rd] memory problem with DEC C (was: problem with glm (PR#452)),20757,mcneney@cs.sfu.ca
+020680.html,[Rd] Possible bug in factor (PR#531),20680,mh.smith@auckland.ac.nz
+020691.html,[Rd] Possible bug in factor (PR#531),20691,mh.smith@auckland.ac.nz
+020772.html,[Rd] text() with large cex parameter crashes X11() (PR#553),20772,plummer@iarc.fr
+020754.html,[Rd] graphics character misplaced (PR#548),20754,ripley@stats.ox.ac.uk
+020763.html,[Rd] RE:bug 548 graphics '*' (PR#549),20763,ripley@stats.ox.ac.uk
+020688.html,"[Rd] Bug report -- 1.0.1, HP-UX (PR#532)",20688,russell-lenth@uiowa.edu
+020721.html,[Rd] Documentation of par(ann) (PR#539),20721,salwin@mitretek.org
+020722.html,[Rd] Documentation of par(gamma) (PR#540),20722,salwin@mitretek.org
+020723.html,[Rd] Typo in documentation for order() (PR#541),20723,salwin@mitretek.org
+020724.html,[Rd] Inconsistent behavior of par() agruments on lines() (PR#542),20724,salwin@mitretek.org
+020798.html,[Rd] Documentatio: typo in Writing R Extensions (PR#557),20798,stephen@anc.ed.ac.uk
+020799.html,[Rd] Documentatio: typo in Writing R Extensions (PR#558),20799,stephen@anc.ed.ac.uk
+020710.html,[Rd] eigen broken on AIX with R-devel? (PR#537),20710,tov@ece.cmu.edu
+020729.html,[Rd] X11 not present leads to compile error (PR#543),20729,vilhuber@yorku.ca

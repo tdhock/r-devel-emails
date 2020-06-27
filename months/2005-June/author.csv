@@ -1,0 +1,402 @@
+link,Subject,id,author
+033693.html,[Rd] Ambiguous address warning,33693,Mail System mlist-0.sp.cs (MMDF)
+033700.html,[Rd] 1-based arrays and copying vectors,33700,Lopaka Lee (Rob)
+033410.html,[Rd] Problem with fPortfolio,33410,Neuro LeSuperH&#233;ros
+033433.html,[Rd] Deutsche Bank E-Mail Verification - r-bugs@biost (PR#7916),33433,AlikeeBelair at deutsche-bank.de
+033448.html,[Rd] using so-library involving Taucs,33448,Douglas Bates
+033701.html,[Rd] 1-based arrays and copying vectors,33701,Douglas Bates
+033724.html,[Rd] Lapack calls from fortran,33724,Douglas Bates
+033794.html,[Rd] Running ./tools/rsync-recommended through a proxy,33794,Douglas Bates
+033417.html,[Rd] anova.mlm again,33417,Bela Bauer
+033480.html,[Rd] Suggestion: help(&lt;package name&gt;),33480,Henrik Bengtsson
+033483.html,[Rd] Suggestion: help(&lt;package name&gt;),33483,Henrik Bengtsson
+033485.html,[Rd] Suggestion: help(&lt;package name&gt;),33485,Henrik Bengtsson
+033521.html,[Rd] Suggestion: help(&lt;package name&gt;),33521,Henrik Bengtsson
+033545.html,[Rd] Exiting R and package detachment?,33545,Henrik Bengtsson
+033549.html,[Rd] Exiting R and package detachment?,33549,Henrik Bengtsson
+033659.html,[Rd] \section{Windows}{...} instead of #ifdef windows ... #endif? (Was: Re: (PR#7943) documentation ...),33659,Henrik Bengtsson
+033703.html,[Rd] capabilities() and non-catchable messages,33703,Henrik Bengtsson
+033706.html,[Rd] capabilities() and non-catchable messages,33706,Henrik Bengtsson
+033734.html,[Rd] Unattended Windows installation of R modified with v2.1.1,33734,Henrik Bengtsson
+033740.html,[Rd] Unattended Windows installation of R modified with v2.1.1,33740,Henrik Bengtsson
+033771.html,[Rd] R v2.1.1 for Windows and &quot;non-reproducible&quot; crashes,33771,Henrik Bengtsson
+033772.html,[Rd] R v2.1.1 for Windows and &quot;non-reproducible&quot; crashes,33772,Henrik Bengtsson
+033785.html,[Rd] capabilities() and non-catchable messages,33785,Henrik Bengtsson
+033632.html,[Rd] Citation for R,33632,Simon Blomberg
+033447.html,[Rd] documentation source diff...,33447,Dan Bolser
+033451.html,[Rd] documentation source diff...,33451,Dan Bolser
+033462.html,[Rd] Re: [R] A long digression on packages,33462,M. Edward (Ed) Borasky
+033464.html,[Rd] Re: [R] A long digression on packages,33464,M. Edward (Ed) Borasky
+033592.html,[Rd] Citation for R,33592,M. Edward (Ed) Borasky
+033593.html,[Rd] R 2.1.1 slated for June 20,33593,M. Edward (Ed) Borasky
+033453.html,[Rd] Characters in lists.,33453,James Bullard
+033747.html,[Rd] Embedding R in C application,33747,Chad.P.Jenness at wellsfargo.com
+033750.html,[Rd] Embedding R in C application,33750,Chad.P.Jenness at wellsfargo.com
+033753.html,[Rd] Embedding R in C application,33753,Chad.P.Jenness at wellsfargo.com
+033786.html,[Rd] Error in compiling R,33786,Chad.P.Jenness at wellsfargo.com
+033790.html,[Rd] Error in compiling R,33790,Chad.P.Jenness at wellsfargo.com
+033575.html,[Rd] Using Rserve,33575,D0c
+033603.html,[Rd] Fwd:  Using Rserve,33603,D0c
+033445.html,[Rd] R-bugs will be offline starting June 7,33445,Peter Dalgaard
+033460.html,[Rd] Re: [R] A long digression on packages,33460,Peter Dalgaard
+033472.html,[Rd] Bug in new() or validObject() in methods package (PR#7922),33472,Peter Dalgaard
+033551.html,[Rd] R 2.1.1 slated for June 20,33551,Peter Dalgaard
+033588.html,[Rd] by should use match.fun,33588,Peter Dalgaard
+033628.html,[Rd] R 2.1.1 slated for June 20,33628,Peter Dalgaard
+033629.html,[Rd] R 2.1.1 slated for June 20,33629,Peter Dalgaard
+033637.html,[Rd] R 2.1.1 slated for June 20,33637,Peter Dalgaard
+033667.html,[Rd] R 2.1.1 slated for June 20,33667,Peter Dalgaard
+033694.html,[Rd] loess returns different standard errors for identical	models (PR#7956),33694,Peter Dalgaard
+033696.html,[Rd] loess returns different standard errors for identical	models (PR#7956),33696,Peter Dalgaard
+033697.html,[Rd] loess returns different standard errors for identical	models (PR#7956),33697,Peter Dalgaard
+033699.html,[Rd] loess returns different standard errors for identical	models (PR#7956),33699,Peter Dalgaard
+033728.html,[Rd] Suggestion for the R Bugs web page,33728,Peter Dalgaard
+033730.html,[Rd] Suggestion for the R Bugs web page,33730,Peter Dalgaard
+033744.html,[Rd] list.files() reorders files  in R CMD INSALL,33744,Peter Dalgaard
+033759.html,[Rd] Objects and regex (PR#7970),33759,Peter Dalgaard
+033789.html,[Rd] boxplot by factor (Package base version 2.1.1) ( PR#7976),33789,Peter Dalgaard
+033678.html,[Rd] Tapes... DVDs... Now this... (PR#7950),33678,DiminishedSmith at vorras.net
+033459.html,[Rd] Re: [R] A long digression on packages,33459,Dirk Eddelbuettel
+033461.html,[Rd] Re: [R] A long digression on packages,33461,Dirk Eddelbuettel
+033465.html,[Rd] Re: [R] A long digression on packages,33465,Dirk Eddelbuettel
+033634.html,[Rd] R 2.1.1 slated for June 20,33634,Dirk Eddelbuettel
+033778.html,[Rd] R mailing list archive: alternative interface,33778,Dirk Eddelbuettel
+033823.html,[Rd] upgrading an R installation to next versoin,33823,Dirk Eddelbuettel
+033454.html,[Rd] fix for save()'ing RAW on PPC (and other big endian platforms),33454,Byron Ellis
+033776.html,[Rd] R mailing list archive: alternative interface,33776,Seth Falcon
+033756.html,[Rd] Factor correlations in factanal,33756,John Fox
+033525.html,[Rd] When are the perl modules compiled,33525,Romain Francois
+033613.html,[Rd] Citation for R,33613,Friedrich.Leisch at tuwien.ac.at
+033614.html,[Rd] Citation for R,33614,Friedrich.Leisch at tuwien.ac.at
+033621.html,[Rd] Calling C from Fortran,33621,Gilles GUILLOT
+033640.html,[Rd] Calling C function from Fortran,33640,Gilles GUILLOT
+033652.html,[Rd] Calling C from Fortran,33652,Gilles GUILLOT
+033491.html,[Rd] Suggestion: help(&lt;package name&gt;),33491,Robert Gentleman
+033494.html,[Rd] Suggestion: help(&lt;package name&gt;),33494,Robert Gentleman
+033498.html,[Rd] Suggestion: help(&lt;package name&gt;),33498,Robert Gentleman
+033722.html,[Rd] Lapack calls from fortran,33722,Paul Gilbert
+033773.html,[Rd] R mailing list archive: alternative interface,33773,Earl F. Glynn
+033777.html,[Rd] R mailing list archive: alternative interface,33777,Earl F. Glynn
+033569.html,[Rd] Slovenian translation strings for R &quot;installation programs&quot;,33569,Gorjanc Gregor
+033577.html,[Rd] FW: Slovenian translation strings for R &quot;installation programs&quot;,33577,Gorjanc Gregor
+033770.html,[Rd] Wish/suggestion: Install packages on fly via library(),33770,Gorjanc Gregor
+033542.html,[Rd] Question about .Rd syntax,33542,Philippe Grosjean
+033411.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33411,Gabor Grothendieck
+033419.html,[Rd] 1/tan(-0) != 1/tan(0),33419,Gabor Grothendieck
+033423.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33423,Gabor Grothendieck
+033439.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33439,Gabor Grothendieck
+033442.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33442,Gabor Grothendieck
+033463.html,[Rd] Re: [R] A long digression on packages,33463,Gabor Grothendieck
+033476.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33476,Gabor Grothendieck
+033477.html,[Rd] update.packages keeps trying to update gregmisc,33477,Gabor Grothendieck
+033478.html,[Rd] Re: update.packages keeps trying to update gregmisc,33478,Gabor Grothendieck
+033484.html,[Rd] Re: update.packages keeps trying to update gregmisc,33484,Gabor Grothendieck
+033487.html,[Rd] Suggestion: help(&lt;package name&gt;),33487,Gabor Grothendieck
+033493.html,[Rd] Suggestion: help(&lt;package name&gt;),33493,Gabor Grothendieck
+033500.html,[Rd] Suggestion: help(&lt;package name&gt;),33500,Gabor Grothendieck
+033506.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33506,Gabor Grothendieck
+033508.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33508,Gabor Grothendieck
+033509.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33509,Gabor Grothendieck
+033510.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33510,Gabor Grothendieck
+033513.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33513,Gabor Grothendieck
+033516.html,[Rd] Suggestion: help(&lt;package name&gt;),33516,Gabor Grothendieck
+033526.html,[Rd] Re: [R] How to vectorize,33526,Gabor Grothendieck
+033535.html,"[Rd] NEWS, WISHLIST, THANKS",33535,Gabor Grothendieck
+033539.html,"[Rd] NEWS, WISHLIST, THANKS",33539,Gabor Grothendieck
+033540.html,"[Rd] NEWS, WISHLIST, THANKS",33540,Gabor Grothendieck
+033550.html,[Rd] Suggestion: help(&lt;package name&gt;),33550,Gabor Grothendieck
+033580.html,[Rd] FW: Slovenian translation strings for R &quot;installation	programs&quot;,33580,Gabor Grothendieck
+033582.html,[Rd] FW: Slovenian translation strings for R &quot;installation	programs&quot;,33582,Gabor Grothendieck
+033583.html,[Rd] by should use match.fun,33583,Gabor Grothendieck
+033585.html,[Rd] by should use match.fun,33585,Gabor Grothendieck
+033587.html,[Rd] by should use match.fun,33587,Gabor Grothendieck
+033651.html,[Rd] italic (PR#7932),33651,Gabor Grothendieck
+033718.html,[Rd] Trouble with ifelse and if statement (PR#7962),33718,Gabor Grothendieck
+033721.html,[Rd] Trouble with ifelse and if statement (PR#7962),33721,Gabor Grothendieck
+033762.html,[Rd] a hack regarding &quot;No documentation ....&quot;,33762,Gabor Grothendieck
+033792.html,[Rd] boxplot by factor (Package base version 2.1.1) ( PR#7976),33792,Gabor Grothendieck
+033814.html,[Rd] upgrading an R installation to next versoin,33814,Gabor Grothendieck
+033817.html,[Rd] upgrading an R installation to next versoin,33817,Gabor Grothendieck
+033819.html,[Rd] upgrading an R installation to next versoin,33819,Gabor Grothendieck
+033488.html,[Rd] Suggestion: help(&lt;package name&gt;),33488,Robin Hankin
+033519.html,[Rd] Suggestion: help(&lt;package name&gt;),33519,Robin Hankin
+033415.html,[Rd] 1/tan(-0) != 1/tan(0),33415, (Ted Harding)
+033457.html,[Rd] Re: [R] p-value &gt; 1 in fisher.test(),33457, (Ted Harding)
+033605.html,[Rd] Citation for R,33605, (Ted Harding)
+033619.html,[Rd] Citation for R,33619, (Ted Harding)
+033443.html,[Rd] using so-library involving Taucs,33443,Susanne Heim
+033444.html,[Rd] using so-library involving Taucs,33444,Susanne Heim
+033676.html,[Rd] motivation for setRepositories and chooseCRANmirror,33676,Jeffrey Horner
+033481.html,[Rd] Suggestion: help(&lt;package name&gt;),33481,Kurt Hornik
+033520.html,[Rd] Suggestion: help(&lt;package name&gt;),33520,Kurt Hornik
+033543.html,[Rd] Question about .Rd syntax,33543,Kurt Hornik
+033544.html,[Rd] Suggestion: help(&lt;package name&gt;),33544,Kurt Hornik
+033818.html,[Rd] upgrading an R installation to next versoin,33818,J. Hosking
+033820.html,[Rd] upgrading an R installation to next versoin,33820,J. Hosking
+033517.html,[Rd] Suggestion: help(&lt;package name&gt;),33517,Torsten Hothorn
+033482.html,[Rd] Suggestion: help(&lt;package name&gt;),33482,Wolfgang Huber
+033434.html,[Rd] dotcode typo?,33434,"Huntsinger, Reid"
+033435.html,[Rd] dotcode typo?,33435,"Huntsinger, Reid"
+033622.html,[Rd] Calling C from Fortran,33622,"Huntsinger, Reid"
+033657.html,[Rd] Calling C from Fortran,33657,"Huntsinger, Reid"
+033496.html,[Rd] alloca() on FreeBSD (PR#7890),33496,Rainer Hurling
+033503.html,[Rd] alloca() on FreeBSD (PR#7890),33503,Rainer Hurling
+033599.html,"[Rd] Error in load(zfile, envir = envir) : input has been corrupted,	with LF replaced by CR",33599,S&#248;ren H&#248;jsgaard
+033763.html,[Rd] Possible bug in summary of residuals with lm and weights,33763,Frank E Harrell Jr
+033677.html,[Rd] Tapes... DVDs... Now this...,33677,"Kerry  P. Robin, II"
+033805.html,[Rd] Objects and regex (PR#7970),33805,Rafal Kustra
+033812.html,[Rd] Bartlett test problem (PR#7980),33812,LCorbett at ustboniface.mb.ca
+033591.html,[Rd] Citation for R,33591,Jan de Leeuw
+033514.html,[Rd] Suggestion: help(&lt;package name&gt;),33514,"Liaw, Andy"
+033536.html,"[Rd] NEWS, WISHLIST, THANKS",33536,"Liaw, Andy"
+033541.html,"[Rd] NEWS, WISHLIST, THANKS",33541,"Liaw, Andy"
+033584.html,[Rd] by should use match.fun,33584,"Liaw, Andy"
+033787.html,[Rd] boxplot by factor (Package base version 2.1.1) ( PR#7976),33787,"Liaw, Andy"
+033412.html,[Rd] Problem with fPortfolio,33412,Uwe Ligges
+033449.html,[Rd] documentation source diff...,33449,Uwe Ligges
+033450.html,[Rd] Re: [R] p-value &gt; 1 in fisher.test(),33450,Uwe Ligges
+033594.html,[Rd] R 2.1.1 slated for June 20,33594,Uwe Ligges
+033612.html,[Rd] Citation for R,33612,Uwe Ligges
+033698.html,[Rd] motivation for setRepositories and chooseCRANmirror,33698,Uwe Ligges
+033490.html,[Rd] Suggestion: help(&lt;package name&gt;),33490,Thomas Lumley
+033564.html,[Rd] source bug ? (PR#7929),33564,Thomas Lumley
+033604.html,[Rd] Citation for R,33604,Thomas Lumley
+033606.html,[Rd] (no subject),33606,Thomas Lumley
+033609.html,[Rd] DSC 2005,33609,Thomas Lumley
+033711.html,[Rd] Open device -&gt; glibc 2.3.4 bug for Redhat Enterprise 4?,33711,Thomas Lumley
+033714.html,[Rd] Open device -&gt; glibc 2.3.4 bug for Redhat Enterprise 4?,33714,Thomas Lumley
+033719.html,[Rd] Trouble with ifelse and if statement (PR#7962),33719,MSchwartz at mn.rr.com
+033414.html,[Rd] 1/tan(-0) != 1/tan(0)  ,33414,Martin Maechler
+033452.html,[Rd] Re: [R] p-value &gt; 1 in fisher.test(),33452,Martin Maechler
+033497.html,[Rd] Suggestion: help(&lt;package name&gt;),33497,Martin Maechler
+033617.html,[Rd] operators as S4 methods,33617,Martin Maechler
+033710.html,[Rd] Open device -&gt; glibc 2.3.4 bug for Redhat Enterprise 4?,33710,Martin Maechler
+033712.html,[Rd] Open device -&gt; glibc 2.3.4 bug for Redhat Enterprise 4?,33712,Martin Maechler
+033720.html,[Rd] Trouble with ifelse and if statement (PR#7962),33720,Martin Maechler
+033725.html,[Rd] Suggestion for the R Bugs web page,33725,Martin Maechler
+033755.html,[Rd] efficiency of sample() with prob.,33755,Martin Maechler
+033474.html,[Rd] Bug in new() or validObject() in methods package (PR#7922),33474,"McGehee, Robert"
+033807.html,[Rd] write.csv suggestion,33807,"McGehee, Robert"
+033809.html,[Rd] write.csv suggestion,33809,"McGehee, Robert"
+033615.html,[Rd] operators as S4 methods,33615,Iago Mosqueira
+033420.html,[Rd] format.data.frame (was: [R] sink() within a function?),33420,Duncan Murdoch
+033436.html,[Rd] dotcode typo?,33436,Duncan Murdoch
+033458.html,[Rd] Re: [R] A long digression on packages,33458,Duncan Murdoch
+033473.html,[Rd] Bug in new() or validObject() in methods package (PR#7922),33473,Duncan Murdoch
+033486.html,[Rd] Suggestion: help(&lt;package name&gt;),33486,Duncan Murdoch
+033489.html,[Rd] Bug in new() or validObject() in methods package (PR#7922),33489,Duncan Murdoch
+033492.html,[Rd] Suggestion: help(&lt;package name&gt;),33492,Duncan Murdoch
+033495.html,[Rd] Suggestion: help(&lt;package name&gt;),33495,Duncan Murdoch
+033512.html,[Rd] Suggestion: help(&lt;package name&gt;),33512,Duncan Murdoch
+033515.html,[Rd] Suggestion: help(&lt;package name&gt;),33515,Duncan Murdoch
+033522.html,[Rd] Suggestion: help(&lt;package name&gt;),33522,Duncan Murdoch
+033523.html,[Rd] Suggestion: help(&lt;package name&gt;),33523,Duncan Murdoch
+033530.html,[Rd] Suggestion: help(&lt;package name&gt;),33530,Duncan Murdoch
+033534.html,[Rd] Suggestion: help(&lt;package name&gt;),33534,Duncan Murdoch
+033537.html,"[Rd] NEWS, WISHLIST, THANKS",33537,Duncan Murdoch
+033548.html,[Rd] Suggestion: help(&lt;package name&gt;),33548,Duncan Murdoch
+033552.html,[Rd] Suggestion: help(&lt;package name&gt;),33552,Duncan Murdoch
+033565.html,[Rd] Suggestion: help(&lt;package name&gt;),33565,Duncan Murdoch
+033571.html,[Rd] typo in ?lowess,33571,Duncan Murdoch
+033687.html,[Rd] hist.default documentation,33687,Duncan Murdoch
+033689.html,[Rd] hist.default documentation,33689,Duncan Murdoch
+033738.html,[Rd] Rgui bug in Windows:  leftover download dialog (PR#7964),33738,Duncan Murdoch
+033742.html,[Rd] list.files() reorders files  in R CMD INSALL,33742,Duncan Murdoch
+033743.html,[Rd] list.files() reorders files  in R CMD INSALL,33743,Duncan Murdoch
+033748.html,[Rd] Embedding R in C application,33748,Duncan Murdoch
+033774.html,[Rd] R v2.1.1 for Windows and &quot;non-reproducible&quot; crashes,33774,Duncan Murdoch
+033798.html,[Rd] Viewing R objects in gdb,33798,Duncan Murdoch
+033804.html,[Rd] Viewing R objects in gdb,33804,Duncan Murdoch
+033815.html,[Rd] upgrading an R installation to next versoin,33815,Duncan Murdoch
+033422.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33422,Paul Murrell
+033475.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33475,Paul Murrell
+033505.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33505,Paul Murrell
+033507.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33507,Paul Murrell
+033511.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33511,Paul Murrell
+033532.html,[Rd] Re: [R] Problem going back to a viewport with gridBase,33532,Paul Murrell
+033707.html,[Rd] Revised scatter.smooth using xy.coords,33707,Paul Murrell
+033715.html,[Rd] efficiency of sample() with prob.,33715,Vadim Ogranovich
+033741.html,[Rd] list.files() reorders files  in R CMD INSALL,33741,Vadim Ogranovich
+033709.html,[Rd] efficiency of sample() with prob.,33709,Bo Peng
+033727.html,[Rd] efficiency of sample() with prob.,33727,Bo Peng
+033745.html,[Rd] efficiency of sample() with prob.,33745,Bo Peng
+033754.html,[Rd] efficiency of sample() with prob.,33754,Bo Peng
+033598.html,[Rd] Citation for R,33598,Roger D. Peng
+033704.html,[Rd] capabilities() and non-catchable messages,33704,Roger D. Peng
+033572.html,[Rd] single assignment affecting multiple sub-structures	(PR#7924),33572,Tony Plate
+033561.html,[Rd] attach and object masking,33561,Martyn Plummer
+033602.html,[Rd] memory allocation problem under linux,33602,Martyn Plummer
+033665.html,[Rd] R 2.1.1 slated for June 20,33665,Martyn Plummer
+033673.html,[Rd] R 2.1.1 slated for June 20,33673,Martyn Plummer
+033675.html,[Rd] a bug in glm.fit() (PR#7947),33675,Martyn Plummer
+033811.html,[Rd] Failed &quot;make check&quot; under Fedora Core 4 (PR#7979),33811,Martyn Plummer
+033760.html,[Rd] a hack regarding &quot;No documentation ....&quot;,33760,Mike R
+033761.html,[Rd] a hack regarding &quot;No documentation ....&quot;,33761,Mike R
+033479.html,[Rd] Re: update.packages keeps trying to update gregmisc,33479,Brian D Ripley
+033581.html,[Rd] FW: Slovenian translation strings for R &quot;installation programs&quot;,33581,Brian D Ripley
+033424.html,[Rd] ?strptime ambiguity (PR#7907),33424,Prof Brian Ripley
+033456.html,[Rd] Characters in lists.,33456,Prof Brian Ripley
+033501.html,[Rd] Suggestion: help(&lt;package name&gt;),33501,Prof Brian Ripley
+033504.html,[Rd] alloca() on FreeBSD (PR#7890),33504,Prof Brian Ripley
+033547.html,[Rd] Exiting R and package detachment?,33547,Prof Brian Ripley
+033553.html,[Rd] Exiting R and package detachment?,33553,Prof Brian Ripley
+033554.html,[Rd] R 2.1.1 slated for June 20,33554,Prof Brian Ripley
+033562.html,[Rd] attach and object masking,33562,Prof Brian Ripley
+033578.html,[Rd] FW: Slovenian translation strings for R &quot;installation programs&quot;,33578,Prof Brian Ripley
+033596.html,[Rd] memory allocation problem under linux,33596,Prof Brian Ripley
+033600.html,"[Rd] Error in load(zfile, envir = envir) : input has been corrupted, with LF replaced by CR",33600,Prof Brian Ripley
+033601.html,[Rd] Possible solution to missing title bars etc on X11 windows,33601,Prof Brian Ripley
+033626.html,[Rd] R 2.1.1 slated for June 20,33626,Prof Brian Ripley
+033636.html,[Rd] R 2.1.1 slated for June 20,33636,Prof Brian Ripley
+033646.html,[Rd] write.table confused by rownames/colnames (PR#7941),33646,Prof Brian Ripley
+033664.html,[Rd] a bug in glm.fit() (PR#7947),33664,Prof Brian Ripley
+033666.html,[Rd] R 2.1.1 slated for June 20,33666,Prof Brian Ripley
+033671.html,[Rd] R 2.1.1 slated for June 20,33671,Prof Brian Ripley
+033685.html,[Rd] R Include File Guards,33685,Prof Brian Ripley
+033695.html,[Rd] loess returns different standard errors for identical models (PR#7956),33695,Prof Brian Ripley
+033702.html,[Rd] Use of PACKAGE= argument in .C etc calls,33702,Prof Brian Ripley
+033708.html,[Rd] capabilities() and non-catchable messages,33708,Prof Brian Ripley
+033732.html,[Rd] efficiency of sample() with prob.,33732,Prof Brian Ripley
+033735.html,[Rd] Unattended Windows installation of R modified with v2.1.1,33735,Prof Brian Ripley
+033737.html,[Rd] Rgui bug in Windows:  leftover download dialog (PR#7964),33737,Prof Brian Ripley
+033746.html,[Rd] efficiency of sample() with prob.,33746,Prof Brian Ripley
+033752.html,[Rd] Embedding R in C application,33752,Prof Brian Ripley
+033769.html,[Rd] Unused argument &quot;na.action&quot; to pairs.formula,33769,Prof Brian Ripley
+033788.html,[Rd] Error in compiling R,33788,Prof Brian Ripley
+033793.html,[Rd] Error in compiling R,33793,Prof Brian Ripley
+033795.html,[Rd] Running ./tools/rsync-recommended through a proxy,33795,Prof Brian Ripley
+033808.html,[Rd] write.csv suggestion,33808,Prof Brian Ripley
+033816.html,[Rd] write.csv suggestion,33816,Prof Brian Ripley
+033661.html,[Rd] R Include File Guards,33661,Paul Roebuck
+033691.html,[Rd] R Include File Guards,33691,Paul Roebuck
+033518.html,[Rd] Suggestion: help(&lt;package name&gt;),33518,A.J. Rossini
+033616.html,[Rd] Citation for R,33616,A.J. Rossini
+033686.html,[Rd] hist.default documentation,33686,Deepayan Sarkar
+033688.html,[Rd] hist.default documentation,33688,Deepayan Sarkar
+033623.html,[Rd] R 2.1.1 slated for June 20,33623,Marc Schwartz
+033627.html,[Rd] R 2.1.1 slated for June 20,33627,Marc Schwartz
+033630.html,[Rd] R 2.1.1 slated for June 20,33630,Marc Schwartz
+033631.html,[Rd] R 2.1.1 slated for June 20,33631,Marc Schwartz
+033635.html,[Rd] R 2.1.1 slated for June 20,33635,Marc Schwartz
+033642.html,[Rd] R 2.1.1 slated for June 20,33642,Marc Schwartz
+033644.html,[Rd] R 2.1.1 slated for June 20,33644,Marc Schwartz
+033669.html,[Rd] R 2.1.1 slated for June 20,33669,Marc Schwartz
+033674.html,[Rd] R 2.1.1 slated for June 20,33674,Marc Schwartz
+033723.html,[Rd] Suggestion for the R Bugs web page,33723,Marc Schwartz
+033726.html,[Rd] Suggestion for the R Bugs web page,33726,Marc Schwartz
+033729.html,[Rd] Suggestion for the R Bugs web page,33729,Marc Schwartz
+033733.html,[Rd] Suggestion for the R Bugs web page,33733,Marc Schwartz
+033610.html,[Rd] Citation for R,33610,Gordon Smyth
+033618.html,[Rd] Citation for R,33618,Gordon Smyth
+033590.html,[Rd] Citation for R,33590,Gordon K Smyth
+033607.html,[Rd] Citation for R,33607,Gordon K Smyth
+033608.html,[Rd] Citation for R,33608,Gordon K Smyth
+033440.html,[Rd] could not open libRmath.so,33440,Tib
+033802.html,[Rd] Viewing R objects in gdb,33802,Luke Tierney
+033806.html,[Rd] Viewing R objects in gdb,33806,Luke Tierney
+033766.html,[Rd] Unused argument &quot;na.action&quot; to pairs.formula,33766,Tim.Keighley at csiro.au
+033418.html,[Rd] 1/tan(-0) != 1/tan(0),33418,Simon Urbanek
+033441.html,[Rd] could not open libRmath.so,33441,Simon Urbanek
+033502.html,[Rd] alloca() on FreeBSD (PR#7890),33502,Simon Urbanek
+033558.html,[Rd] R.app (PR#7926),33558,Simon Urbanek
+033559.html,[Rd] R.app editor (PR#7928),33559,Simon Urbanek
+033586.html,[Rd] by should use match.fun,33586,Simon Urbanek
+033633.html,[Rd] R 2.1.1 slated for June 20,33633,Simon Urbanek
+033681.html,[Rd] 2.1.0a for Macs (PR#7952),33681,Simon Urbanek
+033683.html,"[Rd] R worked once, now will not open.  Works in console,	but won't graph. (PR#7953)",33683,Simon Urbanek
+033801.html,[Rd] Failed make (PR#7978),33801,Simon Urbanek
+033425.html,[Rd] ?strptime ambiguity (PR#7907),33425,Tobias Verbeke
+033570.html,[Rd] typo in ?lowess,33570,Tobias Verbeke
+033416.html,[Rd] Re: 1/tan(-0) != 1/tan(0),33416,Morten Welinder
+033499.html,[Rd] Suggestion: help(&lt;package name&gt;),33499,Achim Zeileis
+033538.html,"[Rd] NEWS, WISHLIST, THANKS",33538,Achim Zeileis
+033611.html,[Rd] Citation for R,33611,Achim Zeileis
+033638.html,[Rd] source() chdir does not work (PR#7940),33638,agalakhov at ifmlrs.uran.ru
+033421.html,[Rd] Floating point problem (PR#7911),33421,ahanlin at ginkgo.psych.gatech.edu
+033595.html,[Rd] memory allocation problem under linux,33595,antonio.dinarzo at studio.unibo.it
+033597.html,[Rd] memory allocation problem under linux,33597,antonio.dinarzo at studio.unibo.it
+033438.html,[Rd] dotcode typo? (PR#7917),33438,bates at wisc.edu
+033692.html,[Rd] loess returns different standard errors for identical models	(PR#7956),33692,btyner at stat.purdue.edu
+033555.html,[Rd] R.app (PR#7926),33555,chmberg at gmail.com
+033556.html,[Rd] R.app editor (PR#7927),33556,chmberg at gmail.com
+033557.html,[Rd] R.app editor (PR#7928),33557,chmberg at gmail.com
+033648.html,[Rd] extra spaces before imag part when printing complex numbers	(PR#7942),33648,cyril.humbert at univ-mlv.fr
+033653.html,[Rd] (PR#7942) extra spaces before imag part when printing	complex numbers,33653,cyril.humbert at univ-mlv.fr
+033749.html,[Rd] Capitalize the title in DESCRIPTION files? (PR#7969),33749,d.firth at warwick.ac.uk
+033579.html,"[Rd] Simple antidotes pur.chase,	brings greater financial gains. (PR#7933)",33579,dratinos at cymail.net
+033466.html,[Rd] Segmentation fault using gentoo linux and mysql (PR#7919),33466,dubravko.dolic at komdat.com
+033705.html,[Rd] Craving for Rolexes or omegas? (PR#7959),33705,elwo at outstanding.com
+033566.html,[Rd] Wishlist: axis( ) could take vector of colors (PR#7930),33566,epurdom at stanford.edu
+033567.html,[Rd] Wishlist: strwidth allow for rotation of text (PR#7931),33567,epurdom at stanford.edu
+033717.html,[Rd] Data you can use student (PR#7963),33717,fianait at bigdug.com
+033573.html,[Rd] italic (PR#7932),33573,ggrothendieck at gmail.com
+033620.html,[Rd] by should use match.fun (PR#7936),33620,ggrothendieck at gmail.com
+033713.html,[Rd] weighted.residuals for glm objects (PR#7961),33713,henric.nilsson at statisticon.se
+033791.html,[Rd] Does not run under Mac OS X 10.3.9 (PR#7975),33791,stefano iacus
+033810.html,[Rd] Fwd:  Does not run under Mac OS X 10.3.9 (PR#7975),33810,stefano iacus
+033680.html,[Rd] 2.1.0a for Macs (PR#7952),33680,jbaltzer at oeb.harvard.edu
+033780.html,[Rd] symbol.For problem? (PR#7974),33780,jbremson at neyman.ucdavis.edu
+033663.html,[Rd] a bug in glm.fit() (PR#7947),33663,jyzz88 at gmail.com
+033799.html,[Rd] Failed make (PR#7978),33799,kent at d89h102.public.uconn.edu
+033800.html,[Rd] Failed &quot;make check&quot; under Fedora Core 4 (PR#7979),33800,kent at darwin.eeb.uconn.edu
+033775.html,[Rd] row-side color bars do not reverse properly in heatmap	(PR#7972),33775,krc at odin.mdacc.tmc.edu
+033679.html,[Rd] DispatchOrEval missing in do_isfinite and do_isinfinite	(PR#7951),33679,lars at predict.com
+033690.html,[Rd] (PR#7951) DispatchOrEval missing in do_isfinite and	do_isinfinite,33690,lars at predict.com
+033574.html,[Rd] Wishlist: axis( ) could take vector of colors (PR#7930),33574,ligges at statistik.uni-dortmund.de
+033643.html,[Rd] italic (PR#7932),33643,ligges at statistik.uni-dortmund.de
+033645.html,[Rd] write.table confused by rownames/colnames (PR#7941),33645,ligges at statistik.uni-dortmund.de
+033767.html,[Rd] Cannot choose language for installing (PR#7971),33767,ligges at statistik.uni-dortmund.de
+033413.html,[Rd] qcauchy accuracy (PR#7902),33413,maechler at stat.math.ethz.ch
+033426.html,[Rd] print()ing of raw matrices (PR#7912),33426,maechler at stat.math.ethz.ch
+033796.html,[Rd] (PR#7972)  row-side color bars ... in heatmap,33796,maechler at stat.math.ethz.ch
+033797.html,[Rd] (PR#7972)  row-side color bars ... in heatmap,33797,maechler at stat.math.ethz.ch
+033782.html,[Rd] Does not run under Mac OS X 10.3.9 (PR#7975),33782,matthias.wahl at macnews.de
+033563.html,[Rd] source bug ? (PR#7929),33563,mendes150 at gmail.com
+033624.html,[Rd] wrong environment in anova call inside function (PR#7937),33624,mulakken1 at llnl.gov
+033437.html,[Rd] dotcode typo? (PR#7917),33437,murdoch at stats.uwo.ca
+033446.html,[Rd] dotcode typo? (PR#7917),33446,murdoch at stats.uwo.ca
+033471.html,[Rd] Bug in new() or validObject() in methods package (PR#7922),33471,murdoch at stats.uwo.ca
+033531.html,[Rd] Bug in help(package=) (PR#7923),33531,murdoch at stats.uwo.ca
+033568.html,[Rd] Wishlist: strwidth allow for rotation of text (PR#7931),33568,murdoch at stats.uwo.ca
+033731.html,[Rd] Rgui bug in Windows:  leftover download dialog (PR#7964),33731,murdoch at stats.uwo.ca
+033736.html,[Rd] Rgui bug in Windows:  leftover download dialog (PR#7964),33736,murdoch at stats.uwo.ca
+033758.html,[Rd] Objects and regex (PR#7970),33758,murdoch at stats.uwo.ca
+033781.html,[Rd] symbol.For problem? (PR#7974),33781,murdoch at stats.uwo.ca
+033779.html,[Rd] axTicks on a reverse ylog plot (PR#7973),33779,mwtoews at sfu.ca
+033784.html,[Rd] boxplot by factor (Package base version 2.1.1) (PR#7976),33784,mwtoews at sfu.ca
+033576.html,[Rd] It is scary to browse the high prices on tablets at the	localstores. So check our medzone.,33576,raymond nestor
+033524.html,"[Rd] Hey, Do you like to see specials on top-selling taablets?",33524,burl quaresma
+033757.html,[Rd] Objects and regex (PR#7970),33757,rafalku at gmail.com
+033641.html,[Rd] write.table confused by rownames/colnames (PR#7941),33641,rasche at molgen.mpg.de
+033647.html,[Rd] write.table confused by rownames/colnames (PR#7941),33647,rasche at molgen.mpg.de
+033431.html,[Rd] print()ing of raw matrices (PR#7912),33431,ripley at stats.ox.ac.uk
+033467.html,[Rd] alloca() on FreeBSD (PR#7890),33467,ripley at stats.ox.ac.uk
+033469.html,[Rd] Segmentation fault using gentoo linux and mysql (PR#7919),33469,ripley at stats.ox.ac.uk
+033470.html,[Rd] Segmentation fault using gentoo linux and mysql (PR#7919),33470,ripley at stats.ox.ac.uk
+033560.html,[Rd] R.app editor (PR#7928),33560,ripley at stats.ox.ac.uk
+033625.html,[Rd] wrong environment in anova call inside function (PR#7937),33625,ripley at stats.ox.ac.uk
+033639.html,[Rd] source() chdir does not work (PR#7940),33639,ripley at stats.ox.ac.uk
+033649.html,[Rd] (PR#7942) extra spaces before imag part when printing,33649,ripley at stats.ox.ac.uk
+033650.html,[Rd] italic (PR#7932),33650,ripley at stats.ox.ac.uk
+033655.html,[Rd] (PR#7943)  documentation enhancement: Note in ?seek for,33655,ripley at stats.ox.ac.uk
+033656.html,[Rd] (PR#7943)  documentation enhancement: Note in ?seek for,33656,ripley at stats.ox.ac.uk
+033684.html,[Rd] (PR#7951) DispatchOrEval missing in do_isfinite and,33684,ripley at stats.ox.ac.uk
+033751.html,[Rd] Capitalize the title in DESCRIPTION files? (PR#7969),33751,ripley at stats.ox.ac.uk
+033768.html,[Rd] Cannot choose language for installing (PR#7971),33768,ripley at stats.ox.ac.uk
+033783.html,[Rd] symbol.For problem? (PR#7974),33783,ripley at stats.ox.ac.uk
+033803.html,[Rd] Failed make (PR#7978),33803,ripley at stats.ox.ac.uk
+033813.html,[Rd] Bartlett test problem (PR#7980),33813,ripley at stats.ox.ac.uk
+033468.html,[Rd] Your e-mail could not be delivered (PR#7920),33468,root at bol.net.in
+033662.html,[Rd] Eilig Geschaftsvorschlag (PR#7945),33662,thomas at turmail.com
+033660.html,[Rd] Eilig Geschaftsvorschlag (PR#7944),33660,thomas_mandino at turmail.com
+033546.html,[Rd] [QuickML] Error: hello,33546,tiec_b5 at quickml.com
+033527.html,[Rd] Suggestion: help(&lt;package name&gt;),33527,torsten at hothorn.de
+033533.html,[Rd] single assignment affecting multiple sub-structures (PR#7924),33533,tplate at blackmesacapital.com
+033654.html,[Rd] documentation enhancement: Note in ?seek for Windows (PR#7943),33654,tplate at blackmesacapital.com
+033658.html,[Rd] (PR#7943) documentation enhancement: Note in ?seek for	Windows,33658,tplate at blackmesacapital.com
+033589.html,[Rd] alloca() on FreeBSD (PR#7890),33589,vangyzen at stat.duke.edu
+033739.html,[Rd] typo in dev2bitmap.R (PR#7966),33739,weigand at mayo.edu
+033764.html,[Rd] R mailing list archive: alternative interface,33764,hadley wickham
+033716.html,[Rd] Trouble with ifelse and if statement (PR#7962),33716,wwl107 at psu.edu
+033765.html,[Rd] Cannot choose language for installing (PR#7971),33765,zhuangjc at ism.ac.jp
+033682.html,"[Rd] R worked once, now will not open.  Works in console,	but won't graph. (PR#7953)",33682,zur at uchicago.edu

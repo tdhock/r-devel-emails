@@ -1,0 +1,177 @@
+link,Subject,id,author
+023860.html,[Rd] Representation of floating point numbers (PR#1281),23860,Göran Broström
+023893.html,[Rd] filled.contour+graphics output,23893,plic plouf
+023854.html,[Rd] round function,23854,Claudio Agostinelli
+023731.html,[Rd] multiple definitions in C code,23731,Peter Dalgaard BSA
+023753.html,[Rd] abline and log plots (PR#1243),23753,Peter Dalgaard BSA
+023755.html,[Rd] possible bug in det using method=&quot;qr&quot; (PR#1244),23755,Peter Dalgaard BSA
+023757.html,[Rd] possible bug in det using method=&quot;qr&quot; (PR#1244),23757,Peter Dalgaard BSA
+023764.html,[Rd] Bug list summary (automatic post),23764,Peter Dalgaard BSA
+023766.html,"[Rd] qbeta function (FYI, compiler bug)",23766,Peter Dalgaard BSA
+023770.html,"[Rd] qbeta function (FYI, compiler bug)",23770,Peter Dalgaard BSA
+023806.html,[Rd] 1.4.1 release date,23806,Peter Dalgaard BSA
+023819.html,[Rd] Solaris 2.6 Compile (PR#1268),23819,Peter Dalgaard BSA
+023820.html,[Rd] detach(package:base) kills R (PR#1271),23820,Peter Dalgaard BSA
+023842.html,[Rd] Bug list summary (automatic post),23842,Peter Dalgaard BSA
+023847.html,[Rd] compile problem with bessel_i.c on IRIX64 flexor 6.5 10100655 IP35 (uname -a) (PR#1275),23847,Peter Dalgaard BSA
+023856.html,[Rd] R-1.4.1 scheduled for Jan 30,23856,Peter Dalgaard BSA
+023880.html,[Rd] dimnames usage in ts (PR#1288),23880,Peter Dalgaard BSA
+023723.html,[Rd] Building R-1.4 on Tru64,23723,Richard Beare
+023869.html,"[Rd] Re: [R] How to add error bars to plot(x,y)in R?",23869,Ben Bolker
+023865.html,[Rd] Representation of floating point numbers (PR#1281),23865,David Brahm
+023803.html,[Rd] Are You Paying too Much for Life Insurance?                KT,23803,BudgetLife3@eudoramail.com
+023781.html,[Rd] Mishandling missing &quot;...&quot; (PR#1247),23781,John Chambers
+023828.html,[Rd] Should dots be used in generic functions?,23828,John Chambers
+023830.html,[Rd] Should dots be used in generic functions?,23830,John Chambers
+023861.html,[Rd] R-1.4.1 scheduled for Jan 30,23861,Dirk Eddelbuettel
+023864.html,[Rd] R-1.4.1 scheduled for Jan 30,23864,Dirk Eddelbuettel
+023875.html,[Rd] R-1.4.1 scheduled for Jan 30,23875,Dirk Eddelbuettel
+023726.html,[Rd] Help for installation (PR#1233),23726,Byron Ellis
+023829.html,[Rd] Should dots be used in generic functions?,23829,Paul Gilbert
+023833.html,[Rd] Should dots be used in generic functions?,23833,Paul Gilbert
+023866.html,[Rd] config.log,23866,Paul Gilbert
+023727.html,"[Rd] R1.4.0 under Windows NT, package grid/lattice (PR#1234)",23727,H.Rinner@tirol.gv.at
+023759.html,"[Rd] Meilleurs Voeux pour 2002 : ann?e de m?moire, de mobilisation, d'action, de justice et de s?r?nit? - Appel au soutien moral et financier",23759,Habib HAIBI
+023760.html,"[Rd] Meilleurs Voeux pour 2002 : ann?e de m?moire, de mobilisation, d'action, de justice et de s?r?nit? - Appel au soutien moral et financier",23760,Habib HAIBI
+023751.html,[Rd] R CMD check (PR#1240),23751,Kurt Hornik
+023722.html,[Rd] ifs estimator,23722,Stefano Iacus
+023769.html,[Rd] quadprog,23769,Stefano Iacus
+023744.html,[Rd] Problem with &quot;missing&quot; in &quot;local&quot; (PR#1241),23744,J.C.Rougier@durham.ac.uk
+023746.html,[Rd] Problem with &quot;missing&quot; in &quot;local&quot; (PR#1241),23746,J.C.Rougier@durham.ac.uk
+023805.html,[Rd] 1.4.1 release date,23805,David Kane  &lt;David Kane
+023807.html,[Rd] 1.4.1 release date,23807,David Kane  &lt;David Kane
+023881.html,[Rd] dimnames usage in ts (PR#1288),23881,Timothy H. Keitt
+023792.html,[Rd] Size of type double in object type dist (PR#1255),23792,Peter Kleiweg
+023894.html,[Rd] Version number in manpage,23894,Peter Kleiweg
+023730.html,[Rd] multiple definitions in C code,23730,Jan de Leeuw
+023736.html,[Rd] trellis plot and postscript file (PR#1237),23736,"Liaw, Andy"
+023872.html,[Rd] make check fails when R_HOME env var set (PR#1284),23872,"Liaw, Andy"
+023785.html,[Rd] Not striclty a bug but a problem (PR#1250),23785,Uwe Ligges
+023793.html,[Rd] Wrong header file in ttest.c (windlgs package).,23793,Patrick Lindsey
+023775.html,[Rd] Mishandling missing &quot;...&quot; (PR#1247),23775,Thomas Lumley
+023779.html,[Rd] speeding up [.data.frame,23779,Thomas Lumley
+023836.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23836,Thomas Lumley
+023886.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23886,Thomas Lumley
+023888.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23888,Thomas Lumley
+023890.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23890,Thomas Lumley
+023891.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23891,Thomas Lumley
+023771.html,"[Rd] qbeta function (FYI, compiler bug)",23771,Martin Maechler
+023835.html,[Rd] Should dots be used in generic functions?,23835,Martin Maechler
+023887.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23887,Dan Million
+023889.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23889,Dan Million
+023892.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23892,Dan Million
+023898.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23898,Dan Million
+023824.html,[Rd] Should dots be used in generic functions?,23824,Duncan Murdoch
+023831.html,[Rd] Should dots be used in generic functions?,23831,Duncan Murdoch
+023834.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23834,Duncan Murdoch
+023838.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23838,Duncan Murdoch
+023782.html,[Rd] GraphApp version 3,23782,Lachlan Patrick
+023867.html,[Rd] na.action=na.omit doesn't omit in glm() (PR#1282),23867,Ralph.MacNally@sci.monash.edu.au
+023763.html,[Rd] speeding up [.data.frame,23763,Prof Brian Ripley
+023776.html,[Rd] cluster - clusplot.default (PR#1249),23776,Prof Brian Ripley
+023780.html,[Rd] speeding up [.data.frame,23780,Prof Brian Ripley
+023794.html,[Rd] Wrong header file in ttest.c (windlgs package).,23794,Prof Brian Ripley
+023796.html,[Rd] seq.POSIXt: &amp; DST (PR#1256),23796,Prof Brian Ripley
+023799.html,[Rd] RODBC,23799,Prof Brian Ripley
+023825.html,[Rd] Should dots be used in generic functions?,23825,Prof Brian Ripley
+023837.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23837,Prof Brian Ripley
+023840.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23840,Prof Brian Ripley
+023855.html,[Rd] round function,23855,Prof Brian Ripley
+023863.html,[Rd] R-1.4.1 scheduled for Jan 30,23863,Prof Brian D Ripley
+023868.html,[Rd] na.action=na.omit doesn't omit in glm() (PR#1282),23868,Prof Brian D Ripley
+023756.html,[Rd] possible bug in det using method=&quot;qr&quot; (PR#1244),23756,Armin Roehrl
+023850.html,[Rd] Documentation for transpose function,23850,Jonathan Rougier
+023738.html,[Rd] trellis plot and postscript file (PR#1237),23738,Deepayan Sarkar
+023839.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23839,Gordon Smyth
+023841.html,[Rd] How do I know if the deviance of a glm fit was fixed?,23841,Gordon Smyth
+023737.html,[Rd] trellis plot and postscript file (PR#1237),23737,Don Sun
+023739.html,[Rd] trellis plot and postscript file (PR#1237),23739,Don Sun
+023848.html,[Rd] compile problem with bessel_i.c on IRIX64 flexor 6.5 10100655 IP35 (uname -a) (PR#1275),23848,Walter Tautz
+023862.html,[Rd] Representation of floating point numbers (PR#1281),23862,Winfried Theis
+023747.html,[Rd] Problem with &quot;missing&quot; in &quot;local&quot; (PR#1241),23747,Luke Tierney
+023883.html,[Rd] dimnames usage in ts (PR#1288),23883,Timothy.Keitt@stonybrook.edu
+023729.html,[Rd] comparative rendering of modeling outputs,23729,"Vincent J. Carey, Jr."
+023762.html,[Rd] speeding up [.data.frame,23762,"Warnes, Gregory R"
+023778.html,[Rd] speeding up [.data.frame,23778,"Warnes, Gregory R"
+023874.html,[Rd] make check fails when R_HOME env var set (PR#1284),23874,"Warnes, Gregory R"
+023748.html,[Rd] Testing a Port...,23748,Shawn Way
+023797.html,[Rd] RODBC,23797,Shawn Way
+023765.html,"[Rd] qbeta function (FYI, compiler bug)",23765,Morten Welinder
+023768.html,"[Rd] qbeta function (FYI, compiler bug)",23768,Morten Welinder
+023777.html,"[Rd] qbeta function (FYI, compiler bug)",23777,Morten Welinder
+023786.html,[Rd] typo in R Install/Admin manual version 1.4.0 (PR#1251),23786,a296180@mica.fmr.com
+023749.html,[Rd] copy metafile from window() device fails when lattice/grid is (PR#1242),23749,andy_liaw@merck.com
+023873.html,[Rd] make check fails when R_HOME env var set (PR#1284),23873,andy_liaw@merck.com
+023816.html,[Rd] Notification:  You are hereby..... (PR#1270),23816,angelus@truthmail.com
+023774.html,"[Rd] qbeta function (FYI, compiler bug)",23774,apjaworski@mmm.com
+023754.html,[Rd] possible bug in det using method=&quot;qr&quot; (PR#1244),23754,armin@approximity.com
+023767.html,[Rd] Mishandling missing &quot;...&quot; (PR#1247),23767,brahm@alum.mit.edu
+023812.html,[Rd] round() doesn't (PR#1139),23812,brahm@alum.mit.edu
+023895.html,[Rd] ashley's open cam,23895,brandy@hotmail.com
+023896.html,[Rd] Installation problem : SunOS (PR#1291),23896,brendan_mcmahon@prusec.com
+023783.html,[Rd] Not striclty a bug but a problem (PR#1250),23783,ccsshb@bath.ac.uk
+023740.html,"[Rd] R CMD check, file permissions (PR#1239)",23740,christian.hoffmann@wsl.ch
+023742.html,[Rd] R CMD check (PR#1240),23742,christian.hoffmann@wsl.ch
+023818.html,[Rd] detach(package:base) kills R (PR#1271),23818,david.heffernan@orcina.com
+023802.html,[Rd] Bug in predict(newdata=x) with poly() (PR#1258),23802,dmurdoch@pair.com
+023733.html,[Rd] type.convert() (PR#1236),23733,dxsun@bell-labs.com
+023735.html,[Rd] trellis plot and postscript file (PR#1237),23735,dxsun@bell-labs.com
+023876.html,[Rd] seek() doesn't reposition a file connection (PR#1287),23876,garbade@psy.uni-muenchen.de
+023878.html,[Rd] (PR#1287) seek was ignoring the `origin' argument (wasseek(),23878,garbade@psy.uni-muenchen.de
+023743.html,[Rd] R CMD check (PR#1240),23743,gb@stat.umu.se
+023843.html,[Rd] Solaris 2.6 Compile (PR#1268),23843,geordon.marchak@nssmb.com
+023814.html,[Rd] Solaris 2.6 Compile (PR#1268),23814,gm81640@development.nssmb.com
+023815.html,[Rd] Solaris 2.6 Compile (PR#1269),23815,gm81640@development.nssmb.com
+023899.html,[Rd] real busty amateurs,23899,gmuleb@hotmail.com
+023870.html,[Rd] max/min of NULL gives MININT/MAXINT instead of -INF/+INF (PR#1283),23870,gregory_r_warnes@groton.pfizer.com
+023871.html,[Rd] make check fails when R_HOME env var set (PR#1284),23871,gregory_r_warnes@groton.pfizer.com
+023758.html,"[Rd] Meilleurs Voeux pour 2002 : ann?e de m?moire, de mobilisation, d'action, de justice et de s?r?nit? - Appel au soutien moral et financier (PR#1245)",23758,haibi@free.fr
+023761.html,"[Rd] Meilleurs Voeux pour 2002 : ann?e de m?moire, de mobilisation, d'action, de justice et de s?r?nit? - Appel au soutien moral et financier (PR#1246)",23761,haibi@wanadoo.fr
+023741.html,[Rd] R CMD check (PR#1240),23741,hoffmann@wsl.ch
+023795.html,[Rd] seq.POSIXt: &amp; DST (PR#1256),23795,jutans@utans.u-net.com
+023773.html,[Rd] cluster - clusplot.default (PR#1249),23773,kjetilh@umsanet.edu.bo
+023790.html,[Rd] Size of type double in object type dist (PR#1255),23790,kleiweg@let.rug.nl
+023844.html,"[Rd] data(): Error in FUN(X[[2]], ...) : subscript out of bounds (PR#1274)",23844,kleiweg@let.rug.nl
+023811.html,[Rd] bug in survival package basehaz function (PR#1266),23811,kohnicho@comp.nus.edu.sg
+023885.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23885,lio@hpss1.ccs.ornl.gov
+023787.html,[Rd] cluster - clusplot.default (PR#1249),23787,maechler@stat.math.ethz.ch
+023788.html,[Rd] typo in R Install/Admin manual version 1.4.0 (PR#1251),23788,maechler@stat.math.ethz.ch
+023804.html,"[Rd] La.eigen() segfaults (asymmetric , only.values = TRUE) (PR#1262)",23804,maechler@stat.math.ethz.ch
+023809.html,[Rd] labels returned by cut() when include.lowest=T (PR#1263),23809,maechler@stat.math.ethz.ch
+023884.html,[Rd] cluster - clusplot.default (PR#1249),23884,maechler@stat.math.ethz.ch
+023800.html,[Rd] Bug in predict(newdata=x) with poly() (PR#1258),23800,murdoch@stats.uwo.ca
+023789.html,[Rd] round(10000000000) (PR#1254),23789,o.christensen@lancaster.ac.uk
+023772.html,[Rd] piechart default colour (PR#1248),23772,p.dalgaard@biostat.ku.dk
+023851.html,[Rd] Documentation for transpose function (PR#1280),23851,p.dalgaard@biostat.ku.dk
+023882.html,[Rd] dimnames usage in ts (PR#1288),23882,p.dalgaard@biostat.ku.dk
+023823.html,[Rd] eigen segfault with GCC 3 on Solaris (PR#1272),23823,pgilbert@bank-banque-canada.ca
+023725.html,[Rd] Help for installation (PR#1233),23725,ripley@stats.ox.ac.uk
+023728.html,"[Rd] R1.4.0 under Windows NT, package grid/lattice (PR#1234)",23728,ripley@stats.ox.ac.uk
+023734.html,[Rd] type.convert() (PR#1236),23734,ripley@stats.ox.ac.uk
+023745.html,[Rd] Problem with &quot;missing&quot; in &quot;local&quot; (PR#1241),23745,ripley@stats.ox.ac.uk
+023750.html,(PR#1242)[Rd] copy metafile from window() device fails when,23750,ripley@stats.ox.ac.uk
+023784.html,[Rd] Not striclty a bug but a problem (PR#1250),23784,ripley@stats.ox.ac.uk
+023791.html,[Rd] round(10000000000) (PR#1254),23791,ripley@stats.ox.ac.uk
+023801.html,[Rd] Bug in predict(newdata=x) with poly() (PR#1258),23801,ripley@stats.ox.ac.uk
+023817.html,[Rd] Solaris 2.6 Compile (PR#1268),23817,ripley@stats.ox.ac.uk
+023827.html,[Rd] 32 bit error compiling R on sparc-sun-solaris (PR#1273),23827,ripley@stats.ox.ac.uk
+023832.html,[Rd] 32 bit error compiling R on sparc-sun-solaris (PR#1273),23832,ripley@stats.ox.ac.uk
+023845.html,"(PR#1274) [Rd] data(): Error in FUN(X[[2]], ...) : subscript",23845,ripley@stats.ox.ac.uk
+023853.html,[Rd] Representation of floating point numbers (PR#1281),23853,ripley@stats.ox.ac.uk
+023858.html,[Rd] Representation of floating point numbers (PR#1281),23858,ripley@stats.ox.ac.uk
+023877.html,[Rd] (PR#1287) seek was ignoring the `origin' argument (was,23877,ripley@stats.ox.ac.uk
+023897.html,[Rd] Installation problem : SunOS (PR#1291),23897,ripley@stats.ox.ac.uk
+023724.html,[Rd] Help for installation (PR#1233),23724,sohanw@ait.ac.th
+023752.html,[Rd] abline and log plots (PR#1243),23752,stephen@cogsci.ed.ac.uk
+023808.html,[Rd] labels returned by cut() when include.lowest=T (PR#1263),23808,stephen@cogsci.ed.ac.uk
+023810.html,[Rd] typos in hist.Rd (PR#1264),23810,stephen@cogsci.ed.ac.uk
+023849.html,[Rd] typos in R-intro.texi (PR#1279),23849,stephen@cogsci.ed.ac.uk
+023852.html,[Rd] Representation of floating point numbers (PR#1281),23852,theis@statistik.uni-dortmund.de
+023857.html,[Rd] Representation of floating point numbers (PR#1281),23857,theis@statistik.uni-dortmund.de
+023859.html,[Rd] Representation of floating point numbers (PR#1281),23859,theis@statistik.uni-dortmund.de
+023879.html,[Rd] dimnames usage in ts (PR#1288),23879,tkeitt@ms.cc.sunysb.edu
+023813.html,[Rd] hashing NaN (PR#1267),23813,tlumley@u.washington.edu
+023732.html,[Rd] Axes labelling with logarithmic scales (PR#1235),23732,tobias.hoevekamp@ilw.agrl.ethz.ch
+023826.html,[Rd] 32 bit error compiling R on sparc-sun-solaris (PR#1273),23826,vinod.rajakumar@vectorpartners.com
+023846.html,[Rd] compile problem with bessel_i.c on IRIX64 flexor 6.5 10100655 IP35 (uname -a) (PR#1275),23846,wtautz@math.uwaterloo.ca
+023798.html,[Rd] documentation of `las' on `par' help page (PR#1257),23798,zeileis@ci.tuwien.ac.at

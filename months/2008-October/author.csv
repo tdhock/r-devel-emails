@@ -1,0 +1,303 @@
+link,Subject,id,author
+050919.html,[Rd] seg.fault from nlme::gnls() {was &quot;[R-sig-ME] GNLS Crash&quot;},50919,Viechtbauer Wolfgang (STAT)
+050922.html,[Rd]  Installing ROracle in windows.. Pls help,50922,Rita. A
+050906.html,[Rd]  Installing ROracle in windows.. Pls help,50906,Rita. A
+051083.html,"[Rd]  write.csv(..., col.names = FALSE) (PR#13202)",51083,"Albrecht, Dr. Stefan (AIM SE)"
+051108.html,[Rd] conditionally import a namespace?,51108,Felix Andrews
+051122.html,[Rd] conditionally import a namespace?,51122,Felix Andrews
+050885.html,[Rd] LinkingTo on Windows,50885,Thomas Baier
+050981.html,[Rd] as.list() for function:s,50981,Henrik Bengtsson
+051051.html,[Rd] unlist change the ordered type,51051,Charles C. Berry
+050837.html,[Rd] hostingzero.net  down?,50837,Ben Bolker
+050914.html,[Rd] problem with cut.Date/date plotting in ggplot2,50914,Ben Bolker
+051103.html,[Rd] R books: self-serving question,51103,Ben Bolker
+050934.html,[Rd] defines in Rmath.h and R_NO_REMAP,50934,Daniel Saban&#233;s Bov&#233;
+050937.html,[Rd] defines in Rmath.h and R_NO_REMAP,50937,Daniel Saban&#233;s Bov&#233;
+050842.html,[Rd] Memory crash,50842,G&#246;ran Brostr&#246;m
+050845.html,[Rd] Memory crash,50845,G&#246;ran Brostr&#246;m
+050983.html,[Rd] Configure error when compiling on &quot;sh&quot; architecture,50983,Tom &quot;spot&quot; Callaway
+051072.html,[Rd] HAVE_BZLIB_H not set,51072,Tom &quot;spot&quot; Callaway
+051059.html,"[Rd] 0 ^ NaN == Inf, why?",51059,John Chambers
+051060.html,"[Rd] 0 ^ NaN == Inf, why?",51060,John Chambers
+051091.html,[Rd] Arith ops dropping S4 bit [Was: S4 object does not commute? (PR#13209)],51091,John Chambers
+051126.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R	terminated on R 2.6.2 to 2.8.0: logging a bug?,51126,Corrado
+051128.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R	terminated on R 2.6.2 to 2.8.0: logging a bug?,51128,Corrado
+051132.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R	terminated on R 2.6.2 to 2.8.0: logging a bug?,51132,Corrado
+051134.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R	terminated on R 2.6.2 to 2.8.0: logging a bug?,51134,Corrado
+050953.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50953,Nathan Coulter
+050962.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50962,Nathan Coulter
+050988.html,"[Rd] RFC: Kerning, postscript() and pdf()",50988,B&#225;lint Cz&#250;cz
+050867.html,[Rd] doc/manual/Rfaq.css missing in R 2.8.0 (20081005) tarball,50867,Peter Dalgaard
+050944.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50944,Peter Dalgaard
+050984.html,[Rd] Configure error when compiling on &quot;sh&quot; architecture,50984,Peter Dalgaard
+051000.html,[Rd] Wrong behavior of lines.survfit for	conf.int=&quot;only&quot;	(PR#13180),51000,Peter Dalgaard
+051014.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51014,Peter Dalgaard
+051018.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51018,Peter Dalgaard
+051023.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51023,Peter Dalgaard
+051026.html,[Rd] Possible GPL Violation,51026,Peter Dalgaard
+051058.html,[Rd] pairwise.wilcox.test for paired samples,51058,Peter Dalgaard
+051104.html,[Rd] R books: self-serving question,51104,Peter Dalgaard
+051127.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51127,Peter Dalgaard
+051129.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51129,Peter Dalgaard
+051131.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51131,Peter Dalgaard
+051061.html,[Rd] Dynamic linking to binary code from other packages??,51061,Charles Danko
+050991.html,"[Rd] RFC: Kerning, postscript() and pdf()",50991,Mark Difford
+051003.html,[Rd] (PR#13180) Wrong behavior of lines.survfit for conf.int=&quot;only&quot;,51003,Brian Diggs
+051118.html,[Rd] using yscrollcommand in tkcanvas crashes R (PR#13231),51118,Sundar Dorai-Raj
+050858.html,[Rd] Can DESCRIPTION Maintainer: field contain general URL instead	of only email address?,50858,William Dunlap
+050961.html,[Rd] dos-style line endings in .Rbuildignore result in files	not being excluded,50961,William Dunlap
+050866.html,[Rd] doc/manual/Rfaq.css missing in R 2.8.0 (20081005) tarball,50866,Dirk Eddelbuettel
+050947.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50947,Dirk Eddelbuettel
+050950.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50950,Dirk Eddelbuettel
+050952.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50952,Dirk Eddelbuettel
+050985.html,[Rd] Minor feature request: Let 'R CMD co*nfig' tell me where the	INCLDIR is,50985,Dirk Eddelbuettel
+050993.html,[Rd] Minor feature request: Let 'R CMD co*nfig' tell me where	the INCLDIR is,50993,Dirk Eddelbuettel
+051062.html,[Rd] Dynamic linking to binary code from other packages??,51062,Dirk Eddelbuettel
+051075.html,[Rd] HAVE_BZLIB_H not set,51075,Dirk Eddelbuettel
+051022.html,[Rd] Possible GPL Violation,51022,Ian Fellows
+051025.html,[Rd] Possible GPL Violation,51025,Ian Fellows
+051006.html,[Rd] R CMD INSTALL problem,51006,John Fox
+051008.html,[Rd] R CMD INSTALL problem,51008,John Fox
+051047.html,[Rd] unlist change the ordered type,51047,Christophe Genolini
+050898.html,[Rd] why is \alias{anRpackage} not mandatory?,50898,Robert Gentleman
+051052.html,[Rd] gfortran optimization problems,51052,Simone Giannerini
+051100.html,[Rd] namespace import warning,51100,Paul Gilbert
+051042.html,[Rd] Problem with &quot;plflatex wrapper.tex&quot;,51042,Spencer Graves
+050850.html,[Rd] Attributes of top level environments clobbered (was Re: [R]	possible bug in function 'var' in R 2.7.2?),50850,Gabor Grothendieck
+050855.html,[Rd] Attributes of top level environments clobbered (was Re:	[R] possible bug in function 'var' in R 2.7.2?),50855,Gabor Grothendieck
+050857.html,[Rd] Attributes of top level environments clobbered (was Re:	[R] possible bug in function 'var' in R 2.7.2?),50857,Gabor Grothendieck
+050865.html,[Rd] Attributes of top level environments clobbered (was Re:	[R] possible bug in function 'var' in R 2.7.2?),50865,Gabor Grothendieck
+050893.html,[Rd] why is \alias{anRpackage} not mandatory?,50893,Gabor Grothendieck
+050895.html,[Rd] why is \alias{anRpackage} not mandatory?,50895,Gabor Grothendieck
+050909.html,[Rd] relative path to source files in vignette,50909,Gabor Grothendieck
+050911.html,[Rd] relative path to source files in vignette,50911,Gabor Grothendieck
+050913.html,[Rd] relative path to source files in vignette,50913,Gabor Grothendieck
+050997.html,[Rd] R CMD build on Vista,50997,Gabor Grothendieck
+051016.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51016,Gabor Grothendieck
+051017.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51017,Gabor Grothendieck
+051019.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51019,Gabor Grothendieck
+051020.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51020,Gabor Grothendieck
+051028.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51028,Gabor Grothendieck
+051031.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51031,Gabor Grothendieck
+051045.html,[Rd] changed behaviour of 'get' in 2.8.0: request for unchange,51045,Gabor Grothendieck
+051071.html,[Rd] Possible uninstall problem on windows.,51071,Gabor Grothendieck
+051087.html,[Rd] Errors in R CMD check for R 2.8.0,51087,Gabor Grothendieck
+051114.html,[Rd] conditionally import a namespace?,51114,Gabor Grothendieck
+050862.html,[Rd] Can DESCRIPTION Maintainer: field contain general URL	instead of only email address?,50862,Kasper Daniel Hansen
+051039.html,[Rd] normalizePath bug (PR#13199),51039,Joseph Haykov
+051040.html,[Rd] normalizePath bug (PR#13199),51040,Joseph Haykov
+050903.html,[Rd] Expose clearPushBack for connections,50903,Jeffrey Horner
+051105.html,[Rd] R books: self-serving question,51105,G. Jay Kerns
+050978.html,[Rd] packages in Depends field and NAMESPACES,50978,Kenneth Knoblauch
+051053.html,[Rd] pairwise.wilcox.test for paired samples,51053,Matthias Kohl
+051099.html,[Rd] problems installing rJava with R-2.8.0,51099,Christian Kohler
+051037.html,[Rd] Getting the panel location of a xyplot matrix using a mouse	click in a GDCanvas,51037,Daniel Kornhauser
+051046.html,[Rd] Getting the panel location of a xyplot matrix using a	mouse click in a GDCanvas,51046,Daniel Kornhauser
+050900.html,[Rd] why is \alias{anRpackage} not mandatory?,50900,Duncan Temple Lang
+050851.html,[Rd] R CMD install runs out of memory,50851,Uwe Ligges
+050860.html,[Rd] Can DESCRIPTION Maintainer: field contain general URL instead of only email address?,50860,Uwe Ligges
+050990.html,"[Rd] IFCS 2009; deadline: November 3, 2008",50990,Uwe Ligges
+051068.html,[Rd] Errors in R CMD check for R 2.8.0,51068,Uwe Ligges
+051085.html,[Rd] Errors in R CMD check for R 2.8.0,51085,Uwe Ligges
+050986.html,[Rd]  Excessive query time running R-RODBC against SQL Server,50986,Logickle
+050943.html,[Rd] dos-style line endings in .Rbuildignore result in files	not being excluded,50943,Sebastian P. Luque
+050956.html,[Rd] dos-style line endings in .Rbuildignore result in files	not being excluded,50956,Sebastian P. Luque
+051086.html,[Rd] A question about the API mkchar(),51086,F&#225;n L&#243;ng
+051088.html,[Rd] Fixing an only one coefficient in an ARIMA model,51088,Yohann MOREAU
+050987.html,[Rd] Minor feature request: Let 'R CMD co*nfig' tell me where	the INCLDIR is,50987,Martin Maechler
+050989.html,[Rd] as.list() for function:s,50989,Martin Maechler
+051110.html,[Rd] conditionally import a namespace?,51110,Martin Maechler
+051079.html,[Rd] S4 object does not commute?,51079,"McGehee, Robert"
+050886.html,[Rd] Lapack: SSYEV routine,50886,Nolwenn Le Meur
+051055.html,"[Rd] 0 ^ NaN == Inf, why?",51055,Stephen Milborrow
+051069.html,"[Rd] 0 ^ NaN == Inf, why?",51069,Stephen Milborrow
+050835.html,[Rd] Typo in x11.Rd,50835,Duncan Murdoch
+050849.html,[Rd] R CMD install runs out of memory,50849,Duncan Murdoch
+050869.html,[Rd] why is \alias{anRpackage} not mandatory?,50869,Duncan Murdoch
+050871.html,[Rd] why is \alias{anRpackage} not mandatory?,50871,Duncan Murdoch
+050877.html,[Rd] why is \alias{anRpackage} not mandatory?,50877,Duncan Murdoch
+050881.html,[Rd] ?foo to fall back to help(package=&quot;foo&quot;) [Was: why is \alias{anRpackage} not mandatory?],50881,Duncan Murdoch
+050894.html,[Rd] why is \alias{anRpackage} not mandatory?,50894,Duncan Murdoch
+050897.html,[Rd] why is \alias{anRpackage} not mandatory?,50897,Duncan Murdoch
+050933.html,"[Rd] RFC: Kerning, postscript() and pdf()",50933,Duncan Murdoch
+050969.html,[Rd] fivenum accuracy (PR#13164),50969,Duncan Murdoch
+051001.html,[Rd] R application dies of with windows (PR#13179),51001,Duncan Murdoch
+051035.html,[Rd] normalizePath bug (PR#13199),51035,Duncan Murdoch
+051036.html,[Rd] normalizePath bug (PR#13199),51036,Duncan Murdoch
+051049.html,[Rd] gfortran optimization problems,51049,Duncan Murdoch
+051056.html,"[Rd] R echoes integer literals incorrectly, under certain conditions (PR#13204)",51056,Duncan Murdoch
+051070.html,[Rd] Possible uninstall problem on windows.,51070,Duncan Murdoch
+051112.html,[Rd] conditionally import a namespace?,51112,Duncan Murdoch
+051113.html,[Rd] conditionally import a namespace?,51113,Duncan Murdoch
+051121.html,[Rd] Small modification of zip.file.extract in utils?,51121,Duncan Murdoch
+051133.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51133,Duncan Murdoch
+051135.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51135,Duncan Murdoch
+051067.html,[Rd] Possible uninstall problem on windows.,51067,Erich Neuwirth
+051041.html,[Rd] RCMD SHLIB: static libraries and f77 libraries on Windows,51041,John Nolan
+050868.html,[Rd] why is \alias{anRpackage} not mandatory?,50868,Thomas Petzoldt
+050870.html,[Rd] why is \alias{anRpackage} not mandatory?,50870,Thomas Petzoldt
+050874.html,[Rd] why is \alias{anRpackage} not mandatory?,50874,Thomas Petzoldt
+050875.html,[Rd] why is \alias{anRpackage} not mandatory?,50875,Thomas Petzoldt
+050878.html,[Rd] why is \alias{anRpackage} not mandatory?,50878,Thomas Petzoldt
+050905.html,[Rd] why is \alias{anRpackage} not mandatory?,50905,Thomas Petzoldt
+051012.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51012,"Pfaff, Bernhard Dr."
+051013.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51013,"Pfaff, Bernhard Dr."
+051015.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51015,"Pfaff, Bernhard Dr."
+051029.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51029,"Pfaff, Bernhard Dr."
+050942.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50942,Tony Plate
+050958.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50958,Tony Plate
+050972.html,[Rd] error installing gtools (PR#13168),50972,Martyn Plummer
+051077.html,[Rd] HAVE_BZLIB_H not set,51077,Martyn Plummer
+051078.html,"[Rd] 0 ^ NaN == Inf, why?",51078,Jason Riedy
+050843.html,[Rd] Memory crash,50843,Prof Brian Ripley
+050846.html,[Rd] A strange behaviour of file.path in Windows? (PR#13119),50846,Prof Brian Ripley
+050864.html,[Rd] Unable to install R on CentOS 64 bit machine,50864,Prof Brian Ripley
+050882.html,[Rd] Bug with message if there is no documentation; R2.8alpha Win32 (PR#13131),50882,Prof Brian Ripley
+050887.html,[Rd] Lapack: SSYEV routine,50887,Prof Brian Ripley
+050902.html,[Rd] (PR#13132) splinefun gives incorrect derivs when extrapolating to the left,50902,Prof Brian Ripley
+050904.html,[Rd] LinkingTo on Windows,50904,Prof Brian Ripley
+050907.html,[Rd] Installing ROracle in windows.. Pls help,50907,Prof Brian Ripley
+050923.html,[Rd] match() (PR#13135),50923,Prof Brian Ripley
+050926.html,[Rd] seg.fault from nlme::gnls() {was &quot;[R-sig-ME] GNLS Crash&quot;},50926,Prof Brian Ripley
+050928.html,[Rd] Thin spaces,50928,Prof Brian Ripley
+050931.html,[Rd] Thin spaces,50931,Prof Brian Ripley
+050932.html,"[Rd] RFC: Kerning, postscript() and pdf()",50932,Prof Brian Ripley
+050935.html,"[Rd] RFC: Kerning, postscript() and pdf()",50935,Prof Brian Ripley
+050936.html,[Rd] defines in Rmath.h and R_NO_REMAP,50936,Prof Brian Ripley
+050941.html,[Rd] (PR#13159) cut.Date problem when starting on first day of week,50941,Prof Brian Ripley
+050946.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50946,Prof Brian Ripley
+050948.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50948,Prof Brian Ripley
+050949.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50949,Prof Brian Ripley
+050951.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50951,Prof Brian Ripley
+050954.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50954,Prof Brian Ripley
+050963.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50963,Prof Brian Ripley
+050964.html,[Rd] POSIXlt getting sec element at 60 when converting from POSIXct,50964,Prof Brian Ripley
+050968.html,[Rd] (PR#13165) R CMD config doesn't export JAVA_LD_LIBRARY_PATH,50968,Prof Brian Ripley
+050970.html,[Rd] aggregate(empty data.frame) (PR#13167),50970,Prof Brian Ripley
+050973.html,[Rd] error installing gtools (PR#13168),50973,Prof Brian Ripley
+050975.html,[Rd] small bug in plot.rpart?,50975,Prof Brian Ripley
+050976.html,[Rd] dos-style line endings in .Rbuildignore result in files not being excluded,50976,Prof Brian Ripley
+050977.html,"[Rd] RFC: Kerning, postscript() and pdf()",50977,Prof Brian Ripley
+050980.html,[Rd] packages in Depends field and NAMESPACES,50980,Prof Brian Ripley
+050995.html,[Rd] R CMD build on Vista,50995,Prof Brian Ripley
+051002.html,[Rd] (PR#13180) Wrong behavior of lines.survfit for conf.int=&quot;only&quot;,51002,Prof Brian Ripley
+051009.html,[Rd] ---without-x option fails for R 2.8.0 (missing ; ) (PR#13188),51009,Prof Brian Ripley
+051117.html,[Rd] Fixing an only one coefficient in an ARIMA model,51117,Prof Brian Ripley
+051124.html,[Rd] (PR#13233) [BUG] [PATCH] R-2.8.0 failes to build without X support due to a typo,51124,Prof Brian Ripley
+051130.html,[Rd] *** buffer overflow detected ***: /usr/lib64/R/bin/exec/R terminated on R 2.6.2 to 2.8.0: logging a bug?,51130,Prof Brian Ripley
+051048.html,[Rd] gfortran optimization problems,51048,Dave Roberts
+051076.html,"[Rd] write.csv(..., col.names = FALSE) (PR#13202)",51076,Paul Roebuck
+051120.html,[Rd] using yscrollcommand in tkcanvas crashes R (PR#13231),51120,Paul Roebuck
+050996.html,[Rd] problem with The R/Splus--Perl Interface,50996,Rispoli Rossella
+051024.html,[Rd] Possible GPL Violation,51024,Barry Rowlingson
+051027.html,[Rd] Possible GPL Violation,51027,Barry Rowlingson
+051094.html,[Rd] writting null (\000 or ^@) to an external text file	without the new warning,51094,Barry Rowlingson
+050908.html,[Rd] relative path to source files in vignette,50908,Peter Ruckdeschel
+050910.html,[Rd] relative path to source files in vignette,50910,Peter Ruckdeschel
+050912.html,[Rd] relative path to source files in vignette,50912,Peter Ruckdeschel
+050938.html,[Rd] Version information for S4 classes --- elementary version	management,50938,Peter Ruckdeschel
+050959.html,[Rd] relative path to source files in vignette [a solution	somehow],50959,Peter Ruckdeschel
+051111.html,[Rd] conditionally import a namespace?,51111,Jeff Ryan
+051007.html,[Rd] R CMD INSTALL problem,51007,Deepayan Sarkar
+051038.html,[Rd] Getting the panel location of a xyplot matrix using a	mouse click in a GDCanvas,51038,Deepayan Sarkar
+050960.html,[Rd] POSIXlt getting sec element at 60 when converting from POSIXct,50960,"Sklyar, Oleg (London)"
+051119.html,[Rd] Small modification of zip.file.extract in utils?,51119,Jon Olav Skoien
+050979.html,"[Rd] RFC: Kerning, postscript() and pdf()",50979,Greg Snow
+051093.html,[Rd] writting null (\000 or ^@) to an external text file without the new warning,51093,Greg Snow
+051096.html,[Rd] writting null (\000 or ^@) to an external text file without the new warning,51096,Greg Snow
+051115.html,[Rd] using yscrollcommand in tkcanvas crashes R (PR#13231),51115,Greg Snow
+050994.html,[Rd] R CMD build on Vista,50994,Ollivier TARAMASCO
+050852.html,[Rd] Attributes of top level environments clobbered (was Re: [R]	possible bug in function 'var' in R 2.7.2?),50852,Luke Tierney
+050856.html,[Rd] Attributes of top level environments clobbered (was Re: [R] possible bug in function 'var' in R 2.7.2?),50856,Luke Tierney
+050861.html,[Rd] Attributes of top level environments clobbered (was Re: [R] possible bug in function 'var' in R 2.7.2?),50861,Luke Tierney
+051044.html,[Rd] changed behaviour of 'get' in 2.8.0: request for unchange,51044,Luke Tierney
+051074.html,[Rd] changed behaviour of 'get' in 2.8.0: request for unchange,51074,Luke Tierney
+050888.html,[Rd] splinefun gives incorrect derivs when extrapolating to the left (PR#13132),50888,Berwin A Turlach
+050890.html,[Rd] splinefun gives incorrect derivs when extrapolating to the left (PR#13132),50890,Berwin A Turlach
+050892.html,[Rd] why is \alias{anRpackage} not mandatory?,50892,Berwin A Turlach
+050929.html,[Rd] (PR#13132) splinefun gives incorrect derivs when extrapolating to the left,50929,Berwin A Turlach
+050863.html,[Rd] Unable to install R on CentOS 64 bit machine,50863,Shantanu Unknown
+050854.html,[Rd] quartz device (PR#13115),50854,Simon Urbanek
+050880.html,[Rd] ?foo to fall back to help(package=&quot;foo&quot;) [Was: why is	\alias{anRpackage} not mandatory?],50880,Simon Urbanek
+050883.html,[Rd] ?foo to fall back to help(package=&quot;foo&quot;) [Was: why is	\alias{anRpackage} not mandatory?],50883,Simon Urbanek
+051081.html,[Rd] Arith ops dropping S4 bit [Was: S4 object does not commute?	(PR#13209)],51081,Simon Urbanek
+051090.html,[Rd] A question about the API mkchar(),51090,Simon Urbanek
+051095.html,[Rd] writting null (\000 or ^@) to an external text file	without the new warning,51095,Simon Urbanek
+051097.html,[Rd] writting null (\000 or ^@) to an external text file	without the new warning,51097,Simon Urbanek
+051101.html,[Rd] problems installing rJava with R-2.8.0,51101,Simon Urbanek
+050901.html,[Rd] [OT] StatET Roxygen support (was: Re: why is \alias{anRpackage} not mandatory?),50901,Tobias Verbeke
+050833.html,[Rd] Typo in x11.Rd,50833,Stephen Weigand
+050992.html,[Rd] beta symbol cut off in y axis label using jpeg/png/tiff,50992,Stephen Weigand
+051021.html,[Rd] R 2.8.0 qqnorm produces error with object of class zoo?,51021,Achim Zeileis
+051065.html,"[Rd] write.csv(..., col.names = FALSE) (PR#13202)",51065,stefan.albrecht at allianz.com
+050965.html,[Rd] fivenum accuracy (PR#13164),50965,dleong at analogic.com
+050918.html,[Rd] SPSS export in R package foreign,50918,svga at arcor.de
+050920.html,[Rd] Incomplete documentation for Long Input Lines (PR#13147),50920,Jerry.Lewis at biogenidec.com
+050921.html,[Rd] solve cdf for noncentrality (PR#11527),50921,Jerry.Lewis at biogenidec.com
+050957.html,[Rd] solve cdf for noncentrality (PR#11527),50957,jerry.lewis at biogenidec.com
+050967.html,[Rd] aggregate(empty data.frame) (PR#13167),50967,prokaj at cs.elte.hu
+051043.html,[Rd] changed behaviour of 'get' in 2.8.0: request for unchange,51043,Mark.Bravington at csiro.au
+051050.html,[Rd] changed behaviour of 'get' in 2.8.0: request for unchange,51050,Mark.Bravington at csiro.au
+050940.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13161),50940,edd at debian.org
+051064.html,[Rd] R CMD Rd2dvi (PR#13200),51064,Rowan.Haigh at dfo-mpo.gc.ca
+050859.html,[Rd] Can DESCRIPTION Maintainer: field contain general URL	instead of only email address?,50859,christophe dutang
+051098.html,[Rd] percent concordant function,51098,christophe dutang
+051066.html,[Rd]  Errors in R CMD check for R 2.8.0,51066,dxc13
+051082.html,[Rd] Errors in R CMD check for R 2.8.0,51082,dxc13
+051080.html,[Rd] S4 object does not commute? (PR#13209),51080,Robert.McGehee at geodecapital.com
+051005.html,[Rd] ---without-x option fails for R 2.8.0 (missing ;) (PR#13188),51005,byron.ellis at gmail.com
+050971.html,[Rd] error installing gtools (PR#13168),50971,ebihallo at gmail.com
+050998.html,[Rd] R application dies of with windows (PR#13179),50998,sheetal.raut at gmail.com
+051063.html,[Rd] Compilation error when X11 is off (PR#13206),51063,ybryukhov at gmail.com
+051125.html,[Rd] Problems with Sweave and pdf.options(encoding=&quot;ISOLatin7&quot;)	(PR#13234),51125,zemlys at gmail.com
+051084.html,[Rd] 2.8.0 release bugs (PR#13210),51084,janek.musek at guest.arnes.si
+050844.html,[Rd] A strange behaviour of file.path in Windows? (PR#13119),50844,Richard.Cotton at hsl.gov.uk
+050884.html,[Rd] splinefun gives incorrect derivs when extrapolating to the	left (PR#13132),50884,Greg.Snow at imail.org
+051116.html,[Rd] using yscrollcommand in tkcanvas crashes R (PR#13231),51116,Greg.Snow at imail.org
+050836.html,[Rd] p-values from a resampled reference distribution,50836,roger koenker
+051032.html,[Rd] Can't open files containing russian letters in path (PR#13195),51032,asherman at ksu.ru
+050916.html,[Rd] R project needs online capability (PR#13150),50916,brainy at lava.net
+051123.html,[Rd] [BUG] [PATCH] R-2.8.0 failes to build without X support due to	a typo (PR#13233),51123,bircoph at list.ru
+050889.html,[Rd] splinefun gives incorrect derivs when extrapolating to the	(PR#13138),50889,berwin at maths.uwa.edu.au
+050891.html,[Rd] splinefun gives incorrect derivs when extrapolating to the	(PR#13139),50891,berwin at maths.uwa.edu.au
+051034.html,[Rd] Potential improvement to boxplot when outline=FALSE is set?	(PR#13196),51034,racinej at mcmaster.ca
+050974.html,[Rd] small bug in plot.rpart?,50974,apjaworski at mmm.com
+051011.html,[Rd] Bug when importing datas with tcltk window (PR#13191),51011,bastien.preuss at noumea.ird.nc
+051033.html,[Rd] normalizePath bug (PR#13199),51033,joe at novelcap.com
+050982.html,[Rd] Wrong behavior of lines.survfit for conf.int=&quot;only&quot; (PR#13171),50982,diggsb at ohsu.edu
+050999.html,[Rd] Wrong behavior of lines.survfit for conf.int=&quot;only&quot;	(PR#13180),50999,diggsb at ohsu.edu
+051107.html,[Rd] using yscrollcommand in tkcanvas crashes R (PR#13231),51107,sundar.dorai-raj at pdf.com
+050945.html,[Rd] [R-sig-Debian] problem with update.packages (PR#13162),50945,mar36 at psu.edu
+051092.html,[Rd] Arith ops dropping S4 bit [Was: S4 object does not	commute? (PR#13222),51092,jmc at r-project.org
+051030.html,[Rd] Possible GPL Violation (Ian Fellows),51030,Rory.WINSTON at rbs.com
+050879.html,[Rd] Bug with message if there is no documentation;	R2.8alpha Win32 (PR#13131),50879,mwtoews at sfu.ca
+051054.html,"[Rd] R echoes integer literals incorrectly,	under certain conditions (PR#13204)",51054,milbo at sonic.net
+050966.html,[Rd] R CMD config doesn't export JAVA_LD_LIBRARY_PATH (PR#13165),50966,chakj at stanford.edu
+050840.html,[Rd] metafiles under windows (PR#13116),50840,david.stevens at stat.math.ethz.ch
+051089.html,[Rd] 2.8.0 release bugs (PR#13210),51089,maechler at stat.math.ethz.ch
+051109.html,[Rd] (PR#13209) Arith ops dropping S4 *and* 'object' bit [Was:	...],51109,maechler at stat.math.ethz.ch
+050917.html,[Rd] match() (PR#13135),50917,wchen at stat.tamu.edu
+050847.html,[Rd] metafiles under windows (PR#13116),50847,ligges at statistik.tu-dortmund.de
+050925.html,[Rd] match() (PR#13135),50925,ligges at statistik.tu-dortmund.de
+050924.html,[Rd] solve cdf for noncentrality (PR#11527),50924,ligges at statistik.tu-dortmund.de
+050955.html,[Rd] solve cdf for noncentrality (PR#11527),50955,ligges at statistik.tu-dortmund.de
+051010.html,[Rd] ---without-x option fails for R 2.8.0 (missing ;	) (PR#13190),51010,ripley at stats.ox.ac.uk
+051057.html,"[Rd] R echoes integer literals incorrectly,	under certain conditions (PR#13205)",51057,murdoch at stats.uwo.ca
+051106.html,[Rd] row.names(data.frame(matrixWithDimnames)) depends on first	rowname being &quot;&quot; or not. (PR#13230),51106,wdunlap at tibco.com
+050841.html,[Rd] A strange behaviour of file.path in Windows? (PR#13119),50841,pego.enrico at tiscali.it
+051073.html,[Rd] unlist change the ordered type,51073,cgenolin at u-paris10.fr
+050838.html,[Rd] quartz device (PR#13115),50838,vdewit at ulg.ac.be
+051102.html,[Rd] cochran.test {outliers} (PR#13227),51102,katrina.chu at unb.ca
+051004.html,[Rd] R CMD check scans git objects (PR#13182),51004,htl10 at users.sourceforge.net
+050848.html,[Rd] R CMD install runs out of memory,50848,hadley wickham
+050853.html,[Rd] R CMD install runs out of memory,50853,hadley wickham
+050872.html,[Rd] why is \alias{anRpackage} not mandatory?,50872,hadley wickham
+050873.html,[Rd] why is \alias{anRpackage} not mandatory?,50873,hadley wickham
+050876.html,[Rd] why is \alias{anRpackage} not mandatory?,50876,hadley wickham
+050896.html,[Rd] why is \alias{anRpackage} not mandatory?,50896,hadley wickham
+050899.html,[Rd] why is \alias{anRpackage} not mandatory?,50899,hadley wickham
+050915.html,[Rd] problem with cut.Date/date plotting in ggplot2,50915,hadley wickham
+050927.html,[Rd] Thin spaces,50927,hadley wickham
+050930.html,[Rd] Thin spaces,50930,hadley wickham
+050839.html,[Rd] Data Base (PR#13114),50839,ohmforever at yahoo.com.mx
+050939.html,[Rd] cut.Date problem when starting on first day of week (PR#13159),50939,bolker at zoology.ufl.edu

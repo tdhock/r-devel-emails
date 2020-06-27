@@ -1,0 +1,182 @@
+link,Subject,id,author
+074502.html,"[Rd] Compiling R-devel - missing some expected features (zlib, bzlib, lzma, PCRE)",74502,Viechtbauer Wolfgang (SP)
+074506.html,"[Rd] Compiling R-devel - missing some expected features (zlib, bzlib, lzma, PCRE)",74506,Viechtbauer Wolfgang (SP)
+074392.html,[Rd] Philosophy behind converting Fortran to C for use in R,74392,Avraham Adler
+074404.html,[Rd] [bug] droplevels() also drop object attributes (comment&#8230;),74404,Suharto Anggono Suharto Anggono
+074416.html,[Rd] translateChar in NewName in bind.c,74416,Suharto Anggono Suharto Anggono
+074423.html,[Rd] translateChar in NewName in bind.c,74423,Suharto Anggono Suharto Anggono
+074450.html,[Rd] [bug] droplevels() also drop object attributes (comment&#8230;),74450,Suharto Anggono Suharto Anggono
+074378.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,74378,Henrik Bengtsson
+074462.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74462,Henrik Bengtsson
+074474.html,[Rd] Simplify and By Convert Factors To Numeric Values,74474,Charles C. Berry
+074405.html,[Rd] Creating a private CRAN with webpages,74405,Joshua Bradley
+074407.html,[Rd] Creating a private CRAN with webpages,74407,Joshua Bradley
+074395.html,[Rd] Philosophy behind converting Fortran to C for use in R,74395,Martyn Byng
+074528.html,[Rd] suggestion to fix packageDescription() for Windows users,74528,Rich Calaway
+074546.html,[Rd] texi2pdf doesn't find the correct MikTex installation due to erroneous Sys.which(),74546,Rich Calaway
+074519.html,[Rd] v3.4.0-2 incompatible with gcc 7.1,74519,Chris Cole
+074526.html,[Rd] v3.4.0-2 incompatible with gcc 7.1,74526,Chris Cole
+074529.html,[Rd] v3.4.0-2 incompatible with gcc 7.1,74529,Chris Cole
+074426.html,[Rd] Custom connections,74426,G&#225;bor Cs&#225;rdi
+074433.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74433,G&#225;bor Cs&#225;rdi
+074447.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74447,G&#225;bor Cs&#225;rdi
+074469.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74469,G&#225;bor Cs&#225;rdi
+074535.html,[Rd] Odd behaviour in within.list() when deleting 2+ variables,74535,Peter Dalgaard
+074393.html,[Rd] Philosophy behind converting Fortran to C for use in R,74393,William Dunlap
+074446.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74446,William Dunlap
+074449.html,[Rd] spurious warning in ave(),74449,William Dunlap
+074470.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74470,William Dunlap
+074472.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74472,William Dunlap
+074540.html,[Rd] paste strings in C,74540,Adrian Du&#537;a
+074543.html,[Rd] paste strings in C,74543,Adrian Du&#537;a
+074410.html,[Rd] Creating a private CRAN with webpages,74410,Dirk Eddelbuettel
+074412.html,[Rd] Creating a private CRAN with webpages,74412,Dirk Eddelbuettel
+074483.html,[Rd] R history: Why 'L; in suffix character&#8216;L&#8217; for integer constants?,74483,Dirk Eddelbuettel
+074485.html,[Rd] dist function in R is very slow,74485,Stefan Evert
+074492.html,[Rd] dist function in R is very slow,74492,Stefan Evert
+074418.html,[Rd] Question about R developpment,74418,Roy Mendelssohn - NOAA Federal
+074518.html,[Rd] setReplaceMethod creates 'object' in the userworkspace,74518,Jonathan Fritzemeier
+074504.html,[Rd] Unexpected behaviour of base::qr()$rank,74504,Bernd Funovits
+074511.html,[Rd] Unexpected behaviour of base::qr()$rank,74511,Bernd Funovits
+074533.html,[Rd] Suggestion for optim() in stats package,74533,Marc Girondot
+074495.html,[Rd] Bug report for sealClass() in Core-maintained package &quot;methods&quot;,74495,"Gower, Adam"
+074503.html,[Rd] hpc r configure not recognizing zlib,74503,"Hamidi, Bashir"
+074425.html,[Rd] Possible with enableJIT function,74425,Berend Hasselman
+074442.html,[Rd] Possible with enableJIT function,74442,Berend Hasselman
+074476.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74476,Jim Hester
+074451.html,[Rd] duplicated factor labels.,74451,Paul Johnson
+074464.html,[Rd] duplicated factor labels.,74464,Paul Johnson
+074496.html,"[Rd] Rmpi, openMPI editions.",74496,Paul Johnson
+074497.html,[Rd] arrows: no vectors for &quot;code&quot; and &quot;angle&quot; parameters,74497,Paul Johnson
+074525.html,[Rd] duplicated factor labels.,74525,Paul Johnson
+074428.html,[Rd] translateChar in NewName in bind.c,74428,Tomas Kalibera
+074413.html,[Rd] Creating a private CRAN with webpages,74413,Zhian Kamvar
+074400.html,"[Rd] SUGGESTION: Use JIRA for Bug Reporting,	Package Development and Project Management",74400,Sahil Kang
+074429.html,[Rd] print for lists evaluates &quot;AsIs&quot;-elements of type &quot;language&quot;,74429,Andreas Kersting
+074431.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74431,Andreas Kersting
+074434.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74434,Andreas Kersting
+074445.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74445,Andreas Kersting
+074448.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74448,Andreas Kersting
+074406.html,[Rd] Creating a private CRAN with webpages,74406,Rainer Krug
+074386.html,"[Rd] surprisingly, S4 classes with a &quot;dim&quot; or &quot;dimnames&quot; slot are final (in the Java sense)",74386,Michael Lawrence
+074390.html,"[Rd] surprisingly, S4 classes with a &quot;dim&quot; or &quot;dimnames&quot; slot are final (in the Java sense)",74390,Michael Lawrence
+074541.html,[Rd] paste strings in C,74541,Michael Lawrence
+074380.html,[Rd] read.table,74380,Uwe Ligges
+074507.html,[Rd] Unexpected behaviour of base::qr()$rank,74507,Uwe Ligges
+074509.html,[Rd] Unexpected behaviour of base::qr()$rank,74509,Uwe Ligges
+074515.html,[Rd] duplicated factor labels.,74515,Uwe Ligges
+074549.html,[Rd] Windows iconv() &quot;failure&quot; in certain locales,74549,Uwe Ligges
+074553.html,[Rd] Windows iconv() &quot;failure&quot; in certain locales,74553,Uwe Ligges
+074435.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74435,Mark van der Loo
+074437.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74437,Mark van der Loo
+074384.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,74384,Martin Maechler
+074385.html,[Rd] Usage of PROTECT_WITH_INDEX in R-exts,74385,Martin Maechler
+074387.html,[Rd] [bug] droplevels() also drop object attributes (comment&#8230;),74387,Martin Maechler
+074396.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,74396,Martin Maechler
+074408.html,[Rd] Creating a private CRAN with webpages,74408,Martin Maechler
+074409.html,[Rd] Usage of PROTECT_WITH_INDEX in R-exts,74409,Martin Maechler
+074415.html,[Rd] [bug] droplevels() also drop object attributes (comment&#8230;),74415,Martin Maechler
+074453.html,[Rd] duplicated factor labels.,74453,Martin Maechler
+074454.html,[Rd] &quot;factor now uses order() to sort its levels&quot; not yet in R	3.4.0,74454,Martin Maechler
+074501.html,[Rd] duplicated factor labels.,74501,Martin Maechler
+074512.html,[Rd] duplicated factor labels.,74512,Martin Maechler
+074516.html,[Rd] duplicated factor labels.,74516,Martin Maechler
+074534.html,[Rd] Odd behaviour in within.list() when deleting 2+ variables,74534,Martin Maechler
+074537.html,[Rd] Odd behaviour in within.list() when deleting 2+ variables,74537,Martin Maechler
+074539.html,[Rd] suggestion to fix packageDescription() for Windows users,74539,Martin Maechler
+074542.html,[Rd] Windows iconv() &quot;failure&quot; in certain locales,74542,Martin Maechler
+074551.html,[Rd] Windows iconv() &quot;failure&quot; in certain locales,74551,Martin Maechler
+074552.html,[Rd] regexec() bug in R 3.4.0,74552,Martin Maechler
+074480.html,[Rd] suggestion to fix packageDescription() for Windows users,74480,Ben Marwick
+074482.html,[Rd] suggestion to fix packageDescription() for Windows users,74482,Ben Marwick
+074486.html,[Rd] suggestion to fix packageDescription() for Windows users,74486,Ben Marwick
+074554.html,[Rd] suggestion: mention how to format DOIs in &quot;Writing R	Extensions&quot;,74554,Ben Marwick
+074460.html,[Rd] 'ordered' destroyed to 'factor',74460,Robert McGehee
+074436.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74436,Joris Meys
+074438.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74438,Joris Meys
+074457.html,[Rd] duplicated factor labels.,74457,Joris Meys
+074461.html,[Rd] 'ordered' destroyed to 'factor',74461,Joris Meys
+074465.html,[Rd] duplicated factor labels.,74465,Joris Meys
+074491.html,[Rd] 'ordered' destroyed to 'factor',74491,Joris Meys
+074517.html,[Rd] duplicated factor labels.,74517,Joris Meys
+074521.html,[Rd] LC_TIME not set correctly by Sys.setlocale() ?,74521,Joris Meys
+074524.html,[Rd] LC_TIME not set correctly by Sys.setlocale() ?,74524,Joris Meys
+074545.html,[Rd] texi2pdf doesn't find the correct MikTex installation due to erroneous Sys.which(),74545,Joris Meys
+074547.html,[Rd] texi2pdf doesn't find the correct MikTex installation due to erroneous Sys.which(),74547,Joris Meys
+074417.html,[Rd] Question about R developpment,74417,Morgan
+074424.html,[Rd] Question about R developpment,74424,Morgan
+074402.html,"[Rd] SUGGESTION: Use JIRA for Bug Reporting, Package Development and Project Management",74402,Duncan Murdoch
+074419.html,[Rd] Question about R developpment,74419,Duncan Murdoch
+074422.html,[Rd] Question about R developpment,74422,Duncan Murdoch
+074432.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74432,Duncan Murdoch
+074440.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74440,Duncan Murdoch
+074475.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74475,Duncan Murdoch
+074481.html,[Rd] suggestion to fix packageDescription() for Windows users,74481,Duncan Murdoch
+074484.html,[Rd] suggestion to fix packageDescription() for Windows users,74484,Duncan Murdoch
+074514.html,[Rd] suggestion to fix packageDescription() for Windows users,74514,Duncan Murdoch
+074548.html,[Rd] Windows iconv() &quot;failure&quot; in certain locales,74548,Duncan Murdoch
+074556.html,[Rd] Rprintf expected encoding,74556,Duncan Murdoch
+074498.html,[Rd] [FORGED] arrows: no vectors for &quot;code&quot; and &quot;angle&quot; parameters,74498,Paul Murrell
+074382.html,[Rd] Usage of PROTECT_WITH_INDEX in R-exts,74382,Kirill M&#252;ller
+074391.html,[Rd] Usage of PROTECT_WITH_INDEX in R-exts,74391,Kirill M&#252;ller
+074399.html,[Rd] Usage of PROTECT_WITH_INDEX in R-exts,74399,Kirill M&#252;ller
+074414.html,[Rd] Usage of PROTECT_WITH_INDEX in R-exts,74414,Kirill M&#252;ller
+074452.html,[Rd] [WISH / PATCH] possibility to split string literals,74452,Radford Neal
+074468.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74468,Radford Neal
+074458.html,[Rd] 'ordered' destroyed to 'factor',74458,&quot;Jens Oehlschl&#228;gel&quot;
+074490.html,[Rd] 'ordered' destroyed to 'factor',74490,&quot;Jens Oehlschl&#228;gel&quot;
+074479.html,[Rd] dist function in R is very slow,74479,Moshe Olshansky
+074488.html,[Rd] dist function in R is very slow,74488,Moshe Olshansky
+074493.html,[Rd] dist function in R is very slow,74493,Moshe Olshansky
+074388.html,[Rd] Unexpected interaction between missing() and a blank expression,74388,Hong Ooi
+074531.html,[Rd] Odd behaviour in within.list() when deleting 2+ variables,74531,Hong Ooi
+074499.html,[Rd] Fortran programs not writing stdout on windows,74499,Jeroen Ooms
+074377.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,74377,Herv&#233; Pag&#232;s
+074383.html,"[Rd] surprisingly, S4 classes with a &quot;dim&quot; or &quot;dimnames&quot; slot are final (in the Java sense)",74383,Herv&#233; Pag&#232;s
+074394.html,"[Rd] surprisingly, S4 classes with a &quot;dim&quot; or &quot;dimnames&quot; slot are final (in the Java sense)",74394,Herv&#233; Pag&#232;s
+074397.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,74397,Herv&#233; Pag&#232;s
+074494.html,[Rd] \U or \L perl regex in gsub removes text outside capturing group in UTF-8 contexts,74494,Hugh Parsonage
+074555.html,[Rd] Rprintf expected encoding,74555,Patrick Perry
+074420.html,[Rd] Question about R developpment,74420,Martyn Plummer
+074505.html,[Rd] hpc r configure not recognizing zlib,74505,Martyn Plummer
+074411.html,[Rd] Creating a private CRAN with webpages,74411,Prof Brian Ripley
+074478.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74478,Prof Brian Ripley
+074522.html,[Rd] v3.4.0-2 incompatible with gcc 7.1,74522,Prof Brian Ripley
+074523.html,[Rd] LC_TIME not set correctly by Sys.setlocale() ?,74523,Prof Brian Ripley
+074487.html,[Rd] Issue with memory deallocation/fragmentation on systems which	use glibc,74487,Dmitriy Selivanov
+074500.html,[Rd] Issue with memory deallocation/fragmentation on systems	which use glibc,74500,Dmitriy Selivanov
+074376.html,[Rd] stats::line() does not produce correct Tukey line when n mod 6 is 2 or 3,74376,Serguei Sokol
+074444.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74444,Serguei Sokol
+074463.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74463,Serguei Sokol
+074520.html,[Rd] suggestion to fix packageDescription() for Windows users,74520,Nathan Sosnovske
+074536.html,[Rd] suggestion to fix packageDescription() for Windows users,74536,Nathan Sosnovske
+074544.html,[Rd] suggestion to fix packageDescription() for Windows users,74544,Nathan Sosnovske
+074456.html,[Rd] Simplify and By Convert Factors To Numeric Values,74456,Dario Strbenac
+074398.html,"[Rd] SUGGESTION: Use JIRA for Bug Reporting, Package Development and Project Management",74398,"TELLERIA RUIZ DE AGUIRRE, JUAN"
+074401.html,"[Rd] SUGGESTION: Use JIRA for Bug Reporting, Package Development and Project Management",74401,"TELLERIA RUIZ DE AGUIRRE, JUAN"
+074403.html,"[Rd] SUGGESTION: Use JIRA for Bug Reporting, Package Development and Project Management",74403,"TELLERIA RUIZ DE AGUIRRE, JUAN"
+074439.html,[Rd] spurious warning in ave(),74439,"Therneau, Terry M., Ph.D."
+074427.html,[Rd] Custom connections,74427,Simon Urbanek
+074441.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74441,Simon Urbanek
+074421.html,[Rd] Question about R developpment,74421,Andrie de Vries
+074489.html,[Rd] suggestion to fix packageDescription() for Windows users,74489,Andrie de Vries
+074550.html,[Rd] regexec() bug in R 3.4.0,74550,"Weeks, Nathan"
+074443.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74443,Hadley Wickham
+074459.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74459,Hadley Wickham
+074473.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74473,Hadley Wickham
+074467.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74467,Yihui Xie
+074527.html,[Rd] v3.4.0-2 incompatible with gcc 7.1,74527,Ista Zahn
+074530.html,[Rd] v3.4.0-2 incompatible with gcc 7.1,74530,Ista Zahn
+074389.html,[Rd] Unexpected interaction between missing() and a blank expression,74389,peter dalgaard
+074466.html,[Rd] 'ordered' destroyed to 'factor',74466,peter dalgaard
+074471.html,[Rd] R history: Why 'L; in suffix character &#8216;L&#8217; for integer constants?,74471,peter dalgaard
+074477.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74477,peter dalgaard
+074513.html,[Rd] duplicated factor labels.,74513,peter dalgaard
+074532.html,[Rd] Odd behaviour in within.list() when deleting 2+ variables,74532,peter dalgaard
+074538.html,[Rd] Odd behaviour in within.list() when deleting 2+ variables,74538,peter dalgaard
+074430.html,[Rd] Possible with enableJIT function,74430,luke-tierney at uiowa.edu
+074455.html,[Rd] [WISH / PATCH] possibility to split string literals across multiple lines,74455,luke-tierney at uiowa.edu
+074379.html,[Rd] read.table,74379,jing hua zhao
+074381.html,[Rd] read.table,74381,jing hua zhao
+074508.html,[Rd] Unexpected behaviour of base::qr()$rank,74508,I&#241;aki &#218;car
+074510.html,[Rd] Unexpected behaviour of base::qr()$rank,74510,I&#241;aki &#218;car

@@ -1,0 +1,140 @@
+link,Subject,id,author
+075538.html,[Rd] Possible bug in package installation when R_ICU_LOCALE is set,75538,Korpela Mikko (MML)
+075553.html,[Rd] R Compilation gets stuck on Windows 64,75553,Avraham Adler
+075558.html,[Rd] R Compilation gets stuck on Windows 64,75558,Avraham Adler
+075560.html,[Rd] R Compilation gets stuck on Windows 64,75560,Avraham Adler
+075579.html,[Rd] R Compilation gets stuck on Windows 64,75579,Avraham Adler
+075529.html,[Rd] Why R should never move to git,75529,Juan Telleria Ruiz de Aguirre
+075530.html,[Rd] Why R should never move to git,75530,Juan Telleria Ruiz de Aguirre
+075534.html,[Rd] Why R should never move to git,75534,Juan Telleria Ruiz de Aguirre
+075531.html,[Rd] as.list method for by Objects,75531,Suharto Anggono Suharto Anggono
+075561.html,[Rd] Nice names in deparse,75561,Suharto Anggono Suharto Anggono
+075537.html,[Rd] Warning from Sys.junction when using network drive.,75537,MARK BANGHART
+075521.html,[Rd] Best practices in developing package: From a single file,75521,Gabriel Becker
+075605.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75605,Gabriel Becker
+075619.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75619,Gabriel Becker
+075541.html,[Rd] saveRDS() overwrites file when object is not found,75541,Kenny Bell
+075559.html,[Rd] R Compilation gets stuck on Windows 64,75559,Kenny Bell
+075522.html,[Rd] as.list method for by Objects,75522,Henrik Bengtsson
+075533.html,[Rd] as.list method for by Objects,75533,Henrik Bengtsson
+075563.html,[Rd] makeCluster hangs,75563,Henrik Bengtsson
+075610.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75610,Henrik Bengtsson
+075628.html,[Rd] Bug in installing rgdal,75628,Roger Bivand
+075568.html,[Rd] Fix minor typo in error message from grDevices,75568,John Blischak
+075540.html,[Rd] Possible typo in the C source code of R,75540,Martin Bodin
+075548.html,[Rd]  sparse.model.matrix Generates Non-Existent Factor Levels if Ord.factor Columns Present,75548,Ben Bolker
+075510.html,[Rd] Best practices in developing package: From a single file,75510,Georgi Boshnakov
+075640.html,"[Rd] R-devel Digest, Vol 180, Issue 24",75640,Georgi Boshnakov
+075641.html,[Rd] Problem with R_registerRoutines,75641,Georgi Boshnakov
+075506.html,[Rd]  Error message: 'Rscript' should not be used without a path,75506,Michal Burda
+075532.html,[Rd] CRAN indices out of whack (for at least macOS),75532,Winston Chang
+075639.html,[Rd] scale.default gives an incorrect error message when is.numeric() fails on a sparse row matrix (dgeMatrix),75639,Michael Chirico
+075635.html,[Rd] R 3.4.4 scheduled for March 15,75635,Peter Dalgaard
+075528.html,[Rd] R-gui sessions end when executing C-code,75528,William Dunlap
+075546.html,[Rd] Trailing underscores on C function names,75546,William Dunlap
+075598.html,[Rd] readLines interaction with gsub different in R-dev,75598,William Dunlap
+075596.html,[Rd] readLines interaction with gsub different in R-dev,75596,Dirk Eddelbuettel
+075589.html,[Rd] Unnecessary lines in stem.c?,75589,S Ellison
+075603.html,[Rd] Draft proposal for Searching R Packages,75603,Spencer Graves
+075582.html,[Rd]  Setting the path to Rtools for package compilation on Windows,75582,Gabor Grothendieck
+075552.html,[Rd] R Compilation gets stuck on Windows 64,75552,Indrajit Sen Gupta
+075554.html,[Rd] R Compilation gets stuck on Windows 64,75554,Indrajit Sen Gupta
+075555.html,[Rd] R Compilation gets stuck on Windows 64,75555,Indrajit Sen Gupta
+075557.html,[Rd] R Compilation gets stuck on Windows 64,75557,Indrajit Sen Gupta
+075574.html,[Rd] R Compilation gets stuck on Windows 64,75574,Indrajit Sen Gupta
+075576.html,[Rd] R Compilation gets stuck on Windows 64,75576,Indrajit Sen Gupta
+075577.html,[Rd] R Compilation gets stuck on Windows 64,75577,Indrajit Sen Gupta
+075511.html,[Rd] Best practices in developing package: From a single file,75511,Lionel Henry
+075515.html,[Rd] Fwd: Re:  Best practices in developing package:,75515,Lionel Henry
+075542.html,[Rd] rsvg on mac,75542,Kevin Horan
+075543.html,[Rd] release build of ChemmineR failing,75543,Kevin Horan
+075570.html,[Rd]  Setting the path to Rtools for package compilation on Windows,75570,S&#248;ren H&#248;jsgaard
+075562.html,[Rd] makeCluster hangs,75562,T. Florian Jaeger
+075565.html,[Rd] makeCluster hangs,75565,T. Florian Jaeger
+075583.html,[Rd] writeLines argument useBytes = TRUE still making conversions,75583,Davor Josipovic
+075507.html,[Rd] Error message: 'Rscript' should not be used without a path,75507,Tomas Kalibera
+075549.html,[Rd] Warning from Sys.junction when using network drive.,75549,Tomas Kalibera
+075550.html,[Rd] saveRDS() overwrites file when object is not found,75550,Tomas Kalibera
+075556.html,[Rd] R Compilation gets stuck on Windows 64,75556,Tomas Kalibera
+075566.html,[Rd] makeCluster hangs,75566,Tomas Kalibera
+075571.html,[Rd]  Setting the path to Rtools for package compilation on Windows,75571,Tomas Kalibera
+075573.html,[Rd] Fix minor typo in error message from grDevices,75573,Tomas Kalibera
+075590.html,[Rd]  [R-win] Bug 17159 - recursive dir.create() fails on windows shares due to permissions (MMaechler: Resending to R-windows at R-pr..),75590,Tomas Kalibera
+075607.html,[Rd]  writeLines argument useBytes = TRUE still making conversions,75607,Tomas Kalibera
+075608.html,[Rd] readLines interaction with gsub different in R-dev,75608,Tomas Kalibera
+075612.html,[Rd] Unnecessary lines in stem.c?,75612,Tomas Kalibera
+075620.html,[Rd] How to modify dots and dispatch NextMethod,75620,Tomas Kalibera
+075623.html,[Rd] How to modify dots and dispatch NextMethod,75623,Tomas Kalibera
+075625.html,[Rd] How to modify dots and dispatch NextMethod,75625,Tomas Kalibera
+075634.html,[Rd] Possible typo in the C source code of R,75634,Tomas Kalibera
+075636.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75636,Tomas Kalibera
+075564.html,[Rd] incorrect clipping on cairo devices,75564,Ilia Kats
+075616.html,"[Rd] Unwanted behaviour of bw.nrd: sometimes, zero is returned as a valid bandwidth",75616,Andre&#239; V. Kostyrka
+075567.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75567,Christian Krause
+075609.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75609,Christian Krause
+075611.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75611,Christian Krause
+075627.html,[Rd] Bug in installing rgdal,75627,Mohit Kumar
+075569.html,[Rd] Setting the path to Rtools for package compilation on Windows,75569,Peter Langfelder
+075580.html,[Rd]  Setting the path to Rtools for package compilation on Windows,75580,Peter Langfelder
+075512.html,[Rd] as.list method for by Objects,75512,Michael Lawrence
+075519.html,[Rd] Fwd: Re: Best practices in developing package:,75519,Michael Lawrence
+075526.html,[Rd] Best practices in developing package: From a single file,75526,Michael Lawrence
+075504.html,[Rd] as.list method for by Objects,75504,Martin Maechler
+075505.html,[Rd] as.list method for by Objects,75505,Martin Maechler
+075517.html,[Rd] sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,75517,Martin Maechler
+075518.html,[Rd] as.list method for by Objects,75518,Martin Maechler
+075523.html,[Rd] as.list method for by Objects,75523,Martin Maechler
+075536.html,[Rd]  sum() returns NA on a long *logical* vector when nb of TRUE values exceeds 2^31,75536,Martin Maechler
+075622.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75622,Martin Maechler
+075631.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75631,Martin Maechler
+075633.html,[Rd] Problem with R_registerRoutines,75633,Martin Maechler
+075509.html,[Rd] Best practices in developing package: From a single file,75509,Joris Meys
+075524.html,[Rd] Best practices in developing package: From a single file,75524,Joris Meys
+075503.html,[Rd] Best practices in developing package: From a single file,75503,Duncan Murdoch
+075508.html,[Rd] Best practices in developing package: From a single file,75508,Duncan Murdoch
+075513.html,[Rd] Best practices in developing package: From a single file,75513,Duncan Murdoch
+075516.html,[Rd] Best practices in developing package: From a single file,75516,Duncan Murdoch
+075525.html,[Rd] Best practices in developing package: From a single file,75525,Duncan Murdoch
+075602.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75602,Duncan Murdoch
+075587.html,[Rd] missing extern in GraphicsBase.h,75587,Paul Murrell
+075637.html,[Rd] [FORGED] Height not set properly in grDevices::jpeg() with type = &quot;cairo&quot;,75637,Paul Murrell
+075535.html,[Rd] CRAN indices out of whack (for at least macOS),75535,Thierry Onkelinx
+075572.html,[Rd]  Setting the path to Rtools for package compilation on Windows,75572,Jeroen Ooms
+075575.html,[Rd] R Compilation gets stuck on Windows 64,75575,Jeroen Ooms
+075578.html,[Rd] R Compilation gets stuck on Windows 64,75578,Jeroen Ooms
+075581.html,[Rd]  Setting the path to Rtools for package compilation on Windows,75581,Jeroen Ooms
+075630.html,[Rd] Problem with R_registerRoutines,75630,Jeroen Ooms
+075595.html,[Rd] readLines interaction with gsub different in R-dev,75595,Hugh Parsonage
+075597.html,[Rd] readLines interaction with gsub different in R-dev,75597,Hugh Parsonage
+075527.html,[Rd] R-gui sessions end when executing C-code,75527,Jesper Hybel Pedersen
+075588.html,[Rd] Duplicate column names created by base::merge() when by.x has the same name as a column in y,75588,Scott Ritchie
+075593.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75593,Scott Ritchie
+075594.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75594,Scott Ritchie
+075604.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75604,Scott Ritchie
+075606.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75606,Scott Ritchie
+075615.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75615,Scott Ritchie
+075626.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75626,Scott Ritchie
+075547.html,[Rd] sparse.model.matrix Generates Non-Existent Factor Levels if Ord.factor Columns Present,75547,Dario Strbenac
+075551.html,[Rd]  sparse.model.matrix Generates Non-Existent Factor Levels if Ord.factor Columns Present,75551,Dario Strbenac
+075514.html,[Rd] Fwd: Re:  Best practices in developing package:,75514,"Therneau, Terry M., Ph.D."
+075592.html,[Rd]  [R-win] Bug 17159 - recursive dir.create() fails on windows shares due to permissions (MMaechler: Resending to R-windows at R-pr..),75592,"Thompson, Pete"
+075585.html,[Rd]  writeLines argument useBytes = TRUE still making conversions,75585,Kevin Ushey
+075599.html,[Rd]  writeLines argument useBytes = TRUE still making conversions,75599,Kevin Ushey
+075600.html,[Rd]  writeLines argument useBytes = TRUE still making conversions,75600,Kevin Ushey
+075520.html,[Rd] Best practices in developing package: From a single file,75520,Hadley Wickham
+075539.html,[Rd]  Possible bug in package installation when R_ICU_LOCALE is set,75539,Ista Zahn
+075544.html,[Rd] rsvg on mac,75544,Ista Zahn
+075545.html,[Rd] release build of ChemmineR failing,75545,Ista Zahn
+075586.html,[Rd]  writeLines argument useBytes = TRUE still making conversions,75586,Ista Zahn
+075629.html,[Rd] Problem with R_registerRoutines,75629,Jon.SKOIEN at ec.europa.eu
+075632.html,[Rd] Problem with R_registerRoutines,75632,Jon.SKOIEN at ec.europa.eu
+075638.html,[Rd] Problem with R_registerRoutines,75638,Jon.SKOIEN at ec.europa.eu
+075584.html,[Rd] missing extern in GraphicsBase.h,75584,dmitrii.pasechnik at maths.ox.ac.uk
+075591.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75591,frederik at ofb.net
+075601.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75601,frederik at ofb.net
+075614.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75614,frederik at ofb.net
+075617.html,[Rd]  Duplicate column names created by base::merge() when by.x has the same name as a column in y,75617,frederik at ofb.net
+075613.html,[Rd] How to modify dots and dispatch NextMethod,75613,I&#241;aki &#218;car
+075618.html,[Rd] How to modify dots and dispatch NextMethod,75618,I&#241;aki &#218;car
+075621.html,[Rd] How to modify dots and dispatch NextMethod,75621,I&#241;aki &#218;car
+075624.html,[Rd] How to modify dots and dispatch NextMethod,75624,I&#241;aki &#218;car

@@ -1,0 +1,344 @@
+link,Subject,id,author
+059891.html,[Rd] Problem with confint function,59891,Kino Aguilar
+060022.html,[Rd] Demo and 00Index problems,60022,Ronald Barry
+060051.html,[Rd] Problem using F77_CALL(dgemm) in a package,60051,Douglas Bates
+059982.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59982,Martin Becker
+059990.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59990,Martin Becker
+059789.html,[Rd] dependencies on system packages,59789,Claudia Beleites
+059937.html,"[Rd] drop argument for apply, rowSums, etc.",59937,Claudia Beleites
+059950.html,[Rd] vignette question was: CRAN package sizes,59950,Claudia Beleites
+059953.html,[Rd] vignette question was: CRAN package sizes,59953,Claudia Beleites
+060045.html,[Rd] X error on r-forge,60045,Claudia Beleites
+059755.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59755,Henrik Bengtsson
+059839.html,[Rd] Save and serialize,59839,Henrik Bengtsson
+059843.html,[Rd] Save and serialize,59843,Henrik Bengtsson
+059868.html,[Rd] using rasterImage within image,59868,Henrik Bengtsson
+059870.html,[Rd] using rasterImage within image,59870,Henrik Bengtsson
+059909.html,[Rd] R 2.13.0 on Windows: R CMD check and '&quot;du&quot;' not found,59909,Henrik Bengtsson
+059911.html,[Rd] large vignette problem,59911,Henrik Bengtsson
+059912.html,[Rd] large vignette problem,59912,Henrik Bengtsson
+059921.html,[Rd] Wish: Iterate over any data type/object 'xs' in for (x in xs)	{ ... },59921,Henrik Bengtsson
+059954.html,[Rd] R 2.13.0 on Windows: R CMD check and '&quot;du&quot;' not found,59954,Henrik Bengtsson
+059957.html,[Rd] matrixStats: Extend to arrays too (Was: Re: Suggestion: Adding quick rowMin and rowMax functions to base package),59957,Henrik Bengtsson
+060018.html,[Rd] Set up new CRAN mirror;	but have questions before finalizing.,60018,Henrik Bengtsson
+060035.html,[Rd] Using src/ to create executable - how to not build shared	objects?,60035,Henrik Bengtsson
+059799.html,[Rd] axTicks.Rd documentation bug,59799,Ben Bolker
+059800.html,[Rd] read.csv trap,59800,Ben Bolker
+059815.html,"[Rd] print(...,digits=2) behavior",59815,Ben Bolker
+059859.html,[Rd] using rasterImage within image,59859,Ben Bolker
+059865.html,[Rd] using rasterImage within image,59865,Ben Bolker
+059871.html,[Rd] using rasterImage within image,59871,Ben Bolker
+059894.html,[Rd] read.csv trap,59894,Ben Bolker
+059899.html,[Rd] read.csv trap,59899,Ben Bolker
+059927.html,[Rd] using rasterImage within image,59927,Ben Bolker
+059938.html,[Rd] using rasterImage within image,59938,Ben Bolker
+059944.html,[Rd] readPNG gives warnings and doesn't execute sample code	from help files,59944,Ben Bolker
+059948.html,[Rd] readPNG gives warnings and doesn't execute sample code from help files,59948,Ben Bolker
+060061.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60061,Ben Bolker
+060066.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60066,Ben Bolker
+060072.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60072,Ben Bolker
+060036.html,[Rd] Problem with documentation of user-defined operator (S4 method),60036,Andreas Borg
+060037.html,[Rd] Problem with documentation of user-defined operator (S4 method),60037,Andreas Borg
+060020.html,[Rd] pre-release?,60020,G&#246;ran Brostr&#246;m
+059804.html,[Rd] dependencies on system packages,59804,Ted Byers
+059979.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages,	esp. with C code",59979,Ted Byers
+059830.html,[Rd] Error with named chunks in Sweave with the development version of R,59830,Cl&#233;ment Calenge
+059852.html,[Rd] manipulating the Date &amp; Time classes,59852,Daniel Cegie&#322;ka
+059785.html,[Rd] Creating a reference class object from a class definition in a package fails,59785,John Chambers
+059786.html,[Rd] Creating a reference class object from a class definition in a package fails,59786,John Chambers
+059965.html,[Rd] Reference classes and &quot;.requireCachedGenerics&quot;,59965,John Chambers
+059971.html,[Rd] Reference classes and &quot;.requireCachedGenerics&quot;,59971,John Chambers
+059955.html,[Rd] Reference classes and &quot;.requireCachedGenerics&quot;,59955,Jon Clayden
+059989.html,[Rd] Ignoring .Rprofile when installing a package,59989,Jon Clayden
+060012.html,[Rd] Ignoring .Rprofile when installing a package,60012,Jon Clayden
+059808.html,[Rd] keep.source when semicolons separate statements on the one line,59808,Kevin R. Coombes
+059924.html,[Rd] CRAN package sizes,59924,Kevin R. Coombes
+060000.html,[Rd] method=&quot;radix&quot; in sort.list() isn't actually a radix sort,60000,Matthew Dowle
+059834.html,[Rd] as.list(subclassed function) -&gt; cannot coerce type 'closure'	to vector of type 'list',59834,William Dunlap
+059992.html,[Rd] matrixStats: Extend to arrays too (Was: Re: Suggestion:	Adding quick rowMin and rowMax functions to base package),59992,William Dunlap
+059995.html,[Rd] matrixStats: Extend to arrays too (Was: Re: Suggestion:	Adding quick rowMin and rowMax functions to base package),59995,William Dunlap
+060055.html,[Rd] Anomaly in [.terms,60055,William Dunlap
+059801.html,[Rd] dependencies on system packages,59801,Dirk Eddelbuettel
+059931.html,[Rd] R command line and pipe using in Linux?,59931,Dirk Eddelbuettel
+059984.html,[Rd] R-Forge is dark,59984,Dirk Eddelbuettel
+059985.html,[Rd] R-Forge is dark,59985,Dirk Eddelbuettel
+060010.html,[Rd] Newbie Rccp module question. &quot;Failed to initialize	module	pointer&quot;???,60010,Dirk Eddelbuettel
+060027.html,[Rd] Problem using F77_CALL(dgemm) in a package,60027,Dirk Eddelbuettel
+060028.html,[Rd] Problem using F77_CALL(dgemm) in a package,60028,Dirk Eddelbuettel
+059892.html,[Rd] Problem with confint function,59892,John Fox
+059896.html,[Rd] read.csv trap,59896,Laurent Gatto
+059760.html,[Rd] Warning: you may need to use R-patched with recent R	distros,59760,Simone Giannerini
+059762.html,[Rd] Warning: you may need to use R-patched with recent R	distros,59762,Simone Giannerini
+059780.html,[Rd] S3 method for S4 object,59780,Paul Gilbert
+059997.html,[Rd] function call overhead,59997,Paul Gilbert
+060009.html,[Rd] S3/S4/NAMESPACE,60009,Paul Gilbert
+059889.html,[Rd] R project testers - how to help out,59889,James Goss
+059810.html,[Rd] Reading a specific file during &quot;R CMD check&quot;?,59810,Spencer Graves
+059813.html,[Rd] Reading a specific file during &quot;R CMD check&quot;?,59813,Spencer Graves
+059947.html,[Rd] ave reports warning when nothing is wrong,59947,Gabor Grothendieck
+059962.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59962,Gabor Grothendieck
+059973.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59973,Gabor Grothendieck
+059976.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59976,Gabor Grothendieck
+060023.html,[Rd] Demo and 00Index problems,60023,Gabor Grothendieck
+060078.html,[Rd] system(wait = FALSE),60078,Gabor Grothendieck
+060080.html,[Rd] system(wait = FALSE),60080,Gabor Grothendieck
+060056.html,[Rd] How to make a package with help pages in multiple languages?,60056,Kjetil Halvorsen
+059986.html,[Rd] matrixStats: Extend to arrays too (Was: Re:	Suggestion:	Adding quick rowMin and rowMax functions to base package),59986,Tim Hesterberg
+060086.html,[Rd] Named capture in regexp,60086,Toby Dylan Hocking
+059776.html,[Rd] Creating a reference class object from a class definition in a package fails,59776,Jeffrey Horner
+059782.html,[Rd] Creating a reference class object from a class definition in a package fails,59782,Jeffrey Horner
+060038.html,[Rd] Accessing Package NEWS (NEWS.Rd),60038,Kurt Hornik
+059817.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is required,59817,Rainer Hurling
+059819.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59819,Rainer Hurling
+059824.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59824,Rainer Hurling
+059825.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59825,Rainer Hurling
+059849.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59849,Rainer Hurling
+059856.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59856,Rainer Hurling
+059967.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59967,Geoff Jentry
+059970.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59970,Geoff Jentry
+059956.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages,	esp. with C code",59956,Paul Johnson
+060015.html,[Rd] Set up new CRAN mirror; but have questions before finalizing.,60015,Paul Johnson
+060019.html,[Rd] Set up new CRAN mirror;	but have questions before finalizing.,60019,Paul Johnson
+060032.html,[Rd] Ignoring .Rprofile when installing a package,60032,Keith
+059897.html,[Rd] Writting my own package - 64 bit problem with R_GetCCallable,59897,Ryan King
+059900.html,[Rd] Writting my own package - 64 bit problem with	R_GetCCallable,59900,Ryan King
+060091.html,[Rd] broken link on CRAN,60091,Max Kuhn
+060083.html,[Rd] R CMD build error (RProtoBuf on windows),60083,Koert Kuipers
+059763.html,[Rd] Using MathJax in R's help system,59763,GONG-YI LIAO
+059864.html,[Rd] subassignment does not always duplicate object from active	binding,59864,Michael Lawrence
+060016.html,[Rd] Set up new CRAN mirror;	but have questions before finalizing.,60016,Friedrich Leisch
+059778.html,[Rd] bug in codetools/R CMD check?,59778,Hin-Tak Leung
+059845.html,[Rd] bug in codetools/R CMD check?,59845,Hin-Tak Leung
+059848.html,[Rd] bug in codetools/R CMD check?,59848,Hin-Tak Leung
+059805.html,[Rd] matching symbols to objects,59805,Patrick Leyshock
+059809.html,[Rd] matching symbols to objects,59809,Patrick Leyshock
+059807.html,[Rd] matching symbols to objects,59807,Patrick Leyshock
+059768.html,[Rd] Using MathJax in R's help system,59768,Gong-Yi Liao
+059769.html,[Rd] Using MathJax in R's help system,59769,Gong-Yi Liao
+059777.html,[Rd] Using MathJax in R's help system,59777,Gong-Yi Liao
+060006.html,[Rd] Rd2pdf error in R12.0,60006,Gong-Yi Liao
+059907.html,[Rd] R limits documented?,59907,Uwe Ligges
+059964.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages,	esp. with C code",59964,Sebastian P. Luque
+059751.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59751,Martin Maechler
+059771.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59771,Martin Maechler
+059773.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59773,Martin Maechler
+059828.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59828,Martin Maechler
+059829.html,"[Rd] print(...,digits=2) behavior",59829,Martin Maechler
+059833.html,[Rd] axTicks.Rd documentation bug,59833,Martin Maechler
+060065.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60065,Martin Maechler
+060075.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60075,Martin Maechler
+059783.html,[Rd] keep.source when semicolons separate statements on the one line,59783,John Maindonald
+059784.html,[Rd] keep.source when semicolons separate statements on the one	line; PS,59784,John Maindonald
+059978.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59978,Steven McKinney
+060003.html,[Rd] function call overhead,60003,Olaf Mersmann
+059795.html,[Rd] terribly annoying bug with POSIXlt : one o'clock is midnight?,59795,Joris Meys
+059796.html,[Rd] terribly annoying bug with POSIXlt : one o'clock is	midnight?,59796,Joris Meys
+059925.html,[Rd] readPNG gives warnings and doesn't execute sample code from	help files,59925,Joris Meys
+059940.html,[Rd] readPNG gives warnings and doesn't execute sample code	from help files,59940,Joris Meys
+059945.html,[Rd] readPNG gives warnings and doesn't execute sample code from help files,59945,Joris Meys
+059946.html,[Rd] readPNG gives warnings and doesn't execute sample code from help files,59946,Joris Meys
+059951.html,[Rd] Using rasterImage on a CairoWin device prevents adding further elements to device?,59951,Joris Meys
+059781.html,[Rd] S3 method for S4 object,59781,Martin Morgan
+059949.html,[Rd] S4 problems,59949,Martin Morgan
+059792.html,[Rd] Strange behaviour of read and writeBin,59792,Duncan Murdoch
+059793.html,[Rd] keep.source when semicolons separate statements on the one line,59793,Duncan Murdoch
+059814.html,[Rd] keep.source when semicolons separate statements on the one line,59814,Duncan Murdoch
+059816.html,[Rd] keep.source when semicolons separate statements on the one line,59816,Duncan Murdoch
+059831.html,[Rd] Error with named chunks in Sweave with the development version of R,59831,Duncan Murdoch
+059832.html,[Rd] Error with named chunks in Sweave with the development version of R,59832,Duncan Murdoch
+059882.html,[Rd] R 2.12.1 Windows 32bit and 64bit - are numerical differences expected?,59882,Duncan Murdoch
+059917.html,[Rd] R 2.13.0 on Windows: R CMD check and '&quot;du&quot;' not found,59917,Duncan Murdoch
+059977.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59977,Duncan Murdoch
+059981.html,[Rd] Avoiding name clashes: opinion on best practice naming	conventions,59981,Duncan Murdoch
+059983.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59983,Duncan Murdoch
+060058.html,[Rd] How to make a package with help pages in multiple	languages?,60058,Duncan Murdoch
+060082.html,[Rd] Sexpr problem,60082,Duncan Murdoch
+060040.html,[Rd] [R] S4 classes: referencing slots with other slots,60040,Dan Murphy
+059754.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59754,Paul Murrell
+059756.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59756,Paul Murrell
+059774.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59774,Paul Murrell
+059826.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59826,Paul Murrell
+059853.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59853,Paul Murrell
+059862.html,[Rd] using rasterImage within image,59862,Paul Murrell
+059887.html,[Rd] using rasterImage within image,59887,Paul Murrell
+059888.html,[Rd] using rasterImage within image,59888,Paul Murrell
+059918.html,[Rd] using rasterImage within image,59918,Paul Murrell
+059934.html,[Rd] using rasterImage within image,59934,Paul Murrell
+059959.html,[Rd] gList and gTree methods of grid::grobX,59959,Paul Murrell
+059874.html,[Rd] SurviveGotoBLAS2 for Win64 (RC release),59874,Ei-ji Nakama
+059942.html,[Rd] Google Summer of Code 2011,59942,Prof. John C Nash
+059952.html,[Rd] Google Summer of Code 2011 - credit where it is due,59952,Prof. John C Nash
+059998.html,[Rd] return(); was  Suggestions for &quot;good teaching&quot; packages,59998,Prof. John C Nash
+059930.html,[Rd] R command line and pipe using in Linux?,59930,Sean O'Riordain
+059787.html,[Rd] dependencies on system packages,59787,Jeroen Ooms
+059928.html,[Rd] R command line and pipe using in Linux?,59928,Hang PHAN
+059936.html,[Rd] R command line and pipe using in Linux?,59936,Hang PHAN
+060062.html,[Rd] factor() on a double vector,60062,Herv&#233; Pag&#232;s
+060064.html,[Rd] factor() on a double vector,60064,Herv&#233; Pag&#232;s
+060073.html,[Rd] min/max of a vector with NAs and NaNs,60073,Herv&#233; Pag&#232;s
+059994.html,[Rd] Ignoring .Rprofile when installing a package,59994,Brian G. Peterson
+059761.html,[Rd] Warning: you may need to use R-patched with recent R distros,59761,Prof Brian Ripley
+059812.html,[Rd] Reading a specific file during &quot;R CMD check&quot;?,59812,Prof Brian Ripley
+059818.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is required,59818,Prof Brian Ripley
+059821.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is required,59821,Prof Brian Ripley
+059823.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is required,59823,Prof Brian Ripley
+059836.html,[Rd] as.list(subclassed function) -&gt; cannot coerce type 'closure' to vector of type 'list',59836,Prof Brian Ripley
+059838.html,[Rd] Save and serialize,59838,Prof Brian Ripley
+059841.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is required,59841,Prof Brian Ripley
+059846.html,[Rd] bug in codetools/R CMD check?,59846,Prof Brian Ripley
+059855.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is required,59855,Prof Brian Ripley
+059857.html,[Rd] Compiling a Tcl extension for an R package,59857,Prof Brian Ripley
+059878.html,[Rd] Problem installing MCMCpack on SPARC Solaris 10,59878,Prof Brian Ripley
+059879.html,[Rd] Problem installing MCMCpack on SPARC Solaris 10,59879,Prof Brian Ripley
+059884.html,[Rd] BLAS optimization by CUBLAS,59884,Prof Brian Ripley
+059885.html,[Rd] R 2.12.1 Windows 32bit and 64bit - are numerical differences expected?,59885,Prof Brian Ripley
+059890.html,[Rd] R project testers - how to help out,59890,Prof Brian Ripley
+059908.html,[Rd] R limits documented?,59908,Prof Brian Ripley
+059916.html,[Rd] CRAN package sizes,59916,Prof Brian Ripley
+059941.html,[Rd] CRAN package sizes,59941,Prof Brian Ripley
+059991.html,[Rd] Ignoring .Rprofile when installing a package,59991,Prof Brian Ripley
+060007.html,[Rd] Rd2pdf error in R12.0,60007,Prof Brian Ripley
+060013.html,[Rd] debugger() fails if &quot;...&quot; in function arguments,60013,Prof Brian Ripley
+060014.html,[Rd] dotchart {graphics} 2.11.1 vs. 2.12.1 [followed up from Rhelp],60014,Prof Brian Ripley
+060026.html,[Rd] Problem using F77_CALL(dgemm) in a package,60026,Prof Brian Ripley
+060034.html,[Rd] Problem using F77_CALL(dgemm) in a package,60034,Prof Brian Ripley
+060042.html,[Rd] Error in tools::build Vignettes (dir = &quot;.&quot;),60042,Prof Brian Ripley
+060044.html,[Rd] Anomaly in [.terms,60044,Prof Brian Ripley
+060047.html,[Rd] error in memCompress() in make check,60047,Prof Brian Ripley
+060057.html,[Rd] How to make a package with help pages in multiple languages?,60057,Prof Brian Ripley
+060069.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60069,Prof Brian Ripley
+060074.html,[Rd] system(wait = FALSE),60074,Prof Brian Ripley
+060084.html,[Rd] R CMD build error (RProtoBuf on windows),60084,Prof Brian Ripley
+060087.html,[Rd] min/max of a vector with NAs and NaNs,60087,Prof Brian Ripley
+060089.html,[Rd] Small enhancement for CMD check,60089,Prof Brian Ripley
+060017.html,[Rd] Accessing Package NEWS (NEWS.Rd),60017,Paul Roebuck
+060052.html,[Rd] Tcl/Tk Binding % Substitutions,60052,Paul Roebuck
+060011.html,[Rd] debugger() fails if &quot;...&quot; in function arguments,60011,Charles Roosen
+060041.html,[Rd] Error in tools::build Vignettes (dir = &quot;.&quot;),60041,Thomas Roth
+059866.html,[Rd] dependencies on system packages,59866,Allen S. Rout
+060068.html,[Rd] Easily switchable factor levels,60068,Barry Rowlingson
+059790.html,[Rd] Strange behaviour of read and writeBin,59790,Christian Ruckert
+060025.html,[Rd] Problem using F77_CALL(dgemm) in a package,60025,Jason Rudy
+060029.html,[Rd] Problem using F77_CALL(dgemm) in a package,60029,Jason Rudy
+060030.html,[Rd] Problem using F77_CALL(dgemm) in a package,60030,Jason Rudy
+060048.html,[Rd] Problem using F77_CALL(dgemm) in a package,60048,Jason Rudy
+060059.html,[Rd] Problem using F77_CALL(dgemm) in a package,60059,Jason Rudy
+060060.html,[Rd] Problem using F77_CALL(dgemm) in a package,60060,Jason Rudy
+059791.html,[Rd] Strange behaviour of read and writeBin,59791,Jeff Ryan
+059798.html,[Rd] terribly annoying bug with POSIXlt : one o'clock is	midnight?,59798,Jeff Ryan
+059806.html,[Rd] matching symbols to objects,59806,Jeff Ryan
+059854.html,[Rd] manipulating the Date &amp; Time classes,59854,Jeffrey Ryan
+059961.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59961,Jeffrey Ryan
+059972.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59972,Jeffrey Ryan
+059999.html,[Rd] function call overhead,59999,Jeffrey Ryan
+059922.html,[Rd] getGenerics returns names what are not generics,59922,Vitalie S.
+059753.html,[Rd] Warning: you may need to use R-patched with recent R	distros,59753,Dominick Samperi
+059766.html,[Rd] Warning: you may need to use R-patched with recent R	distros,59766,Dominick Samperi
+059901.html,[Rd] R limits documented?,59901,Dominick Samperi
+059996.html,[Rd] Avoiding name clashes: opinion on best practice naming	conventions,59996,Dominick Samperi
+060002.html,[Rd] function call overhead,60002,Dominick Samperi
+059840.html,"[Rd] print(...,digits=2) behavior",59840,Petr Savicky
+059863.html,"[Rd] print(...,digits=2) behavior",59863,Petr Savicky
+059883.html,[Rd] R 2.12.1 Windows 32bit and 64bit - are numerical	differences expected?,59883,Petr Savicky
+059915.html,"[Rd] print(...,digits=2) behavior",59915,Petr Savicky
+059932.html,[Rd] R command line and pipe using in Linux?,59932,Petr Savicky
+060046.html,[Rd] error in memCompress() in make check,60046,Petr Savicky
+060049.html,[Rd] error in memCompress() in make check,60049,Petr Savicky
+060053.html,[Rd] error in memCompress() in make check,60053,Petr Savicky
+059966.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59966,David Scott
+059975.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59975,David Scott
+059886.html,[Rd] embed Sweave driver in .Rnw file,59886,Sharpie
+059797.html,[Rd] terribly annoying bug with POSIXlt : one o'clock is midnight?,59797,Gavin Simpson
+060070.html,[Rd] system(wait = FALSE),60070,Oliver Soong
+060077.html,[Rd] system(wait = FALSE),60077,Oliver Soong
+060079.html,[Rd] system(wait = FALSE),60079,Oliver Soong
+059820.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59820,Murray Stokely
+059822.html,[Rd] R-devel on FreeBSD: Support for C99 complex type is	required,59822,Murray Stokely
+059757.html,[Rd] Memory Leak,59757,Dario Strbenac
+059759.html,[Rd] Memory Leak,59759,Dario Strbenac
+059913.html,[Rd] large vignette problem,59913,Dario Strbenac
+060088.html,[Rd] sys.calls Behaviour,60088,Dario Strbenac
+059779.html,[Rd] Minor typo in files2.Rd (Manipulaton),59779,Rainer Stuetz
+059860.html,[Rd] using rasterImage within image,59860,Michael Sumner
+059872.html,[Rd] using rasterImage within image,59872,Michael Sumner
+059877.html,[Rd] using rasterImage within image,59877,Michael Sumner
+059906.html,[Rd] using rasterImage within image,59906,Michael Sumner
+059920.html,[Rd] Suggestion: Adding quick rowMin and rowMax functions to base package,59920,TakeoKatsuki
+060076.html,"[Rd] Rd, S4 classes and PDFs",60076,Thomas Themel
+060005.html,[Rd] Rd2pdf error in R12.0,60005,Terry Therneau
+060043.html,[Rd] Anomaly in [.terms,60043,Terry Therneau
+060085.html,[Rd] Small enhancement for CMD check,60085,Terry Therneau
+060090.html,[Rd] Small enhancement for CMD check,60090,Terry Therneau
+059980.html,[Rd] Avoiding name clashes: opinion on best practice naming	conventions,59980,Janko Thyson
+060031.html,[Rd] Reference classes: error with missing arguments in method calls,60031,Janko Thyson
+060071.html,[Rd] Easily switchable factor levels,60071,Heinz Tuechler
+059758.html,[Rd] Memory Leak,59758,Simon Urbanek
+059770.html,[Rd] Using MathJax in R's help system,59770,Simon Urbanek
+059772.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59772,Simon Urbanek
+059775.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59775,Simon Urbanek
+059788.html,[Rd] dependencies on system packages,59788,Simon Urbanek
+059794.html,[Rd] dependencies on system packages,59794,Simon Urbanek
+059803.html,[Rd] dependencies on system packages,59803,Simon Urbanek
+059827.html,[Rd] [.raster bug {was &quot;str() on raster objects fails ..&quot;},59827,Simon Urbanek
+059850.html,[Rd] Compiling a Tcl extension for an R package,59850,Simon Urbanek
+059858.html,[Rd] manipulating the Date &amp; Time classes,59858,Simon Urbanek
+059861.html,[Rd] using rasterImage within image,59861,Simon Urbanek
+059867.html,[Rd] using rasterImage within image,59867,Simon Urbanek
+059869.html,[Rd] using rasterImage within image,59869,Simon Urbanek
+059898.html,[Rd] Writting my own package - 64 bit problem with	R_GetCCallable,59898,Simon Urbanek
+059903.html,[Rd] R limits documented?,59903,Simon Urbanek
+059904.html,[Rd] R limits documented?,59904,Simon Urbanek
+059926.html,[Rd] readPNG gives warnings and doesn't execute sample code	from help files,59926,Simon Urbanek
+059933.html,[Rd] using rasterImage within image,59933,Simon Urbanek
+059935.html,[Rd] using rasterImage within image,59935,Simon Urbanek
+059968.html,[Rd] Using rasterImage on a CairoWin device prevents adding	further elements to device?,59968,Simon Urbanek
+060021.html,[Rd] pre-release?,60021,Simon Urbanek
+060033.html,[Rd] Problem using F77_CALL(dgemm) in a package,60033,Simon Urbanek
+060039.html,[Rd] Using src/ to create executable - how to not build shared	objects?,60039,Simon Urbanek
+060050.html,[Rd] Problem using F77_CALL(dgemm) in a package,60050,Simon Urbanek
+060063.html,[Rd] factor() on a double vector,60063,Simon Urbanek
+060093.html,[Rd] broken link on CRAN,60093,Simon Urbanek
+059847.html,[Rd] Compiling a Tcl extension for an R package,59847,Adrian Waddell
+059765.html,[Rd] Using MathJax in R's help system,59765,Hadley Wickham
+059767.html,[Rd] Using MathJax in R's help system,59767,Hadley Wickham
+059811.html,[Rd] Reading a specific file during &quot;R CMD check&quot;?,59811,Hadley Wickham
+059837.html,[Rd] Save and serialize,59837,Hadley Wickham
+059842.html,[Rd] Save and serialize,59842,Hadley Wickham
+059958.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59958,Hadley Wickham
+059960.html,[Rd] matrixStats: Extend to arrays too (Was: Re: Suggestion: Adding quick rowMin and rowMax functions to base package),59960,Hadley Wickham
+059987.html,[Rd] matrixStats: Extend to arrays too (Was: Re: Suggestion: Adding quick rowMin and rowMax functions to base package),59987,Hadley Wickham
+059993.html,[Rd] matrixStats: Extend to arrays too (Was: Re: Suggestion: Adding quick rowMin and rowMax functions to base package),59993,Hadley Wickham
+060001.html,[Rd] function call overhead,60001,Hadley Wickham
+059752.html,[Rd] dotchart {graphics} 2.11.1 vs. 2.12.1 [followed up from Rhelp],59752,Joshua Wiley
+060024.html,[Rd] dotchart {graphics} 2.11.1 vs. 2.12.1 [followed up from	Rhelp],60024,Joshua Wiley
+059881.html,[Rd] R 2.12.1 Windows 32bit and 64bit - are numerical differences	expected?,59881,Graham Williams
+059851.html,[Rd] manipulating the Date &amp; Time classes,59851,Mike Williamson
+059902.html,[Rd] R limits documented?,59902,David Winsemius
+059905.html,[Rd] R limits documented?,59905,David Winsemius
+059969.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59969,Kevin Wright
+059919.html,[Rd] CRAN package sizes,59919,Yihui Xie
+060008.html,[Rd] Newbie Rccp module question. &quot;Failed to initialize module	pointer&quot;???,60008,Andre Zege
+059875.html,[Rd] Problem installing MCMCpack on SPARC Solaris 10,59875,Jun Zhang
+059873.html,[Rd] Problem installing MCMCpack on SPARC Solaris 10,59873,"Zhang,Jun"
+059876.html,[Rd] using rasterImage within image,59876,baptiste auguie
+059929.html,[Rd] using rasterImage within image,59929,baptiste auguie
+059939.html,[Rd] gList and gTree methods of grid::grobX,59939,baptiste auguie
+059963.html,[Rd] gList and gTree methods of grid::grobX,59963,baptiste auguie
+059893.html,[Rd] Problem with confint function,59893,peter dalgaard
+060067.html,[Rd] request for patch in  &quot;drop1&quot; (add.R),60067,peter dalgaard
+060092.html,[Rd] broken link on CRAN,60092,peter dalgaard
+059910.html,[Rd] large vignette problem,59910,robin hankin
+059914.html,[Rd] large vignette problem,59914,robin hankin
+059943.html,[Rd] S4 problems,59943,robin hankin
+060004.html,[Rd] Dependencies problem,60004,robin hankin
+060081.html,[Rd] Sexpr problem,60081,robin hankin
+059764.html,[Rd] Using MathJax in R's help system,59764,Ken.Williams at thomsonreuters.com
+059802.html,[Rd] dependencies on system packages,59802,Ken.Williams at thomsonreuters.com
+059895.html,[Rd] read.csv trap,59895,Ken.Williams at thomsonreuters.com
+059974.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59974,Ken.Williams at thomsonreuters.com
+059835.html,[Rd] as.list(subclassed function) -&gt; cannot coerce type 'closure' to vector of type 'list',59835,luke-tierney at uiowa.edu
+059844.html,[Rd] bug in codetools/R CMD check?,59844,luke-tierney at uiowa.edu
+059988.html,"[Rd] Request: Suggestions for &quot;good teaching&quot; packages, esp. with C code",59988,luke-tierney at uiowa.edu
+059923.html,"[Rd] small suggestion---add sd to summary() for vectors, matrices, and data frames",59923,ivo welch
+060054.html,[Rd] trouble compiling RMySQL (and others) for 64 bit windows.,60054,zoolium
+059880.html,[Rd] BLAS optimization by CUBLAS,59880,&#1070;&#1088;&#1080;&#1081; &#1055;&#1086;&#1089;&#1086;&#1093;&#1086;&#1074;

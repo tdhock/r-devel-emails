@@ -1,0 +1,246 @@
+link,Subject,id,author
+020355.html,[Rd] RODBC: follow up,20355,Jens Oehlschlägel-Akiyoshi
+020354.html,[Rd] possible BUG with as.data.frame() and/or [.data.frame,20354,Jens Oehlschlägel-Akiyoshi
+020358.html,[Rd] RE: [R] RODBC,20358,Jens Oehlschlägel-Akiyoshi
+020515.html,[Rd] pre summary: mapping of colornames into hsv?,20515,Jens Oehlschlägel-Akiyoshi
+020287.html,[Rd] Re: [R] Re: R-1.0.0 is released (PR#467),20287,Peter Dalgaard BSA
+020299.html,[Rd] using function names as parameters (PR#469),20299,Peter Dalgaard BSA
+020310.html,[Rd] problem with glm (PR#452),20310,Peter Dalgaard BSA
+020317.html,[Rd] A new way for an Alpha to fail,20317,Peter Dalgaard BSA
+020319.html,[Rd] anova-bug in R-version  1.0.0? (PR#470),20319,Peter Dalgaard BSA
+020321.html,[Rd] anova-bug in R-version  1.0.0? (PR#470),20321,Peter Dalgaard BSA
+020326.html,[Rd] Bug list summary (automatic post),20326,Peter Dalgaard BSA
+020332.html,[Rd] nlm and optional arguments,20332,Peter Dalgaard BSA
+020341.html,[Rd] update fails after specific sequence of steps (PR#474),20341,Peter Dalgaard BSA
+020344.html,[Rd] Error compiling R on RS6000 (PR#475),20344,Peter Dalgaard BSA
+020350.html,[Rd] lm(rnorm(1000)~rnorm(1000)) kills rw1000 (PR#476),20350,Peter Dalgaard BSA
+020356.html,[Rd] possible BUG with as.data.frame() and/or [.data.frame,20356,Peter Dalgaard BSA
+020360.html,[Rd] update fails after specific sequence of steps (PR#474),20360,Peter Dalgaard BSA
+020368.html,[Rd] Printing graphs on W98 laptop (PR#477),20368,Peter Dalgaard BSA
+020377.html,"[Rd] problem with plot(...., xlim=c(5,0)) (PR#480)",20377,Peter Dalgaard BSA
+020382.html,"[Rd] plot(1:10,c(1)$nothing)  yields index plot (PR#482)",20382,Peter Dalgaard BSA
+020392.html,[Rd] Bug in sub? (PR#487),20392,Peter Dalgaard BSA
+020398.html,[Rd] solaris without x,20398,Peter Dalgaard BSA
+020404.html,[Rd] question,20404,Peter Dalgaard BSA
+020424.html,[Rd] optim: problem with additional arguments (PR#493),20424,Peter Dalgaard BSA
+020428.html,[Rd] AIX fails on startup with R-1.0.0,20428,Peter Dalgaard BSA
+020432.html,[Rd] R-1.0.0 on alpha/osf1 memory glitch (PR#490),20432,Peter Dalgaard BSA
+020440.html,[Rd] followup to graphics bug #414,20440,Peter Dalgaard BSA
+020442.html,[Rd] followup to graphics bug #414,20442,Peter Dalgaard BSA
+020444.html,[Rd] Bug list summary (automatic post),20444,Peter Dalgaard BSA
+020446.html,[Rd] barplot (PR#495),20446,Peter Dalgaard BSA
+020449.html,[Rd] par help wrong: xlog &amp; ylog (PR#497),20449,Peter Dalgaard BSA
+020463.html,[Rd] help system does not work (PR#499),20463,Peter Dalgaard BSA
+020466.html,[Rd] segmentation fault with 1D array (PR#500),20466,Peter Dalgaard BSA
+020467.html,[Rd] segmentation fault with 1D array (PR#500),20467,Peter Dalgaard BSA
+020470.html,[Rd] segmentation fault with 1D array (PR#500),20470,Peter Dalgaard BSA
+020473.html,[Rd] clipboard,20473,Peter Dalgaard BSA
+020483.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20483,Peter Dalgaard BSA
+020487.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20487,Peter Dalgaard BSA
+020502.html,[Rd] AIX fails on startup with R-1.0.0,20502,Peter Dalgaard BSA
+020505.html,[Rd] Porting R,20505,Peter Dalgaard BSA
+020509.html,[Rd] Porting R,20509,Peter Dalgaard BSA
+020514.html,[Rd] A &quot;stack&quot; function,20514,Peter Dalgaard BSA
+020521.html,[Rd] home in Sept,20521,Peter Dalgaard BSA
+020522.html,[Rd] home in Sept,20522,Peter Dalgaard BSA
+020315.html,[Rd] A new way for an Alpha to fail,20315,Douglas Bates
+020340.html,[Rd] Problems with nlme (PR#471),20340,Douglas Bates
+020359.html,[Rd] Error compiling R on RS6000 (PR#475),20359,Douglas Bates
+020379.html,[Rd] check does not accept --vsize option (PR#481),20379,Douglas Bates
+020394.html,[Rd] Error in lme? (PR#488),20394,Douglas Bates
+020498.html,[Rd] R port of acepack,20498,Douglas Bates
+020512.html,[Rd] A &quot;stack&quot; function,20512,Douglas Bates
+020324.html,[Rd] nlm and optional arguments,20324,Ben Bolker
+020437.html,[Rd] followup to graphics bug #414,20437,Ben Bolker
+020465.html,[Rd] segmentation fault with 1D array (PR#500),20465,Ben Bolker
+020468.html,[Rd] segmentation fault with 1D array (PR#500),20468,Ben Bolker
+020489.html,[Rd] Some &quot;new&quot; stuff for hist.R,20489,Ben Bolker
+020436.html,[Rd] R-1.0.0 on alpha/osf1 memory glitch (PR#490),20436,Ray Brownrigg
+020292.html,[Rd] Optimized blas?,20292,Saikat DebRoy
+020300.html,[Rd] using function names as parameters (PR#469),20300,Friedrich.Leisch@ci.tuwien.ac.at
+020519.html,[Rd] home in Sept,20519,Robert Gentleman
+020520.html,[Rd] home in Sept,20520,Robert Gentleman
+020297.html,[Rd] congratulations and thanks,20297,Paul Gilbert
+020306.html,[Rd] StatDataML,20306,Paul Gilbert
+020325.html,[Rd] StatDataML,20325,Paul Gilbert
+020361.html,[Rd] Re: [Omega-devel] StatDataML Description element,20361,Paul Gilbert
+020363.html,[Rd] Re: [Omega-devel] StatDataML Description element,20363,Paul Gilbert
+020365.html,[Rd] Re: [Omega-devel] StatDataML Description element,20365,Paul Gilbert
+020501.html,[Rd] scale,20501,Paul Gilbert
+020508.html,[Rd] scale,20508,Paul Gilbert
+020516.html,[Rd] R CMD build,20516,Paul Gilbert
+020518.html,[Rd] R CMD build,20518,Paul Gilbert
+020425.html,[Rd] d-p-q-r-tests: why is plnorm(exp(Inf)) equal pnorm(Inf)?,20425,Thomas Hoffmann
+020311.html,[Rd] Mathlib,20311,Kurt Hornik
+020397.html,[Rd] solaris without x,20397,Kurt Hornik
+020413.html,[Rd] solaris without x,20413,Kurt Hornik
+020414.html,[Rd] compiling,20414,Kurt Hornik
+020415.html,[Rd] headers needed in gcc,20415,Kurt Hornik
+020422.html,[Rd] -nsl,20422,Kurt Hornik
+020459.html,[Rd] AIX fails on startup with R-1.0.0,20459,Kurt Hornik
+020478.html,[Rd] AIX fails on startup with R-1.0.0,20478,Kurt Hornik
+020527.html,[Rd] AIX fails on startup with R-1.0.0,20527,Kurt Hornik
+020307.html,[Rd] StatDataML,20307,Torsten Hothorn
+020353.html,[Rd] Re: [Omega-devel] StatDataML Description element,20353,Torsten Hothorn
+020362.html,[Rd] Re: [Omega-devel] StatDataML Description element,20362,Torsten Hothorn
+020373.html,[Rd] StatDataML version 0.1-2,20373,Torsten Hothorn
+020391.html,[Rd] Bug in sub? (PR#487),20391,Torsten Hothorn
+020448.html,[Rd] is.null(list()) is FALSE ?,20448,Torsten Hothorn
+020481.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20481,Torsten Hothorn
+020482.html,[Rd] StatDataML &amp; Gnumeric,20482,Torsten Hothorn
+020506.html,[Rd] Porting R,20506,Stefano Iacus
+020283.html,[Rd] &quot;is.qr&quot; definition (PR#465),20283,J.C.Rougier@durham.ac.uk
+020464.html,[Rd] segmentation fault with 1D array (PR#500),20464,J.C.Rougier@durham.ac.uk
+020305.html,[Rd] Re: [Omega-devel] StatDataML,20305,David James
+020477.html,[Rd] Some &quot;new&quot; stuff for hist.R,20477,Kjetil Kjernsmo
+020490.html,[Rd] Some &quot;new&quot; stuff for hist.R,20490,Kjetil Kjernsmo
+020303.html,[Rd] StatDataML,20303,Duncan Temple Lang
+020302.html,[Rd] StatDataML,20302,Friedrich Leisch
+020312.html,[Rd] Re: [Omega-devel] StatDataML,20312,Friedrich Leisch
+020313.html,[Rd] Re: [Omega-devel] StatDataML,20313,Friedrich Leisch
+020314.html,[Rd] StatDataML,20314,Friedrich Leisch
+020343.html,[Rd] Error compiling R on RS6000 (PR#475),20343,Friedrich Leisch
+020372.html,[Rd] README &amp; Apache,20372,Friedrich Leisch
+020472.html,[Rd] clipboard,20472,Friedrich Leisch
+020475.html,[Rd] clipboard,20475,Friedrich Leisch
+020524.html,[Rd] forwarded message from Griffith Feeney,20524,Friedrich Leisch
+020336.html,[Rd] R-crash using cut-and-paste (PR#472),20336,Uwe Ligges
+020371.html,[Rd] Using WinEdt as editor for R,20371,Uwe Ligges
+020435.html,[Rd] windows version,20435,Uwe Ligges
+020476.html,[Rd] 3D-Scatterplot,20476,Uwe Ligges
+020496.html,[Rd] windows version,20496,Uwe Ligges
+020351.html,[Rd] Re: [Omega-devel] StatDataML Description element,20351,Kevin Little
+020296.html,[Rd] Optimized blas?,20296,Thomas Lumley
+020304.html,[Rd] backup signal,20304,Thomas Lumley
+020347.html,[Rd] lm(rnorm(1000)~rnorm(1000)) kills rw1000 (PR#476),20347,Thomas Lumley
+020348.html,[Rd] lm(rnorm(1000)~rnorm(1000)) kills rw1000 (PR#476),20348,Thomas Lumley
+020349.html,[Rd] lm(rnorm(1000)~rnorm(1000)) kills rw1000 (PR#476),20349,Thomas Lumley
+020381.html,"[Rd] plot(1:10,c(1)$nothing)  yields index plot (PR#482)",20381,Thomas Lumley
+020387.html,[Rd] Install R1.0.0 (PR#485),20387,Thomas Lumley
+020405.html,[Rd] question,20405,Thomas Lumley
+020408.html,[Rd] compiling,20408,Thomas Lumley
+020420.html,[Rd] -nsl,20420,Thomas Lumley
+020423.html,[Rd] -nsl,20423,Thomas Lumley
+020426.html,[Rd] d-p-q-r-tests: why is plnorm(exp(Inf)) equal pnorm(Inf)?,20426,Thomas Lumley
+020429.html,[Rd] AIX fails on startup with R-1.0.0,20429,Thomas Lumley
+020453.html,[Rd] par help wrong: xlog &amp; ylog (PR#497),20453,Thomas Lumley
+020454.html,[Rd] is.null(list()) is FALSE ?,20454,Thomas Lumley
+020462.html,[Rd] help system does not work (PR#499),20462,Thomas Lumley
+020484.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20484,Thomas Lumley
+020499.html,[Rd] R port of acepack,20499,Thomas Lumley
+020513.html,[Rd] A &quot;stack&quot; function,20513,Thomas Lumley
+020284.html,[Rd] &quot;is.qr&quot; definition (PR#465),20284,Martin Maechler
+020376.html,"[Rd] problem with plot(...., xlim=c(5,0)) (PR#480)",20376,Martin Maechler
+020400.html,[Rd] headers needed in gcc,20400,Martin Maechler
+020411.html,[Rd] Attachments with bug reports: PLEASE don't,20411,Martin Maechler
+020455.html,[Rd] is.null(list()) is FALSE ?,20455,Martin Maechler
+020503.html,[Rd] scale,20503,Martin Maechler
+020309.html,[Rd] problem with glm (PR#452),20309,Brad McNeney
+020434.html,[Rd] followup to graphics bug #414,20434,Paul Murrell
+020441.html,[Rd] followup to graphics bug #414,20441,Paul Murrell
+020443.html,[Rd] followup to graphics bug #414,20443,Paul Murrell
+020403.html,"[Rd] problem with plot(...., xlim=c(5,0)) (PR#480)",20403,Rashid Nassar
+020396.html,[Rd] solaris without x,20396,Erich Neuwirth
+020399.html,[Rd] headers needed in gcc,20399,Erich Neuwirth
+020401.html,[Rd] question,20401,Erich Neuwirth
+020407.html,[Rd] compiling,20407,Erich Neuwirth
+020409.html,[Rd] solaris without x,20409,Erich Neuwirth
+020419.html,[Rd] lag (PR#491),20419,Erich Neuwirth
+020430.html,[Rd] windows version,20430,Erich Neuwirth
+020494.html,[Rd] windows version,20494,Erich Neuwirth
+020364.html,[Rd] Printing graphs on W98 laptop (PR#477),20364,P.J.Green@bristol.ac.uk
+020288.html,[Rd] Re: R-1.0.0 is released (PR#466),20288,Martyn Plummer
+020289.html,[Rd] Mathlib,20289,Martyn Plummer
+020412.html,[Rd] R-1.0.0 on alpha/osf1 memory glitch (PR#490),20412,Ray.Brownrigg@mcs.vuw.ac.nz
+020290.html,[Rd] Mathlib,20290,Prof Brian Ripley
+020357.html,[Rd] possible BUG with as.data.frame() and/or [.data.frame,20357,Prof Brian Ripley
+020375.html,"[Rd] problem with plot(...., xlim=c(5,0)) (PR#480)",20375,Prof Brian Ripley
+020525.html,[Rd] Re: problem posting to r-help list,20525,Prof Brian Ripley
+020526.html,[Rd] AIX fails on startup with R-1.0.0,20526,Prof Brian Ripley
+020320.html,[Rd] anova-bug in R-version  1.0.0? (PR#470),20320,Prof Brian D Ripley
+020327.html,[Rd] nlm and optional arguments,20327,Prof Brian D Ripley
+020331.html,AW: [Rd] anova-bug in R-version  1.0.0? (PR#470),20331,Prof Brian D Ripley
+020334.html,[Rd] R-crash using cut-and-paste (PR#472),20334,Prof Brian D Ripley
+020346.html,[Rd] lm(rnorm(1000)~rnorm(1000)) kills rw1000 (PR#476),20346,Prof Brian D Ripley
+020370.html,[Rd] Conditional for XDR code left out in saveload.c (PR#478),20370,Prof Brian D Ripley
+020383.html,[Rd] check does not accept --vsize option (PR#481),20383,Prof Brian D Ripley
+020388.html,[Rd] error in par option xaxt (PR#483),20388,Prof Brian D Ripley
+020417.html,[Rd] lag (PR#491),20417,Prof Brian D Ripley
+020493.html,[Rd] windows version,20493,Prof Brian D Ripley
+020495.html,[Rd] Use of Rd2txt on .Rd files from rw-1.0.0 (PR#498),20495,Prof Brian D Ripley
+020517.html,[Rd] R CMD build,20517,Prof Brian D Ripley
+020523.html,[Rd] R CMD build,20523,Prof Brian D Ripley
+020316.html,[Rd] Re: [Omega-devel] StatDataML,20316,A.J. Rossini
+020323.html,[Rd] StatDataML and graphics... I meant to say &quot;SVG&quot;.,20323,A.J. Rossini
+020474.html,[Rd] clipboard,20474,A.J. Rossini
+020308.html,[Rd] StatDataML,20308,Jonathan Rougier
+020504.html,[Rd] Porting R,20504,G. Sawitzki
+020507.html,[Rd] Porting R,20507,G. Sawitzki
+020511.html,[Rd] Porting R,20511,G. Sawitzki
+020450.html,[Rd] par help wrong: xlog &amp; ylog (PR#497),20450,Bill Simpson
+020451.html,[Rd] par help wrong: xlog &amp; ylog (PR#497),20451,Bill Simpson
+020410.html,[Rd] question,20410,Telford Tendys
+020406.html,[Rd] question,20406,Luke Tierney
+020329.html,AW: [Rd] anova-bug in R-version  1.0.0? (PR#470),20329,"Trenkler, Dietrich"
+020338.html,AW: [Rd] R-crash using cut-and-paste (PR#472),20338,"Trenkler, Dietrich"
+020352.html,[Rd] Error compiling R on RS6000 (PR#475),20352,Thomas J Vogels
+020427.html,[Rd] AIX fails on startup with R-1.0.0,20427,Thomas J Vogels
+020431.html,[Rd] R-1.0.0 on alpha/osf1 memory glitch (PR#490),20431,Thomas J Vogels
+020433.html,[Rd] AIX fails on startup with R-1.0.0,20433,Thomas J Vogels
+020439.html,[Rd] R-1.0.0 on alpha/osf1 memory glitch (PR#490),20439,Thomas J Vogels
+020471.html,[Rd] AIX fails on startup with R-1.0.0,20471,Thomas J Vogels
+020500.html,[Rd] AIX fails on startup with R-1.0.0,20500,Thomas J Vogels
+020510.html,[Rd] AIX fails on startup with R-1.0.0,20510,Thomas J Vogels
+020395.html,[Rd] Install R1.0.0 (PR#485),20395,Lynn Zhang
+020384.html,[Rd] error in par option xaxt (PR#483),20384,aim@uwo.ca
+020385.html,[Rd] error in par option xaxt (PR#484),20385,aim@uwo.ca
+020294.html,[Rd] Re: R-1.0.0 is released (PR#466),20294,bacon@aerodyne.com
+020295.html,[Rd] Optimized blas?,20295,bacon@aerodyne.com
+020460.html,[Rd] help system does not work (PR#499),20460,bates@stat.wisc.edu
+020328.html,[Rd] Problems with nlme (PR#471),20328,berwin@maths.uwa.edu.au
+020285.html,[Rd] Re: R-1.0.0 is released (PR#466),20285,bhoel@server.python.net
+020438.html,[Rd] minor problem in barplot legend (PR#494),20438,bolker@zoo.ufl.edu
+020469.html,[Rd] segmentation fault with 1D array (PR#500),20469,bolker@zoo.ufl.edu
+020345.html,[Rd] lm(rnorm(1000)~rnorm(1000)) kills rw1000 (PR#476),20345,cberry@tajo.ucsd.edu
+020380.html,"[Rd] plot(1:10,c(1)$nothing)  yields index plot (PR#482)",20380,cberry@tajo.ucsd.edu
+020497.html,"[Rd] matlines, matpoints don't follow prototype (PR#506)",20497,cberry@tajo.ucsd.edu
+020421.html,[Rd] optim: problem with additional arguments (PR#493),20421,dirk@surfer.sbm.temple.edu
+020318.html,[Rd] anova-bug in R-version  1.0.0? (PR#470),20318,dtrenkler@nts6.oec.uni-osnabrueck.de
+020330.html,AW: [Rd] anova-bug in R-version  1.0.0? (PR#470),20330,dtrenkler@nts6.oec.uni-osnabrueck.de
+020333.html,[Rd] R-crash using cut-and-paste (PR#472),20333,dtrenkler@nts6.oec.uni-osnabrueck.de
+020390.html,[Rd] Bug in sub? (PR#487),20390,dtrenkler@nts6.oec.uni-osnabrueck.de
+020291.html,[Rd] Optimized blas?,20291,gb@stat.umu.se
+020293.html,[Rd] R and lapack/linpack,20293,gb@stat.umu.se
+020369.html,[Rd] Conditional for XDR code left out in saveload.c (PR#478),20369,hoffmann@ehmgs2.et.tu-dresden.de
+020298.html,[Rd] using function names as parameters (PR#469),20298,hothorn@ci.tuwien.ac.at
+020339.html,[Rd] update fails after specific sequence of steps (PR#474),20339,jfox@mcmaster.ca
+020457.html,[Rd] help system does not work (PR#499),20457,jgm@qed.econ.queensu.ca
+020461.html,[Rd] help system does not work (PR#499),20461,jgm@qed.econ.queensu.ca
+020456.html,[Rd] Use of Rd2txt on .Rd files from rw-1.0.0 (PR#498),20456,john.maindonald@anu.edu.au
+020416.html,[Rd] lag (PR#491),20416,kthaka@uta.fi
+020480.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20480,lbaring@stochastik.uni-hannover.de
+020386.html,[Rd] Install R1.0.0 (PR#485),20386,lyzhang@umich.edu
+020335.html,[Rd] autoload error in profile {was anova-bug in R-version  1.0.0?} (PR#470),20335,maechler@stat.math.ethz.ch
+020389.html,[Rd] Re: autoload error in profile {was anova-bug in R-version  1.0.0?} (PR#486),20389,maechler@stat.math.ethz.ch
+020452.html,[Rd] par help wrong: xlog &amp; ylog (PR#497),20452,maechler@stat.math.ethz.ch
+020458.html,[Rd] minor problem in barplot legend (PR#494),20458,maechler@stat.math.ethz.ch
+020378.html,[Rd] check does not accept --vsize option (PR#481),20378,neteler@geog.uni-hannover.de
+020286.html,[Rd] Re: [R] Re: R-1.0.0 is released (PR#467),20286,p.dalgaard@biostat.ku.dk
+020301.html,[Rd] using function names as parameters (PR#469),20301,p.dalgaard@biostat.ku.dk
+020322.html,[Rd] anova-bug in R-version  1.0.0? (PR#470),20322,p.dalgaard@biostat.ku.dk
+020486.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20486,p.dalgaard@biostat.ku.dk
+020342.html,[Rd] Error compiling R on RS6000 (PR#475),20342,pgutwin@us.ibm.com
+020366.html,[Rd] Error compiling R on RS6000 (PR#475),20366,pgutwin@us.ibm.com
+020367.html,[Rd] Error compiling R on RS6000 (PR#475),20367,pgutwin@us.ibm.com
+020337.html,[Rd] Re: autoload error in profile {was anova-bug in R-version  1.0.0?} (PR#473),20337,ripley@stats.ox.ac.uk
+020374.html,"[Rd] problem with plot(...., xlim=c(5,0)) (PR#480)",20374,rnassar@duke.edu
+020402.html,"[Rd] problem with plot(...., xlim=c(5,0)) (PR#480)",20402,rnassar@duke.edu
+020418.html,[Rd] the R bug (PR#492),20418,robertasg@takas.lt
+020479.html,"[Rd] kernel {ts}, kernel.dirichlet calling with one arg (PR#501)",20479,santini@dsi.unimi.it
+020393.html,[Rd] Error in lme? (PR#488),20393,simon.frost@ed.ac.uk
+020445.html,[Rd] barplot (PR#495),20445,skala@incoma.cz
+020485.html,[Rd] quantiles of the hypergeometric distribution (PR#502),20485,thomas@biostat.washington.edu
+020491.html,[Rd] new save code and DOTSXP (PR#504),20491,thomas@biostat.washington.edu
+020492.html,[Rd] interrupted save (PR#505),20492,thomas@biostat.washington.edu
+020488.html,[Rd] dmvnorm() bug in e1071 (PR#503),20488,warnes@biostat.washington.edu
+020447.html,[Rd] par help wrong: xlog &amp; ylog (PR#497),20447,wsi@gcal.ac.uk

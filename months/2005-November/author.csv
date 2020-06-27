@@ -1,0 +1,319 @@
+link,Subject,id,author
+035535.html,[Rd] Scan data from a .txt file,35535,Vasundhara Akkineni
+035553.html,[Rd] Image display in R,35553,Vasundhara Akkineni
+035645.html,[Rd] read.table without sep,35645,Vasundhara Akkineni
+035580.html,[Rd] windrose (circular package) error in table (PR#8341),35580,Allyson.Williams at dpi.qld.gov.au
+035438.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35438,Henrik Bengtsson
+035478.html,[Rd] Request: read.table() - argument 'flush' to be passed to scan(),35478,Henrik Bengtsson
+035607.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35607,Henrik Bengtsson
+035622.html,[Rd] Infinite recursion in S3 methods crashes R on windows (related to PR#8203?),35622,Henrik Bengtsson
+035623.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35623,Henrik Bengtsson
+035650.html,[Rd] list.files(recursive=T) does not return directory names,35650,Henrik Bengtsson
+035420.html,[Rd] dgamma error condition?,35420,Ben Bolker
+035444.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35444,Ben Bolker
+035458.html,[Rd] dgamma error condition?,35458,Ben Bolker
+035563.html,[Rd] minor suggestion for optim documentation,35563,Ben Bolker
+035559.html,[Rd] problem with \eqn (PR#8322),35559,Ross Boylan
+035606.html,[Rd] problem with \eqn (PR#8322),35606,Ross Boylan
+035619.html,[Rd] Makefiles and other customization,35619,Ross Boylan
+035621.html,[Rd] Makefiles and other customization,35621,Ross Boylan
+035609.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35609,Patrick Burns
+035556.html,[Rd] using a factor as col argument in plot:,35556,Christoph Buser
+035582.html,[Rd] using a factor as col argument in plot:,35582,Christoph Buser
+035522.html,[Rd] two-way communication using Unix pipes,35522,Jonathan Callahan
+035598.html,[Rd] failure in `setClass' examples,35598,John Chambers
+035636.html,[Rd] write.csv,35636,Florence Combes
+035538.html,[Rd] Matrix (PR#8321),35538,Cougar at psu.edu
+035393.html,[Rd] configure error under  FC 4 64 bit (PR#8276),35393,Peter Dalgaard
+035397.html,[Rd] shared-mime-info (PR#8278),35397,Peter Dalgaard
+035415.html,[Rd] shared-mime-info (PR#8278),35415,Peter Dalgaard
+035418.html,[Rd] shared-mime-info (PR#8278),35418,Peter Dalgaard
+035423.html,[Rd] shared-mime-info (PR#8278),35423,Peter Dalgaard
+035483.html,[Rd] # symbol in input data (PR#8296),35483,Peter Dalgaard
+035491.html,[Rd] Recursive dependencies(Rcmdr),35491,Peter Dalgaard
+035518.html,[Rd] Malformed package name (PR#8314),35518,Peter Dalgaard
+035536.html,[Rd] Problem with fitdistr for gamma in R 2.2.0,35536,Peter Dalgaard
+035572.html,[Rd] mapply() gives seg fault (PR#8332),35572,Peter Dalgaard
+035611.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35611,Peter Dalgaard
+035629.html,[Rd] Infinite recursion in S3 methods crashes R on windows	(related to PR#8203?),35629,Peter Dalgaard
+035640.html,[Rd] write.csv ignores 'row.names',35640,Peter Dalgaard
+035676.html,[Rd] multinom crashes (when I do something stupid) (PR#8358),35676,Peter Dalgaard
+035488.html,[Rd] FW: Re: (Case 843) Recon-X msg: &quot;Failed to get the list of	instances: Server's ssh public key does not match our private	ssh key&quot;,35488,Latchezar Dimitrov
+035435.html,[Rd] How to make install DESTDIR=,35435,Dirk Eddelbuettel
+035534.html,[Rd] Problem with fitdistr for gamma in R 2.2.0,35534,P Ehlers
+035539.html,[Rd] Problem with fitdistr for gamma in R 2.2.0,35539,P Ehlers
+035540.html,[Rd] Matrix (PR#8321),35540,P Ehlers
+035543.html,[Rd] Matrix (PR#8321),35543,P Ehlers
+035648.html,[Rd] &quot;integrate&quot; error using a constant function (PR#8348),35648,P Ehlers
+035566.html,[Rd] A problem with glm() and possibly model-using functions in	general?,35566,Byron Ellis
+035569.html,[Rd] A problem with glm() and possibly model-using functions in	general?,35569,Byron Ellis
+035442.html,[Rd] mosaicplot() update,35442,John W Emerson
+035445.html,[Rd] mosaicplot() update,35445,John W Emerson
+035449.html,[Rd] mosaicplot() update,35449,John W Emerson
+035454.html,[Rd] mosaicplot() update and clarification,35454,John W Emerson
+035370.html,[Rd] S4 classes in existing packages,35370,Jeff Enos
+035379.html,[Rd] S4 classes in existing packages,35379,Jeff Enos
+035498.html,[Rd] Help finding some code in the R source code,35498,Greg Evans
+035371.html,[Rd] S4 classes in existing packages,35371,Seth Falcon
+035436.html,[Rd] clarification of library/require semantics,35436,Seth Falcon
+035578.html,"[Rd] NAMESPACE, S4, and .onLoad",35578,Seth Falcon
+035602.html,[Rd] ANN: R for Bioinformatics (advanced R programming) Course,35602,Seth Falcon
+035614.html,[Rd] winMenuAdd,35614,Seth Falcon
+035655.html,[Rd] segfault on write.dcf with gzfile connection,35655,Seth Falcon
+035657.html,[Rd] segfault on write.dcf with gzfile connection,35657,Seth Falcon
+035617.html,[Rd] Infinite recursion in S3 methods crashes R on windows (related	to PR#8203?),35617,Rich FitzJohn
+035493.html,[Rd] Recursive dependencies(Rcmdr),35493,John Fox
+035652.html,"[Rd] When, where,	and how to report bugs [was Rcmdr for Tiger Mac OS not running	(PR#8350)]",35652,John Fox
+035505.html,[Rd] Dead link in documentation for dbinom,35505,Ivan Frohne
+035460.html,[Rd] R build under mandriva 10.2,35460,Gilles GUILLOT
+035672.html,[Rd] R binomial RNG stuck at 1 via Fortran call,35672,Gilles GUILLOT
+035673.html,[Rd] R binomial RNG stuck at 1 via Fortran call,35673,Gilles GUILLOT
+035674.html,[Rd] R binomial RNG stuck at 1 via Fortran call,35674,Gilles GUILLOT
+035678.html,[Rd] RNG stuck via Fortran call,35678,Gilles GUILLOT
+035428.html,[Rd] clarification of library/require semantics,35428,Robert Gentleman
+035405.html,[Rd] proposal to make loadings() generic in R-devel,35405,Paul Gilbert
+035546.html,[Rd] Problem with fitdistr for gamma in R 2.2.0,35546,Gregor Gorjanc
+035490.html,[Rd] Writing new probability functions,35490,Vincent Goulet
+035618.html,[Rd] qbinom returns NaN,35618,Spencer Graves
+035533.html,[Rd] Problem with fitdistr for gamma in R 2.2.0,35533,Gorjanc Gregor
+035384.html,[Rd] strsplit ignores empty fields (PR#8271),35384,Gabor Grothendieck
+035502.html,[Rd] Package manpage DCF hooks,35502,Gabor Grothendieck
+035514.html,[Rd] Bug or a feature that I completely missed?,35514,Gabor Grothendieck
+035670.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35670,Gabor Grothendieck
+035666.html,[Rd] buglet in ?StructTS,35666,Kjetil Brinchmann Halvorsen
+035669.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35669,Robin Hankin
+035671.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35671,Robin Hankin
+035474.html,[Rd] Packages that require other packages - How?,35474,Kasper Daniel Hansen
+035620.html,[Rd] Makefiles and other customization,35620,Kasper Daniel Hansen
+035589.html,[Rd] make check fails for R 2.3.0 (PR#8343),35589,Arne Henningsen
+035595.html,[Rd] make check fails for R 2.3.0 (PR#8343),35595,Arne Henningsen
+035608.html,[Rd] nls and weigthing the fit,35608,Joerg van den Hoff
+035567.html,[Rd] problem with \eqn (PR#8322),35567,Kurt Hornik
+035616.html,[Rd] [PATCH] Add fpicflags for Intel(R) Fortran	Compiler	(PR#8344),35616,Kurt Hornik
+035627.html,[Rd] problem with \eqn (PR#8322),35627,Kurt Hornik
+035628.html,[Rd] Makefiles and other customization,35628,Kurt Hornik
+035439.html,[Rd] Classification Trees and basic Random Forest pkg using	tree structures in C,35439,Torsten Hothorn
+035456.html,[Rd] mosaicplot() update and clarification,35456,Torsten Hothorn
+035468.html,[Rd] useR! 2006: submission &amp; registration started!,35468,Torsten Hothorn
+035422.html,[Rd] Classification Trees and basic Random Forest pkg using tree	structures in C,35422,"Izmirlian, Grant (NIH/NCI)"
+035429.html,[Rd] Classification Trees and basic Random Forest pkg using	tree structures in C,35429,"Izmirlian, Grant (NIH/NCI)"
+035372.html,[Rd] S4 classes in existing packages,35372,Matthias Kohl
+035660.html,[Rd] import of Namespaces,35660,Matthias Kohl
+035451.html,[Rd] R thread safe,35451,Duncan Temple Lang
+035542.html,[Rd] Matrix (PR#8321),35542,Cougar Lawrence
+035426.html,[Rd] Classification Trees and basic Random Forest pkg using tree structures in C,35426,Hin-Tak Leung
+035427.html,[Rd] R-2.2.0 Compile problem on Slackware 10.2,35427,Hin-Tak Leung
+035441.html,[Rd] Classification Trees and basic Random Forest pkg using t ree structures in C,35441,Hin-Tak Leung
+035470.html,[Rd] R build under mandriva 10.2,35470,Hin-Tak Leung
+035555.html,[Rd] problem with \eqn (PR#8322),35555,Hin-Tak Leung
+035560.html,[Rd] problem with \eqn (PR#8322),35560,Hin-Tak Leung
+035574.html,[Rd] problem with \eqn (PR#8322),35574,Hin-Tak Leung
+035575.html,[Rd] problem with \eqn (PR#8322),35575,Hin-Tak Leung
+035605.html,[Rd] problem with \eqn (PR#8322),35605,Hin-Tak Leung
+035380.html,[Rd] S4 classes in existing packages,35380,"Liaw, Andy"
+035430.html,[Rd] Classification Trees and basic Random Forest pkg using t ree structures in C,35430,"Liaw, Andy"
+035591.html,[Rd] make check fails for R 2.3.0 (PR#8343),35591,"Liaw, Andy"
+035612.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35612,"Liaw, Andy"
+035549.html,[Rd] Matrix (PR#8321),35549,Uwe Ligges
+035564.html,[Rd] problem with \eqn (PR#8322),35564,Uwe Ligges
+035604.html,[Rd] winMenuAdd,35604,Uwe Ligges
+035377.html,[Rd] [R] unvectorized option for outer(),35377,Thomas Lumley
+035568.html,[Rd] A problem with glm() and possibly model-using functions in general?,35568,Thomas Lumley
+035597.html,[Rd] failure in `setClass' examples,35597,Sebastian Luque
+035599.html,[Rd] failure in `setClass' examples,35599,Sebastian Luque
+035665.html,[Rd] Proposed Patch for table.Rd,35665,Marc Schwartz (via MN)
+035684.html,[Rd] Building a windows binary of a package on Linux,35684,Marc Schwartz (via MN)
+035477.html,[Rd]  bug in windows GUI/script editor (PR#8288),35477,Duncan Mackay
+035479.html,[Rd]  bug in windows GUI/script editor (PR#8288),35479,Duncan Mackay
+035412.html,[Rd] Alpha and Beta testing of R versions,35412,Martin Maechler
+035450.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35450,Martin Maechler
+035508.html,[Rd] Dead link in documentation for dbinom,35508,Martin Maechler
+035509.html,[Rd] Package manpage DCF hooks,35509,Martin Maechler
+035516.html,[Rd] Package manpage DCF hooks,35516,Martin Maechler
+035565.html,[Rd] challenge: using 'subset = &lt;computed&gt;' inside function ..,35565,Martin Maechler
+035594.html,[Rd] make check fails for R 2.3.0 (PR#8343),35594,Martin Maechler
+035654.html,[Rd] Help page of &quot;par&quot;,35654,Martin Maechler
+035659.html,[Rd] as.data.frame() : needs &quot;...&quot; ?!,35659,Martin Maechler
+035570.html,[Rd] challenge: using 'subset = &lt;computed&gt;' inside function ..,35570,Bj&#248;rn-Helge Mevik
+035413.html,[Rd]  Alpha and Beta testing of R versions,35413,David Meyer
+035601.html,[Rd] winMenuAdd,35601,Martin Morgan
+035642.html,[Rd] Windows R CMD build &lt;pkg&gt; leftovers,35642,Martin Morgan
+035592.html,[Rd] install.packages in R 2.2.0,35592,Iago Mosqueira
+035376.html,[Rd] [R] unvectorized option for outer(),35376,Duncan Murdoch
+035381.html,[Rd] [R] unvectorized option for outer(),35381,Duncan Murdoch
+035382.html,[Rd] spyware detected (PR#8270),35382,Duncan Murdoch
+035390.html,[Rd] Documentation error in online help for print.data.frame (PR#8273),35390,Duncan Murdoch
+035394.html,[Rd] unvectorized option for outer(),35394,Duncan Murdoch
+035409.html,[Rd] Changes to environments in R-devel,35409,Duncan Murdoch
+035472.html,[Rd] Packages that require other packages - How?,35472,Duncan Murdoch
+035476.html,[Rd] Packages that require other packages - How?,35476,Duncan Murdoch
+035480.html,[Rd] bug in windows GUI/script editor (PR#8288),35480,Duncan Murdoch
+035484.html,[Rd] R:  bug in windows GUI/script editor (PR#8288),35484,Duncan Murdoch
+035485.html,[Rd] R:  bug in windows GUI/script editor (PR#8288),35485,Duncan Murdoch
+035537.html,[Rd] Scan data from a .txt file,35537,Duncan Murdoch
+035551.html,[Rd] pr[in]comp: predict single observation when data has colnames (PR#8324),35551,Duncan Murdoch
+035554.html,[Rd] Image display in R,35554,Duncan Murdoch
+035562.html,[Rd] problem with \eqn (PR#8322),35562,Duncan Murdoch
+035581.html,[Rd] windrose (circular package) error in table (PR#8341),35581,Duncan Murdoch
+035632.html,[Rd] Changes to Windows registry in R-2.2.0,35632,Duncan Murdoch
+035679.html,[Rd] Building a windows binary of a package on Linux,35679,Duncan Murdoch
+035680.html,[Rd] RNG stuck via Fortran call,35680,Duncan Murdoch
+035682.html,[Rd] Building a windows binary of a package on Linux,35682,Duncan Murdoch
+035424.html,[Rd] R-2.2.0 Compile problem on Slackware 10.2,35424,R S Ananda Murthy
+035432.html,[Rd] R-2.2.0 Compile problem on Slackware 10.2,35432,R S Ananda Murthy
+035434.html,[Rd] How to make install DESTDIR=,35434,R S Ananda Murthy
+035447.html,[Rd] R thread safe,35447,Olaf.Schenk at unibas.ch
+035473.html,[Rd] Packages that require other packages - How?,35473,Roger Peng
+035635.html,[Rd] write.csv,35635,Roger Peng
+035638.html,[Rd] write.csv ignores 'row.names',35638,Roger Peng
+035639.html,[Rd] write.csv ignores 'row.names',35639,Roger Peng
+035374.html,[Rd] S4 classes in existing packages,35374,"Pfaff, Bernhard Dr."
+035662.html,[Rd] No Rmath.h when making just standalone library,35662,Jussi Piitulainen
+035573.html,[Rd] mapply() gives seg fault (PR#8332),35573,Fran&#231;ois Pinard
+035465.html,[Rd] R thread safe,35465,Andrew Piskorski
+035624.html,"[Rd] x[1,], x[1,,], x[1,,,], ...",35624,Tony Plate
+035373.html,[Rd] S4 classes in existing packages,35373,Prof Brian Ripley
+035375.html,[Rd] Yates' correction for continuity in chisq.test (PR#8265),35375,Prof Brian Ripley
+035398.html,[Rd] shared-mime-info (PR#8278),35398,Prof Brian Ripley
+035402.html,[Rd] typo in browse.pkgs,35402,Prof Brian Ripley
+035404.html,[Rd] typo in browse.pkgs,35404,Prof Brian Ripley
+035414.html,[Rd] Alpha and Beta testing of R versions,35414,Prof Brian Ripley
+035421.html,[Rd] Changes to environments in R-devel,35421,Prof Brian Ripley
+035425.html,[Rd] R-2.2.0 Compile problem on Slackware 10.2,35425,Prof Brian Ripley
+035431.html,[Rd] clarification of library/require semantics,35431,Prof Brian Ripley
+035443.html,[Rd] mosaicplot() update,35443,Prof Brian Ripley
+035455.html,[Rd] dgamma error condition?,35455,Prof Brian Ripley
+035461.html,[Rd] R-2.2.0: malloc probelm in regex code (PR#8287),35461,Prof Brian Ripley
+035492.html,[Rd] Recursive dependencies(Rcmdr),35492,Prof Brian Ripley
+035503.html,[Rd] optimized BLAS,35503,Prof Brian Ripley
+035515.html,[Rd] Bug or a feature that I completely missed?,35515,Prof Brian Ripley
+035525.html,[Rd] Problem with R.2.2 &quot;No rule to make target `d:/prog/r/rw2011/include/R.h&quot;,35525,Prof Brian Ripley
+035528.html,[Rd] two-way communication using Unix pipes,35528,Prof Brian Ripley
+035547.html,[Rd] R-exts.texi in SVN version 36380,35547,Prof Brian Ripley
+035557.html,[Rd] using a factor as col argument in plot:,35557,Prof Brian Ripley
+035585.html,"[Rd] NAMESPACE, S4, and .onLoad",35585,Prof Brian Ripley
+035603.html,[Rd] make check fails for R 2.3.0 (PR#8343),35603,Prof Brian Ripley
+035610.html,[Rd] winMenuAdd,35610,Prof Brian Ripley
+035613.html,[Rd] [PATCH] Add fpicflags for Intel(R) Fortran Compiler	(PR#8344),35613,Prof Brian Ripley
+035615.html,[Rd] [PATCH] Add fpicflags for Intel(R) Fortran Compiler	(PR#8344),35615,Prof Brian Ripley
+035625.html,[Rd] Infinite recursion in S3 methods crashes R on windows (related to PR#8203?),35625,Prof Brian Ripley
+035626.html,[Rd] qbinom returns NaN,35626,Prof Brian Ripley
+035630.html,[Rd] winMenuAdd,35630,Prof Brian Ripley
+035637.html,[Rd] write.csv,35637,Prof Brian Ripley
+035641.html,[Rd] write.csv ignores 'row.names',35641,Prof Brian Ripley
+035644.html,[Rd] Buliding a package (on Windows) does not produce libs directory,35644,Prof Brian Ripley
+035656.html,[Rd] segfault on write.dcf with gzfile connection,35656,Prof Brian Ripley
+035658.html,[Rd] segfault on write.dcf with gzfile connection,35658,Prof Brian Ripley
+035663.html,[Rd] No Rmath.h when making just standalone library,35663,Prof Brian Ripley
+035667.html,[Rd] Proposed Patch for table.Rd,35667,Prof Brian Ripley
+035683.html,[Rd] Building a windows binary of a package on Linux,35683,Prof Brian Ripley
+035437.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35437,Andrew Robinson
+035452.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35452,Andrew Robinson
+035440.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35440,Paul Roebuck
+035501.html,[Rd] Package manpage DCF hooks,35501,Paul Roebuck
+035506.html,[Rd] Package manpage DCF hooks,35506,Paul Roebuck
+035512.html,[Rd] Package manpage DCF hooks,35512,Paul Roebuck
+035530.html,[Rd] two-way communication using Unix pipes,35530,Paul Roebuck
+035577.html,[Rd] shared-mime-info (PR#8278),35577,Paul Roebuck
+035579.html,"[Rd] NAMESPACE, S4, and .onLoad",35579,Paul Roebuck
+035524.html,[Rd] two-way communication using Unix pipes,35524,Barry Rowlingson
+035646.html,[Rd] 'partial' in sort() inefficient?,35646,Deepayan Sarkar
+035687.html,[Rd] [ANN] bash completion for R,35687,Deepayan Sarkar
+035401.html,[Rd] typo in browse.pkgs,35401,G. Sawitzki
+035403.html,[Rd] typo in browse.pkgs,35403,G. Sawitzki
+035633.html,[Rd] write.csv,35633,Sven Schaltenbrand
+035471.html,[Rd] Packages that require other packages - How?,35471,Gavin Simpson
+035634.html,[Rd] write.csv,35634,Gavin Simpson
+035677.html,[Rd] Building a windows binary of a package on Linux,35677,Gavin Simpson
+035681.html,[Rd] Building a windows binary of a package on Linux,35681,Gavin Simpson
+035685.html,[Rd] Building a windows binary of a package on Linux,35685,Gavin Simpson
+035686.html,[Rd] \dQuote{} in \code{} not processed,35686,Gavin Simpson
+035631.html,[Rd] Changes to Windows registry in R-2.2.0,35631,Len Thomas
+035529.html,[Rd] Newsletter Evolution Travel,35529,Evolution Travel
+035411.html,"[Rd] small bug in gl1ce, package lasso2 (PR#8280)",35411,Berwin A Turlach
+035495.html,[Rd] Suggested changes to R-lang.texi and R-exts.texi,35495,Berwin A Turlach
+035513.html,[Rd] Bug or a feature that I completely missed?,35513,Berwin A Turlach
+035545.html,[Rd] R-exts.texi in SVN version 36380,35545,Berwin A Turlach
+035653.html,[Rd] Help page of &quot;par&quot;,35653,Berwin A Turlach
+035406.html,[Rd] typo in browse.pkgs,35406,Simon Urbanek
+035417.html,[Rd] Alpha and Beta testing of R versions,35417,Simon Urbanek
+035497.html,[Rd] Memory allocation (PR#8304),35497,Simon Urbanek
+035499.html,[Rd] Help finding some code in the R source code,35499,Simon Urbanek
+035504.html,[Rd] typo in as.POSIXlt.Rd (PR#8309),35504,Weigand.Stephen at mayo.edu
+035507.html,[Rd] Typo in isR.Rd (PR#8310),35507,Weigand.Stephen at mayo.edu
+035523.html,[Rd] Problem with R.2.2 &quot;No rule to make target	`d:/prog/r/rw2011/include/R.h&quot;,35523,Witold Eryk Wolski
+035527.html,[Rd] Problem with R.2.2 &quot;No rule to make target	`d:/prog/r/rw2011/include/R.h&quot;,35527,Witold Eryk Wolski
+035446.html,[Rd] mosaicplot() update,35446,Achim Zeileis
+035448.html,[Rd] mosaicplot() update,35448,Achim Zeileis
+035457.html,[Rd] mosaicplot() update and clarification,35457,Achim Zeileis
+035399.html,[Rd] shared-mime-info (PR#8278),35399,Vaidotas Zemlys
+035416.html,[Rd] shared-mime-info (PR#8278),35416,Vaidotas Zemlys
+035643.html,[Rd] Buliding a package (on Windows) does not produce libs directory,35643,Ales Ziberna
+035489.html,[Rd] fSeries armaFit problem,35489,Zuraniewski
+035586.html,[Rd] make check fails for R 2.3.0 (PR#8343),35586,ahenningsen at email.uni-kiel.de
+035590.html,[Rd] make check fails for R 2.3.0 (PR#8343),35590,ahenningsen at email.uni-kiel.de
+035383.html,[Rd] strsplit ignores empty fields (PR#8271),35383,beissbarth at wehi.edu.au
+035550.html,[Rd] pr[in]comp: predict single observation when data has colnames	(PR#8324),35550,bhx5 at mevik.net
+035649.html,[Rd] list.files(recursive=T) does not return directory names,35649,bill at insightful.com
+035388.html,[Rd] Documentation error in online help for print.data.frame	(PR#8273),35388,ch-r at bobobeach.com
+035385.html,[Rd] Im() of negative non-complex numbers is pi (PR#8272),35385,davison at uchicago.edu
+035386.html,[Rd] Im() of negative non-complex numbers is pi (PR#8272),35386,davison at uchicago.edu
+035651.html,[Rd] Rcmdr for Tiger Mac OS not running (PR#8350),35651,glsmah001 at mail.uct.ac.za
+035459.html,[Rd] R-2.2.0: malloc probelm in regex code (PR#8287),35459,gml4410 at ggr.co.uk
+035496.html,[Rd] Memory allocation (PR#8304),35496,hans.kestler at gmail.com
+035561.html,[Rd] problem with \eqn (PR#8322),35561,hin-tak.leung at cimr.cam.ac.uk
+035407.html,"[Rd] small bug in gl1ce, package lasso2 (PR#8279)",35407,izmirlig at mail.nih.gov
+035408.html,"[Rd] small bug in gl1ce, package lasso2 (PR#8280)",35408,izmirlig at mail.nih.gov
+035647.html,[Rd] &quot;integrate&quot; error using a constant function (PR#8348),35647,joelpf at u.washington.edu
+035391.html,[Rd] Bugs/issues with model.tables() (PR#8275),35391,john.maindonald at anu.edu.au
+035378.html,[Rd] spyware detected (PR#8270),35378,kin.chan at yale.edu
+035588.html,[Rd] [PATCH] Add fpicflags for Intel(R) Fortran Compiler (PR#8344),35588,kugelfang at gentoo.org
+035596.html,[Rd] [PATCH] Add fpicflags for Intel(R) Fortran Compiler	(PR#8344),35596,kugelfang at gentoo.org
+035576.html,[Rd] formatC adds leading space to exponential format (PR#8337),35576,kwright68 at gmail.com
+035469.html,[Rd] bug in windows GUI/script editor (PR#8288),35469,ligges at statistik.uni-dortmund.de
+035526.html,[Rd] PPC package-ppc.read.raw.nobatch (PR#8316),35526,ligges at statistik.uni-dortmund.de
+035519.html,[Rd] Malformed package name (PR#8314),35519,maechler at stat.math.ethz.ch
+035558.html,[Rd] problem with \eqn (PR#8322),35558,maechler at stat.math.ethz.ch
+035583.html,[Rd] (PR#8337)  formatC adds leading space -- on some Windoze,35583,maechler at stat.math.ethz.ch
+035668.html,[Rd] (PR#8337)  formatC adds leading space -- on some Windoze,35668,maechler at stat.math.ethz.ch
+035521.html,[Rd] PPC package-ppc.read.raw.nobatch (PR#8316),35521,martin.o'gorman at nonlinear.com
+035500.html,"[Rd] Typo in R-Intro, v. 2.2.0, sec. 8.1 (PR#8299)",35500,mcallaha at mitre.org
+035395.html,[Rd] shared-mime-info (PR#8278),35395,mpiktas at gmail.com
+035400.html,[Rd] shared-mime-info (PR#8278),35400,mpiktas at gmail.com
+035389.html,[Rd] Documentation error in online help for print.data.frame	(PR#8274),35389,murdoch at stats.uwo.ca
+035463.html,[Rd] bug in windows GUI/script editor (PR#8288),35463,murdoch at stats.uwo.ca
+035486.html,[Rd] R:  bug in windows GUI/script editor (PR#8288),35486,murdoch at stats.uwo.ca
+035552.html,[Rd] pr[in]comp: predict single observation when data has	colnames (PR#8325),35552,murdoch at stats.uwo.ca
+035487.html,[Rd] Problem with C code under R2.2 only.,35487,nwew
+035419.html,[Rd] shared-mime-info (PR#8278),35419,p.dalgaard at biostat.ku.dk
+035544.html,[Rd] PR#8282,35544,pdbailey at uchicago.edu
+035517.html,[Rd] Malformed package name (PR#8314),35517,petrakl at zce.cz
+035571.html,[Rd] mapply() gives seg fault (PR#8332),35571,pinard at iro.umontreal.ca
+035387.html,[Rd] Im() of negative non-complex numbers is pi (PR#8272),35387,ripley at stats.ox.ac.uk
+035396.html,[Rd] shared-mime-info (PR#8278),35396,ripley at stats.ox.ac.uk
+035410.html,"[Rd] small bug in gl1ce, package lasso2 (PR#8280)",35410,ripley at stats.ox.ac.uk
+035511.html,[Rd] Bug in the example of function optim() (PR#8312),35511,ripley at stats.ox.ac.uk
+035520.html,[Rd] Malformed package name (PR#8314),35520,ripley at stats.ox.ac.uk
+035532.html,[Rd] Principal Components Analysis (PR#8320),35532,ripley at stats.ox.ac.uk
+035548.html,[Rd] PR#8282,35548,ripley at stats.ox.ac.uk
+035584.html,[Rd] (PR#8337)  formatC adds leading space -- on some Windoze,35584,ripley at stats.ox.ac.uk
+035587.html,[Rd] make check fails for R 2.3.0 (PR#8343),35587,ripley at stats.ox.ac.uk
+035593.html,[Rd] [PATCH] Add fpicflags for Intel(R) Fortran Compiler	(PR#8344),35593,ripley at stats.ox.ac.uk
+035664.html,[Rd] terms.object documentation bug? (PR#8353),35664,ripley at stats.ox.ac.uk
+035675.html,[Rd] multinom crashes (when I do something stupid) (PR#8358),35675,rob.foxall at bbsrc.ac.uk
+035392.html,[Rd] configure error under  FC 4 64 bit (PR#8276),35392,rob at aetiologic.ca
+035462.html,[Rd] bug in windows GUI/script editor (PR#8288),35462,roberto.ugoccioni at sanpaoloimi.com
+035482.html,[Rd] R:  bug in windows GUI/script editor (PR#8288),35482,roberto.ugoccioni at sanpaoloimi.com
+035433.html,[Rd] read.fwf; bug reports 8226 &amp; 8236 (PR#8284),35433,rolf at math.unb.ca
+035541.html,[Rd] problem with \eqn (PR#8322),35541,ross at biostat.ucsf.edu
+035661.html,[Rd] terms.object documentation bug? (PR#8353),35661,s.wood at bath.ac.uk
+035531.html,[Rd] Principal Components Analysis (PR#8320),35531,sarkar at mail.utexas.edu
+035481.html,[Rd] # symbol in input data (PR#8296),35481,scanrikpr at sbcglobal.net
+035464.html,[Rd] [OTAnn] Feedback,35464,shenanigans
+035600.html,[Rd] Inaccurate documentation for qr.R and qr.Q (PR#8347),35600,sims at Princeton.EDU
+035466.html,[Rd] R CMD Sd2Rd a.sgml &gt; a.Rd does not recognize &lt;code&gt; tag	(PR#8289),35466,timh at insightful.com
+035467.html,[Rd] R CMD Rdconv file.Rd --type=Ssgm \code{x} should use &lt;code&gt;	(PR#8290),35467,timh at insightful.com
+035494.html,[Rd] configure on solaris 2.9 with non GNU compilers (PR#8300),35494,toby.m at mail.utexas.edu
+035475.html,[Rd] News Letter - Voiles News magazine - n?43 - 8 novembre 2005	(PR#8294),35475,voilesnews.newsletter at wanadoo.fr
+035453.html,[Rd] Brainstorm: Alpha and Beta testing of R versions,35453,hadley wickham
+035510.html,[Rd] Bug in the example of function optim() (PR#8312),35510,wolfgang.lederer at stat.uni-muenchen.de

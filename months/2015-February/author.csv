@@ -1,0 +1,149 @@
+link,Subject,id,author
+070621.html,[Rd] WISH: eval() to preserve the &quot;visibility&quot; (now value is	always visible),70621,Suharto Anggono Suharto Anggono
+070626.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70626,Mario Annau
+070636.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70636,Mario Annau
+070683.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70683,Mario Annau
+070594.html,[Rd] A good way to debug a c++ library embedded to R code,70594,Gabriel Becker
+070609.html,[Rd] Rcurl crash in R-devel,70609,Gabriel Becker
+070658.html,[Rd] Different serialization of functions in interactive vs. batch mode,70658,Gabriel Becker
+070662.html,[Rd] Different serialization of functions in interactive vs. batch mode,70662,Gabriel Becker
+070665.html,[Rd] Package functioning with R but not R-devel,70665,Gabriel Becker
+070583.html,[Rd] libcurl support and curlGetHeaders warning message in R CMD check,70583,Skye Bender-deMoll
+070695.html,[Rd] alternatives to do.call() when namespace is attached but not	loaded?,70695,Skye Bender-deMoll
+070578.html,[Rd] Output to &quot;raw console&quot; rather than stdout/stderr?,70578,Henrik Bengtsson
+070580.html,[Rd] Output to &quot;raw console&quot; rather than stdout/stderr?,70580,Henrik Bengtsson
+070611.html,[Rd] WISH: eval() to preserve the &quot;visibility&quot; (now value is always	visible),70611,Henrik Bengtsson
+070631.html,[Rd] WISH: eval() to preserve the &quot;visibility&quot; (now value is always visible),70631,Henrik Bengtsson
+070718.html,[Rd] static pdf vignette,70718,Henrik Bengtsson
+070641.html,[Rd] xtabs and NA,70641,Milan Bouchet-Valat
+070696.html,[Rd] alternatives to do.call() when namespace is attached but	not loaded?,70696,Winston Chang
+070706.html,[Rd] Native characterset is wrong for unicode builds for Windows,70706,Winston Chang
+070633.html,[Rd] update.packages with ask = FALSE will sometimes ask about	updates,70633,Richard Cotton
+070640.html,[Rd] update.packages with ask = FALSE will sometimes ask about	updates,70640,Richard Cotton
+070573.html,[Rd] invoking R function in C++ in parallel,70573,G&#225;bor Cs&#225;rdi
+070616.html,[Rd] Which function can change RNG state?,70616,G&#225;bor Cs&#225;rdi
+070571.html,[Rd] invoking R function in C++ in parallel,70571,Zheng Da
+070575.html,[Rd] invoking R function in C++ in parallel,70575,Zheng Da
+070637.html,[Rd] Release plans for R versions 3.1.3 and 3.2.0,70637,Peter Dalgaard
+070591.html,[Rd] error code 1 from Lapack routine 'dsyevr',70591,William Dunlap
+070702.html,[Rd] iterated lapply,70702,William Dunlap
+070572.html,[Rd] invoking R function in C++ in parallel,70572,Dirk Eddelbuettel
+070574.html,[Rd] invoking R function in C++ in parallel,70574,Dirk Eddelbuettel
+070615.html,[Rd] Which function can change RNG state?,70615,Dirk Eddelbuettel
+070670.html,[Rd] Color Coding in R-devel/NEWS,70670,Dirk Eddelbuettel
+070685.html,[Rd] RStudio Calling C++ Visual Studio DLL,70685,Dirk Eddelbuettel
+070711.html,"[Rd] The Environment variables settings in bin/R, why do they ignore environment variables of the same name?",70711,Dirk Eddelbuettel
+070622.html,[Rd] Which function can change RNG state?,70622,Paul Gilbert
+070600.html,[Rd] Rcurl crash in R-devel,70600,Marc Girondot
+070607.html,[Rd] Rcurl crash in R-devel,70607,Marc Girondot
+070624.html,[Rd] xtabs and NA,70624,Gabor Grothendieck
+070709.html,"[Rd] The Environment variables settings in bin/R, why do they ignore environment variables of the same name?",70709,Saptarshi Guha
+070589.html,[Rd] error code 1 from Lapack routine 'dsyevr',70589,Kasper Daniel Hansen
+070667.html,[Rd] Color Coding in R-devel/NEWS,70667,Bryan Hanson
+070632.html,"[Rd] CRAN check fails on Solaris, any hints why?",70632,"Helske, Jouni"
+070655.html,[Rd] Different serialization of functions in interactive vs. batch	mode,70655,Holger Hoefling
+070657.html,[Rd] Different serialization of functions in interactive vs. batch mode,70657,Holger Hoefling
+070659.html,[Rd] Different serialization of functions in interactive vs. batch mode,70659,Holger Hoefling
+070661.html,[Rd] Different serialization of functions in interactive vs. batch mode,70661,Holger Hoefling
+070599.html,[Rd] Seed in 'parallel' vignette,70599,Marius Hofert
+070645.html,[Rd] Small typo in german translation,70645,Rainer Hurling
+070653.html,[Rd] Small typo in german translation,70653,Rainer Hurling
+070686.html,[Rd] iterated lapply,70686,Daniel Kaschek
+070691.html,[Rd] iterated lapply,70691,Daniel Kaschek
+070608.html,[Rd] Documentation for reg.finalizer,70608,Tim Keitt
+070644.html,[Rd] Using Rtools with gcc 4.8.3,70644,Qiang Kou
+070585.html,[Rd] BinaryFiles format,70585,Teodor Krastev
+070634.html,[Rd] update.packages with ask = FALSE will sometimes ask about	updates,70634,Rainer M Krug
+070654.html,[Rd] Recycling memory with a small free list,70654,Nathan Kurz
+070672.html,[Rd] Recycling memory with a small free list,70672,Nathan Kurz
+070688.html,[Rd] iterated lapply,70688,Duncan Temple Lang
+070582.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70582,Michael Lawrence
+070627.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70627,Michael Lawrence
+070581.html,"[Rd] updated R-cairo bridge,	official R-3.1.*-mavericks.pkg crippled, snpMatrix 1.19.0.20",70581,Hin-Tak Leung
+070577.html,[Rd] libcurl support and curlGetHeaders warning message in R CMD check,70577,Uwe Ligges
+070650.html,[Rd] Imports problem,70650,Uwe Ligges
+070651.html,[Rd] Small typo in german translation,70651,Uwe Ligges
+070584.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70584,Martin Maechler
+070646.html,[Rd] Imports problem,70646,Martin Maechler
+070678.html,"[Rd] Proper way to define cbind, rbind for s4 classes in package",70678,Martin Maechler
+070701.html,[Rd] iterated lapply,70701,Martin Maechler
+070614.html,[Rd] Testthat and global environments in R packages on CRAN,70614,M&#229;ns Magnusson
+070618.html,[Rd] Testthat and global environments in R packages on CRAN,70618,M&#229;ns Magnusson
+070675.html,[Rd] Recycling memory with a small free list,70675,Karl Millar
+070610.html,[Rd] Documentation for reg.finalizer,70610,Duncan Murdoch
+070612.html,[Rd] WISH: eval() to preserve the &quot;visibility&quot; (now value is always visible),70612,Duncan Murdoch
+070617.html,[Rd] Testthat and global environments in R packages on CRAN,70617,Duncan Murdoch
+070619.html,[Rd] Testthat and global environments in R packages on CRAN,70619,Duncan Murdoch
+070647.html,[Rd] Imports problem,70647,Duncan Murdoch
+070649.html,[Rd] Imports problem,70649,Duncan Murdoch
+070680.html,[Rd] Can R for Windows be built outside of the top-level source directory?,70680,Duncan Murdoch
+070689.html,[Rd] iterated lapply,70689,Duncan Murdoch
+070705.html,[Rd] Native characterset is wrong for unicode builds for Windows,70705,Duncan Murdoch
+070712.html,[Rd] Native characterset is wrong for unicode builds for Windows,70712,Duncan Murdoch
+070715.html,[Rd] Native characterset is wrong for unicode builds for Windows,70715,Duncan Murdoch
+070623.html,[Rd] xtabs and NA,70623,Kirill M&#252;ller
+070639.html,[Rd] xtabs and NA,70639,Kirill M&#252;ller
+070716.html,[Rd] static pdf vignette,70716,Kirill M&#252;ller
+070663.html,[Rd] Recycling memory with a small free list,70663,Radford Neal
+070673.html,[Rd] Recycling memory with a small free list,70673,Radford Neal
+070692.html,[Rd] iterated lapply,70692,Radford Neal
+070679.html,[Rd] Can R for Windows be built outside of the top-level source	directory?,70679,Josh O'Brien
+070579.html,[Rd] Output to &quot;raw console&quot; rather than stdout/stderr?,70579,Jeroen Ooms
+070687.html,[Rd] iterated lapply,70687,Jeroen Ooms
+070628.html,[Rd] R CMD check: Uses the superseded package: &#8216;doSNOW&#8217;,70628,Martyn Plummer
+070681.html,[Rd] requireNamespace etiquette,70681,RKoenker
+070684.html,[Rd] RStudio Calling C++ Visual Studio DLL,70684,Alex Restrepo
+070576.html,[Rd] error code 1 from Lapack routine 'dsyevr',70576,Prof Brian Ripley
+070586.html,[Rd] BinaryFiles format,70586,Prof Brian Ripley
+070603.html,[Rd] Rcurl crash in R-devel,70603,Prof Brian Ripley
+070638.html,[Rd] update.packages with ask = FALSE will sometimes ask about updates,70638,Prof Brian Ripley
+070677.html,[Rd] save.image Doesn't Save Objects When Browsing,70677,Prof Brian Ripley
+070682.html,[Rd] requireNamespace etiquette,70682,Prof Brian Ripley
+070625.html,[Rd] R CMD check: Uses the superseded package: &#8216;doSNOW&#8217;,70625,Xavier Robin
+070629.html,[Rd] R CMD check: Uses the superseded package: &#8216;doSNOW&#8217;,70629,Xavier Robin
+070630.html,[Rd] How to deal with functions detected as apparent S3 methods,70630,Xavier Robin
+070690.html,[Rd] iterated lapply,70690,Eduardo Arino de la Rubia
+070593.html,[Rd] A good way to debug a c++ library embedded to R code,70593,Charles Novaes de Santana
+070595.html,[Rd] A good way to debug a c++ library embedded to R code,70595,Charles Novaes de Santana
+070597.html,[Rd] A good way to debug a c++ library embedded to R code,70597,Charles Novaes de Santana
+070669.html,[Rd] Color Coding in R-devel/NEWS,70669,Marc Schwartz
+070598.html,[Rd] R CMD check: Locale not set to C?,70598,Tobias Setz
+070592.html,[Rd] error code 1 from Lapack routine 'dsyevr',70592,Gavin Simpson
+070676.html,[Rd] save.image Doesn't Save Objects When Browsing,70676,Dario Strbenac
+070596.html,[Rd] A good way to debug a c++ library embedded to R code,70596,Dan Tenenbaum
+070643.html,[Rd] Imports problem,70643,"Therneau, Terry M., Ph.D."
+070648.html,[Rd] Imports problem,70648,"Therneau, Terry M., Ph.D."
+070652.html,[Rd] Imports problem,70652,"Therneau, Terry M., Ph.D."
+070699.html,[Rd] iterated lapply,70699,Benjamin Tyner
+070635.html,[Rd] R CMD check: Uses the superseded package: &#8216;doSNOW&#8217;,70635,Joshua Ulrich
+070605.html,[Rd] Invalid read of size 8,70605,Simon Urbanek
+070668.html,[Rd] Color Coding in R-devel/NEWS,70668,Simon Urbanek
+070710.html,[Rd] static pdf vignette,70710,"Wang, Zhu"
+070694.html,[Rd] iterated lapply,70694,Michael Weylandt
+070700.html,[Rd] iterated lapply,70700,Michael Weylandt
+070606.html,[Rd] as.factor -&gt; S3 generic,70606,Hadley Wickham
+070697.html,[Rd] alternatives to do.call() when namespace is attached but	not loaded?,70697,Hadley Wickham
+070588.html,[Rd] error code 1 from Lapack routine 'dsyevr',70588,peter dalgaard
+070698.html,[Rd] alternatives to do.call() when namespace is attached but	not loaded?,70698,peter dalgaard
+070714.html,"[Rd] The Environment variables settings in bin/R,	why do they ignore environment variables of the same name?",70714,peter dalgaard
+070587.html,[Rd] error code 1 from Lapack routine 'dsyevr',70587,eigen
+070590.html,[Rd] error code 1 from Lapack routine 'dsyevr',70590,eigen
+070642.html,[Rd] error code 1 from Lapack routine 'dsyevr',70642,eigen
+070664.html,[Rd] Package functioning with R but not R-devel,70664,sarah manderni
+070666.html,[Rd] Package functioning with R but not R-devel,70666,sarah manderni
+070602.html,[Rd] Invalid read of size 8,70602,niandra
+070604.html,[Rd] Invalid read of size 8,70604,niandra
+070613.html,[Rd] Which function can change RNG state?,70613,otoomet
+070671.html,[Rd] smoothScatter() and the KernSmooth package,70671,davide risso
+070704.html,[Rd] Native characterset is wrong for unicode builds for Windows,70704,maillist at tlink.de
+070707.html,[Rd] Native characterset is wrong for unicode builds for Windows,70707,maillist at tlink.de
+070708.html,[Rd] Native characterset is wrong for unicode builds for Windows,70708,maillist at tlink.de
+070713.html,[Rd] Native characterset is wrong for unicode builds for Windows,70713,maillist at tlink.de
+070717.html,[Rd] Native characterset is wrong for unicode builds for Windows,70717,maillist at tlink.de
+070656.html,[Rd] Different serialization of functions in interactive vs. batch	mode,70656,luke-tierney at uiowa.edu
+070660.html,[Rd] Different serialization of functions in interactive vs. batch mode,70660,luke-tierney at uiowa.edu
+070674.html,[Rd] Recycling memory with a small free list,70674,luke-tierney at uiowa.edu
+070693.html,[Rd] iterated lapply,70693,luke-tierney at uiowa.edu
+070703.html,[Rd] iterated lapply,70703,luke-tierney at uiowa.edu
+070601.html,[Rd] How to unload R.dll successfully by FreeLibrary,70601,&#26286;&#22914;&#38634;
+070620.html,[Rd] How to unload R.dll successfully by FreeLibrary,70620,&#26286;&#22914;&#38634;

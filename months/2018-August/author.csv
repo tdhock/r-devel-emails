@@ -1,0 +1,200 @@
+link,Subject,id,author
+076536.html,[Rd] Is this a bug in `[`?,76536,Rui Barradas
+076540.html,[Rd] Is this a bug in `[`?,76540,Rui Barradas
+076544.html,[Rd] Is this a bug in `[`?,76544,Rui Barradas
+076546.html,[Rd] Is this a bug in `[`?,76546,Rui Barradas
+076642.html,[Rd] bug report: inaccurate error message for stats::chisq.test,76642,Rui Barradas
+076669.html,[Rd] plotmath degree symbol,76669,Rui Barradas
+076680.html,[Rd] Is this a bug in `[`?,76680,Rui Barradas
+076698.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76698,Rui Barradas
+076609.html,[Rd] validspamobject?,76609,Ronald Barry
+076626.html,[Rd] Thanks for help with validspamobject,76626,Ronald Barry
+076632.html,[Rd] validspamobject?,76632,Ronald Barry
+076671.html,[Rd] Thanks for help with validspamobject,76671,Ronald Barry
+076551.html,[Rd] vctrs: a type system for the tidyverse,76551,Gabe Becker
+076561.html,[Rd] vctrs: a type system for the tidyverse,76561,Gabe Becker
+076562.html,[Rd] vctrs: a type system for the tidyverse,76562,Gabe Becker
+076655.html,[Rd] conflicted: an alternative conflict resolution strategy,76655,Gabe Becker
+076543.html,[Rd] Is this a bug in `[`?,76543,Kenny Bell
+076590.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76590,Henrik Bengtsson
+076595.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76595,Henrik Bengtsson
+076653.html,[Rd] True length - length(unclass(x)) - without having to call unclass()?,76653,Henrik Bengtsson
+076659.html,[Rd] Where does L come from?,76659,Henrik Bengtsson
+076678.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76678,Henrik Bengtsson
+076679.html,[Rd] Is this a bug in `[`?,76679,Henrik Bengtsson
+076702.html,[Rd] Detecting whether a process exists or not by its PID?,76702,Henrik Bengtsson
+076541.html,[Rd] Puzzle or bug with matrix indexing,76541,"Berry, Charles"
+076612.html,[Rd] validspamobject?,76612,Emil Bode
+076688.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76688,Emil Bode
+076693.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76693,Emil Bode
+076704.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76704,Emil Bode
+076712.html,[Rd] compairing doubles,76712,Emil Bode
+076660.html,[Rd] Where does L come from?,76660,Carl Boettiger
+076633.html,[Rd] image() method for Matrix fails on empty matrices (?),76633,Ben Bolker
+076670.html,[Rd] proposed patch to /src/library/datasets/man/mtcars.Rd,76670,Ben Bolker
+076545.html,[Rd] Is this a bug in `[`?,76545,Patrick Burns
+076705.html,[Rd] build package with unicode (farsi) strings,76705,Farid Ch
+076685.html,[Rd] build package with unicode (farsi) strings,76685,Faridedin Cheraghi
+076639.html,[Rd] Translating Rd files,76639,G&#225;bor Cs&#225;rdi
+076647.html,[Rd] Translating Rd files,76647,G&#225;bor Cs&#225;rdi
+076703.html,[Rd] Detecting whether a process exists or not by its PID?,76703,G&#225;bor Cs&#225;rdi
+076709.html,[Rd] Detecting whether a process exists or not by its PID?,76709,G&#225;bor Cs&#225;rdi
+076713.html,[Rd] Detecting whether a process exists or not by its PID?,76713,G&#225;bor Cs&#225;rdi
+076673.html,[Rd] Where does L come from?,76673,Adam M. Dobrin
+076598.html,[Rd] apply with zero-row matrix,76598,William Dunlap
+076599.html,[Rd] trace in uniroot() ?,76599,William Dunlap
+076602.html,[Rd] trace in uniroot() ?,76602,William Dunlap
+076617.html,[Rd] validspamobject?,76617,William Dunlap
+076620.html,[Rd] longint,76620,William Dunlap
+076672.html,[Rd] Where does L come from?,76672,William Dunlap
+076675.html,[Rd] Where does L come from?,76675,William Dunlap
+076696.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76696,William Dunlap
+076569.html,[Rd] vctrs: a type system for the tidyverse,76569,Dirk Eddelbuettel
+076574.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76574,Dirk Eddelbuettel
+076577.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76577,Dirk Eddelbuettel
+076622.html,[Rd] longint,76622,Dirk Eddelbuettel
+076658.html,[Rd] Where does L come from?,76658,Dirk Eddelbuettel
+076661.html,[Rd] Where does L come from?,76661,Dirk Eddelbuettel
+076663.html,[Rd] Where does L come from?,76663,Dirk Eddelbuettel
+076534.html,[Rd] RFC: make as.difftime more consistent or convenient,76534,S Ellison
+076707.html,[Rd] compairing doubles,76707,Felix Ernst
+076641.html,[Rd] bug report: inaccurate error message for stats::chisq.test,76641,Ant F
+076610.html,[Rd] validspamobject?,76610,Roy Mendelssohn - NOAA Federal
+076567.html,[Rd] Bug in POSIXct string representation?,76567,"Festl, Andreas"
+076643.html,[Rd] Slightly misleading help page: tools::add_datalist,76643,Colin Gillespie
+076708.html,[Rd] Segfault when performing match on POSIXlt object,76708,Marco Giuliano
+076723.html,[Rd] Segfault when performing match on POSIXlt object,76723,Marco Giuliano
+076730.html,[Rd] Segfault when performing match on POSIXlt object,76730,Marco Giuliano
+076727.html,[Rd] svg ignores cex.axis in R3.5.1 on macOS,76727,Spencer Graves
+076729.html,[Rd] svg ignores cex.axis in R3.5.1 on macOS,76729,Spencer Graves
+076535.html,[Rd] glm Argument-Evaluation Does Not Match Documentation.,76535,Jorgen Harmse
+076615.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76615,Jim Hester
+076604.html,[Rd] premature use of startsWith in r75110,76604,Kurt Hornik
+076537.html,[Rd] Puzzle or bug with matrix indexing,76537,David Hugh-Jones
+076542.html,[Rd] Puzzle or bug with matrix indexing,76542,David Hugh-Jones
+076573.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76573,Tomas Kalibera
+076575.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76575,Tomas Kalibera
+076587.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76587,Tomas Kalibera
+076596.html,[Rd] Package compiler - efficiency problem,76596,Tomas Kalibera
+076621.html,[Rd] Problem with parseData,76621,Tomas Kalibera
+076629.html,[Rd] Package compiler - efficiency problem,76629,Tomas Kalibera
+076630.html,[Rd] odd behavior of names,76630,Tomas Kalibera
+076637.html,[Rd]  Get Logical processor count correctly whether NUMA is enabled or disabled,76637,Tomas Kalibera
+076676.html,[Rd]  Get Logical processor count correctly whether NUMA is enabled or disabled,76676,Tomas Kalibera
+076706.html,[Rd] Detecting whether a process exists or not by its PID?,76706,Tomas Kalibera
+076710.html,[Rd] Detecting whether a process exists or not by its PID?,76710,Tomas Kalibera
+076553.html,[Rd] Run garbage collector when too many open files,76553,Jan van der Laan
+076554.html,[Rd]  [R-pkg-devel] Run garbage collector when too many open files,76554,Jan van der Laan
+076556.html,[Rd] Run garbage collector when too many open files,76556,Jan van der Laan
+076677.html,[Rd] &quot;utils::file.edit&quot; does not understand &quot;editor&quot; with additional arguments,76677,Randy Lai
+076580.html,[Rd] WishList: Remove Generic Arguments,76580,Michael Lawrence
+076667.html,[Rd] Where does L come from?,76667,Thomas J. Leeper
+076606.html,[Rd] CRAN incoming queue closed from Sep 1 to Sep 9,76606,Uwe Ligges
+076716.html,[Rd] compairing doubles,76716,Mark van der Loo
+076717.html,[Rd] compairing doubles,76717,Mark van der Loo
+076721.html,[Rd] compairing doubles,76721,Mark van der Loo
+076533.html,[Rd] possible bug in plot.intervals.lmList,76533,Martin Maechler
+076558.html,"[Rd] 	withTimeout bug,	it does not work properly with nlme anymore",76558,Martin Maechler
+076560.html,[Rd] vctrs: a type system for the tidyverse,76560,Martin Maechler
+076635.html,[Rd] image() method for Matrix fails on empty matrices (?),76635,Martin Maechler
+076697.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76697,Martin Maechler
+076715.html,[Rd] Segfault when performing match on POSIXlt object,76715,Martin Maechler
+076718.html,[Rd] Segfault when performing match on POSIXlt object,76718,Martin Maechler
+076726.html,[Rd] Segfault when performing match on POSIXlt object,76726,Martin Maechler
+076594.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76594,Peter Meilstrup
+076566.html,[Rd] vctrs: a type system for the tidyverse,76566,Joris Meys
+076570.html,[Rd] vctrs: a type system for the tidyverse,76570,Joris Meys
+076648.html,[Rd] conflicted: an alternative conflict resolution strategy,76648,Joris Meys
+076651.html,[Rd] conflicted: an alternative conflict resolution strategy,76651,Joris Meys
+076689.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76689,Joris Meys
+076692.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76692,Joris Meys
+076699.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76699,Joris Meys
+076581.html,[Rd] WishList: Remove Generic Arguments,76581,Duncan Murdoch
+076591.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76591,Duncan Murdoch
+076614.html,[Rd] longint,76614,Duncan Murdoch
+076634.html,[Rd] validspamobject?,76634,Duncan Murdoch
+076640.html,[Rd] Translating Rd files,76640,Duncan Murdoch
+076645.html,[Rd] conflicted: an alternative conflict resolution strategy,76645,Duncan Murdoch
+076654.html,[Rd] conflicted: an alternative conflict resolution strategy,76654,Duncan Murdoch
+076664.html,[Rd] Where does L come from?,76664,Duncan Murdoch
+076668.html,[Rd] plotmath degree symbol,76668,Paul Murrell
+076538.html,[Rd] typo in Ubuntu download page,76538,J C Nash
+076600.html,[Rd] trace in uniroot() ?,76600,J C Nash
+076646.html,[Rd] conflicted: an alternative conflict resolution strategy,76646,Jari Oksanen
+076687.html,[Rd] build package with unicode (farsi) strings,76687,Thierry Onkelinx
+076592.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76592,Jeroen Ooms
+076618.html,[Rd] longint,76618,Herv&#233; Pag&#232;s
+076623.html,[Rd] longint,76623,Herv&#233; Pag&#232;s
+076625.html,[Rd] longint,76625,Herv&#233; Pag&#232;s
+076662.html,[Rd] Where does L come from?,76662,Herv&#233; Pag&#232;s
+076665.html,[Rd] Where does L come from?,76665,Herv&#233; Pag&#232;s
+076666.html,[Rd] Where does L come from?,76666,Herv&#233; Pag&#232;s
+076728.html,[Rd] Argument 'dim' misspelled in error message,76728,Herv&#233; Pag&#232;s
+076603.html,[Rd] premature use of startsWith in r75110,76603,Hugh Parsonage
+076652.html,[Rd] plotmath degree symbol,76652,Edzer Pebesma
+076686.html,[Rd] plotmath degree symbol,76686,Martin M&#248;ller Skarbiniks Pedersen
+076593.html,[Rd] Package compiler - efficiency problem,76593,Karol Podemski
+076627.html,[Rd] Package compiler - efficiency problem,76627,Karol Podemski
+076674.html,[Rd] Package compiler - efficiency problem,76674,Karol Podemski
+076616.html,[Rd] longint,76616,Brian Ripley
+076624.html,[Rd] longint,76624,Prof Brian Ripley
+076684.html,[Rd] &quot;utils::file.edit&quot; does not understand &quot;editor&quot; with additional arguments,76684,Prof Brian Ripley
+076657.html,[Rd] Where does L come from?,76657,Marc Schwartz
+076724.html,[Rd] compairing doubles,76724,Marc Schwartz
+076722.html,[Rd] compairing doubles,76722,Serguei Sokol
+076579.html,[Rd] WishList: Remove Generic Arguments,76579,Abs Spurdle
+076588.html,[Rd] WishList: Remove Generic Arguments,76588,Abs Spurdle
+076631.html,[Rd] Get Logical processor count correctly whether NUMA is enabled or disabled,76631,"Srinivasan, Arunkumar"
+076638.html,[Rd]  Get Logical processor count correctly whether NUMA is enabled or disabled,76638,"Srinivasan, Arunkumar"
+076681.html,[Rd]  Get Logical processor count correctly whether NUMA is enabled or disabled,76681,"Srinivasan, Arunkumar"
+076613.html,[Rd] longint,76613,Benjamin Tyner
+076619.html,[Rd] longint,76619,Benjamin Tyner
+076690.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76690,D&#233;nes T&#243;th
+076691.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76691,D&#233;nes T&#243;th
+076628.html,[Rd] Package compiler - efficiency problem,76628,I&#241;aki Ucar
+076636.html,[Rd] Consider setting RTLD_GLOBAL when loading packages in LinkingTo,76636,I&#241;aki Ucar
+076711.html,[Rd] compairing doubles,76711,I&#241;aki Ucar
+076714.html,[Rd] compairing doubles,76714,I&#241;aki Ucar
+076720.html,[Rd] compairing doubles,76720,I&#241;aki Ucar
+076725.html,[Rd] compairing doubles,76725,I&#241;aki Ucar
+076586.html,[Rd] Bug in POSIXct string representation?,76586,Joshua Ulrich
+076578.html,[Rd] vctrs: a type system for the tidyverse,76578,jan Vitek
+076585.html,[Rd] vctrs: a type system for the tidyverse,76585,jan Vitek
+076607.html,[Rd] R CMD check warnings on Windows,76607,"Wang, Zhu"
+076550.html,[Rd] vctrs: a type system for the tidyverse,76550,Hadley Wickham
+076552.html,[Rd] vctrs: a type system for the tidyverse,76552,Hadley Wickham
+076559.html,[Rd] vctrs: a type system for the tidyverse,76559,Hadley Wickham
+076563.html,[Rd] vctrs: a type system for the tidyverse,76563,Hadley Wickham
+076564.html,[Rd] vctrs: a type system for the tidyverse,76564,Hadley Wickham
+076568.html,[Rd] vctrs: a type system for the tidyverse,76568,Hadley Wickham
+076571.html,[Rd] vctrs: a type system for the tidyverse,76571,Hadley Wickham
+076572.html,[Rd] vctrs: a type system for the tidyverse,76572,Hadley Wickham
+076583.html,[Rd] vctrs: a type system for the tidyverse,76583,Hadley Wickham
+076601.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76601,Hadley Wickham
+076644.html,[Rd] conflicted: an alternative conflict resolution strategy,76644,Hadley Wickham
+076649.html,[Rd] conflicted: an alternative conflict resolution strategy,76649,Hadley Wickham
+076650.html,[Rd] conflicted: an alternative conflict resolution strategy,76650,Hadley Wickham
+076656.html,[Rd] Where does L come from?,76656,Hadley Wickham
+076682.html,[Rd] conflicted: an alternative conflict resolution strategy,76682,Hadley Wickham
+076683.html,[Rd] Where does L come from?,76683,Hadley Wickham
+076694.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76694,Hadley Wickham
+076700.html,[Rd] ROBUSTNESS: x || y and x &amp;&amp; y to give warning/error if length(x) != 1 or length(y) != 1,76700,Hadley Wickham
+076701.html,[Rd] build package with unicode (farsi) strings,76701,Hadley Wickham
+076605.html,[Rd] vector arithmetic,76605,Hiroaki Yutani
+076695.html,[Rd] build package with unicode (farsi) strings,76695,Ista Zahn
+076548.html,[Rd] [R] MASS::boxcox &quot;object not found&quot;,76548,peter dalgaard
+076608.html,[Rd] R CMD check warnings on Windows,76608,peter dalgaard
+076597.html,[Rd] vector arithmetic,76597,isomorphismes
+076611.html,[Rd] substitute() on arguments in ellipsis (&quot;dot dot dot&quot;)?,76611,lmo
+076532.html,[Rd] RFC: make as.difftime more consistent or convenient,76532,dietm at r at schi at dler m at ili at g off m at  at rol at  at d-web at com
+076555.html,[Rd]  [R-pkg-devel] Run garbage collector when too many open files,76555,luke-tier at ey m at ili at g off uiow at  at edu
+076557.html,[Rd] Run garbage collector when too many open files,76557,luke-tier at ey m at ili at g off uiow at  at edu
+076576.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76576,luke-tier at ey m at ili at g off uiow at  at edu
+076584.html,[Rd] vctrs: a type system for the tidyverse,76584,luke-tier at ey m at ili at g off uiow at  at edu
+076719.html,[Rd] Detecting whether a process exists or not by its PID?,76719,luke-tier at ey m at ili at g off uiow at  at edu
+076539.html,[Rd] Is this a bug in `[`?,76539,I&#241;aki &#218;car
+076547.html,[Rd] Is this a bug in `[`?,76547,I&#241;aki &#218;car
+076549.html,"[Rd] SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76549,I&#241;aki &#218;car
+076565.html,[Rd] vctrs: a type system for the tidyverse,76565,I&#241;aki &#218;car
+076582.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76582,I&#241;aki &#218;car
+076589.html,"[Rd]  SIGSEGV in R_RunWeakRefFinalizer, object allocated with Rcpp",76589,I&#241;aki &#218;car

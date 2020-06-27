@@ -1,0 +1,132 @@
+link,Subject,id,author
+020077.html,axis for small ranges (PR#390),20077,Andreas.Weingessel@ci.tuwien.ac.at
+019961.html,./config.site,19961,Peter Dalgaard BSA
+019964.html,Error in plot.aov() (PR#356),19964,Peter Dalgaard BSA
+019971.html,filled.contour (PR#357),19971,Peter Dalgaard BSA
+019973.html,[[ substitution (PR#358),19973,Peter Dalgaard BSA
+019979.html,Bug list summary (automatic post),19979,Peter Dalgaard BSA
+019981.html,Where should iofflush.c be? (PR#363),19981,Peter Dalgaard BSA
+019988.html,"plot math - segfault and &quot;frac&quot;, &quot;^&quot; bug(s).. (PR#365)",19988,Peter Dalgaard BSA
+019990.html,R abnormal exit when plotting lm (PR#308),19990,Peter Dalgaard BSA
+019991.html,R abnormal exit when plotting lm (PR#308),19991,Peter Dalgaard BSA
+020001.html,estonly confuses examples (PR#370),20001,Peter Dalgaard BSA
+020003.html,SAS XPORT Transport Format,20003,Peter Dalgaard BSA
+020018.html,Bug in R0.90.0? (PR#374),20018,Peter Dalgaard BSA
+020029.html,lists of functions (PR#377),20029,Peter Dalgaard BSA
+020034.html,strsplit does not conform to documentation (PR#379),20034,Peter Dalgaard BSA
+020038.html,CRAN src/contrib/Devel,20038,Peter Dalgaard BSA
+020047.html,Bug list summary (automatic post),20047,Peter Dalgaard BSA
+020072.html,"coredump with plot(x,y,pch=&quot;+&quot;,cex=2.2) (PR#389)",20072,Peter Dalgaard BSA
+019960.html,./config.site,19960,Douglas Bates
+019975.html,files in CRAN/src/devel/floppies,19975,Douglas Bates
+020002.html,SAS XPORT Transport Format,20002,Douglas Bates
+020015.html,SAS XPORT Transport Format,20015,Douglas Bates
+020023.html,"read.mtp, etc.",20023,Douglas Bates
+020031.html,R CMD check --help,20031,Douglas Bates
+020066.html,install.package errors,20066,Douglas Bates
+021770.html,"network outage for omegahat.org, r-project.org, and madisonlinux.org",21770,Douglas Bates
+021771.html,"network outage for omegahat.org, r-project.org, and madisonlinux.org",21771,Douglas Bates
+019996.html,"setting par(fig) resets par(mfrow), par(mfcol)",19996,Ben Bolker
+019959.html,./config.site,19959,Paul Gilbert
+019965.html,par(mkh) {was [R] Plot Character Sizes in rw-0.90.0},19965,Paul Gilbert
+019983.html,chron yy/mm/dd,19983,Paul Gilbert
+020019.html,Rcomplex,20019,Paul Gilbert
+020020.html,machine() vs .Platform$OS.type,20020,Paul Gilbert
+020030.html,R CMD check --help,20030,Paul Gilbert
+020064.html,install.package errors,20064,Paul Gilbert
+019957.html,[R] compiling R-0.90.0 on alpha-dec-osf4.0,19957,Kurt Hornik
+019998.html,split nukes names() (PR#371),19998,Kurt Hornik
+019999.html,chron yy/mm/dd,19999,Kurt Hornik
+020009.html,t.test inside function (PR#373),20009,Kurt Hornik
+020027.html,R-0.90.1 buglet in R shell (PR#375),20027,Kurt Hornik
+020035.html,CRAN src/contrib/Devel,20035,Kurt Hornik
+020036.html,R CMD check --help,20036,Kurt Hornik
+020042.html,R CMD check --help,20042,Kurt Hornik
+020043.html,CRAN src/contrib/Devel,20043,Kurt Hornik
+020056.html,BUG in format()? (PR#383),20056,Kurt Hornik
+020063.html,CRAN src/contrib/Devel,20063,Kurt Hornik
+020074.html,concatenating dataframes (PR#381),20074,Kurt Hornik
+020057.html,Apply dimnames (PR#385),20057,J.C.Rougier@durham.ac.uk
+019967.html,R CMD check zzz location (PR#353),19967,Kurt.Hornik@ci.tuwien.ac.at
+019977.html,scan error (PR#342),19977,Kurt.Hornik@ci.tuwien.ac.at
+020000.html,estonly confuses examples (PR#370),20000,Friedrich Leisch
+020005.html,SAS XPORT Transport Format and other formats,20005,Nicholas Lewin-Koh
+019972.html,[[ substitution (PR#358),19972,Thomas Lumley
+020012.html,SAS XPORT Transport Format,20012,Thomas Lumley
+020069.html,data.frame(I(matrix)) ? (PR#388),20069,Thomas Lumley
+019955.html,density(kernel = &quot;cosine&quot;) .. the `wrong cosine' ..,19955,Martin Maechler
+019958.html,density(kernel = &quot;cosine&quot;) .. the `wrong cosine' ..,19958,Martin Maechler
+020021.html,machine() vs .Platform$OS.type,20021,Martin Maechler
+020070.html,CRAN src/contrib/Devel,20070,Guido Masarotto
+019989.html,R abnormal exit when plotting lm (PR#308),19989,Ulf Mehlig
+020011.html,R abnormal exit when plotting lm (PR#308),20011,Ulf Mehlig
+020006.html,hist() with horiz=TRUE does not give horiz. plots (PR#372),20006,Paul Murrell
+020016.html,SAS XPORT Transport Format,20016,Ben Pfaff
+020041.html,CRAN src/contrib/Devel,20041,Martyn Plummer
+020058.html,aov-related segfault (PR#382),20058,Prof Brian Ripley
+019956.html,density(kernel = &quot;cosine&quot;) .. the `wrong cosine' ..,19956,Prof Brian D Ripley
+019963.html,Error in plot.aov() (PR#356),19963,Prof Brian D Ripley
+019976.html,files in CRAN/src/devel/floppies,19976,Prof Brian D Ripley
+019993.html,tsboot,19993,Prof Brian D Ripley
+020008.html,t.test inside function (PR#373),20008,Prof Brian D Ripley
+020022.html,Rcomplex,20022,Prof Brian D Ripley
+020037.html,R CMD check --help,20037,Prof Brian D Ripley
+020040.html,CRAN src/contrib/Devel,20040,Prof Brian D Ripley
+020048.html,Manual: writing R Extensions (PR#380),20048,Prof Brian D Ripley
+020051.html,[R] need fast [lt]apply (),20051,Prof Brian D Ripley
+020052.html,BUG in format()? (PR#383),20052,Prof Brian D Ripley
+020061.html,aov-related segfault (PR#382),20061,Prof Brian D Ripley
+020065.html,install.package errors,20065,Prof Brian D Ripley
+020014.html,hist() with horiz=TRUE does not give horiz. plots (PR#372),20014,Fran Rizzardi
+020049.html,HTML archives will be down,20049,Robert.King@mailbox.gu.edu.au
+020053.html,[R] need fast [lt]apply (),20053,Jonathan Rougier
+020010.html,t.test inside function (PR#373),20010,Bill Simpson
+019992.html,tsboot,19992,Adrian Trapletti
+020039.html,CRAN src/contrib/Devel,20039,Bill Venables
+020024.html,R-0.90.1 buglet in R shell (PR#375),20024,William.Venables@cmis.CSIRO.AU
+020032.html,plot()  after split.screen() on postscript() Device produces inconsistent PostScript file (PR#378),20032,boble@usa.net
+020017.html,Bug in R0.90.0? (PR#374),20017,c.lupi@isae.it
+019997.html,split nukes names() (PR#371),19997,cberry@tajo.ucsd.edu
+020033.html,strsplit does not conform to documentation (PR#379),20033,cberry@tajo.ucsd.edu
+019970.html,[[ substitution (PR#358),19970,clive@bell-labs.com
+020073.html,For Sale: E-mail Address Databases - International or USA,20073,decline@bigfoot.com
+019980.html,Where should iofflush.c be? (PR#363),19980,delamy@uswest.net
+020004.html,hist() with horiz=TRUE does not give horiz. plots (PR#372),20004,fran@stat.berkeley.edu
+020045.html,Manual: writing R Extensions (PR#380),20045,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020050.html,BUG in format()? (PR#383),20050,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020059.html,BUG in format()? (PR#383),20059,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020062.html,as.matrix.data.frame() modifies content of character columns (PR#386),20062,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020067.html,different subscripting behaviour using  $&lt;-  or  [&lt;-  for data.frames (PR#387),20067,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020068.html,data.frame(I(matrix)) ? (PR#388),20068,jens.oehlschlaegel-akiyoshi@mdfactory.de
+020028.html,lists of functions (PR#377),20028,jlindsey@alpha.luc.ac.be
+020044.html,concatenating dataframes (PR#381),20044,jlindsey@alpha.luc.ac.be
+021769.html,dataframes in glm (PR#392),21769,jlindsey@alpha.luc.ac.be
+019962.html,Error in plot.aov() (PR#356),19962,john.maindonald@anu.edu.au
+019978.html,&quot;function&quot; function -- infinite loops and bus error [not user problem] (PR#361),19978,maechler@stat.math.ethz.ch
+019984.html,"plot math - segfault and &quot;frac&quot;, &quot;^&quot; bug(s).. (PR#365)",19984,maechler@stat.math.ethz.ch
+019987.html,"plot math - segfault and &quot;frac&quot;, &quot;^&quot; bug(s).. (PR#367)",19987,maechler@stat.math.ethz.ch
+019986.html,"plot math - segfault and &quot;frac&quot;, &quot;^&quot; bug(s).. (PR#368)",19986,maechler@stat.math.ethz.ch
+020055.html,tck crash (PR#384),20055,maechler@stat.math.ethz.ch
+020075.html,concatenating dataframes (PR#381),20075,maechler@stat.math.ethz.ch
+021772.html,Segfault in dataentry() (PR#391),21772,maechler@stat.math.ethz.ch
+019985.html,pch==NA (PR#366),19985,p.dalgaard@biostat.ku.dk
+020076.html,"coredump with plot(x,y,pch=&quot;+&quot;,cex=2.2) (PR#389)",20076,p.dalgaard@biostat.ku.dk
+020078.html,"coredump with plot(x,y,pch=&quot;+&quot;,cex=2.2) (PR#389)",20078,p.dalgaard@biostat.ku.dk
+021768.html,Segfault in dataentry() (PR#391),21768,p.dalgaard@pubhealth.ku.dk
+020046.html,aov-related segfault (PR#382),20046,pd@butterfly.kubism.ku.dk
+020054.html,tck crash (PR#384),20054,plindsey@alpha.luc.ac.be
+019982.html,CRAN.packages (PR#364),19982,plummer@iarc.fr
+020025.html,aggregate.ts (PR#376),20025,plummer@iarc.fr
+019994.html,R for Macintosh?  Where? (PR#369),19994,rbl@hal.epbi.cwru.edu
+019953.html,odd result of length() with factor arguments with NA (PR#354),19953,ripley@stats.ox.ac.uk
+019969.html,Error in plot.aov() (PR#356) (fwd),19969,ripley@stats.ox.ac.uk
+019974.html,Inconsistent messages with [[ list indexing (PR#359),19974,ripley@stats.ox.ac.uk
+019995.html,estonly confuses examples (PR#370),19995,ripley@stats.ox.ac.uk
+020026.html,aggregate.ts (PR#376),20026,ripley@stats.ox.ac.uk
+020060.html,BUG in format()? (PR#383),20060,ripley@stats.ox.ac.uk
+019952.html,odd result of length() with factor arguments with NA (PR#354),19952,rnassar@duke.edu
+020071.html,"coredump with plot(x,y,pch=&quot;+&quot;,cex=2.2) (PR#389)",20071,rnassar@duke.edu
+019968.html,filled.contour (PR#357),19968,steuer@statistik.uni-dortmund.de
+020079.html,axis for small ranges (PR#390),20079,thomas@biostat.washington.edu
+020013.html,Are you ready to busy trade?,20013,trade@imsp074.netvigator.com
+020007.html,t.test inside function (PR#373),20007,wsi@gcal.ac.uk

@@ -1,0 +1,310 @@
+link,Subject,id,author
+050398.html,[Rd] Bug for the package &quot;ada&quot; (PR#12126),50398,song84030 at 163.com
+050336.html,[Rd] Suggestion: 20% speed up of which() with two-character mod,50336,Henrik Bengtsson
+050345.html,[Rd] Suggestion: 20% speed up of which() with two-character mod,50345,Henrik Bengtsson
+050502.html,[Rd] Constructor blah() vs. as.blah(),50502,Henrik Bengtsson
+050562.html,[Rd] save() should not overwrite a file if an error occurs	(PR#12583),50562,Henrik Bengtsson
+050599.html,[Rd] Can the file locking in filehash be reused? (Was: Re: [R]	[R-pkgs] filehash 2.0),50599,Henrik Bengtsson
+050620.html,[Rd] serialize() to via temporary file is heaps faster than	doing it directly (on Windows),50620,Henrik Bengtsson
+050360.html,[Rd] Numerical optimisation and &quot;non-feasible&quot; regions,50360,Ben Bolker
+050446.html,[Rd] Suggestion for the optimization code,50446,Ben Bolker
+050457.html,[Rd] wishlist: par(ann=FALSE) applied to hist?,50457,Ben Bolker
+050459.html,[Rd] wishlist: par(ann=FALSE) applied to hist?,50459,Ben Bolker
+050466.html,[Rd] messing with ...,50466,Ben Bolker
+050474.html,[Rd] messing with ...,50474,Ben Bolker
+050476.html,[Rd] extending the derivs table/fools rushing in,50476,Ben Bolker
+050478.html,[Rd] extending the derivs table/fools rushing in,50478,Ben Bolker
+050481.html,[Rd] extending the derivs table/fools rushing in,50481,Ben Bolker
+050496.html,[Rd] extending the derivs table/fools rushing in,50496,Ben Bolker
+050429.html,[Rd] Truncation error on simply mean &amp; sum function (PR#12515,50429,Christian Brechb&#252;hler
+050547.html,[Rd] RNGkind() state (PR#12567),50547,Ray Brownrigg
+050386.html,[Rd] Numerical optimisation and &quot;non-feasible&quot; regions,50386,Patrick Burns
+050411.html,[Rd] Numerical optimisation and &quot;non-feasible&quot; regions,50411,Patrick Burns
+050619.html,[Rd] Security issue with javareconf script (PR#12636),50619,Tom &quot;spot&quot; Callaway
+050538.html,[Rd] R-Embedding and error messages,50538,Jorge W. Cardoso
+050406.html,"[Rd] '&quot;ts&quot; treated as a registered S3 class, but keep its &quot;structure&quot; behaviour' ?",50406,Yohan Chalabi
+050410.html,"[Rd] '&quot;ts&quot; treated as a registered S3 class, but keep its &quot;structure&quot; behaviour' ?",50410,John Chambers
+050452.html,[Rd] Methods dispatched on &quot;...&quot;,50452,John Chambers
+050346.html,[Rd] literate programming,50346,Kevin R. Coombes
+050335.html,[Rd] unbuffered R CMD check results,50335,Peter Cowan
+050372.html,[Rd] Bug repository awakening,50372,Peter Dalgaard
+050418.html,[Rd] Bug repository awakening,50418,Peter Dalgaard
+050420.html,[Rd] Bug repository awakening,50420,Peter Dalgaard
+050513.html,[Rd] R-beta does not install on FreeBSD,50513,Peter Dalgaard
+050525.html,[Rd] ifelse,50525,Peter Dalgaard
+050528.html,[Rd] Outdated dependencies and install.packages(),50528,Peter Dalgaard
+050535.html,[Rd] Outdated dependencies and install.packages(),50535,Peter Dalgaard
+050546.html,[Rd] Outdated dependencies and install.packages(),50546,Peter Dalgaard
+050553.html,"[Rd] rc  note, etc",50553,Peter Dalgaard
+050555.html,"[Rd] rc  note, etc",50555,Peter Dalgaard
+050615.html,[Rd] Security issue with javareconf script (PR#12636),50615,Peter Dalgaard
+050622.html,[Rd] coxph function (Survival Library) (PR#12638),50622,Peter Dalgaard
+050574.html,[Rd] name conflicts,50574,Henrique Dallazuanna
+050504.html,[Rd] relist.Rd patch,50504,Dan Davison
+050506.html,[Rd] dendrapply.Rd patch,50506,Dan Davison
+050536.html,[Rd] unlist on nested pairlists,50536,Dan Davison
+050413.html,[Rd] dput function (PR#12112),50413,Bill Dunlap
+050416.html,[Rd] dput function (PR#12112),50416,Bill Dunlap
+050601.html,[Rd] (PR#12628) Second X11 call with invalid display crashes R after first X11 call.,50601,Bill Dunlap
+050473.html,[Rd] [R] aligned memory allocation in C,50473,Christophe Dutang
+050509.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50509,Christophe Dutang
+050581.html,[Rd] embedded examples,50581,EBo
+050591.html,[Rd] specifying compiler path in configure,50591,Dirk Eddelbuettel
+050614.html,[Rd] Security issue with javareconf script (PR#12636),50614,Dirk Eddelbuettel
+050430.html,[Rd] Suggestion for the optimization code,50430,Robert Gentleman
+050358.html,[Rd] Adding .PDF files to a package,50358,Paul Gilbert
+050552.html,"[Rd] rc  note, etc",50552,Paul Gilbert
+050585.html,[Rd] S4 coercion,50585,Paul Gilbert
+050441.html,[Rd] (PR#12318) Bug in format.default(): na.encode does not have any effect for,50441,Gorjanc Gregor
+050443.html,[Rd] matrix name,50443,Gabor Grothendieck
+050477.html,[Rd] extending the derivs table/fools rushing in,50477,Gabor Grothendieck
+050479.html,[Rd] extending the derivs table/fools rushing in,50479,Gabor Grothendieck
+050482.html,[Rd] extending the derivs table/fools rushing in,50482,Gabor Grothendieck
+050572.html,[Rd] name conflicts,50572,Gabor Grothendieck
+050580.html,[Rd] bug in package chron (PR#12599),50580,Gabor Grothendieck
+050609.html,[Rd] non user-friendly error for chol2inv functions,50609, (Ted Harding)
+050469.html,[Rd] messing with ...,50469,Christos Hatzis
+050577.html,[Rd] ifelse,50577,Tim Hesterberg
+050563.html,[Rd] R CMD check problem,50563,Giles Hooker
+050594.html,[Rd] Defining environments within functions,50594,Giles Hooker
+050608.html,[Rd] Defining environments within functions,50608,Giles Hooker
+050334.html,[Rd] Parsing code with newlines,50334,Jeffrey Horner
+050326.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50326,J. R. M. Hosking
+050359.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50359,J. R. M. Hosking
+050447.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50447,J. R. M. Hosking
+050348.html,[Rd] Adding .PDF files to a package,50348,Wolfgang Huber
+050349.html,[Rd] Adding .PDF files to a package,50349,Wolfgang Huber
+050511.html,[Rd] R-beta does not install on FreeBSD,50511,Rainer Hurling
+050514.html,[Rd] R-beta does not install on FreeBSD,50514,Rainer Hurling
+050559.html,[Rd] Linking With External Lapack: Segfault,50559,Imanpreet
+050565.html,[Rd] Linking With External Lapack: Segfault,50565,Imanpreet
+050566.html,[Rd] Linking With External Lapack: Segfault,50566,Imanpreet
+050330.html,[Rd] Newline in R_ParseVector,50330,Peter Jaeger
+050331.html,[Rd] Parsing code with newlines,50331,Peter Jaeger
+050522.html,[Rd] ifelse,50522,Heikki Kaskelma
+050499.html,[Rd] error in help page of function interpSpline of package splines	in R-devel,50499,Mark Kimpel
+050589.html,[Rd] specifying compiler path in configure,50589,Mark Kimpel
+050613.html,[Rd] specifying compiler path in configure,50613,Mark Kimpel
+050408.html,[Rd] string comparison,50408,Kjell Konis
+050571.html,[Rd] name conflicts,50571,Max Kuhn
+050544.html,[Rd] strsplit and the empty string,50544,Wacek Kusnierczyk
+050322.html,[Rd] 4-int indexing limit of R {Re: [R] allocMatrix limits},50322,Vadim Kutsyy
+050352.html,[Rd] RGtk2 on linux: &quot;stack smashing detected&quot;,50352,Michael Lawrence
+050468.html,[Rd] [Bioc-devel] EBImage: Devel version on Windows not building,50468,Michael Lawrence
+050500.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50500,Shengqiao Li
+050501.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50501,Shengqiao Li
+050508.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50508,Shengqiao Li
+050432.html,[Rd] Truncation error on simply mean &amp; sum function (PR#12515),50432,Thomas Lumley
+050449.html,"[Rd] gap in lines()  -- 2.7.1, Mac, quartz() (PR#12520)",50449,Thomas Lumley
+050450.html,[Rd] xy plot in version 2.7.1 for Mac (PR#12520),50450,Thomas Lumley
+050464.html,[Rd] Column name disappears when indexing a single column (PR#12532),50464,Thomas Lumley
+050321.html,[Rd] 4-int indexing limit of R {Re: [R] allocMatrix limits},50321,Martin Maechler
+050323.html,[Rd] 4-int indexing limit of R {Re: [R] allocMatrix limits},50323,Martin Maechler
+050340.html,[Rd] Suggestion: 20% speed up of which() with two-character mod,50340,Martin Maechler
+050414.html,[Rd] Bug repository awakening,50414,Martin Maechler
+050444.html,[Rd] matrix name,50444,Martin Maechler
+050542.html,[Rd] Outdated dependencies and install.packages(),50542,Martin Maechler
+050543.html,[Rd] names of return value of median,50543,Martin Maechler
+050548.html,[Rd] Outdated dependencies and install.packages(),50548,Martin Maechler
+050549.html,"[Rd] order(x,y, decreasing = c(FALSE, TRUE)) - how / elegantly?",50549,Martin Maechler
+050550.html,"[Rd] order(x, y, decreasing = c(FALSE, TRUE)) - how / elegantly?",50550,Martin Maechler
+050605.html,[Rd] non user-friendly error for chol2inv functions,50605,Martin Maechler
+050607.html,[Rd] non user-friendly error for chol2inv functions,50607,Martin Maechler
+050610.html,[Rd] non user-friendly error for chol2inv functions,50610,Martin Maechler
+050541.html,[Rd] java.lang.UnsatisfiedLinkError: The specified procedure could	not be found error message,50541,Vladmir Makarov
+050407.html,[Rd] problems with plotting of graphNEL (PR#11993),50407,Martin Morgan
+050532.html,[Rd] Outdated dependencies and install.packages(),50532,Martin Morgan
+050586.html,[Rd] S4 coercion,50586,Martin Morgan
+050332.html,[Rd] Parsing code with newlines,50332,Duncan Murdoch
+050341.html,[Rd] Random number generation,50341,Duncan Murdoch
+050344.html,[Rd] patchDVI update:  SyncTex support,50344,Duncan Murdoch
+050405.html,[Rd] Package Installer Unable to access packages (PR#12026),50405,Duncan Murdoch
+050412.html,[Rd] string comparison,50412,Duncan Murdoch
+050427.html,[Rd] Suggestion for the optimization code,50427,Duncan Murdoch
+050484.html,[Rd] Typo in proc.time.Rd,50484,Duncan Murdoch
+050492.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50492,Duncan Murdoch
+050503.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50503,Duncan Murdoch
+050507.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50507,Duncan Murdoch
+050567.html,[Rd] problem running dll in R,50567,Duncan Murdoch
+050568.html,[Rd] R CMD check problem,50568,Duncan Murdoch
+050570.html,[Rd] problem running dll in R,50570,Duncan Murdoch
+050573.html,[Rd] name conflicts,50573,Duncan Murdoch
+050575.html,[Rd] name conflicts,50575,Duncan Murdoch
+050584.html,[Rd] R 2.7.2 for Windows fails to install local zip	package	(PR#12612),50584,Duncan Murdoch
+050596.html,[Rd] Defining environments within functions,50596,Duncan Murdoch
+050602.html,[Rd] Defining environments within functions,50602,Duncan Murdoch
+050604.html,[Rd] Defining environments within functions,50604,Duncan Murdoch
+050621.html,[Rd] locale2charset CPU overhead (PR#12633),50621,Duncan Murdoch
+050318.html,[Rd] AIX 5.3 --enable-R-shlib --with-x ---with-iconv make error	with R-2.7.0 and R-2.7.1,50318,Ei-ji Nakama
+050347.html,[Rd] Adding .PDF files to a package,50347,Rense Nieuwenhuis
+050343.html,[Rd] Adding .pdf files to package,50343,Rense Nieuwenhuis
+050357.html,[Rd] Adding .PDF files to a package,50357,Rense Nieuwenhuis
+050376.html,[Rd] Bug in rnorm? (PR#12016),50376,"ONKELINX, Thierry"
+050320.html,[Rd] importing explicitly declared missing values in read.spss (foreign),50320,Jeroen Ooms
+050329.html,[Rd] importing explicitly declared missing values in read.spss (foreign),50329,Jeroen Ooms
+050338.html,[Rd] importing explicitly declared missing values in read.spss (foreign),50338,Jeroen Ooms
+050537.html,[Rd] names of return value of median,50537,Vadim Organovich
+050539.html,[Rd] row.names in data.frame with row.names NULL,50539,Vadim Organovich
+050435.html,[Rd] Cannot link mypackage to 2 other packages,50435,Herve Pages
+050521.html,[Rd] 'javareconf -e' as normal user (PR#12544),50521,Rune Schjellerup Philosof
+050470.html,[Rd] messing with ...,50470,Tony Plate
+050339.html,[Rd] Random number generation,50339,subramanian R
+050576.html,[Rd] na.action does not return na.action element of lm object,50576,Andrew Redd
+050355.html,[Rd] Adding .PDF files to a package,50355,Mathieu Ribatet
+050356.html,[Rd] Numerical optimisation and &quot;non-feasible&quot; regions,50356,Mathieu Ribatet
+050378.html,[Rd] Numerical optimisation and &quot;non-feasible&quot; regions,50378,Mathieu Ribatet
+050387.html,[Rd] Numerical optimisation and &quot;non-feasible&quot; regions,50387,Mathieu Ribatet
+050426.html,[Rd] Suggestion for the optimization code,50426,Mathieu Ribatet
+050431.html,[Rd] Suggestion for the optimization code,50431,Mathieu Ribatet
+050319.html,[Rd] Rmpi on Fedora 8,50319,Prof Brian Ripley
+050324.html,"[Rd] data.matrix (was sapply(Date, is.numeric))",50324,Prof Brian Ripley
+050325.html,[Rd] 4-int indexing limit of R {Re: [R] allocMatrix limits},50325,Prof Brian Ripley
+050327.html,[Rd] importing explicitly declared missing values in read.spss (foreign),50327,Prof Brian Ripley
+050328.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50328,Prof Brian Ripley
+050333.html,[Rd] Parsing code with newlines,50333,Prof Brian Ripley
+050337.html,[Rd] importing explicitly declared missing values in read.spss (foreign),50337,Prof Brian Ripley
+050353.html,[Rd] RGtk2 on linux: &quot;stack smashing detected&quot;,50353,Prof Brian Ripley
+050361.html,[Rd] axis() ignores supplied value of argument mgp[3]?,50361,Prof Brian Ripley
+050364.html,[Rd] Cannot link mypackage to 2 other packages,50364,Prof Brian Ripley
+050373.html,[Rd] Bug in rnorm? (PR#12016),50373,Prof Brian Ripley
+050374.html,"[Rd] memory leak in sub(&quot;[range]&quot;, ...) when #ifndef _LIBC (PR#11946)",50374,Prof Brian Ripley
+050375.html,"[Rd] sapply(Date, is.numeric) (PR#12008)",50375,Prof Brian Ripley
+050377.html,"[Rd] sapply(Date, is.numeric) (PR#11982)",50377,Prof Brian Ripley
+050409.html,[Rd] string comparison,50409,Prof Brian Ripley
+050415.html,[Rd] dput function (PR#12112),50415,Prof Brian Ripley
+050422.html,[Rd] stripchart ignores main title option (PR#12202),50422,Prof Brian Ripley
+050423.html,[Rd] Bug repository awakening,50423,Prof Brian Ripley
+050424.html,"[Rd] package.skeleton does invalide regular name, bis... (PR#12020)",50424,Prof Brian Ripley
+050428.html,[Rd] Suggestion for the optimization code,50428,Prof Brian Ripley
+050433.html,[Rd] LinkingTo for 2 packages,50433,Prof Brian Ripley
+050436.html,[Rd] config.log told me to report these (PR#12035),50436,Prof Brian Ripley
+050437.html,[Rd] Fitted values with small weights in lm.wfit (PR#11979),50437,Prof Brian Ripley
+050438.html,[Rd] Rgui.exe(R.dll) crashes on startup when locale is set to Korean (PR#11974),50438,Prof Brian Ripley
+050440.html,[Rd] (PR#12318) Bug in format.default(): na.encode does not have any effect for,50440,Prof Brian Ripley
+050451.html,[Rd] xy plot in version 2.7.1 for Mac (PR#12520),50451,Prof Brian Ripley
+050454.html,[Rd] can't start the R program (PR#12525),50454,Prof Brian Ripley
+050455.html,[Rd] Cairo bitmap output should work without X11 dependency (PR#12218),50455,Prof Brian Ripley
+050458.html,[Rd] wishlist: par(ann=FALSE) applied to hist?,50458,Prof Brian Ripley
+050460.html,[Rd] wishlist: par(ann=FALSE) applied to hist?,50460,Prof Brian Ripley
+050461.html,[Rd] qgamma inaccuracy (PR#12324),50461,Prof Brian Ripley
+050463.html,[Rd] (PR#12532) Column name disappears when indexing a single column,50463,Prof Brian Ripley
+050471.html,[Rd] messing with ...,50471,Prof Brian Ripley
+050472.html,[Rd] properly reporting compile bugs,50472,Prof Brian Ripley
+050480.html,[Rd] extending the derivs table/fools rushing in,50480,Prof Brian Ripley
+050491.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50491,Prof Brian Ripley
+050493.html,[Rd] cryptic message of R CMD check,50493,Prof Brian Ripley
+050494.html,[Rd] Double-clicking in tk list dialogs,50494,Prof Brian Ripley
+050497.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50497,Prof Brian Ripley
+050512.html,[Rd] R-beta does not install on FreeBSD,50512,Prof Brian Ripley
+050518.html,[Rd] Allocated Memory Warnings in Vista 32 bit with 4 GB (PR#12557),50518,Prof Brian Ripley
+050520.html,[Rd] format Date,50520,Prof Brian Ripley
+050524.html,[Rd] ifelse,50524,Prof Brian Ripley
+050527.html,[Rd] RNGkind() state (PR#12567),50527,Prof Brian Ripley
+050530.html,"[Rd] showMethods(&quot;plot&quot;, printTo=FALSE) fails if printTo set to FALSE",50530,Prof Brian Ripley
+050534.html,[Rd] Outdated dependencies and install.packages(),50534,Prof Brian Ripley
+050545.html,[Rd] Improvements to write.arff (PR#12574),50545,Prof Brian Ripley
+050551.html,"[Rd] order(x, y, decreasing = c(FALSE, TRUE)) - how / elegantly?",50551,Prof Brian Ripley
+050554.html,"[Rd] rc  note, etc",50554,Prof Brian Ripley
+050557.html,[Rd] Different results between v2.6.1 and 2.7.1 (PR#12579),50557,Prof Brian Ripley
+050560.html,[Rd] Linking With External Lapack: Segfault,50560,Prof Brian Ripley
+050579.html,[Rd] na.action does not return na.action element of lm object,50579,Prof Brian Ripley
+050590.html,[Rd] specifying compiler path in configure,50590,Prof Brian Ripley
+050595.html,[Rd] (PR#12628) Second X11 call with invalid display crashes R after first X11 call.,50595,Prof Brian Ripley
+050598.html,[Rd] &quot;error using packet 1&quot;,50598,Prof Brian Ripley
+050625.html,[Rd] specifying compiler path in configure,50625,Prof Brian Ripley
+050490.html,[Rd] Double-clicking in tk list dialogs,50490,Barry Rowlingson
+050617.html,[Rd] R 2.7.2 for Windows fails to install local zip	package	(PR#12612),50617,Claude Rubinson
+050488.html,[Rd] cryptic message of R CMD check,50488,Dr. Peter Ruckdeschel
+050558.html,[Rd] R CMD check warning &quot;no visible binding for global variable&quot; and hasArg(),50558,Dr. Peter Ruckdeschel
+050419.html,[Rd] Bug repository awakening,50419,Marc Schwartz
+050523.html,[Rd] ifelse,50523,Marc Schwartz
+050529.html,"[Rd] showMethods(&quot;plot&quot;,	printTo=FALSE) fails if printTo set to FALSE",50529,"Sklyar, Oleg (London)"
+050531.html,"[Rd] showMethods(&quot;plot&quot;, printTo=FALSE) fails if printTo set to    FALSE",50531,"Sklyar, Oleg (London)"
+050342.html,[Rd] literate programming,50342,Terry Therneau
+050354.html,[Rd] literate programming,50354,Terry Therneau
+050611.html,[Rd] Defining environments within functions,50611,Luke Tierney
+050350.html,[Rd] literate programming,50350,Berwin A Turlach
+050397.html,[Rd] config.log told me to report these (PR#12035),50397,RichardsTJ2 at UPMC.EDU
+050515.html,[Rd] 'javareconf -e' as normal user (PR#12544),50515,Simon Urbanek
+050483.html,[Rd] Typo in proc.time.Rd,50483,Stephen Weigand
+050404.html,[Rd] Package Installer Unable to access packages (PR#12025),50404,winkllj at acm.org
+050403.html,[Rd] Package Installer Unable to access packages (PR#12026),50403,winkllj at acm.org
+050370.html,[Rd] Bug in rnorm? (PR#12016),50370,paul.eckermann at adelaide.edu.au
+050623.html,[Rd] scan after seek in text files (PR#12640),50623,alex at apeironsports.com
+050388.html,[Rd] stripchart ignores main title option (PR#12202),50388,j.curran at auckland.ac.nz
+050382.html,[Rd] Bug in format.default(): na.encode does not have any effect	for (PR#12318),50382,Gregor.Gorjanc at bfro.uni-lj.si
+050383.html,[Rd] Methods for format() are not consistent with NA values	(PR#12385),50383,Gregor.Gorjanc at bfro.uni-lj.si
+050485.html,[Rd] [R] RNG Cycle and Duplication (PR#12537),50485,p.dalgaard at biostat.ku.dk
+050396.html,"[Rd] Kernlab, ksvm, class.weights, prob.model = TRUE (PR#11971)",50396,renriquez at bolsamadrid.es
+050392.html,[Rd] Bug in placement of legend with title when xlim is decreasing	(PR#12019),50392,candrews at buffalo.edu
+050505.html,[Rd] unique.default problem (PR#12551),50505,prokaj at cs.elte.hu
+050462.html,[Rd] Column name disappears when indexing a single column (PR#12532),50462,cherrera at cs.nmsu.edu
+050475.html,[Rd] [R] aligned memory allocation in C,50475,christophe dutang
+050588.html,[Rd] standard errors for glm,50588,christophe dutang
+050592.html,[Rd] standard errors for glm,50592,christophe dutang
+050603.html,[Rd] non user-friendly error for chol2inv functions,50603,christophe dutang
+050606.html,[Rd] non user-friendly error for chol2inv functions,50606,christophe dutang
+050467.html,[Rd] properly reporting compile bugs,50467,egc
+050363.html,[Rd] Cannot link mypackage to 2 other packages,50363,hpages at fhcrc.org
+050365.html,[Rd] Cannot link mypackage to 2 other packages,50365,hpages at fhcrc.org
+050498.html,[Rd] Constructor blah() vs. as.blah(),50498,jhallman at frb.gov
+050393.html,[Rd] dput function (PR#12112),50393,juangea at geax.net
+050368.html,"[Rd] sapply(Date, is.numeric) (PR#11982)",50368,Robert.McGehee at geodecapital.com
+050379.html,"[Rd] sapply(Date, is.numeric) (PR#12221)",50379,Robert.McGehee at geodecapital.com
+050369.html,"[Rd] sapply(Date, is.numeric) (PR#12008)",50369,robert.mcgehee at geodecapital.com
+050390.html,[Rd] Fitted values with small weights in lm.wfit (PR#11979),50390,ablocker at gmail.com
+050389.html,[Rd] Rgui.exe(R.dll) crashes on startup when locale is set to	Korean (PR#11974),50389,juneaftn at gmail.com
+050400.html,[Rd] qgamma inaccuracy (PR#12324),50400,skylab.gupta at gmail.com
+050402.html,[Rd] bug in primes() function in the schoolmath package (PR#11957),50402,tacarey at gmail.com
+050367.html,"[Rd] When a tests/*.R file is run,	the package should automatically be loaded (PR#11950)",50367,timhesterberg at gmail.com
+050561.html,[Rd] save() should not overwrite a file if an error occurs	(PR#12583),50561,timhesterberg at gmail.com
+050587.html,[Rd] format.data.frame handles names in nested data frames badly	(PR#12624),50587,timhesterberg at gmail.com
+050578.html,[Rd] bug in package chron (PR#12599),50578,zengzhenxing at gmail.com
+050391.html,[Rd] problems with plotting of graphNEL (PR#11993),50391,christiankuehnert at gmx.de
+050453.html,[Rd] can't start the R program (PR#12525),50453,sunhh at hanmail.net
+050399.html,[Rd] crash : 2.7.0 after installing it (PR#12143),50399,sklai3 at hotmail.com
+050517.html,[Rd] format Date,50517,sayeed hussain
+050385.html,[Rd] Bug in rnorm? (PR#12016),50385,Thierry.ONKELINX at inbo.be
+050556.html,[Rd] Different results between v2.6.1 and 2.7.1 (PR#12579),50556,shiun1980 at inotera.com
+050366.html,"[Rd] memory leak in sub(&quot;[range]&quot;,	...) when #ifndef _LIBC (PR#11946)",50366,bill at insightful.com
+050593.html,[Rd] Second X11 call with invalid display crashes R after first X11	call. (PR#12628),50593,b.rowlingson at lancaster.ac.uk
+050516.html,[Rd] Allocated Memory Warnings in Vista 32 bit with 4 GB (PR#12557),50516,drmark at marktab.com
+050540.html,[Rd] Improvements to write.arff (PR#12574),50540,martin at martincmartin.com
+050445.html,[Rd] xy plot in version 2.7.1 for Mac (PR#12520),50445,ian.shrier at mcgill.ca
+050526.html,[Rd] RNGkind() state (PR#12567),50526,Ray.Brownrigg at mcs.vuw.ac.nz
+050442.html,[Rd] matrix name,50442,mel
+050448.html,[Rd] matrix name,50448,mel
+050597.html,[Rd]  &quot;error using packet 1&quot;,50597,origano
+050395.html,[Rd] Compile error on src/main/platform.c (PR#11988),50395,pnorbert at ornl.gov
+050495.html,[Rd] 'javareconf -e' as normal user (PR#12544),50495,bugs at philosof.dk
+050564.html,[Rd]  problem running dll in R,50564,rcoder
+050569.html,[Rd] problem running dll in R,50569,rcoder
+050612.html,[Rd] Security issue with javareconf script (PR#12636),50612,tcallawa at redhat.com
+050380.html,"[Rd] sapply(Date, is.numeric) (PR#12239)",50380,maechler at stat.math.ethz.ch
+050434.html,[Rd] incorrect usage of glmer crashes R (PR#12375),50434,maechler at stat.math.ethz.ch
+050351.html,[Rd] literate programming,50351,Friedrich.Leisch at stat.uni-muenchen.de
+050362.html,[Rd] literate programming,50362,Friedrich.Leisch at stat.uni-muenchen.de
+050487.html,[Rd] RNG Cycle and Duplication (PR#12536),50487,shli at stat.wvu.edu
+050489.html,[Rd] [R] RNG Cycle and Duplication (PR#12540),50489,shli at stat.wvu.edu
+050533.html,[Rd] unlist on nested lists of factors (PR#12572),50533,davison at stats.ox.ac.uk
+050381.html,"[Rd] sapply(Date, is.numeric) (PR#12244)",50381,ripley at stats.ox.ac.uk
+050384.html,"[Rd] memory leak in sub(&quot;[range]&quot;,	...) when #ifndef _LIBC (PR#12488)",50384,ripley at stats.ox.ac.uk
+050421.html,[Rd] (PR#11903 )Rgui.exe(R.dll) crashes when set the locale to,50421,ripley at stats.ox.ac.uk
+050439.html,[Rd] Rgui.exe(R.dll) crashes on startup when locale is set to	(PR#12519),50439,ripley at stats.ox.ac.uk
+050456.html,[Rd] Cairo bitmap output should work without X11 dependency	(PR#12529),50456,ripley at stats.ox.ac.uk
+050510.html,[Rd] unique.default problem (PR#12551),50510,ripley at stats.ox.ac.uk
+050519.html,[Rd] Allocated Memory Warnings in Vista 32 bit with 4 GB	(PR#12560),50519,ripley at stats.ox.ac.uk
+050486.html,[Rd] [R] RNG Cycle and Duplication (PR#12538),50486,murdoch at stats.uwo.ca
+050624.html,[Rd] R embedded reinitialization error (PR#12644),50624,fox_fzseud at trashmail.net
+050600.html,[Rd] locale2charset CPU overhead (PR#12633),50600,fox_jgigtp at trashmail.net
+050371.html,"[Rd] package.skeleton does invalide regular name, bis... (PR#12020)",50371,cgenolin at u-paris10.fr
+050583.html,[Rd] R 2.7.2 for Windows fails to install local zip package	(PR#12612),50583,rubinson at u.arizona.edu
+050618.html,[Rd] R 2.7.2 for Windows fails to install local zip package	(PR#12639),50618,rubinson at u.arizona.edu
+050417.html,[Rd] R 2.7.1 (PR#12510),50417,nellem at u.washington.edu
+050465.html,[Rd] Column name disappears when indexing a single column	(PR#12534),50465,tlumley at u.washington.edu
+050616.html,[Rd] coxph function (Survival Library) (PR#12638),50616,ana.marcos at uam.es
+050394.html,[Rd] Cairo bitmap output should work without X11 dependency	(PR#12218),50394,cruff at ucar.edu
+050626.html,[Rd] foreign package: read.epiinfo() (PR#12645),50626,gilescrane at verizon.net
+050582.html,[Rd] [R] embedded examples,50582,hadley wickham
+050425.html,[Rd] Truncation error on simply mean &amp; sum function (PR#12515),50425,samaya6501 at yahoo.com.tw
+050401.html,[Rd] incorrect usage of glmer crashes R (PR#12375),50401,susscorfa at zonnet.nl

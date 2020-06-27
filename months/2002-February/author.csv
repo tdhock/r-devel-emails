@@ -1,0 +1,125 @@
+link,Subject,id,author
+023967.html,[Rd] f2c problem,23967,Göran Broström
+023915.html,[Rd] Bug list summary (automatic post),23915,Peter Dalgaard BSA
+023918.html,[Rd] Problems sending email to r-bugs,23918,Peter Dalgaard BSA
+023921.html,[Rd] Problems sending email to r-bugs,23921,Peter Dalgaard BSA
+023930.html,[Rd] R loads uncorrect readline library (PR#1304),23930,Peter Dalgaard BSA
+023938.html,[Rd] demo(graphics) problem under rw1041 (PR#1307),23938,Peter Dalgaard BSA
+023981.html,[Rd] Bug list summary (automatic post),23981,Peter Dalgaard BSA
+023965.html,[Rd] library(methods): setMethod with &quot;ANY&quot; fails. (PR#1317),23965,Henrik Bengtsson
+024015.html,[Rd] rbinom rounds size argument,24015,Ben Bolker
+023979.html,"[Rd] Feature Request: &quot;matrix[1:10,1:10, block=F] &lt;- 1:10&quot;",23979,David Brahm
+023939.html,[Rd] demo(graphics) problem under rw1041 (PR#1307),23939,Kenneth Cabrera
+023964.html,[Rd] library(methods): setMethod with &quot;ANY&quot; fails. (PR#1317),23964,John Chambers
+023912.html,[Rd] htmlhelp() question,23912,Allin Cottrell
+023914.html,[Rd] htmlhelp() question,23914,Allin Cottrell
+023919.html,[Rd] htmlhelp() question,23919,Allin Cottrell
+023943.html,[Rd] Command History (PR#1310),23943,Dirk Eddelbuettel
+024004.html,[Rd] File permissions test during R CMD check,24004,Dirk Eddelbuettel
+024008.html,[Rd] File permissions test during R CMD check,24008,Dirk Eddelbuettel
+024010.html,[Rd] File permissions test during R CMD check,24010,Dirk Eddelbuettel
+024016.html,[Rd] Can one set CFLAGS/CXXFLAGS during R INSTALL ?,24016,Dirk Eddelbuettel
+023920.html,[Rd] Problems sending email to r-bugs,23920,Paul Gilbert
+023944.html,[Rd] R-patched and R-devel,23944,Kurt Hornik
+023946.html,[Rd] R-patched and R-devel,23946,Kurt Hornik
+023948.html,[Rd] Makeconf problem (PR#1311),23948,Kurt Hornik
+024005.html,[Rd] File permissions test during R CMD check,24005,Kurt Hornik
+023966.html,[Rd] f2c problem,23966,Stefano Iacus
+023970.html,[Rd] f2c problem,23970,Stefano Iacus
+023973.html,[Rd] Multiple macintosh() graphics devices (PR#1318),23973,Stefano Iacus
+023995.html,[Rd] Multiple macintosh() graphics devices (PR#1318),23995,Stefano Iacus
+023913.html,[Rd] chol: test for symmetry,23913,Paulo Justiniano Ribeiro Jr
+023933.html,[Rd] timing Mac R's,23933,Jan de Leeuw
+023941.html,[Rd] R-patched and R-devel,23941,Jan de Leeuw
+023990.html,[Rd] c-c problem when R compiled with pthread,23990,"Liaw, Andy"
+023907.html,[Rd] Rcmd Install gives Bad command or file name (PR#1296),23907,Uwe Ligges
+023950.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23950,Thomas Lumley
+023974.html,[Rd] Multiple macintosh() graphics devices (PR#1318),23974,Thomas Lumley
+024011.html,[Rd] File permissions test during R CMD check,24011,Martin Maechler
+023977.html,"[Rd] Feature Request: &quot;matrix[1:10,1:10, block=F] &lt;- 1:10&quot;",23977,David Meyer
+024018.html,[Rd] Bug in julian() (PR#1332),24018,Michael.Jacob@bruker-axs.de
+023949.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23949,Dan Million
+023951.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23951,Dan Million
+023961.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23961,Dan Million
+023963.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23963,Dan Million
+023983.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23983,Dan Million
+023985.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23985,Dan Million
+024001.html,"[Rd] Suggestion for rug():  include &quot;line&quot; and &quot;pos&quot; parameters, or ...",24001,Duncan Murdoch
+024017.html,[Rd] Can one set CFLAGS/CXXFLAGS during R INSTALL ?,24017,Tod M Neidt
+023936.html,[Rd] Cross-compiling to Windows,23936,Prof Brian Ripley
+023962.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23962,Prof Brian Ripley
+023969.html,[Rd] Pivoting in chol,23969,Prof Brian Ripley
+023916.html,[Rd] htmlhelp() question,23916,Prof Brian D Ripley
+023934.html,[Rd] timing Mac R's,23934,Prof Brian D Ripley
+023945.html,[Rd] R-patched and R-devel,23945,Prof Brian D Ripley
+024006.html,[Rd] File permissions test during R CMD check,24006,Prof Brian D Ripley
+024009.html,[Rd] File permissions test during R CMD check,24009,Prof Brian D Ripley
+024013.html,[Rd] Re: [R] abs() on data frames?!,24013,Prof Brian D Ripley
+023968.html,[Rd] Pivoting in chol,23968,Jonathan Rougier
+023971.html,[Rd] Pivoting in chol,23971,Jonathan Rougier
+023927.html,[Rd] typo and user-proofing in odesolve() (PR#1295),23927,Setzer.Woodrow@epamail.epa.gov
+023991.html,[Rd] c-c problem when R compiled with pthread,23991,Luke Tierney
+023910.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23910,Thomas Vogels
+023911.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23911,Thomas Vogels
+023960.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23960,Thomas Vogels
+023975.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23975,Thomas Vogels
+023984.html,[Rd] R 1.4.0 build fails on AIX (PR#1289),23984,Thomas J Vogels
+023917.html,[Rd] Problems sending email to r-bugs,23917,"Warnes, Gregory R"
+023976.html,"[Rd] Feature Request: &quot;matrix[1:10,1:10, block=F] &lt;- 1:10&quot;",23976,"Warnes, Gregory R"
+023978.html,"[Rd] Feature Request: &quot;matrix[1:10,1:10, block=F] &lt;- 1:10&quot;",23978,"Warnes, Gregory R"
+024020.html,[Rd] Thanks For Lunch Mike,24020,aiesales@ns1.ehost2102.com
+023989.html,[Rd] Gnome causes different behaviour of some R functions (PR#1321),23989,alobo@ija.csic.es
+023902.html,[Rd] Different behaviour in Linux and Windows (PR#1293),23902,amurta@ipimar.pt
+023947.html,[Rd] Makeconf problem (PR#1311),23947,bellis@hsph.harvard.edu
+024014.html,[Rd] Bug in glm.fit? (PR#1331),24014,berwin@maths.uwa.edu.au
+023905.html,[Rd] typo and user-proofing in odesolve() (PR#1295),23905,bolker@zoo.ufl.edu
+024012.html,[Rd] itemize/item crashes R CMD check (PR#1330),24012,bolker@zoo.ufl.edu
+023952.html,[Rd] latitude &lt;-&gt; longitude in quake.tab (PR#1312),23952,ckhung@cyut.edu.tw
+023972.html,[Rd] Multiple macintosh() graphics devices (PR#1318),23972,d.orme@ic.ac.uk
+024002.html,[Rd] delete.response() incorrectly handles terms-objects (PR#1327),24002,david.meyer@ci.tuwien.ac.at
+023937.html,[Rd] demo(graphics) problem under rw1041 (PR#1307),23937,eglen@pcg.wustl.edu
+023900.html,[Rd] Memory leak in read.table (PR#1292),23900,ford@signal.qinetiq.com
+023906.html,[Rd] Rcmd Install gives Bad command or file name (PR#1296),23906,forporphyry@hotmail.com
+023923.html,[Rd] FW: layout and piechart diameter problem (PR#1300),23923,gregory_r_warnes@groton.pfizer.com
+023958.html,[Rd] library(methods): setMethod with &quot;ANY&quot; fails. (PR#1317),23958,hb@maths.lth.se
+024021.html,"[Rd] Failed file(&quot;foo&quot;, &quot;r&quot;) keeps file open? (PR#1333)",24021,hb@maths.lth.se
+024023.html,"[Rd] Failed file(&quot;foo&quot;, &quot;r&quot;) keeps file open? (PR#1333)",24023,hb@maths.lth.se
+023986.html,[Rd] pi returns 0.7 (PR#1320),23986,jblewis@ucla.edu
+023908.html,[Rd] comment.char in read.fwf (PR#1297),23908,jlongmat@coh.org
+023909.html,[Rd] comment.char in read.fwf (PR#1298),23909,jlongmat@coh.org
+023925.html,[Rd] incorrect handling of arrays of list elements (PR#1301),23925,joehl@web.de
+023955.html,[Rd] Error strata in aov (PR#1315),23955,jzacks@artsci.wustl.edu
+023924.html,[Rd] PR# 1147,23924,kjetilh@umsanet.edu.bo
+023926.html,[Rd] Re: [R] expressions in legends (PR#1302),23926,ligges@statistik.uni-dortmund.de
+023931.html,[Rd] FW: layout and piechart diameter problem (PR#1300),23931,ligges@statistik.uni-dortmund.de
+023932.html,[Rd] FW: layout and piechart diameter problem (PR#1300),23932,ligges@statistik.uni-dortmund.de
+023935.html,[Rd] interaction.plot (with misplaced legend) (PR#1305),23935,ligges@statistik.uni-dortmund.de
+023957.html,[Rd] shared libraries on AIX (PR#1316),23957,lio@hpss1.ccs.ornl.gov
+023999.html,[Rd] delete.response() incorrectly handles terms-objects without response (PR#1325),23999,meyer@ci.tuwien.ac.at
+023994.html,[Rd] bug in options() - help page (PR#1323),23994,o.christensen@lancaster.ac.uk
+023997.html,[Rd] bug in options() - help page (PR#1323),23997,o.christensen@lancaster.ac.uk
+023959.html,[Rd] News Update: Diamond Entertainment Corp.,23959,ottisopt@yahoo.com
+023922.html,[Rd] testing (PR#1299),23922,p.dalgaard@biostat.ku.dk
+023904.html,[Rd] documentation for abline and terms.object (PR#1294),23904,p.ribeiro@lancaster.ac.uk
+023928.html,[Rd] failure of http://r-bugs.biostat.ku.dk/cgi-bin/R (PR#1303),23928,papadopo@shfj.cea.fr
+023929.html,[Rd] R loads uncorrect readline library (PR#1304),23929,papadopo@shfj.cea.fr
+023901.html,[Rd] Memory leak in read.table (PR#1292),23901,ripley@stats.ox.ac.uk
+023903.html,[Rd] Different behaviour in Linux and Windows (PR#1293),23903,ripley@stats.ox.ac.uk
+023954.html,[Rd] gnuwin32/readme has @RVER@ still in it (PR#1313),23954,ripley@stats.ox.ac.uk
+023956.html,[Rd] Error strata in aov (PR#1315),23956,ripley@stats.ox.ac.uk
+023987.html,[Rd] pi returns 0.7 (PR#1320),23987,ripley@stats.ox.ac.uk
+023988.html,[Rd] pi returns 0.7 (PR#1320) (fwd),23988,ripley@stats.ox.ac.uk
+023993.html,[Rd] wish: postscript-device - LaTeX ec-fonts (PR#1322),23993,ripley@stats.ox.ac.uk
+023996.html,[Rd] bug in options() - help page (PR#1323),23996,ripley@stats.ox.ac.uk
+023998.html,[Rd] bug in options() - help page (PR#1323),23998,ripley@stats.ox.ac.uk
+024000.html,[Rd] delete.response() incorrectly handles terms-objects without (PR#1326),24000,ripley@stats.ox.ac.uk
+024003.html,[Rd] delete.response() incorrectly handles terms-objects (PR#1328),24003,ripley@stats.ox.ac.uk
+024007.html,[Rd] subscripting problems with matrix lists (PR#1329),24007,ripley@stats.ox.ac.uk
+024019.html,[Rd] Bug in julian() (PR#1332),24019,ripley@stats.ox.ac.uk
+024022.html,"[Rd] Failed file(&quot;foo&quot;, &quot;r&quot;) keeps file open? (PR#1333)",24022,ripley@stats.ox.ac.uk
+023940.html,[Rd] Re: identify(...plot=F) (PR#1157),23940,rolf@math.unb.ca
+023953.html,[Rd] gnuwin32/readme has @RVER@ still in it (PR#1313),23953,stephen@cogsci.ed.ac.uk
+023942.html,[Rd] Command History (PR#1310),23942,stevelyn@mediaone.net
+023992.html,[Rd] wish: postscript-device - LaTeX ec-fonts (PR#1322),23992,stud8351@ma.tum.de
+024024.html,[Rd] pweibull.c (PR#1334),24024,terra@diku.dk
+024025.html,[Rd] pexp.c (PR#1335),24025,terra@diku.dk

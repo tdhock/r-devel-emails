@@ -1,0 +1,158 @@
+link,Subject,id,author
+067870.html,[Rd] Byte code compile not helpful in R3.0.2,67870,Prof J C Nash (U30A)
+067872.html,[Rd] Byte code compile not helpful in R3.0.2,67872,Prof J C Nash (U30A)
+067875.html,[Rd] Byte code compile (not) helpful in R3.0.2  -- Fixed.,67875,Prof J C Nash (U30A)
+067929.html,[Rd] cat with backspace and newline characters,67929,Prof J C Nash (U30A)
+067863.html,[Rd] cat with backspace and newline characters,67863,Rui Barradas
+067888.html,[Rd] Determining files opened by an R session,67888,Gabriel Becker
+067902.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67902,Gabriel Becker
+067905.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67905,Gabriel Becker
+067976.html,"[Rd] Running R embedded in an mpiexec spawned process - Fatal error: you must specify '--save', '--no-save' or '--vanilla'",67976,Gabriel Becker
+067990.html,[Rd] [Bioc-devel] package citations,67990,Gabriel Becker
+067986.html,[Rd] what is the correct way to force a copy of an object?,67986,Skye Bender-deMoll
+067866.html,[Rd] on.exit() &amp; sys.on.exit(): Calling them via eval() does not	work as hoped,67866,Henrik Bengtsson
+067873.html,[Rd] Byte code compile not helpful in R3.0.2,67873,Henrik Bengtsson
+067874.html,[Rd] on.exit() &amp; sys.on.exit(): Calling them via eval() does not work as hoped,67874,Henrik Bengtsson
+067876.html,"[Rd] WISHLIST: on.exit(..., add=TRUE,	where=&quot;first&quot;) to address common use cases",67876,Henrik Bengtsson
+067935.html,[Rd] Milestone: 5000 packages on CRAN,67935,Henrik Bengtsson
+067955.html,[Rd] SUGGESTION: Environment variable R_MAX_MC_CORES for maximum	number of cores,67955,Henrik Bengtsson
+068013.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68013,Henrik Bengtsson
+067942.html,[Rd] Support writing UTF-8 output in Windows,67942,Ben Bolker
+067957.html,[Rd] problem using rJava with parallel::mclapply,67957,"Cook, Malcolm"
+067996.html,[Rd] dynamic lists at C level,67996,G&#225;bor Cs&#225;rdi
+067998.html,[Rd] dynamic lists at C level,67998,G&#225;bor Cs&#225;rdi
+067951.html,[Rd] Embedded R Fails When Run on LSF Queue System,67951,Nigel Delaney
+067954.html,[Rd] Embedded R Fails When Run on LSF Queue System,67954,Nigel Delaney
+067879.html,"[Rd] WISHLIST: on.exit(..., add=TRUE, where=&quot;first&quot;) to address common use cases",67879,William Dunlap
+067931.html,"[Rd] R interface to C API Rf_logspace_{add,sub}?",67931,William Dunlap
+067936.html,[Rd] Milestone: 5000 packages on CRAN,67936,William Dunlap
+067993.html,[Rd] dynamic lists at C level,67993,Adrian Du&#351;a
+067995.html,[Rd] dynamic lists at C level,67995,Adrian Du&#351;a
+067999.html,[Rd] dynamic lists at C level,67999,Adrian Du&#351;a
+067869.html,"[Rd] How to make an R package that uses Boost.Thread, qualified to be published on CRAN or shared by the most",67869,Dirk Eddelbuettel
+067890.html,[Rd] Determining files opened by an R session,67890,Dirk Eddelbuettel
+067952.html,[Rd] Embedded R Fails When Run on LSF Queue System,67952,Dirk Eddelbuettel
+067953.html,[Rd] Embedded R Fails When Run on LSF Queue System,67953,Dirk Eddelbuettel
+067980.html,[Rd] R CMD check (v-3.0.2) not loading $R_CHECK_ENVIRON,67980,Dirk Eddelbuettel
+067982.html,[Rd] R CMD check (v-3.0.2) not loading $R_CHECK_ENVIRON,67982,Dirk Eddelbuettel
+067994.html,[Rd] dynamic lists at C level,67994,Dirk Eddelbuettel
+067997.html,[Rd] dynamic lists at C level,67997,Dirk Eddelbuettel
+068007.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68007,Dirk Eddelbuettel
+068008.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68008,Dirk Eddelbuettel
+068010.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68010,Dirk Eddelbuettel
+067956.html,[Rd] problem using rJava with parallel::mclapply,67956,Karl Forner
+067959.html,[Rd] problem using rJava with parallel::mclapply,67959,Karl Forner
+068014.html,[Rd] How to catch warnings sent by arguments of s4 methods ?,68014,Karl Forner
+067883.html,[Rd] R 3.1.0 and C++11,67883,Romain Francois
+067925.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67925,Romain Francois
+067927.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67927,Romain Francois
+067928.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67928,Romain Francois
+067965.html,[Rd] Linking to native routines in other packages,67965,Romain Francois
+067966.html,[Rd] Linking to native routines in other packages,67966,Romain Francois
+067967.html,[Rd] serialization for external pointers,67967,Romain Francois
+067968.html,[Rd] serialization for external pointers,67968,Romain Francois
+068000.html,[Rd] Blank lines in DESCRIPTION,68000,Laurent Gatto
+068002.html,[Rd] Blank lines in DESCRIPTION,68002,Laurent Gatto
+067860.html,[Rd] cat with backspace and newline characters,67860,Renaud Gaujoux
+067861.html,[Rd] cat with backspace and newline characters,67861,Renaud Gaujoux
+067891.html,[Rd] cat with backspace and newline characters,67891,Renaud Gaujoux
+067897.html,[Rd] cat with backspace and newline characters,67897,Renaud Gaujoux
+067910.html,[Rd] cat with backspace and newline characters,67910,Renaud Gaujoux
+067912.html,"[Rd] How to do package cleanup: hooks .onUnload, R_unload_mylib, .onDetach are not called on quit",67912,Renaud Gaujoux
+067915.html,"[Rd] How to do package cleanup: hooks .onUnload, R_unload_mylib, .onDetach are not called on quit",67915,Renaud Gaujoux
+067920.html,[Rd] cat with backspace and newline characters,67920,Renaud Gaujoux
+067865.html,[Rd] Where to drop a python script?,67865,Paul Gilbert
+067937.html,[Rd] Milestone: 5000 packages on CRAN,67937,Spencer Graves
+067862.html,[Rd] Where to drop a python script?,67862,Jonathan Greenberg
+067886.html,[Rd] Determining files opened by an R session,67886,Martin Gregory
+067899.html,[Rd] cat with backspace and newline characters,67899,Philippe Grosjean
+067943.html,[Rd] Support writing UTF-8 output in Windows,67943,Philippe Grosjean
+067949.html,[Rd] Support writing UTF-8 output in Windows,67949,Philippe Grosjean
+067887.html,[Rd] Determining files opened by an R session,67887,Bert Gunter
+068006.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68006,Dr Gregory Jefferis
+068011.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68011,Dr Gregory Jefferis
+067878.html,[Rd] R 3.1.0 and C++11,67878,Michael Kane
+067892.html,[Rd] cat with backspace and newline characters,67892,Kenn Konstabel
+067911.html,[Rd] [PATCH] minor suggestions for R-ints manual,67911,Scott Kostyshak
+067973.html,[Rd] [PATCH] suggestions for R-lang manual,67973,Scott Kostyshak
+067992.html,[Rd] freetype 2.5.1 and mono 3.2.5 (was Re: new bugs and new bundles Re: R/Sweave/cairo/freetype bug fix.),67992,Hin-Tak Leung
+067939.html,[Rd] typo in help page for log1p,67939,Uwe Ligges
+067877.html,[Rd] Failed to install kernlab package,67877,Lizkitty
+067938.html,[Rd] typo in help page for log1p,67938,Jennifer Lyon
+067895.html,[Rd] cat with backspace and newline characters,67895,Martin Maechler
+067898.html,[Rd] cat with backspace and newline characters,67898,Martin Maechler
+067900.html,[Rd] [PATCH] minor suggestions for R-ints manual,67900,Martin Maechler
+067901.html,[Rd] cat with backspace and newline characters,67901,Martin Maechler
+067958.html,"[Rd] R interface to C API Rf_logspace_{add,sub}?",67958,Martin Maechler
+067867.html,[Rd] on.exit() &amp; sys.on.exit(): Calling them via eval() does not work as hoped,67867,Peter Meilstrup
+067871.html,[Rd] Byte code compile not helpful in R3.0.2,67871,Duncan Murdoch
+067913.html,"[Rd] How to do package cleanup: hooks .onUnload, R_unload_mylib, .onDetach are not called on quit",67913,Duncan Murdoch
+067941.html,[Rd] Support writing UTF-8 output in Windows,67941,Duncan Murdoch
+067944.html,[Rd] Support writing UTF-8 output in Windows,67944,Duncan Murdoch
+067946.html,[Rd] Support writing UTF-8 output in Windows,67946,Duncan Murdoch
+067950.html,[Rd] Support writing UTF-8 output in Windows,67950,Duncan Murdoch
+067964.html,[Rd] Trouble running Rtools31 on Wine,67964,Duncan Murdoch
+067984.html,[Rd] tar binary in RTools 3.1.0.1939 has problems with tar.bz2 files,67984,Duncan Murdoch
+067988.html,[Rd] what is the correct way to force a copy of an object?,67988,Duncan Murdoch
+067989.html,[Rd] tar binary in RTools 3.1.0.1939 has problems with tar.bz2 files,67989,Duncan Murdoch
+068016.html,[Rd] Setting locale to support UTF-8,68016,Duncan Murdoch
+067961.html,[Rd] Trouble running Rtools31 on Wine,67961,Kirill M&#252;ller
+067916.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot; Dynamic list creation (SEXP in C) returns error,67916,Radford Neal
+067918.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot; Dynamic list creation (SEXP in C) returns error,67918,Radford Neal
+067921.html,[Rd] cat with backspace and newline characters,67921,Jari Oksanen
+067885.html,[Rd] ggplot2: Add '+' operator for aes (uneval) objects,67885,Brian G. Peterson
+067896.html,[Rd] cat with backspace and newline characters,67896,Brian G. Peterson
+067979.html,[Rd] R CMD check (v-3.0.2) not loading $R_CHECK_ENVIRON,67979,Daniel Polhamus
+067981.html,[Rd] R CMD check (v-3.0.2) not loading $R_CHECK_ENVIRON,67981,Daniel Polhamus
+067893.html,[Rd] cat with backspace and newline characters,67893,Prof Brian Ripley
+067903.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67903,Prof Brian Ripley
+067914.html,"[Rd] How to do package cleanup: hooks .onUnload, R_unload_mylib, .onDetach are not called on quit",67914,Prof Brian Ripley
+067933.html,[Rd] CRAN package 5000,67933,Prof Brian Ripley
+067975.html,"[Rd] Running R embedded in an mpiexec spawned process - Fatal error: you must specify '--save', '--no-save' or '--vanilla'",67975,Prof Brian Ripley
+067977.html,"[Rd] Running R embedded in an mpiexec spawned process - Fatal error: you must specify '--save', '--no-save' or '--vanilla'",67977,Prof Brian Ripley
+068005.html,[Rd] Checking packages with address sanitizer,68005,Prof Brian Ripley
+067864.html,[Rd] Where to drop a python script?,67864,Brian Lee Yung Rowe
+067922.html,[Rd] cat with backspace and newline characters,67922,Barry Rowlingson
+067868.html,"[Rd] How to make an R package that uses Boost.Thread, qualified to be published on CRAN or shared by the most",67868,Simon
+067880.html,"[Rd] How to make an R package that uses Boost.Thread, qualified to be published on CRAN or shared by the most",67880,Simon
+067934.html,[Rd] CRAN package 5000,67934,David Smith
+067940.html,[Rd] Support writing UTF-8 output in Windows,67940,Sverre Stausland
+067945.html,[Rd] Support writing UTF-8 output in Windows,67945,Sverre Stausland
+067947.html,[Rd] Support writing UTF-8 output in Windows,67947,Sverre Stausland
+067948.html,[Rd] Support writing UTF-8 output in Windows,67948,Sverre Stausland
+067991.html,[Rd] 00Index and white space: specify in doc more than 1 space	needed?,67991,Matthieu Stigler
+067889.html,[Rd] Determining files opened by an R session,67889,Murray Stokely
+068009.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68009,Murray Stokely
+067970.html,[Rd] &quot;size of shared memory region&quot; messages show up with Rtools 3.1.0.1939,67970,Dan Tenenbaum
+067971.html,[Rd] &quot;size of shared memory region&quot; messages show up with Rtools 3.1.0.1939,67971,Dan Tenenbaum
+067972.html,[Rd] &quot;size of shared memory region&quot; messages show up with Rtools 3.1.0.1939,67972,Dan Tenenbaum
+067983.html,[Rd] tar binary in RTools 3.1.0.1939 has problems with tar.bz2 files,67983,Dan Tenenbaum
+067985.html,[Rd] tar binary in RTools 3.1.0.1939 has problems with tar.bz2 files,67985,Dan Tenenbaum
+067884.html,[Rd] ggplot2: Add '+' operator for aes (uneval) objects,67884,"Thaler,Thorn,LAUSANNE,Applied Mathematics"
+067919.html,[Rd] cat with backspace and newline characters,67919,Simon Urbanek
+067960.html,[Rd] problem using rJava with parallel::mclapply,67960,Simon Urbanek
+067969.html,[Rd] serialization for external pointers,67969,Simon Urbanek
+068001.html,[Rd] Blank lines in DESCRIPTION,68001,Simon Urbanek
+068004.html,[Rd] Checking packages with address sanitizer,68004,Simon Urbanek
+068012.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68012,Simon Urbanek
+068015.html,[Rd] inflate zlib compressed data using base R or CRAN package?,68015,Simon Urbanek
+067987.html,[Rd] what is the correct way to force a copy of an object?,67987,Kevin Ushey
+067882.html,[Rd] Suggestion for help page for ?plotmath,67882,David Winsemius
+067909.html,[Rd] cat with backspace and newline characters,67909,Yihui Xie
+067894.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67894,George Vega Yon
+067904.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67904,George Vega Yon
+067907.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67907,George Vega Yon
+067908.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67908,George Vega Yon
+067917.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot; Dynamic list creation (SEXP in C) returns error,67917,George Vega Yon
+067924.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67924,George Vega Yon
+067926.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67926,George Vega Yon
+067930.html,[Rd] Dynamic list creation (SEXP in C) returns error &quot;unimplemented type (29) in 'duplicate'&quot;,67930,George Vega Yon
+067881.html,[Rd] Failed to install kernlab package,67881,Ista Zahn
+067932.html,[Rd] R CMD INSTALL - problem with working directory,67932,Simon Zehnder
+067963.html,[Rd] R CMD SHLIB error bad value (core2) for -mtune= switch,67963,Simon Zehnder
+067974.html,"[Rd] Running R embedded in an mpiexec spawned process - Fatal error: you must specify '--save', '--no-save' or '--vanilla'",67974,Jean-Michel.Perraud at csiro.au
+067978.html,"[Rd] Running R embedded in an mpiexec spawned process - Fatal error: you must specify '--save', '--no-save' or '--vanilla'",67978,Jean-Michel.Perraud at csiro.au
+067906.html,[Rd] cat with backspace and newline characters,67906,peter dalgaard
+067923.html,[Rd] cat with backspace and newline characters,67923,peter dalgaard
+067962.html,[Rd] R CMD SHLIB error bad value (core2) for -mtune= switch,67962,pranav.waila
+068003.html,[Rd] Checking packages with address sanitizer,68003,wokai

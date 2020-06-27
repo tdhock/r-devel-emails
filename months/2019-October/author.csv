@@ -1,0 +1,109 @@
+link,Subject,id,author
+078579.html,[Rd] New matrix function,78579,Avraham Adler
+078581.html,[Rd] New matrix function,78581,Avraham Adler
+078527.html,[Rd] should base R have a piping operator ?,78527,Rui Barradas
+078568.html,[Rd] How to refer to my package from another package DESCRIPTION,78568,Ramiro Barrantes
+078570.html,[Rd]  How to refer to my package from another package DESCRIPTION,78570,Ramiro Barrantes
+078534.html,[Rd] should base R have a piping operator ?,78534,Gabriel Becker
+078538.html,[Rd] Strange &quot;no-echo&quot; in place of &quot;slave&quot;,78538,Gabriel Becker
+078591.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78591,Gabriel Becker
+078606.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78606,Gabriel Becker
+078616.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78616,Gabriel Becker
+078564.html,[Rd] R-specific environment variables: Naming convention?,78564,Henrik Bengtsson
+078614.html,[Rd] set.seed() in a package,78614,Henrik Bengtsson
+078615.html,[Rd] set.seed() in a package,78615,Henrik Bengtsson
+078515.html,[Rd] Is missingness always passed on?,78515,"Bertram, Alexander"
+078516.html,[Rd] Is missingness always passed on?,78516,"Bertram, Alexander"
+078595.html,[Rd] S4SXP type vs S4 object bit?,78595,Travers Ching
+078598.html,[Rd] S4SXP type vs S4 object bit?,78598,Travers Ching
+078561.html,[Rd] \Sexpr{} within \examples{},78561,G&#225;bor Cs&#225;rdi
+078600.html,[Rd] Built field in binary packages missing the platform,78600,G&#225;bor Cs&#225;rdi
+078593.html,[Rd] Cannot install dplyr,78593,Dirk Eddelbuettel
+078594.html,[Rd] Cannot install dplyr,78594,Dirk Eddelbuettel
+078520.html,[Rd] should base R have a piping operator ?,78520,Ant F
+078525.html,[Rd] should base R have a piping operator ?,78525,Ant F
+078530.html,[Rd] should base R have a piping operator ?,78530,Ant F
+078533.html,[Rd] should base R have a piping operator ?,78533,Ant F
+078543.html,[Rd] should base R have a piping operator ?,78543,Ant F
+078592.html,[Rd] Cannot install dplyr,78592,Adam Frank
+078605.html,[Rd] interception of expression evaluation. What is the right way to proceed?,78605,Jo&#227;o Coelho Garcia
+078590.html,[Rd] contrib.url and R-devel numbering 3.7 vs 4.0,78590,Jan Gorecki
+078607.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78607,Jan Gorecki
+078573.html,[Rd] New matrix function,78573,Spencer Graves
+078582.html,[Rd] New matrix function,78582,Gabor Grothendieck
+078585.html,[Rd] New matrix function,78585,Gabor Grothendieck
+078586.html,[Rd] New matrix function,78586,Gabor Grothendieck
+078588.html,[Rd] New matrix function,78588,Gabor Grothendieck
+078544.html,[Rd] Changing HTML Error code message,78544,Gabriel Guzman
+078545.html,[Rd] should base R have a piping operator ?,78545,Lionel Henry
+078547.html,[Rd] should base R have a piping operator ?,78547,Lionel Henry
+078550.html,[Rd] should base R have a piping operator ?,78550,Lionel Henry
+078552.html,[Rd] [External] Re:  should base R have a piping operator ?,78552,Lionel Henry
+078555.html,[Rd] [External] Re: should base R have a piping operator ?,78555,Lionel Henry
+078556.html,[Rd] [External] Re:  should base R have a piping operator ?,78556,Lionel Henry
+078609.html,[Rd] stats::reshape quadratic in number of input columns,78609,Toby Hocking
+078524.html,[Rd] should base R have a piping operator ?,78524,David Hugh-Jones
+078575.html,[Rd] New matrix function,78575,Wang Jiefei
+078597.html,[Rd] S4SXP type vs S4 object bit?,78597,Wang Jiefei
+078599.html,[Rd] Unexpected behavior when using macro to loop over vector,78599,Wang Jiefei
+078603.html,[Rd] Unexpected behavior when using macro to loop over vector,78603,Wang Jiefei
+078567.html,[Rd] R-specific environment variables: Naming convention?,78567,Tomas Kalibera
+078601.html,[Rd] Unexpected behavior when using macro to loop over vector,78601,Tomas Kalibera
+078602.html,[Rd] Unexpected behavior when using macro to loop over vector,78602,Tomas Kalibera
+078604.html,[Rd] Unexpected behavior when using macro to loop over vector,78604,Tomas Kalibera
+078517.html,[Rd] Improvement in hist command documentation,78517,J&#233;r&#244;me LAURENS
+078576.html,[Rd] New matrix function,78576,Michael Lawrence
+078596.html,[Rd] S4SXP type vs S4 object bit?,78596,Michael Lawrence
+078518.html,[Rd] Improvement in hist command documentation,78518,Martin Maechler
+078559.html,[Rd] Wrong explanation on 'ylab' in hist.Rd,78559,Martin Maechler
+078560.html,[Rd] Strange &quot;no-echo&quot; in place of &quot;slave&quot;,78560,Martin Maechler
+078610.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78610,Martin Maechler
+078523.html,[Rd] should base R have a piping operator ?,78523,Hugh Marera
+078531.html,[Rd] should base R have a piping operator ?,78531,Hugh Marera
+078535.html,[Rd] should base R have a piping operator ?,78535,Joris Meys
+078578.html,[Rd] New matrix function,78578,Joris Meys
+078584.html,[Rd] New matrix function,78584,Joris Meys
+078571.html,[Rd] New matrix function,78571,Morgan Morgan
+078574.html,[Rd] New matrix function,78574,Morgan Morgan
+078577.html,[Rd] New matrix function,78577,Morgan Morgan
+078580.html,[Rd] New matrix function,78580,Morgan Morgan
+078583.html,[Rd] New matrix function,78583,Morgan Morgan
+078589.html,[Rd] New matrix function,78589,Morgan Morgan
+078522.html,[Rd] should base R have a piping operator ?,78522,John Mount
+078526.html,[Rd] should base R have a piping operator ?,78526,John Mount
+078541.html,[Rd] should base R have a piping operator ?,78541,John Mount
+078513.html,[Rd] Is missingness always passed on?,78513,Duncan Murdoch
+078542.html,[Rd] should base R have a piping operator ?,78542,Duncan Murdoch
+078546.html,[Rd] should base R have a piping operator ?,78546,Duncan Murdoch
+078549.html,[Rd] should base R have a piping operator ?,78549,Duncan Murdoch
+078563.html,[Rd] S3 lookup rules changed in R 3.6.1,78563,Duncan Murdoch
+078569.html,[Rd]  How to refer to my package from another package DESCRIPTION,78569,Duncan Murdoch
+078572.html,[Rd] New matrix function,78572,Duncan Murdoch
+078611.html,[Rd] set.seed() in a package,78611,Duncan Murdoch
+078613.html,[Rd] set.seed() in a package,78613,Duncan Murdoch
+078587.html,[Rd] New matrix function,78587,"Pages, Herve"
+078617.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78617,"Pages, Herve"
+078562.html,[Rd] S3 lookup rules changed in R 3.6.1,78562,Konrad Rudolph
+078566.html,[Rd] S3 lookup rules changed in R 3.6.1,78566,Konrad Rudolph
+078521.html,[Rd] should base R have a piping operator ?,78521,Jeff Ryan
+078565.html,[Rd] R plot window repaint and close issue on CentOS7.2,78565,Sandeep Sindhu
+078512.html,[Rd] Is missingness always passed on?,78512,Serguei Sokol
+078514.html,[Rd] Is missingness always passed on?,78514,Serguei Sokol
+078618.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78618,Abby Spurdle
+078519.html,[Rd] Error in [.terms,78519,"Therneau, Terry M., Ph.D."
+078548.html,[Rd] error in [.terms,78548,"Therneau, Terry M., Ph.D."
+078551.html,[Rd] [External] Re:  should base R have a piping operator ?,78551,"Tierney, Luke"
+078553.html,[Rd] [External] Re:  should base R have a piping operator ?,78553,"Tierney, Luke"
+078557.html,[Rd] [External] Re:  should base R have a piping operator ?,78557,"Tierney, Luke"
+078558.html,[Rd] [External] Re:  should base R have a piping operator ?,78558,"Tierney, Luke"
+078528.html,[Rd] should base R have a piping operator ?,78528,I&#241;aki Ucar
+078529.html,[Rd] should base R have a piping operator ?,78529,I&#241;aki Ucar
+078532.html,[Rd] should base R have a piping operator ?,78532,I&#241;aki Ucar
+078536.html,[Rd] should base R have a piping operator ?,78536,I&#241;aki Ucar
+078554.html,[Rd] [External] Re: should base R have a piping operator ?,78554,Kevin Ushey
+078608.html,[Rd] set.seed() in a package,78608,Marvin Wright
+078540.html,[Rd] Strange &quot;no-echo&quot; in place of &quot;slave&quot;,78540,peter dalgaard
+078612.html,[Rd] set.seed() in a package,78612,peter dalgaard
+078619.html,[Rd]  head.matrix can return 1000s of columns -- limit to n or add new argument?,78619,peter dalgaard
+078537.html,[Rd] Strange &quot;no-echo&quot; in place of &quot;slave&quot;,78537,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com
+078539.html,[Rd] Wrong explanation on 'ylab' in hist.Rd,78539,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com

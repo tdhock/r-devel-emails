@@ -1,0 +1,390 @@
+link,Subject,id,author
+036334.html,[Rd] What about a bib file,36334,Vincent Carey 525-2265
+036216.html,[Rd] Troubles with the function rmultinom.c of the R's Random Number Generator,36216,Sophie Ancelet
+036093.html,[Rd] Interfacing with user in R,36093,Augusto.Sanabria at ga.gov.au
+036129.html,[Rd] Saving a plot in R-LINUX,36129,Augusto.Sanabria at ga.gov.au
+036131.html,[Rd] Saving a plot from R-LINUX(2),36131,Augusto.Sanabria at ga.gov.au
+036149.html,[Rd] Saving a plot in R-LINUX,36149,Augusto.Sanabria at ga.gov.au
+036265.html,[Rd] Master's project to coerce linux nvidia drivers to run	generalised linear models,36265,Douglas Bates
+036155.html,[Rd] initialize expression in 'quasi' (PR#8486),36155,Bill.Venables at csiro.au
+036164.html,[Rd] initialize expression in 'quasi' (PR#8486),36164,Bill.Venables at csiro.au
+036209.html,[Rd] read.table with &quot;:&quot; in column names (PR#8511),36209,Roger Bivand
+036219.html,"[Rd] Problem loading package with version, S4 classes and NAMESPACE",36219,Roger Bivand
+036220.html,"[Rd] Problem loading package with version, S4 classes and NAMESPACE",36220,Roger Bivand
+036040.html,[Rd] confint/nls,36040,Ben Bolker
+036041.html,[Rd] prod(numeric(0)) surprise,36041,Ben Bolker
+036043.html,[Rd] prod(numeric(0)) surprise,36043,Ben Bolker
+036070.html,[Rd] Wikis (was about prod(numeric(0))),36070,Ben Bolker
+036172.html,[Rd] nls profile with port/constraints,36172,Ben Bolker
+036201.html,[Rd] Display an Image on a Plane,36201,Ben Bolker
+036236.html,[Rd] nls profiling with algorithm=&quot;port&quot; may violate	bounds	(PR#8508),36236,Ben Bolker
+036257.html,[Rd] too-large notches in boxplot (PR #7690),36257,Ben Bolker
+036330.html,[Rd] R on the brain,36330,Ben Bolker
+035956.html,[Rd] Wish list,35956,M. Edward (Ed) Borasky
+035967.html,[Rd] checkpointing,35967,Ross Boylan
+035982.html,[Rd] checkpointing,35982,Ross Boylan
+036034.html,[Rd] checkpointing,36034,Ross Boylan
+036031.html,[Rd] Multiplication (PR#8466),36031,"Brahm, David"
+036323.html,[Rd] unexported symbols in libR.so of r-devel,36323,Matthias Burger
+036035.html,[Rd] Multiplication (PR#8466),36035,George Casella
+035961.html,[Rd] Wish list,35961,John Chambers
+035984.html,[Rd] S4 default initialization: unwanted NULL,35984,John Chambers
+035988.html,[Rd] S4 default initialization: unwanted NULL,35988,John Chambers
+035960.html,[Rd] R crash with complex matrix algebra when using EISPACK=TRUE,35960,Ole F. Christensen
+035971.html,[Rd] R crash with complex matrix algebra when using EISPACK=TRUE,35971,Ole F. Christensen
+035973.html,[Rd] R crash with complex matrix algebra when using EISPACK=TRUE,35973,Peter Dalgaard
+036028.html,[Rd] Multiplication (PR#8466),36028,Peter Dalgaard
+036075.html,[Rd] eigen(),36075,Peter Dalgaard
+036077.html,[Rd] eigen(),36077,Peter Dalgaard
+036079.html,[Rd] eigen(),36079,Peter Dalgaard
+036083.html,[Rd] eigen(),36083,Peter Dalgaard
+036097.html,"[Rd] Browser problem,	Misrepresentation of .html in Solaris Firefox (PR#8471)",36097,Peter Dalgaard
+036105.html,[Rd] problem with replicate and &quot;...&quot; (PR#8472),36105,Peter Dalgaard
+036139.html,[Rd] Bug by libreadline.so.5,36139,Peter Dalgaard
+036208.html,[Rd] read.table with &quot;:&quot; in column names (PR#8511),36208,Peter Dalgaard
+036210.html,[Rd] read.table with &quot;:&quot; in column names (PR#8511),36210,Peter Dalgaard
+036212.html,[Rd] as.character on list (was read.table with &quot;:&quot; in column	names),36212,Peter Dalgaard
+036262.html,[Rd] --gui=Tk window does not stretch (PR#8520),36262,Peter Dalgaard
+036292.html,[Rd] R 2.1.1 installation fails under Suse 10.0 (PR#8533),36292,Peter Dalgaard
+035980.html,[Rd] Problems with calloc function.,35980,Marcelo Damasceno
+036324.html,[Rd] colnames(tapply(...)) (PR#8539),36324,David.Brahm at geodecapital.com
+036062.html,[Rd] Interfacing R and C++,36062,Sean Davis
+036065.html,[Rd] Interfacing R and C++,36065,Sean Davis
+036086.html,[Rd] Issue with c++ .C call,36086,Sean Davis
+036088.html,[Rd] Issue with c++ .C call,36088,Sean Davis
+036090.html,[Rd] Issue with c++ .C call,36090,Sean Davis
+036092.html,[Rd] Issue with c++ .C call,36092,Sean Davis
+036099.html,[Rd] Issue with c++ .C call,36099,Sean Davis
+036249.html,"[Rd] Read.delim error in 2.3.0 devel, not in 2.2.0",36249,Sean Davis
+036114.html,[Rd] naiveBayes.plot does not accept ask=FALSE (needed for use with	tkrplot),36114,Dominik
+036001.html,[Rd] Using STL containers in R/C++,36001,Dirk Eddelbuettel
+036130.html,[Rd] Saving a plot in R-LINUX,36130,Dirk Eddelbuettel
+036242.html,[Rd] including .svg vector graphics?,36242,Dirk Eddelbuettel
+036241.html,[Rd] including .svg vector graphics?,36241,Marjo en Edwin
+036117.html,[Rd] problem with replicate and &quot;...&quot; (PR#8472),36117,Jason Eisner
+035959.html,[Rd] Wish list,35959,Byron Ellis
+035981.html,[Rd] S4 default initialization: unwanted NULL,35981,Seth Falcon
+035985.html,[Rd] S4 default initialization: unwanted NULL,35985,Seth Falcon
+035986.html,[Rd] S4 default initialization: unwanted NULL,35986,Seth Falcon
+035989.html,[Rd] Enhancement request: anonymous connections,35989,Seth Falcon
+035991.html,"[Rd] ANN: Advanced R programming course, Seattle, Jan 18-20",35991,Seth Falcon
+036003.html,[Rd] Using STL containers in R/C++,36003,Seth Falcon
+036107.html,[Rd] problem with replicate and &quot;...&quot; (PR#8473),36107,Seth Falcon
+036202.html,"[Rd] R CMD check, NAMESPACE, import: bad error?",36202,Seth Falcon
+036215.html,"[Rd] R CMD check, NAMESPACE, import: bad error?",36215,Seth Falcon
+036234.html,[Rd] A patch for do_sample: check replace arg,36234,Seth Falcon
+036272.html,[Rd] Using substitute from inside an S4 method,36272,Seth Falcon
+035995.html,[Rd] Using STL containers in R/C++,35995,Andrew Finley
+036102.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8468),36102,David Firth
+036121.html,[Rd] hello World problem,36121,Romain Francois
+036263.html,[Rd] generate Rd file from R file,36263,Romain Francois
+036325.html,[Rd]  What about a bib file,36325,Romain Francois
+036169.html,[Rd] CRAN mirror at StatLib,36169,Friedrich.Leisch at tuwien.ac.at
+036195.html,[Rd] StatLib mirror now OK,36195,Friedrich.Leisch at tuwien.ac.at
+036269.html,[Rd] A patch for do_sample: check replace arg,36269,Robert Gentleman
+036294.html,[Rd] Bug in wilcox.test,36294,Charles Geyer
+036066.html,[Rd] [R] ouml in an .Rd,36066,Paul Gilbert
+036106.html,[Rd] typo in factanal.Rd,36106,Paul Gilbert
+036222.html,[Rd] nls profiling with algorithm=&quot;port&quot; may violate	bounds	(PR#8508),36222,Spencer Graves
+036237.html,[Rd] nls profiling with algorithm=&quot;port&quot; may violate bounds	(PR#8508),36237,Spencer Graves
+036264.html,[Rd] generate Rd file from R file,36264,Philippe Grosjean
+035949.html,[Rd] Wish list,35949,Gabor Grothendieck
+035951.html,[Rd] Wish list,35951,Gabor Grothendieck
+035975.html,[Rd] checkpointing,35975,Gabor Grothendieck
+035997.html,[Rd] defining a print method,35997,Gabor Grothendieck
+036024.html,[Rd] Multiplication (PR#8466),36024,Gabor Grothendieck
+036027.html,[Rd] Multiplication (PR#8466),36027,Gabor Grothendieck
+036055.html,[Rd] prod(numeric(0)) surprise,36055,Gabor Grothendieck
+036112.html,[Rd] natural sorting,36112,Gabor Grothendieck
+036227.html,[Rd] Bug in xy.coords() or documentation error?,36227,Gabor Grothendieck
+036229.html,[Rd] Bug in xy.coords() or documentation error?,36229,Gabor Grothendieck
+036232.html,[Rd] Bug in xy.coords() or documentation error?,36232,Gabor Grothendieck
+036260.html,[Rd] Master's project to coerce linux nvidia drivers to run	generalised linear models,36260,Gabor Grothendieck
+036266.html,[Rd] Master's project to coerce linux nvidia drivers to run	generalised linear models,36266,Gabor Grothendieck
+036273.html,[Rd] Using substitute from inside an S4 method,36273,Gabor Grothendieck
+036304.html,[Rd] [R] help with read.table() function,36304,Gabor Grothendieck
+036307.html,[Rd] [R] help with read.table() function,36307,Gabor Grothendieck
+036337.html,[Rd] [R] Help! What does this R command mean?,36337,Gabor Grothendieck
+036067.html,[Rd] prod(numeric(0)) surprise,36067,Kjetil Halvorsen
+036221.html,[Rd] Minumum memory requirements to run R.,36221,Kjetil Brinchmann Halvorsen
+036074.html,[Rd] eigen(),36074,Robin Hankin
+036080.html,[Rd] eigen(),36080,Robin Hankin
+035974.html,[Rd] checkpointing,35974,Kasper Daniel Hansen
+035979.html,[Rd] checkpointing,35979,Kasper Daniel Hansen
+036148.html,[Rd] Linux and proxy problem (PR#8488),36148,Kasper Daniel Hansen
+036284.html,[Rd] e1071: using svm with sparse matrices (PR#8527),36284,Kasper Daniel Hansen
+036332.html,[Rd] R on the brain,36332, (Ted Harding)
+036037.html,[Rd] minor build problem,36037,Cyrus Harmon
+036076.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8468),36076,Heather.Turner at warwick.ac.uk
+036214.html,[Rd]  read.table with &quot;:&quot; in column names (PR#8511),36214,Joerg van den Hoff
+036147.html,[Rd] tempdir() in R-2.2.1 under Windows,36147,J. Hosking
+036268.html,[Rd] useR! 2006 - Submission Deadline 2006-02-28,36268,Torsten Hothorn
+036289.html,[Rd] PR#8528,36289,IandJMSmith at aol.com
+036140.html,[Rd] Palette functions in grDevices,36140,Robert W. Johnstone
+036012.html,[Rd] Q: R 2.2.1:  Memory Management Issues?,36012,Karen.Green at sanofi-aventis.com
+036015.html,[Rd] Q: R 2.2.1:  Memory Management Issues?,36015,Karen.Green at sanofi-aventis.com
+036016.html,[Rd] Q: R 2.2.1:  Memory Management Issues?,36016,Karen.Green at sanofi-aventis.com
+036243.html,[Rd] proposed pbirthday fix,36243,Ken Knoblauch
+036168.html,[Rd] Section 7.1 HML documentation (PR#8484),36168,Greg Kochanski
+036178.html,[Rd] Section 7.1 HML documentation (PR#8484),36178,Greg Kochanski
+036313.html,[Rd] Mosaicplot coloring (PR#8537),36313,Greg Kochanski
+036315.html,[Rd] Mosaicplot coloring (PR#8537),36315,Greg Kochanski
+036318.html,[Rd] --gui=Tk window does not stretch (PR#8520),36318,Greg Kochanski
+036320.html,[Rd] Mosaicplot coloring (PR#8537),36320,Greg Kochanski
+035983.html,[Rd] S4 default initialization: unwanted NULL,35983,Matthias Kohl
+036258.html,[Rd] Master's project to coerce linux nvidia drivers to run generalised linear models,36258,Oliver LYTTELTON
+036193.html,[Rd] Display an Image on a Plane,36193,"Labbe, Vincent (AEREX)"
+035952.html,[Rd] Wish list,35952,Duncan Temple Lang
+036004.html,[Rd] Problems with calloc function.,36004,Hin-Tak Leung
+036050.html,[Rd] R plot display problem under windows when using python rpy module.,36050,Hin-Tak Leung
+036052.html,[Rd] R plot display problem under windows when using python rpy module.,36052,Hin-Tak Leung
+036078.html,[Rd] eigen(),36078,Hin-Tak Leung
+036167.html,[Rd] Section 7.1 HML documentation (PR#8484),36167,Hin-Tak Leung
+036175.html,[Rd] Section 7.1 HML documentation (PR#8484),36175,Hin-Tak Leung
+036247.html,[Rd] Minumum memory requirements to run R.,36247,Hin-Tak Leung
+036250.html,[Rd] Minumum memory requirements to run R.,36250,Hin-Tak Leung
+036253.html,[Rd] Minumum memory requirements to run R.,36253,Hin-Tak Leung
+036282.html,[Rd] rbind/cbind unimplemented for raw (RAWSXP) types. (PR#8529),36282,Hin-Tak Leung
+036283.html,[Rd] sub* assgnment unimplemented for raw (RAWSXP) types.	(PR#8530),36283,Hin-Tak Leung
+036267.html,[Rd] unexported symbols in libR.so of r-devel,36267,Na Li
+036006.html,[Rd] random seed question,36006,"Liaw, Andy"
+036057.html,[Rd] prod(numeric(0)) surprise,36057,"Liaw, Andy"
+036123.html,[Rd] hello World problem,36123,"Liaw, Andy"
+036223.html,[Rd] Minumum memory requirements to run R.,36223,"Liaw, Andy"
+036285.html,[Rd] e1071: using svm with sparse matrices (PR#8527),36285,"Liaw, Andy"
+036317.html,[Rd] Mosaicplot coloring (PR#8537),36317,"Liaw, Andy"
+036333.html,[Rd] R on the brain,36333,"Liaw, Andy"
+036224.html,[Rd] Minumum memory requirements to run R.,36224,Uwe Ligges
+036110.html,[Rd] R 2.2.2-1 RPM build problem and solution on RH AS 4 x86_64,36110,Dan Lipsitt
+036023.html,[Rd] Multiplication (PR#8466),36023,Thomas Lumley
+036061.html,[Rd] prod(numeric(0)) surprise,36061,Thomas Lumley
+036089.html,[Rd] Issue with c++ .C call,36089,Thomas Lumley
+036091.html,[Rd] Issue with c++ .C call,36091,Thomas Lumley
+036095.html,[Rd] Issue with c++ .C call,36095,Thomas Lumley
+036170.html,[Rd] [OT] GPL3 draft,36170,Thomas Lumley
+036187.html,[Rd] (PR#8500) standard install on OS 10.3.9 crashes on start without useful diagnostics (PR#8500),36187,Thomas Lumley
+036251.html,[Rd] Minumum memory requirements to run R.,36251,Thomas Lumley
+036255.html,[Rd] Minumum memory requirements to run R.,36255,Thomas Lumley
+036259.html,[Rd] Master's project to coerce linux nvidia drivers to	run	generalised linear models,36259,Marc Schwartz (via MN)
+035966.html,[Rd] all.equal() improvements (PR#8191),35966,Martin Maechler
+035999.html,[Rd] Pb with agrep(),35999,Martin Maechler
+036007.html,[Rd] Using gcc4 visibility features,36007,Martin Maechler
+036045.html,[Rd] prod(numeric(0)) surprise,36045,Martin Maechler
+036073.html,[Rd] [R] ouml in an .Rd,36073,Martin Maechler
+036085.html,[Rd] eigen(),36085,Martin Maechler
+036135.html,[Rd] [R] &quot;infinite recursion&quot; in do.call when lme4 loaded only,36135,Martin Maechler
+036173.html,[Rd] symbols function -- possible enhancements,36173,Martin Maechler
+036174.html,[Rd] natural sorting,36174,Martin Maechler
+036183.html,[Rd] R: ecdf - linear,36183,Martin Maechler
+036246.html,[Rd] proposed pbirthday fix,36246,Martin Maechler
+036254.html,[Rd] proposed pbirthday fix,36254,Martin Maechler
+036312.html,[Rd] [R] help with read.table() function,36312,Martin Maechler
+036322.html,[Rd] [R] help with read.table() function,36322,Martin Maechler
+036326.html,[Rd] colnames(tapply(...)) (PR#8539),36326,Martin Maechler
+036336.html,[Rd] What about a bib file,36336,Martin Maechler
+036306.html,[Rd] Citation of R packages,36306,John Maindonald
+035957.html,[Rd] sealed namespaces and lockEnvironment,35957,Mark.Bravington at csiro.au
+036044.html,[Rd] Problem installing from source: no CONTENTS files,36044,Mark.Bravington at csiro.au
+036072.html,[Rd] Problem installing from source: no CONTENTS files,36072,Mark.Bravington at csiro.au
+036128.html,[Rd] .leap.seconds,36128,"McGehee, Robert"
+036190.html,[Rd] (PR#8502) comment,36190,Mike.Prager at noaa.gov
+035987.html,[Rd] can someone help me understand LAM/MPI and Rmpi for use on a cluster,35987,Martin Morgan
+036053.html,[Rd] prod(numeric(0)) surprise,36053,Martin Morgan
+036056.html,[Rd] prod(numeric(0)) surprise,36056,Martin Morgan
+036059.html,[Rd] prod(numeric(0)) surprise,36059,Martin Morgan
+035950.html,[Rd] Wish list,35950,Duncan Murdoch
+035953.html,[Rd] Enhancement request: anonymous connections,35953,Duncan Murdoch
+035955.html,[Rd] Enhancement request: anonymous connections,35955,Duncan Murdoch
+035968.html,[Rd] xy.coords,35968,Duncan Murdoch
+036011.html,[Rd] random seed question,36011,Duncan Murdoch
+036042.html,[Rd] prod(numeric(0)) surprise,36042,Duncan Murdoch
+036054.html,[Rd] prod(numeric(0)) surprise,36054,Duncan Murdoch
+036058.html,[Rd] prod(numeric(0)) surprise,36058,Duncan Murdoch
+036125.html,[Rd] hello World problem,36125,Duncan Murdoch
+036233.html,[Rd] Bug in xy.coords() or documentation error?,36233,Duncan Murdoch
+036244.html,[Rd] 2nd argument to substitute(),36244,Duncan Murdoch
+036293.html,[Rd] [R] help with read.table() function,36293,Duncan Murdoch
+036297.html,[Rd] [R] help with read.table() function,36297,Duncan Murdoch
+036302.html,[Rd] [R] help with read.table() function,36302,Duncan Murdoch
+036303.html,[Rd] [R] help with read.table() function,36303,Duncan Murdoch
+036305.html,[Rd] [R] help with read.table() function,36305,Duncan Murdoch
+036321.html,[Rd] [R] help with read.table() function,36321,Duncan Murdoch
+036335.html,[Rd] [R] Integer bit size and the modulus operator (PR#8541),36335,Duncan Murdoch
+035993.html,[Rd] Pb with agrep(),35993,Herve Pages
+036018.html,[Rd] Pb with agrep(),36018,Herve Pages
+036030.html,[Rd] 'cannot create directory' bug fixed,36030,Herve Pages
+036032.html,[Rd] Multiplication (PR#8466),36032,Herve Pages
+036047.html,[Rd] R plot display problem under windows when using python rpy	module.,36047,Bo Peng
+036049.html,[Rd] R plot display problem under windows when using python rpy	module.,36049,Bo Peng
+036051.html,[Rd] R plot display problem under windows when using python rpy	module.,36051,Bo Peng
+036150.html,[Rd] Provide both shlib and standard versions of R?,36150,Bo Peng
+036152.html,[Rd] Provide both shlib and standard versions of R?,36152,Bo Peng
+036154.html,[Rd] Provide both shlib and standard versions of R?,36154,Bo Peng
+036160.html,[Rd] Provide both shlib and standard versions of R?,36160,Bo Peng
+036225.html,[Rd] Loading of namespace on load of .Rdata (was strange	behaviour of load),36225,Roger Peng
+035977.html,[Rd] checkpointing,35977,Roger D. Peng
+036331.html,[Rd] R on the brain,36331,Roger D. Peng
+036194.html,[Rd] function 'eigen' (PR#8503),36194,Pierre.Legendre at umontreal.ca
+036120.html,[Rd] natural sorting,36120,Andrew Piskorski
+036069.html,[Rd] prod(numeric(0)) surprise,36069,Tony Plate
+036071.html,[Rd] Wikis (was about prod(numeric(0))),36071,Tony Plate
+036118.html,[Rd] R 2.2.2-1 RPM build problem and solution on RH AS 4 x86_64,36118,Martyn Plummer
+036161.html,[Rd] Provide both shlib and standard versions of R?,36161,Martyn Plummer
+035970.html,[Rd] checkpointing,35970,Brian D Ripley
+035954.html,[Rd] Enhancement request: anonymous connections,35954,Prof Brian Ripley
+035963.html,[Rd] R crash with complex matrix algebra when using EISPACK=TRUE,35963,Prof Brian Ripley
+035965.html,[Rd] all.equal() improvements (PR#8191),35965,Prof Brian Ripley
+035972.html,[Rd] R crash with complex matrix algebra when using EISPACK=TRUE,35972,Prof Brian Ripley
+035976.html,[Rd] checkpointing,35976,Prof Brian Ripley
+035996.html,[Rd] Using STL containers in R/C++,35996,Prof Brian Ripley
+036000.html,[Rd] Using gcc4 visibility features,36000,Prof Brian Ripley
+036019.html,[Rd] Q: R 2.2.1:  Memory Management Issues?,36019,Prof Brian Ripley
+036038.html,[Rd] minor build problem,36038,Prof Brian Ripley
+036046.html,[Rd] Problem installing from source: no CONTENTS files,36046,Prof Brian Ripley
+036048.html,[Rd] R plot display problem under windows when using python rpy module.,36048,Prof Brian Ripley
+036060.html,[Rd] confint/nls,36060,Prof Brian Ripley
+036063.html,[Rd] Interfacing R and C++,36063,Prof Brian Ripley
+036064.html,[Rd] prod(numeric(0)) surprise,36064,Prof Brian Ripley
+036082.html,[Rd] eigen(),36082,Prof Brian Ripley
+036084.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8468),36084,Prof Brian Ripley
+036098.html,"[Rd] (PR#8471) Browser problem, Misrepresentation of .html in Solaris Firefox",36098,Prof Brian Ripley
+036104.html,[Rd] Updates for building R-devel for Windows,36104,Prof Brian Ripley
+036109.html,[Rd] Fixed plot height question,36109,Prof Brian Ripley
+036111.html,[Rd] R 2.2.2-1 RPM build problem and solution on RH AS 4 x86_64,36111,Prof Brian Ripley
+036119.html,[Rd] strange lme errors (PR#8477),36119,Prof Brian Ripley
+036124.html,[Rd] hello World problem,36124,Prof Brian Ripley
+036132.html,[Rd] Saving a plot in R-LINUX,36132,Prof Brian Ripley
+036133.html,[Rd] Saving a plot from R-LINUX(2),36133,Prof Brian Ripley
+036134.html,[Rd] .leap.seconds,36134,Prof Brian Ripley
+036138.html,[Rd] Bug by libreadline.so.5,36138,Prof Brian Ripley
+036156.html,[Rd] Provide both shlib and standard versions of R?,36156,Prof Brian Ripley
+036157.html,[Rd] initialize expression in 'quasi' (PR#8486),36157,Prof Brian Ripley
+036180.html,[Rd] Minumum memory requirements to run R.,36180,Prof Brian Ripley
+036182.html,[Rd] Loading of namespace on load of .Rdata (was strange behaviour of load),36182,Prof Brian Ripley
+036186.html,[Rd] symbols function -- possible enhancements,36186,Prof Brian Ripley
+036204.html,"[Rd] R CMD check, NAMESPACE, import: bad error?",36204,Prof Brian Ripley
+036205.html,[Rd] par(mfg=) and postscript and pdf,36205,Prof Brian Ripley
+036211.html,[Rd] as.character on list (was read.table with &quot;:&quot; in column names),36211,Prof Brian Ripley
+036217.html,[Rd] Troubles with Fortran and C (was with the function rmultinom.c of the R's Random Number Generator),36217,Prof Brian Ripley
+036218.html,"[Rd] [R] cron job install/update problems: tcltk can't find display (installing e.g., pbatR)",36218,Prof Brian Ripley
+036240.html,"[Rd] R CMD check, NAMESPACE, import: bad error?",36240,Prof Brian Ripley
+036248.html,[Rd] Minumum memory requirements to run R.,36248,Prof Brian Ripley
+036252.html,[Rd] Minumum memory requirements to run R.,36252,Prof Brian Ripley
+036256.html,"[Rd] Read.delim error in 2.3.0 devel, not in 2.2.0",36256,Prof Brian Ripley
+036270.html,[Rd] unexported symbols in libR.so of r-devel,36270,Prof Brian Ripley
+036277.html,[Rd] [R] R compile on AIX 5.2,36277,Prof Brian Ripley
+036299.html,[Rd] [R] help with read.table() function,36299,Prof Brian Ripley
+036311.html,[Rd] colnames(tapply(...)) (PR#8539),36311,Prof Brian Ripley
+036319.html,[Rd] References to contributed packages (was Re: Mosaicplot	coloring),36319,Prof Brian Ripley
+035958.html,[Rd] R on Zaurus (was: Wish list),35958,Andrew Robinson
+036116.html,[Rd] strange lme errors (PR#8477),36116,Andrew Robinson
+036008.html,[Rd] Problems with calloc function.,36008,Paul Roebuck
+036021.html,[Rd] Using STL containers in R/C++,36021,Paul Roebuck
+036271.html,[Rd] Generated HTML tags not all lowercase,36271,Paul Roebuck
+035994.html,"[Rd] R-devel Digest, Vol 35, Issue 4",35994,A.J. Rossini
+035978.html,[Rd] checkpointing,35978,Barry Rowlingson
+035992.html,[Rd] R on Thin Client with Win 2003,35992,Barry Rowlingson
+036013.html,[Rd] Using STL containers in R/C++,36013,Dominick Samperi
+036087.html,[Rd] Issue with c++ .C call,36087,Dominick Samperi
+036127.html,[Rd] Rcpp 1.1: R/C++ interface class library update,36127,Dominick Samperi
+035998.html,[Rd] defining a print method,35998,Deepayan Sarkar
+036010.html,[Rd] extending lattice to S4 classes,36010,Deepayan Sarkar
+036108.html,[Rd] Fixed plot height question,36108,Mike Schaffer
+036213.html,[Rd] par(mfg=) and postscript and pdf,36213,Marc Schwartz
+036296.html,[Rd] [R] help with read.table() function,36296,Marc Schwartz
+036301.html,[Rd] [R] help with read.table() function,36301,Marc Schwartz
+036226.html,[Rd] Bug in xy.coords() or documentation error?,36226,Gavin Simpson
+036228.html,[Rd] Bug in xy.coords() or documentation error?,36228,Gavin Simpson
+036230.html,[Rd] Bug in xy.coords() or documentation error?,36230,Gavin Simpson
+036235.html,[Rd] Bug in xy.coords() or documentation error?,36235,Gavin Simpson
+036005.html,[Rd] random seed question,36005,Tib
+036203.html,"[Rd] R CMD check, NAMESPACE, import: bad error?",36203,Berwin A Turlach
+036239.html,"[Rd] R CMD check, NAMESPACE, import: bad error?",36239,Berwin A Turlach
+036181.html,[Rd] Loading of namespace on load of .Rdata (was strange	behaviour	of load),36181,Heather Turner
+036185.html,[Rd] Loading of namespace on load of .Rdata (was	strange	behaviourof load),36185,Heather Turner
+036014.html,[Rd] Q: R 2.2.1:  Memory Management Issues?,36014,Simon Urbanek
+036017.html,[Rd] Q: R 2.2.1:  Memory Management Issues?,36017,Simon Urbanek
+036039.html,[Rd] minor build problem,36039,Simon Urbanek
+036068.html,[Rd] prod(numeric(0)) surprise,36068,Simon Urbanek
+036094.html,[Rd] Interfacing with user in R,36094,Simon Urbanek
+036151.html,[Rd] Provide both shlib and standard versions of R?,36151,Simon Urbanek
+036171.html,[Rd] natural sorting,36171,"Warnes, Gregory R"
+036188.html,[Rd] natural sorting,36188,"Warnes, Gregory R"
+036286.html,[Rd] Tiny typo in ?sprintf,36286,Stephen Weigand
+036309.html,[Rd] Mosaicplot coloring (PR#8537),36309,Achim Zeileis
+036310.html,[Rd] mosaicplot() labels overlap (PR#8536),36310,Achim Zeileis
+036314.html,[Rd] Mosaicplot coloring (PR#8537),36314,Achim Zeileis
+036316.html,[Rd] Mosaicplot coloring (PR#8537),36316,Achim Zeileis
+036136.html,[Rd] Saving a plot in R-LINUX,36136,Vaidotas Zemlys
+036137.html,[Rd] Bug by libreadline.so.5,36137,acasseb at ufpa.br
+036274.html,[Rd] Using substitute from inside an S4 method,36274,bill at insightful.com
+036200.html,[Rd] nls profiling with algorithm=&quot;port&quot; may violate bounds	(PR#8508),36200,bolker at zoo.ufl.edu
+036026.html,[Rd] Multiplication (PR#8466),36026,roger bos
+036287.html,[Rd] PR#1654,36287,cain at u.washington.edu
+036022.html,[Rd] Multiplication (PR#8466),36022,casella at stat.ufl.edu
+036036.html,[Rd] Multiplication (PR#8466),36036,casella at stat.ufl.edu
+036096.html,"[Rd] Browser problem,	Misrepresentation of .html in Solaris Firefox (PR#8471)",36096,christian.hoffmann at wsl.ch
+036103.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8468),36103,d.firth at warwick.ac.uk
+036198.html,[Rd] bug in rbind.data.frame: wrong rownames (PR#8506),36198,deepayan.sarkar at gmail.com
+036231.html,[Rd] Quits immediately / missing files (PR#8515),36231,denswei at bee.net
+036184.html,[Rd] standard install on OS 10.3.9 crashes on start without useful	diagnostics (PR#8500),36184,donahue at skepsis.com
+036165.html,[Rd] Error handling in solve.default (PR#8494),36165,epurdom at stanford.edu
+036020.html,[Rd] extending lattice to S4 classes,36020,ernesto
+036159.html,[Rd] _pei386_runtime_relocator ? (PR#8491),36159,ewellm at cox.net
+036025.html,[Rd] Multiplication (PR#8466),36025,ggrothendieck at gmail.com
+036141.html,[Rd] help.start() and Debian packaging (PR#8483),36141,greg.kochanski at phon.ox.ac.uk
+036142.html,[Rd] Section 7.1 HML documentation (PR#8484),36142,greg.kochanski at phon.ox.ac.uk
+036143.html,[Rd] Minor: bad label in &quot;faithful&quot; dataset (PR#8485),36143,greg.kochanski at phon.ox.ac.uk
+036261.html,[Rd] --gui=Tk window does not stretch (PR#8520),36261,greg.kochanski at phon.ox.ac.uk
+036295.html,[Rd] dataentry() (PR#8535),36295,greg.kochanski at phon.ox.ac.uk
+036298.html,[Rd] mosaicplot() labels overlap (PR#8536),36298,greg.kochanski at phon.ox.ac.uk
+036300.html,[Rd] Mosaicplot coloring (PR#8537),36300,greg.kochanski at phon.ox.ac.uk
+036158.html,[Rd] help.start() and Debian packaging (PR#8483),36158,greg.kochanski at phonetics.oxford.ac.uk
+036179.html,[Rd] Section 7.1 HML documentation (PR#8484),36179,greg.kochanski at phonetics.oxford.ac.uk
+036280.html,[Rd] rbind/cbind unimplemented for raw (RAWSXP) types. (PR#8529),36280,hin-tak.leung at cimr.cam.ac.uk
+036281.html,[Rd] sub* assgnment unimplemented for raw (RAWSXP) types. (PR#8530),36281,hin-tak.leung at cimr.cam.ac.uk
+036033.html,[Rd] Multiplication (PR#8466),36033,hpages at fhcrc.org
+036191.html,[Rd] (PR#8500) standard install on OS 10.3.9 crashes on start	without useful diagnostics (PR#8500),36191,stefano iacus
+036238.html,[Rd] Quits immediately / missing files (PR#8515),36238,stefano iacus
+036100.html,[Rd] problem with replicate and &quot;...&quot; (PR#8472),36100,jason at cs.jhu.edu
+036101.html,[Rd] problem with replicate and &quot;...&quot; (PR#8473),36101,jason at cs.jhu.edu
+036275.html,[Rd] example in ?plot.window is incorrect (PR#8524),36275,jgvcqa at rit.edu
+036166.html,[Rd] data.matrix returns mode logical for zero rows (PR#8496),36166,jonathan.swinton at astrazeneca.com
+036278.html,[Rd] e1071: using svm with sparse matrices (PR#8527),36278,julien.gagneur at embl.de
+036308.html,[Rd] colnames(tapply(...)) (PR#8539),36308,karl.thomaseth at isib.cnr.it
+036245.html,[Rd] proposed pbirthday fix,36245,ken knoblauch
+036163.html,[Rd] problem unpacking R sources (PR#8492),36163,ligges at statistik.uni-dortmund.de
+035962.html,[Rd] all.equal() improvements (PR#8191),35962,maechler at stat.math.ethz.ch
+035964.html,[Rd] all.equal() improvements (PR#8191),35964,maechler at stat.math.ethz.ch
+036081.html,[Rd] standardized residuals (rstandard &amp; plot.lm) (PR#8468),36081,maechler at stat.math.ethz.ch
+035969.html,"[Rd] load, environment[[, and attr&lt;-/attributes&lt;- (PR#8457)",35969,mark.bravington at csiro.au
+036189.html,[Rd] Suboptimal EPS output (PR#8502),36189,mike.prager at noaa.gov
+036327.html,[Rd] [R] Integer bit size and the modulus operator (PR#8541),36327,murdoch at stats.uwo.ca
+035990.html,[Rd] update.formula gotcha (PR#8462),35990,p.dalgaard at biostat.ku.dk
+036029.html,[Rd] Multiplication (PR#8466),36029,p.dalgaard at biostat.ku.dk
+036206.html,[Rd] read.table with &quot;:&quot; in column names (PR#8511),36206,peverlorenvanthemaat at amc.uva.nl
+036126.html,[Rd] follow-up on qr.coef bug (PR#8478),36126,ripley at stats.ox.ac.uk
+036144.html,[Rd] help.start() and Debian packaging (PR#8483),36144,ripley at stats.ox.ac.uk
+036177.html,[Rd] phyper returns 1 if x==k (PR#8499),36177,ripley at stats.ox.ac.uk
+036192.html,[Rd] data.matrix returns mode logical for zero rows (PR#8496),36192,ripley at stats.ox.ac.uk
+036196.html,[Rd] function 'eigen' (PR#8503),36196,ripley at stats.ox.ac.uk
+036197.html,[Rd] Suboptimal EPS output (PR#8502),36197,ripley at stats.ox.ac.uk
+036207.html,[Rd] read.table with &quot;:&quot; in column names (PR#8511),36207,ripley at stats.ox.ac.uk
+036276.html,[Rd] (PR#8524) Report on obselete version of R (was example in,36276,ripley at stats.ox.ac.uk
+036279.html,[Rd] pgamma - inadequate algorithm design and poor coding (PR#8528),36279,ripley at stats.ox.ac.uk
+036288.html,[Rd] Your false remark on PR#1654,36288,ripley at stats.ox.ac.uk
+036291.html,[Rd] R 2.1.1 installation fails under Suse 10.0 (PR#8533),36291,ripley at stats.ox.ac.uk
+036328.html,[Rd] [R] Integer bit size and the modulus operator (PR#8541),36328,ripley at stats.ox.ac.uk
+036329.html,[Rd] [R] Integer bit size and the modulus operator (PR#8541),36329,ripley at stats.ox.ac.uk
+036290.html,[Rd] R 2.1.1 installation fails under Suse 10.0 (PR#8533),36290,sigbert at wiwi.hu-berlin.de
+036113.html,[Rd] bug in qr.coef() and (therefore) in qr.solve (PR#8476),36113,sims at Princeton.EDU
+036122.html,[Rd] follow-up on qr.coef bug (PR#8478),36122,sims at Princeton.EDU
+036162.html,[Rd] problem unpacking R sources (PR#8492),36162,sls at usc.edu
+036199.html,"[Rd] chron library: format.times, parse.format and h:m (PR#8507)",36199,spector at stat.Berkeley.EDU
+036145.html,[Rd] Linux proxy problem (PR#8487),36145,taccioli.1 at osu.edu
+036146.html,[Rd] Linux and proxy problem (PR#8488),36146,taccioli.1 at osu.edu
+036176.html,[Rd] phyper returns 1 if x==k (PR#8499),36176,utz.pape at molgen.mpg.de
+036115.html,[Rd] strange lme errors (PR#8477),36115,wb at arb-phys.uni-dortmund.de
+036002.html,[Rd] Using gcc4 visibility features,36002,elijah wright
+036009.html,[Rd] Using gcc4 visibility features,36009,elijah wright
+036153.html,[Rd] Provide both shlib and standard versions of R?,36153,elijah wright

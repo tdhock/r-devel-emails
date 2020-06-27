@@ -1,0 +1,91 @@
+link,Subject,id,author
+018062.html,pretty(.) bug -- fix --&gt; &quot;compatibility&quot; ?,18062,Peter Dalgaard BSA
+018064.html,User time and system time,18064,Peter Dalgaard BSA
+018081.html,R-beta: R with gnuwin32,18081,Peter Dalgaard BSA
+018083.html,R-beta: R with gnuwin32,18083,Peter Dalgaard BSA
+018093.html,R-0.61.2  and March 17 snapshot,18093,Peter Dalgaard BSA
+018099.html,Apropos names.,18099,Peter Dalgaard BSA
+018108.html,mail-archive place?,18108,Peter Dalgaard BSA
+018110.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18110,Peter Dalgaard BSA
+018114.html,Apropos names.,18114,Peter Dalgaard BSA
+018118.html,Placement of attributes,18118,Peter Dalgaard BSA
+018124.html,R-beta: R with gnuwin32,18124,Peter Dalgaard BSA
+018133.html,R alpha/beta naming,18133,Peter Dalgaard BSA
+018142.html,R: did you know  ``comment(.) and  comment(.) &lt;- ...'',18142,Peter Dalgaard BSA
+018147.html,R-beta: Not loading C library,18147,Peter Dalgaard BSA
+018058.html,lme-2.8-1.tar.gz uploaded to src/contrib/devel,18058,Douglas Bates
+018063.html,User time and system time,18063,Douglas Bates
+018065.html,system.time() results,18065,Douglas Bates
+018084.html,R-beta: Re: dse+redhat 4.2 problem,18084,Douglas Bates
+018087.html,``nlm(.) with derivatives'',18087,Douglas Bates
+018101.html,Copyrights on CRAN/src/contrib libraries,18101,Douglas Bates
+018111.html,documentation for &quot;vector&quot;,18111,Douglas Bates
+018112.html,documentation for &quot;vector&quot;,18112,Douglas Bates
+018117.html,Placement of attributes,18117,Douglas Bates
+018066.html,fairly trivial bug in box(): 0.61.1,18066,Ben Bolker
+018092.html,R-0.61.2  and March 17 snapshot,18092,"Buyukisik, Osman (GEAE)"
+018107.html,mail-archive place?,18107,"Buyukisik, Osman (GEAE)"
+018119.html,Placement of attributes,18119,U-E59264-Osman Buyukisik
+018120.html,Placement of attributes,18120,U-E59264-Osman Buyukisik
+018122.html,Placement of attributes,18122,U-E59264-Osman Buyukisik
+018127.html,Placement of attributes,18127,U-E59264-Osman Buyukisik
+018071.html,"S compatibility  and  time-series software for R, and more",18071,Paul Gilbert
+018074.html,R-beta: ctest_0_9-3_tar.tar,18074,Paul Gilbert
+018144.html,R-beta: Not loading C library,18144,Paul Gilbert
+018146.html,R-beta: Not loading C library,18146,Paul Gilbert
+018068.html,"bug in menu, readline",18068,Kurt Hornik
+018075.html,p./d./q./r: S compatibility  and  time-series software for R?,18075,Kurt Hornik
+018076.html,&quot;`R notes' should be better&quot;,18076,Kurt Hornik
+018080.html,&quot;`R notes' should be better&quot;,18080,Kurt Hornik
+018106.html,Apropos names.,18106,Kurt Hornik
+018131.html,R alpha/beta naming,18131,Kurt Hornik
+018086.html,``nlm(.) with derivatives'',18086,Ross Ihaka
+018091.html,POSIX regular expressions on Irix 5.3,18091,Ross Ihaka
+018113.html,Apropos names.,18113,Ross Ihaka
+018121.html,Placement of attributes,18121,Ross Ihaka
+018138.html,We've got the power (almost),18138,Ross Ihaka
+018141.html,R: did you know  ``comment(.) and  comment(.) &lt;- ...'',18141,Ross Ihaka
+018095.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18095,Philippe Lambert
+018097.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18097,Friedrich Leisch
+018105.html,Strange Results of summary(),18105,Friedrich Leisch
+018116.html,mail-archive place?,18116,Friedrich Leisch
+018130.html,R alpha/beta naming,18130,Friedrich Leisch
+018079.html,&quot;`R notes' should be better&quot;,18079,Thomas Lumley
+018100.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18100,Thomas Lumley
+018109.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18109,Thomas Lumley
+018123.html,R-beta: R with gnuwin32,18123,Thomas Lumley
+018059.html,&quot;:&quot; (seq) bug -- should not always coerce to integer!,18059,Martin Maechler
+018060.html,&quot;:&quot; (seq) bug --&gt; patch,18060,Martin Maechler
+018061.html,pretty(.) bug -- fix --&gt; &quot;compatibility&quot; ?,18061,Martin Maechler
+018069.html,prob./distr./quant./ran.num:  S compatibility in argument names??,18069,Martin Maechler
+018070.html,p./d./q./r: S compatibility  and  time-series software for R?,18070,Martin Maechler
+018072.html,&quot;`R notes' should be better&quot;,18072,Martin Maechler
+018077.html,&quot;`R notes' should be better&quot;,18077,Martin Maechler
+018085.html,``nlm(.) with derivatives'',18085,Martin Maechler
+018090.html,Strange Results of summary(),18090,Martin Maechler
+018094.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18094,Martin Maechler
+018096.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18096,Martin Maechler
+018102.html,Strange Results of summary(),18102,Martin Maechler
+018103.html,"a handy function &quot;format.cardinal&quot;, looking for a proper name..",18103,Martin Maechler
+018129.html,R alpha/beta naming,18129,Martin Maechler
+018136.html,S Mailing List (and ``netiquette...''),18136,Martin Maechler
+018137.html,R-beta: errors in R help docs,18137,Martin Maechler
+018139.html,S programming style &amp; &quot;missing(.)&quot; [was &quot;regarding bugs in barplot&quot; on R-core],18139,Martin Maechler
+018140.html,R: did you know  ``comment(.) and  comment(.) &lt;- ...'',18140,Martin Maechler
+018145.html,R-beta: Not loading C library,18145,Martin Maechler
+018126.html,R-beta: R with gnuwin32,18126,Balasubramanian Narasimhan
+018088.html,POSIX regular expressions on Irix 5.3,18088,Hubert Palme
+018089.html,Strange Results of summary(),18089,Hubert Palme
+018098.html,Strange Results of summary(),18098,Hubert Palme
+018104.html,Strange Results of summary(),18104,Hubert Palme
+018134.html,POSIX regular expressions on Irix 5.3,18134,Hubert Palme
+018067.html,"bug in menu, readline",18067,Martyn Plummer
+018135.html,R alpha/beta naming,18135,Anthony Rossini
+018073.html,&quot;`R notes' should be better&quot;,18073,Bill Simpson
+018143.html,R: did you know  ``comment(.) and  comment(.) &lt;- ...'',18143,Gregory R. Warnes
+018078.html,heat.colors,18078,Andreas Weingessel
+018082.html,R-beta: R with gnuwin32,18082,guido@sirio.stat.unipd.it
+018115.html,R-0.61.1 compiled with egcs-mingw32,18115,guido@sirio.stat.unipd.it
+018125.html,R-beta: R with gnuwin32 (fwd),18125,guido@sirio.stat.unipd.it
+018128.html,R-beta: R with gnuwin32,18128,guido@sirio.stat.unipd.it
+018132.html,R-beta: R with gnuwin32,18132,guido@sirio.stat.unipd.it

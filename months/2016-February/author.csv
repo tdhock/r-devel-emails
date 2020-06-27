@@ -1,0 +1,128 @@
+link,Subject,id,author
+072319.html,[Rd] Show rapply(how=&quot;replace&quot;) as alternative to 'dendrapply' to change leaves?,72319,Suharto Anggono Suharto Anggono
+072353.html,[Rd] On recent change to 'prettyDate',72353,Suharto Anggono Suharto Anggono
+072355.html,[Rd] %OS on output,72355,Suharto Anggono Suharto Anggono
+072270.html,[Rd] Best way for rgl's .onLoad to fail?,72270,Henrik Bengtsson
+072388.html,[Rd] Milestone: 8000 packages on CRAN,72388,Henrik Bengtsson
+072368.html,[Rd] Unable to Install Packages from Binaries on Windows for R	3.2.3,72368,Steve Bronder
+072382.html,[Rd] Source code of early S versions,72382,John Chambers
+072336.html,[Rd] Reading from an existing connection in compiled code,72336,Jon Clayden
+072327.html,[Rd] should `data` respect default.stringsAsFactors()?,72327,"Cook, Malcolm"
+072331.html,[Rd] should `data` respect default.stringsAsFactors()?,72331,"Cook, Malcolm"
+072337.html,[Rd] should `data` respect default.stringsAsFactors()?,72337,"Cook, Malcolm"
+072338.html,[Rd] should `data` respect default.stringsAsFactors()?,72338,"Cook, Malcolm"
+072361.html,[Rd] Two ideas / feature requests for R CMD check,72361,G&#225;bor Cs&#225;rdi
+072362.html,[Rd] Fwd:  Two ideas / feature requests for R CMD check,72362,Mohit Dayal
+072283.html,[Rd] smooth()'s output attribute 'endrule'?,72283,William Dunlap
+072322.html,[Rd] author field in Rd documentation,72322,Adrian Du&#537;a
+072345.html,[Rd] Avoid texinfo 6.1,72345,Dirk Eddelbuettel
+072372.html,[Rd] a quick question before I proceed,72372,Dirk Eddelbuettel
+072282.html,[Rd] Fwd:  [musl] strptime() question,72282,Rich Felker
+072287.html,[Rd] [musl] Re: Fwd:  [musl] strptime() question,72287,Rich Felker
+072335.html,"[Rd] R, AIX 64-bit builds - trying to understand root cause for message: &quot;Error: Line starting 'Package: tools ...' is malformed!&quot;",72335,Michael Felt
+072311.html,[Rd] Method from package dependency is not updated due to lazy load?,72311,Renaud Gaujoux
+072310.html,[Rd] problem plotting &quot;ts&quot; in a data.frame,72310,Spencer Graves
+072313.html,[Rd] problem plotting &quot;ts&quot; in a data.frame,72313,Spencer Graves
+072320.html,[Rd] configure statement for R-devel with updated zlib in user	account,72320,Jesper G&#229;din
+072297.html,[Rd] something wrong in package submission procedure/website,72297,Bryan Hanson
+072371.html,[Rd] a quick question before I proceed,72371,"Hodgess, Erin"
+072317.html,[Rd] Question about CHARSXP and garbage collection,72317,Holger Hoefling
+072295.html,[Rd] something wrong in package submission procedure/website,72295,Paul Johnson
+072315.html,[Rd] configure statement for R-devel with updated zlib in user	account,72315,Paul Johnson
+072328.html,[Rd] configure statement for R-devel with updated zlib in user	account,72328,Paul Johnson
+072290.html,[Rd] Assignment in environment,72290,Daniel Kaschek
+072293.html,[Rd] Assignment in environment,72293,Daniel Kaschek
+072321.html,[Rd] inconsistency in treatment of USE.NAMES argument,72321,Mikko Korpela
+072348.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72348,Mikko Korpela
+072352.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72352,Mikko Korpela
+072358.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72358,Mikko Korpela
+072360.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72360,Mikko Korpela
+072374.html,[Rd] Sys.readlink (on BSD vs Linux),72374,Mikko Korpela
+072387.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72387,Mikko Korpela
+072314.html,[Rd] inconsistency in treatment of USE.NAMES argument,72314,Michael Lawrence
+072298.html,[Rd] something wrong in package submission procedure/website,72298,Uwe Ligges
+072340.html,[Rd] default destfile in download.file(),72340,Uwe Ligges
+072306.html,[Rd] Typo in C++11 Section of Writing R Extensions,72306,Jonathan Lisic
+072308.html,[Rd] build fails with --enable-strict-barrier,72308,Sebastian P. Luque
+072261.html,[Rd] Wrong config check for __libc_stack_end,72261,Martin Maechler
+072262.html,[Rd] Best way for rgl's .onLoad to fail?,72262,Martin Maechler
+072264.html,"[Rd] In plot.ts, las=1 applies to ylab with multiple series and not to axis labels",72264,Martin Maechler
+072271.html,[Rd] Wrong config check for __libc_stack_end,72271,Martin Maechler
+072275.html,[Rd] More problems with building R on a musl platform,72275,Martin Maechler
+072279.html,[Rd] More problems with building R on a musl platform,72279,Martin Maechler
+072304.html,[Rd] inconsistency in treatment of USE.NAMES argument,72304,Martin Maechler
+072316.html,"[Rd] Deprecating old pkgDepends(), package.dependencies() in tools",72316,Martin Maechler
+072347.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72347,Martin Maechler
+072380.html,[Rd] [patch] Support many columns in model.matrix,72380,Martin Maechler
+072364.html,[Rd] [patch] Support many columns in model.matrix,72364,Karl Millar
+072383.html,[Rd] [patch] Support many columns in model.matrix,72383,Karl Millar
+072263.html,[Rd] Best way for rgl's .onLoad to fail?,72263,Duncan Murdoch
+072273.html,[Rd] Best way for rgl's .onLoad to fail?,72273,Duncan Murdoch
+072284.html,[Rd] problem submitting R bug;	bug plotting in tiling window manager,72284,Duncan Murdoch
+072285.html,[Rd] problem submitting R bug;	bug plotting in tiling window manager,72285,Duncan Murdoch
+072291.html,[Rd] Assignment in environment,72291,Duncan Murdoch
+072294.html,[Rd] Assignment in environment,72294,Duncan Murdoch
+072350.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72350,Duncan Murdoch
+072351.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72351,Duncan Murdoch
+072354.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72354,Duncan Murdoch
+072357.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72357,Duncan Murdoch
+072384.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72384,Duncan Murdoch
+072333.html,[Rd] should `data` respect default.stringsAsFactors()?,72333,Michael Nelson
+072386.html,[Rd] Source code of early S versions,72386,Jari Oksanen
+072326.html,[Rd] default destfile in download.file(),72326,Jeroen Ooms
+072301.html,[Rd] inconsistency in treatment of USE.NAMES argument,72301,Herv&#233; Pag&#232;s
+072330.html,[Rd] inconsistency in treatment of USE.NAMES argument,72330,Herv&#233; Pag&#232;s
+072307.html,[Rd] Typo in C++11 Section of Writing R Extensions,72307,Martyn Plummer
+072312.html,[Rd] problem plotting &quot;ts&quot; in a data.frame,72312,Martyn Plummer
+072266.html,[Rd] Wrong config check for __libc_stack_end,72266,Alba Pompeo
+072272.html,[Rd] Wrong config check for __libc_stack_end,72272,Alba Pompeo
+072274.html,[Rd] Wrong config check for __libc_stack_end,72274,Alba Pompeo
+072276.html,[Rd] More problems with building R on a musl platform,72276,Alba Pompeo
+072280.html,[Rd] Fwd: [musl] strptime() question,72280,Alba Pompeo
+072286.html,[Rd] Fwd:  [musl] strptime() question,72286,Alba Pompeo
+072325.html,[Rd] R Package Installation Ignores libPaths Setting,72325,Prof Brian Ripley
+072344.html,[Rd] Avoid texinfo 6.1,72344,Prof Brian Ripley
+072379.html,[Rd] Source code of early S versions,72379,Barry Rowlingson
+072385.html,[Rd] Source code of early S versions,72385,Barry Rowlingson
+072302.html,[Rd] Apparent bug in summary.data.frame() with columns of Date class and NA's present,72302,Marc Schwartz
+072381.html,"[Rd] Function name exported incorrectly in DLL, strange entries in tmp.def",72381,"Stravs, Michael"
+072324.html,[Rd] R Package Installation Ignores libPaths Setting,72324,Dario Strbenac
+072341.html,[Rd] R Package Installation Ignores libPaths Setting,72341,Dario Strbenac
+072343.html,[Rd] R Package Installation Ignores libPaths Setting,72343,Dario Strbenac
+072375.html,[Rd] Sys.readlink (on BSD vs Linux),72375,Sven Templer
+072376.html,[Rd] Sys.readlink (on BSD vs Linux),72376,Sven Templer
+072378.html,[Rd] Sys.readlink (on BSD vs Linux),72378,Sven Templer
+072373.html,[Rd] Sys.readlink (on BSD vs Linux),72373,Sven E. Templer
+072332.html,[Rd] should `data` respect default.stringsAsFactors()?,72332,Joshua Ulrich
+072356.html,[Rd] %OS on output,72356,Joshua Ulrich
+072265.html,[Rd] Wrong config check for __libc_stack_end,72265,Simon Urbanek
+072268.html,[Rd] Wrong config check for __libc_stack_end,72268,Simon Urbanek
+072269.html,[Rd] Wrong config check for __libc_stack_end,72269,Simon Urbanek
+072278.html,[Rd] Wrong config check for __libc_stack_end,72278,Simon Urbanek
+072281.html,[Rd] [musl] strptime() question,72281,Simon Urbanek
+072377.html,[Rd] Sys.readlink (on BSD vs Linux),72377,Simon Urbanek
+072366.html,[Rd] Unable to Install Packages from Binaries on Windows for R 3.2.3,72366,Ramnath Vaidyanathan
+072369.html,[Rd] Unable to Install Packages from Binaries on Windows for R	3.2.3,72369,Ramnath Vaidyanathan
+072277.html,"[Rd] In plot.ts,	las=1 applies to ylab with multiple series and not to axis labels",72277,David Winsemius
+072370.html,[Rd] Unable to Install Packages from Binaries on Windows for R	3.2.3,72370,Ista Zahn
+072323.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72323,nospam at altfeld-im.de
+072346.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72346,nospam at altfeld-im.de
+072349.html,[Rd] iconv to UTF-16 encoding produces error due to embedded nulls (write.table with fileEncoding param),72349,nospam at altfeld-im.de
+072289.html,[Rd] problem submitting R bug;	bug plotting in tiling window manager,72289,peter dalgaard
+072292.html,[Rd] Assignment in environment,72292,peter dalgaard
+072296.html,[Rd] something wrong in package submission procedure/website,72296,peter dalgaard
+072300.html,[Rd] problem submitting R bug;	bug plotting in tiling window manager,72300,peter dalgaard
+072303.html,[Rd] Apparent bug in summary.data.frame() with columns of Date	class and NA's present,72303,peter dalgaard
+072329.html,[Rd] should `data` respect default.stringsAsFactors()?,72329,peter dalgaard
+072334.html,[Rd] should `data` respect default.stringsAsFactors()?,72334,peter dalgaard
+072339.html,[Rd] should `data` respect default.stringsAsFactors()?,72339,peter dalgaard
+072342.html,[Rd] R Package Installation Ignores libPaths Setting,72342,peter dalgaard
+072359.html,[Rd] iconv to UTF-16 encoding produces error due to embedded	nulls (write.table with fileEncoding param),72359,peter dalgaard
+072363.html,[Rd] problem submitting R bug;	bug plotting in tiling window manager,72363,peter dalgaard
+072367.html,[Rd] Unable to Install Packages from Binaries on Windows for R	3.2.3,72367,peter dalgaard
+072288.html,[Rd] problem submitting R bug;	bug plotting in tiling window manager,72288,frederik at ofb.net
+072299.html,[Rd] problem submitting R bug; bug plotting in tiling window manager,72299,frederik at ofb.net
+072365.html,[Rd] problem submitting R bug; bug plotting in tiling window manager,72365,frederik at ofb.net
+072305.html,[Rd] Minor portability patch,72305,coypu at sdf.org
+072309.html,[Rd] build fails with --enable-strict-barrier,72309,coypu at sdf.org
+072318.html,[Rd] Question about CHARSXP and garbage collection,72318,luke-tierney at uiowa.edu

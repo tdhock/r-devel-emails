@@ -1,0 +1,173 @@
+link,Subject,id,author
+067061.html,[Rd] What algorithm is R using to calculate mean?,67061,Prof J C Nash (U30A)
+066968.html,[Rd] &quot;Proper&quot; way to use a &quot;hidden&quot; function in an R-package?,66968,Gabriel Becker
+066910.html,[Rd] tests conditioned on CRAN?,66910,Henrik Bengtsson
+066989.html,[Rd] Redirect system2 stdout to a file on windows,66989,Henrik Bengtsson
+067062.html,[Rd] R -e &quot;&quot; crashes on Windows (but not Rterm -e &quot;&quot;),67062,Henrik Bengtsson
+067063.html,[Rd] Core dump with R --encoding=foo -e 1 (non-existing encoding),67063,Henrik Bengtsson
+067065.html,[Rd] Core dump with R --encoding=foo -e 1 (non-existing	encoding),67065,Henrik Bengtsson
+067066.html,[Rd] R -e &quot;&quot; crashes on Windows (but not Rterm -e &quot;&quot;),67066,Henrik Bengtsson
+067075.html,[Rd] Adding text comments to graphics device output files?,67075,Henrik Bengtsson
+067077.html,[Rd] Adding text comments to graphics device output files?,67077,Henrik Bengtsson
+067017.html,[Rd] parLapplyLB: Load balancing?,67017,Ulrich Bodenhofer
+066963.html,[Rd] robustbase compilation problem: probably boneheaded? maybe	32-bit?,66963,Ben Bolker
+067000.html,"[Rd] SweaveParseOptions, quoted commas, and knitr vignettes",67000,Ben Bolker
+067002.html,"[Rd] SweaveParseOptions, quoted commas, and knitr vignettes",67002,Ben Bolker
+067006.html,[Rd] On the mechanics of function evaluation and argument	matching,67006,Ben Bolker
+066997.html,[Rd] Problem following an R bug fix to integrate(),66997,Hans W Borchers
+067013.html,[Rd] Problem following an R bug fix to integrate(),67013,Hans W Borchers
+067048.html,[Rd] package compilation on OSX 10.8 -- error compiling Fortran library for architecture i386,67048,Jonathan Callahan
+066918.html,[Rd] cache most-recent dispatch,66918,John Chambers
+066928.html,[Rd] Cross-platform linking of a simple front-end,66928,Jon Clayden
+066955.html,[Rd] Cross-platform linking of a simple front-end,66955,Jon Clayden
+066957.html,[Rd] Is difftime a &quot;class&quot;,66957,Kevin R. Coombes
+066921.html,[Rd] Ctrl+C in R will terminate the child process which is spawned	by using &quot;pipe&quot;,66921,William Dunlap
+066936.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66936,William Dunlap
+066938.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66938,William Dunlap
+066941.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66941,William Dunlap
+067044.html,[Rd] cbind error with check.names,67044,William Dunlap
+066960.html,[Rd] R CMD INSTALL and file permission settings,66960,Dirk Eddelbuettel
+066975.html,[Rd] &quot;Proper&quot; way to use a &quot;hidden&quot; function in an R-package?,66975,Dirk Eddelbuettel
+066977.html,[Rd] unmapped memory core dump with pure R program?,66977,Dirk Eddelbuettel
+066981.html,[Rd] unmapped memory core dump with pure R program?,66981,Dirk Eddelbuettel
+066984.html,[Rd] unmapped memory core dump with pure R program?,66984,Dirk Eddelbuettel
+066995.html,[Rd] linking modules - add needed libraries,66995,Dirk Eddelbuettel
+066998.html,[Rd] unmapped memory core dump with pure R program?,66998,Dirk Eddelbuettel
+067056.html,[Rd] Building R with Cairo,67056,Dirk Eddelbuettel
+066958.html,[Rd] probable bugs in stats::loglin calculation of pearson chisq,66958,Michael Friendly
+066909.html,[Rd] tests conditioned on CRAN?,66909,Spencer Graves
+066965.html,[Rd] &quot;Proper&quot; way to use a &quot;hidden&quot; function in an R-package?,66965,Jonathan Greenberg
+066967.html,[Rd] &quot;Proper&quot; way to use a &quot;hidden&quot; function in an R-package?,66967,Jonathan Greenberg
+066986.html,[Rd] Redirect system2 stdout to a file on windows,66986,Gabor Grothendieck
+066988.html,[Rd] Redirect system2 stdout to a file on windows,66988,Gabor Grothendieck
+066951.html,[Rd] The *tmp* variable,66951,Bert Gunter
+066952.html,[Rd] The *tmp* variable,66952,Bert Gunter
+066994.html,[Rd] linking modules - add needed libraries,66994,MAYER Hans
+067053.html,[Rd] What algorithm is R using to calculate mean?,67053,Zach Harrington
+067059.html,[Rd] What algorithm is R using to calculate mean?,67059,Zach Harrington
+067010.html,[Rd] question about Makeconf and nvcc/CUDA,67010,"Hodgess, Erin"
+067014.html,[Rd] question about Makeconf and nvcc/CUDA,67014,"Hodgess, Erin"
+067018.html,[Rd] question about Makeconf and nvcc/CUDA,67018,"Hodgess, Erin"
+067020.html,[Rd] question about Makeconf and nvcc/CUDA,67020,"Hodgess, Erin"
+067022.html,[Rd] question about Makeconf and nvcc/CUDA,67022,"Hodgess, Erin"
+067023.html,[Rd] question about Makeconf and nvcc/CUDA,67023,"Hodgess, Erin"
+067012.html,[Rd] Problem following an R bug fix to integrate(),67012,J. R. M. Hosking
+067028.html,[Rd] Problem with distributing data in package.,67028,Simon Knapp
+067031.html,[Rd] Problem with distributing data in package.,67031,Simon Knapp
+067033.html,[Rd] Problem with distributing data in package.,67033,Simon Knapp
+067024.html,[Rd] R CMD check --outdir=path gives unknown option '--outdir',67024,Scott Kostyshak
+067026.html,[Rd] R CMD check --outdir=path gives unknown option '--outdir',67026,Scott Kostyshak
+067027.html,[Rd] Posting Guide: changed link and other comment,67027,Scott Kostyshak
+067046.html,[Rd] Alpha channel in colorRamp() and colorRampPalette(),67046,Alberto Krone-Martins
+067016.html,[Rd] question about Makeconf and nvcc/CUDA,67016,Duncan Temple Lang
+067019.html,[Rd] question about Makeconf and nvcc/CUDA,67019,Duncan Temple Lang
+067021.html,[Rd] question about Makeconf and nvcc/CUDA,67021,Duncan Temple Lang
+067076.html,[Rd] Adding text comments to graphics device output files?,67076,Duncan Temple Lang
+066919.html,[Rd] Ctrl+C in R will terminate the child process which is spawned	by using &quot;pipe&quot;,66919,Rong lI Li
+066927.html,[Rd] Ctrl+C in R will terminate the child process which is spawned by using &quot;pipe&quot;,66927,Rong lI Li
+066991.html,[Rd] CRAN and www.r-project.org with limited availability today,66991,Uwe Ligges
+066923.html,[Rd] RFC: a &quot;safe&quot; uniroot() function for future R,66923,Martin Maechler
+067034.html,[Rd] Posting Guide: changed link and other comment,67034,Martin Maechler
+067035.html,[Rd] robustbase compilation problem: probably boneheaded? maybe	32-bit?,67035,Martin Maechler
+066915.html,[Rd] Problem with anova and the new abbreviation restrictions,66915,Peter Meilstrup
+066945.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66945,Peter Meilstrup
+066949.html,[Rd] The *tmp* variable,66949,Peter Meilstrup
+066950.html,[Rd] The *tmp* variable,66950,Peter Meilstrup
+066953.html,[Rd] does subset.data.frame need to accept extra arguments?,66953,Peter Meilstrup
+067008.html,[Rd] On the mechanics of function evaluation and argument	matching,67008,Peter Meilstrup
+066970.html,"[Rd] Alternative to eval(cl, parent.frame()) ?",66970,Bj&#248;rn-Helge Mevik
+066972.html,"[Rd] Alternative to eval(cl, parent.frame()) ?",66972,Bj&#248;rn-Helge Mevik
+067057.html,[Rd] How to best implement package options?,67057,Bj&#248;rn-Helge Mevik
+066931.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66931,Duncan Murdoch
+066933.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66933,Duncan Murdoch
+066940.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66940,Duncan Murdoch
+066954.html,[Rd] does subset.data.frame need to accept extra arguments?,66954,Duncan Murdoch
+066962.html,[Rd] does subset.data.frame need to accept extra arguments?,66962,Duncan Murdoch
+066966.html,[Rd] &quot;Proper&quot; way to use a &quot;hidden&quot; function in an R-package?,66966,Duncan Murdoch
+066993.html,[Rd] pmatch inconsistency,66993,Duncan Murdoch
+067064.html,[Rd] Core dump with R --encoding=foo -e 1 (non-existing	encoding),67064,Duncan Murdoch
+067067.html,[Rd] R -e &quot;&quot; crashes on Windows (but not Rterm -e &quot;&quot;),67067,Duncan Murdoch
+067074.html,[Rd] Error from R CMD check,67074,Duncan Murdoch
+066956.html,[Rd] Is difftime a &quot;class&quot;,66956,Dan Murphy
+066973.html,[Rd] missing PROTECT() in src/main/arithmetic.c,66973,Radford Neal
+067037.html,[Rd] cbind error with check.names,67037,Fg Nu
+067040.html,[Rd] cbind error with check.names,67040,Fg Nu
+067041.html,[Rd] cbind error with check.names,67041,Fg Nu
+067042.html,[Rd] cbind error with check.names,67042,Fg Nu
+067049.html,[Rd] cbind error with check.names,67049,Fg Nu
+067073.html,[Rd] Error from R CMD check,67073,"ONKELINX, Thierry"
+066916.html,[Rd] cache most-recent dispatch,66916,Valerie Obenchain
+066922.html,[Rd] cache most-recent dispatch,66922,Valerie Obenchain
+066982.html,[Rd] Redirect system2 stdout to a file on windows,66982,Jeroen Ooms
+066987.html,[Rd] Redirect system2 stdout to a file on windows,66987,Jeroen Ooms
+066914.html,[Rd] relist() is broken when the skeleton is a list with empty list elements,66914,Herv&#233; Pag&#232;s
+066917.html,[Rd] cache most-recent dispatch,66917,Herv&#233; Pag&#232;s
+066969.html,[Rd] missing PROTECT() in src/main/arithmetic.c,66969,Herv&#233; Pag&#232;s
+067036.html,[Rd] Problem with distributing data in package.,67036,Herv&#233; Pag&#232;s
+067071.html,[Rd] duplicated.data.frame() is broken on data frames containing \r,67071,Herv&#233; Pag&#232;s
+067072.html,[Rd] duplicated.data.frame() is broken on data frames containing \r,67072,Herv&#233; Pag&#232;s
+067007.html,[Rd] Problem following an R bug fix to integrate(),67007,Martyn Plummer
+066948.html,[Rd] Cross-platform linking of a simple front-end,66948,Prof Brian Ripley
+066990.html,[Rd] dotchart.R and left margin,66990,Prof Brian Ripley
+066996.html,[Rd] linking modules - add needed libraries,66996,Prof Brian Ripley
+067011.html,[Rd] question about Makeconf and nvcc/CUDA,67011,Prof Brian Ripley
+067015.html,[Rd] question about Makeconf and nvcc/CUDA,67015,Prof Brian Ripley
+067025.html,[Rd] R CMD check --outdir=path gives unknown option '--outdir',67025,Prof Brian Ripley
+067032.html,[Rd] Problem with distributing data in package.,67032,Prof Brian Ripley
+067047.html,[Rd] Alpha channel in colorRamp() and colorRampPalette(),67047,Prof Brian Ripley
+067054.html,[Rd] Building R with Cairo,67054,Prof Brian Ripley
+067069.html,[Rd] Shell Function not on Linux,67069,Prof Brian Ripley
+067003.html,[Rd] On the mechanics of function evaluation and argument matching,67003,Brian Rowe
+067005.html,[Rd] On the mechanics of function evaluation and argument	matching,67005,Brian Rowe
+067009.html,[Rd] On the mechanics of function evaluation and argument	matching,67009,Brian Rowe
+066939.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66939,Brian Lee Yung Rowe
+066944.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66944,Brian Lee Yung Rowe
+066935.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66935,Barry Rowlingson
+066943.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66943,Barry Rowlingson
+067030.html,[Rd] Problem with distributing data in package.,67030,Barry Rowlingson
+067068.html,[Rd] Shell Function not on Linux,67068,Dario Strbenac
+067070.html,[Rd] Shell Function not on Linux,67070,Dario Strbenac
+066992.html,[Rd] pmatch inconsistency,66992,Justin Talbot
+066959.html,[Rd] R CMD INSTALL and file permission settings,66959,Dan Tenenbaum
+066912.html,[Rd] Problem with anova and the new abbreviation restrictions,66912,Terry Therneau
+067055.html,[Rd] What algorithm is R using to calculate mean?,67055,Joshua Ulrich
+066920.html,[Rd] Ctrl+C in R will terminate the child process which is	spawned by using &quot;pipe&quot;,66920,Simon Urbanek
+066946.html,"[Rd] R-devel Digest, Vol 125, Issue 2",66946,Simon Urbanek
+066947.html,[Rd] Cross-platform linking of a simple front-end,66947,Simon Urbanek
+066964.html,[Rd] robustbase compilation problem: probably boneheaded? maybe	32-bit?,66964,Simon Urbanek
+066979.html,[Rd] unmapped memory core dump with pure R program?,66979,Simon Urbanek
+067045.html,[Rd] Understanding modification in place,67045,Simon Urbanek
+067050.html,[Rd] package compilation on OSX 10.8 -- error compiling Fortran	library for architecture i386,67050,Simon Urbanek
+067058.html,[Rd] How to best implement package options?,67058,Simon Urbanek
+067078.html,[Rd] Adding text comments to graphics device output files?,67078,Simon Urbanek
+067079.html,[Rd] Adding text comments to graphics device output files?,67079,Simon Urbanek
+067029.html,[Rd] Problem following an R bug fix to integrate(),67029,Ravi Varadhan
+067060.html,[Rd] What algorithm is R using to calculate mean?,67060,Ravi Varadhan
+067052.html,[Rd] Building R with Cairo,67052,Ben Warren
+066911.html,[Rd] dotchart.R and left margin,66911,Stephen Weigand
+067004.html,[Rd] On the mechanics of function evaluation and argument	matching,67004,R. Michael Weylandt
+066913.html,[Rd] Problem with anova and the new abbreviation restrictions,66913,Hadley Wickham
+066961.html,[Rd] does subset.data.frame need to accept extra arguments?,66961,Hadley Wickham
+067043.html,[Rd] Understanding modification in place,67043,Hadley Wickham
+067051.html,[Rd] Understanding modification in place,67051,Hadley Wickham
+067080.html,[Rd] S3 internal and group generics,67080,Hadley Wickham
+066929.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66929,Yihui Xie
+067001.html,"[Rd] SweaveParseOptions, quoted commas, and knitr vignettes",67001,Yihui Xie
+067038.html,[Rd] cbind error with check.names,67038,Ista Zahn
+067039.html,[Rd] cbind error with check.names,67039,Ista Zahn
+066925.html,"[Rd] R-devel Digest, Vol 125, Issue 2",66925,peter dalgaard
+066932.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66932,peter dalgaard
+066937.html,[Rd] should the text for RIGHT_ASSIGN be -&gt; in getParseData()?,66937,peter dalgaard
+066971.html,"[Rd] Alternative to eval(cl, parent.frame()) ?",66971,peter dalgaard
+066999.html,[Rd] Read a text file into R with .Call(),66999,ge11232002
+066924.html,"[Rd] R-devel Digest, Vol 125, Issue 2",66924,gianluca mastrantonio
+066926.html,"[Rd] R-devel Digest, Vol 125, Issue 2",66926,gianluca mastrantonio
+066930.html,[Rd] Get the tail of a list in C,66930,maxpar
+066942.html,[Rd] Get the tail of a list in C,66942,maxpar
+066934.html,[Rd] Get the tail of a list in C,66934,romain at r-enthusiasts.com
+066974.html,[Rd] missing PROTECT() in src/main/arithmetic.c,66974,luke-tierney at uiowa.edu
+066976.html,[Rd] unmapped memory core dump with pure R program?,66976,ivo welch
+066978.html,[Rd] unmapped memory core dump with pure R program?,66978,ivo welch
+066980.html,[Rd] unmapped memory core dump with pure R program?,66980,ivo welch
+066983.html,[Rd] unmapped memory core dump with pure R program?,66983,ivo welch
+066985.html,[Rd] unmapped memory core dump with pure R program?,66985,ivo welch

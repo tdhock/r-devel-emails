@@ -1,0 +1,231 @@
+link,Subject,id,author
+066051.html,[Rd] Lessons from LibreOffice project,66051,Prof J C Nash (U30A)
+066019.html,[Rd] .Call interface: Use R SEXP as C mutable *char,66019,Michael Bach
+066022.html,[Rd] .Call interface: Use R SEXP as C mutable *char,66022,Michael Bach
+066065.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66065,Henrik Bengtsson
+066112.html,[Rd] Failed to locate 'weave' output file / vignette product does not have a known filename extension,66112,Henrik Bengtsson
+066126.html,[Rd] Failed to locate 'weave' output file / vignette product does not have a known filename extension,66126,Henrik Bengtsson
+066180.html,[Rd] Depreciating partial matching,66180,Ben Bolker
+066059.html,[Rd] Small quirks in summary.(g)lm docs,66059,Milan Bouchet-Valat
+066163.html,[Rd] Deprecating partial matching in $.data.frame,66163,Milan Bouchet-Valat
+066171.html,"[Rd] R-devel Digest, Vol 121, Issue 20",66171,Milan Bouchet-Valat
+066055.html,[Rd] do_fileinfo / file.info test for file IS directory during package load pointlessly stresses NIS by getting username / group info,66055,Alex Brown
+066155.html,[Rd] fortune?,66155,Patrick Burns
+066211.html,[Rd] ifelse can't return a list? Please explain (R-2.15.3),66211,Patrick Burns
+066234.html,[Rd] Redefining quote() with reference classes (was: Ref	classes initFields has incorrect environment?),66234,John Chambers
+066141.html,[Rd] Mirroring R on a DVCS,66141,Winston Chang
+066209.html,[Rd] Mirroring R on a DVCS,66209,Winston Chang
+066029.html,[Rd] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66029,"Cook, Malcolm"
+066038.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66038,"Cook, Malcolm"
+066039.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66039,"Cook, Malcolm"
+066042.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66042,"Cook, Malcolm"
+066047.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66047,"Cook, Malcolm"
+066053.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66053,"Cook, Malcolm"
+066014.html,[Rd] conflict between rJava and data.table,66014,Matthew Dowle
+066016.html,[Rd] conflict between rJava and data.table,66016,Matthew Dowle
+066018.html,[Rd] conflict between rJava and data.table,66018,Matthew Dowle
+066157.html,[Rd] double in summary.c : isum,66157,Matthew Dowle
+066203.html,[Rd] double in summary.c : isum,66203,Matthew Dowle
+066212.html,[Rd] double in summary.c : isum,66212,Matthew Dowle
+066213.html,[Rd] double in summary.c : isum,66213,Matthew Dowle
+066214.html,[Rd] double in summary.c : isum,66214,Matthew Dowle
+066220.html,[Rd] C API entry point to currentTime(),66220,Matthew Dowle
+066092.html,[Rd] duplicate export entries in NAMESPACE,66092,William Dunlap
+066159.html,[Rd] Deprecating partial matching in $.data.frame,66159,William Dunlap
+066078.html,[Rd] &quot;undefined symbol&quot; when `R CMD check'.,66078,Dirk Eddelbuettel
+066083.html,[Rd] compiling C code using headers from another R package,66083,Dirk Eddelbuettel
+066088.html,[Rd] compiling C code using headers from another R package,66088,Dirk Eddelbuettel
+066098.html,[Rd] compiling C code using headers from another R package,66098,Dirk Eddelbuettel
+066134.html,[Rd] the case of building R snapshot without svn nor	network	connection.,66134,Dirk Eddelbuettel
+066191.html,[Rd] Description depends line for windows only,66191,Dirk Eddelbuettel
+066197.html,[Rd] R CMD check in R-3.0.0 gives warnings,66197,Dirk Eddelbuettel
+066218.html,[Rd] using openbabel plugins in R,66218,Dirk Eddelbuettel
+066228.html,[Rd] using openbabel plugins in R,66228,Dirk Eddelbuettel
+066026.html,[Rd] multi threaded execution of package,66026,Vitaliy FEOKTISTOV
+066162.html,[Rd] How to avoid using gridextra via Depends instead of Imports in a package ?,66162,Karl Forner
+066050.html,[Rd] Printing warning messages around R_tryEval,66050,Thomas Friedrichsmeier
+066114.html,[Rd] Viewing Compelete Decision Tree in R - R.2.15.2 - Wndows7 32bit,66114,Manoj G
+066107.html,[Rd] removing union class,66107,Renaud Gaujoux
+066143.html,[Rd] removing union class,66143,Renaud Gaujoux
+066144.html,"[Rd] source, sys.source and error line numbers",66144,Renaud Gaujoux
+066154.html,[Rd] removing union class,66154,Renaud Gaujoux
+066225.html,"[Rd] source, sys.source and error line numbers",66225,Renaud Gaujoux
+066058.html,[Rd] Printing warning messages around R_tryEval,66058,Laurent Gautier
+066138.html,[Rd] Mirroring R on a DVCS,66138,Laurent Gautier
+066140.html,[Rd] Mirroring R on a DVCS,66140,Laurent Gautier
+066205.html,[Rd] Mirroring R on a DVCS,66205,Laurent Gautier
+066045.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66045,Paul Gilbert
+066132.html,[Rd] numerics from a factor,66132,Ulrike Gr&#246;mping
+066204.html,[Rd] sysdata.rda vs. rda files in data directory,66204,Ulrike Gr&#246;mping
+066232.html,[Rd] sysdata.rda vs. rda files in data directory,66232,Ulrike Gr&#246;mping
+066027.html,[Rd] Survey for framework and library developers: &quot;Information needs in software ecosystems&quot;,66027,Nicole Haenni
+066082.html,[Rd] wishlist: ObjectFiles,66082,Kasper Daniel Hansen
+066196.html,[Rd] R CMD check in R-3.0.0 gives warnings,66196,Berend Hasselman
+066198.html,[Rd] R CMD check in R-3.0.0 gives warnings,66198,Berend Hasselman
+066064.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66064,Kevin Hendricks
+066067.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66067,Kevin Hendricks
+066068.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66068,Kevin Hendricks
+066071.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66071,Kevin Hendricks
+066072.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66072,Kevin Hendricks
+066075.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66075,Kevin Hendricks
+066192.html,[Rd] read.pnm question in R-beta,66192,"Hodgess, Erin"
+066044.html,[Rd] Patch for format.ftable(),66044,Marius Hofert
+066079.html,[Rd] compiling C code using headers from another R package,66079,Kevin Horan
+066100.html,[Rd]  compiling C code using headers from another R package,66100,Kevin Horan
+066102.html,[Rd] compiling C code using headers from another R package,66102,Kevin Horan
+066217.html,[Rd] using openbabel plugins in R,66217,Kevin Horan
+066226.html,[Rd] using openbabel plugins in R,66226,Kevin Horan
+066230.html,[Rd] using openbabel plugins in R,66230,Kevin Horan
+066040.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66040,Dr Gregory Jefferis
+066041.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66041,Geoff Jentry
+066207.html,[Rd] ifelse can't return a list? Please explain (R-2.15.3),66207,Paul Johnson
+066251.html,"[Rd] terms.formula(y ~ (x + fn(z = NA)) - fn(z = NA), simplify=TRUE) does not simplify",66251,Helske Jouni
+066013.html,[Rd] predict.loess() segfaults for large n?,66013,Hiroyuki Kawakatsu
+066103.html,[Rd] techniques for mocking,66103,Dan Keshet
+066060.html,[Rd] Submitting packages with weak circular dependencies to CRAN.,66060,Pavel N. Krivitsky
+066168.html,[Rd] Deprecating partial matching in $.data.frame,66168,Rainer M Krug
+066187.html,[Rd] ess completion,66187,Rainer M Krug
+066056.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66056,"Lapointe, David"
+066181.html,[Rd] Depreciating partial matching,66181,Andreas Leha
+066109.html,[Rd] Registering method for &quot;t.test&quot;,66109,Lukas Lehnert
+066124.html,[Rd] Registering method for &quot;t.test&quot;,66124,Lukas Lehnert
+066128.html,[Rd] the case of building R snapshot without svn nor network	connection.,66128,Hin-Tak Leung
+066130.html,[Rd] the case of building R snapshot without svn nor network	connection.,66130,Hin-Tak Leung
+066133.html,[Rd] the case of building R snapshot without svn nor network	connection.,66133,Hin-Tak Leung
+066135.html,[Rd] the case of building R snapshot without svn nor network	connection.,66135,Hin-Tak Leung
+066153.html,[Rd] the case of building R snapshot without svn nor network	connection.,66153,Hin-Tak Leung
+066235.html,[Rd] R/Sweave/cairo/freetype bug fix.,66235,Hin-Tak Leung
+066237.html,[Rd] R/Sweave/cairo/freetype bug fix.,66237,Hin-Tak Leung
+066239.html,[Rd] R/Sweave/cairo/freetype bug fix.,66239,Hin-Tak Leung
+066011.html,[Rd] conflict between rJava and data.table,66011,Steve Lianoglou
+066012.html,[Rd] conflict between rJava and data.table,66012,Steve Lianoglou
+066030.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66030,Steve Lianoglou
+066046.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66046,Steve Lianoglou
+066063.html,[Rd] Submitting packages with weak circular dependencies to	CRAN.,66063,Uwe Ligges
+066073.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66073,Uwe Ligges
+066076.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66076,Uwe Ligges
+066147.html,[Rd] Windows R-3.0.0 and Tcl/tkrplot issue,66147,Uwe Ligges
+066148.html,[Rd] preparing for R 3.0.0,66148,Uwe Ligges
+066227.html,[Rd] mean.data.frame: R 3.0.0 help page wrong?,66227,Uwe Ligges
+066118.html,[Rd] Registering method for &quot;t.test&quot;,66118,Thomas Lumley
+066036.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66036,Aaron Mackey
+066120.html,[Rd] removing union class,66120,Martin Maechler
+066122.html,[Rd] removing union class,66122,Martin Maechler
+066123.html,[Rd] S4 generic not exported correctly / incorrect dispatch?,66123,Martin Maechler
+066149.html,[Rd] removing union class,66149,Martin Maechler
+066150.html,[Rd] the case of building R snapshot without svn nor	network	connection.,66150,Martin Maechler
+066151.html,[Rd] numerics from a factor,66151,Martin Maechler
+066219.html,[Rd] removing union class,66219,Martin Maechler
+066037.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66037,Mike Marchywka
+066101.html,[Rd] Request for more flexibility in heatmap() width / height ratio,66101,Sylvain Mareschal
+066089.html,[Rd] Bugs due to naive copying of list elements,66089,Steven McKinney
+066182.html,[Rd] Depreciating partial matching,66182,Steven McKinney
+066139.html,[Rd] Mirroring R on a DVCS,66139,Peter Meilstrup
+066183.html,[Rd] Depreciating partial matching,66183,Peter Meilstrup
+066145.html,[Rd] preparing for R 3.0.0,66145,Richard D. Morey
+066023.html,[Rd] Missing PROTECT in mkPRIMSXP ?,66023,Martin Morgan
+066111.html,[Rd] S4 generic not exported correctly / incorrect dispatch?,66111,Martin Morgan
+066125.html,[Rd] S4 generic not exported correctly / incorrect dispatch?,66125,Martin Morgan
+066142.html,[Rd] configure.ac clock_gettime (and R_CHECK_FUNCS)  incorrect?,66142,Martin Morgan
+066178.html,[Rd] missing space in R version specifier makes PACKAGES file unreadable by install.packages(),66178,Duncan Murdoch
+066199.html,[Rd] R CMD check in R-3.0.0 gives warnings,66199,Duncan Murdoch
+066206.html,[Rd] double in summary.c : isum,66206,Duncan Murdoch
+066216.html,[Rd] Rd.sty not found,66216,Duncan Murdoch
+066223.html,"[Rd] source, sys.source and error line numbers",66223,Duncan Murdoch
+066080.html,[Rd] Bugs due to naive copying of list elements,66080,Radford Neal
+066195.html,[Rd] Why does typeof() modify an object's &quot;named&quot; field?,66195,Josh O'Brien
+066074.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66074,Jari Oksanen
+066062.html,[Rd] Submitting packages with weak circular dependencies to	CRAN.,66062,Herv&#233; Pag&#232;s
+066086.html,[Rd] compiling C code using headers from another R package,66086,Herv&#233; Pag&#232;s
+066090.html,[Rd] compiling C code using headers from another R package,66090,Herv&#233; Pag&#232;s
+066093.html,[Rd] compiling C code using headers from another R package,66093,Herv&#233; Pag&#232;s
+066097.html,[Rd] compiling C code using headers from another R package,66097,Herv&#233; Pag&#232;s
+066104.html,[Rd] compiling C code using headers from another R package,66104,Herv&#233; Pag&#232;s
+066105.html,[Rd] compiling C code using headers from another R package,66105,Herv&#233; Pag&#232;s
+066184.html,[Rd] Deprecating partial matching in $.data.frame,66184,Herv&#233; Pag&#232;s
+066188.html,[Rd] Deprecating partial matching in $.data.frame,66188,Herv&#233; Pag&#232;s
+066116.html,[Rd] Snippets from other packages/ License,66116,Brian G. Peterson
+066189.html,[Rd] Description depends line for windows only,66189,Andrew Redd
+066035.html,[Rd] crossprod(): g77 versus gfortran,66035,Prof Brian Ripley
+066043.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66043,Prof Brian Ripley
+066052.html,[Rd] predict.loess() segfaults for large n?,66052,Prof Brian Ripley
+066106.html,[Rd] Request for more flexibility in heatmap() width / height ratio,66106,Prof Brian Ripley
+066194.html,[Rd] read.pnm question in R-beta,66194,Prof Brian Ripley
+066202.html,[Rd] double in summary.c : isum,66202,Prof Brian Ripley
+066210.html,[Rd] double in summary.c : isum,66210,Prof Brian Ripley
+066070.html,[Rd] Why cannot `Rscript -e` accept an empty line?,66070,Barry Rowlingson
+066121.html,[Rd] Snippets from other packages/ License,66121,Barry Rowlingson
+066113.html,[Rd] Snippets from other packages/ License,66113,Felix Sch&#246;nbrodt
+066119.html,[Rd] Snippets from other packages/ License,66119,Felix Sch&#246;nbrodt
+066215.html,[Rd] Rd.sty not found,66215,Lori Shepherd
+066031.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66031,Dan Tenenbaum
+066069.html,[Rd] question on why Rigroup package moved to Archive on CRAN,66069,Dan Tenenbaum
+066110.html,[Rd] Failed to locate 'weave' output file / vignette product does not have a known filename extension,66110,Dan Tenenbaum
+066176.html,[Rd] missing space in R version specifier makes PACKAGES file unreadable by install.packages(),66176,Dan Tenenbaum
+066177.html,[Rd] missing space in R version specifier makes PACKAGES file unreadable by install.packages(),66177,Dan Tenenbaum
+066179.html,[Rd] missing space in R version specifier makes PACKAGES file unreadable by install.packages(),66179,Dan Tenenbaum
+066190.html,[Rd] Description depends line for windows only,66190,Dan Tenenbaum
+066231.html,[Rd] broken link to binary of R-3.0 RC,66231,Dan Tenenbaum
+066108.html,"[Rd] R-devel Digest, Vol 121, Issue 13",66108,Terry Therneau
+066127.html,[Rd] numerics from a factor,66127,Terry Therneau
+066152.html,[Rd] numerics from a factor,66152,Terry Therneau
+066169.html,"[Rd] R-devel Digest, Vol 121, Issue 20",66169,Terry Therneau
+066172.html,[Rd] Re Deprecating partial matching in $.data.frame,66172,Terry Therneau
+066173.html,[Rd] Depreciating partial matching,66173,Terry Therneau
+066175.html,[Rd] Depreciating partial matching,66175,Terry Therneau
+066186.html,[Rd] ess completion,66186,Terry Therneau
+066054.html,[Rd] [BioC] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66054,"Tim Triche, Jr."
+066034.html,[Rd] crossprod(): g77 versus gfortran,66034,Benjamin Tyner
+066048.html,[Rd] crossprod(): g77 versus gfortran,66048,Benjamin Tyner
+066221.html,[Rd] as.Date.POSIXct,66221,Joshua Ulrich
+066010.html,[Rd] conflict between rJava and data.table,66010,Simon Urbanek
+066015.html,[Rd] conflict between rJava and data.table,66015,Simon Urbanek
+066017.html,[Rd] conflict between rJava and data.table,66017,Simon Urbanek
+066020.html,[Rd] .Call interface: Use R SEXP as C mutable *char,66020,Simon Urbanek
+066028.html,[Rd] multi threaded execution of package,66028,Simon Urbanek
+066049.html,[Rd] crossprod(): g77 versus gfortran,66049,Simon Urbanek
+066081.html,[Rd] compiling C code using headers from another R package,66081,Simon Urbanek
+066084.html,[Rd] compiling C code using headers from another R package,66084,Simon Urbanek
+066087.html,[Rd] compiling C code using headers from another R package,66087,Simon Urbanek
+066091.html,[Rd] compiling C code using headers from another R package,66091,Simon Urbanek
+066095.html,[Rd] compiling C code using headers from another R package,66095,Simon Urbanek
+066099.html,[Rd] compiling C code using headers from another R package,66099,Simon Urbanek
+066129.html,[Rd] the case of building R snapshot without svn nor network	connection.,66129,Simon Urbanek
+066136.html,[Rd] the case of building R snapshot without svn nor network	connection.,66136,Simon Urbanek
+066174.html,[Rd] Depreciating partial matching,66174,Simon Urbanek
+066229.html,[Rd] using openbabel plugins in R,66229,Simon Urbanek
+066238.html,[Rd] R/Sweave/cairo/freetype bug fix.,66238,Simon Urbanek
+066115.html,[Rd] Viewing Compelete Decision Tree in R - R.2.15.2 - Wndows7	32bit,66115,R. Michael Weylandt
+066166.html,[Rd] Typo-let in NEWS.Rd,66166,R. Michael Weylandt
+066200.html,[Rd] Why does typeof() modify an object's &quot;named&quot; field?,66200,R. Michael Weylandt
+066117.html,[Rd] Snippets from other packages/ License,66117,Hadley Wickham
+066158.html,[Rd] Deprecating partial matching in $.data.frame,66158,Hadley Wickham
+066164.html,[Rd] Deprecating partial matching in $.data.frame,66164,Hadley Wickham
+066167.html,[Rd] Structure not deparsed correctly when printing calls,66167,Hadley Wickham
+066222.html,"[Rd] source, sys.source and error line numbers",66222,Hadley Wickham
+066233.html,[Rd] Ref classes initFields has incorrect environment?,66233,Hadley Wickham
+066208.html,[Rd] ifelse can't return a list? Please explain (R-2.15.3),66208,Joshua Wiley
+066085.html,[Rd] Bugs due to naive copying of list elements,66085,David Winsemius
+066224.html,[Rd] mean.data.frame: R 3.0.0 help page wrong?,66224,David Winsemius
+066165.html,[Rd] Character Encoding: Why are valid Windows-1252 characters encoded as invalid ISO-8859-1 characters?,66165,Jason Wood
+066032.html,[Rd] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66032,Yihui Xie
+066066.html,[Rd] Why cannot `Rscript -e` accept an empty line?,66066,Yihui Xie
+066137.html,[Rd] the case of building R snapshot without svn nor network	connection.,66137,Yihui Xie
+066201.html,[Rd] fortune?,66201,Achim Zeileis
+066025.html,[Rd] Missing PROTECT in mkPRIMSXP ?,66025,peter dalgaard
+066131.html,[Rd] the case of building R snapshot without svn nor network	connection.,66131,peter dalgaard
+066156.html,[Rd] Deprecating partial matching in $.data.frame,66156,peter dalgaard
+066160.html,[Rd] Deprecating partial matching in $.data.frame,66160,peter dalgaard
+066161.html,[Rd] Deprecating partial matching in $.data.frame,66161,peter dalgaard
+066170.html,[Rd] Deprecating partial matching in $.data.frame,66170,peter dalgaard
+066185.html,[Rd] Deprecating partial matching in $.data.frame,66185,peter dalgaard
+066193.html,[Rd] read.pnm question in R-beta,66193,peter dalgaard
+066236.html,[Rd] R/Sweave/cairo/freetype bug fix.,66236,peter dalgaard
+066033.html,[Rd] enabling reproducible research &amp; R package management &amp; install.package.version &amp; BiocLite,66033,oliver
+066061.html,[Rd] Submitting packages with weak circular dependencies to CRAN.,66061,oliver
+066057.html,[Rd] lapply coerce data.frame to a list,66057,qwumd
+066146.html,[Rd]  Windows R-3.0.0 and Tcl/tkrplot issue,66146,Wayne.W.Jones at shell.com
+066094.html,[Rd] Bugs due to naive copying of list elements,66094,kevin.hendricks at sympatico.ca
+066024.html,[Rd] Missing PROTECT in mkPRIMSXP ?,66024,luke-tierney at uiowa.edu
+066096.html,[Rd] Bugs due to naive copying of list elements,66096,luke-tierney at uiowa.edu
+066077.html,[Rd] &quot;undefined symbol&quot; when `R CMD check'.,66077,&#51204;&#55148;&#50896;

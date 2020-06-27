@@ -1,0 +1,260 @@
+link,Subject,id,author
+056275.html,[Rd] apparently incorrect p-values from 2-sided Kolmogorov-Smirnov test (PR#14145),56275,David John Allwright
+056291.html,[Rd] R_ext manual: type cast in C function registration,56291,Simon Anders
+056250.html,"[Rd] R_PreserveObject,	R_ReleaseObject : reference counting 	needed ?",56250,Whit Armstrong
+056253.html,"[Rd] R_PreserveObject,	R_ReleaseObject : reference counting 	needed ?",56253,Whit Armstrong
+056412.html,[Rd] fPortfolio prob: maxreturnPortfolio() returns Na/NaN/Inf error,56412,Michael Ashton
+056309.html,[Rd] snark of the day: new &quot;features&quot; (??) in Mathematica 7,56309,Douglas Bates
+056277.html,[Rd] &quot;Human-style&quot; sort() of alphanum strings?,56277,Henrik Bengtsson
+056295.html,[Rd] &quot;Human-style&quot; sort() of alphanum strings?,56295,Henrik Bengtsson
+056297.html,[Rd] &quot;Human-style&quot; sort() of alphanum strings?,56297,Henrik Bengtsson
+056346.html,[Rd] Wishlist: system.file(... package) throw an error if package	not installed/path not found,56346,Henrik Bengtsson
+056379.html,[Rd] CRAN: No MacOS X binary builds since January 7,56379,Henrik Bengtsson
+056383.html,[Rd] CRAN: No MacOS X binary builds since January 7,56383,Henrik Bengtsson
+056393.html,[Rd] CRAN: No MacOS X binary builds since January 7,56393,Henrik Bengtsson
+056286.html,[Rd] wiki down?,56286,Ben Bolker
+056307.html,[Rd] snark of the day: new &quot;features&quot; (??)  in Mathematica 7,56307,Ben Bolker
+056348.html,[Rd] adapt package missing because of licensing issue: fix?,56348,Ben Bolker
+056382.html,[Rd] Fix for bug in match(),56382,Andreas Borg
+056329.html,[Rd] Rd output garbled in some circumstances,56329,Ross Boylan
+056349.html,[Rd] optional package dependency,56349,Ross Boylan
+056360.html,[Rd] optional package dependency,56360,Ross Boylan
+056363.html,[Rd] optional package dependency (enhances),56363,Ross Boylan
+056364.html,[Rd] optional package dependency (suggestions/wishes),56364,Ross Boylan
+056372.html,[Rd] optional package dependency,56372,Ross Boylan
+056391.html,[Rd] calling setGeneric() twice,56391,Ross Boylan
+056394.html,[Rd] calling setGeneric() twice,56394,Ross Boylan
+056396.html,[Rd] calling setGeneric() twice (don't; documentation comments),56396,Ross Boylan
+056408.html,[Rd] Rgeneric.py assists in rearranging generic function definitions,56408,Ross Boylan
+056439.html,[Rd] Rgeneric.py assists in rearranging generic	function	definitions [inline],56439,Ross Boylan
+056306.html,[Rd] available.packages and 2.10.0,56306,Patrick Burns
+056440.html,[Rd] Stack smashing in RODBC,56440,Tom &quot;spot&quot; Callaway
+056443.html,[Rd] Stack smashing in RODBC,56443,Tom &quot;spot&quot; Callaway
+056449.html,[Rd] Stack smashing in RODBC,56449,Tom &quot;spot&quot; Callaway
+056353.html,[Rd] optional package dependency,56353,Benilton Carvalho
+056330.html,[Rd] bug in callNextMethod (PR#14185),56330,John Chambers
+056269.html,[Rd] bin/exec/R coredumps (PR#14177),56269,Peter Dalgaard
+056311.html,[Rd] snark of the day: new &quot;features&quot; (??) in Mathematica 7,56311,Peter Dalgaard
+056427.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56427,Peter Dalgaard
+056456.html,[Rd] poisson.test from stats package does not pass the conf.level (PR#14195),56456,Peter Dalgaard
+056468.html,[Rd] src/library/grid/src/grid.c (PR#14199),56468,Peter Dalgaard
+056336.html,[Rd] wiki down?,56336,Matthew Dowle
+056322.html,[Rd] Documentation: format of read.table help text (PR#14180),56322,William Dunlap
+056251.html,"[Rd] R_PreserveObject,	R_ReleaseObject : reference counting 	needed ?",56251,Dirk Eddelbuettel
+056374.html,[Rd] optional package dependency,56374,Dirk Eddelbuettel
+056403.html,[Rd] optional package dependency (enhances),56403,Dirk Eddelbuettel
+056425.html,[Rd] R-2.10.1 : There is no make file. (PR#14192),56425,Dirk Eddelbuettel
+056441.html,[Rd] Stack smashing in RODBC,56441,Dirk Eddelbuettel
+056444.html,[Rd] Stack smashing in RODBC,56444,Dirk Eddelbuettel
+056462.html,[Rd] Problem with R math library.,56462,Dirk Eddelbuettel
+056467.html,[Rd] Problem with R math library. [and a minor bug report],56467,Dirk Eddelbuettel
+056471.html,[Rd] Problem with R math library.,56471,Dirk Eddelbuettel
+056481.html,[Rd] Stop packages and datasets to be loaded on startup.,56481,Dirk Eddelbuettel
+056235.html,[Rd] loess() crashes R on my system,56235,Peter Ehlers
+056271.html,[Rd] log normal overlay,56271,Peter Ehlers
+056254.html,[Rd] readCitationFile encoding,56254,Jens Elkner
+056319.html,[Rd] MCMCpack + SunStudio12 patch,56319,Jens Elkner
+056420.html,[Rd] Inconsistency in as.data.frame.table for	stringsAsFactors,56420,S Ellison
+056230.html,"[Rd] How x[, 'colname1'] is implemented?",56230,Seth Falcon
+056356.html,[Rd] optional package dependency,56356,Seth Falcon
+056369.html,[Rd] optional package dependency,56369,Seth Falcon
+056370.html,[Rd] optional package dependency,56370,Seth Falcon
+056392.html,[Rd] calling setGeneric() twice,56392,Seth Falcon
+056395.html,[Rd] calling setGeneric() twice,56395,Seth Falcon
+056473.html,[Rd] src/main/platform.c (PR#14198),56473,Seth Falcon
+056231.html,"[Rd] R_PreserveObject,	R_ReleaseObject  : reference counting needed ?",56231,Romain Francois
+056238.html,"[Rd] R_PreserveObject, R_ReleaseObject : reference counting needed ?",56238,Romain Francois
+056242.html,"[Rd] R_PreserveObject, R_ReleaseObject  : reference counting needed ?",56242,Romain Francois
+056243.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56243,Romain Francois
+056252.html,"[Rd] R_PreserveObject, R_ReleaseObject : reference counting  needed ?",56252,Romain Francois
+056256.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56256,Romain Francois
+056257.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56257,Romain Francois
+056263.html,"[Rd] iterative list rm [Was: R-devel Digest, Vol 83, Issue 2]",56263,Romain Francois
+056264.html,"[Rd] R object protection [Was: R-devel Digest, Vol 83, Issue 2]",56264,Romain Francois
+056302.html,[Rd] PROTECT and OCaml GC.,56302,Romain Francois
+056304.html,[Rd] Is nested namespace supported?,56304,Romain Francois
+056334.html,[Rd] how to call a function from C,56334,Romain Francois
+056337.html,[Rd] how to call a function from C,56337,Romain Francois
+056340.html,[Rd] how to call a function from C,56340,Romain Francois
+056342.html,[Rd] how to call a function from C,56342,Romain Francois
+056386.html,[Rd] compiler specific flags : -std=c++0x,56386,Romain Francois
+056417.html,[Rd] R CMD check error with the GNU Scientific Library,56417,Romain Francois
+056328.html,[Rd] Is this &quot;strftime&quot; behavior (on WinXP) what's expected?,56328,"Galkowski, Jan"
+056375.html,[Rd] packages built against upcoming releases,56375,Jan Theodore Galkowski
+056377.html,[Rd] packages built against upcoming releases,56377,Jan Theodore Galkowski
+056237.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56237,Laurent Gautier
+056241.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56241,Laurent Gautier
+056244.html,"[Rd] R_PreserveObject, R_ReleaseObject : reference counting needed ?",56244,Laurent Gautier
+056248.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56248,Laurent Gautier
+056249.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56249,Laurent Gautier
+056258.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56258,Laurent Gautier
+056335.html,[Rd] how to call a function from C,56335,Laurent Gautier
+056338.html,[Rd] how to call a function from C,56338,Laurent Gautier
+056266.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows use	MINGW64,56266,Arm Gong
+056431.html,[Rd] drawExpression package,56431,Philippe Grosjean
+056228.html,[Rd] R Wish List,56228,Gabor Grothendieck
+056278.html,[Rd] &quot;Human-style&quot; sort() of alphanum strings?,56278,Gabor Grothendieck
+056296.html,[Rd] &quot;Human-style&quot; sort() of alphanum strings?,56296,Gabor Grothendieck
+056438.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56438,Gabor Grothendieck
+056316.html,[Rd] interfacing R with RFC2445,56316,Jeff Hamann
+056405.html,[Rd] showMethods,56405,Kasper Daniel Hansen
+056455.html,[Rd] Possible bug in fisher.test() (PR#14196),56455, (Ted Harding)
+056285.html,[Rd] missing R-devel/po,56285,Kurt Hornik
+056352.html,[Rd] optional package dependency,56352,Kurt Hornik
+056371.html,[Rd] &quot;Too many raster images&quot; in devPS.c,56371,Wolfgang Huber
+056474.html,[Rd] &quot;Too many raster images&quot; in devPS.c,56474,Wolfgang Huber
+056326.html,[Rd] Lightweight 'package' idea.,56326,Keith Jewell
+056398.html,[Rd] Lightweight 'package' idea.,56398,Keith Jewell
+056402.html,[Rd] R CMD INSTALL configure.args and CC customization,56402,Paul Johnson
+056365.html,[Rd] Using multicore with an open pdf device results in corrupt	pdf (PR#14186),56365,Manuel Koller
+056287.html,[Rd] Creating RPMs for Packages,56287,Max Kuhn
+056453.html,"[Rd] Depends, Suggests and .First.lib",56453,Oscar Perpi&#241;an Lamigueiro
+056343.html,[Rd] wiki down?,56343,Friedrich Leisch
+056234.html,[Rd] loess() crashes R on my system,56234,Uwe Ligges
+056267.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows use	MINGW64,56267,Uwe Ligges
+056308.html,[Rd] available.packages and 2.10.0,56308,Uwe Ligges
+056354.html,[Rd] adapt package missing because of licensing issue: fix?,56354,Uwe Ligges
+056358.html,[Rd] optional package dependency,56358,Uwe Ligges
+056376.html,[Rd] packages built against upcoming releases,56376,Uwe Ligges
+056378.html,[Rd] packages built against upcoming releases,56378,Uwe Ligges
+056401.html,[Rd] optional package dependency (enhances),56401,Uwe Ligges
+056416.html,[Rd] R CMD check error with the GNU Scientific Library,56416,Uwe Ligges
+056430.html,[Rd] drawExpression package,56430,Sylvain Loiseau
+056432.html,[Rd] drawExpression package,56432,Sylvain Loiseau
+056359.html,[Rd] optional package dependency,56359,Thomas Lumley
+056390.html,[Rd] Copyright versus Licenses,56390,Thomas Lumley
+056450.html,"[Rd] AD:  advanced R course - June 28-30, Seattle.",56450,Thomas Lumley
+056366.html,[Rd] order() fails on a chr object of class &quot;AsIs&quot; with &quot;\265&quot; in it,56366,Don MacQueen
+056385.html,[Rd] order() fails on a chr object of class &quot;AsIs&quot; with &quot;\265&quot; in it,56385,Don MacQueen
+056410.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56410,Stavros Macrakis
+056426.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56426,Stavros Macrakis
+056414.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56414,Martin Maechler
+056409.html,[Rd] Model frame when LHS is cbind (PR#14189),56409,Arni Magnusson
+056424.html,[Rd] R-2.10.1 : There is no make file. (PR#14192),56424,Ribatet Mathieu
+056388.html,[Rd] Copyright versus Licenses,56388,Bryan McLellan
+056465.html,[Rd] Missing argument error message,56465,Hrishi Mittal
+056434.html,[Rd] recursive data-structures in R - An S4 &quot;node&quot; Class,56434,Martin Morgan
+056239.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56239,Duncan Murdoch
+056246.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56246,Duncan Murdoch
+056255.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56255,Duncan Murdoch
+056259.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56259,Duncan Murdoch
+056321.html,[Rd] rgl: bogus configure[.ac] (PR#14183),56321,Duncan Murdoch
+056323.html,[Rd] Documentation: format of read.table help text (PR#14180),56323,Duncan Murdoch
+056331.html,[Rd] Rd output garbled in some circumstances,56331,Duncan Murdoch
+056233.html,[Rd] loess() crashes R on my system,56233,Dennis Murphy
+056458.html,[Rd] &quot;Too many raster images&quot; in devPS.c,56458,Paul Murrell
+056475.html,[Rd] src/library/grid/src/grid.c (PR#14199),56475,Paul Murrell
+056476.html,[Rd] &quot;Too many raster images&quot; in devPS.c,56476,Paul Murrell
+056442.html,[Rd] Help on R-2.10.1 installation on AIX5.3,56442,Ei-ji Nakama
+056451.html,[Rd] Residual DF of NLS models (PR#14194),56451,Henrik Aalborg Nielsen
+056315.html,[Rd] seq.int broken (seq as well) (PR#14169),56315,Jens Oehlschl&#228;gel
+056351.html,[Rd] optional package dependency,56351,Jari Oksanen
+056429.html,[Rd] setTimeLimit() fails when out of memory.,56429,Jeroen Ooms
+056289.html,[Rd] Creating RPMs for Packages,56289,Pierre-Yves
+056406.html,[Rd] function curve() (PR#14191),56406,Tony Plate
+056236.html,[Rd] loess() crashes R on my system,56236,Prof Brian Ripley
+056281.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows use MINGW64,56281,Prof Brian Ripley
+056292.html,[Rd] chooseCRANmirror() (PR#14179),56292,Prof Brian Ripley
+056301.html,[Rd] MinGW-w64 build of 64-bit R for Windows,56301,Prof Brian Ripley
+056317.html,[Rd] (PR#14181) Error description not prompted but R crashes instead,56317,Prof Brian Ripley
+056367.html,[Rd] order() fails on a chr object of class &quot;AsIs&quot; with &quot;\265&quot; in it,56367,Prof Brian Ripley
+056380.html,[Rd] CRAN: No MacOS X binary builds since January 7,56380,Prof Brian Ripley
+056407.html,[Rd] Model frame when LHS is cbind (PR#14189),56407,Prof Brian Ripley
+056411.html,[Rd] Update on MinGW-w64 builds for 64-bit Windows,56411,Prof Brian Ripley
+056447.html,[Rd] Residual DF of NLS models (PR#14194),56447,Prof Brian Ripley
+056466.html,[Rd] Missing argument error message,56466,Prof Brian Ripley
+056400.html,[Rd] optional package dependency (enhances),56400,Allen S. Rout
+056404.html,[Rd] optional package dependency (enhances),56404,Allen S. Rout
+056227.html,"[Rd] How x[, 'colname1'] is implemented?",56227,Barry Rowlingson
+056232.html,"[Rd] How x[, 'colname1'] is implemented?",56232,Barry Rowlingson
+056325.html,[Rd] seq.int broken (seq as well) (PR#14169),56325,Barry Rowlingson
+056333.html,[Rd] interfacing R with RFC2445,56333,Barry Rowlingson
+056463.html,[Rd] Missing argument error message,56463,Barry Rowlingson
+056350.html,[Rd] optional package dependency,56350,Jeff Ryan
+056339.html,[Rd] how to call a function from C,56339,Dominick Samperi
+056341.html,[Rd] how to call a function from C,56341,Dominick Samperi
+056345.html,[Rd] RcppTemplate user alert,56345,Dominick Samperi
+056284.html,[Rd] missing R-devel/po,56284,Petr Savicky
+056288.html,[Rd] Creating RPMs for Packages,56288,Marc Schwartz
+056310.html,[Rd] snark of the day: new &quot;features&quot; (??) in Mathematica 7,56310,Marc Schwartz
+056437.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56437,Terry Therneau
+056332.html,[Rd] Mksetup() limited to hashing with 32 bits,56332,Benjamin Tyner
+056423.html,[Rd] R-2.10.1 : There is no make file. (PR#14192),56423,Joshua Ulrich
+056240.html,"[Rd] R_PreserveObject,	R_ReleaseObject  : reference counting needed ?",56240,Simon Urbanek
+056245.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56245,Simon Urbanek
+056260.html,"[Rd] R object protection [Was: R-devel Digest, Vol 83, Issue 2]",56260,Simon Urbanek
+056261.html,"[Rd] inspect [Was: R-devel Digest, Vol 83, Issue 2]",56261,Simon Urbanek
+056262.html,"[Rd] iterative list rm [Was: R-devel Digest, Vol 83, Issue 2]",56262,Simon Urbanek
+056347.html,[Rd] Wishlist: system.file(... package) throw an error if	package not installed/path not found,56347,Simon Urbanek
+056357.html,[Rd] optional package dependency,56357,Simon Urbanek
+056361.html,[Rd] optional package dependency,56361,Simon Urbanek
+056362.html,[Rd] Using multicore with an open pdf device results in corrupt	pdf (PR#14186),56362,Simon Urbanek
+056384.html,[Rd] CRAN: No MacOS X binary builds since January 7,56384,Simon Urbanek
+056389.html,[Rd] Copyright versus Licenses,56389,Simon Urbanek
+056480.html,[Rd] Stop packages and datasets to be loaded on startup.,56480,Simon Urbanek
+056484.html,[Rd] Stop packages and datasets to be loaded on startup.,56484,Simon Urbanek
+056273.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows	use MINGW64,56273,Yihui Xie
+056436.html,[Rd] Help on R-2.10.1 installation on AIX5.3,56436,Jin Xu
+056272.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows	use MINGW64,56272,Gong Yu
+056274.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows	use MINGW64,56274,Gong Yu
+056279.html,[Rd] the source code and tool-chain for  R64-win64  uploaded,56279,Gong Yu
+056280.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows	use MINGW64,56280,Gong Yu
+056282.html,[Rd] I have finished compiling of R 64 bit on 64 bit Windows	use MINGW64,56282,Gong Yu
+056226.html,"[Rd] How x[, 'colname1'] is implemented?",56226,Peng Yu
+056229.html,"[Rd] How x[, 'colname1'] is implemented?",56229,Peng Yu
+056303.html,[Rd] Is nested namespace supported?,56303,Peng Yu
+056305.html,[Rd] Is nested namespace supported?,56305,Peng Yu
+056294.html,"[Rd] Segfault in GetNewPage, memory.c.",56294,Guillaume Yziquel
+056298.html,"[Rd] Segfault in GetNewPage, memory.c.",56298,Guillaume Yziquel
+056299.html,[Rd] PROTECT and OCaml GC.,56299,Guillaume Yziquel
+056300.html,[Rd] PROTECT and OCaml GC.,56300,Guillaume Yziquel
+056459.html,[Rd] Problem with R math library.,56459,Guillaume Yziquel
+056464.html,[Rd] Problem with R math library.,56464,Guillaume Yziquel
+056469.html,[Rd] Problem with R math library.,56469,Guillaume Yziquel
+056470.html,[Rd] Problem with R math library. [and a minor bug report],56470,Guillaume Yziquel
+056472.html,[Rd] Problem with R math library.,56472,Guillaume Yziquel
+056479.html,[Rd] Stop packages and datasets to be loaded on startup.,56479,Guillaume Yziquel
+056482.html,[Rd] Stop packages and datasets to be loaded on startup.,56482,Guillaume Yziquel
+056483.html,[Rd] Stop packages and datasets to be loaded on startup.,56483,Guillaume Yziquel
+056283.html,[Rd] lapack problem on Linux fedora 11,56283,Hongbin Zhang
+056313.html,[Rd] Documentation: format of read.table help text (PR#14180),56313,henrik.parn at bio.ntnu.no
+056478.html,[Rd] qpois Help problems (PR#14200),56478,Jerry.Lewis at biogenidec.com
+056265.html,[Rd] dchisq tail accuracy (PR#14105),56265,jerry.lewis at biogenidec.com
+056457.html,[Rd] poisson.test from stats package does not pass the	conf.level (PR#14197),56457,p.dalgaard at biostat.ku.dk
+056422.html,[Rd] R-2.10.1 : There is no make file. (PR#14192),56422,nachikethas at cox.net
+056268.html,[Rd] bin/exec/R coredumps (PR#14177),56268,jel+r at cs.uni-magdeburg.de
+056318.html,[Rd] rgl: bogus configure[.ac] (PR#14183),56318,jel+r at cs.uni-magdeburg.de
+056270.html,[Rd]  log normal overlay,56270,emorway
+056446.html,[Rd] Residual DF of NLS models (PR#14194),56446,han at enfor.dk
+056368.html,[Rd] 'tcltk' crashes related to event-loops (PR#14187),56368,landronimirc at gmail.com
+056373.html,[Rd] 'tcltk' freezes related to event-loops (PR#14188),56373,landronimirc at gmail.com
+056314.html,[Rd] Error description not prompted but R crashes instead (PR#14181),56314,pdemoulin at gmail.com
+056324.html,[Rd] (PR#14181) Error description not prompted but R crashes,56324,pdemoulin at gmail.com
+056327.html,[Rd] bug in callNextMethod (PR#14185),56327,bernd_bischl at gmx.net
+056387.html,[Rd] Model frame when LHS is cbind (PR#14189),56387,arnima at hafro.is
+056477.html,[Rd] [BioC] Suppress output from getGEO,56477,waku at idi.ntnu.no
+056460.html,[Rd] src/main/platform.c (PR#14198),56460,A.R.Runnalls at kent.ac.uk
+056461.html,[Rd] src/library/grid/src/grid.c (PR#14199),56461,A.R.Runnalls at kent.ac.uk
+056397.html,[Rd] function curve() (PR#14191),56397,georgi.boshnakov at manchester.ac.uk
+056276.html,[Rd] apparently incorrect p-values from 2-sided	Kolmogorov-Smirnov (PR#14178),56276,allwrigh at maths.ox.ac.uk
+056452.html,[Rd] poisson.test from stats package does not pass the conf.level	(PR#14195),56452,mfay at niaid.nih.gov
+056290.html,[Rd] chooseCRANmirror() (PR#14179),56290,chrishold at psyctc.org
+056320.html,[Rd] (PR#14181) Error description not prompted but R crashes	instead,56320,simon.urbanek at r-project.org
+056433.html,[Rd] recursive data-structures in R - An S4 &quot;node&quot; Class,56433,rt
+056435.html,[Rd] recursive data-structures in R - An S4 &quot;node&quot; Class,56435,rt
+056454.html,[Rd] Possible bug in fisher.test() (PR#14196),56454,nhorton at smith.edu
+056355.html,[Rd] Using multicore with an open pdf device results in corrupt pdf	(PR#14186),56355,kollerma at stat.math.ethz.ch
+056247.html,"[Rd] R-devel Digest, Vol 83, Issue 2",56247,luke at stat.uiowa.edu
+056344.html,[Rd] how to call a function from C,56344,luke at stat.uiowa.edu
+056448.html,[Rd] tm installation (PR#14193),56448,ligges at statistik.tu-dortmund.de
+056413.html,[Rd] arima with multiplicative season,56413,stephenb
+056415.html,[Rd] R CMD check error with the GNU Scientific Library,56415,pleydell at supagro.inra.fr
+056421.html,[Rd] R CMD check error with the GNU Scientific Library,56421,pleydell at supagro.inra.fr
+056445.html,[Rd] tm installation (PR#14193),56445,ctelmo at ua.pt
+056293.html,[Rd] Creating RPMs for Packages,56293,nashjc at uottawa.ca
+056399.html,[Rd] Lightweight 'package' idea.,56399,hadley wickham
+056418.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56418,hadley wickham
+056419.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56419,hadley wickham
+056428.html,[Rd] Inconsistency in as.data.frame.table for stringsAsFactors,56428,hadley wickham
+056312.html,[Rd] Wishlist: Function 'difftime' to honor 'tzone' attribute	(PR#14182),56312,suharto_anggono at yahoo.com
+056381.html,[Rd] Build R-2.10.0 on HP-UX ia64 server,56381,&#20159;&#20803;&#20116;&#35282;

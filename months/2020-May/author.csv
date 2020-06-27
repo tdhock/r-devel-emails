@@ -1,0 +1,202 @@
+link,Subject,id,author
+079488.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79488,Avraham Adler
+079522.html,[Rd] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79522,Juan Telleria Ruiz de Aguirre
+079529.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79529,Juan Telleria Ruiz de Aguirre
+079532.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79532,Juan Telleria Ruiz de Aguirre
+079453.html,[Rd] Segfault on read.socket with long message,79453,Russell Almond
+079455.html,[Rd] Segfault on read.socket with long message,79455,Russell Almond
+079506.html,[Rd] order function called on a data.frame?,79506,Rui Barradas
+079468.html,[Rd] docs about _R_CHECK_FORCE_SUGGESTS_ ?,79468,Gabriel Becker
+079493.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79493,Gabriel Becker
+079539.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79539,Gabriel Becker
+079549.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79549,Gabriel Becker
+079571.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79571,Gabriel Becker
+079572.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79572,Gabriel Becker
+079576.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79576,Gabriel Becker
+079580.html,[Rd] Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79580,Kenny Bell
+079582.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79582,Kenny Bell
+079583.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79583,Kenny Bell
+079584.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79584,Kenny Bell
+079585.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79585,Kenny Bell
+079487.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79487,"Bemis, Kylie"
+079444.html,[Rd] defining r audio connections,79444,Henrik Bengtsson
+079525.html,"[Rd] Precision of function mean,bug?",79525,Henrik Bengtsson
+079544.html,[Rd]  Compatibility issues caused by new simplify argument in apply function,79544,Henrik Bengtsson
+079569.html,[Rd] dbinom link,79569,Hilmar Berger
+079425.html,[Rd] issues with environment handling in model.frame(),79425,"Berry, Charles"
+079588.html,[Rd] closing R graphics windows?,79588,Ben Bolker
+079559.html,[Rd] Should 0L * NA_integer_ be 0L?,79559,Michael Chirico
+079562.html,[Rd] Should 0L * NA_integer_ be 0L?,79562,Michael Chirico
+079442.html,[Rd] defining r audio connections,79442,G&#225;bor Cs&#225;rdi
+079467.html,[Rd] docs about _R_CHECK_FORCE_SUGGESTS_ ?,79467,G&#225;bor Cs&#225;rdi
+079597.html,[Rd] r-project.org SSL certificate issues,79597,G&#225;bor Cs&#225;rdi
+079601.html,[Rd] r-project.org SSL certificate issues,79601,G&#225;bor Cs&#225;rdi
+079607.html,[Rd] r-project.org SSL certificate issues,79607,G&#225;bor Cs&#225;rdi
+079608.html,[Rd] r-project.org SSL certificate issues,79608,G&#225;bor Cs&#225;rdi
+079610.html,[Rd] r-project.org SSL certificate issues,79610,G&#225;bor Cs&#225;rdi
+079611.html,[Rd] r-project.org SSL certificate issues,79611,G&#225;bor Cs&#225;rdi
+079577.html,[Rd] R 4.0.1 scheduled for June 6,79577,Peter Dalgaard
+079474.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79474,William Dunlap
+079491.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79491,William Dunlap
+079509.html,[Rd] order function called on a data.frame?,79509,William Dunlap
+079536.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79536,William Dunlap
+079548.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79548,William Dunlap
+079550.html,[Rd] R-devel's ...names() questions,79550,William Dunlap
+079537.html,[Rd] GCC warning,79537,Adrian Du&#537;a
+079567.html,[Rd] GCC warning,79567,Adrian Du&#537;a
+079423.html,[Rd] R not working to Window 10,79423,Dirk Eddelbuettel
+079463.html,[Rd] &quot;cd&quot; floating in the air in the man page for paste/paste0,79463,Dirk Eddelbuettel
+079484.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79484,Dirk Eddelbuettel
+079421.html,[Rd] issues with environment handling in model.frame(),79421,Antoine Fabri
+079428.html,[Rd] Tcl.Tk Tktable package missing from R 4.0.0 on Windows,79428,"Fox, John"
+079432.html,[Rd] Tcl.Tk Tktable package missing from R 4.0.0 on Windows,79432,"Fox, John"
+079561.html,[Rd] Surpising behavior when using an active binding as loop index in R 4.0.0,79561,Thomas Friedrichsmeier
+079563.html,[Rd]  Surpising behavior when using an active binding as loop index in R 4.0.0,79563,Thomas Friedrichsmeier
+079505.html,[Rd] parRapply and parCapply return a list in corner cases,79505,Simone Giannerini
+079472.html,[Rd] system(timeout=) may timeout with 0 exit code,79472,Jan Gorecki
+079499.html,[Rd] update R Internals for R 4.0.0,79499,Jan Gorecki
+079500.html,[Rd] order function called on a data.frame?,79500,Jan Gorecki
+079558.html,[Rd] base::order breaking change in R-devel,79558,Jan Gorecki
+079609.html,[Rd] order function called on a data.frame?,79609,Jan Gorecki
+079412.html,[Rd]  &quot;not a valid win32 application&quot; with rtools40-x86_65.exe on Windows 10,79412,Spencer Graves
+079476.html,[Rd] justify hard coded in format.ftable,79476,Gabor Grothendieck
+079477.html,[Rd] justify hard coded in format.ftable,79477,Gabor Grothendieck
+079568.html,[Rd] ftable &lt;-&gt; data.frame etc {was &quot;justify hard coded in format.ftable&quot;},79568,Gabor Grothendieck
+079511.html,[Rd] Graphic parameters with length zero in grid cause R to crash,79511,"Gu, Zuguang"
+079449.html,[Rd] Minor Infelicity in Printing of Objects Nested in Lists,79449,Lionel Henry
+079445.html,[Rd] defining r audio connections,79445,Jim Hester
+079466.html,[Rd] docs about _R_CHECK_FORCE_SUGGESTS_ ?,79466,Toby Hocking
+079498.html,[Rd] docs about _R_CHECK_FORCE_SUGGESTS_ ?,79498,Toby Hocking
+079542.html,[Rd] pbirthday() for larger number of classes,79542,Marius Hofert
+079552.html,[Rd] pbirthday() for larger number of classes,79552,Marius Hofert
+079515.html,[Rd] quantile() type 1 for some ordered factors in R-devel,79515,Kurt Hornik
+079520.html,[Rd] quantile() type 1 for some ordered factors in R-devel,79520,Kurt Hornik
+079436.html,[Rd] error in message printed by L-BFGS-B,79436,Tomas Kalibera
+079454.html,[Rd] Segfault on read.socket with long message,79454,Tomas Kalibera
+079456.html,[Rd] Segfault on read.socket with long message,79456,Tomas Kalibera
+079465.html,[Rd] &quot;cd&quot; floating in the air in the man page for paste/paste0,79465,Tomas Kalibera
+079518.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79518,Tomas Kalibera
+079521.html,[Rd] system(timeout=) may timeout with 0 exit code,79521,Tomas Kalibera
+079540.html,[Rd] Build failing on win64,79540,Tomas Kalibera
+079422.html,[Rd] R not working to Window 10,79422,Naveen Kaushik
+079590.html,[Rd] closing R graphics windows?,79590,Jan T. Kim
+079501.html,[Rd] dbinom link,79501,"Koenker, Roger W"
+079447.html,[Rd] base::order making available retGrp and sortStr options for radix method?,79447,Sebastian Martin Krantz
+079507.html,[Rd] order function called on a data.frame?,79507,Michael Lawrence
+079510.html,[Rd] quantile() type 1 for some ordered factors in R-devel,79510,Trang Le
+079519.html,[Rd] quantile() type 1 for some ordered factors in R-devel,79519,Trang Le
+079541.html,[Rd] Compatibility issues caused by new simplify argument in apply function,79541,Lukas Lehnert
+079547.html,[Rd]  Compatibility issues caused by new simplify argument in apply function,79547,Lukas Lehnert
+079480.html,[Rd] Daily News about R-devel/NEWS is not updating,79480,Jennifer Lyon
+079483.html,[Rd] Daily News about R-devel/NEWS is not updating,79483,Jennifer Lyon
+079424.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79424,Martin Maechler
+079458.html,[Rd] S3 method dispatch for methods in local environments,79458,Martin Maechler
+079470.html,[Rd] justify hard coded in format.ftable,79470,Martin Maechler
+079479.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79479,Martin Maechler
+079485.html,[Rd] ftable &lt;-&gt; data.frame etc {was &quot;justify hard coded in format.ftable&quot;},79485,Martin Maechler
+079533.html,[Rd] failed check in reg-tests-1b.R,79533,Martin Maechler
+079535.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79535,Martin Maechler
+079560.html,[Rd] Should 0L * NA_integer_ be 0L?,79560,Martin Maechler
+079564.html,[Rd]  Compatibility issues caused by new simplify argument in apply function,79564,Martin Maechler
+079565.html,[Rd] R-devel's ...names() questions,79565,Martin Maechler
+079570.html,[Rd] dbinom link,79570,Martin Maechler
+079586.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79586,Martin Maechler
+079587.html,[Rd]  round() and signif() do not check argument names when a single argument is given,79587,Martin Maechler
+079593.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79593,Martin Maechler
+079595.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79595,Martin Maechler
+079435.html,[Rd]  [External] Re: R 4.0.0 build error with sysdata.rda on ppc64el architecture,79435,Kirill Maslinsky
+079460.html,[Rd] S3 method dispatch for methods in local environments,79460,Sebastian Meyer
+079475.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79475,Sebastian Meyer
+079441.html,[Rd] defining r audio connections,79441,Martin Morgan
+079443.html,[Rd] defining r audio connections,79443,Martin Morgan
+079429.html,[Rd] Hash functions at C level,79429,Morgan Morgan
+079497.html,[Rd] psum/pprod,79497,Morgan Morgan
+079516.html,"[Rd] Precision of function mean,bug?",79516,Morgan Morgan
+079534.html,"[Rd] Precision of function mean,bug?",79534,Morgan Morgan
+079415.html,[Rd]  Request: tools::md5sum should accept connections and finally in-memory objects,79415,John Mount
+079418.html,[Rd]  Request: tools::md5sum should accept connections and finally in-memory objects,79418,John Mount
+079553.html,[Rd] round() and signif() do not check argument names when a single argument is given,79553,Shane Mueller
+079566.html,[Rd]  round() and signif() do not check argument names when a single argument is given,79566,Shane Mueller
+079417.html,[Rd]  Request: tools::md5sum should accept connections and finally in-memory objects,79417,Duncan Murdoch
+079438.html,[Rd] Use of MathJax (or something similar) in .Rd files,79438,Duncan Murdoch
+079440.html,[Rd] defining r audio connections,79440,Duncan Murdoch
+079481.html,[Rd] Testing before release (was: edit() doubles backslashes when keep.source=TRUE),79481,Duncan Murdoch
+079482.html,[Rd] Daily News about R-devel/NEWS is not updating,79482,Duncan Murdoch
+079543.html,[Rd]  Compatibility issues caused by new simplify argument in apply function,79543,Duncan Murdoch
+079546.html,[Rd]  Compatibility issues caused by new simplify argument in apply function,79546,Duncan Murdoch
+079605.html,[Rd] r-project.org SSL certificate issues,79605,Duncan Murdoch
+079513.html,[Rd]  Graphic parameters with length zero in grid cause R to crash,79513,Paul Murrell
+079581.html,[Rd]  [FORGED] Re: Plotmath on Fedora 31 broken with with pango &gt;= 1.44 - workarounds?,79581,Paul Murrell
+079431.html,[Rd] Tcl.Tk Tktable package missing from R 4.0.0 on Windows,79431,Jeroen Ooms
+079538.html,[Rd] Build failing on win64,79538,Jeroen Ooms
+079606.html,[Rd] r-project.org SSL certificate issues,79606,Jeroen Ooms
+079462.html,[Rd] &quot;cd&quot; floating in the air in the man page for paste/paste0,79462,Herv&#233; Pag&#232;s
+079473.html,[Rd] &quot;cd&quot; floating in the air in the man page for paste/paste0,79473,Herv&#233; Pag&#232;s
+079492.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79492,Herv&#233; Pag&#232;s
+079494.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79494,Herv&#233; Pag&#232;s
+079545.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79545,Herv&#233; Pag&#232;s
+079551.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79551,Herv&#233; Pag&#232;s
+079557.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79557,Herv&#233; Pag&#232;s
+079575.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79575,Herv&#233; Pag&#232;s
+079579.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79579,Herv&#233; Pag&#232;s
+079591.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79591,Herv&#233; Pag&#232;s
+079596.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79596,Herv&#233; Pag&#232;s
+079433.html,[Rd] Error in message printed by lbfgsb,79433,Taiane S. Prass
+079434.html,[Rd] error in message printed by L-BFGS-B,79434,Taiane S. Prass
+079504.html,[Rd] dbinom link,79504,Prof Brian Ripley
+079556.html,[Rd] GCC warning,79556,Prof Brian Ripley
+079508.html,[Rd] quantile() type 1 for some ordered factors in R-devel,79508,Tobias Rockel
+079512.html,[Rd]  Graphic parameters with length zero in grid cause R to crash,79512,Bob Rudis
+079598.html,[Rd] r-project.org SSL certificate issues,79598,Bob Rudis
+079600.html,[Rd] r-project.org SSL certificate issues,79600,Bob Rudis
+079602.html,[Rd] r-project.org SSL certificate issues,79602,Bob Rudis
+079603.html,[Rd] r-project.org SSL certificate issues,79603,Bob Rudis
+079604.html,[Rd] r-project.org SSL certificate issues,79604,Bob Rudis
+079413.html,[Rd] Possible documentation problem/bug?,79413,Deepayan Sarkar
+079574.html,[Rd]  Surpising behavior when using an active binding as loop index in R 4.0.0,79574,Deepayan Sarkar
+079495.html,[Rd]  Testing before release (was: edit() doubles backslashes when keep.source=TRUE),79495,Abby Spurdle
+079502.html,[Rd] dbinom link,79502,Abby Spurdle
+079526.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79526,Abby Spurdle
+079528.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79528,Abby Spurdle
+079594.html,[Rd] closing R graphics windows?,79594,Abby Spurdle
+079451.html,[Rd] justify hard coded in format.ftable,79451,SOEIRO Thomas
+079469.html,[Rd] justify hard coded in format.ftable,79469,SOEIRO Thomas
+079471.html,[Rd] justify hard coded in format.ftable,79471,SOEIRO Thomas
+079478.html,[Rd] justify hard coded in format.ftable,79478,SOEIRO Thomas
+079530.html,[Rd] Patch proposal for bug 17770 - xtabs does not act as documented for na.action = na.pass,79530,SOEIRO Thomas
+079426.html,[Rd] R 4.0.0 with Intel MKL for Windows,79426,Adrian Trapletti
+079514.html,[Rd] failed check in reg-tests-1b.R,79514,Benjamin Tyner
+079414.html,[Rd] Request: tools::md5sum should accept connections and finally in-memory objects,79414,D&#233;nes T&#243;th
+079416.html,[Rd]  Request: tools::md5sum should accept connections and finally in-memory objects,79416,D&#233;nes T&#243;th
+079419.html,[Rd]  Request: tools::md5sum should accept connections and finally in-memory objects,79419,D&#233;nes T&#243;th
+079420.html,[Rd]  &quot;not a valid win32 application&quot; with rtools40-x86_65.exe on Windows 10,79420,Simon Urbanek
+079446.html,[Rd] defining r audio connections,79446,Simon Urbanek
+079555.html,[Rd] GCC warning,79555,Simon Urbanek
+079437.html,[Rd] Use of MathJax (or something similar) in .Rd files,79437,"Viechtbauer, Wolfgang (SP)"
+079457.html,[Rd] S3 method dispatch for methods in local environments,79457,"Viechtbauer, Wolfgang (SP)"
+079459.html,[Rd] S3 method dispatch for methods in local environments,79459,"Viechtbauer, Wolfgang (SP)"
+079461.html,[Rd] S3 method dispatch for methods in local environments,79461,"Viechtbauer, Wolfgang (SP)"
+079464.html,[Rd] R 4.0.1,79464,peter dalgaard
+079489.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79489,peter dalgaard
+079490.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79490,peter dalgaard
+079503.html,[Rd] dbinom link,79503,peter dalgaard
+079517.html,"[Rd] Precision of function mean,bug?",79517,peter dalgaard
+079599.html,[Rd] r-project.org SSL certificate issues,79599,peter dalgaard
+079430.html,[Rd] Character Column-width Calculations,79430,brodie gaslam
+079448.html,[Rd] Minor Infelicity in Printing of Objects Nested in Lists,79448,brodie gaslam
+079450.html,[Rd] Minor Infelicity in Printing of Objects Nested in Lists,79450,brodie gaslam
+079486.html,[Rd] edit() doubles backslashes when keep.source=TRUE,79486,brodie gaslam
+079523.html,"[Rd] Precision of function mean,bug?",79523,brodie gaslam
+079554.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79554,brodie gaslam
+079592.html,[Rd] R-ints context documentation,79592,brodie gaslam
+079439.html,[Rd] defining r audio connections,79439,irederik m at iii at g oii oib at  at et
+079452.html,[Rd] defining r audio connections,79452,irederik m at iii at g oii oib at  at et
+079573.html,[Rd] writeBin and short writes,79573,irederik m at iii at g oii oib at  at et
+079589.html,[Rd] closing R graphics windows?,79589,irederik m at iii at g oii oib at  at et
+079496.html,[Rd] [External] Re: Testing before release (was: edit() doubles backslashes when keep.source=TRUE),79496,iuke-tier at ey m at iii at g oii uiow at  at edu
+079524.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79524,iuke-tier at ey m at iii at g oii uiow at  at edu
+079527.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79527,iuke-tier at ey m at iii at g oii uiow at  at edu
+079531.html,[Rd] [External] Feature Request: User Prompt + Message First Execution when &quot;Managing Search Path Conflicts&quot;,79531,iuke-tier at ey m at iii at g oii uiow at  at edu
+079578.html,[Rd]  [External] Re: Surpising behavior when using an active binding as loop index in R 4.0.0,79578,iuke-tier at ey m at iii at g oii uiow at  at edu
+079411.html,"[Rd] paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79411,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com
+079427.html,"[Rd]  paste(character(0), collapse=&quot;&quot;, recycle0=FALSE) should be &quot;&quot;",79427,suh at rto_ at  at ggo at o m at iii at g oii y at hoo at com

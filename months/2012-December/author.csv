@@ -1,0 +1,215 @@
+link,Subject,id,author
+065308.html,[Rd] Speeding up R (was Using multicores in R),65308,Prof J C Nash (U30A)
+065333.html,"[Rd] factor(x, exclude=y) if x is a factor",65333,Suharto Anggono Suharto Anggono
+065374.html,"[Rd] factor(x, exclude=y) if x is a factor",65374,Suharto Anggono Suharto Anggono
+065407.html,[Rd] Suggestion of change to reduce overhead of 'table',65407,Suharto Anggono Suharto Anggono
+065352.html,[Rd] base package: extra new line at source() function,65352,Jakson Alves de Aquino
+065430.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65430,Jakson Alves de Aquino
+065434.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65434,Jakson Alves de Aquino
+065436.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65436,Jakson Alves de Aquino
+065443.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65443,Jakson Alves de Aquino
+065450.html,[Rd] R-devel,65450,"Ayers, Gregory D"
+065356.html,[Rd] memory management in C code,65356,Rui Barradas
+065360.html,[Rd] file.link on Windows 7,65360,Rui Barradas
+065361.html,[Rd] file.link on Windows 7,65361,Rui Barradas
+065364.html,"[Rd] C function, double problem",65364,Rui Barradas
+065506.html,[Rd] bug in plot.ts?,65506,Rui Barradas
+065507.html,[Rd] bug in plot.ts?,65507,Rui Barradas
+065469.html,[Rd] Scanning a R script for potentially insidious commands,65469,Gabriel Becker
+065472.html,[Rd] Scanning a R script for potentially insidious commands,65472,Gabriel Becker
+065309.html,[Rd] SUGGESTION: Add get/setCores() to 'parallel' (and command line	option --max-cores),65309,Henrik Bengtsson
+065313.html,[Rd] SUGGESTION: Add get/setCores() to 'parallel' (and command line option --max-cores),65313,Henrik Bengtsson
+065357.html,[Rd] Make scripts during package installation?,65357,Henrik Bengtsson
+065453.html,[Rd] Call function only when running via R CMD check?,65453,Henrik Bengtsson
+065476.html,[Rd] How to make an &lt;pkg&gt;/configure file executable on Windows/NTFS?,65476,Henrik Bengtsson
+065397.html,"[Rd] Strange, most probably unjustified, codoc mismatch for S4 method with one argument plus '...'",65397,Ulrich Bodenhofer
+065418.html,"[Rd] Strange, most probably unjustified, codoc mismatch for S4 method with one argument plus '...' (re-try)",65418,Ulrich Bodenhofer
+065447.html,"[Rd] Strange, most probably unjustified, codoc mismatch for S4 method with one argument plus '...' (re-try)",65447,Ulrich Bodenhofer
+065470.html,[Rd] read.csv reads more rows than indicated by wc -l,65470,Ben Bolker
+065432.html,[Rd] R CMD INSTALL warnings with conflicting imports,65432,Milan Bouchet-Valat
+065459.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65459,Milan Bouchet-Valat
+065460.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65460,Raffaele Calogero
+065370.html,[Rd] namespace S3 and S4 generic imports cannot both be	satisfied:,65370,John Chambers
+065383.html,[Rd] Bug in mclapply?,65383,Winston Chang
+065389.html,[Rd] Bug in mclapply?,65389,Winston Chang
+065306.html,[Rd] Compilation failure on Solaris: any advice?,65306,Jon Clayden
+065335.html,[Rd] Compilation failure on Solaris: any advice?,65335,Jon Clayden
+065388.html,[Rd] Catching errors from solve() with near-singular matrices,65388,Jon Clayden
+065392.html,[Rd] library(tcltk) v. SIGPIPE BUG (?!?),65392,"Cook, Malcolm"
+065394.html,[Rd] library(tcltk) v. SIGPIPE BUG (?!?),65394,"Cook, Malcolm"
+065477.html,[Rd] read.csv reads more rows than indicated by wc -l,65477,Matthew Dowle
+065484.html,[Rd] How to ensure -O3 on Win64,65484,Matthew Dowle
+065496.html,[Rd] How to ensure -O3 on Win64,65496,Matthew Dowle
+065502.html,[Rd] How to ensure -O3 on Win64,65502,Matthew Dowle
+065321.html,[Rd] Stand alone application using R,65321,William Dunlap
+065339.html,"[Rd] svd(X, LINPACK=TRUE) alters its input",65339,William Dunlap
+065348.html,[Rd] Comments in the DESCRIPTION file,65348,William Dunlap
+065315.html,"[Rd] RInside, rcpp   compilation problem",65315,Dirk Eddelbuettel
+065340.html,[Rd] Compilation failure on Solaris: any advice?,65340,Dirk Eddelbuettel
+065365.html,"[Rd] C function, double problem",65365,Dirk Eddelbuettel
+065369.html,[Rd] small issue with over-zealous clean.,65369,Dirk Eddelbuettel
+065412.html,[Rd] R NEWS change related to .C/.Call/.External/.Fortran,65412,Dirk Eddelbuettel
+065421.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65421,Dirk Eddelbuettel
+065424.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65424,Dirk Eddelbuettel
+065446.html,[Rd] Download R,65446,Dirk Eddelbuettel
+065466.html,[Rd] Scanning a R script for potentially insidious commands,65466,Dirk Eddelbuettel
+065411.html,[Rd] error memory allocation,65411,Vitaliy FEOKTISTOV
+065500.html,[Rd] linux multi-threaded compilation is running only on one	processor,65500,Vitaliy FEOKTISTOV
+065511.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65511,Karl Forner
+065318.html,[Rd] Stand alone application using R,65318,Manoj G
+065320.html,[Rd] Stand alone application using R,65320,Manoj G
+065451.html,[Rd] Call function only when running via R CMD check?,65451,Renaud Gaujoux
+065353.html,[Rd] documentation for legend(): possible missing info for pch.,65353,Laurent Gautier
+065505.html,[Rd] bug in plot.ts?,65505,Simone Giannerini
+065508.html,[Rd] bug in plot.ts?,65508,Simone Giannerini
+065402.html,[Rd] SystemRequirements&#8217; field,65402,Paul Gilbert
+065404.html,[Rd] SystemRequirements&#8217; field,65404,Paul Gilbert
+065312.html,"[Rd] RInside, rcpp   compilation problem",65312,Jeff Goode
+065307.html,[Rd] Documentation on making R code faster?,65307,Spencer Graves
+065316.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be loaded,65316,Spencer Graves
+065325.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65325,Spencer Graves
+065327.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65327,Spencer Graves
+065329.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65329,Spencer Graves
+065332.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65332,Spencer Graves
+065425.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65425,Spencer Graves
+065454.html,[Rd] Call function only when running via R CMD check?,65454,Spencer Graves
+065393.html,[Rd] library(tcltk) v. SIGPIPE BUG (?!?),65393,Gabor Grothendieck
+065456.html,[Rd] Rtools216.exe on Windows,65456,Gabor Grothendieck
+065341.html,[Rd] Compilation failure on Solaris: any advice?,65341,Kasper Daniel Hansen
+065303.html,[Rd] qr.qy and qr.qty give an error message when y is integer and	LAPACK=TRUE,65303,Berend Hasselman
+065305.html,[Rd] qr.qy and qr.qty give an error message when y is integer	and LAPACK=TRUE,65305,Berend Hasselman
+065448.html,[Rd] Suggestion: 'method' slot for format.ftable(),65448,Marius Hofert
+065483.html,[Rd] Suggestion: 'method' slot for format.ftable(),65483,Marius Hofert
+065494.html,[Rd] Suggestion: 'method' slot for expand.grid() (incl. diffs),65494,Marius Hofert
+065514.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65514,Marius Hofert
+065384.html,[Rd] Generate .Rout.save files for vignettes,65384,Benjamin Hofner
+065510.html,[Rd] Does dlltools in 64-bit rtools for windows support 64-bit	machine type?,65510,Johan Johansson
+065331.html,[Rd] Understanding svd usage and its necessity in generalized	inverse calculation,65331,Paul Johnson
+065372.html,[Rd] Changing arguments inside .Call. Wise to encourage &quot;const&quot; on	all arguments?,65372,Paul Johnson
+065401.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65401,Paul Johnson
+065415.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65415,Paul Johnson
+065416.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65416,Paul Johnson
+065428.html,[Rd] Found explanation for R-2.15.2 slowdown in one case; caution for any users of La_chol,65428,Paul Johnson
+065441.html,[Rd] Found explanation for R-2.15.2 slowdown in one case; caution for any users of La_chol,65441,Paul Johnson
+065504.html,[Rd] reference Calling R from C++,65504,KRISHNA2222
+065457.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65457,Keith
+065464.html,[Rd] Scanning a R script for potentially insidious commands,65464,Jan T Kim
+065480.html,[Rd] rJava is not working in Solaris through java,65480,Praveen Kumar
+065398.html,[Rd] Error when overloading + operator in R S4 class and using	Matrix package,65398,Thibaut Lamadon
+065368.html,[Rd] small issue with over-zealous clean.,65368,Hin-Tak Leung
+065371.html,[Rd] small issue with over-zealous clean.,65371,Hin-Tak Leung
+065376.html,[Rd] small issue with over-zealous clean.,65376,Hin-Tak Leung
+065380.html,[Rd] small issue with over-zealous clean.,65380,Hin-Tak Leung
+065414.html,[Rd] small issue with over-zealous clean.,65414,Hin-Tak Leung
+065426.html,[Rd] small issue with over-zealous clean.,65426,Hin-Tak Leung
+065345.html,[Rd] Comments in the DESCRIPTION file,65345,Uwe Ligges
+065408.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65408,Uwe Ligges
+065420.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65420,Uwe Ligges
+065422.html,[Rd] small issue with over-zealous clean.,65422,Uwe Ligges
+065423.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65423,Uwe Ligges
+065433.html,[Rd] Found explanation for R-2.15.2 slowdown in one case; caution for any users of La_chol,65433,Uwe Ligges
+065338.html,"[Rd] factor(x, exclude=y) if x is a factor",65338,"Lorenz, David"
+065304.html,[Rd] qr.qy and qr.qty give an error message when y is integer	and	LAPACK=TRUE,65304,Martin Maechler
+065337.html,[Rd] Compilation failure on Solaris: any advice?,65337,Martin Maechler
+065375.html,[Rd] small issue with over-zealous clean.,65375,Martin Maechler
+065377.html,[Rd] small issue with over-zealous clean.,65377,Martin Maechler
+065378.html,[Rd] How to locate a file quickly,65378,Martin Maechler
+065396.html,[Rd] library(tcltk) v. SIGPIPE BUG (?!?),65396,Martin Maechler
+065419.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65419,Martin Maechler
+065475.html,[Rd] Suggestion: 'method' slot for format.ftable(),65475,Martin Maechler
+065479.html,[Rd] improved methods error,65479,Martin Maechler
+065482.html,[Rd] Why can't I &quot;unclass&quot; an array?,65482,Martin Maechler
+065444.html,[Rd] Download R,65444,Charlotte Maia
+065437.html,[Rd] SUGGESTION: Add get/setCores() to 'parallel' (and command line option --max-cores),65437,Norm Matloff
+065440.html,[Rd] SUGGESTION: Add get/setCores() to 'parallel' (and command line option --max-cores),65440,Norm Matloff
+065463.html,[Rd] Scanning a R script for potentially insidious commands,65463,Joris Meys
+065465.html,[Rd] Scanning a R script for potentially insidious commands,65465,Joris Meys
+065452.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65452,"Moeltner, Andreas"
+065355.html,[Rd] memory management in C code,65355,Vineeth Mohan
+065366.html,[Rd] namespace S3 and S4 generic imports cannot both be satisfied:,65366,Martin Morgan
+065417.html,[Rd] namespace S3 and S4 generic imports cannot both be	satisfied:,65417,Martin Morgan
+065429.html,"[Rd] Strange, most probably unjustified, codoc mismatch for S4 method with one argument plus '...' (re-try)",65429,Martin Morgan
+065449.html,"[Rd] Strange, most probably unjustified, codoc mismatch for S4 method with one argument plus '...' (re-try)",65449,Martin Morgan
+065478.html,[Rd] improved methods error,65478,Martin Morgan
+065324.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65324,Duncan Murdoch
+065326.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65326,Duncan Murdoch
+065330.html,[Rd] NAMESPACE problem: import(zoo) but 'zoo' could not be	loaded,65330,Duncan Murdoch
+065362.html,[Rd] file.link on Windows 7,65362,Duncan Murdoch
+065385.html,[Rd] Generate .Rout.save files for vignettes,65385,Duncan Murdoch
+065390.html,[Rd] Generate .Rout.save files for vignettes,65390,Duncan Murdoch
+065497.html,[Rd] Doc patch for Sys.time and system.time,65497,Duncan Murdoch
+065509.html,[Rd] bug in plot.ts?,65509,Duncan Murdoch
+065512.html,[Rd] Does dlltools in 64-bit rtools for windows support 64-bit machine type?,65512,Duncan Murdoch
+065310.html,[Rd] inconsistencies between ?class and ?UseMethod,65310,Herv&#233; Pag&#232;s
+065334.html,[Rd] inconsistencies between ?class and ?UseMethod,65334,Herv&#233; Pag&#232;s
+065346.html,[Rd] Comments in the DESCRIPTION file,65346,Herv&#233; Pag&#232;s
+065347.html,[Rd] Comments in the DESCRIPTION file,65347,Herv&#233; Pag&#232;s
+065349.html,[Rd] Comments in the DESCRIPTION file,65349,Herv&#233; Pag&#232;s
+065358.html,[Rd] Comments in the DESCRIPTION file,65358,Herv&#233; Pag&#232;s
+065406.html,[Rd] bug in sort.list(method=&quot;radix),65406,Herv&#233; Pag&#232;s
+065322.html,[Rd] Stand alone application using R,65322,Brian G. Peterson
+065409.html,[Rd] Lost in S4 and S3 classes,65409,Davide Rambaldi
+065410.html,[Rd] Lost in S4 and S3 classes,65410,Davide Rambaldi
+065455.html,[Rd] Call function only when running via R CMD check?,65455,Renaud
+065342.html,"[Rd] svd(X, LINPACK=TRUE) alters its input",65342,Prof Brian Ripley
+065359.html,[Rd] Make scripts during package installation?,65359,Prof Brian Ripley
+065367.html,[Rd] documentation for legend(): possible missing info for pch.,65367,Prof Brian Ripley
+065386.html,[Rd] Generate .Rout.save files for vignettes,65386,Prof Brian Ripley
+065391.html,[Rd] Generate .Rout.save files for vignettes,65391,Prof Brian Ripley
+065403.html,[Rd] SystemRequirements&#8217; field,65403,Prof Brian Ripley
+065503.html,[Rd] How to ensure -O3 on Win64,65503,Prof Brian Ripley
+065513.html,[Rd] Does dlltools in 64-bit rtools for windows support 64-bit machine type?,65513,Prof Brian Ripley
+065405.html,[Rd] SystemRequirements&#8217; field,65405,Barry Rowlingson
+065427.html,[Rd] small issue with over-zealous clean.,65427,Marc Schwartz
+065445.html,[Rd] Download R,65445,Marc Schwartz
+065467.html,[Rd] read.csv reads more rows than indicated by wc -l,65467,G See
+065387.html,[Rd] Catching errors from solve() with near-singular matrices,65387,David Sterratt
+065400.html,[Rd] Catching errors from solve() with near-singular matrices,65400,David Sterratt
+065461.html,[Rd] Scanning a R script for potentially insidious commands,65461,Etienne S&#233;vin
+065336.html,[Rd] as.matrix.Surv -- R core question/opinions,65336,Terry Therneau
+065379.html,[Rd] CMD check and .Rbuildignore,65379,Terry Therneau
+065481.html,[Rd] Why can't I &quot;unclass&quot; an array?,65481,Terry Therneau
+065354.html,[Rd] Workarounds/solutions to Rd file name conflict when extending a S4 method of some other package,65354,Janko Thyson
+065311.html,[Rd] SUGGESTION: Add get/setCores() to 'parallel' (and command	line option --max-cores),65311,Simon Urbanek
+065314.html,"[Rd] RInside, rcpp   compilation problem",65314,Simon Urbanek
+065319.html,[Rd] Stand alone application using R,65319,Simon Urbanek
+065323.html,[Rd] Stand alone application using R,65323,Simon Urbanek
+065350.html,[Rd] Comments in the DESCRIPTION file,65350,Simon Urbanek
+065381.html,[Rd] Changing arguments inside .Call. Wise to encourage &quot;const&quot;	on all arguments?,65381,Simon Urbanek
+065382.html,[Rd] Changing arguments inside .Call. Wise to encourage &quot;const&quot;	on all arguments?,65382,Simon Urbanek
+065431.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65431,Simon Urbanek
+065435.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65435,Simon Urbanek
+065438.html,[Rd] Could Rstd_Busy do something (src/unix/sys-std.c)?,65438,Simon Urbanek
+065439.html,[Rd] SUGGESTION: Add get/setCores() to 'parallel' (and command	line option --max-cores),65439,Simon Urbanek
+065468.html,[Rd] Scanning a R script for potentially insidious commands,65468,Simon Urbanek
+065471.html,[Rd] Scanning a R script for potentially insidious commands,65471,Simon Urbanek
+065473.html,[Rd] Scanning a R script for potentially insidious commands,65473,Simon Urbanek
+065474.html,[Rd] Scanning a R script for potentially insidious commands,65474,Simon Urbanek
+065486.html,[Rd] reinterpreting externalptr in R,65486,Simon Urbanek
+065491.html,[Rd] Creating a Factor Object in C code?,65491,Simon Urbanek
+065492.html,[Rd] How to ensure -O3 on Win64,65492,Simon Urbanek
+065498.html,[Rd] How to ensure -O3 on Win64,65498,Simon Urbanek
+065499.html,[Rd] Creating a Factor Object in C code?,65499,Simon Urbanek
+065501.html,[Rd] linux multi-threaded compilation is running only on one	processor,65501,Simon Urbanek
+065515.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65515,Simon Urbanek
+065516.html,"[Rd] weird bug with parallel, RSQlite and tcltk",65516,Simon Urbanek
+065399.html,[Rd] Catching errors from solve() with near-singular matrices,65399,Ravi Varadhan
+065413.html,[Rd] R-2.15.2 changes in computation speed. Numerical precision?,65413,Yi (Alice) Wang
+065462.html,[Rd] Scanning a R script for potentially insidious commands,65462,Michael Weylandt
+065442.html,[Rd] Found explanation for R-2.15.2 slowdown in one case; caution for any users of La_chol,65442,Joshua Wiley
+065490.html,[Rd] Doc patch for Sys.time and system.time,65490,Ken Williams
+065493.html,[Rd] Doc patch for Sys.time and system.time,65493,Ken Williams
+065373.html,[Rd] How to locate a file quickly,65373,Wincent
+065488.html,[Rd] Creating a Factor Object in C code?,65488,Rory Winston
+065495.html,[Rd] Creating a Factor Object in C code?,65495,Rory Winston
+065343.html,[Rd] Comments in the DESCRIPTION file,65343,Mauricio Zambrano-Bigiarini
+065351.html,[Rd] Comments in the DESCRIPTION file,65351,Mauricio Zambrano-Bigiarini
+065485.html,[Rd] reinterpreting externalptr in R,65485,andre__
+065489.html,[Rd] reinterpreting externalptr in R,65489,andre__
+065458.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65458,Mark.Bravington at csiro.au
+065395.html,[Rd] library(tcltk) v. SIGPIPE BUG (?!?),65395,peter dalgaard
+065363.html,"[Rd] C function, double problem",65363,mpietro
+065487.html,[Rd] reinterpreting externalptr in R,65487,romain at r-enthusiasts.com
+065317.html,[Rd] inconsistencies between ?class and ?UseMethod,65317,cberry at tajo.ucsd.edu
+065328.html,[Rd] Compilation failure on Solaris: any advice?,65328,elijah wright
+065344.html,[Rd] Compilation failure on Solaris: any advice?,65344,elijah wright

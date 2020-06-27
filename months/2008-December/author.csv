@@ -1,0 +1,227 @@
+link,Subject,id,author
+051469.html,[Rd] parallel build for package? (equivalent of make -j8),51469,Whit Armstrong
+051544.html,[Rd] any suggestions to deal with 'Argument list too long' for a R	CMD check?,51544,Whit Armstrong
+051546.html,[Rd] any suggestions to deal with 'Argument list too long' for	a R CMD check?,51546,Whit Armstrong
+051550.html,[Rd] any suggestions to deal with 'Argument list too long' for	a R CMD check?,51550,Whit Armstrong
+051552.html,[Rd] any suggestions to deal with 'Argument list too long' for	a R CMD check?,51552,Whit Armstrong
+051555.html,[Rd] any suggestions to deal with 'Argument list too long' for	a R CMD check?,51555,Whit Armstrong
+051583.html,[Rd] Using R graphics from external C functions,51583,Yulia Arzhaeva
+051650.html,[Rd] rscproxy version conflict,51650,Thomas Baier
+051466.html,[Rd] Small bug in axis.POSIXct,51466,Martin Becker
+051640.html,[Rd] ... (dotMethods) and cbind/rbind: how to give the signature?,51640,Claudia Beleites
+051641.html,[Rd] methods vs. functions,51641,Claudia Beleites
+051468.html,[Rd] file.access() on network (mounted) drive on Windows Vista?,51468,Henrik Bengtsson
+051568.html,[Rd] package development,51568,Henrik Bengtsson
+051658.html,[Rd] issue with [[&lt;-Call,51658,Charles C. Berry
+051490.html,[Rd] rgl.snapshot() on Vista,51490,Ben Bolker
+051531.html,[Rd] Florida mirror (cran.hostingzero.net) dead?,51531,Ben Bolker
+051592.html,[Rd] [R] Some clarificatins of anova() and summary (),51592,Ben Bolker
+051539.html,[Rd] R CMD check not running examples under Windows,51539,Andy Bunn
+051541.html,[Rd] R CMD check not running examples under Windows,51541,Andy Bunn
+051584.html,[Rd] [R] odd behavior when multiplying data frame by an element,51584,Patrick Burns
+051483.html,[Rd] reduce limit number of arguments in methods:::cbind,51483,Yohan Chalabi
+051488.html,[Rd] reduce limit number of arguments in methods:::cbind,51488,Yohan Chalabi
+051629.html,[Rd] typo in &quot;R Installation and Administration&quot;,51629,Yohan Chalabi
+051595.html,[Rd] package development,51595,Kevin R. Coombes
+051597.html,[Rd] package development,51597,Kevin R. Coombes
+051607.html,[Rd] package development,51607,Kevin R. Coombes
+051631.html,[Rd] the list might be interested in this new project,51631,Bradford Cross
+051463.html,[Rd] Bug repo may have stalled,51463,Peter Dalgaard
+051528.html,[Rd] Checking your package's help files,51528,Peter Dalgaard
+051566.html,[Rd] repeat bug report: as.factor argument to row / col fails if NULL dimnames,51566,Peter Dalgaard
+051591.html,[Rd] re ad.spss (foreign) conflict with SPSS 17 files.,51591,Peter Dalgaard
+051617.html,[Rd] [R] &quot;Error: bad value&quot; problem,51617,Peter Dalgaard
+051624.html,[Rd] [R]   &quot;Error: bad value&quot; problem,51624,Peter Dalgaard
+051628.html,[Rd] [R]   &quot;Error: bad value&quot; problem,51628,Peter Dalgaard
+051636.html,[Rd] Misuse of $&lt;matn expressions&gt;$ in Rd files,51636,Peter Dalgaard
+051537.html,[Rd] repeat bug report: as.factor argument to row / col fails if	NULL	dimnames,51537,Dan Davison
+051560.html,[Rd] enhancement proposals to R,51560,Adrian Dragulescu
+051481.html,[Rd] Matrix dimnames crash (PR#13361),51481,William Dunlap
+051609.html,[Rd] bug in R CMD INSTALL do_install under OS X,51609,William Dunlap
+051610.html,[Rd] bug in R CMD INSTALL do_install under OS X,51610,William Dunlap
+051520.html,[Rd] R 2.8.1 ?,51520,Dirk Eddelbuettel
+051589.html,[Rd] package development,51589,Dirk Eddelbuettel
+051464.html,[Rd] unrelated software install triggering an error from R's	install script on Mac OS X 10.5,51464,Stefan Evert
+051457.html,[Rd] unrelated software install triggering an error from R's install script on Mac OS X 10.5,51457,Laurent Gautier
+051493.html,[Rd] wish: exportClassPattern,51493,Robert Gentleman
+051608.html,[Rd] install.packages and dependency version checking,51608,Robert Gentleman
+051661.html,[Rd] /bin/windows/base/rpatched.html page out of date,51661,Simone Giannerini
+051570.html,[Rd] package development,51570,Paul Gilbert
+051572.html,[Rd] package development,51572,Paul Gilbert
+051451.html,[Rd] Warning: missing text for item ... in \describe?,51451,Spencer Graves
+051465.html,[Rd] normal-bracket50bracket-normal?,51465,Spencer Graves
+051575.html,[Rd] Warning: missing text for item ... in \describe?,51575,Spencer Graves
+051612.html,[Rd] &quot;could not find function&quot; error in &quot;R CMD check&quot;,51612,Spencer Graves
+051615.html,[Rd] &quot;could not find function&quot; error in &quot;R CMD check&quot;,51615,Spencer Graves
+051642.html,[Rd] Align legend title,51642,Gorjanc Gregor
+051505.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51505,Gabor Grothendieck
+051510.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51510,Gabor Grothendieck
+051514.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51514,Gabor Grothendieck
+051518.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51518,Gabor Grothendieck
+051522.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51522,Gabor Grothendieck
+051525.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51525,Gabor Grothendieck
+051582.html,[Rd] gregexpr - match overlap mishandled (PR#13391),51582,Gabor Grothendieck
+051601.html,[Rd] package development,51601,Gabor Grothendieck
+051604.html,[Rd] install.packages and dependency version checking,51604,Gabor Grothendieck
+051639.html,[Rd] read.table with fill = TRUE,51639,Gabor Grothendieck
+051668.html,[Rd] Acessing pdf help files (PR#13419),51668,Gabor Grothendieck
+051496.html,[Rd] array indexing,51496,Robin Hankin
+051616.html,[Rd] install.packages and dependency version checking,51616,Kurt Hornik
+051626.html,[Rd] Tip for removing -c99 when compiling with icc,51626,Kurt Hornik
+051675.html,[Rd] How to add a slot to S4 class of an existing package?,51675,Wolfgang Huber
+051635.html,[Rd] gregexpr - match overlap mishandled (PR#13391),51635,Wacek Kusnierczyk
+051558.html,[Rd] S4 coercion,51558,Michael Lawrence
+051557.html,[Rd] FW: Kegg.db with GOstats,51557,"Legaie, Roxane"
+051547.html,[Rd] Warning from R CMD build,51547,Josef Leydold
+051453.html,[Rd] parallel build for package? (equivalent of make -j8),51453,Uwe Ligges
+051458.html,[Rd] parallel build for package? (equivalent of make -j8),51458,Uwe Ligges
+051499.html,[Rd] array indexing,51499,Uwe Ligges
+051540.html,[Rd] R CMD check not running examples under Windows,51540,Uwe Ligges
+051543.html,[Rd] R CMD check not running examples under Windows,51543,Uwe Ligges
+051588.html,[Rd] NAMESPACE/DESCRIPTION and imports,51588,James MacDonald
+051471.html,[Rd] trivial spelling correction,51471,Martin Maechler
+051494.html,[Rd] Recent snapshot tarballs of R-devel don't compile,51494,Martin Maechler
+051506.html,[Rd] Recent snapshot tarballs of R-devel don't compile,51506,Martin Maechler
+051579.html,[Rd] package development,51579,Martin Maechler
+051638.html,[Rd] typo in &quot;R Installation and Administration&quot;,51638,Martin Maechler
+051630.html,[Rd] DTrace probes for R,51630,Olaf Mersmann
+051669.html,[Rd] Patch to fix small bug in do_External and do_dotcall,51669,Olaf Mersmann
+051672.html,[Rd] Patch to fix small bug in do_External and do_dotcall,51672,Olaf Mersmann
+051674.html,[Rd] Patch to fix small bug in do_External and do_dotcall,51674,Olaf Mersmann
+051622.html,[Rd] Tip for removing -c99 when compiling with icc,51622,Bj&#248;rn-Helge Mevik
+051602.html,[Rd] NAMESPACE/DESCRIPTION and imports,51602,Martin Morgan
+051605.html,[Rd] install.packages and dependency version checking,51605,Martin Morgan
+051492.html,[Rd] rgl.snapshot() on Vista,51492,Duncan Murdoch
+051508.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51508,Duncan Murdoch
+051516.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51516,Duncan Murdoch
+051517.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51517,Duncan Murdoch
+051564.html,[Rd] package development,51564,Duncan Murdoch
+051596.html,[Rd] package development,51596,Duncan Murdoch
+051600.html,[Rd] package development,51600,Duncan Murdoch
+051613.html,[Rd] &quot;could not find function&quot; error in &quot;R CMD check&quot;,51613,Duncan Murdoch
+051614.html,[Rd] &quot;could not find function&quot; error in &quot;R CMD check&quot;,51614,Duncan Murdoch
+051618.html,[Rd] [R] &quot;Error: bad value&quot; problem,51618,Duncan Murdoch
+051619.html,[Rd] [R] &quot;Error: bad value&quot; problem,51619,Duncan Murdoch
+051627.html,[Rd] minor typo in duplicated.Rd (lemgth != length),51627,Duncan Murdoch
+051643.html,[Rd] methods vs. functions,51643,Duncan Murdoch
+051645.html,[Rd] Bug in list indexing (PR#13411),51645,Duncan Murdoch
+051667.html,[Rd] Acessing pdf help files (PR#13419),51667,Duncan Murdoch
+051538.html,[Rd] R in a sandbox/jail,51538,Paul Murrell
+051654.html,[Rd] A small miss of PostScript of CJK in current R-devel,51654,Ei-ji Nakama
+051647.html,[Rd] rscproxy version conflict,51647,Erich Neuwirth
+051655.html,[Rd] rscproxy version conflict,51655,Erich Neuwirth
+051467.html,[Rd] trivial spelling correction,51467,Sean O'Riordain
+051620.html,[Rd] minor typo in duplicated.Rd (lemgth != length),51620,Sean O'Riordain
+051536.html,[Rd] weekly update 20081208,51536,Vadim Ogranovich
+051590.html,[Rd] re ad.spss (foreign) conflict with SPSS 17 files.,51590,Jeroen Ooms
+051594.html,[Rd] re  ad.spss (foreign) conflict with SPSS 17 files.,51594,Jeroen Ooms
+051491.html,[Rd] Recent snapshot tarballs of R-devel don't compile,51491,Herv&#233; Pag&#232;s
+051501.html,[Rd] Recent snapshot tarballs of R-devel don't compile,51501,Herv&#233; Pag&#232;s
+051535.html,[Rd] R in a sandbox/jail,51535,Roger D. Peng
+051472.html,[Rd] nlminb: names of parameter vector not passed to objective	function,51472,Thomas Petzoldt
+051474.html,[Rd] nlminb: names of parameter vector not passed to objective function,51474,Thomas Petzoldt
+051530.html,[Rd] nlminb: names of parameter vector not passed to objective function (fixed),51530,Thomas Petzoldt
+051621.html,[Rd] [R]   &quot;Error: bad value&quot; problem,51621,Martyn Plummer
+051625.html,[Rd] [R]   &quot;Error: bad value&quot; problem,51625,Martyn Plummer
+051549.html,[Rd] any suggestions to deal with 'Argument list too long' for a R CMD check?,51549,Mathieu Ribatet
+051562.html,[Rd] package development,51562,Mathieu Ribatet
+051454.html,[Rd] normal-bracket50bracket-normal?,51454,Prof Brian Ripley
+051455.html,[Rd] parallel build for package? (equivalent of make -j8),51455,Prof Brian Ripley
+051459.html,[Rd] Legal problems,51459,Prof Brian Ripley
+051460.html,[Rd] Rtools28 - undefined references with gfortran,51460,Prof Brian Ripley
+051461.html,[Rd] file.access() on network (mounted) drive on Windows Vista?,51461,Prof Brian Ripley
+051473.html,[Rd] nlminb: names of parameter vector not passed to objective function,51473,Prof Brian Ripley
+051479.html,[Rd] syntax error in platform.c (PR#13354),51479,Prof Brian Ripley
+051480.html,[Rd] Matrix dimnames crash (PR#13361),51480,Prof Brian Ripley
+051482.html,[Rd] Matrix dimnames crash (PR#13361),51482,Prof Brian Ripley
+051487.html,[Rd] Recent snapshot tarballs of R-devel don't compile,51487,Prof Brian Ripley
+051495.html,[Rd] Small bug in axis.POSIXct,51495,Prof Brian Ripley
+051497.html,[Rd] Warning: missing text for item ... in \describe?,51497,Prof Brian Ripley
+051500.html,[Rd] Warning: missing text for item ... in \describe?,51500,Prof Brian Ripley
+051504.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51504,Prof Brian Ripley
+051512.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51512,Prof Brian Ripley
+051521.html,[Rd] R 2.8.1 ?,51521,Prof Brian Ripley
+051523.html,[Rd] Warning: missing text for item ... in \describe?,51523,Prof Brian Ripley
+051527.html,[Rd] Checking your package's help files,51527,Prof Brian Ripley
+051534.html,[Rd] Warning: missing text for item ... in \describe?,51534,Prof Brian Ripley
+051548.html,[Rd] Warning from R CMD build,51548,Prof Brian Ripley
+051551.html,[Rd] any suggestions to deal with 'Argument list too long' for a R CMD check?,51551,Prof Brian Ripley
+051554.html,[Rd] package &quot;wmtsa&quot;: wavCWTPeaks error (PR#13381),51554,Prof Brian Ripley
+051559.html,[Rd] Checking your package's help files,51559,Prof Brian Ripley
+051565.html,[Rd] repeat bug report: as.factor argument to row / col fails if NULL dimnames,51565,Prof Brian Ripley
+051567.html,[Rd] repeat bug report: as.factor argument to row / col fails if NULL dimnames,51567,Prof Brian Ripley
+051573.html,[Rd] function qt can fails if ndf &lt; 1 (PR#13364),51573,Prof Brian Ripley
+051576.html,[Rd] Warning: missing text for item ... in \describe?,51576,Prof Brian Ripley
+051578.html,[Rd] gregexpr - match overlap mishandled (PR#13391),51578,Prof Brian Ripley
+051585.html,[Rd] (PR#13318) Wishlist: fix error in documentation for body&lt;-,51585,Prof Brian Ripley
+051587.html,[Rd] Recent bug fixes to body&lt;- need 'methods' re-installed,51587,Prof Brian Ripley
+051593.html,[Rd] re ad.spss (foreign) conflict with SPSS 17 files.,51593,Prof Brian Ripley
+051603.html,[Rd] install.packages and dependency version checking,51603,Prof Brian Ripley
+051606.html,[Rd] install.packages and dependency version checking,51606,Prof Brian Ripley
+051623.html,[Rd] Tip for removing -c99 when compiling with icc,51623,Prof Brian Ripley
+051633.html,[Rd] rscproxy version conflict,51633,Prof Brian Ripley
+051634.html,[Rd] Misuse of $&lt;matn expressions&gt;$ in Rd files,51634,Prof Brian Ripley
+051637.html,[Rd] Misuse of $&lt;matn expressions&gt;$ in Rd files,51637,Prof Brian Ripley
+051651.html,[Rd] rscproxy version conflict,51651,Prof Brian Ripley
+051659.html,[Rd] BATCH and testing,51659,Prof Brian Ripley
+051660.html,[Rd] issue with [[&lt;-Call,51660,Prof Brian Ripley
+051662.html,[Rd] /bin/windows/base/rpatched.html page out of date,51662,Prof Brian Ripley
+051664.html,[Rd] issue with [[&lt;-Call,51664,Prof Brian Ripley
+051670.html,[Rd] Patch to fix small bug in do_External and do_dotcall,51670,Prof Brian Ripley
+051671.html,[Rd] Variogram.gls (PR#13418),51671,Prof Brian Ripley
+051673.html,[Rd] Patch to fix small bug in do_External and do_dotcall,51673,Prof Brian Ripley
+051599.html,[Rd] bug in R CMD INSTALL do_install under OS X,51599,David Rossell
+051611.html,[Rd] bug in R CMD INSTALL do_install under OS X,51611,David Rossell
+051529.html,[Rd] R in a sandbox/jail,51529,Barry Rowlingson
+051533.html,[Rd] Warning: missing text for item ... in \describe?,51533,Dr. Peter Ruckdeschel
+051484.html,[Rd] reduce limit number of arguments in methods:::cbind,51484,Jeff Ryan
+051545.html,[Rd] any suggestions to deal with 'Argument list too long' for	a R CMD check?,51545,Jeff Ryan
+051571.html,[Rd] package development,51571,Jeff Ryan
+051574.html,[Rd] package development,51574,Jeff Ryan
+051456.html,[Rd] Legal problems,51456,Wilm Schumacher
+051532.html,[Rd] Florida mirror (cran.hostingzero.net) dead?,51532,Marc Schwartz
+051462.html,[Rd] handling a matrix and .C,51462,"Sklyar, Oleg (London)"
+051649.html,[Rd] ... (dotMethods) and cbind/rbind: how to give the	signature?,51649,"Sklyar, Oleg (London)"
+051580.html,[Rd] gregexpr - match overlap mishandled (PR#13391),51580,Greg Snow
+051561.html,[Rd] package development,51561,Terry Therneau
+051569.html,[Rd] package development,51569,Terry Therneau
+051656.html,[Rd] issue with [[&lt;-Call,51656,Terry Therneau
+051657.html,[Rd] BATCH and testing,51657,Terry Therneau
+051663.html,[Rd] issue with [[&lt;-Call,51663,"Therneau, Terry M., Ph.D."
+051452.html,[Rd] Warning: missing text for item ... in \describe?,51452,Berwin A Turlach
+051498.html,[Rd] Warning: missing text for item ... in \describe?,51498,Berwin A Turlach
+051515.html,[Rd] Warning: missing text for item ... in \describe?,51515,Berwin A Turlach
+051542.html,[Rd] R CMD check not running examples under Windows,51542,Josh Ulrich
+051450.html,[Rd] unrelated software install triggering an error from R's	install script on Mac OS X 10.5,51450,Simon Urbanek
+051470.html,[Rd] unrelated software install triggering an error from R's	install script on Mac OS X 10.5,51470,Simon Urbanek
+051648.html,[Rd] rscproxy version conflict,51648,Simon Urbanek
+051653.html,[Rd] rscproxy version conflict,51653,Simon Urbanek
+051577.html,[Rd] gregexpr - match overlap mishandled (PR#13391),51577,rthompso at aecom.yu.edu
+051553.html,[Rd] package &quot;wmtsa&quot;: wavCWTPeaks error (PR#13381),51553,mauede at alice.it
+051652.html,[Rd] Align legend title wish remainder (PR#13415),51652,gregor.gorjanc at bfro.uni-lj.si
+051563.html,[Rd] package development,51563,Mark.Bravington at csiro.au
+051503.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51503,cstrato
+051507.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51507,cstrato
+051509.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51509,cstrato
+051511.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51511,cstrato
+051513.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51513,cstrato
+051519.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51519,cstrato
+051524.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51524,cstrato
+051526.html,[Rd] Error in R CMD INSTALL on Windows XP using Rtools28,51526,cstrato
+051646.html,[Rd] How to add a slot to S4 class of an existing package?,51646,cstrato
+051676.html,[Rd] How to add a slot to S4 class of an existing package?,51676,cstrato
+051486.html,[Rd] Recent snapshot tarballs of R-devel don't compile,51486,hpages at fhcrc.org
+051502.html,"[Rd] par(mfrow = ) resets par('cex'), not reduces it (PR#13373)",51502,cmr.pent at gmail.com
+051598.html,[Rd] Comment on (PR#13373),51598,cmr.pent at gmail.com
+051485.html,[Rd] Date + difftime (PR#13369),51485,ggrothendieck at gmail.com
+051581.html,[Rd] gregexpr - match overlap mishandled (PR#13391),51581,Greg.Snow at imail.org
+051477.html,[Rd] syntax error in platform.c (PR#13354),51477,anne.c.bracy at intel.com
+051489.html,[Rd] function qt can fails if ndf &lt; 1 (PR#13364),51489,gerard at mail.generacio.com
+051632.html,[Rd] rscproxy version conflict,51632,meerman
+051586.html,[Rd] (PR#13318) Wishlist: fix error in documentation for,51586,ripley at stats.ox.ac.uk
+051644.html,[Rd] Bug in list indexing (PR#13411),51644,murdoch at stats.uwo.ca
+051666.html,[Rd] Acessing pdf help files (PR#13419),51666,marcthibault at tanda.on.ca
+051478.html,[Rd] Matrix dimnames crash (PR#13361),51478,arnima at u.washington.edu
+051556.html,[Rd] make.rtest issue (PR#13388),51556,ifellows at ucsd.edu
+051665.html,[Rd] Variogram.gls (PR#13418),51665,agalecki at umich.edu
+051475.html,[Rd] Error code query (PR#13360),51475,awylie at une.edu.au

@@ -1,0 +1,273 @@
+link,Subject,id,author
+047538.html,[Rd] unexpected result from reshape,47538,"Antonio, Fabio Di Narzo"
+047539.html,[Rd] unexpected result from reshape,47539,"Antonio, Fabio Di Narzo"
+047540.html,[Rd] patch proposal for plot.ts,47540,"Antonio, Fabio Di Narzo"
+047454.html,[Rd] Help about nnet library,47454,Pierre-Henri BUSSIERE
+047347.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47347,Jane_Harvill at Baylor.Edu
+047344.html,[Rd] Hmisc for Mac OSX.,47344,Ken Beath
+047479.html,[Rd] isOpen on closed connections,47479,Henrik Bengtsson
+047501.html,[Rd] C/C++ 'assert' should not be used in R packages,47501,Henrik Bengtsson
+047578.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47578,Saleem Bhatti
+047579.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47579,Saleem Bhatti
+047498.html,[Rd] Returning vectors of two different data types back to R environment (from C).,47498,Roger Bivand
+047496.html,[Rd] re sponses to issues on r-devel,47496,Ben Bolker
+047542.html,[Rd] Bug in package stats function ar() (PR#10459),47542,Ben Bolker
+047546.html,[Rd]  r-forge http server down?,47546,Ben Bolker
+047569.html,[Rd] reading and writing to Google spreadsheets,47569,Farrel Buchinsky
+047311.html,[Rd] RPM Key in Readme file,47311,Joe W. Byers
+047319.html,[Rd] RPM Key in Readme file,47319,Joe W. Byers
+047400.html,[Rd] make check-all fails on F8,47400,Tom &quot;spot&quot; Callaway
+047519.html,[Rd] Color coding,47519,Gasper Cankar
+047432.html,[Rd] slots of type &quot;double&quot;,47432,John Chambers
+047316.html,[Rd] daylight saving / time zone issues with as.POSIXlt/as.POSIXct (PR#10392),47316,Peter Dalgaard
+047354.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47354,Peter Dalgaard
+047363.html,[Rd] A suggestion for an amendment to tapply,47363,Peter Dalgaard
+047366.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47366,Peter Dalgaard
+047391.html,[Rd] Col.names parameter in write.csv (PR#10411),47391,Peter Dalgaard
+047506.html,[Rd] 2.6.1 scheduled for November 26,47506,Peter Dalgaard
+047543.html,[Rd] unexpected result from reshape,47543,Peter Dalgaard
+047557.html,[Rd] Postscript saving failed. (PR#10473),47557,Peter Dalgaard
+047571.html,[Rd] Problem with points/lines (PR#10472),47571,Peter Dalgaard
+047573.html,[Rd] Problem with points/lines (PR#10472),47573,Peter Dalgaard
+047576.html,[Rd] Problem with points/lines (PR#10472),47576,Peter Dalgaard
+047547.html,[Rd] pcalg: labels,47547,Peter Danenberg
+047497.html,[Rd] Returning vectors of two different data types back to R	environment (from C).,47497,Charles Danko
+047566.html,[Rd] ?eigen documentation suggestion,47566,Dan Davison
+047412.html,[Rd] C/C++ 'assert' should not be used in R packages,47412,Bill Dunlap
+047455.html,[Rd] library path in Rd link,47455,Adrian Dusa
+047500.html,[Rd] library path in Rd link,47500,Adrian Dusa
+047464.html,[Rd] library path in Rd link,47464,Adrian Dusa
+047466.html,[Rd] library path in Rd link,47466,Adrian Dusa
+047467.html,[Rd] library path in Rd link,47467,Adrian Dusa
+047483.html,[Rd] library path in Rd link,47483,Adrian Dusa
+047448.html,[Rd] package installation order,47448,Dirk Eddelbuettel
+047511.html,[Rd] More Rgraphviz help needed (Was: package installation order),47511,Dirk Eddelbuettel
+047534.html,[Rd] package gsl assumes incorrect gcc version during	install	(PR#10451),47534,Dirk Eddelbuettel
+047318.html,"[Rd] Curry: proposed new functional programming, er, function.",47318,Byron Ellis
+047522.html,[Rd] Color coding,47522,Byron Ellis
+047473.html,[Rd] package installation order,47473,Seth Falcon
+047474.html,[Rd] isOpen on closed connections,47474,Seth Falcon
+047375.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47375,John Fox
+047349.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47349,Simone Giannerini
+047350.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47350,Simone Giannerini
+047353.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47353,Simone Giannerini
+047364.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47364,Simone Giannerini
+047532.html,[Rd] Bug in pacf -- Proposed patch,47532,Simone Giannerini
+047481.html,[Rd] faqs,47481,Gregor Gorjanc
+047505.html,[Rd] Matrix exponential in R,47505,Vincent Goulet
+047405.html,[Rd] years() in chron package not working in R 2.6.0 (PR#10415),47405,Gabor Grothendieck
+047427.html,[Rd] How to overload the assignment operator?,47427,Gabor Grothendieck
+047444.html,"[Rd] When to use LazyLoad, LazyData and ZipData?",47444,Gabor Grothendieck
+047468.html,[Rd] library path in Rd link,47468,Gabor Grothendieck
+047470.html,[Rd] faqs,47470,Gabor Grothendieck
+047475.html,[Rd] faqs,47475,Gabor Grothendieck
+047476.html,[Rd] library path in Rd link,47476,Gabor Grothendieck
+047489.html,[Rd] faqs,47489,Gabor Grothendieck
+047504.html,[Rd] faqs,47504,Gabor Grothendieck
+047518.html,[Rd] faqs,47518,Gabor Grothendieck
+047326.html,[Rd]  Strange behavior of pretty,47326,Ulrike Gr&#246;mping
+047524.html,[Rd]  R CMD check problem on R 2.6.1 RC,47524,Ulrike Gr&#246;mping
+047525.html,[Rd] R CMD check problem on R 2.6.1 RC,47525,Ulrike Gr&#246;mping
+047528.html,[Rd] R CMD check problem on R 2.6.1 RC,47528,Ulrike Gr&#246;mping
+047321.html,[Rd] vignettes and papers,47321,Robin Hankin
+047357.html,[Rd] strange `nls' behaviour,47357,Joerg van den Hoff
+047517.html,[Rd] Cairo device in dev.copy2eps,47517,Washington Leite Junger
+047388.html,[Rd] Can a package override the default color palette?,47388,Tim Keitt
+047325.html,[Rd] Cell or PS3 Port,47325,Ed Knutson
+047421.html,[Rd] How to overload the assignment operator?,47421,Matthias Kohl
+047447.html,[Rd] package installation order,47447,"Kuhn, Max"
+047450.html,[Rd] package installation order,47450,"Kuhn, Max"
+047451.html,[Rd] package installation order,47451,"Kuhn, Max"
+047453.html,[Rd] package installation order,47453,"Kuhn, Max"
+047407.html,[Rd] C/C++ 'assert' should not be used in R packages,47407,Duncan Temple Lang
+047409.html,[Rd] C/C++ 'assert' should not be used in R packages,47409,Duncan Temple Lang
+047396.html,[Rd] R crashes when I open R files in R (PR#10402),47396,J&#233;r&#244;me Lema&#238;tre
+047376.html,[Rd] mean mailing list moderator ..,47376,Hin-Tak Leung
+047361.html,[Rd] problem in linking to libR.so with R 2.5.0,47361,Jiangtian Li
+047335.html,[Rd] dot in function name taken as S3 method by package check,47335,"Liaw, Andy"
+047348.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47348,Uwe Ligges
+047552.html,[Rd] colnames slow (PR#10470),47552,Uwe Ligges
+047553.html,[Rd] Levy (PR#10469),47553,Uwe Ligges
+047337.html,[Rd] FYI: issue with arpa/inet.h on SunOS 5.9 (old gcc?),47337,Don MacQueen
+047371.html,[Rd] FYI: issue with arpa/inet.h on SunOS 5.9 (old gcc?),47371,Don MacQueen
+047373.html,[Rd] mean mailing list moderator ..,47373,Martin Maechler
+047374.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47374,Martin Maechler
+047383.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47383,Martin Maechler
+047387.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47387,Martin Maechler
+047457.html,[Rd] slots of type &quot;double&quot;,47457,Martin Maechler
+047514.html,[Rd] NEWS file (was  faqs),47514,Martin Maechler
+047541.html,[Rd] patch proposal for plot.ts,47541,Martin Maechler
+047545.html,[Rd] Bug in package stats function ar() (PR#10459),47545,Martin Maechler
+047574.html,[Rd] ?eigen documentation suggestion,47574,Martin Maechler
+047358.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47358,kamil Marcinkowski
+047368.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47368,kamil Marcinkowski
+047386.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47386,kamil Marcinkowski
+047398.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47398,kamil Marcinkowski
+047435.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47435,kamil Marcinkowski
+047437.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47437,kamil Marcinkowski
+047343.html,[Rd] Mac OS X Leopard and C compiling,47343,Daniel McDonald
+047378.html,[Rd] 64-bit R-build on Mac OS X 10.4 - make check failures,47378,Steven McKinney
+047440.html,"[Rd] When to use LazyLoad, LazyData and ZipData?",47440,Bj&#248;rn-Helge Mevik
+047445.html,"[Rd] When to use LazyLoad, LazyData and ZipData?",47445,Bj&#248;rn-Helge Mevik
+047482.html,"[Rd] When to use LazyLoad, LazyData and ZipData?",47482,Bj&#248;rn-Helge Mevik
+047508.html,[Rd] R CMD check in Windows,47508,Fernando Miguez
+047563.html,[Rd] help(&quot;R_LIBS&quot;) brings up the wrong help file (PR#10475),47563,Katharine Mullen
+047328.html,[Rd] Strange behavior of pretty,47328,Duncan Murdoch
+047331.html,"[Rd] namespace crash on S3method(&quot;as.ff&quot;,function)",47331,Duncan Murdoch
+047336.html,[Rd] dot in function name taken as S3 method by package check,47336,Duncan Murdoch
+047384.html,[Rd] R crashes when I open R files in R (PR#10402),47384,Duncan Murdoch
+047395.html,[Rd] R crashes when I open R files in R (PR#10402),47395,Duncan Murdoch
+047399.html,[Rd] R crashes when I open R files in R (PR#10402),47399,Duncan Murdoch
+047404.html,[Rd] C/C++ 'assert' should not be used in R packages,47404,Duncan Murdoch
+047406.html,[Rd] C/C++ 'assert' should not be used in R packages,47406,Duncan Murdoch
+047408.html,[Rd] C/C++ 'assert' should not be used in R packages,47408,Duncan Murdoch
+047411.html,[Rd] C/C++ 'assert' should not be used in R packages,47411,Duncan Murdoch
+047413.html,[Rd] C/C++ 'assert' should not be used in R packages,47413,Duncan Murdoch
+047441.html,"[Rd] When to use LazyLoad, LazyData and ZipData?",47441,Duncan Murdoch
+047456.html,[Rd] library path in Rd link,47456,Duncan Murdoch
+047463.html,[Rd] library path in Rd link,47463,Duncan Murdoch
+047465.html,[Rd] library path in Rd link,47465,Duncan Murdoch
+047471.html,[Rd] library path in Rd link,47471,Duncan Murdoch
+047472.html,[Rd] faqs,47472,Duncan Murdoch
+047487.html,[Rd] NEWS file (was  faqs),47487,Duncan Murdoch
+047509.html,[Rd] R CMD check in Windows,47509,Duncan Murdoch
+047526.html,[Rd] R CMD check problem on R 2.6.1 RC,47526,Duncan Murdoch
+047527.html,[Rd] R CMD check problem on R 2.6.1 RC,47527,Duncan Murdoch
+047544.html,[Rd] Bug in package stats function ar() (PR#10459),47544,Duncan Murdoch
+047443.html,[Rd] slots of type &quot;double&quot;,47443,Martin M&#228;chler
+047322.html,"[Rd] applying duplicated, unique and match to lists?",47322,&quot;Jens Oehlschl&#228;gel&quot;
+047330.html,"[Rd] namespace crash on S3method(&quot;as.ff&quot;,function)",47330,&quot;Jens Oehlschl&#228;gel&quot;
+047420.html,[Rd] How to overload the assignment operator?,47420,&quot;Jens Oehlschl&#228;gel&quot;
+047423.html,[Rd] How to overload the assignment operator?,47423,&quot;Jens Oehlschl&#228;gel&quot;
+047431.html,[Rd] How to overload the assignment operator?,47431,&quot;Jens Oehlschl&#228;gel&quot;
+047429.html,[Rd] How to overload the assignment operator?,47429,&quot;Jens Oehlschl&#228;gel&quot;
+047430.html,[Rd] How to overload the assignment operator?,47430,&quot;Jens Oehlschl&#228;gel&quot;
+047369.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47369,Jari Oksanen
+047554.html,[Rd] Change in write.dcf() that breaks existing code,47554,Herve Pages
+047446.html,[Rd] isOpen on closed connections,47446,Roger D. Peng
+047484.html,[Rd] isOpen on closed connections,47484,Roger D. Peng
+047459.html,"[Rd] stats package,	optim and other optimization methods: more parameters?",47459,Mike Preuss
+047461.html,"[Rd] stats package, optim and other optimization methods: more  parameters?",47461,Mike Preuss
+047320.html,[Rd] daylight saving / time zone issues with as.POSIXlt/as.POSIXct (PR#10392),47320,Prof Brian Ripley
+047329.html,[Rd] Strange behavior of pretty,47329,Prof Brian Ripley
+047332.html,"[Rd] namespace crash on S3method(&quot;as.ff&quot;,function)",47332,Prof Brian Ripley
+047334.html,[Rd] Should numeric()/character() etc initialize with NA instead of 0 or &quot;&quot;?,47334,Prof Brian Ripley
+047341.html,[Rd] A suggestion for an amendment to tapply,47341,Prof Brian Ripley
+047340.html,[Rd] FYI: issue with arpa/inet.h on SunOS 5.9 (old gcc?),47340,Prof Brian Ripley
+047352.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47352,Prof Brian Ripley
+047356.html,[Rd] [R] help needed: taking a function out of a package and it can not find some funtions,47356,Prof Brian Ripley
+047359.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47359,Prof Brian Ripley
+047362.html,[Rd] problem in linking to libR.so with R 2.5.0,47362,Prof Brian Ripley
+047365.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47365,Prof Brian Ripley
+047372.html,[Rd] FYI: issue with arpa/inet.h on SunOS 5.9 (old gcc?),47372,Prof Brian Ripley
+047379.html,[Rd] 64-bit R-build on Mac OS X 10.4 - make check failures,47379,Prof Brian Ripley
+047394.html,[Rd] Building Rdll.lib with Visual C++,47394,Prof Brian Ripley
+047402.html,[Rd] C/C++ 'assert' should not be used in R packages,47402,Prof Brian Ripley
+047417.html,[Rd] savePlot bug in R 2.6.0? (PR#10420),47417,Prof Brian Ripley
+047426.html,[Rd] How to overload the assignment operator?,47426,Prof Brian Ripley
+047428.html,[Rd] slots of type &quot;double&quot;,47428,Prof Brian Ripley
+047433.html,[Rd] slots of type &quot;double&quot;,47433,Prof Brian Ripley
+047434.html,[Rd] How to overload the assignment operator?,47434,Prof Brian Ripley
+047436.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47436,Prof Brian Ripley
+047438.html,[Rd] R 2.6.0 make check fails on SGI origin 350 and,47438,Prof Brian Ripley
+047439.html,[Rd] slots of type &quot;double&quot;,47439,Prof Brian Ripley
+047442.html,"[Rd] When to use LazyLoad, LazyData and ZipData?",47442,Prof Brian Ripley
+047449.html,[Rd] package installation order,47449,Prof Brian Ripley
+047452.html,[Rd] package installation order,47452,Prof Brian Ripley
+047458.html,[Rd] library path in Rd link,47458,Prof Brian Ripley
+047460.html,"[Rd] stats package, optim and other optimization methods: more parameters?",47460,Prof Brian Ripley
+047462.html,[Rd] library path in Rd link,47462,Prof Brian Ripley
+047477.html,[Rd] isOpen on closed connections,47477,Prof Brian Ripley
+047478.html,[Rd] library path in Rd link,47478,Prof Brian Ripley
+047480.html,[Rd] library path in Rd link,47480,Prof Brian Ripley
+047485.html,[Rd] slots of type &quot;double&quot;,47485,Prof Brian Ripley
+047494.html,[Rd] NEWS file (was  faqs),47494,Prof Brian Ripley
+047512.html,[Rd] R CMD check in Windows,47512,Prof Brian Ripley
+047516.html,[Rd] Cairo device in dev.copy2eps,47516,Prof Brian Ripley
+047521.html,[Rd] (PR#10437) segfault on functions with 'source' attribute,47521,Prof Brian Ripley
+047523.html,[Rd] Color coding,47523,Prof Brian Ripley
+047565.html,[Rd] Building R-devel under Windows,47565,Prof Brian Ripley
+047338.html,[Rd] A suggestion for an amendment to tapply,47338,Andrew Robinson
+047360.html,[Rd] A suggestion for an amendment to tapply,47360,Andrew Robinson
+047377.html,[Rd] A suggestion for an amendment to tapply,47377,Andrew Robinson
+047499.html,[Rd] Returning vectors of two different data types back to R environment (from C).,47499,Barry Rowlingson
+047333.html,[Rd] Should numeric()/character() etc initialize with NA instead of	0 or &quot;&quot;?,47333,Fabian Scheipl
+047313.html,[Rd] RPM Key in Readme file,47313,Marc Schwartz
+047312.html,[Rd] RPM Key in Readme file,47312,Marc Schwartz
+047314.html,[Rd] RPM Key in Readme file,47314,Marc Schwartz
+047397.html,[Rd] make check-all fails on F8,47397,Marc Schwartz
+047401.html,[Rd] make check-all fails on F8,47401,Marc Schwartz
+047572.html,[Rd] Problem with points/lines (PR#10472),47572,Gavin Simpson
+047575.html,[Rd] Problem with points/lines (PR#10472),47575,Gavin Simpson
+047422.html,[Rd] How to overload the assignment operator?,47422,Oleg Sklyar
+047492.html,[Rd] Nested SEXP functions,47492,Oleg Sklyar
+047503.html,[Rd] Returning vectors of two different data types back to	R	environment (from C).,47503,Oleg Sklyar
+047324.html,[Rd] Cell or PS3 Port,47324,Luke Tierney
+047342.html,[Rd] Hmisc for Mac OSX.,47342,Rolf Turner
+047367.html,[Rd] Hmisc for Mac OSX.,47367,Rolf Turner
+047345.html,[Rd] Hmisc for Mac OSX.,47345,Simon Urbanek
+047346.html,[Rd] Mac OS X Leopard and C compiling,47346,Simon Urbanek
+047370.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47370,Simon Urbanek
+047385.html,[Rd] 64-bit R-build on Mac OS X 10.4 - make check failures,47385,Simon Urbanek
+047410.html,[Rd] C/C++ 'assert' should not be used in R packages,47410,Simon Urbanek
+047414.html,[Rd] C/C++ 'assert' should not be used in R packages,47414,Simon Urbanek
+047424.html,[Rd] slots of type &quot;double&quot;,47424,Simon Urbanek
+047425.html,[Rd] How to overload the assignment operator?,47425,Simon Urbanek
+047486.html,[Rd] faqs,47486,Simon Urbanek
+047488.html,[Rd] NEWS file (was  faqs),47488,Simon Urbanek
+047536.html,[Rd] MacOSX 10.4.11 update breaks tests/lapack.R (R 2.6.0)?	(PR#10454),47536,Simon Urbanek
+047570.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47570,Simon Urbanek
+047577.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47577,Simon Urbanek
+047323.html,[Rd] vignettes and papers,47323,Achim Zeileis
+047315.html,[Rd] daylight saving / time zone issues with as.POSIXlt/as.POSIXct	(PR#10392),47315,tplate at acm.org
+047389.html,[Rd] small performance enhancement suggestion (PR#10409),47389,simon.debernard at altrabio.com
+047537.html,[Rd] Bug in package stats function ar() (PR#10459),47537,smckinney at bccrc.ca
+047327.html,[Rd] ctest,47327,betul
+047317.html,[Rd] daylight saving / time zone issues with	as.POSIXlt/as.POSIXct (PR#10393),47317,p.dalgaard at biostat.ku.dk
+047558.html,[Rd] hash access to data.frame uses prefix? (PR#10474),47558,pkensche at cmbi.ru.nl
+047567.html,[Rd] R install problem on MacOS 10.5.1 (PR#10476),47567,saleem at cs.st-andrews.ac.uk
+047339.html,[Rd] A suggestion for an amendment to tapply,47339,Bill.Venables at csiro.au
+047490.html,[Rd] isOpen on closed connections,47490,Mark.Bravington at csiro.au
+047535.html,[Rd] package gsl assumes incorrect gcc version during install	(PR#10456),47535,edd at debian.org
+047515.html,[Rd] biocep project - R for the Web and the Virtual R Workbench,47515,kchine at ebi.ac.uk
+047582.html,[Rd] dataframe does not expand as.Dates objects (PR#10481),47582,adrian_d at eskimo.com
+047555.html,[Rd] Postscript saving failed. (PR#10473),47555,zliu at fau.edu
+047419.html,[Rd] slots of type &quot;double&quot;,47419,hpages at fhcrc.org
+047551.html,[Rd] colnames slow (PR#10470),47551,tomas.larsson at gm.com
+047382.html,[Rd] Misleading error message for quartz.save (PR#10406),47382,christoph.bonitz at gmail.com
+047529.html,[Rd] package gsl assumes incorrect gcc version during install	(PR#10451),47529,leviwaldron at gmail.com
+047530.html,[Rd] MacOSX 10.4.11 update breaks tests/lapack.R (R 2.6.0)?	(PR#10454),47530,rjvbertin at gmail.com
+047533.html,[Rd] Bug in pacf -- Proposed patch (PR#10455),47533,sgiannerini at gmail.com
+047491.html,[Rd] Nested SEXP functions,47491,statmobile at gmail.com
+047493.html,[Rd] Nested SEXP functions,47493,statmobile at gmail.com
+047502.html,[Rd] Returning vectors of two different data types back to	R	environment (from C).,47502,statmobile at gmail.com
+047531.html,[Rd] bug in getGraphicsEvent (PR#10453),47531,twoutopias at gmail.com
+047416.html,[Rd]  e1071:svm - default epsilon = 0.1 (NOT 0.5) (PR#5671),47416,samy hafid
+047507.html,[Rd] segfault on functions with 'source' attribute set to a boolean	or a number (PR#10437),47507,karl at huftis.org
+047520.html,[Rd] (PR#10437) segfault on functions with 'source' attribute,47520,karl at huftis.org
+047513.html,[Rd] Cairo device in dev.copy2eps,47513,wjunger at ims.uerj.br
+047562.html,[Rd] help(&quot;R_LIBS&quot;) brings up the wrong help file (PR#10475),47562,timh at insightful.com
+047469.html,[Rd] faqs,47469,roger koenker
+047548.html,[Rd] Problem with configure's detection of glob on 2.6.0 (PR#10468),47548,m.pacey at lancaster.ac.uk
+047580.html,[Rd] Puzzling message: &quot;no man files in this package&quot;,47580,J.J.Goeman at lumc.nl
+047390.html,[Rd] Col.names parameter in write.csv (PR#10411),47390,kingsley.oteng-amoako at macquarie.com
+047581.html,[Rd] Trivial formatting typo in summary(lm()) (PR#10480),47581,racinej at mcmaster.ca
+047568.html,[Rd] Problem with points/lines (PR#10472),47568,carlos at necsi.org
+047561.html,[Rd] colnames slow (PR#10470),47561,maechler at stat.math.ethz.ch
+047495.html,[Rd] NEWS file (was  faqs),47495,friedrich.leisch at stat.uni-muenchen.de
+047381.html,[Rd] Documentation bug in kruskal.test (PR#10404),47381,bornkamp at statistik.uni-dortmund.de
+047351.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47351,ripley at stats.ox.ac.uk
+047392.html,[Rd] Col.names parameter in write.csv (PR#10411),47392,ripley at stats.ox.ac.uk
+047510.html,[Rd] (PR#10437) segfault on functions with 'source' attribute,47510,ripley at stats.ox.ac.uk
+047549.html,[Rd] Problem with configure's detection of glob on 2.6.0	(PR#10468),47549,ripley at stats.ox.ac.uk
+047556.html,[Rd] Postscript saving failed. (PR#10473),47556,ripley at stats.ox.ac.uk
+047559.html,[Rd] hash access to data.frame uses prefix? (PR#10474),47559,ripley at stats.ox.ac.uk
+047560.html,[Rd] hash access to data.frame uses prefix? (PR#10474),47560,ripley at stats.ox.ac.uk
+047564.html,[Rd] help(&quot;R_LIBS&quot;) brings up the wrong help file (PR#10475),47564,ripley at stats.ox.ac.uk
+047403.html,[Rd] years() in chron package not working in R 2.6.0 (PR#10415),47403,jputz at teainc.org
+047393.html,[Rd] Building Rdll.lib with Visual C++,47393,William.Fulton at ubs.com
+047418.html,[Rd] Building Rdll.lib with Visual C++,47418,William.Fulton at ubs.com
+047380.html,[Rd] R crashes when I open R files in R (PR#10402),47380,jerome.lemaitre.1 at ulaval.ca
+047550.html,[Rd] Levy (PR#10469),47550,vincent.remacle at ulb.ac.be
+047415.html,[Rd] savePlot bug in R 2.6.0? (PR#10420),47415,lupi at unimol.it
+047355.html,[Rd] Saving Graphics File as .ps or .pdf (PR#10403),47355,hadley wickham

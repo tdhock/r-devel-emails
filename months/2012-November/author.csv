@@ -1,0 +1,163 @@
+link,Subject,id,author
+065289.html,[Rd] R CMD check --force-biarch,65289,Russell Almond
+065162.html,[Rd] Another code to drop factor levels,65162,Suharto Anggono Suharto Anggono
+065191.html,[Rd] Another code to drop factor levels,65191,Suharto Anggono Suharto Anggono
+065232.html,[Rd] Help page on '$': 'warnPartialMatchAttr' should be	'warnPartialMatchDollar',65232,Suharto Anggono Suharto Anggono
+065247.html,[Rd] Zero-length 'by' in 'aggregate.data.frame',65247,Suharto Anggono Suharto Anggono
+065295.html,[Rd] Use of 'match' in end part of 'levels&lt;-.factor',65295,Suharto Anggono Suharto Anggono
+065290.html,[Rd] Opening and closing quartz graphic device crashes R,65290,Robert Baer
+065157.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65157,Henrik Bengtsson
+065292.html,[Rd] Non-recursive way to remove empty directory on Windows?,65292,Henrik Bengtsson
+065235.html,[Rd] Bug in parallel / mclapply,65235,Bernd Bischl
+065265.html,[Rd] R CMD check fails when run in a directory with parentheses in the pathname,65265,Ben Bolker
+065231.html,"[Rd] R-devel Digest, Vol 117, Issue 13",65231,Georgi Boshnakov
+065262.html,[Rd] Problems with MinGW and boost on Windows,65262,Florian Burkart
+065263.html,[Rd] Problems with MinGW and boost on Windows,65263,Florian Burkart
+065272.html,[Rd] Not stripping attachments in R-devel e-mails,65272,Florian Burkart
+065274.html,[Rd] bug with mapply() on an S4 object,65274,"Cook, Malcolm"
+065150.html,[Rd] Can't install.packages() from local repo in 2.15.2,65150,Imanuel Costigan
+065160.html,[Rd] Can't install.packages() from local repo in 2.15.2,65160,Imanuel Costigan
+065174.html,[Rd] Depends/Imports/Suggest/Enhence,65174,Davor Cubranic
+065226.html,[Rd] Typo in documentation for reshape?,65226,Michael Dewey
+065228.html,[Rd] Typo in documentation for reshape?,65228,Michael Dewey
+065194.html,"[Rd] alternative to .Fortran(&quot;dqrls&quot;, ...)",65194,Yanming Di
+065284.html,[Rd] No R 2.15.2 or R 2.15.2 patched version option in bug tracker,65284,Brian Diggs
+065302.html,[Rd] Baffled with as.matrix,65302,Brian Diggs
+065245.html,[Rd] Buffer overflow in date package,65245,Erik Doffagne
+065142.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65142,Matthew Dowle
+065159.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65159,Matthew Dowle
+065208.html,[Rd] built-in NAMED(obj) from within R,65208,Matthew Dowle
+065293.html,[Rd] Non-recursive way to remove empty directory on Windows?,65293,William Dunlap
+065148.html,[Rd] if(!CRAN()){...},65148,Dirk Eddelbuettel
+065203.html,[Rd] unable to load shared object - opencv,65203,Dirk Eddelbuettel
+065214.html,[Rd] Crash - cause 'memory not mapped',65214,Dirk Eddelbuettel
+065257.html,[Rd] Option to set permissions on directories and files after	package installation,65257,Dirk Eddelbuettel
+065287.html,[Rd] compiling R for Windows with Intel compiliers and MKL,65287,Vitaliy FEOKTISTOV
+065296.html,[Rd] compiling R for Windows 64 bit,65296,Vitaliy FEOKTISTOV
+065297.html,[Rd] compiling R for Windows 64 bit,65297,Vitaliy FEOKTISTOV
+065266.html,[Rd] R CMD check: better diagnosis for non-ASCII characters,65266,Michael Friendly
+065276.html,[Rd] R CMD check: better diagnosis for non-ASCII characters,65276,Michael Friendly
+065163.html,[Rd] Depends/Imports/Suggest/Enhence,65163,Christophe Genolini
+065165.html,[Rd] Depends/Imports/Suggest/Enhence,65165,Christophe Genolini
+065170.html,[Rd] LazyData: no / yes,65170,Christophe Genolini
+065181.html,[Rd] LazyData: no / yes,65181,Christophe Genolini
+065183.html,[Rd] LazyData: no / yes,65183,Christophe Genolini
+065186.html,[Rd] Comments in the DESCRIPTION file,65186,Christophe Genolini
+065206.html,[Rd] What is the INDEX file for?,65206,Christophe Genolini
+065152.html,[Rd] An idea: Extend mclapply's mc.set.seed with an initial seed value?,65152,Paul Gilbert
+065196.html,"[Rd] Correct use of Depends, Imports and ::",65196,Stephanie M. Gogarten
+065143.html,[Rd] if(!CRAN()){...},65143,Spencer Graves
+065259.html,[Rd] Option to set permissions on directories and files after package installation,65259,Kasper Daniel Hansen
+065238.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65238,Keith
+065244.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65244,Keith
+065184.html,[Rd] Strange behaviour in as.Date,65184,Simon Knapp
+065230.html,[Rd] Protocol for setting default number of cores,65230,Udaya B. Kogalur
+065234.html,[Rd] xmlParseDoc parser errors,65234,Duncan Temple Lang
+065219.html,[Rd] Crash - cause 'memory not mapped',65219,Peter Langfelder
+065220.html,[Rd] Crash - cause 'memory not mapped',65220,Peter Langfelder
+065169.html,[Rd] Depends/Imports/Suggest/Enhence,65169,Uwe Ligges
+065178.html,[Rd] Depends/Imports/Suggest/Enhence,65178,Uwe Ligges
+065221.html,[Rd] Crash - cause 'memory not mapped',65221,Thomas Lumley
+065222.html,[Rd] What is the INDEX file for?,65222,Thomas Lumley
+065241.html,[Rd] Help page on '$': 'warnPartialMatchAttr' should	be	'warnPartialMatchDollar',65241,Martin Maechler
+065269.html,[Rd] bug with mapply() on an S4 object,65269,Martin Maechler
+065270.html,[Rd] R CMD check: better diagnosis for non-ASCII characters,65270,Martin Maechler
+065271.html,[Rd] Not stripping attachments in R-devel e-mails,65271,Martin Maechler
+065299.html,[Rd] Non-recursive way to remove empty directory on Windows?,65299,Martin Maechler
+065300.html,[Rd] Non-recursive way to remove empty directory on Windows?,65300,Martin Maechler
+065249.html,[Rd] paths and Rook problems only in OSX CRAN binary package?,65249,Richard D. Morey
+065158.html,[Rd] parallel::mclapply list coercion limits opportunities for code	re-use?,65158,Martin Morgan
+065144.html,[Rd] if(!CRAN()){...},65144,Duncan Murdoch
+065146.html,[Rd] if(!CRAN()){...},65146,Duncan Murdoch
+065187.html,[Rd] Comments in the DESCRIPTION file,65187,Duncan Murdoch
+065224.html,[Rd] accented charatchers in a package manual,65224,Duncan Murdoch
+065240.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65240,Duncan Murdoch
+065242.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65242,Duncan Murdoch
+065243.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65243,Duncan Murdoch
+065252.html,[Rd] BibTeX entries in CITATION file,65252,Duncan Murdoch
+065151.html,[Rd] if(!CRAN()){...} / Repository policies,65151,U30A J C Nash
+065288.html,"[Rd] [R] error in plot(table(c('a','a')))",65288,Ludo Pagie
+065147.html,[Rd] unedited copy/paste from install.packages man page to update.packages man page,65147,Herv&#233; Pag&#232;s
+065175.html,[Rd] unedited copy/paste from install.packages man page to update.packages man page,65175,Herv&#233; Pag&#232;s
+065177.html,[Rd] mysterious description of download.packages,65177,Herv&#233; Pag&#232;s
+065179.html,[Rd] \value section for write_PACKAGES not updated,65179,Herv&#233; Pag&#232;s
+065229.html,[Rd] bug with mapply() on an S4 object,65229,Herv&#233; Pag&#232;s
+065267.html,[Rd] bug with mapply() on an S4 object,65267,Herv&#233; Pag&#232;s
+065268.html,[Rd] bug with mapply() on an S4 object,65268,Herv&#233; Pag&#232;s
+065282.html,[Rd] bug with mapply() on an S4 object,65282,Herv&#233; Pag&#232;s
+065250.html,[Rd] why does do_stop call R_GetTraceback ?,65250,Andrew Piskorski
+065149.html,[Rd] An idea: Extend mclapply's mc.set.seed with an initial seed	value?,65149,Ivan Popivanov
+065153.html,[Rd] An idea: Extend mclapply's mc.set.seed with an initial seed value?,65153,Prof Brian Ripley
+065154.html,[Rd] if(!CRAN()){...},65154,Prof Brian Ripley
+065155.html,[Rd] Can't install.packages() from local repo in 2.15.2,65155,Prof Brian Ripley
+065188.html,[Rd] Comments in the DESCRIPTION file,65188,Prof Brian Ripley
+065193.html,"[Rd] Correct use of Depends, Imports and ::",65193,Prof Brian Ripley
+065195.html,"[Rd] alternative to .Fortran(&quot;dqrls&quot;, ...)",65195,Prof Brian Ripley
+065225.html,[Rd] accented charatchers in a package manual,65225,Prof Brian Ripley
+065237.html,[Rd] Sighandlers,65237,Prof Brian Ripley
+065246.html,[Rd] Buffer overflow in date package,65246,Prof Brian Ripley
+065275.html,[Rd] [R] choose folder interactively,65275,Prof Brian Ripley
+065278.html,"[Rd] [R] error in plot(table(c('a','a')))",65278,Prof Brian Ripley
+065280.html,[Rd] Makevars that distinguish between OSX and *NIX,65280,Prof Brian Ripley
+065294.html,[Rd] R CMD check --force-biarch,65294,Prof Brian Ripley
+065298.html,[Rd] compiling R for Windows 64 bit,65298,Prof Brian Ripley
+065171.html,[Rd] Depends/Imports/Suggest/Enhence,65171,Allen S. Rout
+065172.html,[Rd] Depends/Imports/Suggest/Enhence,65172,Allen S. Rout
+065248.html,[Rd] S3 generic/method consistency issue with R CMD check,65248,Drew Schmidt
+065285.html,[Rd] S3 generic/method consistency issue with R CMD check,65285,Drew Schmidt
+065166.html,[Rd] Depends/Imports/Suggest/Enhence,65166,Marc Schwartz
+065167.html,[Rd] Depends/Imports/Suggest/Enhence,65167,Marc Schwartz
+065168.html,[Rd] Depends/Imports/Suggest/Enhence,65168,Marc Schwartz
+065283.html,"[Rd] str(..., strict.width=&quot;wrap&quot;) changes alignment of colons",65283,G See
+065236.html,[Rd] Sighandlers,65236,Ulrich Staudinger
+065260.html,[Rd] Sighandlers,65260,Ulrich Staudinger
+065223.html,[Rd] accented charatchers in a package manual,65223,Denis Talbot
+065156.html,"[Rd] There is pmin and pmax each taking na.rm, how about psum?",65156,Justin Talbot
+065264.html,[Rd] Puzzling behavior while testing,65264,Terry Therneau
+065301.html,[Rd] Baffled with as.matrix,65301,Terry Therneau
+065207.html,[Rd] built-in NAMED(obj) from within R,65207,Benjamin Tyner
+065215.html,[Rd] built-in NAMED(obj) from within R,65215,Benjamin Tyner
+065164.html,[Rd] Depends/Imports/Suggest/Enhence,65164,Simon Urbanek
+065173.html,[Rd] LazyData: no / yes,65173,Simon Urbanek
+065176.html,[Rd] Depends/Imports/Suggest/Enhence,65176,Simon Urbanek
+065180.html,[Rd] Depends/Imports/Suggest/Enhence,65180,Simon Urbanek
+065182.html,[Rd] LazyData: no / yes,65182,Simon Urbanek
+065189.html,"[Rd] Correct use of Depends, Imports and ::",65189,Simon Urbanek
+065190.html,"[Rd] Correct use of Depends, Imports and ::",65190,Simon Urbanek
+065200.html,[Rd] unable to load shared object - opencv,65200,Simon Urbanek
+065205.html,[Rd] unable to load shared object - opencv,65205,Simon Urbanek
+065216.html,[Rd] built-in NAMED(obj) from within R,65216,Simon Urbanek
+065218.html,[Rd] built-in NAMED(obj) from within R,65218,Simon Urbanek
+065261.html,[Rd] paths and Rook problems only in OSX CRAN binary package?,65261,Simon Urbanek
+065281.html,[Rd] [R] choose folder interactively,65281,Simon Urbanek
+065291.html,[Rd] No R 2.15.2 or R 2.15.2 patched version option in bug	tracker,65291,Simon Urbanek
+065258.html,[Rd] Option to set permissions on directories and files after package installation,65258,"Warnes, Gregory"
+065273.html,[Rd] [R] choose folder interactively,65273,R. Michael Weylandt
+065277.html,"[Rd] [R] error in plot(table(c('a','a')))",65277,R. Michael Weylandt
+065145.html,[Rd] if(!CRAN()){...},65145,Hadley Wickham
+065161.html,[Rd] Ops.data.frame,65161,Hadley Wickham
+065210.html,[Rd] built-in NAMED(obj) from within R,65210,Hadley Wickham
+065217.html,[Rd] built-in NAMED(obj) from within R,65217,Hadley Wickham
+065286.html,[Rd] Opening and closing quartz graphic device crashes R,65286,Hadley Wickham
+065185.html,"[Rd] Correct use of Depends, Imports and ::",65185,Mauricio Zambrano-Bigiarini
+065197.html,"[Rd] Correct use of Depends, Imports and ::",65197,Mauricio Zambrano-Bigiarini
+065198.html,"[Rd] Correct use of Depends, Imports and ::",65198,Mauricio Zambrano-Bigiarini
+065251.html,[Rd] BibTeX entries in CITATION file,65251,Mauricio Zambrano-Bigiarini
+065254.html,[Rd] BibTeX entries in CITATION file,65254,Mauricio Zambrano-Bigiarini
+065256.html,[Rd] BibTeX entries in CITATION file,65256,Mauricio Zambrano-Bigiarini
+065253.html,[Rd] BibTeX entries in CITATION file,65253,Achim Zeileis
+065255.html,[Rd] BibTeX entries in CITATION file,65255,Achim Zeileis
+065227.html,[Rd] Typo in documentation for reshape?,65227,peter dalgaard
+065204.html,[Rd] unable to load shared object - opencv,65204,gianluca mastrantonio
+065209.html,[Rd] unable to load shared object - opencv,65209,gianluca mastrantonio
+065211.html,[Rd] unable to load shared object - opencv,65211,gianluca mastrantonio
+065213.html,[Rd] Crash - cause 'memory not mapped',65213,gianluca mastrantonio
+065141.html,[Rd] Retrieving data from aspx pages,65141,jose ramon mazaira
+065199.html,[Rd] unable to load shared object - opencv,65199,niandra
+065201.html,[Rd] unable to load shared object - opencv,65201,niandra
+065202.html,[Rd] unable to load shared object - opencv,65202,niandra
+065212.html,[Rd] Crash - cause 'memory not mapped',65212,niandra
+065233.html,[Rd] xmlParseDoc parser errors,65233,bryan rasmussen
+065239.html,[Rd] tcltk freezing using MS Windows for R-2.14+,65239,rcaloger
+065279.html,[Rd]  Makevars that distinguish between OSX and *NIX,65279,sgerber
+065192.html,"[Rd] Correct use of Depends, Imports and ::",65192,mauricio zambrano

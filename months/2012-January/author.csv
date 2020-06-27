@@ -1,0 +1,242 @@
+link,Subject,id,author
+063002.html,[Rd] Copying objects prior to .Call,63002,Taylor Arnold
+063004.html,[Rd] Copying objects prior to .Call,63004,Douglas Bates
+063105.html,[Rd] ftable.formula,63105,Timothy Bates
+062990.html,[Rd] Command completion of the R binary / Ubuntu,62990,Claudia Beleites
+062999.html,[Rd] Command completion of the R binary / Ubuntu: result,62999,Claudia Beleites
+063018.html,[Rd] Command completion of the R binary / Ubuntu,63018,Claudia Beleites
+063023.html,[Rd] WISHLIST: Be able to timeout readline()/stdin via setTimeLimit	in all consoles,63023,Henrik Bengtsson
+063088.html,[Rd] R-devel now triggers nags on notes from vignettes,63088,Henrik Bengtsson
+063129.html,[Rd] Unable to reload Rdoc,63129,Henrik Bengtsson
+063024.html,[Rd] checkRd freezes while parsing erroneous preprocessor macros,63024,Hans-J&#246;rg Bibiko
+062963.html,[Rd] pointers on including SVN revision number in package info?,62963,Roger Bivand
+062957.html,[Rd] pointers on including SVN revision number in package info?,62957,Ben Bolker
+063084.html,[Rd] Rnw file generated strange symbols in pdf file,63084,Ben Bolker
+063116.html,[Rd] misfeature: forced file.copy() of a file over itself truncates the file ...,63116,Ben Bolker
+063158.html,[Rd] misfeature: forced file.copy() of a file over itself	truncates the file ...,63158,Ben Bolker
+063110.html,[Rd] Numerical instability in new R Windows development version,63110,Hans W Borchers
+062978.html,[Rd] S4 summary method not being called (VGAM),62978,John Chambers
+063090.html,[Rd] factor S4 class is NA when as.character method exists,63090,John Chambers
+063143.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team have advice on how?),63143,Kevin R. Coombes
+063148.html,[Rd] Sweave driver extension,63148,Kevin R. Coombes
+063107.html,[Rd] Unable to reload Rdoc,63107,Mark Cowley
+063139.html,[Rd] Unable to reload Rdoc,63139,Mark Cowley
+063042.html,[Rd] names&lt;- appears to copy 3 times?,63042,Matthew Dowle
+062944.html,[Rd] delete.response leaves response in attribute dataClasses,62944,William Dunlap
+062945.html,[Rd] delete.response leaves response in attribute dataClasses,62945,William Dunlap
+062956.html,[Rd] delete.response leaves response in attribute dataClasses,62956,William Dunlap
+062979.html,[Rd] inconsistent overflow handling by strtoi() on 32-bit Windows,62979,William Dunlap
+063085.html,[Rd] factor S4 class is NA when as.character method exists,63085,William Dunlap
+063106.html,[Rd] ftable.formula,63106,William Dunlap
+063118.html,[Rd] misfeature: forced file.copy() of a file over itself truncates the file ...,63118,William Dunlap
+062960.html,[Rd] pointers on including SVN revision number in package info?,62960,Dirk Eddelbuettel
+062962.html,[Rd] pointers on including SVN revision number in package info?,62962,Dirk Eddelbuettel
+063007.html,[Rd] Command completion of the R binary / Ubuntu,63007,Dirk Eddelbuettel
+063010.html,[Rd] Silently loading and Depends: versus NAMESPACE imports,63010,Dirk Eddelbuettel
+063014.html,[Rd] package DESCRIPTION file and CRAN Task View entries?,63014,Dirk Eddelbuettel
+063099.html,[Rd] Non-default build options,63099,Dirk Eddelbuettel
+063115.html,[Rd] Silently loading and Depends: versus NAMESPACE imports,63115,Dirk Eddelbuettel
+063128.html,[Rd] The following code (using rgamma) hangs,63128,Dirk Eddelbuettel
+063132.html,[Rd] Silently loading and Depends: versus NAMESPACE imports,63132,Dirk Eddelbuettel
+063159.html,[Rd] seq.Date bug?,63159,Dirk Eddelbuettel
+063164.html,[Rd] seq.Date bug?,63164,Dirk Eddelbuettel
+063166.html,[Rd] seq.Date bug?,63166,Dirk Eddelbuettel
+063032.html,[Rd] configure-args for R CMD build,63032,"Finak, Greg"
+063135.html,[Rd] need gui matrix editor: does R Core team have advice	on	how?,63135,John Fox
+063142.html,[Rd] Deprecation of &quot;--min-nsize&quot; and &quot;--min-vsize&quot;,63142,Henrik Alsing Friberg
+063068.html,[Rd] nobs() and logLik(),63068,Michael Friendly
+063083.html,[Rd] R-devel now triggers nags on notes from vignettes,63083,Michael Friendly
+063144.html,[Rd] Help page of colors() : add a new example ?,63144,Millot Gael
+063155.html,[Rd] Help page of colors() : add a new example ?,63155,Millot Gael
+063057.html,[Rd] Capturing interrupts during the execution of system/system2,63057,"Gaidatzis, Dimosthenis"
+063030.html,[Rd] patching ?merge to allow the user to keep the order of one of the two data.frame objects merged,63030,Tal Galili
+063093.html,[Rd] Default subset and concatenation operators for namedList,63093,Renaud Gaujoux
+062993.html,[Rd] importing S3 methods with importFrom,62993,Stephanie M. Gogarten
+063160.html,[Rd] seq.Date bug?,63160,Sarah Goslee
+063163.html,[Rd] seq.Date bug?,63163,Sarah Goslee
+063134.html,[Rd] need gui matrix editor: does R Core team have advice on	how?,63134,Gabor Grothendieck
+063137.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team have advice on how?),63137,Gabor Grothendieck
+062948.html,[Rd] R CMD check WARNING \usage question,62948,Jeff Hamann
+062951.html,[Rd] R CMD check WARNING \usage question,62951,Jeff Hamann
+063012.html,[Rd] package DESCRIPTION file and CRAN Task View entries?,63012,Jeff Hamann
+063013.html,[Rd] R CMD check pkg and 32/64 bit.,63013,Jeff Hamann
+063031.html,[Rd] configure-args for R CMD build,63031,Kasper Daniel Hansen
+063033.html,[Rd] configure-args for R CMD build,63033,Kasper Daniel Hansen
+062953.html,[Rd] R CMD check WARNING \usage question,62953,Bryan Hanson
+062954.html,[Rd] R CMD check WARNING \usage question,62954,Bryan Hanson
+062987.html,[Rd] lubridate does not install on FreeBSD any more,62987,Rainer Hurling
+062991.html,[Rd] lubridate does not install on FreeBSD any more,62991,Rainer Hurling
+062930.html,[Rd] returning information from functions via attributes rather than return list,62930,Paul Johnson
+062937.html,[Rd] returning information from functions via attributes rather than return list,62937,Paul Johnson
+062942.html,[Rd] delete.response leaves response in attribute dataClasses,62942,Paul Johnson
+062943.html,[Rd] informal conventions/checklist for new predictive modeling	packages,62943,Paul Johnson
+062949.html,[Rd] delete.response leaves response in attribute dataClasses,62949,Paul Johnson
+063027.html,[Rd] Example of &quot;task seeds&quot; with R parallel. Critique?,63027,Paul Johnson
+063092.html,[Rd] Last Call: Who says this is not a bug in delete.response()?,63092,Paul Johnson
+063133.html,[Rd] need gui matrix editor: does R Core team have advice on how?,63133,Paul Johnson
+063138.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team have advice on how?),63138,Paul Johnson
+062935.html,[Rd] informal conventions/checklist for new predictive modeling	packages,62935,Max Kuhn
+063058.html,[Rd] RApache installation problems,63058,G&#237;sli Leifsson
+062941.html,[Rd] informal conventions/checklist for new predictive modeling	packages,62941,Steve Lianoglou
+062940.html,[Rd] informal conventions/checklist for new predictive	modeling	packages,62940,"Liaw, Andy"
+062929.html,[Rd] How to list package dependency on a Bioconductor package?,62929,Uwe Ligges
+062982.html,[Rd] Updated Windows toolchain,62982,Uwe Ligges
+062988.html,[Rd] lubridate does not install on FreeBSD any more,62988,Uwe Ligges
+062997.html,[Rd] Changed behaviour of 'R CMD INSTALL',62997,Uwe Ligges
+062998.html,[Rd] importing S3 methods with importFrom,62998,Uwe Ligges
+063005.html,[Rd] Copying objects prior to .Call,63005,Uwe Ligges
+063034.html,[Rd] How to modify the start-up message,63034,Uwe Ligges
+063035.html,[Rd] checking complied code found 'abort',63035,Uwe Ligges
+063038.html,[Rd] How to modify the start-up message,63038,Uwe Ligges
+063046.html,[Rd] Updated Windows toolchain,63046,Uwe Ligges
+063048.html,"[Rd] how to check all CRAN dependencies for my package, before submitting",63048,Uwe Ligges
+063056.html,[Rd] Updated Windows toolchain,63056,Uwe Ligges
+063094.html,[Rd] Failure to get compactPDF to compact a pdf file,63094,Uwe Ligges
+063096.html,"[Rd] [R] x11() graphic device, displaying raster",63096,Uwe Ligges
+063131.html,[Rd] Silently loading and Depends: versus NAMESPACE imports,63131,Uwe Ligges
+063124.html,[Rd] .C returned array has odd results,63124,Jonathan Lisic
+063072.html,[Rd] hook for configuring checking of \example{} sections of the	documentation during R CMD check,63072,Sylvain Loiseau
+063043.html,[Rd] names&lt;- appears to copy 3 times?,63043,Thomas Lumley
+062928.html,[Rd] How to list package dependency on a Bioconductor package?,62928,Steven Lund
+062933.html,[Rd] [ping] fix type explanation in plot.default,62933,Manuel L&#243;pez-Ib&#225;&#241;ez
+063147.html,[Rd] panel.first for bxp,63147,Manuel L&#243;pez-Ib&#225;&#241;ez
+062974.html,[Rd] problem with R installation package,62974,Martin Maechler
+063028.html,"[Rd] A: ImportFrom(B, ...)  -- B: ImportFrom(A, ...)",63028,Martin Maechler
+063080.html,[Rd] Failure to get compactPDF to compact a pdf file,63080,John Maindonald
+063089.html,[Rd] Failure to get compactPDF to compact a pdf file,63089,John Maindonald
+063050.html,[Rd] png cairo device problems on Mac 10.6.8,63050,Steven McKinney
+063054.html,[Rd] png cairo device problems on Mac 10.6.8,63054,Steven McKinney
+063167.html,[Rd] seq.Date bug?,63167,Steven McKinney
+063020.html,[Rd] How to modify the start-up message,63020,Ron Michael
+063037.html,[Rd] How to modify the start-up message,63037,Ron Michael
+063039.html,[Rd] How to modify the start-up message,63039,Ron Michael
+063127.html,[Rd] The following code (using rgamma) hangs,63127,Faheem Mitha
+063130.html,[Rd] The following code (using rgamma) hangs,63130,Faheem Mitha
+062946.html,[Rd] interesting connection / finalizer bug?,62946,Martin Morgan
+062986.html,[Rd] serializing recordedplot object,62986,Martin Morgan
+062936.html,[Rd] [ping] fix type explanation in plot.default,62936,Duncan Murdoch
+062938.html,[Rd] returning information from functions via attributes rather than return list,62938,Duncan Murdoch
+062950.html,[Rd] seq_along and rep_along,62950,Duncan Murdoch
+062955.html,[Rd] R CMD check WARNING \usage question,62955,Duncan Murdoch
+062961.html,[Rd] pointers on including SVN revision number in package info?,62961,Duncan Murdoch
+062983.html,[Rd] Updated Windows toolchain,62983,Duncan Murdoch
+063015.html,[Rd] parse( connection) and source-keeping,63015,Duncan Murdoch
+063019.html,[Rd] parse( connection) and source-keeping,63019,Duncan Murdoch
+063025.html,[Rd] checkRd freezes while parsing erroneous preprocessor macros,63025,Duncan Murdoch
+063041.html,[Rd] How to modify the start-up message,63041,Duncan Murdoch
+063049.html,[Rd] Updated Windows toolchain,63049,Duncan Murdoch
+063074.html,[Rd] hook for configuring checking of \example{} sections of the documentation during R CMD check,63074,Duncan Murdoch
+063101.html,"[Rd] [R] x11() graphic device, displaying raster",63101,Duncan Murdoch
+063111.html,[Rd] Numerical instability in new R Windows development version,63111,Duncan Murdoch
+063119.html,[Rd] Numerical instability in new R Windows development version,63119,Duncan Murdoch
+063120.html,[Rd] Numerical instability in new R Windows development version,63120,Duncan Murdoch
+063121.html,[Rd] Numerical instability in new R Windows development version,63121,Duncan Murdoch
+063126.html,[Rd] .C returned array has odd results,63126,Duncan Murdoch
+063145.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team have advice on how?),63145,Duncan Murdoch
+063151.html,[Rd] Numerical instability in new R Windows development version,63151,Duncan Murdoch
+063161.html,[Rd] seq.Date bug?,63161,Duncan Murdoch
+063075.html,[Rd] factor S4 class is NA when as.character method exists,63075,Dan Murphy
+063079.html,[Rd] factor S4 class is NA when as.character method exists,63079,Dan Murphy
+063095.html,[Rd] factor S4 class is NA when as.character method exists,63095,Dan Murphy
+063152.html,[Rd] Help page of colors() : add a new example ?,63152,Dennis Murphy
+063016.html,[Rd] Inconsistencies in device_Raster when axes are reflected,63016,Paul Murrell
+062968.html,[Rd] serializing recordedplot object,62968,Jeroen Ooms
+062971.html,[Rd] problem with R installation package,62971,Jeroen Ooms
+062973.html,[Rd] serializing recordedplot object,62973,Jeroen Ooms
+062984.html,[Rd] serializing recordedplot object,62984,Jeroen Ooms
+063060.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63060,Jeroen Ooms
+063022.html,[Rd] Silently loading and Depends: versus NAMESPACE imports,63022,Herv&#233; Pag&#232;s
+063047.html,"[Rd] how to check all CRAN dependencies for my package,	before submitting",63047,Edzer Pebesma
+063104.html,[Rd] ftable.formula,63104,Brett Presnell
+063125.html,[Rd] ftable.formula,63125,Brett Presnell
+063153.html,[Rd] Crash when using embedded R.,63153,Dave Pugmire
+063097.html,"[Rd] [R] x11() graphic device, displaying raster",63097,Johannes Radinger
+062927.html,[Rd] CRAN links are available again,62927,Prof Brian Ripley
+062959.html,[Rd] pointers on including SVN revision number in package info?,62959,Prof Brian Ripley
+062967.html,[Rd] Updated Windows toolchain,62967,Prof Brian Ripley
+062975.html,[Rd] CRAN binary packages (was problem with R installation	package),62975,Prof Brian Ripley
+062977.html,[Rd] serializing recordedplot object,62977,Prof Brian Ripley
+062980.html,[Rd] S4 summary method not being called (VGAM),62980,Prof Brian Ripley
+063000.html,[Rd] Changed behaviour of 'R CMD INSTALL',63000,Prof Brian Ripley
+063017.html,[Rd] R CMD check pkg and 32/64 bit.,63017,Prof Brian Ripley
+063029.html,"[Rd] A: ImportFrom(B, ...)  -- B: ImportFrom(A, ...)",63029,Prof Brian Ripley
+063065.html,[Rd] nobs() and logLik(),63065,Prof Brian Ripley
+063071.html,[Rd] serialize/unserialize vector improvement,63071,Prof Brian Ripley
+063081.html,[Rd] Failure to get compactPDF to compact a pdf file,63081,Prof Brian Ripley
+063086.html,[Rd] factor S4 class is NA when as.character method exists,63086,Prof Brian Ripley
+063108.html,[Rd] serialize/unserialize vector improvement,63108,Prof Brian Ripley
+063109.html,[Rd] Unable to reload Rdoc,63109,Prof Brian Ripley
+063117.html,[Rd] Numerical instability in new R Windows development version,63117,Prof Brian Ripley
+063136.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team have advice on	how?),63136,Prof Brian Ripley
+063149.html,[Rd] zip() containing windows specific code?,63149,Prof Brian Ripley
+063165.html,[Rd] seq.Date bug?,63165,Jeffrey Ryan
+062969.html,[Rd] problem with R installation package,62969,Gallon R&#233;gis
+062992.html,[Rd] Command completion of the R binary / Ubuntu,62992,Deepayan Sarkar
+063162.html,[Rd] seq.Date bug?,63162,Marc Schwartz
+063006.html,[Rd] Inconsistencies in device_Raster when axes are reflected,63006,Sharpie
+063009.html,[Rd] Command completion of the R binary / Ubuntu,63009,Sharpie
+063021.html,[Rd] Inconsistencies in device_Raster when axes are reflected,63021,Sharpie
+063077.html,[Rd] Ignore user interrupts,63077,Sharpie
+063078.html,[Rd] Ignore user interrupts,63078,Sharpie
+063100.html,[Rd] Non-default build options,63100,Sharpie
+063102.html,[Rd] Ignore user interrupts,63102,Sharpie
+063123.html,[Rd] Ignore user interrupts,63123,Charlie Sharpsteen
+063069.html,[Rd] RApache installation problems,63069,Matt Shotwell
+063036.html,[Rd] package DESCRIPTION file and CRAN Task View entries?,63036,Gavin Simpson
+063146.html,[Rd] zip() containing windows specific code?,63146,Matthieu Stigler
+062970.html,[Rd] problem with R installation package,62970,Dan Tenenbaum
+062981.html,[Rd] Updated Windows toolchain,62981,Dan Tenenbaum
+063045.html,[Rd] Updated Windows toolchain,63045,Dan Tenenbaum
+063055.html,[Rd] Updated Windows toolchain,63055,Dan Tenenbaum
+063061.html,[Rd] Updated Windows toolchain,63061,Dan Tenenbaum
+063087.html,[Rd] Sweave driver extension,63087,Terry Therneau
+063156.html,[Rd] Sweave driver extension,63156,Terry Therneau
+062994.html,[Rd] Changed behaviour of 'R CMD INSTALL',62994,Berwin A Turlach
+062996.html,[Rd] Changed behaviour of 'R CMD INSTALL',62996,Berwin A Turlach
+063064.html,[Rd] nobs() and logLik(),63064,Berwin A Turlach
+063066.html,[Rd] nobs() and logLik(),63066,Berwin A Turlach
+062931.html,[Rd] returning information from functions via attributes rather	than return list,62931,Simon Urbanek
+062976.html,[Rd] serializing recordedplot object,62976,Simon Urbanek
+062985.html,[Rd] serializing recordedplot object,62985,Simon Urbanek
+062995.html,[Rd] Changed behaviour of 'R CMD INSTALL',62995,Simon Urbanek
+063003.html,[Rd] Copying objects prior to .Call,63003,Simon Urbanek
+063008.html,[Rd] Copying objects prior to .Call,63008,Simon Urbanek
+063044.html,[Rd] names&lt;- appears to copy 3 times?,63044,Simon Urbanek
+063052.html,[Rd] png cairo device problems on Mac 10.6.8,63052,Simon Urbanek
+063062.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63062,Simon Urbanek
+063063.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63063,Simon Urbanek
+063140.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team	have advice on how?),63140,Simon Urbanek
+063026.html,[Rd] checking complied code found 'abort',63026,Zhu Wang
+063082.html,[Rd] Rnw file generated strange symbols in pdf file,63082,Zhu Wang
+062934.html,[Rd] rmpi vs snow - which one is better from communication overhead point of view,62934,Stephen Weston
+063122.html,[Rd] Numerical instability in new R Windows development version,63122,Stephen Weston
+062939.html,[Rd] returning information from functions via attributes rather than return list,62939,Hadley Wickham
+062947.html,[Rd] seq_along and rep_along,62947,Hadley Wickham
+062952.html,[Rd] seq_along and rep_along,62952,Hadley Wickham
+062965.html,[Rd] seq_along and rep_along,62965,Hadley Wickham
+063113.html,[Rd] Unable to reload Rdoc,63113,Hadley Wickham
+063040.html,[Rd] How to modify the start-up message,63040,Joshua Wiley
+063001.html,[Rd] Command completion of the R binary / Ubuntu: result,63001,David Winsemius
+063150.html,[Rd] Help page of colors() : add a new example ?,63150,Kevin Wright
+063070.html,[Rd] bug in pdf(file = NULL),63070,Yihui Xie
+063091.html,[Rd] Sweave driver extension,63091,Yihui Xie
+063154.html,[Rd] Sweave driver extension,63154,Yihui Xie
+063157.html,[Rd] Sweave driver extension,63157,Yihui Xie
+063073.html,[Rd] [R] semi-transparency not supported in devel R? &quot;alpha&quot; cannot be specified in qplot(),63073,Tengfei Yin
+063098.html,[Rd] Non-default build options,63098,Ivan Zaigralin
+063103.html,"[Rd] Conflicts between 'parallel' and 'Rprof',	and between two parallel R sessions",63103,Zepu Zhang
+063051.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63051,Thomas Zumbrunn
+063059.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63059,Thomas Zumbrunn
+063067.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63067,Thomas Zumbrunn
+062972.html,[Rd] S4 summary method not being called (VGAM),62972,Mark.Bravington at csiro.au
+063011.html,[Rd] parse( connection) and source-keeping,63011,Mark.Bravington at csiro.au
+062989.html,[Rd] lubridate does not install on FreeBSD any more,62989,peter dalgaard
+063053.html,[Rd] use of UTF-8 \uxxxx escape sequences in function arguments,63053,peter dalgaard
+063076.html,[Rd] factor S4 class is NA when as.character method exists,63076,peter dalgaard
+063112.html,[Rd] Numerical instability in new R Windows development version,63112,peter dalgaard
+062964.html,[Rd] seq_along and rep_along,62964,robin hankin
+062966.html,[Rd] seq_along and rep_along,62966,robin hankin
+062958.html,[Rd] rJava System.out / System.err &amp; stacktraces,62958,kapelner
+062932.html,[Rd] rmpi vs snow - which one is better from communication overhead point of view,62932,rdxcheena
+063114.html,[Rd] Ignore user interrupts,63114,luke-tierney at uiowa.edu
+063141.html,[Rd] tcltk GUIs (was need gui matrix editor: does R Core team	have advice on how?),63141,j verzani

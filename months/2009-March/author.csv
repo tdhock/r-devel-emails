@@ -1,0 +1,537 @@
+link,Subject,id,author
+052513.html,[Rd] S4 generic masking S3 generic when using namespace,52513,Gad Abraham
+052538.html,[Rd] S4 generic masking S3 generic when using namespace,52538,Gad Abraham
+052686.html,[Rd] question on &quot;row.names&quot; attribute of dataframe when called	from a compiled package,52686,Whit Armstrong
+052867.html,[Rd] what is the preferred method to create a package local	variable?,52867,Whit Armstrong
+052800.html,[Rd] linking environments,52800,Joerg Betzin
+052718.html,[Rd] using R with java,52718,Bilel
+052866.html,[Rd] Gamma funtion(s) bug,52866,Ben Bolker
+052809.html,[Rd] Building R-alpha with ATLAS libraries?,52809,M. Edward (Ed) Borasky
+052427.html,[Rd] Chunk of text won't show up when compiling Rd file,52427,Ben Bryant
+052509.html,[Rd] Chunk of text won't show up when compiling Rd file,52509,Ben Bryant
+052441.html,[Rd] array subsetting of S4 object that inherits from &quot;array&quot;,52441,Bradley Buchsbaum
+052470.html,[Rd] question,52470,Patrick Burns
+052698.html,[Rd] R thread safe,52698,Ted Byers
+052484.html,[Rd] S4 objects for S3 methods,52484,Yohan Chalabi
+052520.html,[Rd] A Design Error (Re:  S4 objects for S3 methods),52520,Yohan Chalabi
+052548.html,[Rd] Could you please add &quot;time&lt;-&quot; as a generic function in the 'stats' package ?,52548,Yohan Chalabi
+052561.html,[Rd] Could you please add &quot;time&lt;-&quot; as a generic function in the 'stats' package ?,52561,Yohan Chalabi
+052619.html,[Rd] Could you please add &quot;time&lt;-&quot; as a generic function in the 'stats' package ?,52619,Yohan Chalabi
+052697.html,[Rd] Why S4 methods of S3 'base' generics are not used in 'base' functions ?,52697,Yohan Chalabi
+052418.html,[Rd] methods package,52418,John Chambers
+052453.html,[Rd] S4 objects for S3 methods,52453,John Chambers
+052498.html,[Rd] A Design Error (Re:  S4 objects for S3 methods),52498,John Chambers
+052555.html,[Rd] Could you please add &quot;time&lt;-&quot; as a generic function in the 'stats' package ?,52555,John Chambers
+052566.html,[Rd] Could you please add &quot;time&lt;-&quot; as a generic function in the 'stats' package ?,52566,John Chambers
+052625.html,[Rd] Could you please add &quot;time&lt;-&quot; as a generic function in the 'stats' package ?,52625,John Chambers
+052680.html,[Rd] exporting s3 and s4 methods,52680,John Chambers
+052689.html,[Rd] exporting s3 and s4 methods,52689,John Chambers
+052708.html,[Rd] Why S4 methods of S3 'base' generics are not used in 'base' functions ?,52708,John Chambers
+052709.html,[Rd] exporting s3 and s4 methods,52709,John Chambers
+052829.html,[Rd] Recent setClass fails where previous succeeded,52829,John Chambers
+052385.html,[Rd] Fontconfig warning with X11() on MAC OS X 10.4,52385,Merlise Clyde
+052852.html,[Rd] external equiv to R_serialize()?,52852,Joe Conway
+052869.html,[Rd] external equiv to R_serialize()?,52869,Joe Conway
+052880.html,[Rd] external equiv to R_serialize()?,52880,Joe Conway
+052412.html,[Rd] Two documentation questions,52412,Kevin R. Coombes
+052358.html,[Rd] Distance between clusters,52358,Corrado
+052705.html,[Rd] R thread safe,52705,Nicholas L Crookston
+052486.html,[Rd] Windows builder down,52486,G&#225;bor Cs&#225;rdi
+052395.html,[Rd] bug (PR#13570),52395,Peter Dalgaard
+052407.html,[Rd] bug (PR#13570),52407,Peter Dalgaard
+052446.html,[Rd] bug (PR#13570),52446,Peter Dalgaard
+052488.html,[Rd] patch for 'merge' docs,52488,Peter Dalgaard
+052492.html,[Rd] bug of *switch* function,52492,Peter Dalgaard
+052507.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52507,Peter Dalgaard
+052516.html,[Rd] r-devel tarball build failure on windows,52516,Peter Dalgaard
+052524.html,[Rd] surprising behaviour of names&lt;-,52524,Peter Dalgaard
+052732.html,[Rd] Why does the lexical analyzer drop comments ?,52732,Peter Dalgaard
+052772.html,[Rd] dput(as.list(function...)...) bug,52772,Peter Dalgaard
+052804.html,[Rd] get_all_vars fails with matrices (PR#13624),52804,Peter Dalgaard
+052674.html,[Rd] R freeze when loading dll with dyn.load,52674,Morel Didier
+052425.html,[Rd] bug (PR#13570),52425,Mark Difford
+052605.html,[Rd] surprising behaviour of names&lt;-,52605,William Dunlap
+052710.html,[Rd] Match .3 in a sequence,52710,William Dunlap
+052712.html,"[Rd] sprintf(&quot;%d&quot;, integer(0)) aborts",52712,William Dunlap
+052720.html,"[Rd] sprintf(&quot;%d&quot;, integer(0)) aborts",52720,William Dunlap
+052729.html,[Rd] [R] which.na,52729,William Dunlap
+052769.html,[Rd] dput(as.list(function...)...) bug,52769,William Dunlap
+052770.html,[Rd] [R] variance/mean,52770,William Dunlap
+052771.html,[Rd] [R] variance/mean,52771,William Dunlap
+052537.html,[Rd] dger_ in BLAS definition,52537,Christophe Dutang
+052801.html,[Rd] Listing of LAPACK error codes,52801,Orlando D&#246;hring
+052541.html,[Rd]  [SoC09-Idea] RQuantLib,52541,Dirk Eddelbuettel
+052622.html,[Rd] Conversion and rounding of POSIXct,52622,Dirk Eddelbuettel
+052635.html,[Rd] [OT] Debian now has a new section 'gnu-r',52635,Dirk Eddelbuettel
+052701.html,[Rd] R thread safe,52701,Dirk Eddelbuettel
+052877.html,[Rd] Wishlist: optional svn-revision number tag in package DESCRIPTION file,52877,Dirk Eddelbuettel
+052444.html,[Rd] [SoC09-Info] Application starts next week.,52444,Manuel J. A. Eugster
+052518.html,[Rd] [SoC09-Idea] cranlab.,52518,Manuel J. A. Eugster
+052711.html,[Rd] [SoC09-Info] R-Foundation accepted.,52711,Manuel J. A. Eugster
+052587.html,[Rd] How does R handle interrupts?,52587,Zhou Fang
+052363.html,[Rd] execution time of .packages,52363,Romain Francois
+052365.html,[Rd] execution time of .packages,52365,Romain Francois
+052367.html,[Rd] execution time of .packages,52367,Romain Francois
+052368.html,[Rd] profiler and loops,52368,Romain Francois
+052370.html,[Rd] execution time of .packages,52370,Romain Francois
+052372.html,[Rd] profiler and loops,52372,Romain Francois
+052375.html,[Rd] profiler and loops,52375,Romain Francois
+052416.html,[Rd] persistence of data,52416,Romain Francois
+052448.html,[Rd] Bug in codetools ?,52448,Romain Francois
+052519.html,[Rd] [SoC09-Idea] Integrated debugger,52519,Romain Francois
+052733.html,[Rd] Why does the lexical analyzer drop comments ?,52733,Romain Francois
+052735.html,[Rd] throwing a &quot;condition&quot; when the current working directory	changes,52735,Romain Francois
+052746.html,[Rd] Why does the lexical analyzer drop comments ?,52746,Romain Francois
+052748.html,[Rd] Why does the lexical analyzer drop comments ?,52748,Romain Francois
+052808.html,[Rd] [R] &quot;[.data.frame&quot; and lapply,52808,Romain Francois
+052822.html,[Rd] [R] &quot;[.data.frame&quot; and lapply,52822,Romain Francois
+052859.html,[Rd] Why does the lexical analyzer drop comments ?,52859,Romain Francois
+052865.html,[Rd] Why does the lexical analyzer drop comments ?,52865,Romain Francois
+052464.html,[Rd] Follow-up on the wish for a visibility flag with tryEval ?,52464,Laurent Gautier
+052479.html,[Rd] Follow-up on the wish for a visibility flag with tryEval ?,52479,Laurent Gautier
+052760.html,[Rd] matplot and lend=&quot;butt&quot;,52760,Christophe Genolini
+052787.html,[Rd] savePlot export &quot;strange&quot; eps (PR#13620),52787,Christophe Genolini
+052743.html,[Rd] documenting datasets with more than one object,52743,Charles Geyer
+052434.html,"[Rd] quantile(), IQR() and median() for factors",52434,Simone Giannerini
+052451.html,"[Rd] quantile(), IQR() and median() for factors",52451,Simone Giannerini
+052842.html,[Rd] quantile and IQR do not check for numeric input (PR#13631),52842,Simone Giannerini
+052361.html,[Rd] S4 data dump or?,52361,Paul Gilbert
+052373.html,[Rd] S4 data dump or?,52373,Paul Gilbert
+052379.html,[Rd] S4 helper functions: regular or generic?,52379,Gopi Goswami
+052884.html,[Rd] what is the preferred method to create a package	local	variable?,52884,Philippe Grosjean
+052618.html,"[Rd] Summer of Code, LLVM, parallelization and R",52618,Florian Gross
+052389.html,[Rd] Two documentation questions,52389,Gabor Grothendieck
+052432.html,[Rd] question,52432,Gabor Grothendieck
+052460.html,[Rd] question,52460,Gabor Grothendieck
+052463.html,[Rd] question,52463,Gabor Grothendieck
+052466.html,[Rd] question,52466,Gabor Grothendieck
+052469.html,[Rd] question,52469,Gabor Grothendieck
+052473.html,[Rd] question,52473,Gabor Grothendieck
+052651.html,"[Rd] Summer of Code, LLVM, parallelization and R",52651,Gabor Grothendieck
+052761.html,[Rd] matplot and lend=&quot;butt&quot;,52761,Gabor Grothendieck
+052777.html,[Rd] Is aggregate() function changing?,52777,Gabor Grothendieck
+052871.html,[Rd] Wishlist: optional svn-revision number tag in package	DESCRIPTION file,52871,Gabor Grothendieck
+052876.html,[Rd] what is the preferred method to create a package local	variable?,52876,Gabor Grothendieck
+052773.html,[Rd]  Error in FrF2 example on Mac OS,52773,Ulrike Gr&#246;mping
+052774.html,[Rd]  Size of (objects in) sysdata.rda,52774,Ulrike Gr&#246;mping
+052782.html,[Rd] Error in FrF2 example on Mac OS,52782,Ulrike Gr&#246;mping
+052785.html,[Rd] Error in FrF2 example on Mac OS,52785,Ulrike Gr&#246;mping
+052791.html,[Rd] Error in FrF2 example on Mac OS,52791,Ulrike Gr&#246;mping
+052807.html,[Rd] Error in FrF2 example on Mac OS,52807,Ulrike Gr&#246;mping
+052835.html,[Rd] Setting the names attribute of a list?,52835,Saptarshi Guha
+052836.html,[Rd] Setting the names attribute of a list?,52836,Saptarshi Guha
+052837.html,[Rd] CTRL-C during .Call causes R to quit to command line,52837,Saptarshi Guha
+052429.html,[Rd] bug (PR#13570),52429,Ryan Hafen
+052438.html,[Rd] bug (PR#13570),52438,Ryan Hafen
+052440.html,[Rd] bug (PR#13570),52440,Ryan Hafen
+052846.html,[Rd] Gamma funtion(s) bug,52846,Kjetil Halvorsen
+052540.html,[Rd] libf95.a: could not read symbols?,52540,Jeff Hamann
+052482.html,[Rd] patch for 'merge' docs,52482,Kasper Daniel Hansen
+052703.html,[Rd] R thread safe,52703,Kasper Daniel Hansen
+052833.html,[Rd] Error in help file for quantile(),52833, (Ted Harding)
+052847.html,[Rd] Gamma funtion(s) bug,52847, (Ted Harding)
+052850.html,[Rd] Gamma funtion(s) bug,52850, (Ted Harding)
+052704.html,[Rd] R thread safe,52704,Kevin Hendricks
+052550.html,[Rd] configure fail for XML package on freebsd,52550,Robert Hijmans
+052551.html,[Rd] generic method for median,52551,Robert Hijmans
+052677.html,[Rd] R does not compile any more on FreeBSD 8.0-CURRENT,52677,Rainer Hurling
+052728.html,[Rd] R does not compile any more on FreeBSD 8.0-CURRENT,52728,Rainer Hurling
+052734.html,[Rd] [SOLVED] Re: R does not compile any more on FreeBSD 8.0-CURRENT,52734,Rainer Hurling
+052832.html,[Rd] Error in help file for quantile(),52832,Rob Hyndman
+052574.html,[Rd] S4 coerce as.data.frame for lm,52574,Thomas Roth (geb. Kaliwe)
+052511.html,[Rd] r-devel tarball build failure on windows,52511,Hiroyuki Kawakatsu
+052525.html,[Rd] r-devel tarball build failure on windows,52525,Hiroyuki Kawakatsu
+052546.html,[Rd] configure fail for XML package on freebsd,52546,Hiroyuki Kawakatsu
+052549.html,[Rd] configure fail for XML package on freebsd,52549,Hiroyuki Kawakatsu
+052716.html,[Rd] R does not compile any more on FreeBSD 8.0-CURRENT,52716,Hiroyuki Kawakatsu
+052390.html,[Rd]  patch for axis.POSIXct (related to timezones),52390,Dan Kelley
+052563.html,[Rd]  better function name: make or as,52563,Dan Kelley
+052590.html,[Rd] surprising behaviour of names&lt;-,52590,G. Jay Kerns
+052597.html,[Rd] analogy was: surprising behaviour of names&lt;-,52597,G. Jay Kerns
+052604.html,[Rd] Does anybody have some starter code in Java to instance a	standalone JGRConsole ?,52604,Daniel Kornhauser
+052459.html,[Rd] question,52459,Wacek Kusnierczyk
+052465.html,[Rd] question,52465,Wacek Kusnierczyk
+052467.html,[Rd] question,52467,Wacek Kusnierczyk
+052468.html,[Rd] question,52468,Wacek Kusnierczyk
+052472.html,[Rd] question,52472,Wacek Kusnierczyk
+052474.html,[Rd] question,52474,Wacek Kusnierczyk
+052476.html,[Rd] question,52476,Wacek Kusnierczyk
+052478.html,[Rd] question,52478,Wacek Kusnierczyk
+052504.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52504,Wacek Kusnierczyk
+052506.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52506,Wacek Kusnierczyk
+052522.html,[Rd] surprising behaviour of names&lt;-,52522,Wacek Kusnierczyk
+052526.html,[Rd] surprising behaviour of names&lt;-,52526,Wacek Kusnierczyk
+052529.html,[Rd] surprising behaviour of names&lt;-,52529,Wacek Kusnierczyk
+052530.html,[Rd] surprising behaviour of names&lt;-,52530,Wacek Kusnierczyk
+052534.html,[Rd] logical comparison of functions (PR#13588),52534,Wacek Kusnierczyk
+052536.html,[Rd] surprising behaviour of names&lt;-,52536,Wacek Kusnierczyk
+052558.html,[Rd] surprising behaviour of names&lt;-,52558,Wacek Kusnierczyk
+052559.html,[Rd] surprising behaviour of names&lt;-,52559,Wacek Kusnierczyk
+052569.html,[Rd] surprising behaviour of names&lt;-,52569,Wacek Kusnierczyk
+052570.html,[Rd] surprising behaviour of names&lt;-,52570,Wacek Kusnierczyk
+052571.html,[Rd] surprising behaviour of names&lt;-,52571,Wacek Kusnierczyk
+052573.html,[Rd] surprising behaviour of names&lt;-,52573,Wacek Kusnierczyk
+052579.html,[Rd] surprising behaviour of names&lt;-,52579,Wacek Kusnierczyk
+052582.html,[Rd] surprising behaviour of names&lt;-,52582,Wacek Kusnierczyk
+052583.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52583,Wacek Kusnierczyk
+052584.html,[Rd] surprising behaviour of names&lt;-,52584,Wacek Kusnierczyk
+052591.html,[Rd] surprising behaviour of names&lt;-,52591,Wacek Kusnierczyk
+052593.html,[Rd] surprising behaviour of names&lt;-,52593,Wacek Kusnierczyk
+052596.html,[Rd] surprising behaviour of names&lt;-,52596,Wacek Kusnierczyk
+052599.html,[Rd] surprising behaviour of names&lt;-,52599,Wacek Kusnierczyk
+052603.html,[Rd] surprising behaviour of names&lt;-,52603,Wacek Kusnierczyk
+052607.html,[Rd] surprising behaviour of names&lt;-,52607,Wacek Kusnierczyk
+052608.html,[Rd] surprising behaviour of names&lt;-,52608,Wacek Kusnierczyk
+052612.html,[Rd] surprising behaviour of names&lt;-,52612,Wacek Kusnierczyk
+052614.html,[Rd] surprising behaviour of names&lt;-,52614,Wacek Kusnierczyk
+052617.html,[Rd] surprising behaviour of names&lt;-,52617,Wacek Kusnierczyk
+052627.html,[Rd] surprising behaviour of names&lt;-,52627,Wacek Kusnierczyk
+052630.html,[Rd] Definition of [[,52630,Wacek Kusnierczyk
+052639.html,[Rd] surprising behaviour of names&lt;-,52639,Wacek Kusnierczyk
+052641.html,[Rd] Definition of [[,52641,Wacek Kusnierczyk
+052642.html,[Rd] surprising behaviour of names&lt;-,52642,Wacek Kusnierczyk
+052652.html,[Rd] Match .3 in a sequence,52652,Wacek Kusnierczyk
+052660.html,[Rd] Match .3 in a sequence,52660,Wacek Kusnierczyk
+052667.html,[Rd] Match .3 in a sequence,52667,Wacek Kusnierczyk
+052672.html,[Rd] Match .3 in a sequence,52672,Wacek Kusnierczyk
+052715.html,[Rd] [R] incoherent conversions from/to raw,52715,Wacek Kusnierczyk
+052736.html,[Rd] sprintf causes a segfault (PR#13613),52736,Wacek Kusnierczyk
+052744.html,"[Rd] gsub('(.).(.)(.)', '\\3\\2\\1', 'gsub')",52744,Wacek Kusnierczyk
+052751.html,[Rd] incoherent treatment of NULL,52751,Wacek Kusnierczyk
+052753.html,[Rd] incoherent treatment of NULL,52753,Wacek Kusnierczyk
+052756.html,[Rd] incoherent treatment of NULL,52756,Wacek Kusnierczyk
+052758.html,[Rd] incoherent treatment of NULL,52758,Wacek Kusnierczyk
+052766.html,[Rd] [R] variance/mean,52766,Wacek Kusnierczyk
+052767.html,[Rd] dput(as.list(function...)...) bug,52767,Wacek Kusnierczyk
+052786.html,[Rd] [R] variance/mean,52786,Wacek Kusnierczyk
+052813.html,[Rd] typo in sprintf format string segfaults R,52813,Wacek Kusnierczyk
+052820.html,[Rd] [R] &quot;[.data.frame&quot; and lapply,52820,Wacek Kusnierczyk
+052823.html,[Rd] [R] &quot;[.data.frame&quot; and lapply,52823,Wacek Kusnierczyk
+052844.html,[Rd] duplicated fails to rise correct errors (PR#13632),52844,Wacek Kusnierczyk
+052857.html,[Rd] [R] incoherent conversions from/to raw,52857,Wacek Kusnierczyk
+052862.html,[Rd] duplicated.data.frame {was &quot;[R] which rows are	duplicates?&quot;},52862,Wacek Kusnierczyk
+052881.html,[Rd] as.data.frame peculiarities,52881,Wacek Kusnierczyk
+052885.html,[Rd] duplicated.data.frame {was &quot;[R] which rows are	duplicates?&quot;},52885,Wacek Kusnierczyk
+052547.html,[Rd] configure fail for XML package on freebsd,52547,Duncan Temple Lang
+052353.html,[Rd] Help on Making R Packages,52353,Uwe Ligges
+052401.html,[Rd] bug (PR#13570),52401,Uwe Ligges
+052430.html,[Rd] Package issue,52430,Uwe Ligges
+052431.html,[Rd] bug (PR#13570),52431,Uwe Ligges
+052489.html,[Rd] Windows builder down,52489,Uwe Ligges
+052500.html,[Rd] Package issue,52500,Uwe Ligges
+052512.html,[Rd] r-devel tarball build failure on windows,52512,Uwe Ligges
+052521.html,[Rd] r-devel tarball build failure on windows,52521,Uwe Ligges
+052577.html,[Rd] iconv.dll in Windows,52577,Uwe Ligges
+052727.html,[Rd] v2.8.1 crashes on quit(save=&quot;yes&quot;) or just won't	save	(PR#13612),52727,Uwe Ligges
+052778.html,[Rd] Error in FrF2 example on Mac OS,52778,Uwe Ligges
+052780.html,[Rd] Size of (objects in) sysdata.rda,52780,Uwe Ligges
+052784.html,[Rd] savePlot export &quot;strange&quot; eps (PR#13620),52784,Uwe Ligges
+052797.html,[Rd] no internal function &quot;int.unzip&quot; in R 2.9 on Windows,52797,Uwe Ligges
+052814.html,[Rd] savePlot export &quot;strange&quot; eps (PR#13620),52814,Uwe Ligges
+052875.html,[Rd] installing RMySQL (PR#13633),52875,Uwe Ligges
+052454.html,[Rd] Fix for foreign package segfault on Solaris 10 Intel,52454,Jeff Long
+052457.html,[Rd] Fix for foreign package segfault on Solaris 10 Intel,52457,Jeff Long
+052394.html,[Rd] bug (PR#13570),52394,Thomas Lumley
+052615.html,[Rd] surprising behaviour of names&lt;-,52615,Thomas Lumley
+052637.html,[Rd] Definition of [[,52637,Thomas Lumley
+052638.html,[Rd] surprising behaviour of names&lt;-,52638,Thomas Lumley
+052640.html,[Rd] Definition of [[,52640,Thomas Lumley
+052643.html,[Rd] miscomputation (PR#13594),52643,Thomas Lumley
+052644.html,[Rd] Bug Report Fwd: MANOVA Data (PR#13595),52644,Thomas Lumley
+052671.html,[Rd] exporting s3 and s4 methods,52671,Thomas Lumley
+052682.html,[Rd] exporting s3 and s4 methods,52682,Thomas Lumley
+052694.html,[Rd] lm function (PR#13608),52694,Thomas Lumley
+052706.html,[Rd] exporting s3 and s4 methods,52706,Thomas Lumley
+052840.html,[Rd] quantile and IQR do not check for numeric input (PR#13631),52840,Thomas Lumley
+052575.html,[Rd] iconv.dll in Windows,52575,James MacDonald
+052502.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52502,Stavros Macrakis
+052505.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52505,Stavros Macrakis
+052508.html,[Rd] bug of *switch* function,52508,Stavros Macrakis
+052527.html,[Rd] surprising behaviour of names&lt;-,52527,Stavros Macrakis
+052620.html,[Rd] Assigning to factor[[i]],52620,Stavros Macrakis
+052621.html,[Rd] Conversion and rounding of POSIXct,52621,Stavros Macrakis
+052623.html,[Rd] Conversion and rounding of POSIXct,52623,Stavros Macrakis
+052626.html,[Rd] Definition of [[,52626,Stavros Macrakis
+052629.html,[Rd] Definition of [[,52629,Stavros Macrakis
+052653.html,[Rd] Match .3 in a sequence,52653,Stavros Macrakis
+052662.html,[Rd] Match .3 in a sequence,52662,Stavros Macrakis
+052676.html,[Rd] Match .3 in a sequence,52676,Stavros Macrakis
+052726.html,[Rd] [R] which.na,52726,Stavros Macrakis
+052765.html,[Rd] dput(as.list(function...)...) bug,52765,Stavros Macrakis
+052779.html,[Rd] dput(as.list(function...)...) bug,52779,Stavros Macrakis
+052811.html,"[Rd] Error message for matrix(1)[[1,,]]",52811,Stavros Macrakis
+052863.html,[Rd] as.data.frame peculiarities,52863,Stavros Macrakis
+052878.html,[Rd] what is the preferred method to create a package local	variable?,52878,Stavros Macrakis
+052357.html,[Rd] Unexpected side effect of the &quot;:::&quot; operator on the value	of isGeneric,52357,Martin Maechler
+052443.html,[Rd] array subsetting of S4 object that inherits from &quot;array&quot;,52443,Martin Maechler
+052690.html,"[Rd] Putting demo shell scripts, text files,	and RScript files with a package?",52690,Martin Maechler
+052714.html,[Rd] suggestion/request: install.packages and unnecessary file	modifications,52714,Martin Maechler
+052721.html,[Rd] [R] which.na,52721,Martin Maechler
+052752.html,[Rd] incoherent treatment of NULL,52752,Martin Maechler
+052755.html,[Rd] incoherent treatment of NULL,52755,Martin Maechler
+052757.html,[Rd] incoherent treatment of NULL,52757,Martin Maechler
+052854.html,[Rd] Gamma funtion(s) bug,52854,Martin Maechler
+052856.html,[Rd] [R] incoherent conversions from/to raw,52856,Martin Maechler
+052861.html,[Rd] duplicated.data.frame {was &quot;[R] which rows are duplicates?&quot;},52861,Martin Maechler
+052868.html,[Rd] duplicated.data.frame {was &quot;[R] which rows are	duplicates?&quot;},52868,Martin Maechler
+052803.html,[Rd] linking environments,52803,Steven McKinney
+052739.html,[Rd] unlink fails to remove symbolic links,52739,Martin Morgan
+052740.html,[Rd] unlink fails to remove symbolic links,52740,Martin Morgan
+052824.html,[Rd] Recent setClass fails where previous succeeded,52824,Martin Morgan
+052872.html,[Rd] what is the preferred method to create a package local variable?,52872,Martin Morgan
+052879.html,[Rd] what is the preferred method to create a package local variable?,52879,Martin Morgan
+052404.html,[Rd] bug (PR#13570),52404,Duncan Murdoch
+052414.html,[Rd] bug (PR#13570),52414,Duncan Murdoch
+052415.html,[Rd] Firefox 3 and HTML Search,52415,Duncan Murdoch
+052435.html,[Rd] Chunk of text won't show up when compiling Rd file,52435,Duncan Murdoch
+052436.html,[Rd] problem building a package with C code (PR#13572),52436,Duncan Murdoch
+052437.html,[Rd] bug (PR#13570),52437,Duncan Murdoch
+052475.html,[Rd] Follow-up on the wish for a visibility flag with tryEval ?,52475,Duncan Murdoch
+052499.html,[Rd] Package issue,52499,Duncan Murdoch
+052533.html,[Rd] logical comparison of functions (PR#13588),52533,Duncan Murdoch
+052595.html,[Rd] Error compiling rgl package,52595,Duncan Murdoch
+052624.html,[Rd] Error compiling rgl package,52624,Duncan Murdoch
+052628.html,[Rd] Definition of [[,52628,Duncan Murdoch
+052633.html,[Rd] Definition of [[,52633,Duncan Murdoch
+052649.html,[Rd] Error compiling rgl package,52649,Duncan Murdoch
+052650.html,[Rd] Match .3 in a sequence,52650,Duncan Murdoch
+052656.html,[Rd] Error compiling rgl package,52656,Duncan Murdoch
+052670.html,[Rd] link in base help file fails.,52670,Duncan Murdoch
+052673.html,[Rd] link in base help file fails.,52673,Duncan Murdoch
+052684.html,[Rd] Match .3 in a sequence,52684,Duncan Murdoch
+052722.html,[Rd] [R] which.na,52722,Duncan Murdoch
+052731.html,[Rd] Why does the lexical analyzer drop comments ?,52731,Duncan Murdoch
+052738.html,[Rd] minor tick marks for plots (PR#13616),52738,Duncan Murdoch
+052741.html,[Rd] vignette index not linked into HTML help system for package,52741,Duncan Murdoch
+052747.html,[Rd] Why does the lexical analyzer drop comments ?,52747,Duncan Murdoch
+052754.html,[Rd] Why does the lexical analyzer drop comments ?,52754,Duncan Murdoch
+052764.html,[Rd] matplot does not considere the parametre lend (PR#13619),52764,Duncan Murdoch
+052768.html,[Rd] dput(as.list(function...)...) bug,52768,Duncan Murdoch
+052776.html,[Rd] Is aggregate() function changing?,52776,Duncan Murdoch
+052783.html,[Rd] dput(as.list(function...)...) bug,52783,Duncan Murdoch
+052796.html,[Rd] no internal function &quot;int.unzip&quot; in R 2.9 on Windows,52796,Duncan Murdoch
+052802.html,[Rd] linking environments,52802,Duncan Murdoch
+052834.html,[Rd] Error in help file for quantile(),52834,Duncan Murdoch
+052841.html,[Rd] quantile and IQR do not check for numeric input (PR#13631),52841,Duncan Murdoch
+052849.html,[Rd] Gamma funtion(s) bug,52849,Duncan Murdoch
+052874.html,[Rd] Wishlist: optional svn-revision number tag in package DESCRIPTION file,52874,Duncan Murdoch
+052648.html,[Rd] Match .3 in a sequence,52648,Daniel Murphy
+052661.html,[Rd] Match .3 in a sequence,52661,Daniel Murphy
+052665.html,[Rd] Match .3 in a sequence,52665,Daniel Murphy
+052679.html,[Rd] Match .3 in a sequence,52679,Daniel Murphy
+052663.html,[Rd] [R] R with MKL,52663,Ei-ji Nakama
+052713.html,[Rd] [R] R with MKL,52713,Ei-ji Nakama
+052556.html,[Rd] Compiling R-2.8.1 on Sparc Solaris 10: libRlapack.so: symbol __vlog_: referenced symbol not found,52556,Mohammad Nikseresht
+052588.html,[Rd] Compiling R-2.8.1 on Sparc Solaris 10: libRlapack.so: symbol __vlog_: referenced symbol not found,52588,Mohammad Nikseresht
+052589.html,[Rd] Error compiling rgl package,52589,Mohammad Nikseresht
+052647.html,[Rd] Error compiling rgl package,52647,Mohammad Nikseresht
+052654.html,[Rd] Error compiling rgl package,52654,Mohammad Nikseresht
+052657.html,[Rd] Error compiling rgl package,52657,Mohammad Nikseresht
+052659.html,[Rd] Error Compiling clusterSim on Solaris,52659,Mohammad Nikseresht
+052374.html,[Rd] make check reg-tests-1.R error on solaris,52374,Karen Noel
+052610.html,[Rd] lsfit w/ rank-deficient x,52610,Vadim Ogranovich
+052681.html,[Rd] lsfit w/ rank-deficient x,52681,Vadim Ogranovich
+052383.html,[Rd] Fontconfig warning with X11() on MAC OS X 10.4,52383,Roger Peng
+052883.html,[Rd] what is the preferred method to create a package local	variable?,52883,Roger Peng
+052481.html,[Rd] patch for 'merge' docs,52481,Roger D. Peng
+052487.html,[Rd] patch for 'merge' docs,52487,Roger D. Peng
+052490.html,[Rd] patch for 'merge' docs,52490,Roger D. Peng
+052634.html,[Rd] Using and 'eval' and environments with active bindings,52634,Roger D. Peng
+052381.html,[Rd] CRAN package check on MacOS: sh: line 1: gs: command not found,52381,Thomas Petzoldt
+052471.html,[Rd] question,52471,Thomas Petzoldt
+052645.html,[Rd] vignette index not linked into HTML help system for package,52645,Thomas Petzoldt
+052692.html,[Rd]  R thread safe,52692,Rune Schjellerup Philosof
+052696.html,[Rd] R thread safe,52696,Rune Schjellerup Philosof
+052606.html,[Rd] surprising behaviour of names&lt;-,52606,Tony Plate
+052611.html,[Rd] surprising behaviour of names&lt;-,52611,Tony Plate
+052668.html,[Rd] [R] R with MKL,52668,Martyn Plummer
+052723.html,[Rd] using R with java,52723,RMP
+052535.html,[Rd] dger_ in BLAS definition,52535,Andrew Redd
+052351.html,[Rd] Help on Making R Packages,52351,Romina Rengel
+052360.html,"[Rd] R does not start on my MacBook Pro3,1 (PR#13565)",52360,Mathieu Ribatet
+052805.html,[Rd] Listing of LAPACK error codes,52805,Jason Riedy
+052354.html,[Rd] using predict method with an offset,52354,Prof Brian Ripley
+052356.html,[Rd] Colour mistake (PR#13562),52356,Prof Brian Ripley
+052362.html,[Rd] S4 data dump or?,52362,Prof Brian Ripley
+052364.html,[Rd] execution time of .packages,52364,Prof Brian Ripley
+052366.html,[Rd] execution time of .packages,52366,Prof Brian Ripley
+052369.html,[Rd] execution time of .packages,52369,Prof Brian Ripley
+052376.html,[Rd] R 2.9.0 devel: package installation with configure-args option,52376,Prof Brian Ripley
+052382.html,[Rd] CRAN package check on MacOS: sh: line 1: gs: command not found,52382,Prof Brian Ripley
+052393.html,[Rd] patch for axis.POSIXct (related to timezones),52393,Prof Brian Ripley
+052398.html,[Rd] problems with nls?,52398,Prof Brian Ripley
+052403.html,[Rd] Two documentation questions,52403,Prof Brian Ripley
+052406.html,[Rd] bug (PR#13570),52406,Prof Brian Ripley
+052408.html,[Rd] bug (PR#13570),52408,Prof Brian Ripley
+052410.html,[Rd] documentation questions,52410,Prof Brian Ripley
+052411.html,[Rd] R 2.9.0 devel: package installation with configure-args option,52411,Prof Brian Ripley
+052421.html,[Rd] Bug in Rdconv(.pm) (PR#13575),52421,Prof Brian Ripley
+052423.html,[Rd] heatmap without dendrogams (PR#13512),52423,Prof Brian Ripley
+052442.html,[Rd] bug (PR#13570),52442,Prof Brian Ripley
+052450.html,"[Rd] quantile(), IQR() and median() for factors",52450,Prof Brian Ripley
+052455.html,[Rd] Fix for foreign package segfault on Solaris 10 Intel,52455,Prof Brian Ripley
+052458.html,[Rd] Fix for foreign package segfault on Solaris 10 Intel,52458,Prof Brian Ripley
+052483.html,[Rd] typo in qpois help (PR#13583),52483,Prof Brian Ripley
+052485.html,[Rd] bug (PR#13570),52485,Prof Brian Ripley
+052503.html,[Rd] Parallel makes,52503,Prof Brian Ripley
+052510.html,[Rd] Chunk of text won't show up when compiling Rd file,52510,Prof Brian Ripley
+052528.html,[Rd] ?as.POSIXct (PR#13587),52528,Prof Brian Ripley
+052531.html,[Rd] r-devel tarball build failure on windows,52531,Prof Brian Ripley
+052542.html,[Rd] bug (PR#13570),52542,Prof Brian Ripley
+052543.html,[Rd] libf95.a: could not read symbols?,52543,Prof Brian Ripley
+052545.html,[Rd] website feature request - a roadmap (PR#13589),52545,Prof Brian Ripley
+052557.html,[Rd] Compiling R-2.8.1 on Sparc Solaris 10: libRlapack.so: symbol __vlog_: referenced symbol not found,52557,Prof Brian Ripley
+052562.html,[Rd] Building R for Vistax64,52562,Prof Brian Ripley
+052578.html,[Rd] iconv.dll in Windows,52578,Prof Brian Ripley
+052580.html,[Rd] r-devel tarball build failure on windows,52580,Prof Brian Ripley
+052602.html,[Rd] Rd \usage clause for an S4 replace method,52602,Prof Brian Ripley
+052691.html,[Rd] Bug in Rdconv(.pm) (PR#13575),52691,Prof Brian Ripley
+052717.html,"[Rd] sprintf(&quot;%d&quot;, integer(0)) aborts",52717,Prof Brian Ripley
+052742.html,[Rd] unlink fails to remove symbolic links,52742,Prof Brian Ripley
+052806.html,[Rd] Listing of LAPACK error codes,52806,Prof Brian Ripley
+052853.html,[Rd] external equiv to R_serialize()?,52853,Prof Brian Ripley
+052683.html,"[Rd] Putting demo shell scripts, text files,	and RScript files with a package?",52683,David Rosenberg
+052870.html,[Rd] Wishlist: optional svn-revision number tag in package DESCRIPTION file,52870,Peter Ruckdeschel
+052493.html,[Rd] bug of *switch* function,52493,Jeff Ryan
+052664.html,[Rd] link in base help file fails.,52664,Keith Satterley
+052658.html,[Rd] Match .3 in a sequence,52658,Petr Savicky
+052666.html,[Rd] Match .3 in a sequence,52666,Petr Savicky
+052669.html,[Rd] Match .3 in a sequence,52669,Petr Savicky
+052678.html,[Rd] Match .3 in a sequence,52678,Petr Savicky
+052781.html,[Rd] Error in FrF2 example on Mac OS,52781,Petr Savicky
+052789.html,[Rd] Error in FrF2 example on Mac OS,52789,Petr Savicky
+052851.html,[Rd] Possible bug in summary.survfit - 'scale' argument ignored?,52851,Marc Schwartz
+052860.html,[Rd] Possible bug in summary.survfit - 'scale' argument ignored?,52860,Marc Schwartz
+052560.html,[Rd] Building R for Vistax64,52560,"Sim, Fraser"
+052515.html,[Rd] S4 generic masking S3 generic when using namespace,52515,"Sklyar, Oleg (London)"
+052600.html,[Rd] Rd \usage clause for an S4 replace method,52600,"Sklyar, Oleg (London)"
+052812.html,[Rd] typo in sprintf format string segfaults R,52812,"Sklyar, Oleg (London)"
+052816.html,[Rd] imporving performance of slicing on matrices and S4 their	derivatives,52816,"Sklyar, Oleg (London)"
+052818.html,[Rd] consistent segfaults in ROracle with one of the databases,52818,"Sklyar, Oleg (London)"
+052838.html,[Rd] CTRL-C during .Call causes R to quit to command line,52838,"Sklyar, Oleg (London)"
+052564.html,[Rd] Building R for Vistax64,52564,David M Smith
+052433.html,[Rd] bug (PR#13570),52433,Greg Snow
+052449.html,"[Rd] quantile(), IQR() and median() for factors",52449,Greg Snow
+052452.html,"[Rd] quantile(), IQR() and median() for factors",52452,Greg Snow
+052396.html,[Rd] calling Rf_initEmbeddedR twice gives an error,52396,Soeren Sonnenburg
+052480.html,"[Rd] [RFC] running octave, python from within R",52480,Soeren Sonnenburg
+052387.html,[Rd] methods package,52387,Terry Therneau
+052388.html,[Rd] Two documentation questions,52388,Terry Therneau
+052409.html,[Rd] documentation questions,52409,Terry Therneau
+052424.html,[Rd] Package issue,52424,Terry Therneau
+052496.html,[Rd] Package issue,52496,Terry Therneau
+052501.html,[Rd] Package issue,52501,Terry Therneau
+052420.html,[Rd] methods package,52420,"Therneau, Terry M., Ph.D."
+052775.html,[Rd] Is aggregate() function changing?,52775,Kenneth Roy Cabrera Torres
+052792.html,[Rd] Is aggregate() function changing?,52792,Kenneth Roy Cabrera Torres
+052399.html,[Rd] bug (PR#13570),52399,Berwin A Turlach
+052567.html,[Rd] surprising behaviour of names&lt;-,52567,Berwin A Turlach
+052568.html,[Rd] surprising behaviour of names&lt;-,52568,Berwin A Turlach
+052572.html,[Rd] surprising behaviour of names&lt;-,52572,Berwin A Turlach
+052576.html,[Rd] surprising behaviour of names&lt;-,52576,Berwin A Turlach
+052585.html,[Rd] surprising behaviour of names&lt;-,52585,Berwin A Turlach
+052598.html,[Rd] surprising behaviour of names&lt;-,52598,Berwin A Turlach
+052601.html,[Rd] surprising behaviour of names&lt;-,52601,Berwin A Turlach
+052613.html,[Rd] surprising behaviour of names&lt;-,52613,Berwin A Turlach
+052616.html,[Rd] surprising behaviour of names&lt;-,52616,Berwin A Turlach
+052636.html,[Rd] surprising behaviour of names&lt;-,52636,Berwin A Turlach
+052439.html,[Rd] bug (PR#13570),52439,Benjamin Tyner
+052539.html,[Rd] bug (PR#13570),52539,Benjamin Tyner
+052495.html,[Rd] bug of *switch* function,52495,Josh Ulrich
+052594.html,[Rd] surprising behaviour of names&lt;-,52594,Josh Ulrich
+052384.html,[Rd] Fontconfig warning with X11() on MAC OS X 10.4,52384,Simon Urbanek
+052552.html,[Rd] surprising behaviour of names&lt;-,52552,Simon Urbanek
+052553.html,[Rd] surprising behaviour of names&lt;-,52553,Simon Urbanek
+052586.html,[Rd] surprising behaviour of names&lt;-,52586,Simon Urbanek
+052675.html,[Rd] R freeze when loading dll with dyn.load,52675,Simon Urbanek
+052687.html,[Rd] question on &quot;row.names&quot; attribute of dataframe when called	from a compiled package,52687,Simon Urbanek
+052688.html,[Rd] Embedding R Engine in Cocoa,52688,Simon Urbanek
+052695.html,[Rd] R thread safe,52695,Simon Urbanek
+052700.html,[Rd] R thread safe,52700,Simon Urbanek
+052702.html,[Rd] R thread safe,52702,Simon Urbanek
+052707.html,[Rd] R thread safe,52707,Simon Urbanek
+052719.html,[Rd] using R with java,52719,Simon Urbanek
+052793.html,[Rd] More Embedding REngine in Cocoa,52793,Simon Urbanek
+052794.html,[Rd] Error in FrF2 example on Mac OS,52794,Simon Urbanek
+052817.html,[Rd] Console colors do not stick (PR#13625),52817,Simon Urbanek
+052819.html,[Rd] Console colors do not stick (PR#13625),52819,Simon Urbanek
+052377.html,[Rd] X11.Rd has a dead link,52377,Stephen Weigand
+052810.html,[Rd] get_all_vars fails with matrices (PR#13624),52810,Simon Wood
+052858.html,[Rd] Why does the lexical analyzer drop comments ?,52858,Yihui Xie
+052685.html,[Rd] Embedding R Engine in Cocoa,52685,David Zwerdling
+052790.html,[Rd] More Embedding REngine in Cocoa,52790,David Zwerdling
+052882.html,[Rd] Compile R Library with GCC garbage collection on or supported,52882,David Zwerdling
+052352.html,[Rd] Wishlist for plot.lm() (PR#13560),52352,john.maindonald at anu.edu.au
+052799.html,[Rd] get_all_vars fails with matrices (PR#13624),52799,s.wood at bath.ac.uk
+052544.html,[Rd] website feature request - a roadmap (PR#13589),52544,dannychia at berkeley.edu
+052355.html,[Rd] Colour mistake (PR#13562),52355,plwm2 at cam.ac.uk
+052417.html,[Rd] Spearman's rank correlation test (PR#13574),52417,savicky at cs.cas.cz
+052632.html,[Rd] Bug Report Fwd: MANOVA Data (PR#13595),52632,dvdbooth at cs.com
+052456.html,[Rd] question,52456,Mark.Bravington at csiro.au
+052517.html,[Rd] suggestion/request: install.packages and unnecessary file modifications,52517,Mark.Bravington at csiro.au
+052592.html,[Rd] installed.packages and package info cache buglet (PR#13592),52592,Mark.Bravington at csiro.au
+052830.html,[Rd] Compiler options for Makefile.win,52830,cstrato
+052730.html,[Rd] Why does the lexical analyzer drop comments ?,52730,romain.francois at dbmail.com
+052532.html,[Rd] logical comparison of functions (PR#13588),52532,michael_karsh at earthlink.net
+052693.html,[Rd] lm function (PR#13608),52693,michael_karsh at earthlink.net
+052795.html,[Rd] no internal function &quot;int.unzip&quot; in R 2.9 on Windows,52795,audrey at ebi.ac.uk
+052798.html,[Rd] no internal function &quot;int.unzip&quot; in R 2.9 on Windows,52798,audrey at ebi.ac.uk
+052371.html,[Rd] R 2.9.0 devel: package installation with configure-args option,52371,ml-it-r-devel at epigenomics.com
+052400.html,[Rd] methods package,52400,ml-it-r-devel at epigenomics.com
+052445.html,[Rd] R 2.9.0 devel: package installation with configure-args option,52445,ml-it-r-devel at epigenomics.com
+052380.html,[Rd] callNextMethod() doesn't pass down arguments,52380,hpages at fhcrc.org
+052386.html,[Rd] &quot;names&lt;-&quot; doesn't raise an error,52386,hpages at fhcrc.org
+052737.html,[Rd] minor tick marks for plots (PR#13616),52737,wiese at gfz-potsdam.de
+052855.html,[Rd] installing RMySQL (PR#13633),52855,ankheedutta at gmail.com
+052724.html,[Rd] v2.8.1 crashes on quit(save=&quot;yes&quot;) or just won't save	(PR#13612),52724,anne.gilman at gmail.com
+052461.html,[Rd] question,52461,ivowel at gmail.com
+052523.html,[Rd] ?as.POSIXct (PR#13587),52523,lbraglia at gmail.com
+052839.html,[Rd] quantile and IQR do not check for numeric input (PR#13631),52839,sgiannerini at gmail.com
+052788.html,[Rd] Write in Table with Schema (PR#13622),52788,michael.herzhoff at hotmail.de
+052848.html,[Rd] if does not covert raw to logical (PR#13630),52848,Waclaw.Marcin.Kusnierczyk at idi.ntnu.no
+052725.html,[Rd] sprintf causes a segfault (PR#13613),52725,waku at idi.ntnu.no
+052750.html,"[Rd] gsub('(.).(.)(.)', '\\3\\2\\1', 'gsub') (PR#13617)",52750,waku at idi.ntnu.no
+052827.html,[Rd] Incorrect behaviour of [.data.frame (PR#13628),52827,waku at idi.ntnu.no
+052828.html,[Rd] Another incorrect behaviour of [.data.frame (PR#13629),52828,waku at idi.ntnu.no
+052831.html,[Rd] if does not covert raw to logical (PR#13630),52831,waku at idi.ntnu.no
+052843.html,[Rd] duplicated fails to rise correct errors (PR#13632),52843,waku at idi.ntnu.no
+052497.html,[Rd] [boot] bootstrap issue when at least one strata has only one	observation (PR#13584),52497,dsoudant at ifremer.fr
+052514.html,[Rd] [boot] bootstrap issue when at least one strata has only one	(PR#13586),52514,dsoudant at ifremer.fr
+052359.html,"[Rd] R does not start on my MacBook Pro3,1 (PR#13565)",52359,marycmeyer at mac.com
+052426.html,[Rd] problem building a package with C code (PR#13572),52426,pfarina at mat.puc.cl
+052815.html,[Rd] Console colors do not stick (PR#13625),52815,laverty at math.utah.edu
+052413.html,[Rd] Typo in extensions manual (PR#13573),52413,therneau at mayo.edu
+052565.html,[Rd] help.search(): &quot;Error in .readRDS(hs_file) : error reading	from connection&quot; (PR#13591),52565,dmaszle at mendelbio.com
+052477.html,[Rd] typo in qpois help (PR#13583),52477,manikandan_narayanan at merck.com
+052825.html,[Rd] read.table on long lines buggy (PR#13626),52825,manikandan_narayanan at merck.com
+052821.html,[Rd] read.table on long lines buggy (PR #13626) (sorry not a	bug!) (PR#13627),52821,manikandan_narayanan at merck.com
+052378.html,[Rd] 'anova.gls' in 'nlme' (PR#13567),52378,richard_raubertas at merck.com
+052745.html,[Rd] multicollinearity,52745,vincze orsolya
+052391.html,[Rd]  problems with nls?,52391,per243
+052749.html,[Rd] all.equal is hard to use,52749,hong shen
+052826.html,[Rd]  prediction in DPpackage,52826,soetzel
+052397.html,[Rd] besselI inaccurate for negative integer order (PR#13556),52397,maechler at stat.math.ethz.ch
+052609.html,[Rd] installed.packages and package info cache buglet (PR#13592),52609,maechler at stat.math.ethz.ch
+052845.html,[Rd] if does not covert raw to logical (PR#13630),52845,maechler at stat.math.ethz.ch
+052392.html,[Rd] bug (PR#13570),52392,rhafen at stat.purdue.edu
+052554.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52554,luke at stat.uiowa.edu
+052581.html,[Rd] E`&lt;`&lt;rrors in recursive default argument references,52581,luke at stat.uiowa.edu
+052646.html,"[Rd] Summer of Code, LLVM, parallelization and R",52646,luke at stat.uiowa.edu
+052655.html,[Rd] Using and 'eval' and environments with active bindings,52655,luke at stat.uiowa.edu
+052350.html,[Rd] Cannot install some packages (PR#13559),52350,ligges at statistik.tu-dortmund.de
+052402.html,[Rd] bug (PR#13570),52402,ligges at statistik.tu-dortmund.de
+052419.html,[Rd] Bug in Rdconv(.pm) (PR#13575),52419,ligges at statistik.tu-dortmund.de
+052422.html,[Rd] (PR#13553) wishlist boxplot,52422,ripley at stats.ox.ac.uk
+052405.html,[Rd] bug (PR#13570),52405,murdoch at stats.uwo.ca
+052447.html,[Rd] bug in summary.aovlist() with split= and (PR#13579),52447,rmh at temple.edu
+052762.html,[Rd] matplot does not considere the parametre lend (PR#13619),52762,cgenolin at u-paris10.fr
+052763.html,[Rd] savePlot export &quot;strange&quot; eps (PR#13620),52763,cgenolin at u-paris10.fr
+052631.html,[Rd] miscomputation (PR#13594),52631,sarmad at um.ac.ir
+052428.html,[Rd] question,52428,ivo welch
+052462.html,[Rd] question,52462,ivo welch
+052699.html,[Rd] R thread safe,52699,hadley wickham
+052864.html,[Rd] Why does the lexical analyzer drop comments ?,52864,hadley wickham
+052873.html,[Rd] what is the preferred method to create a package local	variable?,52873,hadley wickham
+052759.html,[Rd] Error in Package Description (PR#13618),52759,bonner.reed at yale.edu
+052491.html,[Rd] bug of *switch* function,52491,guangchuang yu
+052494.html,[Rd] bug of *switch* function,52494,guangchuang yu

@@ -1,0 +1,65 @@
+link,Subject,id,author
+017658.html,R-alpha: R-beta: hat,17658,Peter Dalgaard BSA
+017661.html,R-alpha: Compiling R with Microsoft Visual C++,17661,Peter Dalgaard BSA
+017670.html,R-alpha: rsept31.zip,17670,Peter Dalgaard BSA
+017678.html,R-alpha: bug in svd,17678,Peter Dalgaard BSA
+017687.html,R-alpha: This weeks bugs and requests for enhancements,17687,Peter Dalgaard BSA
+017694.html,R-alpha: na.woes,17694,Peter Dalgaard BSA
+017700.html,R-alpha: Bug[?] in axis(.) -- using format(.) for labels can give nonsense,17700,Peter Dalgaard BSA
+017713.html,R-alpha: buglet in  return(invisible())  [R 0.50 and 0.60],17713,Peter Dalgaard BSA
+017715.html,R-alpha: Minor plotting problems,17715,Peter Dalgaard BSA
+017716.html,R-alpha: buglet in  return(invisible())  [R 0.50 and 0.60],17716,Peter Dalgaard BSA
+017718.html,R-alpha: nlme in R,17718,Douglas Bates
+017660.html,R-alpha: Compiling R with Microsoft Visual C++,17660,Rob Creecy
+017671.html,"R-alpha: &quot;[.ts&quot; &lt;- function (x, i, j, drop=T)",17671,Paul Gilbert
+017679.html,R-alpha: system(),17679,Paul Gilbert
+017681.html,R-alpha: system() ok,17681,Paul Gilbert
+017683.html,R-alpha: system() NOT ok,17683,Paul Gilbert
+017686.html,R-alpha: on.exit,17686,Paul Gilbert
+017690.html,R-alpha: Re: R-beta: Time Series Analysis,17690,Paul Gilbert
+017691.html,R-alpha: system() ok  --  is.R() function,17691,Paul Gilbert
+017695.html,R-alpha: OStype,17695,Paul Gilbert
+017703.html,R-alpha: Using autoload and smaller 'base' package [was &quot;Re: New Version&quot;].,17703,Paul Gilbert
+017706.html,R-alpha: Using autoload and smaller 'base' package [was &quot;Re: New Version&quot;].,17706,Paul Gilbert
+017674.html,R-alpha: save in Rseptbeta,17674,Christian Hoffmann
+017666.html,R-alpha: keep.order in formulae,17666,Kurt Hornik
+017692.html,R-alpha: system() ok  --  is.R() function,17692,Kurt Hornik
+017696.html,R-alpha: OStype,17696,Kurt Hornik
+017662.html,R-alpha: keep.order in formulae,17662,Ross Ihaka
+017689.html,R-alpha: bug in svd,17689,Ross Ihaka
+017668.html,R-alpha: rsept31.zip,17668,Friedrich Leisch
+017672.html,R-alpha: rsept31.zip,17672,Friedrich Leisch
+017663.html,R-alpha: call_R in fortran,17663,Jim Lindsey
+017708.html,R-alpha: nlme,17708,Jim Lindsey
+017657.html,R-alpha: R-beta: hat,17657,Thomas Lumley
+017684.html,R-alpha: system() NOT ok,17684,Thomas Lumley
+017685.html,R-alpha: offset in glm not working,17685,Thomas Lumley
+017704.html,R-alpha: Using autoload and smaller 'base' package [was &quot;Re: New Version&quot;].,17704,Thomas Lumley
+017705.html,R-alpha: Using autoload and smaller 'base' package [was &quot;Re: New Version&quot;].,17705,Thomas Lumley
+017707.html,R-alpha: Using autoload and smaller 'base' package,17707,Thomas Lumley
+017659.html,"R-alpha: paste problem in TASKS --- yes, I do really want it",17659,Martin Maechler
+017664.html,R-alpha: dump() / dput() -- fail for &quot;environmental&quot; and attributed functions,17664,Martin Maechler
+017665.html,R-alpha: wish:  segments(.) / arrows(.)  should allow an 'lwd = &lt;num&gt;' argument,17665,Martin Maechler
+017667.html,R-alpha: [sboker@calliope.psych.nd.edu: Re: S-PLUS on UNIX plans],17667,Martin Maechler
+017669.html,R-alpha: Bug (since 0.50):  get(name.of.expression)  evaluates,17669,Martin Maechler
+017673.html,R-alpha: extraneous &quot;;&quot; gives  syntax error,17673,Martin Maechler
+017680.html,R-alpha: plot(..... sub = 'sub title')  does not work.,17680,Martin Maechler
+017682.html,R-alpha: system() ok  --  is.R() function,17682,Martin Maechler
+017688.html,R-alpha: Re: problem vith &quot;cmdscale&quot; on W95,17688,Martin Maechler
+017693.html,R-alpha:  tempfile(.) [in 0.50-a4] -- or  use .C() instead?,17693,Martin Maechler
+017697.html,R-alpha: OStype,17697,Martin Maechler
+017698.html,R-alpha: New URL for R-online manual (HTML),17698,Martin Maechler
+017699.html,R-alpha: Bug[?] in axis(.) -- using format(.) for labels can give nonsense,17699,Martin Maechler
+017701.html,R-alpha: Using autoload and smaller 'base' package [was &quot;Re: New Version&quot;].,17701,Martin Maechler
+017709.html,R-alpha: Bug[let] in (internal) print [for a list with dimnames ...].,17709,Martin Maechler
+017710.html,R-alpha: buglet in  return(invisible())  [R 0.50 and 0.60],17710,Martin Maechler
+017711.html,"R-alpha: c(..., a) fails [in a function(x, ...)]",17711,Martin Maechler
+017712.html,R-alpha: names(j) &lt;- NULL  fails for a `call' object,17712,Martin Maechler
+017719.html,R-alpha: Minor plotting problems //  \itemize{..} in *.Rd,17719,Martin Maechler
+017720.html,R-alpha: Minor plotting problems  [improved hist()],17720,Martin Maechler
+017702.html,R-alpha: Using autoload and smaller 'base' package [was &quot;Re: New Version&quot;].,17702,Anthony Rossini
+017714.html,R-alpha: buglet in  return(invisible())  [R 0.50 and 0.60],17714,Luke Tierney
+017717.html,R-alpha: buglet in  return(invisible())  [R 0.50 and 0.60],17717,Luke Tierney
+017675.html,R-alpha: bug in svd,17675,Andreas Weingessel
+017676.html,R-alpha: offset in glm not working,17676,Comblain muriel
+017677.html,R-alpha: offset in glm not working,17677,Comblain muriel

@@ -1,0 +1,218 @@
+link,Subject,id,author
+069542.html,[Rd] Compilation problems,69542,Andr&#233; Z. D. A.
+069543.html,[Rd] Compilation problems,69543,Andr&#233; Z. D. A.
+069555.html,[Rd] Compilation problems,69555,Andr&#233; Z. D. A.
+069584.html,[Rd] Compilation problems,69584,Andr&#233; Z. D. A.
+069606.html,[Rd] as.Date.character suggestion,69606,Andr&#233; Z. D. A.
+069634.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69634,Rui Barradas
+069579.html,[Rd] Request to review a patch for rpart,69579,Gabriel Becker
+069598.html,[Rd] Is using devtools::release no longer allowed?,69598,Gabriel Becker
+069603.html,[Rd] as.Date.character suggestion,69603,Gabriel Becker
+069605.html,[Rd] as.Date.character suggestion,69605,Gabriel Becker
+069650.html,[Rd] dubious behaviour of match.arg() with nested functions.,69650,Gabriel Becker
+069698.html,[Rd] Re R CMD check checking in development version of R,69698,Gabriel Becker
+069700.html,[Rd] Re R CMD check checking in development version of R,69700,Gabriel Becker
+069696.html,[Rd] Re R CMD check checking in development version of R,69696,Henrik Bengtsson
+069505.html,[Rd] Preferred way to include internal data in package?,69505,Charles Berry
+069504.html,[Rd] Preferred way to include internal data in package?,69504,Carl Boettiger
+069591.html,[Rd] Is using devtools::release no longer allowed?,69591,Carl Boettiger
+069489.html,[Rd] modifying a persistent (reference) class,69489,Ross Boylan
+069491.html,[Rd] modifying a persistent (reference) class,69491,Ross Boylan
+069493.html,[Rd] modifying a persistent (reference) class,69493,Ross Boylan
+069495.html,[Rd] modifying a persistent (reference) class,69495,Winston Chang
+069509.html,[Rd] Is it a good idea or even possible to redefine attach?,69509,Winston Chang
+069513.html,[Rd] Is it a good idea or even possible to redefine attach?,69513,Winston Chang
+069552.html,[Rd] Error when assigning value in environment which is a locked	binding,69552,Winston Chang
+069553.html,[Rd] Error when assigning value in environment which is a	locked binding,69553,Winston Chang
+069586.html,[Rd] Is using devtools::release no longer allowed?,69586,Richard Cotton
+069611.html,[Rd] The behaviour of setting names differs between lists and	atomic vectors,69611,Richard Cotton
+069494.html,[Rd] modifying a persistent (reference) class,69494,G&#225;bor Cs&#225;rdi
+069502.html,[Rd] Preferred way to include internal data in package?,69502,G&#225;bor Cs&#225;rdi
+069517.html,[Rd] Subscripting Matrices,69517,G&#225;bor Cs&#225;rdi
+069522.html,"[Rd] portableParalleSeeds Package violation, CRAN exception?",69522,G&#225;bor Cs&#225;rdi
+069511.html,[Rd] More than one package document with the same name,69511,"Davison, Jerry"
+069523.html,"[Rd] portableParalleSeeds Package violation, CRAN exception?",69523,William Dunlap
+069559.html,"[Rd] RFC: diag(x, n) not preserving integer and logical x",69559,William Dunlap
+069635.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69635,William Dunlap
+069637.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69637,William Dunlap
+069515.html,[Rd] Can't use custom package on windows 64-bit,69515,Dirk Eddelbuettel
+069588.html,[Rd] Is using devtools::release no longer allowed?,69588,Dirk Eddelbuettel
+069590.html,[Rd] Is using devtools::release no longer allowed?,69590,Dirk Eddelbuettel
+069597.html,[Rd] Is using devtools::release no longer allowed?,69597,Dirk Eddelbuettel
+069662.html,[Rd] working with huge memory: single precision?,69662,Mario Emmenlauer
+069514.html,[Rd] Can't use custom package on windows 64-bit,69514,Evan Farrell
+069497.html,[Rd] listof,69497,Michael Friendly
+069659.html,[Rd] no visible binding for global variable for data sets in a	package,69659,Michael Friendly
+069666.html,[Rd] no visible binding for global variable for data sets in a package,69666,Michael Friendly
+069670.html,[Rd] no visible binding for global variable for data sets in a	package,69670,Michael Friendly
+069674.html,[Rd] no visible binding for global variable for data sets in a package,69674,Michael Friendly
+069702.html,[Rd] Re R CMD check checking in development version of R,69702,Paul Gilbert
+069645.html,[Rd] Why R-project source code is not on Github,69645,Spencer Graves
+069534.html,[Rd] How to (appropropriately) use require in a package?,69534,Chris Green
+069701.html,[Rd] Re R CMD check checking in development version of R,69701,Gabor Grothendieck
+069565.html,[Rd] Define 'in' for new class,69565,Bert Gunter
+069694.html,[Rd] Re R CMD check checking in development version of R,69694,Bert Gunter
+069593.html,[Rd] Is using devtools::release no longer allowed?,69593,Kasper Daniel Hansen
+069653.html,[Rd] dubious behaviour of match.arg() with nested functions.,69653,Berend Hasselman
+069704.html,[Rd] Typo in doc/html/about.html,69704,Berend Hasselman
+069574.html,[Rd] `*tmp*`,69574,Michael Haupt
+069576.html,[Rd] `*tmp*`,69576,Michael Haupt
+069632.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69632,Marius Hofert
+069639.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69639,Marius Hofert
+069641.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69641,Marius Hofert
+069516.html,[Rd] Subscripting Matrices,69516,Terrence Ireland
+069616.html,[Rd] Is using devtools::release no longer allowed?,69616,Geoff Jentry
+069520.html,"[Rd] portableParalleSeeds Package violation, CRAN exception?",69520,Paul Johnson
+069499.html,[Rd] Preferred way to include internal data in package?,69499,"Keirstead, James E"
+069501.html,[Rd] Preferred way to include internal data in package?,69501,"Keirstead, James E"
+069561.html,[Rd] Define 'in' for new class,69561,Simon Knapp
+069642.html,[Rd] [patch] Add support for editor function in edit.default,69642,Scott Kostyshak
+069529.html,[Rd] R process (and forked children via system2) are limited to 1	core?,69529,Tom Kraljevic
+069524.html,[Rd] R process (and forked children via system2) are limited to 1	core?,69524,Tom Kraljevic
+069526.html,[Rd] R process (and forked children via system2) are limited to	1 core?,69526,Tom Kraljevic
+069528.html,[Rd] R process (and forked children via system2) are limited to	1 core?,69528,Tom Kraljevic
+069566.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69566,"Kuhn, Max"
+069625.html,[Rd] markdown vignette with the vignette command,69625,Leo Lahti
+069627.html,[Rd] markdown vignette with the vignette command,69627,Leo Lahti
+069629.html,[Rd] markdown vignette with the vignette command,69629,Leo Lahti
+069600.html,[Rd] as.Date.character suggestion,69600,Peter Langfelder
+069602.html,[Rd] as.Date.character suggestion,69602,Peter Langfelder
+069604.html,[Rd] as.Date.character suggestion,69604,Peter Langfelder
+069532.html,"[Rd] portableParalleSeeds Package violation, CRAN exception?",69532,Michael Lawrence
+069541.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar	cghseg hexbin lgtdl monreg muhaz operators pamr,69541,Hin-Tak Leung
+069540.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69540,Uwe Ligges
+069567.html,[Rd] Looking for new maintainer of orphans R2HTML SemiPar cghseg hexbin lgtdl monreg muhaz operators pamr,69567,Uwe Ligges
+069589.html,[Rd] Is using devtools::release no longer allowed?,69589,Uwe Ligges
+069599.html,[Rd] Is using devtools::release no longer allowed?,69599,Uwe Ligges
+069683.html,[Rd] Re R CMD check checking in development version of R,69683,Uwe Ligges
+069488.html,[Rd] Conversion for Date to POSIXct : Small Bug in as.POSIXct.Date() ?,69488,"Lizee, Antoine"
+069663.html,"[Rd] R, OSX, should creating SVGs request XQuartz",69663,Jonathon Love
+069594.html,[Rd] capture.output on S4 slot,69594,Thomas Lumley
+069531.html,"[Rd] RFC: diag(x, n)  not preserving integer and logical x",69531,Martin Maechler
+069556.html,"[Rd] RFC: diag(x, n)  not preserving integer and logical x",69556,Martin Maechler
+069624.html,"[Rd] Inconsistent handling of data frames in min(), max(),	and mean()",69624,Martin Maechler
+069651.html,[Rd] The behaviour of setting names differs between lists	and	atomic vectors,69651,Martin Maechler
+069660.html,[Rd] no visible binding for global variable for data sets in	a	package,69660,Martin Maechler
+069688.html,[Rd] no visible binding for global variable for data sets in a	package,69688,Martin Maechler
+069703.html,[Rd] Unfixed bugs in latest R-patched,69703,Martin Maechler
+069665.html,[Rd] no visible binding for global variable for data sets in	a	package,69665,John Maindonald
+069512.html,[Rd] More than one package document with the same name,69512,John McKown
+069581.html,[Rd] `*tmp*`,69581,Peter Meilstrup
+069648.html,[Rd] dubious behaviour of match.arg() with nested functions.,69648,Joris Meys
+069657.html,[Rd] dubious behaviour of match.arg() with nested functions.,69657,Joris Meys
+069689.html,[Rd] Re R CMD check checking in development version of R,69689,Martin Morgan
+069691.html,[Rd] Re R CMD check checking in development version of R,69691,Martin Morgan
+069539.html,"[Rd] RFC: diag(x, n)  not preserving integer and logical x",69539,Duncan Murdoch
+069563.html,"[Rd] RFC: diag(x, n)  not preserving integer and logical x",69563,Duncan Murdoch
+069578.html,[Rd] Package manual Tex file,69578,Duncan Murdoch
+069583.html,[Rd] Package manual Tex file,69583,Duncan Murdoch
+069587.html,[Rd] Is using devtools::release no longer allowed?,69587,Duncan Murdoch
+069592.html,[Rd] Is using devtools::release no longer allowed?,69592,Duncan Murdoch
+069601.html,[Rd] as.Date.character suggestion,69601,Duncan Murdoch
+069612.html,[Rd] The behaviour of setting names differs between lists and atomic vectors,69612,Duncan Murdoch
+069626.html,[Rd] markdown vignette with the vignette command,69626,Duncan Murdoch
+069628.html,[Rd] markdown vignette with the vignette command,69628,Duncan Murdoch
+069530.html,[Rd] UTC time zone on Windows,69530,Kirill M&#252;ller
+069569.html,[Rd] Request to review a patch for rpart,69569,Kirill M&#252;ller
+069573.html,[Rd] UTC time zone on Windows,69573,Kirill M&#252;ller
+069580.html,[Rd] Request to review a patch for rpart,69580,Kirill M&#252;ller
+069560.html,"[Rd] diag(x, n) not preserving integer and logical x",69560,Radford Neal
+069500.html,[Rd] Preferred way to include internal data in package?,69500,Jeroen Ooms
+069503.html,[Rd] Preferred way to include internal data in package?,69503,Jeroen Ooms
+069547.html,[Rd] How to redefine `require' to generate a warning and delegate work to the original require?,69547,Jeroen Ooms
+069572.html,[Rd] Compilation problems,69572,Jeroen Ooms
+069596.html,[Rd] Is using devtools::release no longer allowed?,69596,Jeroen Ooms
+069644.html,[Rd] Why R-project source code is not on Github,69644,Jeroen Ooms
+069654.html,[Rd] vignette index going AWOL,69654,Randall Pruim
+069656.html,[Rd] vignette index going AWOL,69656,Randall Pruim
+069506.html,[Rd] Minor documentation change for assign,69506,Grant Rettke
+069507.html,[Rd] Is it a good idea or even possible to redefine attach?,69507,Grant Rettke
+069510.html,[Rd] Is it a good idea or even possible to redefine attach?,69510,Grant Rettke
+069544.html,[Rd] Is it a good idea or even possible to redefine attach?,69544,Grant Rettke
+069545.html,[Rd] Is it a good idea or even possible to redefine attach?,69545,Grant Rettke
+069546.html,[Rd] How to redefine `require' to generate a warning and delegate work to the original require?,69546,Grant Rettke
+069548.html,[Rd] &quot;Fastest&quot; way to merge 300+ .5MB dataframes?,69548,Grant Rettke
+069550.html,[Rd] &quot;Fastest&quot; way to merge 300+ .5MB dataframes?,69550,Grant Rettke
+069551.html,[Rd] How to redefine `require' to generate a warning and delegate work to the original require?,69551,Grant Rettke
+069519.html,[Rd] Can't use custom package on windows 64-bit,69519,Prof Brian Ripley
+069536.html,[Rd] How to (appropropriately) use require in a package?,69536,Prof Brian Ripley
+069623.html,[Rd] [R-devel] what are labels in struct sxpinfo_struct from Rinternals.h mean?,69623,Prof Brian Ripley
+069640.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69640,Prof Brian Ripley
+069669.html,[Rd] working with huge memory: single precision?,69669,Prof Brian Ripley
+069673.html,[Rd] no visible binding for global variable for data sets in a package,69673,Prof Brian Ripley
+069490.html,[Rd] modifying a persistent (reference) class,69490,Brian Lee Yung Rowe
+069492.html,[Rd] modifying a persistent (reference) class,69492,Brian Lee Yung Rowe
+069570.html,[Rd] Compilation problems,69570,Brian Lee Yung Rowe
+069595.html,[Rd] Is using devtools::release no longer allowed?,69595,Brian Lee Yung Rowe
+069646.html,[Rd] Why R-project source code is not on Github,69646,Brian Lee Yung Rowe
+069610.html,[Rd] Why R-project source code is not on Github,69610,Barry Rowlingson
+069687.html,[Rd] Re R CMD check checking in development version of R,69687,Barry Rowlingson
+069622.html,[Rd] [R-devel] what are labels in struct sxpinfo_struct from Rinternals.h mean?,69622,PO SU
+069518.html,[Rd] Subscripting Matrices,69518,Marc Schwartz
+069609.html,[Rd] Why R-project source code is not on Github,69609,Marc Schwartz
+069608.html,[Rd] Why R-project source code is not on Github,69608,Gaurav Sehrawat
+069643.html,[Rd] Why R-project source code is not on Github,69643,Gaurav Sehrawat
+069620.html,"[Rd] Inconsistent handling of data frames in min(), max(),	and mean()",69620,Gavin Simpson
+069631.html,"[Rd] Inconsistent handling of data frames in min(), max(),	and mean()",69631,Gavin Simpson
+069678.html,[Rd] Re R CMD check checking in development version of R,69678,Gavin Simpson
+069680.html,[Rd] Re R CMD check checking in development version of R,69680,Gavin Simpson
+069682.html,[Rd] Re R CMD check checking in development version of R,69682,Gavin Simpson
+069684.html,[Rd] Re R CMD check checking in development version of R,69684,Gavin Simpson
+069686.html,[Rd] Re R CMD check checking in development version of R,69686,Gavin Simpson
+069697.html,[Rd] Re R CMD check checking in development version of R,69697,Gavin Simpson
+069699.html,[Rd] Re R CMD check checking in development version of R,69699,Gavin Simpson
+069630.html,[Rd] How to (appropropriately) use require in a package?,69630,Henrik Singmann
+069525.html,[Rd] R process (and forked children via system2) are limited to	1 core?,69525,Nathaniel Smith
+069527.html,[Rd] R process (and forked children via system2) are limited to	1 core?,69527,Nathaniel Smith
+069498.html,"[Rd] abs, dots and an S4 method.",69498,Sven E. Templer
+069521.html,[Rd] More than one package document with the same name,69521,Dan Tenenbaum
+069681.html,[Rd] Re R CMD check checking in development version of R,69681,Dan Tenenbaum
+069585.html,[Rd] patch for rpart,69585,"Therneau, Terry M., Ph.D."
+069692.html,[Rd] no visible binding for global variable for data sets in a	package,69692,"Therneau, Terry M., Ph.D."
+069538.html,[Rd] could not find function &quot;anyNA&quot; when building tools package in R 3.1.1,69538,Benjamin Tyner
+069571.html,[Rd] could not find function &quot;anyNA&quot; when building tools package in R 3.1.1,69571,Benjamin Tyner
+069549.html,[Rd] &quot;Fastest&quot; way to merge 300+ .5MB dataframes?,69549,Joshua Ulrich
+069558.html,[Rd] Error when assigning value in environment which is a	locked binding,69558,Simon Urbanek
+069619.html,[Rd] Why R-project source code is not on Github,69619,Simon Urbanek
+069647.html,[Rd] Why R-project source code is not on Github,69647,Simon Urbanek
+069667.html,[Rd] working with huge memory: single precision?,69667,Simon Urbanek
+069668.html,"[Rd] R, OSX, should creating SVGs request XQuartz",69668,Simon Urbanek
+069693.html,[Rd] Re R CMD check checking in development version of R,69693,Simon Urbanek
+069577.html,[Rd] Package manual Tex file,69577,Axel Urbiz
+069582.html,[Rd] Package manual Tex file,69582,Axel Urbiz
+069655.html,[Rd] vignette index going AWOL,69655,Kevin Ushey
+069695.html,[Rd] Re R CMD check checking in development version of R,69695,Ravi Varadhan
+069633.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69633,Tobias Verbeke
+069615.html,[Rd] Is using devtools::release no longer allowed?,69615,Hadley Wickham
+069618.html,[Rd] Is using devtools::release no longer allowed?,69618,Hadley Wickham
+069649.html,[Rd] dubious behaviour of match.arg() with nested functions.,69649,Hadley Wickham
+069672.html,[Rd] no visible binding for global variable for data sets in a	package,69672,Hadley Wickham
+069675.html,[Rd] no visible binding for global variable for data sets in a	package,69675,Hadley Wickham
+069679.html,[Rd] Re R CMD check checking in development version of R,69679,Hadley Wickham
+069685.html,[Rd] Re R CMD check checking in development version of R,69685,Hadley Wickham
+069690.html,[Rd] Re R CMD check checking in development version of R,69690,Hadley Wickham
+069533.html,[Rd] How to (appropropriately) use require in a package?,69533,Joshua Wiley
+069535.html,[Rd] How to (appropropriately) use require in a package?,69535,Joshua Wiley
+069537.html,[Rd] How to (appropropriately) use require in a package?,69537,Joshua Wiley
+069664.html,[Rd] no visible binding for global variable for data sets in a	package,69664,Joshua Wiley
+069636.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd,	TRUE) : error in running command",69636,David Winsemius
+069496.html,[Rd] Parsing and deparsing of escaped unicode characters,69496,Yihui Xie
+069621.html,[Rd] Why R-project source code is not on Github,69621,Yihui Xie
+069508.html,[Rd] Is it a good idea or even possible to redefine attach?,69508,Ista Zahn
+069638.html,"[Rd] parallel::detectCores(TRUE) gives: Error in system(cmd, TRUE) : error in running command",69638,Mauricio Zambrano-Bigiarini
+069554.html,[Rd] Compilation problems,69554,peter dalgaard
+069557.html,[Rd] Compilation problems,69557,peter dalgaard
+069562.html,[Rd] Define 'in' for new class,69562,peter dalgaard
+069564.html,[Rd] Compilation problems,69564,peter dalgaard
+069568.html,[Rd] Compilation problems,69568,peter dalgaard
+069607.html,[Rd] as.Date.character suggestion,69607,peter dalgaard
+069613.html,[Rd] as.Date.character suggestion,69613,peter dalgaard
+069614.html,[Rd] The behaviour of setting names differs between lists and	atomic vectors,69614,peter dalgaard
+069652.html,[Rd] dubious behaviour of match.arg() with nested functions.,69652,peter dalgaard
+069661.html,[Rd] no visible binding for global variable for data sets in a	package,69661,peter dalgaard
+069671.html,[Rd] no visible binding for global variable for data sets in a	package,69671,peter dalgaard
+069676.html,[Rd] no visible binding for global variable for data sets in a	package,69676,peter dalgaard
+069677.html,[Rd] no visible binding for global variable for data sets in a	package,69677,peter dalgaard
+069575.html,[Rd] `*tmp*`,69575,luke-tierney at uiowa.edu
+069617.html,[Rd] Is using devtools::release no longer allowed?,69617,luke-tierney at uiowa.edu
+069658.html,[Rd] `*tmp*`,69658,luke-tierney at uiowa.edu

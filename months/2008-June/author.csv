@@ -1,0 +1,266 @@
+link,Subject,id,author
+050046.html,[Rd] version stamp details missing on current checkout,50046,Vincent Carey 525-2265
+050049.html,[Rd] version stamp details missing on current checkout,50049,Vincent Carey 525-2265
+049970.html,[Rd] arima() bug,49970,"Antonio, Fabio Di Narzo"
+049923.html,[Rd] R-code embedded in VBE -- Type mismatch errors,49923,Thomas Baier
+049921.html,[Rd] Issue with NA value and Octave compatibility,49921,David Bateman
+050050.html,[Rd] Issue with NA value and Octave compatibility,50050,David Bateman
+050028.html,[Rd] R truncated regularized iteratively re-weighted	least	squares (TR-IRLS),50028,Simon Blomberg
+049898.html,[Rd] sd function (PR#11586),49898,Ben Bolker
+050013.html,[Rd] strsplit and the empty string,50013,Christian Brechb&#252;hler
+049969.html,[Rd] arima() bug,49969,Ray Brownrigg
+049993.html,[Rd] c.noquote() weirdness,49993,Ray Brownrigg
+049922.html,[Rd] R and Gnumeric,49922,Jean Br&#233;fort
+049837.html,[Rd] significant digits (PR#9682),49837,Patrick Carr
+049839.html,[Rd] significant digits (PR#9682),49839,Patrick Carr
+049806.html,"[Rd] NAMESPACE &amp; methods guidance, please",49806,John Chambers
+049810.html,"[Rd] NAMESPACE &amp; methods guidance, please",49810,John Chambers
+049811.html,[Rd] Revised help pages for methods package,49811,John Chambers
+049914.html,"[Rd] slot(obj, &quot;nosuch&quot;) documentation question",49914,John Chambers
+049933.html,[Rd] R CMD CHECK WARNING inappropriate for S4 method?,49933,John Chambers
+049942.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49942,John Chambers
+049945.html,[Rd] show vs print (Re: Error in &quot;getClass&quot; when calling the function &quot;show&quot;),49945,John Chambers
+049963.html,[Rd] Routine and Deep testing with R CMD check,49963,Kevin R. Coombes
+050002.html,[Rd] bug with function seq() (PR#11705),50002,Gabor Csardi
+050027.html,[Rd] R truncated regularized iteratively re-weighted least squares	(TR-IRLS),50027,DS
+049927.html,[Rd] R and Gnumeric,49927,Peter Dalgaard
+049972.html,[Rd]  2.7.1 scheduled for November 26,49972,Peter Dalgaard
+049973.html,[Rd]  2.7.1 scheduled for JUNE 23,49973,Peter Dalgaard
+050047.html,[Rd] version stamp details missing on current checkout,50047,Peter Dalgaard
+050066.html,[Rd] get ...,50066,Peter Dalgaard
+049862.html,[Rd] Splus/R typedef for C equivalent of S &quot;integer&quot;,49862,Bill Dunlap
+049864.html,[Rd] Splus/R typedef for C equivalent of S &quot;integer&quot;,49864,Bill Dunlap
+049965.html,[Rd] Routine and Deep testing with R CMD check,49965,Bill Dunlap
+049966.html,[Rd] read.table() causes segfault with incorrect data (PR#11627),49966,Bill Dunlap
+049968.html,[Rd] Routine and Deep testing with R CMD check,49968,Bill Dunlap
+049975.html,[Rd] arima() bug,49975,Bill Dunlap
+049984.html,[Rd] how to install header files in package,49984,Bill Dunlap
+049826.html,[Rd] benchmarking R installations,49826,Dirk Eddelbuettel
+049871.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49871,Dirk Eddelbuettel
+049883.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49883,Dirk Eddelbuettel
+049885.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49885,Dirk Eddelbuettel
+049912.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49912,Dirk Eddelbuettel
+049956.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49956,Dirk Eddelbuettel
+049959.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49959,Dirk Eddelbuettel
+049979.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49979,Dirk Eddelbuettel
+049983.html,[Rd] how to install header files in package,49983,Dirk Eddelbuettel
+050009.html,[Rd] embedding R in c++ (Qt) application,50009,Dirk Eddelbuettel
+050023.html,[Rd] embedding R in c++ (Qt) application,50023,Dirk Eddelbuettel
+050026.html,[Rd] Minor configure bug in R 2.7.1-rc,50026,Dirk Eddelbuettel
+050031.html,[Rd] r-base build: failure to convert R-FAQ to pdf,50031,Dirk Eddelbuettel
+049821.html,[Rd] Request: Documentation of formulae,49821,S Ellison
+049827.html,[Rd] savePlot() no longer automatically adds an extension to	the	filename.,49827,S Ellison
+049853.html,[Rd] savePlot() no longer automatically adds an extension	to	the	filename.,49853,S Ellison
+049854.html,[Rd] savePlot() no longer automatically adds an	extension	to	the	filename.,49854,S Ellison
+050041.html,[Rd] huge data?,50041,Jay Emerson
+049808.html,"[Rd] NAMESPACE &amp; methods guidance, please",49808,Seth Falcon
+049861.html,[Rd] RSQLite bug fix for install with icc,49861,Seth Falcon
+049947.html,[Rd] RSQLite 0.6-9 uploaded to CRAN [was: RSQLite bug fix for	install	with icc],49947,Seth Falcon
+049986.html,[Rd] how to install header files in package,49986,Seth Falcon
+049911.html,[Rd] Makevars or congiure for multi platforms,49911,Laurent Gautier
+049937.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49937,Laurent Gautier
+049939.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49939,Laurent Gautier
+049941.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49941,Laurent Gautier
+050068.html,"[Rd] Embedded R, last errormessage, and stack smashing",50068,Laurent Gautier
+049873.html,[Rd] qf with infinite df,49873,Simone Giannerini
+049877.html,[Rd] qf with infinite df,49877,Simone Giannerini
+049974.html,[Rd] arima() bug,49974,Simone Giannerini
+049987.html,[Rd] compiling 2.7.0 GNU/Linux | BLAS &amp; Lapack query,49987,Simone Giannerini
+049893.html,[Rd] Testing development code?,49893,Spencer Graves
+049897.html,[Rd] Testing development code?,49897,Spencer Graves
+049919.html,[Rd] eigenvector dimname convention?,49919,Spencer Graves
+049995.html,[Rd] Execute expr with a timeout?,49995,Philippe Grosjean
+049997.html,[Rd] Execute expr with a timeout?,49997,Philippe Grosjean
+049829.html,[Rd] savePlot() no longer automatically adds an extension to	the filename.,49829,Gabor Grothendieck
+049848.html,[Rd] savePlot() no longer automatically adds an extension to	the filename.,49848,Gabor Grothendieck
+049891.html,[Rd] Posting Guide,49891,Gabor Grothendieck
+049904.html,[Rd] Posting Guide,49904,Gabor Grothendieck
+049907.html,[Rd] Posting Guide,49907,Gabor Grothendieck
+049929.html,[Rd] Posting Guide - help.request() function?,49929,Gabor Grothendieck
+050065.html,[Rd] get ...,50065,Gabor Grothendieck
+050062.html,[Rd] RBGL not compiling on Debian Lenny with c++ (Debian	4.3.1-2) 4.3.1,50062,Kasper Daniel Hansen
+050010.html,[Rd] error with solveLP(linprog) (PR#11721),50010,Arne Henningsen
+050011.html,[Rd] HTML help solveLP(linprog) (PR#11250),50011,Arne Henningsen
+049958.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49958,Paul Hewson
+049869.html,[Rd] prevent `R CMD INSTALL' from reading  `.Rprofile',49869,Joerg van den Hoff
+049872.html,[Rd] prevent `R CMD INSTALL' from reading  `.Rprofile',49872,Joerg van den Hoff
+049886.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49886,Jeffrey Horner
+049852.html,[Rd] significant digits (PR#9682),49852,Karl Ove Hufthammer
+049815.html,"[Rd] More information on R segfaults, tcltk package,	and graphics devices",49815,Erik Iverson
+049889.html,[Rd] Error Message (PR#11602),49889,Erik Iverson
+049892.html,[Rd] Makevars or congiure for multi platforms,49892,Tadashi Kadowaki
+049913.html,[Rd] Makevars or congiure for multi platforms,49913,Tadashi Kadowaki
+049931.html,[Rd] Makevars or congiure for multi platforms,49931,Tadashi Kadowaki
+049946.html,[Rd] Makevars or congiure for multi platforms,49946,Tadashi Kadowaki
+049961.html,[Rd] Makevars or congiure for multi platforms,49961,Tadashi Kadowaki
+049807.html,[Rd] suggested addition to fft man page,49807,Hiroyuki Kawakatsu
+049859.html,[Rd] permsn incorrect when x==m (library: prob) (PR#11571),49859,G. Jay Kerns
+049813.html,[Rd] configure.args from install.packages passed on to subsequent	update.packages?,49813,Mark Kimpel
+049814.html,[Rd] benchmarking R installations,49814,Mark Kimpel
+049825.html,[Rd] benchmarking R installations,49825,Mark Kimpel
+049842.html,[Rd] benchmarking R installations,49842,Mark Kimpel
+049846.html,[Rd] benchmarking R installations,49846,Mark Kimpel
+049867.html,[Rd] RSQLite bug fix for install with icc,49867,Mark Kimpel
+049951.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49951,Mark Kimpel
+049976.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49976,Mark Kimpel
+049980.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49980,Mark Kimpel
+050061.html,[Rd] RBGL not compiling on Debian Lenny with c++ (Debian 4.3.1-2)	4.3.1,50061,Mark Kimpel
+049901.html,[Rd] Fail to call AC_CACHE_CHECK on R 2.7.0 for Solaris,49901,Dr. David Kirkby
+049903.html,[Rd] Fail to call AC_CACHE_CHECK on R 2.7.0 for Solaris,49903,Dr. David Kirkby
+049917.html,[Rd] SHLIB_CXXLDFLAGS needs quotes on Solaris section of admin	manual.,49917,Dr. David Kirkby
+049918.html,[Rd] SHLIB_CXXLDFLAGS needs quotes on Solaris section of admin	manual.,49918,Dr. David Kirkby
+049820.html,[Rd] R CMD check in R 2.8.0 checks also .svn folder,49820,Matthias Kohl
+049982.html,[Rd] how to install header files in package,49982,Kjell Konis
+049988.html,[Rd] how to install header files in package,49988,Kjell Konis
+050008.html,[Rd] strsplit and the empty string,50008,Wacek Kusnierczyk
+050016.html,[Rd] strsplit and the empty string,50016,Wacek Kusnierczyk
+049865.html,[Rd] is() and S3 classes,49865,Michael Lawrence
+049866.html,[Rd] is() and S3 classes,49866,Michael Lawrence
+049950.html,[Rd] show vs print (Re: Error in &quot;getClass&quot; when calling the	function &quot;show&quot;),49950,Michael Lawrence
+049816.html,[Rd] Request: Documentation of formulae,49816,Martin Maechler
+049843.html,[Rd] benchmarking R installations,49843,Martin Maechler
+049875.html,[Rd] qf with infinite df,49875,Martin Maechler
+049910.html,[Rd] doc buglet / as.Date method,49910,Martin Maechler
+049936.html,[Rd] Posting Guide - help.request() function?,49936,Martin Maechler
+049943.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49943,Martin Maechler
+049960.html,[Rd] Posting Guide - help.request() function?,49960,Martin Maechler
+050048.html,[Rd] version stamp details missing on current checkout,50048,Martin Maechler
+050053.html,[Rd] plot(type=&quot;l&quot;) disjoint between 100 and 101st datapoint,50053,Richard Martin
+050059.html,[Rd] plot(type=&quot;l&quot;) disjoint between 100 and 101st datapoint,50059,Richard Martin
+050060.html,[Rd] plot(type=&quot;l&quot;) disjoint between 100 and 101st datapoint,50060,Richard Martin
+049896.html,[Rd] Posting Guide,49896,Steven McKinney
+050017.html,[Rd] problem with personal library (R_LIBS_USER) when R_LIBS is defined (patch),50017,Luc Menut
+049915.html,[Rd] R CMD CHECK WARNING inappropriate for S4 method?,49915,Martin Morgan
+049916.html,"[Rd] slot(obj, &quot;nosuch&quot;) documentation question",49916,Martin Morgan
+049935.html,[Rd] R CMD CHECK WARNING inappropriate for S4 method?,49935,Martin Morgan
+049978.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49978,Martin Morgan
+049822.html,[Rd] significant digits (PR#9682),49822,Duncan Murdoch
+049823.html,[Rd] Request: Documentation of formulae,49823,Duncan Murdoch
+049831.html,[Rd] significant digits (PR#9682),49831,Duncan Murdoch
+049832.html,[Rd] savePlot() no longer automatically adds an extension to the	filename.,49832,Duncan Murdoch
+049835.html,[Rd] significant digits (PR#9682),49835,Duncan Murdoch
+049844.html,[Rd] significant digits (PR#9682),49844,Duncan Murdoch
+049845.html,[Rd] savePlot() no longer automatically adds an extension to the	filename.,49845,Duncan Murdoch
+049850.html,[Rd] savePlot() no longer automatically adds an extension to the	filename.,49850,Duncan Murdoch
+049851.html,[Rd] savePlot() no longer automatically adds an extension to the filename.,49851,Duncan Murdoch
+049860.html,[Rd] Enter key in data editor bombs program in MDI (PR#11579),49860,Duncan Murdoch
+049894.html,[Rd] Testing development code?,49894,Duncan Murdoch
+050000.html,[Rd] R crashing (PR#11702),50000,Duncan Murdoch
+050001.html,[Rd] bug with function seq() (PR#11705),50001,Duncan Murdoch
+050030.html,[Rd] trivial typo ?title,50030,Duncan Murdoch
+050039.html,[Rd] R 2.7.1 und WinEdt (PR#11806),50039,Duncan Murdoch
+050040.html,[Rd] tiff() causes R to crash on WinXP (PR#11804),50040,Duncan Murdoch
+050042.html,[Rd] tiff() causes R to crash on WinXP (PR#11804),50042,Duncan Murdoch
+049900.html,[Rd] Posting Guide,49900,Sean O'Riordain
+049924.html,"[Rd] Questions about building R extensions from C, data/ and man/,	sbml file",49924,Hang PHAN
+049926.html,"[Rd] Questions about building R extensions from C,	data/ and man/, sbml file",49926,Hang PHAN
+049819.html,[Rd] benchmarking R installations,49819,Ludo Pagie
+049849.html,[Rd] savePlot() no longer automatically adds an extension to	the	filename.,49849,Michael Prager
+049812.html,[Rd] Request: Documentation of formulae,49812,Mike Prager
+049824.html,[Rd] Request: Documentation of formulae,49824,Mike Prager
+049830.html,[Rd] savePlot() no longer automatically adds an extension to	the	filename.,49830,Mike Prager
+050012.html,[Rd] Question about Node Classes,50012,subramanian R
+050034.html,[Rd] Using Huge Pages for R,50034,subramanian R
+050035.html,[Rd] huge data?,50035,subramanian R
+050052.html,[Rd] Problem in conditional looping,50052,Mathieu Ribatet
+049855.html,[Rd] significant digits (PR#9682),49855,Prof Brian Ripley
+049863.html,[Rd] Splus/R typedef for C equivalent of S &quot;integer&quot;,49863,Prof Brian Ripley
+049874.html,[Rd] qf with infinite df,49874,Prof Brian Ripley
+049882.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49882,Prof Brian Ripley
+049884.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49884,Prof Brian Ripley
+049895.html,[Rd] Testing development code?,49895,Prof Brian Ripley
+049899.html,[Rd] Testing development code?,49899,Prof Brian Ripley
+049902.html,[Rd] Fail to call AC_CACHE_CHECK on R 2.7.0 for Solaris,49902,Prof Brian Ripley
+049920.html,[Rd] Makevars or congiure for multi platforms,49920,Prof Brian Ripley
+049925.html,"[Rd] Questions about building R extensions from C, data/ and man/, sbml file",49925,Prof Brian Ripley
+049932.html,[Rd] Makevars or congiure for multi platforms,49932,Prof Brian Ripley
+049938.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49938,Prof Brian Ripley
+049940.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49940,Prof Brian Ripley
+049944.html,[Rd] Error in &quot;getClass&quot; when calling the function &quot;show&quot;,49944,Prof Brian Ripley
+049952.html,[Rd] Makevars or congiure for multi platforms,49952,Prof Brian Ripley
+049967.html,[Rd] Routine and Deep testing with R CMD check,49967,Prof Brian Ripley
+049971.html,[Rd] arima() bug,49971,Prof Brian Ripley
+049989.html,[Rd] how to install header files in package,49989,Prof Brian Ripley
+049991.html,[Rd] compiling 2.7.0 GNU/Linux | BLAS &amp; Lapack query,49991,Prof Brian Ripley
+049992.html,[Rd] arima() bug,49992,Prof Brian Ripley
+049994.html,[Rd] c.noquote() weirdness,49994,Prof Brian Ripley
+049996.html,[Rd] Execute expr with a timeout?,49996,Prof Brian Ripley
+050005.html,"[Rd] tiff(), jpeg(), and png() in R 2.7.0: problems if 'units = &quot;in&quot;' but default height and width",50005,Prof Brian Ripley
+050057.html,[Rd] plot(type=&quot;l&quot;) disjoint between 100 and 101st datapoint,50057,Prof Brian Ripley
+049879.html,[Rd] doc buglet / as.Date method,49879,Paul Roebuck
+049908.html,"[Rd] slot(obj, &quot;nosuch&quot;) documentation question",49908,Paul Roebuck
+050033.html,[Rd] doc buglet / dim method,50033,Paul Roebuck
+049856.html,[Rd]  An issue happens Embed R and redirt png file,49856,Rongrong
+049964.html,[Rd] Routine and Deep testing with R CMD check,49964,Jeff Ryan
+050051.html,[Rd] Problem in conditional looping,50051,Nadeem Shafique
+050007.html,[Rd] example() and &quot;ask&quot;,50007,Gavin Simpson
+050015.html,[Rd] bug in (and patch for) example preserving device 'ask' state	[Was	Re: example() and &quot;ask&quot;],50015,Gavin Simpson
+050044.html,[Rd] Patch for minor typo in legend.Rd,50044,Gavin Simpson
+049906.html,[Rd] Posting Guide,49906,Charilaos Skiadas
+049977.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49977,Oleg Sklyar
+049955.html,[Rd] Rmpi segfault after install on Ubuntu Hardy Heron,49955,"Sklyar, Oleg (MI London)"
+050054.html,[Rd] plot(type=&quot;l&quot;) disjoint between 100 and 101st datapoint,50054,"Sklyar, Oleg (MI London)"
+050055.html,[Rd] plot(type=&quot;l&quot;) disjoint between 100 and 101st datapoint,50055,"Sklyar, Oleg (MI London)"
+050022.html,[Rd] unix.time() scoping problem (PR#11169),50022,Luke Tierney
+050069.html,[Rd] get ...,50069,Luke Tierney
+050032.html,[Rd] r-base build: failure to convert R-FAQ to pdf,50032,Cesare Tirabassi
+049928.html,[Rd] Posting Guide - help.request() function?,49928,Dr Heather Turner
+049930.html,[Rd] Posting Guide - help.request() function?,49930,Dr Heather Turner
+049957.html,[Rd] Posting Guide - help.request() function?,49957,Dr Heather Turner
+049828.html,[Rd] benchmarking R installations,49828,Simon Urbanek
+049833.html,[Rd] significant digits (PR#9682),49833,Simon Urbanek
+049840.html,[Rd] significant digits (PR#9682),49840,Simon Urbanek
+049847.html,[Rd] savePlot() no longer automatically adds an extension to	the	filename.,49847,Simon Urbanek
+049870.html,[Rd] prevent `R CMD INSTALL' from reading  `.Rprofile',49870,Simon Urbanek
+050029.html,[Rd] trivial typo ?title,50029,Tobias Verbeke
+050020.html,[Rd] embedding R in c++ (Qt) application,50020,"WINSTON, Rory, GBM"
+050036.html,[Rd]  Using Huge Pages for R,50036,"WINSTON, Rory, GBM"
+049948.html,[Rd] RFC: Add 'postinstall' hook to R CMD INSTALL ?,49948,"Warnes, Gregory"
+050003.html,"[Rd] tiff(), jpeg(), and png() in R 2.7.0: problems if 'units = &quot;in&quot;' but default height and width",50003,"Weigand, Stephen D."
+049909.html,[Rd]  Computational singularity of a positive definite matrix,49909,ZT2008
+049990.html,[Rd] (PR#11064) how to reproduce...,49990,simon.debernard at altrabio.com
+049876.html,[Rd] R-code embedded in VBE -- Type mismatch errors,49876,pietro.parodi at aon.co.uk
+049999.html,[Rd] bug with function seq() (PR#11705),49999,talbot at clipper.ens.fr
+049985.html,[Rd] compiling 2.7.0 GNU/Linux | BLAS &amp; Lapack query,49985,evan cooch
+049817.html,[Rd] significant digits (PR#9682),49817,pmc1 at cornell.edu
+049818.html,[Rd] significant digits (PR#9682),49818,pmc1 at cornell.edu
+049981.html,[Rd] significant digits (PR#9682),49981,Scott.Wilkinson at csiro.au
+050018.html,[Rd] Improper directory removal causes file system havoc (PR#11738),50018,mjbauer at eecs.tufts.edu
+049934.html,[Rd] error with R 2.7.0 (PR#11609),49934,usickim at ewha.ac.kr
+050025.html,[Rd] NAMESPACE file should be checked (PR#11765),50025,dsuo at fas.harvard.edu
+049953.html,[Rd] read.table() causes segfault with incorrect data (PR#11627),49953,juho.vuori at fimr.fi
+050037.html,[Rd] tiff() causes R to crash on WinXP (PR#11804),50037,gustaf.rydevik at gmail.com
+049962.html,"[Rd] [ESS] browser() exits when not desired,	in three different scenarios (PR#11634)",49962,kw.statr at gmail.com
+049949.html,"[Rd] browser() exits when not desired,	in three different scenarios (PR#11623)",49949,timhesterberg at gmail.com
+050004.html,[Rd] error with solveLP(linprog) (PR#11721),50004,wei.boca at gmail.com
+050045.html,[Rd] phyper hang (PR#11813),50045,terra at gnome.org
+049858.html,[Rd] Enter key in data editor bombs program in MDI (PR#11579),49858,mikehallquist at hotmail.com
+049857.html,[Rd] permsn incorrect when x==m (library: prob) (PR#11571),49857,obnoxious_one at hotmail.com
+049868.html,[Rd] bug in barplot.default (graphics) (PR#11585),49868,c.beale at macaulay.ac.uk
+049998.html,[Rd] R crashing (PR#11702),49998,songeeta at mitre.org
+049887.html,[Rd] read.table underR2.7.0 (PR#11605),49887,Holger.Mitterer at mpi.nl
+050038.html,[Rd] R 2.7.1 und WinEdt (PR#11806),50038,Hans-J&#252;rgen Auinger at pubhealth.ku.dk
+049834.html,[Rd] significant digits (PR#9682),49834,simon.urbanek at r-project.org
+049841.html,[Rd] significant digits (PR#9682),49841,simon.urbanek at r-project.org
+049809.html,[Rd] (PR#11537) help (using ?) does not handle trailing	whitespace,49809,maechler at stat.math.ethz.ch
+050056.html,[Rd] phyper hang (PR#11813),50056,maechler at stat.math.ethz.ch
+050067.html,[Rd] Bug in plnorm (PR#11867),50067,gb at stat.umu.se
+050043.html,[Rd] R 2.7.1 und WinEdt (PR#11806),50043,ligges at statistik.tu-dortmund.de
+049838.html,[Rd] bug in sockconn.c: invalid memory allocation (PR#11565),49838,leydold at statmath.wu-wien.ac.at
+049880.html,[Rd] memory.size() for large memory usage (PR#11596),49880,bowden at stats.ox.ac.uk
+049881.html,[Rd] memory.size() for large memory usage (PR#11596),49881,ripley at stats.ox.ac.uk
+049890.html,[Rd] read.table underR2.7.0 (PR#11605),49890,ripley at stats.ox.ac.uk
+050019.html,[Rd] Improper directory removal causes file system havoc	(PR#11747),50019,ripley at stats.ox.ac.uk
+050063.html,"[Rd] unexpected lining up of labels in axis(4,	hadj=1) (PR#11840)",50063,ripley at stats.ox.ac.uk
+049836.html,[Rd] significant digits (PR#9682),49836,murdoch at stats.uwo.ca
+049888.html,[Rd] Error Message (PR#11602),49888,Jan.Matthias at uni-koeln.de
+050006.html,[Rd] embedding R in c++ (Qt) application,50006,Peter.Peyk at unibas.ch
+050014.html,[Rd] embedding R in c++ (Qt) application,50014,Peter.Peyk at unibas.ch
+050021.html,[Rd] embedding R in c++ (Qt) application,50021,Peter.Peyk at unibas.ch
+050024.html,[Rd] embedding R in c++ (Qt) application,50024,Peter.Peyk at unibas.ch
+049954.html,[Rd] write.table (PR#11625),49954,jdowty at unimelb.edu.au
+050070.html,[Rd] AIX 5.3 --enable-R-shlib make error with R-2.7.1,50070,Jagat.K.Sheth at wellsfargo.com
+049905.html,[Rd] Posting Guide,49905,hadley wickham
+049878.html,[Rd] sd function (PR#11586),49878,rfolgueira at yahoo.com
+050058.html,"[Rd] unexpected lining up of labels in axis(4,hadj=1) (PR#11836)",50058,rene.locher at zhaw.ch
+050064.html,[Rd] header containing (PR#11840),50064,rene.locher at zhaw.ch

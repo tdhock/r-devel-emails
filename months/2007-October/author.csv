@@ -1,0 +1,273 @@
+link,Subject,id,author
+047168.html,[Rd] Sweave/ESS-like tools for HTML,47168,Douglas Bates
+047207.html,[Rd] Sweave/ESS-like tools for HTML,47207,Douglas Bates
+047164.html,[Rd] Digest package - make digest generic?,47164,Henrik Bengtsson
+047177.html,[Rd] Fwd: Digest package - make digest generic?,47177,Henrik Bengtsson
+047185.html,[Rd] LazyLoad changes the class of objects,47185,Henrik Bengtsson
+047099.html,[Rd] pt inaccurate when x is close to 0 (PR#9945),47099,Charles C. Berry
+047126.html,[Rd] no visible binding,47126,Roger Bivand
+047043.html,[Rd] to overcome error while computing sd for each subset of data (PR#9931),47043,Ben Bolker
+047201.html,[Rd] Sweave/ESS-like tools for HTML,47201,Ben Bolker
+047241.html,[Rd] typo in italian translation (PR#10367),47241,Luca Braglia
+047294.html,[Rd] (PR#10379) Re: x11(....) kills R without DISPLAY,47294,Christian Brechb&#252;hler
+047276.html,[Rd] meaning of &quot;trim&quot; in mean(),47276,Patrick Burns
+047049.html,[Rd] Rexcelpoi,47049,Joe W. Byers
+047198.html,[Rd] append/concatenate an element to a list in C-language,47198,Robert Castelo
+047205.html,[Rd] append/concatenate an element to a list in C-language,47205,Robert Castelo
+047071.html,"[Rd] R 2.6.0 S4 data breakage, R _data_class(), class&lt;-, etc.",47071,John Chambers
+047150.html,[Rd] Constants,47150,Fabrizio Cipollini
+047078.html,[Rd] R-2.6.0 package check problems,47078,Peter Dalgaard
+047083.html,"[Rd] misbehaviour of some tk windows, R 2.6.0 on SUSE 10.1?",47083,Peter Dalgaard
+047084.html,"[Rd] misbehaviour of some tk windows, R 2.6.0 on SUSE 10.1?",47084,Peter Dalgaard
+047087.html,[Rd] Bug repository temporarily stalled,47087,Peter Dalgaard
+047127.html,[Rd] no visible binding,47127,Peter Dalgaard
+047141.html,[Rd] bug (?) in [.data.frame with matrix-like indexing,47141,Peter Dalgaard
+047182.html,[Rd] R CMD build and et_EE.UTF-8 locale -&gt; invalid files	(PR#10351),47182,Peter Dalgaard
+047206.html,[Rd] append/concatenate an element to a list in C-language,47206,Peter Dalgaard
+047245.html,"[Rd] R trunk (2.7) build fails with -fpic,	needs -fPIC (PR#10372)",47245,Peter Dalgaard
+047249.html,"[Rd] R trunk (2.7) build fails with -fpic,	needs -fPIC (PR#10372)",47249,Peter Dalgaard
+047253.html,[Rd] meaning of &quot;trim&quot; in mean(),47253,Peter Dalgaard
+047259.html,[Rd] PR#10371,47259,Peter Dalgaard
+047265.html,[Rd] x11(....) kills R without DISPLAY (PR#10379),47265,Peter Dalgaard
+047268.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47268,Peter Dalgaard
+047279.html,[Rd] meaning of &quot;trim&quot; in mean(),47279,Peter Dalgaard
+047287.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47287,Peter Dalgaard
+047303.html,[Rd] slow tcl/tk,47303,Peter Dalgaard
+047309.html,[Rd] slow tcl/tk,47309,Peter Dalgaard
+047202.html,[Rd] Regression test failed when building on an &quot;older&quot; Linux	cluster,47202,"Dalphin, Mark"
+047243.html,[Rd] Regression test failed when building on an &quot;older&quot; Linux cluster,47243,"Dalphin, Mark"
+047229.html,[Rd] RSQLite indexing,47229,Marcus G. Daniels
+047155.html,[Rd] package Geneland / Rgui under windows,47155,Sean Davis
+047169.html,[Rd] Sweave/ESS-like tools for HTML,47169,Sean Davis
+047262.html,[Rd] Use of all/any,47262,Bill Dunlap
+047263.html,[Rd] Use of all/any,47263,Bill Dunlap
+047300.html,[Rd] slow tcl/tk,47300,Adrian Dusa
+047234.html,[Rd] API for optimization with Simulated annealing,47234,Jakub Dvorak
+047048.html,[Rd] Rmpi_0.5-4 and OpenMPI questions,47048,Dirk Eddelbuettel
+047051.html,[Rd] Rmpi_0.5-4 and OpenMPI questions,47051,Dirk Eddelbuettel
+047053.html,[Rd] Rmpi_0.5-4 and OpenMPI questions,47053,Dirk Eddelbuettel
+047170.html,[Rd] Fwd:  Digest package - make digest generic?,47170,Dirk Eddelbuettel
+047178.html,[Rd] Fwd: Digest package - make digest generic?,47178,Dirk Eddelbuettel
+047274.html,[Rd] Cell or PS3 Port,47274,Dirk Eddelbuettel
+047289.html,[Rd] a package depending on other packages does not pass checking	on windows,47289,Mstislav Elagin
+047040.html,[Rd] Aggregate factor names,47040,Martin Elff
+047061.html,[Rd] Problem with rgl into MAC OS X,47061,Gustavo H. Esteves
+047231.html,[Rd] RSQLite indexing,47231,Seth Falcon
+047080.html,"[Rd] misbehaviour of some tk windows, R 2.6.0 on SUSE 10.1?",47080,David Firth
+047085.html,"[Rd] misbehaviour of some tk windows, R 2.6.0 on SUSE 10.1?",47085,John Fox
+047302.html,[Rd] slow tcl/tk,47302,John Fox
+047306.html,[Rd] slow tcl/tk,47306,John Fox
+047310.html,[Rd] slow tcl/tk,47310,John Fox
+047153.html,[Rd] package Geneland / Rgui under windows,47153,Gilles GUILLOT
+047156.html,[Rd] package Geneland / Rgui under windows,47156,Gilles GUILLOT
+047114.html,[Rd] gregexpr (PR#9965),47114,Robert Gentleman
+047224.html,[Rd] install.packages() and configure.args,47224,Robert Gentleman
+047097.html,[Rd] corMatrix crashes with corARMA structure (PR#9952),47097,Simone Giannerini
+047308.html,[Rd] vignette optional sections.,47308,Paul Gilbert
+047118.html,[Rd] LazyLoad changes the class of objects,47118,Gabor Grothendieck
+047148.html,[Rd] Extending deriv3(),47148,Gabor Grothendieck
+047186.html,[Rd] LazyLoad changes the class of objects,47186,Gabor Grothendieck
+047189.html,[Rd] Withdrawing SaveImage,47189,Gabor Grothendieck
+047195.html,[Rd] Sweave wish items,47195,Gabor Grothendieck
+047290.html,"[Rd] pairs, par",47290,Gabor Grothendieck
+047063.html,[Rd] R-2.6.0 package check problems,47063,Robin Hankin
+047077.html,[Rd] R-2.6.0 package check problems,47077,Robin Hankin
+047160.html,"[Rd] namespace, S4 and import",47160,Kasper Daniel Hansen
+047230.html,[Rd] RSQLite indexing,47230,Kasper Daniel Hansen
+047233.html,[Rd] RSQLite indexing,47233,Kasper Daniel Hansen
+047291.html,[Rd] a package depending on other packages does not pass	checking on windows,47291,Kasper Daniel Hansen
+047255.html,[Rd] Splitting up the micEcon package?,47255,Arne Henningsen
+047228.html,[Rd] RSQLite indexing,47228,Jeffrey Horner
+047047.html,[Rd] Call for participation: Comparative Methods in R Hackathon,47047,Steve Kembel
+047273.html,[Rd] Cell or PS3 Port,47273,Ed Knutson
+047173.html,[Rd] Sweave/ESS-like tools for HTML,47173,Duncan Temple Lang
+047220.html,[Rd] How to create Web service in R?,47220,Duncan Temple Lang
+047221.html,[Rd] install.packages() and configure.args,47221,Duncan Temple Lang
+047044.html,[Rd] patch: allow R CMD build exclude patterns to match symlinks,47044,Michael Lawrence
+047292.html,"[Rd] Using SJava? (was R-devel Digest, Vol 56, Issue 27)",47292,Michael Lawrence
+047041.html,[Rd] R &quot;capabilities&quot; on a cluster node,47041,Hin-Tak Leung
+047045.html,[Rd] pairlist objects,47045,Hin-Tak Leung
+047070.html,"[Rd] R 2.6.0 S4 data breakage, R _data_class(), class&lt;-, etc.",47070,Hin-Tak Leung
+047159.html,[Rd] package Geneland / Rgui under windows,47159,Hin-Tak Leung
+047266.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47266,Hin-Tak Leung
+047285.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47285,Hin-Tak Leung
+047188.html,[Rd] nmle: gnls  freezes on difficult case,47188,Nicholas Lewin-Koh
+047191.html,[Rd] nmle: gnls freezes on difficult case,47191,Nicholas Lewin-Koh
+047192.html,[Rd] nmle: gnls freezes on difficult case,47192,Nicholas Lewin-Koh
+047194.html,[Rd] nmle: gnls freezes on difficult case,47194,Nicholas Lewin-Koh
+047252.html,[Rd] meaning of &quot;trim&quot; in mean(),47252,"Liaw, Andy"
+047064.html,[Rd] R-2.6.0 package check problems,47064,Uwe Ligges
+047081.html,[Rd] Package compile under Windows on 2.6.0,47081,Uwe Ligges
+047125.html,[Rd] no visible binding,47125,Uwe Ligges
+047128.html,[Rd] Error on saving graphics as ps-files with R 2.6.0 (PR#9960),47128,Uwe Ligges
+047129.html,"[Rd] Error in Windows Vista, saving workspace...",47129,Uwe Ligges
+047130.html,[Rd] no visible binding,47130,Uwe Ligges
+047137.html,[Rd] bug (?) in [.data.frame with matrix-like indexing,47137,Uwe Ligges
+047238.html,[Rd] R crashes while printing variable read from read.delim() (PR#10366),47238,Uwe Ligges
+047100.html,[Rd] documentation of .C (PR#9948),47100,Thomas Lumley
+047113.html,[Rd] pt inaccurate when x is close to 0 (PR#9945),47113,Thomas Lumley
+047225.html,[Rd] RSQLite indexing,47225,Thomas Lumley
+047227.html,[Rd] RSQLite indexing,47227,Thomas Lumley
+047236.html,[Rd] RSQLite indexing: summary,47236,Thomas Lumley
+047240.html,[Rd] typo in italian translation (PR#10367),47240,Thomas Lumley
+047107.html,[Rd] attachments for R-devel e-mails,47107,Martin Maechler
+047120.html,[Rd] pt inaccurate when x is close to 0 (PR#9945),47120,Martin Maechler
+047135.html,[Rd] website: Current version of R announced on the home page	(PR#10339),47135,Martin Maechler
+047254.html,[Rd] help,47254,Martin Maechler
+047260.html,[Rd] Use of all/any,47260,Martin Maechler
+047272.html,[Rd] Unwanted axis labels when rug() has POSIXlt argument	(PR#10380),47272,John Maindonald
+047073.html,"[Rd] R 2.6.0 S4 data breakage, R _data_class(), class&lt;-, etc.",47073,Bj&#248;rn-Helge Mevik
+047072.html,"[Rd] R 2.6.0 S4 data breakage, R _data_class(), class&lt;-, etc.",47072,Martin Morgan
+047075.html,"[Rd] R 2.6.0 S4 data breakage, R _data_class(), class&lt;-, etc.",47075,Martin Morgan
+047142.html,[Rd] data.frame row.names=NULL with named vector,47142,Martin Morgan
+047210.html,[Rd] Windows fixed/etc/Makeconf SHELL incorrect?,47210,Martin Morgan
+047216.html,[Rd] Windows fixed/etc/Makeconf SHELL incorrect?,47216,Martin Morgan
+047219.html,[Rd] Windows fixed/etc/Makeconf SHELL incorrect?,47219,Martin Morgan
+047076.html,[Rd] Package compile under Windows on 2.6.0,47076,Iago Mosqueira
+047082.html,[Rd] Package compile under Windows on 2.6.0,47082,Iago Mosqueira
+047098.html,[Rd] pt inaccurate when x is close to 0 (PR#9945),47098,Duncan Murdoch
+047116.html,[Rd] [Fwd: Re:  pt inaccurate when x is close to 0 (PR#9945)],47116,Duncan Murdoch
+047138.html,[Rd] Inconsistent behavior of sQuote and dQuote,47138,Duncan Murdoch
+047213.html,[Rd] Name length of function argument? (PR#10357),47213,Duncan Murdoch
+047214.html,[Rd] Windows fixed/etc/Makeconf SHELL incorrect?,47214,Duncan Murdoch
+047218.html,[Rd] Windows fixed/etc/Makeconf SHELL incorrect?,47218,Duncan Murdoch
+047261.html,[Rd] Use of all/any,47261,Duncan Murdoch
+047271.html,[Rd] Unwanted axis labels when rug() has POSIXlt argument	(PR#10380),47271,Duncan Murdoch
+047280.html,[Rd] meaning of &quot;trim&quot; in mean(),47280,Duncan Murdoch
+047154.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47154,Jari Oksanen
+047298.html,[Rd] R can't source() long lines (PR#10383),47298,Jari Oksanen
+047069.html,[Rd] 'R CMD build' and file permissions,47069,Herve Pages
+047211.html,[Rd] install.packages() and configure.args,47211,Herve Pages
+047212.html,[Rd] How to create Web service in R?,47212,Richard Pearson
+047166.html,[Rd] Fwd:  Digest package - make digest generic?,47166,Roger Peng
+047174.html,[Rd] Fwd: Digest package - make digest generic?,47174,Roger Peng
+047176.html,[Rd] Fwd: Digest package - make digest generic?,47176,Roger Peng
+047065.html,[Rd] R-2.6.0 package check problems,47065,Thomas Petzoldt
+047246.html,"[Rd] R trunk (2.7) build fails with -fpic,	needs -fPIC (PR#10372)",47246,Andrew Piskorski
+047251.html,"[Rd] R trunk (2.7) build fails with -fpic,	needs -fPIC (PR#10372)",47251,Andrew Piskorski
+047200.html,[Rd] append/concatenate an element to a list in C-language,47200,Tony Plate
+047284.html,"[Rd] pairs, par",47284,Tony Plate
+047056.html,[Rd] bnlearn package compilation failure on MacOSX,47056,Prof Brian Ripley
+047062.html,[Rd] Building package with R 2.6.0 on Windows/Cygwin gives error with tar,47062,Prof Brian Ripley
+047068.html,[Rd] problem with building package in R 2.6.0,47068,Prof Brian Ripley
+047079.html,[Rd] R-2.6.0 package check problems,47079,Prof Brian Ripley
+047086.html,[Rd] Package compile under Windows on 2.6.0,47086,Prof Brian Ripley
+047102.html,[Rd] documentation of .C (PR#9948),47102,Prof Brian Ripley
+047104.html,[Rd] slow load() in R2.6.0,47104,Prof Brian Ripley
+047106.html,[Rd] slow load() in R2.6.0,47106,Prof Brian Ripley
+047108.html,[Rd] gregexpr (PR#9965),47108,Prof Brian Ripley
+047112.html,[Rd] R260 cross-compilation,47112,Prof Brian Ripley
+047132.html,[Rd] no visible binding,47132,Prof Brian Ripley
+047144.html,[Rd] Extending deriv3(),47144,Prof Brian Ripley
+047151.html,"[Rd] Error in Windows Vista, saving workspace...",47151,Prof Brian Ripley
+047157.html,[Rd] Extending deriv3(),47157,Prof Brian Ripley
+047165.html,[Rd] package Geneland / Rgui under windows,47165,Prof Brian Ripley
+047171.html,[Rd] (PR#9964) package Geneland / Rgui under windows,47171,Prof Brian Ripley
+047193.html,[Rd] nmle: gnls freezes on difficult case,47193,Prof Brian Ripley
+047197.html,[Rd] Underlying representation for rownames,47197,Prof Brian Ripley
+047203.html,[Rd] append/concatenate an element to a list in C-language,47203,Prof Brian Ripley
+047215.html,[Rd] Name length of function argument? (PR#10357),47215,Prof Brian Ripley
+047217.html,[Rd] Windows fixed/etc/Makeconf SHELL incorrect?,47217,Prof Brian Ripley
+047237.html,[Rd] Regression test failed when building on an &quot;older&quot; Linux cluster,47237,Prof Brian Ripley
+047257.html,[Rd] Use of all/any,47257,Prof Brian Ripley
+047275.html,[Rd] meaning of &quot;trim&quot; in mean(),47275,Prof Brian Ripley
+047278.html,"[Rd] Using SJava? (was  R-devel Digest, Vol 56, Issue 27)",47278,Prof Brian Ripley
+047281.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47281,Prof Brian Ripley
+047282.html,"[Rd] Bug with Cor(..., method='spearman&quot;) and by() (PR#9921)",47282,Prof Brian Ripley
+047295.html,[Rd] a package depending on other packages does not pass checking on windows,47295,Prof Brian Ripley
+047304.html,[Rd] slow tcl/tk,47304,Prof Brian Ripley
+047208.html,[Rd]  How to create Web service in R?,47208,Rohan7
+047123.html,"[Rd] Error in Windows Vista, saving workspace...",47123,Filipe Santos
+047147.html,"[Rd] Error in Windows Vista, saving workspace...",47147,Filipe Santos
+047119.html,[Rd] as.integer(x) versus as.integer(trunc(x)),47119,Petr Savicky
+047145.html,[Rd] all zeroes in Mersenne Twister state may remain undetected,47145,Petr Savicky
+047187.html,[Rd] predictable bit patterns in runif(n) shortly after set.seed,47187,Petr Savicky
+047074.html,[Rd] Rmpi_0.5-4 and MPICH2 does not work,47074,Markus Schmidberger
+047301.html,"[Rd] Rmpi, mpi.irecv.Robj",47301,Markus Schmidberger
+047305.html,"[Rd] snow, mpi.isend",47305,Markus Schmidberger
+047139.html,[Rd] Inconsistent behavior of sQuote and dQuote,47139,Marc Schwartz
+047055.html,[Rd] bnlearn package compilation failure on MacOSX,47055,Marco Scutari
+047057.html,[Rd] bnlearn package compilation failure on MacOSX,47057,Marco Scutari
+047060.html,[Rd] bnlearn package compilation failure on MacOSX,47060,Marco Scutari
+047172.html,[Rd] Sweave/ESS-like tools for HTML,47172,Tom Short
+047199.html,[Rd] append/concatenate an element to a list in C-language,47199,Oleg Sklyar
+047096.html,[Rd] gregexpr (PR#9965),47096,Greg Snow
+047283.html,"[Rd] pairs, par",47283,Oliver Soong
+047286.html,"[Rd] pairs, par",47286,Oliver Soong
+047179.html,[Rd] Sweave/ESS-like tools for HTML,47179,Detlef Steuer
+047167.html,[Rd] Additional file filter for Windows text editor Open/Save	dialogues.,47167,Jonathan Swinton
+047052.html,[Rd] Rmpi_0.5-4 and OpenMPI questions,47052,Luke Tierney
+047054.html,[Rd] Rmpi_0.5-4 and OpenMPI questions,47054,Luke Tierney
+047184.html,[Rd] LazyLoad changes the class of objects,47184,Luke Tierney
+047046.html,[Rd] pairlist objects,47046,Simon Urbanek
+047059.html,[Rd] bnlearn package compilation failure on MacOSX,47059,Simon Urbanek
+047101.html,[Rd] R-2.6.0&gt; problem to load library(stats) (PR#9956),47101,Simon Urbanek
+047058.html,[Rd] Building package with R 2.6.0 on Windows/Cygwin gives error	with tar,47058,Kevin Wright
+047066.html,[Rd] Building package with R 2.6.0 on Windows/Cygwin gives	error with tar,47066,Kevin Wright
+047143.html,[Rd] Extending deriv3(),47143,Thomas Yee
+047050.html,[Rd] Rmpi_0.5-4 and OpenMPI questions,47050,Hao Yu
+047307.html,"[Rd] Rmpi, mpi.irecv.Robj",47307,Hao Yu
+047093.html,[Rd] package Geneland / Rgui under windows (PR#9964),47093,guillot at agroparistech.fr
+047270.html,[Rd] Unwanted axis labels when rug() has POSIXlt argument (PR#10380),47270,John.Maindonald at anu.edu.au
+047269.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47269,p.dalgaard at biostat.ku.dk
+047288.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47288,p.dalgaard at biostat.ku.dk
+047267.html,[Rd] (PR#10379) Re:  x11(....) kills R without DISPLAY,47267,hin-tak.leung at cimr.cam.ac.uk
+047149.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47149,marc_schwartz at comcast.net
+047161.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47161,marc_schwartz at comcast.net
+047222.html,[Rd] bug in detection of zero state for Mersenne Twister (PR#10362),47222,savicky at cs.cas.cz
+047103.html,[Rd] slow load() in R2.6.0,47103,Mark.Bravington at csiro.au
+047105.html,[Rd] slow load() in R2.6.0,47105,Mark.Bravington at csiro.au
+047136.html,[Rd] Inconsistent behavior of sQuote and dQuote,47136,cstrato
+047140.html,[Rd] Inconsistent behavior of sQuote and dQuote,47140,cstrato
+047111.html,[Rd] R260 cross-compilation,47111,ernesto
+047042.html,[Rd] pairlist objects,47042,hpages at fhcrc.org
+047115.html,[Rd] gregexpr (PR#9965),47115,rgentlem at fhcrc.org
+047264.html,[Rd] x11(....) kills R without DISPLAY (PR#10379),47264,brechbuehler at gmail.com
+047088.html,[Rd] corMatrix crashes with corARMA structure (PR#9952),47088,btyner at gmail.com
+047089.html,[Rd] corMatrix crashes with corARMA structure (PR#9982),47089,btyner at gmail.com
+047190.html,[Rd] documentation bug for isoreg example (PR#10352),47190,btyner at gmail.com
+047090.html,[Rd] rendering dashed steps produces solid horizontal lines	(PR#9953),47090,chris.bainbridge at gmail.com
+047232.html,[Rd] typo in italian translation (PR#10367),47232,lbraglia at gmail.com
+047133.html,[Rd] website: Current version of R announced on the home page	(PR#10339),47133,lgautier at gmail.com
+047235.html,[Rd] R crashes while printing variable read from read.delim()	(PR#10366),47235,markus.breitenbach at gmail.com
+047293.html,[Rd] R can't source() long lines (PR#10383),47293,martin.kober at gmail.com
+047297.html,[Rd] R can't source() long lines (PR#10383),47297,martin.kober at gmail.com
+047095.html,[Rd] pt inaccurate when x is close to 0 (PR#9945),47095,skylab.gupta at gmail.com
+047039.html,[Rd] R-Server remotecontrolled via browser-GUI,47039,idontwant googeltospyafterme
+047067.html,[Rd] problem with building package in R 2.6.0,47067,G.J.A.Fox at gw.utwente.nl
+047146.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47146,bob.ohara at helsinki.fi
+047247.html,[Rd] typo in italian translation (PR#10367),47247,stefano iacus
+047209.html,[Rd] Name length of function argument? (PR#10357),47209,deiwiks at icr.gess.ethz.ch
+047110.html,[Rd] gregexpr (PR#9965),47110,Greg.Snow at intermountainmail.org
+047122.html,[Rd] no visible binding,47122,roger koenker
+047092.html,[Rd] R-2.6.0&gt; problem to load library(stats) (PR#9956),47092,dominique.couturier at mac.com
+047117.html,[Rd] failure to find lapply (PR#9999),47117,chris.knight at manchester.ac.uk
+047094.html,[Rd] documentation of .C (PR#9948),47094,schlather at math.uni-goettingen.de
+047250.html,[Rd] help,47250,ezeh osita
+047244.html,"[Rd] R trunk (2.7) build fails with -fpic, needs -fPIC (PR#10372)",47244,atp at piskorski.com
+047091.html,[Rd] gregexpr (PR#9965),47091,dolanp at science.oregonstate.edu
+047299.html,[Rd] Library file for the R engine in Windows?,47299,sotiris
+047242.html,[Rd] TukeyHSD (PR#10371),47242,clyde at stat.duke.edu
+047258.html,[Rd] PR#10371,47258,clyde at stat.duke.edu
+047152.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47152,maechler at stat.math.ethz.ch
+047158.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47158,maechler at stat.math.ethz.ch
+047204.html,[Rd] documentation bug for isoreg example (PR#10352),47204,maechler at stat.math.ethz.ch
+047223.html,[Rd] predict.gnls seems to break when 'newdata' specified (PR#10364),47223,jenny at stat.ubc.ca
+047239.html,[Rd] R crashes while printing variable read from read.delim()	(PR#10370),47239,ligges at statistik.uni-dortmund.de
+047109.html,[Rd] corMatrix crashes with corARMA structure (PR#9952),47109,ripley at stats.ox.ac.uk
+047131.html,[Rd] File-Choose directory-Choose a folder (PR#9959),47131,ripley at stats.ox.ac.uk
+047183.html,[Rd] dget not restoring dput in R 2.6.0 (PR#10350),47183,ripley at stats.ox.ac.uk
+047296.html,[Rd] R can't source() long lines (PR#10383),47296,ripley at stats.ox.ac.uk
+047124.html,[Rd] File-Choose directory-Choose a folder (PR#9959),47124,roberto.passera at tin.it
+047121.html,[Rd] Error on saving graphics as ps-files with R 2.6.0 (PR#9960),47121,johannes.schauer at tugraz.at
+047256.html,[Rd] Invalid permissions,47256,miguez at uiuc.edu
+047180.html,[Rd] dget not restoring dput in R 2.6.0 (PR#10350),47180,dstates at umich.edu
+047248.html,[Rd] typo in italian translation (PR#10367),47248,stefano.iacus at unimi.it
+047181.html,[Rd] R CMD build and et_EE.UTF-8 locale -&gt; invalid files (PR#10351),47181,otoomet at ut.ee
+047162.html,[Rd] boxplot() confuses x- and y-axes (PR#10345),47162,hadley wickham
+047163.html,[Rd] Digest package - make digest generic?,47163,hadley wickham
+047175.html,[Rd] Fwd: Digest package - make digest generic?,47175,hadley wickham
+047196.html,[Rd] Underlying representation for rownames,47196,hadley wickham
+047226.html,[Rd] RSQLite indexing,47226,hadley wickham
+047134.html,[Rd] R260 cross-compilation,47134,jing hua zhao
+047277.html,"[Rd] R-devel Digest, Vol 56, Issue 27",47277,&#29579;&#34382;

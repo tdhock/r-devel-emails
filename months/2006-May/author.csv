@@ -1,0 +1,414 @@
+link,Subject,id,author
+037772.html,[Rd] Innovative Enterprise Microarray Software,37772,eNews at 3rdmill.com
+037773.html,[Rd] Innovative Enterprise Microarray Software,37773,eNews at 3rdmill.com
+037553.html,"[Rd] Rgui, Startup, HOME, R_USER, ...",37553,Henrik Bengtsson (max 7Mb)
+037571.html,"[Rd] str() with attr(*, &quot;names&quot;) is extremely slow for long vectors",37571,Henrik Bengtsson (max 7Mb)
+037560.html,[Rd] plot.ts bad default labelling and lag.plot incomplete doc,37560,"Antonio, Fabio Di Narzo"
+037873.html,[Rd] compiling tests/Embedding,37873,"Antonio, Fabio Di Narzo"
+037687.html,[Rd] Cofnigure (Building) trouble,37687,Brandon Barker
+037861.html,[Rd] R Project accepted for the Google Summer of Code,37861,Douglas Bates
+037825.html,[Rd] UseMethod infelicity,37825,Henrik Bengtsson
+037859.html,[Rd] save() saves extra stuff if object is not evaluated,37859,Henrik Bengtsson
+037864.html,[Rd] save() saves extra stuff if object is not evaluated,37864,Henrik Bengtsson
+037523.html,[Rd] Call trellis function in a function (PR#8827),37523,Roger Bivand
+037752.html,[Rd] Convention difference in tseries.maxdrawdown (PR#8872),37752,B. Boonstra
+037746.html,[Rd] S4 classes and C,37746,Ross Boylan
+037749.html,[Rd] S4 classes and C,37749,Ross Boylan
+037751.html,[Rd] Recommended style with calculator and persistent data,37751,Ross Boylan
+037769.html,[Rd] S4 classes and C,37769,Ross Boylan
+037630.html,"[Rd] S4 initialize methods, unexpected recursive callNextMethod",37630,John Chambers
+037651.html,"[Rd] S4 initialize methods, unexpected recursive callNextMethod",37651,John Chambers
+037838.html,[Rd] confused by inheritance...,37838,John Chambers
+037586.html,[Rd] Efficient Merging of two huge sorted data frames?---Use	merge()?,37586,Charles Cheung
+037774.html,[Rd] PR#8822,37774,Dan.Kelley at Dal.Ca
+037585.html,[Rd] mean of complex vector (PR#8842),37585,Peter Dalgaard
+037596.html,"[Rd] combn(n, k, ...) and all its re-inventions",37596,Peter Dalgaard
+037621.html,[Rd] 2.3.0 make install fails on solaris,37621,Peter Dalgaard
+037645.html,[Rd] wilcox.exact function (PR#8856),37645,Peter Dalgaard
+037701.html,[Rd] R 2.3.1 scheduled for June 1,37701,Peter Dalgaard
+037766.html,[Rd] helping out,37766,Peter Dalgaard
+037808.html,[Rd] rerender tcltk toplevel,37808,Peter Dalgaard
+037814.html,[Rd] ssize_t not defined in sockconn.c (PR#8889),37814,Peter Dalgaard
+037848.html,[Rd] (PR#8877) predict.lm does not have a weights argument for,37848,Peter Dalgaard
+037871.html,[Rd] (PR#8877) predict.lm does not have a weights argument for,37871,Peter Dalgaard
+037872.html,[Rd] R 2.3.1 release candidates starting tomorrow,37872,Peter Dalgaard
+037885.html,[Rd] misspelling of &quot;Mauchly&quot; (PR#8908),37885,Peter Dalgaard
+037891.html,[Rd] Numerical error in R (win32) (PR#8909),37891,Peter Dalgaard
+037902.html,[Rd] Numerical error in R (win32) (PR#8909),37902,Peter Dalgaard
+037699.html,[Rd] protect/unprotect howto in C code,37699,Michael Dondrup
+037704.html,[Rd] protect/unprotect howto in C code,37704,Michael Dondrup
+037912.html,[Rd] Patch: context stack size in gram.y,37912,Thomas Dreibholz
+037916.html,[Rd] Patch: context stack size in gram.y,37916,Thomas Dreibholz
+037705.html,[Rd] R CMD SHLIB,37705,Bill Dunlap
+037819.html,[Rd] Changing the generic of as.data.frame,37819,Bill Dunlap
+037824.html,[Rd] Changing the generic of as.data.frame,37824,Bill Dunlap
+037883.html,[Rd] R-2.3 macosx segfault,37883,Diego D&#237;ez
+037828.html,[Rd] Wishlist: Vignettes on CRAN,37828,Dirk Eddelbuettel
+037839.html,[Rd] Wishlist: Vignettes on CRAN,37839,Dirk Eddelbuettel
+037877.html,[Rd] R 2.3.1 release candidates starting tomorrow,37877,Dirk Eddelbuettel
+037692.html,[Rd] bug in rbind.data.frame with factors (PR#8868),37692,Peter Ehlers
+037890.html,[Rd] Numerical error in R (win32) (PR#8909),37890,Peter Ehlers
+037514.html,[Rd] row.names != rownames for data.frame?,37514,Seth Falcon
+037568.html,[Rd] Including a single function from a package,37568,Seth Falcon
+037617.html,[Rd] What is callGeneric used for?,37617,Seth Falcon
+037622.html,"[Rd] S4 initialize methods, unexpected recursive callNextMethod",37622,Seth Falcon
+037634.html,"[Rd] S4 initialize methods, unexpected recursive callNextMethod",37634,Seth Falcon
+037663.html,[Rd] Suggestion for system.time(),37663,Seth Falcon
+037665.html,[Rd] Suggestion for system.time(),37665,Seth Falcon
+037667.html,[Rd] bindingIsLocked returns illogical logical,37667,Seth Falcon
+037674.html,[Rd] bindingIsLocked returns illogical logical,37674,Seth Falcon
+037677.html,[Rd] bindingIsLocked returns illogical logical,37677,Seth Falcon
+037721.html,[Rd] 'R CMD config' doesn't work on Windows,37721,Seth Falcon
+037726.html,[Rd] 'R CMD config' doesn't work on Windows,37726,Seth Falcon
+037753.html,[Rd] S4 classes and C,37753,Seth Falcon
+037754.html,[Rd] Recommended style with calculator and persistent data,37754,Seth Falcon
+037830.html,[Rd] Wishlist: Vignettes on CRAN,37830,Seth Falcon
+037775.html,[Rd] Memory allocator on OS/X,37775,Jason Foster
+037777.html,[Rd] Memory allocator on OS/X,37777,Jason Foster
+037795.html,[Rd] Suggesting changes to HELP files?,37795,Romain Francois
+037799.html,[Rd] Suggesting changes to HELP files?,37799,Romain Francois
+037516.html,[Rd] methods for @ operator,37516,Parlamis Franklin
+037517.html,[Rd] expression objects,37517,Parlamis Franklin
+037633.html,"[Rd] @ accesses attributes, not just formal slots ?",37633,Parlamis Franklin
+037913.html,[Rd] Inconsistent behaviour when subsetting a ts object with	frequency = 12 or 4,37913,Simone Giannerini
+037915.html,[Rd] Inconsistent behaviour when manipulating a ts object with	frequency = 12 or 4,37915,Simone Giannerini
+037921.html,[Rd] Inconsistent behaviour when manipulating a ts object with	frequency = 12 or 4,37921,Simone Giannerini
+037636.html,[Rd] PGI 6.1 compile error,37636,Paul Gilbert
+037738.html,[Rd] R CMD check: checking examples: how to (not) pause	execution,37738,Paul Gilbert
+037743.html,[Rd] R-devel and PGI 6.0 compile error,37743,Paul Gilbert
+037744.html,[Rd] helping out,37744,Paul Gilbert
+037696.html,[Rd] New probability law functions,37696,Vincent Goulet
+037538.html,[Rd] as.factor: changed behaviour for Date class,37538,Spencer Graves
+037785.html,[Rd] Suggesting changes to HELP files?,37785,Spencer Graves
+037789.html,[Rd] Suggesting changes to HELP files?,37789,Spencer Graves
+037790.html,[Rd] Suggesting changes to HELP files?,37790,Spencer Graves
+037797.html,[Rd] Suggesting changes to HELP files?,37797,Spencer Graves
+037823.html,[Rd] Wishlist: Vignettes on CRAN,37823,Spencer Graves
+037911.html,[Rd] Presentation of R at RMLL 2006,37911,Philippe Grosjean
+037518.html,[Rd] expression objects,37518,Gabor Grothendieck
+037541.html,[Rd] [R] Aggregate?,37541,Gabor Grothendieck
+037543.html,[Rd] [R] Aggregate?,37543,Gabor Grothendieck
+037554.html,"[Rd] Rgui, Startup, HOME, R_USER, ...",37554,Gabor Grothendieck
+037557.html,"[Rd] Rgui, Startup, HOME, R_USER, ...",37557,Gabor Grothendieck
+037623.html,[Rd] What is callGeneric used for?,37623,Gabor Grothendieck
+037649.html,[Rd] reusing routines,37649,Gabor Grothendieck
+037716.html,[Rd] Convention difference in tseries.maxdrawdown (PR#8872),37716,Gabor Grothendieck
+037784.html,"[Rd] print.trellis(..., draw.in=...)",37784,Gabor Grothendieck
+037786.html,[Rd] Suggesting changes to HELP files?,37786,Gabor Grothendieck
+037791.html,"[Rd] print.trellis(..., draw.in=...)",37791,Gabor Grothendieck
+037793.html,[Rd] Suggesting changes to HELP files?,37793,Gabor Grothendieck
+037794.html,"[Rd] print.trellis(..., draw.in=...)",37794,Gabor Grothendieck
+037796.html,"[Rd] print.trellis(..., draw.in=...)",37796,Gabor Grothendieck
+037798.html,[Rd] Suggesting changes to HELP files?,37798,Gabor Grothendieck
+037827.html,[Rd] Wishlist: Vignettes on CRAN,37827,Gabor Grothendieck
+037829.html,[Rd] Wishlist: Vignettes on CRAN,37829,Gabor Grothendieck
+037919.html,[Rd] Bitmap device available for R CMD check?,37919,Gabor Grothendieck
+037807.html,[Rd] rerender tcltk toplevel,37807,Florian Hahne
+037811.html,[Rd] rerender tcltk toplevel,37811,Florian Hahne
+037810.html,[Rd] R CMD check problem,37810,Robin Hankin
+037570.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37570,Kasper Daniel Hansen
+037601.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37601,Kasper Daniel Hansen
+037624.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37624,Kasper Daniel Hansen
+037831.html,[Rd] protect,37831,Kasper Daniel Hansen
+037844.html,[Rd] protect,37844,Kasper Daniel Hansen
+037846.html,[Rd] protect,37846,Kasper Daniel Hansen
+037741.html,[Rd] helping out,37741,Kevin B. Hendricks
+037767.html,[Rd] helping out,37767,Kevin B. Hendricks
+037546.html,[Rd] abline and its documentation,37546,Kurt Hornik
+037547.html,[Rd] proposed modifications to deprecated,37547,Kurt Hornik
+037833.html,[Rd] Wishlist: Vignettes on CRAN,37833,Kurt Hornik
+037834.html,[Rd] Wishlist: Vignettes on CRAN,37834,Kurt Hornik
+037562.html,[Rd] Including a single function from a package,37562,Ken Kelley
+037566.html,[Rd] Including a single function from a package,37566,Ken Kelley
+037548.html,[Rd] Cox survival model,37548,Gregory Kotler
+037918.html,[Rd] Bitmap device available for R CMD check?,37918,"Kuhn, Max"
+037693.html,[Rd] bug in rbind.data.frame with factors (PR#8868),37693,Rafal Kustra
+037695.html,[Rd] bug in rbind.data.frame with factors (PR#8868),37695,Rafal Kustra
+037896.html,[Rd] (PR#8905) Recommended package nlme: bug in predict.lme	when an independent variable is a polynomial,37896,Renaud Lancelot
+037659.html,[Rd] reusing routines,37659,Duncan Temple Lang
+037868.html,[Rd] compiling tests/Embedding,37868,Duncan Temple Lang
+037920.html,[Rd] iSPlots paper,37920,Duncan Temple Lang
+037849.html,[Rd] Suggesting changes to HELP files?,37849,Friedrich Leisch
+037851.html,[Rd] Wishlist: Vignettes on CRAN,37851,Friedrich Leisch
+037600.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37600,Hin-Tak Leung
+037611.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37611,Hin-Tak Leung
+037669.html,[Rd] Error Compiling RMySQL in Fedora Core 5 86x64,37669,Hin-Tak Leung
+037683.html,"[Rd] (PR#8861) Memory allocation fails in R 2.2.1 and R 2.3.0 on SGI Irix, while plenty of memory available",37683,Hin-Tak Leung
+037581.html,[Rd] Patch for r-intro to update xgobi to ggobi,37581,Uwe Ligges
+037582.html,[Rd] Patch for r-intro to update xgobi to ggobi,37582,Uwe Ligges
+037866.html,[Rd] cpu usage stays at 100% (PR#8903),37866,Uwe Ligges
+037857.html,[Rd] 2.3 issues on Mac,37857,Ryan Lovett
+037549.html,[Rd] Cox survival model,37549,Thomas Lumley
+037671.html,"[Rd] Memory allocation fails in R 2.2.1 and R 2.3.0 on SGI Irix, while plenty of memory available (PR#8861)",37671,Thomas Lumley
+037690.html,[Rd] R CMD SHLIB,37690,Thomas Lumley
+037702.html,[Rd] protect/unprotect howto in C code,37702,Thomas Lumley
+037707.html,[Rd] protect/unprotect howto in C code,37707,Thomas Lumley
+037737.html,[Rd] anova F-tests (PR#8875),37737,Thomas Lumley
+037748.html,[Rd] helping out,37748,Thomas Lumley
+037886.html,[Rd] memory profiling,37886,Thomas Lumley
+037620.html,"[Rd] RFC:  log='z' for image, contour, persp?",37620,Don MacQueen
+037511.html,[Rd] example(ask = .) - default ?,37511,Martin Maechler
+037519.html,[Rd] [R] plot cdf,37519,Martin Maechler
+037569.html,[Rd] Including a single function from a package,37569,Martin Maechler
+037578.html,"[Rd] str() with attr(*,	&quot;names&quot;) is extremely slow for long vectors",37578,Martin Maechler
+037592.html,"[Rd] combn(n, k, ...) and all its re-inventions",37592,Martin Maechler
+037608.html,"[Rd] RFC:  log='z' for image, contour, persp?",37608,Martin Maechler
+037652.html,"[Rd] str() with attr(*,	&quot;names&quot;) is extremely slow for long vectors",37652,Martin Maechler
+037697.html,[Rd] R CMD SHLIB,37697,Martin Maechler
+037755.html,[Rd] S4 classes and C,37755,Martin Maechler
+037802.html,[Rd] Suggesting changes to HELP files?,37802,Martin Maechler
+037882.html,[Rd] typo in ?dimnames,37882,Martin Maechler
+037536.html,[Rd] R freezes under Windows while loading package,37536,Sebastian Manz
+037747.html,[Rd] S4 classes and C,37747,"McGehee, Robert"
+037822.html,[Rd] Wishlist: Vignettes on CRAN,37822,"McGehee, Robert"
+037640.html,[Rd] Dropping dimnames doesn't matter (anymore)?,37640,Bj&#248;rn-Helge Mevik
+037607.html,"[Rd] R, Rcmdr crash on WinXP PRO laptop (PR#8583)",37607,Shawn Mikula
+037605.html,[Rd] YA S4 method dispatch question,37605,Martin Morgan
+037662.html,[Rd] bindingIsLocked returns illogical logical,37662,Martin Morgan
+037679.html,[Rd] R CMD check does not remove all S4 methods defined in examples,37679,Martin Morgan
+037512.html,[Rd] format.info() versus format.default():  Comments please,37512,Duncan Murdoch
+037524.html,[Rd] Force action in package install?,37524,Duncan Murdoch
+037537.html,[Rd] R freezes under Windows while loading package,37537,Duncan Murdoch
+037544.html,[Rd] [R] Aggregate?,37544,Duncan Murdoch
+037551.html,[Rd] R 2.3.0 and rgl on OS X 10.4.6 (PR#8833),37551,Duncan Murdoch
+037555.html,[Rd] !,37555,Duncan Murdoch
+037556.html,"[Rd] Rgui, Startup, HOME, R_USER, ...",37556,Duncan Murdoch
+037561.html,[Rd] `power' documentation slip (PR#8838),37561,Duncan Murdoch
+037564.html,[Rd] Including a single function from a package,37564,Duncan Murdoch
+037574.html,[Rd] R 2.3.0 and rgl on OS X 10.4.6,37574,Duncan Murdoch
+037588.html,[Rd] &quot;Unfelicity&quot; :-) with edit(),37588,Duncan Murdoch
+037599.html,[Rd] &quot;Unfelicity&quot; :-) with edit(),37599,Duncan Murdoch
+037604.html,"[Rd] RFC:  log='z' for image, contour, persp?",37604,Duncan Murdoch
+037612.html,"[Rd] RFC:  log='z' for image, contour, persp?",37612,Duncan Murdoch
+037613.html,[Rd] Warning: use of NULL environment is deprecated (in R CMD check),37613,Duncan Murdoch
+037654.html,"[Rd] windows( ... ,rescale=&quot;fixed&quot;) bug (PR#8857)",37654,Duncan Murdoch
+037655.html,"[Rd] windows( ... ,rescale=&quot;fixed&quot;) bug (PR#8857)",37655,Duncan Murdoch
+037680.html,[Rd] Truncated labels in hist (PR#8864),37680,Duncan Murdoch
+037686.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37686,Duncan Murdoch
+037724.html,[Rd] 'R CMD config' doesn't work on Windows,37724,Duncan Murdoch
+037725.html,[Rd] install.packages bug (PR#8873),37725,Duncan Murdoch
+037760.html,[Rd] delayedAssign and interrupts,37760,Duncan Murdoch
+037762.html,[Rd] delayedAssign and interrupts,37762,Duncan Murdoch
+037763.html,[Rd] delayedAssign and interrupts,37763,Duncan Murdoch
+037779.html,[Rd] Negatives density values (PR#8876),37779,Duncan Murdoch
+037787.html,[Rd] Suggesting changes to HELP files?,37787,Duncan Murdoch
+037800.html,[Rd] delayedAssign and interrupts,37800,Duncan Murdoch
+037888.html,[Rd] Numerical error in R (win32) (PR#8909),37888,Duncan Murdoch
+037817.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37817,Ei-ji Nakama
+037835.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37835,Ei-ji Nakama
+037840.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37840,Ei-ji Nakama
+037719.html,[Rd] install.packages bug (PR#8873),37719,tdhock at OCF.Berkeley.EDU
+037713.html,[Rd] prcomp: problem with zeros? (PR#8870),37713,Jari Oksanen
+037862.html,[Rd] compiling tests/Embedding,37862,George Ostrouchov
+037875.html,[Rd] compiling tests/Embedding,37875,George Ostrouchov
+037717.html,[Rd] 'R CMD config' doesn't work on Windows,37717,Herve Pages
+037718.html,[Rd] 'R CMD ' doesn't work on Windows,37718,Herve Pages
+037720.html,[Rd] 'R CMD build' ignoring segfaults occuring during the vignettes	creation,37720,Herve Pages
+037542.html,[Rd] [R] Aggregate?,37542,Roger Peng
+037758.html,[Rd] delayedAssign and interrupts,37758,Roger D. Peng
+037764.html,[Rd] delayedAssign and interrupts,37764,Roger D. Peng
+037867.html,[Rd] memory profiling,37867,Roger D. Peng
+037619.html,[Rd] 2.3.0 make install fails on solaris,37619,Darin Perusich
+037515.html,[Rd] [R] plot cdf,37515,Fran&#231;ois Pinard
+037540.html,[Rd] abline and its documentation,37540,Fran&#231;ois Pinard
+037587.html,[Rd] &quot;Unfelicity&quot; :-) with edit(),37587,Fran&#231;ois Pinard
+037598.html,[Rd] &quot;Unfelicity&quot; :-) with edit(),37598,Fran&#231;ois Pinard
+037616.html,[Rd] Mere chat on vectorisation matters,37616,Fran&#231;ois Pinard
+037657.html,[Rd] Mere chat on vectorisation matters,37657,Fran&#231;ois Pinard
+037661.html,[Rd] Suggestion for system.time(),37661,Fran&#231;ois Pinard
+037664.html,[Rd] Suggestion for system.time(),37664,Fran&#231;ois Pinard
+037666.html,[Rd] Suggestion for system.time(),37666,Fran&#231;ois Pinard
+037685.html,[Rd] Truncated labels in hist (PR#8864),37685,Fran&#231;ois Pinard
+037722.html,[Rd] ?hist and $density explanation,37722,Fran&#231;ois Pinard
+037856.html,[Rd] Problem with pasteing formulas (PR#8897),37856,Fran&#231;ois Pinard
+037905.html,[Rd] Numerical error in R (win32) (PR#8909),37905,Tony Plate
+037731.html,[Rd] R CMD check: &quot;T used instead of TRUE&quot;,37731,Lutz Prechelt
+037735.html,[Rd] R CMD check: checking examples: how to (not) pause execution,37735,Lutz Prechelt
+037745.html,[Rd] Trellis equivalent of par(ask=TRUE)?,37745,Lutz Prechelt
+037658.html,[Rd] Error Compiling RMySQL in Fedora Core 5 86x64,37658,Juan Santiago Ramseyer
+037513.html,[Rd] format.info() versus format.default():  Comments please,37513,Prof Brian Ripley
+037520.html,[Rd] row.names != rownames for data.frame?,37520,Prof Brian Ripley
+037527.html,[Rd] normal random number generator in R,37527,Prof Brian Ripley
+037552.html,[Rd] Cox survival model,37552,Prof Brian Ripley
+037563.html,[Rd] Including a single function from a package,37563,Prof Brian Ripley
+037567.html,[Rd] Including a single function from a package,37567,Prof Brian Ripley
+037590.html,[Rd] Efficient Merging of two huge sorted data frames?---Use merge()?,37590,Prof Brian Ripley
+037597.html,[Rd] Seg fault when installing package from bad repository,37597,Prof Brian Ripley
+037626.html,[Rd] 2.3.0 make install fails on solaris,37626,Prof Brian Ripley
+037629.html,[Rd] Question about match.fun(),37629,Prof Brian Ripley
+037635.html,"[Rd] @ accesses attributes, not just formal slots ?",37635,Prof Brian Ripley
+037641.html,[Rd] R-2.3.0 make error on AIX 5.2,37641,Prof Brian Ripley
+037642.html,[Rd] X11 and vfonts modules on AIX 5.2,37642,Prof Brian Ripley
+037643.html,[Rd] Dropping dimnames doesn't matter (anymore)?,37643,Prof Brian Ripley
+037647.html,[Rd] R-2.3.0 make error on AIX 5.2,37647,Prof Brian Ripley
+037668.html,[Rd] bindingIsLocked returns illogical logical,37668,Prof Brian Ripley
+037673.html,"[Rd] (PR#8861) Memory allocation fails in R 2.2.1 and R 2.3.0 on SGI Irix, while plenty of memory available",37673,Prof Brian Ripley
+037675.html,[Rd] bindingIsLocked returns illogical logical,37675,Prof Brian Ripley
+037684.html,"[Rd] (PR#8861) Memory allocation fails in R 2.2.1 and R 2.3.0 on SGI Irix, while plenty of memory available",37684,Prof Brian Ripley
+037688.html,[Rd] Problems on SuSE 10.1 (was Cofnigure (Building) trouble),37688,Prof Brian Ripley
+037689.html,[Rd] R CMD SHLIB,37689,Prof Brian Ripley
+037694.html,[Rd] bug in rbind.data.frame with factors (PR#8868),37694,Prof Brian Ripley
+037698.html,[Rd] R CMD SHLIB,37698,Prof Brian Ripley
+037708.html,[Rd] R CMD SHLIB,37708,Prof Brian Ripley
+037710.html,[Rd] Non-ASCII chars in R code,37710,Prof Brian Ripley
+037728.html,[Rd] 'R CMD config' doesn't work on Windows,37728,Prof Brian Ripley
+037729.html,[Rd] Documentation for taper in spec.taper (PR#8871),37729,Prof Brian Ripley
+037730.html,[Rd] 'R CMD config' doesn't work on Windows,37730,Prof Brian Ripley
+037732.html,[Rd] R CMD check: &quot;T used instead of TRUE&quot;,37732,Prof Brian Ripley
+037739.html,[Rd] R CMD check: checking examples: how to (not) pause	execution,37739,Prof Brian Ripley
+037756.html,[Rd] Non-ASCII chars in R code,37756,Prof Brian Ripley
+037759.html,[Rd] helping out,37759,Prof Brian Ripley
+037765.html,[Rd] UseMethod infelicity,37765,Prof Brian Ripley
+037780.html,[Rd] UseMethod infelicity,37780,Prof Brian Ripley
+037809.html,[Rd] Changing the generic of as.data.frame,37809,Prof Brian Ripley
+037812.html,[Rd] R CMD check problem,37812,Prof Brian Ripley
+037820.html,[Rd] Changing the generic of as.data.frame,37820,Prof Brian Ripley
+037821.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37821,Prof Brian Ripley
+037832.html,[Rd] protect,37832,Prof Brian Ripley
+037836.html,[Rd] protect,37836,Prof Brian Ripley
+037837.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37837,Prof Brian Ripley
+037845.html,[Rd] protect,37845,Prof Brian Ripley
+037852.html,[Rd] (PR#8877) predict.lm does not have a weights argument for,37852,Prof Brian Ripley
+037863.html,[Rd] compiling tests/Embedding,37863,Prof Brian Ripley
+037870.html,[Rd] memory profiling,37870,Prof Brian Ripley
+037874.html,[Rd] compiling tests/Embedding,37874,Prof Brian Ripley
+037878.html,[Rd] R 2.3.1 release candidates starting tomorrow,37878,Prof Brian Ripley
+037893.html,[Rd] R Regression Routines called in C/C++,37893,Prof Brian Ripley
+037894.html,[Rd] (PR#8905) Recommended package nlme: bug in predict.lme when an independent variable is a polynomial,37894,Prof Brian Ripley
+037895.html,[Rd] (PR#8905) Recommended package nlme: bug in predict.lme when an independent variable is a polynomial,37895,Prof Brian Ripley
+037914.html,[Rd] Patch: context stack size in gram.y,37914,Prof Brian Ripley
+037917.html,[Rd] Inconsistent behaviour when manipulating a ts object with frequency = 12 or 4,37917,Prof Brian Ripley
+037876.html,[Rd] R 2.3.1 release candidates starting tomorrow,37876,Andrew Robinson
+037602.html,[Rd] YA S4 method dispatch question,37602,Paul Roebuck
+037614.html,[Rd] array dimname argument (was Re: YA S4 method dispatch question),37614,Paul Roebuck
+037521.html,[Rd] optimize() and extrema at the interval bounds,37521,Peter Ruckdeschel
+037826.html,[Rd] confused by inheritance...,37826,Peter Ruckdeschel
+037841.html,[Rd] confused by inheritance...,37841,Peter Ruckdeschel
+037850.html,[Rd] the computation of exact p-value for the nonparametric	cor-test with ties,37850,Antonietta di Salvatore
+037750.html,[Rd] Trellis equivalent of par(ask=TRUE)?,37750,Deepayan Sarkar
+037788.html,"[Rd] print.trellis(..., draw.in=...)",37788,Deepayan Sarkar
+037792.html,"[Rd] print.trellis(..., draw.in=...)",37792,Deepayan Sarkar
+037637.html,[Rd] Lfie Expirecene Deeergs,37637,Natasha Scott
+037539.html,[Rd] R freezes under Windows while loading package,37539,Seb
+037545.html,[Rd] yo stop work today,37545,Ollie Sewell
+037638.html,[Rd] X11 and vfonts modules on AIX 5.2,37638,"Sheth, Jagat K"
+037639.html,[Rd] R-2.3.0 make error on AIX 5.2,37639,"Sheth, Jagat K"
+037646.html,[Rd] R-2.3.0 make error on AIX 5.2,37646,"Sheth, Jagat K"
+037650.html,"[Rd] str() with attr(*,	&quot;names&quot;) is extremely slow for long vectors",37650,Gerhard Thallinger
+037660.html,"[Rd] str() with attr(*,	&quot;names&quot;) is extremely slow for long vectors",37660,Gerhard Thallinger
+037700.html,"[Rd] str() with attr(*,	&quot;names&quot;) is extremely slow for long vectors",37700,Gerhard Thallinger
+037648.html,[Rd] reusing routines,37648,Terry Therneau
+037526.html,[Rd] normal random number generator in R,37526,Tibshirani
+037761.html,[Rd] delayedAssign and interrupts,37761,Luke Tierney
+037860.html,[Rd] save() saves extra stuff if object is not evaluated,37860,Luke Tierney
+037736.html,[Rd] Convention difference in tseries.maxdrawdown (PR#8872),37736,Adrian Trapletti
+037589.html,[Rd] Question about match.fun(),37589,Berwin A Turlach
+037879.html,[Rd] Patch proposal for match.fun(),37879,Berwin A Turlach
+037904.html,[Rd] Numerical error in R (win32) (PR#8909),37904,Berwin A Turlach
+037529.html,[Rd] Installation problem of R.app GUI 1.15 for R 2.3.0	(PR#8828),37529,Simon Urbanek
+037530.html,[Rd] Force action in package install?,37530,Simon Urbanek
+037531.html,[Rd] Force action in package install?,37531,Simon Urbanek
+037572.html,[Rd] Data editor in Mac OS X (PR#8837),37572,Simon Urbanek
+037573.html,[Rd] R 2.3.0 and rgl on OS X 10.4.6 (PR#8833),37573,Simon Urbanek
+037603.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37603,Simon Urbanek
+037625.html,[Rd] suppressing &quot;global&quot; cppflags in an individual package,37625,Simon Urbanek
+037776.html,[Rd] Memory allocator on OS/X,37776,Simon Urbanek
+037910.html,[Rd] 2.3 issues on Mac (PR#8915),37910,Simon Urbanek
+037869.html,[Rd] typo in ?dimnames,37869,Tobias Verbeke
+037676.html,"[Rd] (PR#8861) Memory allocation fails in R 2.2.1 and R 2.3.0	on SGI Irix, while plenty of memory available",37676,Mirjam van Vroonhoven
+037559.html,[Rd] `power' documentation slip (PR#8838),37559,s.wood at bath.ac.uk
+037903.html,[Rd] Numerical error in R (win32) (PR#8909),37903,p.dalgaard at biostat.ku.dk
+037715.html,[Rd] Convention difference in tseries.maxdrawdown (PR#8872),37715,rproject at boonstra.org
+037881.html,[Rd] Recommended package nlme: bug in predict.lme when an	independent variable is a polynomial (PR#8905),37881,renaud.lancelot at cirad.fr
+037813.html,[Rd] ssize_t not defined in sockconn.c (PR#8889),37813,wade.rogers at ciradiscovery.com
+037631.html,[Rd] bug report - cor (PR#8852),37631,daniel.oshea at dnr.state.mn.us
+037854.html,[Rd] Problem with pasteing formulas (PR#8897),37854,john.little at dunelm.org.uk
+037723.html,[Rd] Noncentral dt() with tiny 'x' values (PR#8874),37723,meredith at easynet.co.uk
+037670.html,"[Rd] Memory allocation fails in R 2.2.1 and R 2.3.0 on SGI Irix,	while plenty of memory available (PR#8861)",37670,m.vroonhoven at erasmusmc.nl
+037892.html,[Rd] R Regression Routines called in C/C++,37892,tzotchev at euv-frankfurt-o.de
+037575.html,[Rd] irr package exits (PR#8839),37575,marina.saadia at freesbee.fr
+037577.html,[Rd] Bug solved / Re:  irr package exits (PR#8839),37577,marina.saadia at freesbee.fr
+037884.html,[Rd] misspelling of &quot;Mauchly&quot; (PR#8908),37884,g_lukas at freesurf.ch
+037714.html,[Rd] Documentation for taper in spec.taper (PR#8871),37714,stein at galton.uchicago.edu
+037609.html,[Rd] Typo in getAllMethods() (PR#8848),37609,Robert.McGehee at geodecapital.com
+037922.html,"[Rd] CT unit to drill on Mars,	Revenue Up 200% - Ref. jh010 (PR#8918)",37922,Account_aggregation_apollo at gmail.com
+037842.html,[Rd] bug in ccf (PR#8893),37842,KjetilBrinchmannHalvorsen at gmail.com
+037528.html,[Rd] Histogram to pdf file (PR#8829),37528,ksawery.pasciak at gmail.com
+037691.html,[Rd] bug in rbind.data.frame with factors (PR#8868),37691,rafalku at gmail.com
+037897.html,[Rd] (PR#8905) Recommended package nlme: bug in predict.lme	when an independent variable is a polynomial,37897,renaud.lancelot at gmail.com
+037865.html,[Rd] cpu usage stays at 100% (PR#8903),37865,ifetzer at gmx.net
+037579.html,[Rd] Inconsistency in AIC values for glm with family poisson	(PR#8840),37579,x.sole at iconcologia.net
+037594.html,[Rd] Rmpi instlation problem (PR#8846),37594,ebarreto at igc.gulbenkian.pt
+037711.html,[Rd] prcomp: problem with zeros? (PR#8870),37711,juha.heljoranta at iki.fi
+037727.html,[Rd] prcomp: problem with zeros? (PR#8870),37727,juha.heljoranta at iki.fi
+037887.html,[Rd] Numerical error in R (win32) (PR#8909),37887,teck.lim at imperial.ac.uk
+037899.html,[Rd] Numerical error in R (win32) (PR#8909),37899,teck.lim at imperial.ac.uk
+037757.html,[Rd] ?attr: wrong parameter name (PR#8880),37757,prechelt at inf.fu-berlin.de
+037682.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37682,westfeld at inf.tu-dresden.de
+037778.html,[Rd] Negatives density values (PR#8876),37778,ecu at info.fundp.ac.be
+037678.html,[Rd] Truncated labels in hist (PR#8864),37678,pinard at iro.umontreal.ca
+037742.html,[Rd] Truncated labels in hist (PR#8864),37742,pinard at iro.umontreal.ca
+037880.html,[Rd] Correction to ?alist (PR#8904),37880,pinard at iro.umontreal.ca
+037906.html,[Rd] Documentation error for par(lty) (PR#8914),37906,bpeyser at jhmi.edu
+037522.html,[Rd] Call trellis function in a function (PR#8827),37522,xiao.gang.fan1 at libertysurf.fr
+037898.html,[Rd] Numerical error in R (win32) (PR#8909),37898,ltp
+037901.html,[Rd] Numerical error in R (win32) (PR#8909),37901,ltp
+037900.html,[Rd] Numerical error in R (win32) (PR#8909),37900,ltp
+037770.html,[Rd] Possible issue with make install (PR#8883),37770,hornyaks at mail.nih.gov
+037550.html,[Rd] R 2.3.0 and rgl on OS X 10.4.6 (PR#8833),37550,eatkinso at mdanderson.org
+037815.html,[Rd] ssize_t not defined in sockconn.c (PR#8889),37815,MSchwartz at mn.rr.com
+037771.html,[Rd] Possible issue with make install (PR#8883),37771,mschwartz at mn.rr.com
+037584.html,[Rd] mean of complex vector (PR#8842),37584,john.peters at nmi.gov.au
+037525.html,[Rd] Installation problem of R.app GUI 1.15 for R 2.3.0 (PR#8828),37525,dupan at northwestern.edu
+037801.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37801,edward.m at psu.ac.th
+037804.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37804,edward.m at psu.ac.th
+037907.html,[Rd] 2.3 issues on Mac (PR#8915),37907,ryan at stat.Berkeley.EDU
+037908.html,[Rd] 2.3 issues on Mac (PR#8916),37908,ryan at stat.berkeley.edu
+037782.html,[Rd] increase size of the limit of memory (PR#8885),37782,zhou at stat.columbia.edu
+037535.html,[Rd] cannot use fanny in package cluster (PR#8830),37535,maechler at stat.math.ethz.ch
+037703.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37703,maechler at stat.math.ethz.ch
+037733.html,[Rd] Noncentral dt() with tiny 'x' values (PR#8874),37733,maechler at stat.math.ethz.ch
+037565.html,[Rd] hey sis!,37565,udr-core at stat.math.ethz.ch
+037532.html,[Rd] cannot use fanny in package cluster (PR#8830),37532,ghuang at stat.nctu.edu.tw
+037618.html,[Rd] Allowed quasibinomial links (PR#8851),37618,henric.nilsson at statisticon.se
+037533.html,[Rd] cannot use fanny in package cluster (PR#8830),37533,ligges at statistik.uni-dortmund.de
+037534.html,[Rd] Histogram to pdf file (PR#8829),37534,ligges at statistik.uni-dortmund.de
+037632.html,[Rd] bug report - cor (PR#8852),37632,ligges at statistik.uni-dortmund.de
+037889.html,[Rd] Numerical error in R (win32) (PR#8909),37889,ligges at statistik.uni-dortmund.de
+037576.html,[Rd] irr package exits (PR#8839),37576,ripley at stats.ox.ac.uk
+037583.html,[Rd] Inconsistency in AIC values for glm with family poisson	(PR#8841),37583,ripley at stats.ox.ac.uk
+037595.html,[Rd] Rmpi instlation problem (PR#8846),37595,ripley at stats.ox.ac.uk
+037627.html,[Rd] Allowed quasibinomial links (PR#8851),37627,ripley at stats.ox.ac.uk
+037628.html,[Rd] (PR#8824) wishlist: summary for regression models to report,37628,ripley at stats.ox.ac.uk
+037681.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37681,ripley at stats.ox.ac.uk
+037706.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37706,ripley at stats.ox.ac.uk
+037712.html,[Rd] prcomp: problem with zeros? (PR#8870),37712,ripley at stats.ox.ac.uk
+037783.html,[Rd] increase size of the limit of memory (PR#8885),37783,ripley at stats.ox.ac.uk
+037803.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37803,ripley at stats.ox.ac.uk
+037805.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37805,ripley at stats.ox.ac.uk
+037806.html,[Rd] Sys.setlocale upsets windows graphics device (PR#8887),37806,ripley at stats.ox.ac.uk
+037816.html,[Rd] ssize_t not defined in sockconn.c (PR#8889),37816,ripley at stats.ox.ac.uk
+037843.html,[Rd] bug in ccf (PR#8893),37843,ripley at stats.ox.ac.uk
+037847.html,[Rd] (PR#8877) predict.lm does not have a weights argument for,37847,ripley at stats.ox.ac.uk
+037853.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37853,ripley at stats.ox.ac.uk
+037855.html,[Rd] Problem with pasteing formulas (PR#8897),37855,ripley at stats.ox.ac.uk
+037909.html,[Rd] Documentation error for par(lty) (PR#8914),37909,ripley at stats.ox.ac.uk
+037656.html,"[Rd] windows( ... ,rescale=&quot;fixed&quot;) bug (PR#8857)",37656,murdoch at stats.uwo.ca
+037709.html,[Rd] optim &quot;CG&quot; bug w/patch proposal (PR#8786),37709,murdoch at stats.uwo.ca
+037644.html,[Rd] wilcox.exact function (PR#8856),37644,pat.hodgson at sympatico.ca
+037510.html,[Rd] wishlist: summary for regression models to report number of	omitted cases because of NAs (PR#8824),37510,groemping at tfh-berlin.de
+037653.html,"[Rd] windows( ... ,rescale=&quot;fixed&quot;) bug (PR#8857)",37653,Gerhard.Thallinger at tugraz.at
+037606.html,"[Rd] R, Rcmdr crash on WinXP PRO laptop (PR#8583)",37606,Jani.Erola at tukkk.fi
+037672.html,"[Rd] Memory allocation fails in R 2.2.1 and R 2.3.0 on SGI Irix,	(PR#8862)",37672,tlumley at u.washington.edu
+037740.html,[Rd] predict.lm does not have a weights argument for newdata	(PR#8877),37740,jranke at uni-bremen.de
+037781.html,[Rd] (PR#8877) predict.lm does not have a weights argument for	newdata,37781,jranke at uni-bremen.de
+037818.html,[Rd] (PR#8877) Literature for proposed fix,37818,jranke at uni-bremen.de
+037858.html,[Rd] (PR#8877) predict.lm does not have a weights argument for	newdata,37858,jranke at uni-bremen.de
+037734.html,[Rd] anova F-tests (PR#8875),37734,benfitz at utk.edu
+037768.html,[Rd] I: L.D.L (PR#8881),37768,willylotto at virgilio.it
+037580.html,[Rd] Patch for r-intro to update xgobi to ggobi,37580,hadley wickham
+037591.html,[Rd] Seg fault when installing package from bad repository,37591,hadley wickham
+037593.html,[Rd] Seg fault when installing package from bad repository,37593,hadley wickham
+037610.html,[Rd] Warning: use of NULL environment is deprecated (in R CMD check),37610,hadley wickham
+037615.html,[Rd] Warning: use of NULL environment is deprecated (in R CMD	check),37615,hadley wickham
+037558.html,[Rd] Data editor in Mac OS X (PR#8837),37558,jason_rogers at wsu.edu

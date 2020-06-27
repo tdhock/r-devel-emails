@@ -1,0 +1,401 @@
+link,Subject,id,author
+049486.html,[Rd] a R_PV problem,49486,"Antonio, Fabio Di Narzo"
+049552.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines	(crasher+proposed fix!),49552,"Antonio, Fabio Di Narzo"
+049731.html,[Rd] make.packages.html,49731,Jonathan Baron
+049750.html,[Rd] make.packages.html - solved,49750,Jonathan Baron
+049644.html,[Rd] S4 generic for lowess,49644,Henrik Bengtsson
+049659.html,[Rd] image (PR#11493),49659,Henrik Bengtsson
+049669.html,[Rd] rawToChar(raw(0)),49669,Henrik Bengtsson
+049433.html,[Rd] zero variance in part of a glm (PR#11355),49433,Charles C. Berry
+049555.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines (crasher+proposed fix!),49555,Roger Bivand
+049587.html,[Rd] ** operator,49587,Roger Bivand
+049768.html,[Rd] Unnecssary warnings in plot function (PR#11530),49768,Blay
+049618.html,[Rd] HoltWinters fitted level parameter not bounded between 0	and 1 (PR#11469),49618,John Bodley
+049679.html,[Rd] FAQ nomination,49679,Ben Bolker
+049758.html,[Rd] thought for posting guide,49758,Ben Bolker
+049784.html,[Rd] Listing all possible samples of Size two form Large	Population,49784,Ben Bolker
+049774.html,[Rd] problem building R packages on RHEL 4 Linux with	Intel	compilers,49774,Esmail Bonakdarian
+049699.html,[Rd] names&lt;- bug or feature?,49699,Patrick Burns
+049494.html,[Rd] Windows binary packages &amp; R-Forge,49494,Yohan Chalabi
+049666.html,[Rd] Problem with R or fBasics Package (PR#11495),49666,Yohan Chalabi
+049740.html,[Rd] sort - Windows and Linux,49740,Yohan Chalabi
+049452.html,[Rd] help with segmentation fault,49452,Kyeongmi Cheon
+049477.html,[Rd] Is there any way to find out how a certain functions are	implemented in R?,49477,Kyeongmi Cheon
+049755.html,[Rd] Multiple Intersections,49755,Tony Chiang
+049760.html,[Rd] Multiple Intersections,49760,Tony Chiang
+049415.html,[Rd] Error in building ROracle in Windows with R 2.6.2 and Oracle	10g.,49415,Ajay DAS
+049417.html,[Rd] Error in building ROracle in Windows with R 2.6.2 and	Oracle 10g.,49417,Ajay DAS
+049419.html,[Rd] Error in building ROracle in Windows with R 2.6.2 and	Oracle 10g.,49419,Ajay DAS
+049635.html,[Rd] Error in building library - R CMD build mypkg.,49635,Ajay DAS
+049441.html,[Rd] zero variance in part of a glm (PR#11355),49441,Peter Dalgaard
+049442.html,[Rd] error with R-patched (2008-05-02 r45591),49442,Peter Dalgaard
+049460.html,[Rd] error with R-patched (2008-05-02 r45591),49460,Peter Dalgaard
+049506.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49506,Peter Dalgaard
+049507.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49507,Peter Dalgaard
+049510.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49510,Peter Dalgaard
+049588.html,[Rd] ** operator,49588,Peter Dalgaard
+049678.html,[Rd] bug in R 2.7.0 (PR#11497),49678,Peter Dalgaard
+049717.html,[Rd] Double HTML encoding in R Bug Tracking Submission	form	(PR#11517),49717,Peter Dalgaard
+049722.html,[Rd] Double HTML encoding in R Bug Tracking	Submission	form	(PR#11517),49722,Peter Dalgaard
+049754.html,"[Rd] table(factor(x), exclude=NULL) (PR#11494)",49754,Peter Dalgaard
+049574.html,[Rd] Warning about undocumented data sets,49574,Charles Danko
+049787.html,[Rd] Reading an &quot;unsigned long long&quot; using R readBin(),49787,Sean Davis
+049724.html,[Rd] small documentation change: maxCol -&gt; max.col in maxCol.Rd?,49724,Dan Davison
+049638.html,[Rd] using zlib in a package: problems in windows,49638,Ramon Diaz-Uriarte
+049641.html,[Rd] using zlib in a package: problems in windows,49641,Ramon Diaz-Uriarte
+049805.html,[Rd] Re quest: Documentation of formulae,49805,Mark Difford
+049490.html,[Rd] a R_PV problem,49490,Bill Dunlap
+049687.html,[Rd] bug in R 2.7.0 (PR#11497),49687,Bill Dunlap
+049689.html,[Rd] bug in R 2.7.0 (PR#11497),49689,Bill Dunlap
+049799.html,[Rd] Reading an &quot;unsigned long long&quot; using R readBin(),49799,Bill Dunlap
+049471.html,[Rd] OS_type,49471,Dirk Eddelbuettel
+049476.html,[Rd] [R-SIG-Mac] Starting tcltk without Tk,49476,Dirk Eddelbuettel
+049518.html,[Rd] bug on compilation (PR#11395),49518,Dirk Eddelbuettel
+049625.html,[Rd] gfortran: Command not found,49625,Dirk Eddelbuettel
+049705.html,[Rd] value returned by findFun when the name cannot be found.,49705,Laurent Gautier
+049723.html,[Rd] value returned by findFun when the name cannot be found.,49723,Laurent Gautier
+049682.html,[Rd] tests/ok-errors.R ## bad infinite recursion,49682,George Georgalis
+049701.html,[Rd] tests/ok-errors.R ## bad infinite recursion,49701,George Georgalis
+049708.html,[Rd] tests/ok-errors.R ## bad infinite recursion,49708,George Georgalis
+049709.html,[Rd] tests/ok-errors.R ## bad infinite recursion,49709,George Georgalis
+049613.html,[Rd] var/sd and NAs in R2.7.0,49613,"Gerlanc, Daniel"
+049448.html,[Rd] S4 / S3 / Sweave problem,49448,Paul Gilbert
+049456.html,[Rd] S4 / S3 / Sweave problem,49456,Paul Gilbert
+049457.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49457,Patrick Giraudoux
+049462.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49462,Patrick Giraudoux
+049463.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49463,Patrick Giraudoux
+049465.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49465,Patrick Giraudoux
+049470.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49470,Patrick Giraudoux
+049424.html,[Rd] Out of bounds negative index,49424,Vincent Goulet
+049428.html,[Rd] Out of bounds negative index,49428,Vincent Goulet
+049479.html,[Rd] gfortran: Command not found,49479,Spencer Graves
+049624.html,[Rd] gfortran: Command not found,49624,Spencer Graves
+049626.html,[Rd] gfortran: Command not found,49626,Spencer Graves
+049443.html,[Rd] Change in the Tcl/Tk loading in R 2.7.0 (under Unix/Mac OS X)?,49443,Philippe Grosjean
+049445.html,[Rd] Change in the Tcl/Tk loading in R 2.7.0 (under Unix/Mac OS X)?,49445,Philippe Grosjean
+049484.html,[Rd] [R-SIG-Mac] Starting tcltk without Tk,49484,Philippe Grosjean
+049612.html,[Rd] var/sd and NAs in R2.7.0,49612,Gabor Grothendieck
+049632.html,"[Rd] (PR#11484) On WinXP,	R CMD config needs sh (and breaks without it)",49632,Gabor Grothendieck
+049636.html,[Rd] Error in building library - R CMD build mypkg.,49636,Gabor Grothendieck
+049737.html,[Rd] make.packages.html,49737,Gabor Grothendieck
+049741.html,[Rd] sort - Windows and Linux,49741,Gabor Grothendieck
+049746.html,[Rd] Small request.,49746,Gabor Grothendieck
+049763.html,[Rd] A small modification of plot.acf (patch),49763,Gabor Grothendieck
+049791.html,"[Rd] scoping problem when calling lm(precomputed formula,	weights) from function (PR#11540)",49791,Gabor Grothendieck
+049688.html,[Rd] postscript(colormodel = &quot;cmyk&quot;) conversion is wrong,49688,Jeffrey J. Hallman
+049738.html,[Rd] (PR#11509) rgb to cmyk conversion is wrong in,49738,Jeffrey J. Hallman
+049498.html,[Rd] optional setValidity(),49498,Robin Hankin
+049654.html,[Rd] \S4method in combination with &quot;[&quot; and &quot;[&lt;-&quot;,49654,Robin Hankin
+049454.html,[Rd] help with segmentation fault,49454,Kasper Daniel Hansen
+049478.html,[Rd] Is there any way to find out how a certain functions are	implemented in R?,49478,Kasper Daniel Hansen
+049728.html,[Rd] Macintosh Transperancy (PR#11511),49728,Kasper Daniel Hansen
+049802.html,[Rd] (PR#11537) help (using ?) does not handle trailing	whitespace,49802,Tim Hesterberg
+049557.html,[Rd] OS X / R.h,49557,Adam Hinz
+049409.html,[Rd] X11cairo with antialias=&quot;none&quot; buggy under MacOS?,49409,Joerg van den Hoff
+049412.html,[Rd] X11cairo with antialias=&quot;none&quot; buggy under MacOS?,49412,Joerg van den Hoff
+049414.html,[Rd] X11cairo with antialias=&quot;none&quot; buggy under MacOS?,49414,Joerg van den Hoff
+049757.html,[Rd] error: C stack usage is too close to the limit.,49757,Jeffrey Horner
+049657.html,[Rd] \S4method in combination with &quot;[&quot; and &quot;[&lt;-&quot;,49657,Kurt Hornik
+049595.html,[Rd] ** operator,49595,Karl Ove Hufthammer
+049565.html,[Rd] Catching warning message(stdout) from C,49565,Maarten van Iterson
+049671.html,[Rd] rbind.data.frame drops attributes for factor variables,49671,Erik Iverson
+049683.html,[Rd] grid error message when resizing graphics window after tcltk	loaded,49683,Erik Iverson
+049690.html,[Rd] grid error message when resizing graphics window after tcltk loaded,49690,Erik Iverson
+049695.html,[Rd] grid error message when resizing graphics window after tcltk loaded,49695,Erik Iverson
+049694.html,"[Rd] seeing an S4 method, not using it",49694,Thibaut Jombart
+049703.html,"[Rd] seeing an S4 method, not using it",49703,Thibaut Jombart
+049447.html,[Rd] A patch for extending pdf device to embed popup text and web	links,49447,Tadashi Kadowaki
+049473.html,[Rd] A patch for extending pdf device to embed popup text and	web links,49473,Tadashi Kadowaki
+049434.html,[Rd] error with R-patched (2008-05-02 r45591),49434,Mark Kimpel
+049438.html,[Rd] error with R-patched (2008-05-02 r45591),49438,Mark Kimpel
+049459.html,[Rd] error with R-patched (2008-05-02 r45591),49459,Mark Kimpel
+049461.html,[Rd] error with R-patched (2008-05-02 r45591),49461,Mark Kimpel
+049773.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49773,Mark Kimpel
+049775.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49775,Mark Kimpel
+049777.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49777,Mark Kimpel
+049779.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49779,Mark Kimpel
+049653.html,[Rd] \S4method in combination with &quot;[&quot; and &quot;[&lt;-&quot;,49653,Matthias Kohl
+049655.html,[Rd] \S4method in combination with &quot;[&quot; and &quot;[&lt;-&quot;,49655,Matthias Kohl
+049658.html,[Rd] \S4method in combination with &quot;[&quot; and &quot;[&lt;-&quot;,49658,Matthias Kohl
+049585.html,[Rd] interrupting native code,49585,Kjell Konis
+049599.html,[Rd] interrupting native code,49599,Kjell Konis
+049603.html,[Rd] interrupting native code,49603,Kjell Konis
+049643.html,[Rd] interrupting native code,49643,Kjell Konis
+049652.html,[Rd] interrupting native code,49652,Kjell Konis
+049620.html,[Rd] Configure errors say to report here... (PR#11470),49620,Adam D. I. Kramer
+049621.html,[Rd] Configure errors say to report here... (PR#11470),49621,Adam D. I. Kramer
+049648.html,[Rd] need some help in plotting xy graph,49648,"Kurapati,	Ravichandra (Ravichandra)"
+049502.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49502,Fr&#233;d&#233;ric Lafitte
+049493.html,[Rd] [R] [BioC] RCurl loading problem with 64 bit linux	distribution,49493,Duncan Temple Lang
+049766.html,[Rd] mingw cross compiler binaries available,49766,Hin-Tak Leung
+049508.html,[Rd] a R_PV problem,49508,Gang Liang
+049416.html,[Rd] Error in building ROracle in Windows with R 2.6.2 and Oracle 10g.,49416,Uwe Ligges
+049418.html,[Rd] Error in building ROracle in Windows with R 2.6.2 and Oracle 10g.,49418,Uwe Ligges
+049512.html,[Rd] bug on compilation (PR#11395),49512,Uwe Ligges
+049513.html,[Rd] Version 2.7 for Windows (PR#11399),49513,Uwe Ligges
+049634.html,"[Rd] as.POSIX{ct,lt} fail on class &quot;AsIs&quot;",49634,Don MacQueen
+049467.html,[Rd] S4 / S3 / Sweave problem,49467,Martin Maechler
+049515.html,"[Rd] all.equal, classes, and order of arguments",49515,Martin Maechler
+049535.html,[Rd] str and class,49535,Martin Maechler
+049553.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines,49553,Martin Maechler
+049651.html,[Rd] need some help in plotting xy graph,49651,Martin Maechler
+049761.html,[Rd] Multiple Intersections,49761,Martin Maechler
+049781.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49781,Martin Maechler
+049519.html,[Rd] Version 2.7 for Windows (PR#11399),49519,Charles Man
+049611.html,[Rd] var/sd and NAs in R2.7.0,49611,"McGehee, Robert"
+049614.html,[Rd] var/sd and NAs in R2.7.0,49614,"McGehee, Robert"
+049615.html,[Rd] var/sd and NAs in R2.7.0,49615,"McGehee, Robert"
+049563.html,[Rd] Advice on compiling R using Intel Compilers? Btw: -c99 is	deprecated,49563,Bj&#248;rn-Helge Mevik
+049783.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49783,Bj&#248;rn-Helge Mevik
+049604.html,[Rd] HoltWinters fitted level parameter not bounded between 0 and 1 (PR#11469),49604,David Meyer
+049622.html,[Rd] HoltWinters fitted level parameter not bounded between 0 and 1 (PR#11469),49622,David Meyer
+049564.html,[Rd] doc buglet / bug: row / col as.factor requires dimnames,49564,Martin Morgan
+049698.html,"[Rd] seeing an S4 method, not using it",49698,Martin Morgan
+049756.html,[Rd] Multiple Intersections,49756,Martin Morgan
+049797.html,"[Rd] NAMESPACE &amp; methods guidance, please",49797,Martin Morgan
+049640.html,[Rd] S4 generic for lowess,49640,Iago Mosqueira
+049730.html,[Rd] S4 generic for lowess,49730,Iago Mosqueira
+049764.html,[Rd] Cross-compilers for 2.7.0,49764,Iago Mosqueira
+049772.html,[Rd] Cross-compilers for 2.7.0,49772,Iago Mosqueira
+049408.html,[Rd] help text for xlim,49408,Duncan Murdoch
+049426.html,[Rd] Out of bounds negative index,49426,Duncan Murdoch
+049427.html,[Rd] Out of bounds negative index,49427,Duncan Murdoch
+049480.html,[Rd] gfortran: Command not found,49480,Duncan Murdoch
+049485.html,[Rd] a R_PV problem,49485,Duncan Murdoch
+049517.html,[Rd] [PATCH] Typo in 'unique' help page (PR#11401),49517,Duncan Murdoch
+049522.html,[Rd] build packages with vignettes in Windows,49522,Duncan Murdoch
+049531.html,[Rd] comparison (PR#11421),49531,Duncan Murdoch
+049540.html,[Rd] Typo in man page for &quot;packBits&quot; (PR#11435),49540,Duncan Murdoch
+049544.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines,49544,Duncan Murdoch
+049575.html,[Rd] Warning about undocumented data sets,49575,Duncan Murdoch
+049584.html,[Rd] ** operator,49584,Duncan Murdoch
+049609.html,[Rd] Sweave.sty problems under WinXP (English locale) with default settings,49609,Duncan Murdoch
+049672.html,[Rd] image (PR#11493),49672,Duncan Murdoch
+049673.html,[Rd] image (PR#11493),49673,Duncan Murdoch
+049685.html,[Rd] feature request for M$-Windows install (PR#11499),49685,Duncan Murdoch
+049686.html,[Rd] feature request for M$-Windows install (PR#11499),49686,Duncan Murdoch
+049691.html,[Rd] bug in R 2.7.0 (PR#11497),49691,Duncan Murdoch
+049692.html,[Rd] feature request for M$-Windows install (PR#11499),49692,Duncan Murdoch
+049700.html,[Rd] names&lt;- bug or feature?,49700,Duncan Murdoch
+049792.html,[Rd] Reading an &quot;unsigned long long&quot; using R readBin(),49792,Duncan Murdoch
+049794.html,"[Rd] scoping problem when calling lm(precomputed formula, weights) from function (PR#11540)",49794,Duncan Murdoch
+049455.html,[Rd] A patch for extending pdf device to embed popup text and web	links,49455,Paul Murrell
+049693.html,[Rd] A problem about the Japanese font of OSX,49693,Ei-ji Nakama
+049495.html,[Rd] Windows binary packages &amp; R-Forge,49495,Jari Oksanen
+049674.html,[Rd] weights.default fail with &quot;atomic vectors&quot;,49674,Jari Oksanen
+049482.html,[Rd] where obtain libR.a?,49482,Felipe Osorio
+049474.html,[Rd] A patch for extending pdf device to embed popup text and web	links,49474,Tony Plate
+049798.html,[Rd] Request: Documentation of formulae,49798,Mike Prager
+049526.html,[Rd] Have you ever experienced this problem with REAL in a C code,49526,Mathieu Ribatet
+049530.html,[Rd] Have you ever experienced this problem with REAL in a C code,49530,Mathieu Ribatet
+049405.html,"[Rd] New version of X11, png and jpeg",49405,Prof Brian Ripley
+049406.html,[Rd] Quotation marks (PR#11353),49406,Prof Brian Ripley
+049407.html,[Rd] help text for xlim,49407,Prof Brian Ripley
+049410.html,[Rd] X11cairo with antialias=&quot;none&quot; buggy under MacOS?,49410,Prof Brian Ripley
+049411.html,[Rd] reproducible segmentation fault caused by textConnection(),49411,Prof Brian Ripley
+049435.html,[Rd] error with R-patched (2008-05-02 r45591),49435,Prof Brian Ripley
+049439.html,[Rd] R CMD check: small tests suggestion,49439,Prof Brian Ripley
+049440.html,[Rd] error with R-patched (2008-05-02 r45591),49440,Prof Brian Ripley
+049444.html,[Rd] Change in the Tcl/Tk loading in R 2.7.0 (under Unix/Mac OS X)?,49444,Prof Brian Ripley
+049450.html,[Rd] S4 / S3 / Sweave problem,49450,Prof Brian Ripley
+049458.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49458,Prof Brian Ripley
+049464.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49464,Prof Brian Ripley
+049468.html,[Rd] S4 / S3 / Sweave problem,49468,Prof Brian Ripley
+049469.html,[Rd] OS_type,49469,Prof Brian Ripley
+049481.html,[Rd] gfortran: Command not found,49481,Prof Brian Ripley
+049487.html,[Rd] a R_PV problem,49487,Prof Brian Ripley
+049492.html,[Rd] [R] [BioC] RCurl loading problem with 64 bit linux distribution,49492,Prof Brian Ripley
+049496.html,[Rd] Windows binary packages &amp; R-Forge,49496,Prof Brian Ripley
+049497.html,[Rd] texi2dvi instead of pdflatex in R2.7.0? and related bioc 2.2 builds,49497,Prof Brian Ripley
+049505.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49505,Prof Brian Ripley
+049509.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49509,Prof Brian Ripley
+049525.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49525,Prof Brian Ripley
+049527.html,[Rd] Have you ever experienced this problem with REAL in a C code,49527,Prof Brian Ripley
+049558.html,[Rd] Unable to restore saved data in .RData (PR#11455),49558,Prof Brian Ripley
+049559.html,[Rd] OS X / R.h,49559,Prof Brian Ripley
+049566.html,[Rd] Catching warning message(stdout) from C,49566,Prof Brian Ripley
+049576.html,[Rd] Reset an embedded R.dll,49576,Prof Brian Ripley
+049578.html,[Rd] Reset an embedded R.dll,49578,Prof Brian Ripley
+049582.html,[Rd] Reset an embedded R.dll,49582,Prof Brian Ripley
+049589.html,[Rd] interrupting native code,49589,Prof Brian Ripley
+049590.html,[Rd] ** operator,49590,Prof Brian Ripley
+049591.html,[Rd] ** operator,49591,Prof Brian Ripley
+049592.html,[Rd] basename/dirname produce incorrect results,49592,Prof Brian Ripley
+049594.html,[Rd] Bug in poly() (PR#11243),49594,Prof Brian Ripley
+049597.html,[Rd] Configure errors say to report here... (PR#11470),49597,Prof Brian Ripley
+049600.html,[Rd] interrupting native code,49600,Prof Brian Ripley
+049601.html,[Rd] HoltWinters fitted level parameter not bounded between 0 and 1 (PR#11469),49601,Prof Brian Ripley
+049607.html,[Rd] interrupting native code,49607,Prof Brian Ripley
+049627.html,[Rd] gfortran: Command not found,49627,Prof Brian Ripley
+049639.html,[Rd] using zlib in a package: problems in windows,49639,Prof Brian Ripley
+049675.html,[Rd] image (PR#11493),49675,Prof Brian Ripley
+049684.html,[Rd] tests/ok-errors.R ## bad infinite recursion,49684,Prof Brian Ripley
+049702.html,[Rd] tests/ok-errors.R ## bad infinite recursion,49702,Prof Brian Ripley
+049711.html,[Rd] Macintosh Transperancy (PR#11511),49711,Prof Brian Ripley
+049725.html,[Rd] small documentation change: maxCol -&gt; max.col in maxCol.Rd?,49725,Prof Brian Ripley
+049726.html,[Rd] Using unicode with sprintf or paste in Windows (PR#11515),49726,Prof Brian Ripley
+049732.html,[Rd] make.packages.html,49732,Prof Brian Ripley
+049733.html,[Rd] A small modification of plot.acf (patch),49733,Prof Brian Ripley
+049742.html,[Rd] sort - Windows and Linux,49742,Prof Brian Ripley
+049743.html,[Rd] make.packages.html,49743,Prof Brian Ripley
+049753.html,[Rd] error: C stack usage is too close to the limit.,49753,Prof Brian Ripley
+049769.html,[Rd] quartz identify bug (PR#11491),49769,Prof Brian Ripley
+049770.html,[Rd] quartz identify bug (PR#11491),49770,Prof Brian Ripley
+049771.html,[Rd] Cross-compilers for 2.7.0,49771,Prof Brian Ripley
+049782.html,[Rd] problem building R packages on RHEL 4 Linux with Intel compilers,49782,Prof Brian Ripley
+049790.html,[Rd] Reading an &quot;unsigned long long&quot; using R readBin(),49790,Prof Brian Ripley
+049793.html,[Rd] Reading an &quot;unsigned long long&quot; using R readBin(),49793,Prof Brian Ripley
+049796.html,[Rd] (PR#11537) help (using ?) does not handle trailing whitespace,49796,Prof Brian Ripley
+049801.html,[Rd] (PR#11537) help (using ?) does not handle trailing whitespace,49801,Prof Brian Ripley
+049524.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49524,Paul Roebuck
+049667.html,[Rd] doc buglet / system method,49667,Paul Roebuck
+049804.html,[Rd] R-2.8.0 : get platform device with get(getOption(&quot;device&quot;)),49804,Paul Roebuck
+049413.html,[Rd] X11cairo with antialias=&quot;none&quot; buggy under MacOS?,49413,Barry Rowlingson
+049586.html,[Rd] ** operator,49586,Barry Rowlingson
+049736.html,[Rd] R and OpenSSI,49736,Barry Rowlingson
+049608.html,[Rd] Sweave.sty problems under WinXP (English locale) with default	settings,49608,Peter Ruckdeschel
+049649.html,[Rd] need some help in plotting xy graph,49649,Deepayan Sarkar
+049670.html,[Rd] rawToChar(raw(0)),49670,Deepayan Sarkar
+049676.html,[Rd] image (PR#11493),49676,Joseph Scandura
+049752.html,[Rd] image (PR#11493),49752,Joseph Scandura
+049572.html,[Rd] Reset an embedded R.dll,49572,Bernd Schoeller
+049577.html,[Rd] Reset an embedded R.dll,49577,Bernd Schoeller
+049579.html,[Rd] Reset an embedded R.dll,49579,Bernd Schoeller
+049521.html,[Rd] Linux installation,49521,Marc Schwartz
+049569.html,[Rd] R and F9,49569,Marc Schwartz
+049716.html,[Rd] Listing all possible samples of Size two form Large Population,49716,Nadeem Shafique
+049529.html,[Rd] Linux installation,49529,Gavin Simpson
+049429.html,"[Rd] S4: what to put in initialize, validity and constructor?",49429,Oleg Sklyar
+049436.html,[Rd] texi2dvi instead of pdflatex in R2.7.0? and related bioc 2.2	builds,49436,Oleg Sklyar
+049453.html,[Rd] help with segmentation fault,49453,Oleg Sklyar
+049744.html,[Rd] S4 generic for lowess,49744,Oleg Sklyar
+049422.html,"[Rd] S4: what to put in initialize, validity and constructor?",49422,"Sklyar, Oleg (MI London)"
+049499.html,[Rd] optional setValidity(),49499,"Sklyar, Oleg (MI London)"
+049500.html,[Rd] optional setValidity(),49500,"Sklyar, Oleg (MI London)"
+049523.html,[Rd] Linux installation,49523,"Sklyar, Oleg (MI London)"
+049561.html,"[Rd] 'cat' and 'write' as generic, just like 'c', 'cbind' etc?",49561,"Sklyar, Oleg (MI London)"
+049656.html,[Rd] \S4method in combination with &quot;[&quot; and &quot;[&lt;-&quot;,49656,"Sklyar, Oleg (MI London)"
+049668.html,[Rd] Problem with R or fBasics Package (PR#11495),49668,"Sklyar, Oleg (MI London)"
+049536.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed	fix!)	(PR#11281),49536,Soeren Sonnenburg
+049547.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed	fix!)	(PR#11281),49547,Soeren Sonnenburg
+049549.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines,49549,Soeren Sonnenburg
+049520.html,[Rd] Linux installation,49520,Michael Steinbeck-Reeves
+049533.html,[Rd] Linux installation,49533,Michael Steinbeck-Reeves
+049606.html,[Rd] interrupting native code,49606,Luke Tierney
+049647.html,[Rd] interrupting native code,49647,Luke Tierney
+049661.html,[Rd] interrupting native code,49661,Luke Tierney
+049706.html,[Rd] value returned by findFun when the name cannot be found.,49706,Luke Tierney
+049466.html,[Rd] troubles with R CMD check and examples under Ubuntu gutsy,49466,Berwin A Turlach
+049534.html,[Rd] str and class,49534,Dr Heather Turner
+049472.html,[Rd] ~/.Rprofile executed twice by R.app under Mac OS X	(PR#11380),49472,Simon Urbanek
+049475.html,[Rd] [R-SIG-Mac] Starting tcltk without Tk,49475,Simon Urbanek
+049488.html,[Rd] [R-SIG-Mac] Starting tcltk without Tk,49488,Simon Urbanek
+049610.html,[Rd] Configure errors say to report here... (PR#11470),49610,Simon Urbanek
+049616.html,[Rd] var/sd and NAs in R2.7.0,49616,Simon Urbanek
+049645.html,[Rd] quartz identify bug (PR#11491),49645,Simon Urbanek
+049646.html,[Rd] interrupting native code,49646,Simon Urbanek
+049660.html,[Rd] image (PR#11493),49660,Simon Urbanek
+049707.html,[Rd] Macintosh Transperancy (PR#11511),49707,Simon Urbanek
+049710.html,[Rd] Macintosh Transperancy (PR#11511),49710,Simon Urbanek
+049727.html,[Rd] Macintosh Transperancy (PR#11511),49727,Simon Urbanek
+049748.html,[Rd] image (PR#11493),49748,Simon Urbanek
+049776.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49776,Simon Urbanek
+049778.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49778,Simon Urbanek
+049780.html,[Rd] problem building R packages on RHEL 4 Linux with Intel	compilers,49780,Simon Urbanek
+049789.html,[Rd] Reading an &quot;unsigned long long&quot; using R readBin(),49789,Simon Urbanek
+049541.html,[Rd] Advice on compiling R using Intel Compilers? Btw: -c99 is	deprecated,49541,Joris  at  VU
+049718.html,[Rd] Macintosh Transperancy (PR#11511),49718,Bradley Vance
+049720.html,[Rd] Macintosh Transperancy (PR#11511),49720,Bradley Vance
+049449.html,[Rd] A patch for extending pdf device to embed popup text and web	links,49449,Tobias Verbeke
+049583.html,[Rd] ** operator,49583,Tobias Verbeke
+049697.html,[Rd] feature request for M$-Windows install (PR#11499),49697,Rick Voland
+049568.html,[Rd] Boxplot does not honor yaxp parameter (PR#11463),49568,klokew at acm.org
+049749.html,[Rd] solve cdf for noncentrality (PR#11527),49749,Jerry.Lewis at biogenidec.com
+049546.html,[Rd] k means,49546,Bill.Venables at csiro.au
+049630.html,[Rd] predict.prcomp: wrong check for matrix dimensions (PR#11482),49630,gabraham at csse.unimelb.edu.au
+049714.html,[Rd] (PR#11482),49714,gabraham at csse.unimelb.edu.au
+049560.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines,49560,edd at debian.org
+049680.html,[Rd] feature request for M$-Windows install (PR#11499),49680,rpvoland at facstaff.wisc.edu
+049501.html,[Rd]  Ross Ihaka's reflections on Common Lisp and R,49501,francogrex
+049696.html,[Rd] rgb to cmyk conversion is wrong in	src/library/grDevices/src/devPS.c (PR#11509),49696,m1jjh00 at frb.gov
+049704.html,[Rd] Macintosh Transperancy (PR#11511),49704,brdvance at gmail.com
+049803.html,[Rd] Wishlist: plot.acf often produces too long titles (PR#11545),49803,cmr.pent at gmail.com
+049556.html,[Rd] Unable to restore saved data in .RData (PR#11455),49556,ericwong001 at gmail.com
+049598.html,[Rd] HoltWinters fitted level parameter not bounded between 0 and 1	(PR#11469),49598,john.bodley at gmail.com
+049628.html,"[Rd] On WinXP,	R CMD config needs sh (and breaks without it) (PR#11484)",49628,lgautier at gmail.com
+049631.html,"[Rd] (PR#11484) On WinXP,	R CMD config needs sh (and breaks without it)",49631,lgautier at gmail.com
+049712.html,[Rd] format.factor (PR#11512),49712,oehl_list at gmx.de
+049786.html,[Rd] help (using ?) does not handle trailing whitespace (PR#11537),49786,rocket at google.com
+049788.html,"[Rd] scoping problem when calling lm(precomputed formula,	weights) from function (PR#11540)",49788,rocket at google.com
+049662.html,[Rd] Problem with R or fBasics Package (PR#11495),49662,cenap at hacettepe.edu.tr
+049596.html,[Rd] Configure errors say to report here... (PR#11470),49596,adik at ilovebacon.org
+049430.html,[Rd] zero variance in part of a glm (PR#11355),49430,m.crawley at imperial.ac.uk
+049431.html,[Rd] Using option na.rm=True in function SD does not work for	matrix with complete columns of NAs (PR#11364),49431,m.tschiedel at innovest.at
+049681.html,[Rd] PR#11477,49681,rtautenh at ipb-halle.de
+049751.html,[Rd]  error: C stack usage is too close to the limit.,49751,jeroenooms
+049516.html,[Rd] [PATCH] Typo in 'unique' help page (PR#11401),49516,rpeng at jhsph.edu
+049650.html,[Rd] image (PR#11493),49650,jms2003 at med.cornell.edu
+049745.html,[Rd] Small request.,49745,apjaworski at mmm.com
+049747.html,[Rd] Small request.,49747,apjaworski at mmm.com
+049537.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed fix!)	(PR#11438),49537,bugreports at nn7.de
+049542.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines,49542,bugreports at nn7.de
+049548.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed fix!)	(PR#11456),49548,r-ml at nn7.de
+049554.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines,49554,r-ml at nn7.de
+049739.html,[Rd] quartz identify bug (PR#11491),49739,olivierStat
+049765.html,[Rd] quartz identify bug (PR#11491),49765,olivierStat
+049664.html,[Rd] Errors in using gdb (PR#11496),49664,dustin.potter at osumc.edu
+049483.html,[Rd] a R_PV problem,49483,pseudo
+049489.html,[Rd] a R_PV problem,49489,pseudo
+049491.html,[Rd] a R_PV problem,49491,pseudo
+049663.html,"[Rd] table(factor(x), exclude=NULL) (PR#11494)",49663,David.Duffy at qimr.edu.au
+049538.html,[Rd] Typo in man page for &quot;packBits&quot; (PR#11435),49538,greg at random-technologies-llc.com
+049503.html,[Rd] closeAllConnections fails with socketConnection (PR#11396),49503,steve at revolution-computing.com
+049677.html,[Rd] bug in R 2.7.0 (PR#11497),49677,Wout.Slob at rivm.nl
+049570.html,[Rd] basename/dirname produce incorrect results,49570,ronggui
+049571.html,[Rd] basename/dirname produce incorrect results,49571,ronggui
+049617.html,[Rd] basename/dirname produce incorrect results,49617,ronggui
+049451.html,[Rd] ~/.Rprofile executed twice by R.app under Mac OS X (PR#11380),49451,phgrosjean at sciviews.org
+049713.html,[Rd] Using unicode with sprintf or paste in Windows (PR#11515),49713,mwtoews at sfu.ca
+049715.html,[Rd] Double HTML encoding in R Bug Tracking Submission form	(PR#11517),49715,mwtoews at sfu.ca
+049785.html,[Rd] Quartile summary generated by density() is misleading	(PR#11541),49785,ierickson at starmine.com
+049729.html,[Rd] Macintosh Transperancy (PR#11511),49729,khansen at stat.Berkeley.EDU
+049580.html,[Rd] Missing gfortran man page (PR#11465),49580,ryan at stat.berkeley.edu
+049581.html,[Rd] R Console preference pane has the blues (PR#11466),49581,ryan at stat.berkeley.edu
+049543.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed fix!)	(PR#11281),49543,maechler at stat.math.ethz.ch
+049551.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines	(crasher+proposed fix!),49551,maechler at stat.math.ethz.ch
+049562.html,[Rd] k means,49562,friedrich.leisch at stat.uni-muenchen.de
+049633.html,[Rd] k means,49633,friedrich.leisch at stat.uni-muenchen.de
+049642.html,[Rd] quartz identify bug (PR#11491),49642,olivier at statisticien.fr
+049528.html,[Rd] comparison (PR#11421),49528,ligges at statistik.tu-dortmund.de
+049514.html,[Rd] Version 2.7 for Windows (PR#11399),49514,ripley at stats.ox.ac.uk
+049539.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines	(crasher+proposed,49539,ripley at stats.ox.ac.uk
+049550.html,[Rd] (PR#11281) Bug in R 2.7 for over long lines	(crasher+proposed,49550,ripley at stats.ox.ac.uk
+049602.html,[Rd] HoltWinters fitted level parameter not bounded between 0	(PR#11472),49602,ripley at stats.ox.ac.uk
+049629.html,"[Rd] (PR#11484) On WinXP, R CMD config needs sh (and breaks",49629,ripley at stats.ox.ac.uk
+049665.html,[Rd] Problem with R or fBasics Package (PR#11495),49665,ripley at stats.ox.ac.uk
+049721.html,[Rd] Using unicode with sprintf or paste in Windows (PR#11515),49721,ripley at stats.ox.ac.uk
+049734.html,[Rd] format.factor (PR#11512),49734,ripley at stats.ox.ac.uk
+049735.html,[Rd] (PR#11509) rgb to cmyk conversion is wrong in,49735,ripley at stats.ox.ac.uk
+049795.html,"[Rd] scoping problem when calling lm(precomputed formula,	weights) (PR#11543)",49795,murdoch at stats.uwo.ca
+049421.html,"[Rd] S4: what to put in initialize, validity and constructor?",49421,cgenolin at u-paris10.fr
+049423.html,"[Rd] S4: what to put in initialize, validity and constructor?",49423,cgenolin at u-paris10.fr
+049545.html,[Rd] k means,49545,cgenolin at u-paris10.fr
+049619.html,[Rd] k means,49619,cgenolin at u-paris10.fr
+049593.html,[Rd] Bug in poly() (PR#11243),49593,russell-lenth at uiowa.edu
+049637.html,[Rd] schoolmath (PR#11488),49637,w.gray at vanderbilt.edu
+049800.html,[Rd] Request: Documentation of formulae,49800,markleeds at verizon.net
+049532.html,[Rd] Incorrect fix for PR#9316: Cook's Distance &amp; plot.lm,49532,Heather.Turner at warwick.ac.uk
+049567.html,[Rd] Cook's Distance in GLM (PR#9316),49567,Heather.Turner at warwick.ac.uk
+049420.html,"[Rd] all.equal, classes, and order of arguments",49420,hadley wickham
+049425.html,[Rd] Out of bounds negative index,49425,hadley wickham
+049437.html,[Rd] R CMD check: small tests suggestion,49437,hadley wickham
+049446.html,[Rd] R CMD check: small tests suggestion,49446,hadley wickham
+049605.html,[Rd] HoltWinters fitted level parameter not bounded between 0	(PR#11473),49605,david.meyer at wu-wien.ac.at
+049623.html,[Rd] HoltWinters fitted level parameter not bounded between 0	(PR#11478),49623,david.meyer at wu-wien.ac.at
+049432.html,[Rd] Quartz doesn't display x-axis properly until a window resize	(PR#11368),49432,luis.lopezoliveros at yahoo.com
+049759.html,[Rd] Unnecssary warnings in plot function (PR#11530),49759,opomporay at yahoo.com
+049504.html,[Rd] bug on compilation (PR#11395),49504,toffolidan at yahoo.com.br
+049511.html,[Rd] Version 2.7 for Windows (PR#11399),49511,enmanhk at yahoo.com.hk
+049719.html,[Rd] A small modification of plot.acf (patch),49719,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;
+049762.html,[Rd] A small modification of plot.acf (patch),49762,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;
+049767.html,[Rd] A small modification of plot.acf (patch),49767,&#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1055;&#1072;&#1088;&#1072;&#1084;&#1086;&#1085;&#1086;&#1074;

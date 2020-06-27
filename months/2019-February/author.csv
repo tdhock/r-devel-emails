@@ -1,0 +1,172 @@
+link,Subject,id,author
+077232.html,[Rd] nlminb with constraints failing on some platforms,77232,Avraham Adler
+077259.html,[Rd] nlminb with constraints failing on some platforms,77259,Avraham Adler
+077388.html,[Rd] Problem with compiling OpenBLAS to work with R,77388,Avraham Adler
+077278.html,[Rd] Extract.data.frame.Rd about $.data.frame,77278,Suharto Anggono Suharto Anggono
+077292.html,[Rd] Extract.data.frame.Rd about $.data.frame,77292,Suharto Anggono Suharto Anggono
+077350.html,[Rd] stopifnot,77350,Suharto Anggono Suharto Anggono
+077386.html,[Rd] stopifnot,77386,Suharto Anggono Suharto Anggono
+077323.html,[Rd] Bug in print.default: dispatches to global show instead of methods::show,77323,Dean Attali
+077231.html,[Rd] nlminb with constraints failing on some platforms,77231,Rui Barradas
+077337.html,[Rd] Return/print standard error in t.test(),77337,Rui Barradas
+077375.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77375,Rui Barradas
+077392.html,[Rd] Exit status of Rscript,77392,Rui Barradas
+077310.html,[Rd] bias issue in sample() (PR 17494),77310,Gabriel Becker
+077334.html,[Rd] code for sum function,77334,Gabriel Becker
+077357.html,[Rd] Bugzilla down?,77357,Gabriel Becker
+077360.html,[Rd] Bugzilla down?,77360,Gabriel Becker
+077366.html,[Rd] Compile R to WebAssembly / Emscripten?,77366,Gabriel Becker
+077370.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77370,Gabriel Becker
+077252.html,[Rd] nlminb with constraints failing on some platforms,77252,Brad Bell
+077387.html,[Rd] Problem with compiling OpenBLAS to work with R,77387,Kenny Bell
+077275.html,[Rd] PATCH: Asserting that 'connection' used has not changed + R_GetConnection2(),77275,Henrik Bengtsson
+077244.html,[Rd] Runnable R packages,77244,Ben Bolker
+077307.html,[Rd] code for sum function,77307,Ben Bolker
+077308.html,[Rd] mle (stat4) crashing due to singular Hessian in covariance matrix calculation,77308,Ben Bolker
+077321.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77321,Ben Bolker
+077329.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77329,Ben Bolker
+077333.html,[Rd] code for sum function,77333,Ben Bolker
+077348.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77348,Ben Bolker
+077261.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77261,David Byrne
+077263.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77263,David Byrne
+077279.html,[Rd] make.unique rbind examples,77279,Jonathan Carroll
+077314.html,[Rd] make.unique rbind examples,77314,Jonathan Carroll
+077369.html,[Rd] Compile R to WebAssembly / Emscripten?,77369,Scott Chamberlain
+077381.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77381,Travers Ching
+077382.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77382,Travers Ching
+077291.html,[Rd] Encoding issues,77291,G&#225;bor Cs&#225;rdi
+077295.html,[Rd] Encoding issues,77295,G&#225;bor Cs&#225;rdi
+077312.html,[Rd] Compile R to WebAssembly / Emscripten?,77312,G&#225;bor Cs&#225;rdi
+077243.html,[Rd] nlminb with constraints failing on some platforms,77243,Oliver Dechant
+077297.html,"[Rd] Error in rbind(info, getNamespaceInfo(env, &quot;S3methods&quot;))",77297,Matt Dowle
+077299.html,"[Rd] Error in rbind(info, getNamespaceInfo(env, &quot;S3methods&quot;))",77299,Matt Dowle
+077233.html,[Rd] Runnable R packages,77233,William Dunlap
+077245.html,[Rd] nlminb with constraints failing on some platforms,77245,William Dunlap
+077304.html,[Rd] code for sum function,77304,William Dunlap
+077320.html,[Rd] code for sum function,77320,William Dunlap
+077379.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77379,William Dunlap
+077234.html,[Rd] Runnable R packages,77234,Dirk Eddelbuettel
+077354.html,[Rd] pcre problems,77354,Dirk Eddelbuettel
+077301.html,[Rd] Documentation for sd (stats) + suggestion,77301,S Ellison
+077287.html,[Rd] code for sum function,77287,Rampal Etienne
+077325.html,[Rd] code for sum function,77325,Rampal Etienne
+077326.html,[Rd] code for sum function,77326,Rampal Etienne
+077327.html,[Rd] code for sum function,77327,Rampal Etienne
+077238.html,[Rd] nlminb with constraints failing on some platforms,77238,Stefan Evert
+077328.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77328,"Fox, John"
+077336.html,[Rd] Return/print standard error in t.test(),77336,"Fox, John"
+077343.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77343,"Fox, John"
+077303.html,[Rd] code for sum function,77303,Paul Gilbert
+077228.html,[Rd] nlminb with constraints failing on some platforms,77228,Berend Hasselman
+077258.html,[Rd] nlminb with constraints failing on some platforms,77258,Berend Hasselman
+077313.html,[Rd] code for sum function,77313,Berend Hasselman
+077324.html,[Rd] Bug in print.default: dispatches to global show instead of methods::show,77324,Lionel Henry
+077306.html,[Rd] patch for gregexpr(perl=TRUE),77306,Toby Hocking
+077318.html,[Rd] Bug: time complexity of substring is quadratic as string size and number of substrings increases,77318,Toby Hocking
+077319.html,[Rd]  Bug: time complexity of substring is quadratic as string size and number of substrings increases,77319,Toby Hocking
+077380.html,[Rd] Problem with compiling OpenBLAS to work with R,77380,Erin Hodgess
+077390.html,[Rd] Problem with compiling OpenBLAS to work with R,77390,Erin Hodgess
+077280.html,[Rd] Proposed function file.backup,77280,Paul Johnson
+077269.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77269,Tomas Kalibera
+077273.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77273,Tomas Kalibera
+077286.html,[Rd]  Trying to compile R 3.5.2 - 32 bit R - on Windows 10 64 bit - with ICU support,77286,Tomas Kalibera
+077290.html,[Rd] code for sum function,77290,Tomas Kalibera
+077294.html,[Rd] Encoding issues,77294,Tomas Kalibera
+077315.html,[Rd] patch for gregexpr(perl=TRUE),77315,Tomas Kalibera
+077322.html,[Rd] code for sum function,77322,Tomas Kalibera
+077344.html,[Rd]  Bug: time complexity of substring is quadratic as string size and number of substrings increases,77344,Tomas Kalibera
+077352.html,[Rd] pcre problems,77352,Tomas Kalibera
+077393.html,[Rd]  Bug: time complexity of substring is quadratic as string size and number of substrings increases,77393,Tomas Kalibera
+077288.html,[Rd] Proposed speedup of spec.pgram from spectrum.R,77288,Jonathan Kennel
+077368.html,[Rd] Improved Data Aggregation and Summary Statistics in R,77368,Sebastian Martin Krantz
+077377.html,[Rd] Improved Data Aggregation and Summary Statistics in R,77377,Sebastian Martin Krantz
+077389.html,[Rd] Improved Data Aggregation and Summary Statistics in R,77389,Sebastian Martin Krantz
+077267.html,[Rd] Runnable R packages,77267,Rainer M Krug
+077391.html,[Rd] Exit status of Rscript,77391,Michel Lang
+077335.html,[Rd] Return/print standard error in t.test(),77335,Thomas J. Leeper
+077338.html,[Rd] Return/print standard error in t.test(),77338,Thomas J. Leeper
+077347.html,[Rd] Return/print standard error in t.test(),77347,Thomas J. Leeper
+077225.html,[Rd] Runnable R packages,77225,David Lindelof
+077241.html,[Rd] Runnable R packages,77241,David Lindelof
+077266.html,[Rd] Runnable R packages,77266,David Lindelof
+077268.html,[Rd] Runnable R packages,77268,David Lindelof
+077226.html,[Rd] nlminb with constraints failing on some platforms,77226,Martin Maechler
+077229.html,[Rd] nlminb with constraints failing on some platforms,77229,Martin Maechler
+077254.html,[Rd] Inefficiency in df$col,77254,Martin Maechler
+077257.html,[Rd] nlminb with constraints failing on some platforms,77257,Martin Maechler
+077282.html,[Rd] Extract.data.frame.Rd about $.data.frame,77282,Martin Maechler
+077296.html,[Rd] Extract.data.frame.Rd about $.data.frame,77296,Martin Maechler
+077331.html,[Rd] Bug in print.default: dispatches to global show instead of methods::show,77331,Martin Maechler
+077339.html,[Rd] Return/print standard error in t.test(),77339,Martin Maechler
+077340.html,[Rd] Proposed patch for ?Extract,77340,Martin Maechler
+077342.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77342,Martin Maechler
+077345.html,[Rd] model.matrix.default() silently ignores bad contrasts.arg,77345,Martin Maechler
+077346.html,[Rd] Return/print standard error in t.test(),77346,Martin Maechler
+077376.html,[Rd] stopifnot,77376,Martin Maechler
+077235.html,[Rd] Set the number of threads using openmp with .Fortran?,77235,Ignacio Martinez
+077242.html,[Rd] Set the number of threads using openmp with .Fortran?,77242,Ignacio Martinez
+077247.html,[Rd] Set the number of threads using openmp with .Fortran?,77247,Ignacio Martinez
+077302.html,[Rd] mle (stat4) crashing due to singular Hessian in covariance matrix calculation,77302,Francisco Matorras
+077265.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77265,Paul McQuesten
+077260.html,[Rd] Runnable R packages,77260,Peter Meissner
+077353.html,[Rd] Is libtiff &gt;= 4.0.0 now required by R for TIFF support?,77353,Bj&#248;rn-Helge Mevik
+077374.html,[Rd] Improved Data Aggregation and Summary Statistics in R,77374,Joris Meys
+077277.html,[Rd] Set the number of threads using openmp with .Fortran?,77277,Andre Mikulec
+077283.html,[Rd] Trying to compile R 3.5.2 - 32 bit R - on Windows 10 64 bit - with ICU support,77283,Andre Mikulec
+077285.html,[Rd]  Trying to compile R 3.5.2 - 32 bit R - on Windows 10 64 bit - with ICU support,77285,Andre Mikulec
+077367.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77367,Brian Montgomery
+077401.html,[Rd] Package inclusion in R core implementation,77401,Morgan Morgan
+077240.html,[Rd] Runnable R packages,77240,Duncan Murdoch
+077249.html,[Rd] Inefficiency in df$col,77249,Duncan Murdoch
+077251.html,[Rd] Inefficiency in df$col,77251,Duncan Murdoch
+077255.html,[Rd] Inefficiency in df$col,77255,Duncan Murdoch
+077256.html,[Rd] Inefficiency in df$col,77256,Duncan Murdoch
+077274.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77274,Duncan Murdoch
+077298.html,"[Rd] Error in rbind(info, getNamespaceInfo(env, &quot;S3methods&quot;))",77298,Duncan Murdoch
+077378.html,[Rd] Improved Data Aggregation and Summary Statistics in R,77378,Duncan Murdoch
+077361.html,[Rd] bias issue in sample() (PR 17494),77361,Kirill M&#252;ller
+077363.html,[Rd] bias issue in sample() (PR 17494),77363,Kirill M&#252;ller
+077248.html,[Rd] Inefficiency in df$col,77248,Radford Neal
+077250.html,[Rd] Inefficiency in df$col,77250,Radford Neal
+077349.html,[Rd] Bug: time complexity of substring is quadratic,77349,Radford Neal
+077284.html,[Rd]  Trying to compile R 3.5.2 - 32 bit R - on Windows 10 64 bit - with ICU support,77284,Jeroen Ooms
+077355.html,[Rd] Is libtiff &gt;= 4.0.0 now required by R for TIFF support?,77355,Jeroen Ooms
+077300.html,[Rd] Documentation for sd (stats) + suggestion,77300,PatrickT
+077316.html,[Rd] Documentation for sd (stats) + suggestion,77316,PatrickT
+077317.html,[Rd] Documentation for sd (stats) + suggestion,77317,PatrickT
+077281.html,[Rd] Proposed function file.backup,77281,Brian G. Peterson
+077264.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77264,Daniel Possenriede
+077272.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77272,Daniel Possenriede
+077271.html,[Rd] nlminb with constraints failing on some platforms,77271,ProfJCNash
+077230.html,[Rd] Runnable R packages,77230,Barry Rowlingson
+077239.html,[Rd] Runnable R packages,77239,Barry Rowlingson
+077330.html,[Rd] Proposed patch for ?Extract,77330,Marc Schwartz
+077371.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77371,Serguei Sokol
+077236.html,[Rd] Runnable R packages,77236,Abs Spurdle
+077237.html,[Rd] Runnable R packages,77237,Abs Spurdle
+077246.html,[Rd] Runnable R packages,77246,Abs Spurdle
+077276.html,[Rd] Runnable R packages,77276,Abs Spurdle
+077309.html,[Rd] Documentation for sd (stats) + suggestion,77309,Dario Strbenac
+077227.html,[Rd] nlminb with constraints failing on some platforms,77227,Ralf Stubner
+077362.html,[Rd] bias issue in sample() (PR 17494),77362,Ralf Stubner
+077305.html,[Rd] bias issue in sample() (PR 17494),77305,"Tierney, Luke"
+077364.html,[Rd] bias issue in sample() (PR 17494),77364,"Tierney, Luke"
+077383.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77383,"Tierney, Luke"
+077384.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77384,"Tierney, Luke"
+077385.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77385,"Tierney, Luke"
+077289.html,[Rd] Encoding issues,77289,I&#241;aki Ucar
+077293.html,[Rd] Encoding issues,77293,I&#241;aki Ucar
+077372.html,[Rd] Improved Data Aggregation and Summary Statistics in R,77372,I&#241;aki Ucar
+077373.html,[Rd] Intermittent crashes with inset `[&lt;-` command,77373,I&#241;aki Ucar
+077358.html,[Rd] Bugzilla down?,77358,Simon Urbanek
+077359.html,[Rd] Bugzilla down?,77359,Simon Urbanek
+077394.html,[Rd] Exit status of Rscript,77394,Simon Urbanek
+077311.html,[Rd] Compile R to WebAssembly / Emscripten?,77311,Todd Wilder
+077332.html,[Rd] code for sum function,77332,David Winsemius
+077253.html,[Rd] Inefficiency in df$col,77253,peter dalgaard
+077262.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77262,peter dalgaard
+077270.html,[Rd] Bug Report: read.table with UTF-8 encoded file imports infinity symbol as Integer 8,77270,peter dalgaard
+077341.html,[Rd] Return/print standard error in t.test(),77341,peter dalgaard
+077356.html,[Rd] R 3.5.3 scheduled for March 11,77356,peter dalgaard
+077365.html,[Rd] Possible Update to R-internals Manual,77365,brodie gaslam
+077351.html,[Rd] pcre problems,77351,robin hankin

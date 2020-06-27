@@ -1,0 +1,111 @@
+link,Subject,id,author
+071491.html,[Rd] Graphical User Interface (GUI),71491,Dean Attali
+071505.html,[Rd] Why no support for 3-digit HEX colours?,71505,Dean Attali
+071507.html,[Rd] Why no support for 3-digit HEX colours?,71507,Dean Attali
+071545.html,[Rd] ' --enable-R-shlib' problem when setting up R-devel in Linux Mint 17.1 64-bit,71545,MAURICIO ZAMBRANO BIGIARINI
+071546.html,[Rd] ' --enable-R-shlib' problem when setting up R-devel in Linux Mint 17.1 64-bit,71546,MAURICIO ZAMBRANO BIGIARINI
+071549.html,[Rd] ' --enable-R-shlib' problem when setting up R-devel in Linux Mint 17.1 64-bit,71549,MAURICIO ZAMBRANO BIGIARINI
+071500.html,[Rd] R CMD build failure,71500,Charles C. Berry
+071515.html,[Rd] add .emacs.desktop and .emacs.desktop.lock to files ignored by R CMD build?,71515,Georgi Boshnakov
+071552.html,[Rd] Memory limitations for parallel::mclapply,71552,Joshua Bradley
+071475.html,[Rd] Are downstream dependencies rebuilt when a package is updated	on CRAN?,71475,Winston Chang
+071559.html,[Rd] all.equal: possible mismatch between behaviour and	documentation,71559,Jon Clayden
+071560.html,[Rd] all.equal: possible mismatch between behaviour and	documentation,71560,Jon Clayden
+071577.html,[Rd] all.equal: possible mismatch between behaviour and	documentation,71577,Jon Clayden
+071479.html,[Rd] Are import-reexport-only packages allowed on CRAN?,71479,Richard Cotton
+071482.html,[Rd] dead links to manuals,71482,G&#225;bor Cs&#225;rdi
+071530.html,[Rd] Building r-devel fails on Ubuntu (old and new as well),71530,G&#225;bor Cs&#225;rdi
+071520.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71520,William Dunlap
+071524.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71524,William Dunlap
+071526.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71526,William Dunlap
+071529.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71529,William Dunlap
+071471.html,[Rd] additional leap second,71471,Dirk Eddelbuettel
+071477.html,[Rd] additional leap second,71477,Dirk Eddelbuettel
+071516.html,[Rd] add .emacs.desktop and .emacs.desktop.lock to files ignored by R CMD build?,71516,Dirk Eddelbuettel
+071547.html,[Rd] ' --enable-R-shlib' problem when setting up R-devel in Linux Mint 17.1 64-bit,71547,Dirk Eddelbuettel
+071534.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71534,Jose Claudio Faria
+071542.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71542,Jose Claudio Faria
+071518.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71518,Dayne Filer
+071521.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71521,Dayne Filer
+071527.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71527,Dayne Filer
+071528.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71528,Dayne Filer
+071493.html,[Rd] Graphical User Interface (GUI),71493,John Fox
+071561.html,[Rd] Installing/updating packages on a lab network,71561,Michael Friendly
+071563.html,[Rd] Installing/updating packages on a lab network,71563,Michael Friendly
+071567.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71567,Michael Friendly
+071481.html,[Rd] List S3 methods and defining packages,71481,Renaud Gaujoux
+071488.html,[Rd] List S3 methods and defining packages,71488,Renaud Gaujoux
+071489.html,[Rd] List S3 methods and defining packages,71489,Renaud Gaujoux
+071565.html,[Rd] Mapping parse tree elements to tokens,71565,Jim Hester
+071574.html,[Rd] Mapping parse tree elements to tokens,71574,Jim Hester
+071535.html,[Rd] Building r-devel fails on Ubuntu (old and new as well),71535,Rainer Hurling
+071539.html,[Rd] Building r-devel fails on Ubuntu (old and new as well),71539,Rainer Hurling
+071486.html,[Rd] [ on call,71486,Mick Jordan
+071495.html,[Rd] Graphical User Interface (GUI),71495,Michael Lawrence
+071569.html,[Rd] Mapping parse tree elements to tokens,71569,Michael Lawrence
+071571.html,[Rd] Mapping parse tree elements to tokens,71571,Michael Lawrence
+071573.html,[Rd] Mapping parse tree elements to tokens,71573,Michael Lawrence
+071476.html,[Rd] Are downstream dependencies rebuilt when a package is updated on CRAN?,71476,Uwe Ligges
+071562.html,[Rd] Installing/updating packages on a lab network,71562,Uwe Ligges
+071564.html,[Rd] Installing/updating packages on a lab network,71564,Uwe Ligges
+071531.html,[Rd] Building r-devel fails on Ubuntu (old and new as well),71531,Martin Maechler
+071532.html,[Rd] Improvements (?) in stats::poly and stats::polym.,71532,Martin Maechler
+071550.html,[Rd] Improvements (?) in stats::poly and stats::polym.,71550,Martin Maechler
+071576.html,[Rd] all.equal: possible mismatch between behaviour	and	documentation,71576,Martin Maechler
+071556.html,[Rd] R package with Fortran module on Windows? undefined reference	to `__stack_chk_fail',71556,Ignacio Martinez
+071558.html,[Rd] R package with Fortran module on Windows? undefined reference to `__stack_chk_fail',71558,Ignacio Martinez
+071492.html,[Rd] Graphical User Interface (GUI),71492,Peter Meissner
+071485.html,[Rd] List S3 methods and defining packages,71485,Martin Morgan
+071470.html,[Rd] additional leap second,71470,Duncan Murdoch
+071474.html,[Rd] additional leap second,71474,Duncan Murdoch
+071480.html,[Rd] Are import-reexport-only packages allowed on CRAN?,71480,Duncan Murdoch
+071487.html,[Rd] [ on call,71487,Duncan Murdoch
+071506.html,[Rd] Why no support for 3-digit HEX colours?,71506,Duncan Murdoch
+071509.html,[Rd] suggestion: better support for https CRAN mirrors,71509,Duncan Murdoch
+071510.html,[Rd] suggestion: better support for https CRAN mirrors,71510,Duncan Murdoch
+071513.html,[Rd] Two bugs showing up mostly on SPARC systems,71513,Duncan Murdoch
+071517.html,[Rd] Two bugs showing up mostly on SPARC systems,71517,Duncan Murdoch
+071519.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71519,Duncan Murdoch
+071523.html,[Rd] Two bugs showing up mostly on SPARC systems,71523,Duncan Murdoch
+071566.html,[Rd] Mapping parse tree elements to tokens,71566,Duncan Murdoch
+071568.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71568,Duncan Murdoch
+071570.html,[Rd] Mapping parse tree elements to tokens,71570,Duncan Murdoch
+071575.html,[Rd] Mapping parse tree elements to tokens,71575,Duncan Murdoch
+071469.html,[Rd] additional leap second,71469,Ei-ji Nakama
+071473.html,[Rd] additional leap second,71473,Ei-ji Nakama
+071512.html,[Rd] Two bugs showing up mostly on SPARC systems,71512,Radford Neal
+071514.html,[Rd] Two bugs showing up mostly on SPARC systems,71514,Radford Neal
+071554.html,"[Rd] R-devel Digest, Vol 149, Issue 22",71554,Radford Neal
+071504.html,[Rd] User Input,71504,Thierry Onkelinx
+071578.html,"[Rd] equality testing, was all.equal....",71578,ProfJCNash
+071472.html,[Rd] additional leap second,71472,Prof Brian Ripley
+071533.html,[Rd] Use cairo fallback resolution greater than 72dpi in cairo_pdf and cairo_ps in grDevices,71533,Prof Brian Ripley
+071540.html,[Rd] Use cairo fallback resolution greater than 72dpi in cairo_pdf and cairo_ps in grDevices,71540,Prof Brian Ripley
+071502.html,[Rd] colour palettes in biplot,71502,G. Sawitzki
+071496.html,[Rd] Compiling on AIX 6.1,71496,"Schermerhorn, Phillip"
+071503.html,[Rd] User Input,71503,Glenn Schultz
+071484.html,[Rd] dead links to manuals,71484,Marc Schwartz
+071551.html,[Rd] Rcartogram package - error message,71551,SuzukiBlue
+071497.html,[Rd] R CMD build failure,71497,"Therneau, Terry M., Ph.D."
+071499.html,[Rd] R CMD build failure,71499,"Therneau, Terry M., Ph.D."
+071555.html,[Rd] parallel performance inline code vs using function ?,71555,Benoit Thieurmel
+071501.html,[Rd] R CMD build failure,71501,Joshua Ulrich
+071522.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71522,Kevin Ushey
+071557.html,[Rd] R package with Fortran module on Windows? undefined reference to `__stack_chk_fail',71557,Kevin Ushey
+071508.html,[Rd] suggestion: better support for https CRAN mirrors,71508,Arthur Vigil
+071478.html,[Rd] Support for transparency in metafile export &amp; support for export to Powerpoint,71478,Tom Wenseleers
+071511.html,[Rd] Use cairo fallback resolution greater than 72dpi in cairo_pdf and cairo_ps in grDevices,71511,Tom Wenseleers
+071498.html,[Rd] R CMD build failure,71498,Hadley Wickham
+071525.html,[Rd] bquote/evalq behavior changed in R-3.2.1,71525,David Winsemius
+071553.html,[Rd] Memory limitations for parallel::mclapply,71553,Ista Zahn
+071541.html,"[Rd] R-devel Digest, Vol 149, Issue 17",71541,bodenhofer at bioinf.jku.at
+071483.html,[Rd] dead links to manuals,71483,peter dalgaard
+071536.html,"[Rd] update.packages(checkBuilt=TRUE, ask=FALSE): possible bug",71536,peter dalgaard
+071537.html,[Rd] Building r-devel fails on Ubuntu (old and new as well),71537,peter dalgaard
+071538.html,[Rd] Building r-devel fails on Ubuntu (old and new as well),71538,peter dalgaard
+071548.html,[Rd] ' --enable-R-shlib' problem when setting up R-devel in	Linux Mint 17.1 64-bit,71548,peter dalgaard
+071543.html,[Rd] Errors on Windows with grep(fixed=TRUE) on UTF-8 strings,71543,suimong
+071544.html,[Rd] Defining a `show` function breaks the print-ing of S4 object -- bug or expected?,71544,luke-tierney at uiowa.edu
+071572.html,[Rd] Mapping parse tree elements to tokens,71572,luke-tierney at uiowa.edu
+071490.html,[Rd] Graphical User Interface (GUI),71490,vthokienj
+071494.html,[Rd] Graphical User Interface (GUI),71494,vthokienj

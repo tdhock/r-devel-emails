@@ -1,0 +1,187 @@
+link,Subject,id,author
+019858.html,AW: [R] read.table problems,19858,Jens Oehlschlägel-Akiyoshi
+019924.html,segfault in garbage collection (PR#344),19924,Andreas.Weingessel@ci.tuwien.ac.at
+019772.html,bug in sample (PR#305),19772,Peter Dalgaard BSA
+019778.html,is.numeric(factor(...))  {was: bug in sample (PR#305)},19778,Peter Dalgaard BSA
+019779.html,problem with &quot;[[&lt;-&quot; (PR#306),19779,Peter Dalgaard BSA
+019780.html,problem with &quot;[[&lt;-&quot; (PR#306),19780,Peter Dalgaard BSA
+019784.html,R abnormal exit when plotting lm (PR#308),19784,Peter Dalgaard BSA
+019796.html,R_OpenSiteFile: Do not use a null ptr as filename in fopen (PR#312),19796,Peter Dalgaard BSA
+019798.html,New codes() methods,19798,Peter Dalgaard BSA
+019806.html,Bug list summary (automatic post),19806,Peter Dalgaard BSA
+019813.html,R.bug.report (PR#315),19813,Peter Dalgaard BSA
+019815.html,"data.frame, cbind is inconsistent with S on logicals (PR#316)",19815,Peter Dalgaard BSA
+019820.html,plot() bugs (PR#317),19820,Peter Dalgaard BSA
+019830.html,tapply not simplifying to vector? (PR#320),19830,Peter Dalgaard BSA
+019834.html,Compilation of R under Mandrake Linux 6.1 (helios),19834,Peter Dalgaard BSA
+019839.html,Compilation of R under Mandrake Linux 6.1 (helios),19839,Peter Dalgaard BSA
+019844.html,configure script error (PR#321),19844,Peter Dalgaard BSA
+019849.html,bug in arma.sim (PR#322),19849,Peter Dalgaard BSA
+019855.html,AW: [R] read.table problems,19855,Peter Dalgaard BSA
+019859.html,AW: [R] read.table problems,19859,Peter Dalgaard BSA
+019862.html,"xlim, ylim problem in barplot (PR#325)",19862,Peter Dalgaard BSA
+019867.html,Inf in expression (PR#326),19867,Peter Dalgaard BSA
+019868.html,Inf in expression (PR#326),19868,Peter Dalgaard BSA
+019870.html,spikes in contour and persp (PR#327),19870,Peter Dalgaard BSA
+019874.html,Inf in expression (PR#326),19874,Peter Dalgaard BSA
+019883.html,"seg.fault: 'print(aggregate(),n)' (digits= omitted) (PR#330)",19883,Peter Dalgaard BSA
+019884.html,Bug list summary (automatic post),19884,Peter Dalgaard BSA
+019886.html,continuous key press results in core dump (PR#331),19886,Peter Dalgaard BSA
+019887.html,continuous key press results in core dump (PR#331),19887,Peter Dalgaard BSA
+019890.html,R-0.90.0 untar,19890,Peter Dalgaard BSA
+019892.html,R 0.90.0 configure,19892,Peter Dalgaard BSA
+019894.html,R-0.90.0 untar,19894,Peter Dalgaard BSA
+019897.html,ftp cvs.r-project.org,19897,Peter Dalgaard BSA
+019919.html,&quot;outer&quot; argument in mtext (PR#340),19919,Peter Dalgaard BSA
+019921.html,[R] problems with postscript device (PR#341),19921,Peter Dalgaard BSA
+019922.html,rbind invisible return value (PR#343),19922,Peter Dalgaard BSA
+019923.html,[R] problems with postscript device (PR#341),19923,Peter Dalgaard BSA
+019925.html,segfault in garbage collection (PR#344),19925,Peter Dalgaard BSA
+019930.html,memory.profile() messes up the vector heap on Alpha/Linux?,19930,Peter Dalgaard BSA
+019931.html,memory.profile() messes up the vector heap on Alpha/Linux?,19931,Peter Dalgaard BSA
+019935.html,.Rprofile results in corruption of .RData? (PR#346),19935,Peter Dalgaard BSA
+019940.html,size of text and numbers in graphs (PR#349),19940,Peter Dalgaard BSA
+019941.html,.Rprofile results in corruption of .RData? (PR#346),19941,Peter Dalgaard BSA
+019946.html,rbind crash (PR#351),19946,Peter Dalgaard BSA
+019863.html,(G)UI for R and in R,19863,Douglas Bates
+019926.html,&quot;outer&quot; argument in mtext (PR#340),19926,Douglas Bates
+019774.html,problem with &quot;[[&lt;-&quot;,19774,Saikat DebRoy
+019800.html,bug in Rdconvlib.pl converting to latex (PR#311),19800,Saikat DebRoy
+019864.html,Compilation of R under Mandrake Linux 6.1 (helios),19864,Lyndon Drake
+019878.html,(G)UI for R and in R,19878,Lyndon Drake
+019880.html,(G)UI for R and in R,19880,Lyndon Drake
+019787.html,discrepancy between PACKAGES file and contents of the contrib directory (PR#309),19787,Herve Dreau
+019845.html,patches for alpha,19845,Albrecht Gebhardt
+019944.html,[R] compiling R-0.90.0 on alpha-dec-osf4.0,19944,Albrecht Gebhardt
+019770.html,bug in sample,19770,Robert Gentleman
+019773.html,bug in sample (PR#305)- apologies,19773,Robert Gentleman
+019768.html,package description,19768,Paul Gilbert
+019781.html,package description,19781,Paul Gilbert
+019821.html,finding Rd syntax errors,19821,Paul Gilbert
+019833.html,Compilation of R under Mandrake Linux 6.1 (helios),19833,Paul Gilbert
+019836.html,Compilation of R under Mandrake Linux 6.1 (helios),19836,Paul Gilbert
+019857.html,univariate ar dimension,19857,Paul Gilbert
+019888.html,R-0.90.0 untar,19888,Paul Gilbert
+019891.html,R 0.90.0 configure,19891,Paul Gilbert
+019895.html,ftp cvs.r-project.org,19895,Paul Gilbert
+019896.html,R 0.90.0 configure,19896,Paul Gilbert
+019899.html,ftp cvs.r-project.org,19899,Paul Gilbert
+019902.html,ftp cvs.r-project.org,19902,Paul Gilbert
+019947.html,cross reference wishlist item,19947,Paul Gilbert
+019948.html,install.packages warning,19948,Paul Gilbert
+019942.html,ESS-mode and X-emacs problem  &quot;-noreadline&quot; solution,19942,Richard M. Heiberger
+019853.html,configure script error (PR#321),19853,Kurt Hornik
+019854.html,AW: [R] read.table problems,19854,Kurt Hornik
+019871.html,Inf in expression (PR#326),19871,Kurt Hornik
+019877.html,Inf in expression (PR#326),19877,Kurt Hornik
+019914.html,as.name() is not idempotent (PR#337),19914,Kurt Hornik
+019915.html,cpp problem on alpha (PR#333),19915,Kurt Hornik
+019916.html,compile error for mkString on alpha (PR#332),19916,Kurt Hornik
+019943.html,[R] compiling R-0.90.0 on alpha-dec-osf4.0,19943,Kurt Hornik
+019876.html,Inf in expression (PR#326),19876,Kurt.Hornik@ci.tuwien.ac.at
+019835.html,Compilation of R under Mandrake Linux 6.1 (helios),19835,Duncan Temple Lang
+019840.html,Compilation of R under Mandrake Linux 6.1 (helios),19840,Duncan Temple Lang
+019777.html,package description,19777,Friedrich Leisch
+019801.html,Version numbers of CRAN packages,19801,Friedrich Leisch
+019908.html,rbind problem (PR#338),19908,Thomas Lumley
+019909.html,rbind problem (PR#338),19909,Thomas Lumley
+019912.html,cbind problem (PR#339),19912,Thomas Lumley
+019767.html,as.data.frame(NULL) &amp; as.data.frame(list()) &amp; bug in dput(.),19767,Martin Maechler
+019776.html,is.numeric(factor(...))  {was: bug in sample (PR#305)},19776,Martin Maechler
+019788.html,remark on the difference between R-bugs and R-devel,19788,Martin Maechler
+019819.html,R.bug.report (PR#315),19819,Martin Maechler
+019851.html,image(),19851,Martin Maechler
+019889.html,R-0.90.0 untar,19889,Martin Maechler
+019825.html,Compilation of R under Mandrake Linux 6.1 (helios),19825,John Maindonald
+019791.html,R abnormal exit when plotting lm (PR#308),19791,Ulf Mehlig
+019937.html,.Rprofile results in corruption of .RData? (PR#346),19937,Rashid Nassar
+019782.html,bugs in scan() (PR#307),19782,Ray.Brownrigg@mcs.vuw.ac.nz
+019792.html,bug in Rdconvlib.pl converting to latex (PR#311),19792,Ray.Brownrigg@mcs.vuw.ac.nz
+019769.html,package description,19769,Prof Brian Ripley
+019807.html,Rdefines.h,19807,Prof Brian Ripley
+019837.html,Compilation of R under Mandrake Linux 6.1 (helios),19837,Prof Brian Ripley
+019898.html,ftp cvs.r-project.org,19898,Prof Brian Ripley
+019949.html,cross reference wishlist item,19949,Prof Brian Ripley
+019805.html,rpart problem (PR#313),19805,Prof Brian D Ripley
+019809.html,arima0() (PR#314),19809,Prof Brian D Ripley
+019810.html,[R] loading precedence in requires(),19810,Prof Brian D Ripley
+019811.html,arima0() (PR#314),19811,Prof Brian D Ripley
+019826.html,expand.grid returns vector for single arg (PR#319),19826,Prof Brian D Ripley
+019827.html,Compilation of R under Mandrake Linux 6.1 (helios),19827,Prof Brian D Ripley
+019847.html,bug in arma.sim (PR#322),19847,Prof Brian D Ripley
+019850.html,image(),19850,Prof Brian D Ripley
+019852.html,image(),19852,Prof Brian D Ripley
+019928.html,Bug in version 65.0 (PR#345),19928,Prof Brian D Ripley
+019936.html,"portfolio.optim.default, Packages tseries quadprog (PR#348)",19936,Prof Brian D Ripley
+019838.html,Compilation of R under Mandrake Linux 6.1 (helios),19838,A.J. Rossini
+019841.html,Compilation of R under Mandrake Linux 6.1 (helios),19841,A.J. Rossini
+019879.html,(G)UI for R and in R,19879,A.J. Rossini
+019881.html,(G)UI for R and in R,19881,A.J. Rossini
+019790.html,Dimnamenames (PR#257),19790,Jonathan Rougier
+019797.html,New codes() methods,19797,Jonathan Rougier
+019799.html,New codes() methods,19799,Jonathan Rougier
+019842.html,image(),19842,Jonathan Rougier
+019818.html,plot() bugs (PR#317),19818,Bill Simpson
+019929.html,memory.profile() messes up the vector heap on Alpha/Linux?,19929,Naoki Takebayashi
+019932.html,memory.profile() messes up the vector heap on Alpha/Linux?,19932,Naoki Takebayashi
+019860.html,(G)UI for R and in R,19860,Thomas Vogels
+019893.html,R-0.90.0 untar,19893,Thomas Vogels
+019900.html,compile error for mkString on alpha (PR#332),19900,albrecht.gebhardt@uni-klu.ac.at
+019901.html,cpp problem on alpha (PR#333),19901,albrecht.gebhardt@uni-klu.ac.at
+019950.html,image stops detecting wrong sized z matrix (PR#352),19950,albrecht.gebhardt@uni-klu.ac.at
+019911.html,&quot;outer&quot; argument in mtext (PR#340),19911,bates@stat.wisc.edu
+019822.html,dimname'less array breaks apply (PR#318),19822,cberry@tajo.ucsd.edu
+019823.html,expand.grid returns vector for single arg (PR#319),19823,cberry@tajo.ucsd.edu
+019913.html,[R] problems with postscript device (PR#341),19913,chong@stat.purdue.edu
+019804.html,rpart problem (PR#313),19804,david_m_potter@groton.pfizer.com
+019795.html,R_OpenSiteFile: Do not use a null ptr as filename in fopen (PR#312),19795,guido@hal.stat.unipd.it
+019808.html,arima0() (PR#314),19808,hammour@msn.com
+019785.html,discrepancy between PACKAGES file and contents of the contrib directory (PR#309),19785,hdreau@cybercable.fr
+019794.html,R_OpenSiteFile: Do not use a null ptr as filename in fopen (PR#312),19794,hoffmann@ehmgs2.et.tu-dresden.de
+019865.html,Inf in expression (PR#326),19865,jlindsey@alpha.luc.ac.be
+019866.html,spikes in contour and persp (PR#327),19866,jlindsey@alpha.luc.ac.be
+019917.html,scan error (PR#342),19917,jlindsey@alpha.luc.ac.be
+019945.html,rbind crash (PR#351),19945,jlindsey@alpha.luc.ac.be
+019856.html,R 0.65.1 config bug (PR#324),19856,kmb28@cus.cam.ac.uk
+019903.html,[R] problems with postscript device (PR#334),19903,koller2@fgr.wu-wien.ac.at
+019904.html,(Fwd) [R] problems with postscript device (PR#335),19904,koller2@fgr.wu-wien.ac.at
+019938.html,size of text and numbers in graphs (PR#349),19938,koller2@fgr.wu-wien.ac.at
+019793.html,bug in Rdconvlib.pl converting to latex (PR#311),19793,maechler@stat.math.ethz.ch
+019802.html,bug in Rdconvlib.pl converting to latex (PR#311),19802,maechler@stat.math.ethz.ch
+019828.html,dimname'less array breaks apply (PR#318),19828,maechler@stat.math.ethz.ch
+019829.html,tapply not simplifying to vector? (PR#320),19829,maechler@stat.math.ethz.ch
+019831.html,tapply not simplifying to vector? (PR#320),19831,maechler@stat.math.ethz.ch
+019832.html,dimname'less array breaks apply (PR#318),19832,maechler@stat.math.ethz.ch
+019905.html,[R] problems with postscript device (PR#336),19905,maechler@stat.math.ethz.ch
+019906.html,as.name() is not idempotent (PR#337),19906,maechler@stat.math.ethz.ch
+019920.html,scan error (PR#342),19920,maechler@stat.math.ethz.ch
+019824.html,tapply not simplifying to vector? (PR#320),19824,mcw@ln.nimh.nih.gov
+019861.html,"xlim, ylim problem in barplot (PR#325)",19861,mcw@ln.nimh.nih.gov
+019907.html,rbind problem (PR#338),19907,mcw@ln.nimh.nih.gov
+019846.html,bug in arma.sim (PR#322),19846,mgri@hal.stat.unipd.it
+019927.html,Bug in version 65.0 (PR#345),19927,mhdelsemme@ulg.ac.be
+019789.html,Dimnamenames (PR#257),19789,p.dalgaard@biostat.ku.dk
+019873.html,Inf in expression (PR#326),19873,p.dalgaard@biostat.ku.dk
+019954.html,R CMD check xxx location (PR#353),19954,pgilbert@bank-banque-canada.ca
+019771.html,bug in sample (PR#305),19771,rgentlem@jimmy.harvard.edu
+019786.html,discrepancy between PACKAGES file and contents of the contrib (PR#310),19786,ripley@stats.ox.ac.uk
+019814.html,"data.frame, cbind is inconsistent with S on logicals (PR#316)",19814,ripley@stats.ox.ac.uk
+019816.html,"data.frame, cbind is inconsistent with S on logicals (PR#316)",19816,ripley@stats.ox.ac.uk
+019848.html,{ and } in examples get confused in help (PR#323),19848,ripley@stats.ox.ac.uk
+019869.html,spikes in contour and persp (PR#327),19869,ripley@stats.ox.ac.uk
+019875.html,Installation of package fails (PR#328),19875,ripley@stats.ox.ac.uk
+019951.html,image stops detecting wrong sized z matrix (PR#352),19951,ripley@stats.ox.ac.uk
+019812.html,R.bug.report (PR#315),19812,rnassar@duke.edu
+019882.html,"seg.fault: 'print(aggregate(),n)' (digits= omitted) (PR#330)",19882,rnassar@duke.edu
+019885.html,continuous key press results in core dump (PR#331),19885,rnassar@duke.edu
+019933.html,.Rprofile results in corruption of .RData? (PR#346),19933,rnassar@duke.edu
+019939.html,rstandard forgotten? (PR#350),19939,rnassar@duke.edu
+019775.html,problem with &quot;[[&lt;-&quot; (PR#306),19775,saikat@stat.wisc.edu
+019803.html,bug in Rdconvlib.pl converting to latex (PR#311),19803,saikat@stat.wisc.edu
+019934.html,"portfolio.optim.default, Packages tseries quadprog (PR#348)",19934,steland@euv-frankfurt-o.de
+019872.html,Installation of package fails (PR#328),19872,sunadmin@statistik.uni-dortmund.de
+019910.html,cbind problem (PR#339),19910,thomas@biostat.washington.edu
+019918.html,rbind invisible return value (PR#343),19918,thomas@biostat.washington.edu
+019783.html,R abnormal exit when plotting lm (PR#308),19783,umehlig@uni-bremen.de
+019817.html,plot() bugs (PR#317),19817,wsi@gcal.ac.uk
+019843.html,configure script error (PR#321),19843,zeitler@corecomm.net

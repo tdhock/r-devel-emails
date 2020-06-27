@@ -1,0 +1,137 @@
+link,Subject,id,author
+021302.html,[Rd] several documentation problems (PR#675),21302,Peter Dalgaard BSA
+021327.html,[Rd] This mail was found after problem with mailserver Oct 3rd - postmaster@hh.umu.se,21327,Peter Dalgaard BSA
+021316.html,"[Rd] bounds violations, infinite loops in optim/L-BFGS-B (PR#671)",21316,Peter Dalgaard BSA
+021319.html,[Rd] Bug in RODBC ?,21319,Peter Dalgaard BSA
+021322.html,[Rd] all.equal.list() sometimes fails with unnamed and named components (PR#674),21322,Peter Dalgaard BSA
+021344.html,[Rd] R 1.2 build,21344,Peter Dalgaard BSA
+021348.html,[Rd] R 1.2 build,21348,Peter Dalgaard BSA
+021360.html,[Rd] Bug list summary (automatic post),21360,Peter Dalgaard BSA
+021368.html,[Rd] Bug? (PR#690),21368,Peter Dalgaard BSA
+021376.html,[Rd] works in R-1.1.1 but not in R-development; why?,21376,Peter Dalgaard BSA
+021381.html,[Rd] syntax confusion with function/non-function objects (PR#694),21381,Peter Dalgaard BSA
+021386.html,[Rd] Cautionary tale about c (PR#695),21386,Peter Dalgaard BSA
+021393.html,[Rd] build errors in configure script (PR#697),21393,Peter Dalgaard BSA
+021415.html,[Rd] bug in pnorm (PR#699),21415,Peter Dalgaard BSA
+021417.html,[Rd] Bug list summary (automatic post),21417,Peter Dalgaard BSA
+021419.html,[Rd] is.integer and rank,21419,Peter Dalgaard BSA
+021430.html,[Rd] problem with &quot;breaks&quot; in histogram (PR#710),21430,Peter Dalgaard BSA
+021434.html,[Rd] Bug in hsv() (PR#712),21434,Peter Dalgaard BSA
+021441.html,[Rd] conflicting types for `Rf_stirlerr,21441,Peter Dalgaard BSA
+021317.html,[Rd] Bug in RODBC ?,21317,Emmanuel Charpentier
+021375.html,[Rd] works in R-1.1.1 but not in R-development; why?,21375,Ramon Diaz-Uriarte
+021389.html,[Rd] works in R-1.1.1 but not in R-development; why?,21389,Ramon Diaz-Uriarte
+021369.html,[Rd] Bug? (PR#690),21369,Armando Mateus Ferreira
+021398.html,[Rd] print problem with data frames (PR#698),21398,Robert Gentleman
+021343.html,[Rd] R 1.2 build,21343,Paul Gilbert
+021347.html,[Rd] R 1.2 build,21347,Paul Gilbert
+021349.html,[Rd] R 1.2 build,21349,Paul Gilbert
+021353.html,[Rd] R 1.2 build,21353,Paul Gilbert
+021364.html,[Rd] unlink in 1.2,21364,Paul Gilbert
+021365.html,[Rd] unlink in 1.2,21365,Paul Gilbert
+021409.html,[Rd] remove(ls()),21409,Paul Gilbert
+021411.html,[Rd] remove(ls()),21411,Paul Gilbert
+021440.html,[Rd] conflicting types for `Rf_stirlerr,21440,Paul Gilbert
+021314.html,[Rd] plot.table() ?,21314,Kurt Hornik
+021315.html,"[Rd] bounds violations, infinite loops in optim/L-BFGS-B (PR#671)",21315,Kurt Hornik
+021318.html,[Rd] all.equal.list() sometimes fails with unnamed and named components (PR#674),21318,Kurt Hornik
+021330.html,[Rd] all.equal.list() sometimes fails with unnamed and named components (PR#674),21330,Kurt Hornik
+021340.html,[Rd] gamma and lgamma functions (PR#684),21340,Kurt Hornik
+021392.html,[Rd] build errors in configure script (PR#697),21392,Kurt Hornik
+021399.html,[Rd] build errors in configure script (PR#697),21399,Kurt Hornik
+021405.html,[Rd] &quot;wizard&quot; for building R-packages...,21405,Kurt Hornik
+021418.html,[Rd] is.integer and rank,21418,Torsten Hothorn
+021361.html,[Rd] cmdscale documentation (PR#687),21361,J.C.Rougier@durham.ac.uk
+021362.html,[Rd] Unreliable example in ?layout (PR#688),21362,J.C.Rougier@durham.ac.uk
+021380.html,[Rd] syntax confusion with function/non-function objects (PR#694),21380,J.C.Rougier@durham.ac.uk
+021383.html,[Rd] syntax confusion with function/non-function objects (PR#694),21383,J.C.Rougier@durham.ac.uk
+021385.html,[Rd] Cautionary tale about c (PR#695),21385,J.C.Rougier@durham.ac.uk
+021395.html,[Rd] print problem with data frames (PR#698),21395,J.C.Rougier@durham.ac.uk
+021363.html,[Rd] Documentation problem for ecdf (PR#689),21363,Kurt.Hornik@ci.tuwien.ac.at
+021442.html,[Rd] Re: [R] Newbie questions,21442,Duncan Temple Lang
+021329.html,[Rd] R_ColorTable,21329,Nicholas Lewin-Koh
+021335.html,[Rd] R_ColorTable,21335,Nicholas Lewin-Koh
+021337.html,[Rd] R_ColorTable,21337,Nicholas Lewin-Koh
+021351.html,[Rd] R_ColorTable,21351,Nicholas Lewin-Koh
+021377.html,[Rd] works in R-1.1.1 but not in R-development; why?,21377,Thomas Lumley
+021378.html,[Rd] works in R-1.1.1 but not in R-development; why?,21378,Thomas Lumley
+021387.html,[Rd] Cautionary tale about c (PR#695),21387,Thomas Lumley
+021312.html,[Rd] plot.table() ?,21312,Martin Maechler
+021342.html,"[Rd] Hershey Fonts, PNG, SVG, .. graphics formats",21342,Martin Maechler
+021345.html,[Rd] R 1.2 build,21345,Martin Maechler
+021356.html,[Rd] spam .. improving my filters,21356,Martin Maechler
+021413.html,[Rd] Rterm on Windows 2000 now works.,21413,Guido Masarotto
+021397.html,[Rd] print problem with data frames (PR#698),21397,Duncan Murdoch
+021406.html,[Rd] &quot;wizard&quot; for building R-packages...,21406,Duncan Murdoch
+021355.html,"[Rd] Re: Hershey Fonts, PNG, SVG, .. graphics formats",21355,Paul Murrell
+021426.html,[Rd] par(ask=T) in termplot(),21426,Emmanuel Paradis
+021432.html,[Rd] par(ask=T) in termplot(),21432,Emmanuel Paradis
+021416.html,[Rd] bug in pnorm (PR#699),21416,James Michael Rath
+021321.html,"[Rd] bounds violations, infinite loops in optim/L-BFGS-B (PR#671)",21321,Prof Brian Ripley
+021323.html,[Rd] all.equal.list() sometimes fails with unnamed and named components (PR#674),21323,Prof Brian Ripley
+021334.html,[Rd] R_ColorTable,21334,Prof Brian Ripley
+021336.html,[Rd] R_ColorTable,21336,Prof Brian Ripley
+021338.html,[Rd] R_ColorTable,21338,Prof Brian Ripley
+021346.html,[Rd] R 1.2 build,21346,Prof Brian Ripley
+021402.html,[Rd] &quot;wizard&quot; for building R-packages...,21402,Prof Brian Ripley
+021407.html,[Rd] &quot;wizard&quot; for building R-packages...,21407,Prof Brian Ripley
+021408.html,[Rd] Rterm on Windows 2000 now works.,21408,Prof Brian Ripley
+021427.html,[Rd] par(ask=T) in termplot(),21427,Prof Brian Ripley
+021332.html,[Rd] R_ColorTable,21332,Prof Brian D Ripley
+021350.html,[Rd] R 1.2 build,21350,Prof Brian D Ripley
+021366.html,[Rd] unlink in 1.2,21366,Prof Brian D Ripley
+021373.html,[Rd] documentation bug in grep (PR#692),21373,Prof Brian D Ripley
+021410.html,[Rd] remove(ls()),21410,Prof Brian D Ripley
+021435.html,[Rd] par(ask=T) in termplot() (PR#711),21435,Prof Brian D Ripley
+021374.html,[Rd] Bug report (PR#693),21374,Rohith.Amaratunga@dsto.defence.gov.au
+021400.html,[Rd] &quot;wizard&quot; for building R-packages...,21400,A.J. Rossini
+021401.html,[Rd] &quot;wizard&quot; for building R-packages...,21401,A.J. Rossini
+021403.html,[Rd] &quot;wizard&quot; for building R-packages...,21403,A.J. Rossini
+021384.html,[Rd] syntax confusion with function/non-function objects (PR#694),21384,Jonathan Rougier
+021394.html,[Rd] Logical indexing,21394,Jonathan Rougier
+021354.html,[Rd] Your Dream House starting at $53000,21354,Sayfco
+021379.html,[Rd] works in R-1.1.1 but not in R-development; why?,21379,Luke Tierney
+021382.html,[Rd] syntax confusion with function/non-function objects (PR#694),21382,Luke Tierney
+021388.html,[Rd] Cautionary tale about c (PR#695),21388,Luke Tierney
+021328.html,[Rd] FW: Parse Errors,21328,Don Wingate
+021306.html,[Rd] R build on i86pc Solaris 2.7 (PR#677),21306,albrecht.gebhardt@uni-klu.ac.at
+021320.html,"[Rd] bounds violations, infinite loops in optim/L-BFGS-B (PR#671)",21320,bolker@zoo.ufl.edu
+021412.html,[Rd] legend -- one more try,21412,bolker@zoo.ufl.edu
+021421.html,[Rd] ambiguous (duplicated) names in model.matrix() (PR#701),21421,cberry@tajo.ucsd.edu
+021437.html,[Rd] prop.test and x = 0 (PR#714),21437,charlie@stat.umn.edu
+021420.html,[Rd] Probable bug in RODBC 0.7.x (PR#700),21420,emmanuel.charpentier@sap.ap-hop-paris.fr
+021391.html,[Rd] build errors in configure script (PR#697),21391,flip@skidmore.edu
+021436.html,"[Rd] median(c(NA,NA),na.rm=T) fails (PR#713)",21436,gnw3@acm.org
+021308.html,[Rd] typo in documentation for read.table (PR#678),21308,htang@hpl.hp.com
+021339.html,[Rd] gamma and lgamma functions (PR#684),21339,james.lindsey@luc.ac.be
+021370.html,[Rd] invalid regular expression after many grep's (PR#691),21370,jutans@utans.u-net.com
+021422.html,[Rd] small inconistency: sapply &amp; median (PR#702),21422,jutans@utans.u-net.com
+021305.html,[Rd] documentation error for deriv; MASS scripts ch8; (PR#676),21305,kjetilh@umsanet.edu.bo
+021424.html,[Rd] installation problems with rbitmap.c (PR#703),21424,loecher@scr.siemens.com
+021304.html,[Rd] pretty not covering the range properly (PR#673),21304,maechler@stat.math.ethz.ch
+021309.html,[Rd] pretty not covering the range properly (PR#673),21309,maechler@stat.math.ethz.ch
+021311.html,[Rd] pretty not covering the range properly (PR#673),21311,maechler@stat.math.ethz.ch
+021324.html,[Rd] This mail was found after problem with mailserver Oct 3rd - postmaster@hh.umu.se (PR#681),21324,maechler@stat.math.ethz.ch
+021429.html,[Rd] problem with &quot;breaks&quot; in histogram (PR#710),21429,mcw@ln.nimh.nih.gov
+021352.html,[Rd] The best Viagra prices are here.,21352,medonline@hotmail.com
+021433.html,[Rd] Bug in hsv() (PR#712),21433,murdoch@stats.uwo.ca
+021326.html,[Rd] This mail was found after problem with mailserver Oct 3rd - postmaster@hh.umu.se (PR#682),21326,p.dalgaard@biostat.ku.dk
+021439.html,[Rd] Printing list elements w/attributes (PR#715),21439,p.dalgaard@biostat.ku.dk
+021431.html,[Rd] par(ask=T) in termplot() (PR#711),21431,paradis@isem.univ-montp2.fr
+021396.html,[Rd] build errors in configure script (PR#697),21396,flip phillips
+021359.html,[Rd] documentation bug in readline() (PR#685),21359,pperkins@ucsd.edu
+021372.html,[Rd] documentation bug in grep (PR#692),21372,pperkins@ucsd.edu
+021390.html,[Rd] sys.xxx documentation (PR#696),21390,pperkins@ucsd.edu
+021414.html,[Rd] bug in pnorm (PR#699),21414,ratjamm@alum.mit.edu
+021303.html,[Rd] several documentation problems (PR#675),21303,ripley@stats.ox.ac.uk
+021307.html,[Rd] R build on i86pc Solaris 2.7 (PR#677),21307,ripley@stats.ox.ac.uk
+021341.html,[Rd] gamma and lgamma functions (PR#684),21341,ripley@stats.ox.ac.uk
+021371.html,[Rd] invalid regular expression after many grep's (PR#691),21371,ripley@stats.ox.ac.uk
+021423.html,[Rd] small inconistency: sapply &amp; median (PR#702),21423,ripley@stats.ox.ac.uk
+021425.html,[Rd] installation problems with rbitmap.c (PR#703),21425,ripley@stats.ox.ac.uk
+021428.html,[Rd] invalid regular expression after many grep's (PR#691),21428,ripley@stats.ox.ac.uk
+021438.html,[Rd] width in options() (PR#666),21438,ripley@stats.ox.ac.uk
+021301.html,[Rd] several documentation problems (PR#675),21301,sws96srb@met.rdg.ac.uk
+021313.html,[Rd] several documentation problems (PR#675),21313,sws96srb@met.reading.ac.uk
+021367.html,[Rd] Bug? (PR#690),21367,td2mafea@uco.es
+021404.html,[Rd] Australia's Greatest Online Exotic Novelty Store is back...,21404,www.sextoysrus.com.au

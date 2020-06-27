@@ -1,0 +1,208 @@
+link,Subject,id,author
+050675.html,[Rd] typo in cov()? var() fails on NA in R 2.7.2 but not R 2.6.1,50675,Henric Nilsson (Public)
+050761.html,"[Rd] Rterm.exe, windows event loop running in multiple threads?",50761,Simon Anders
+050712.html,[Rd] Reaching R-forge - tunnel ssh through ssh?,50712,Douglas Bates
+050658.html,"[Rd] Erlang-style message-passing in R: Rmpi, Snow, NetWorkSpaces, etc.",50658,David Bauer
+050663.html,"[Rd] Erlang-style message-passing in R: Rmpi, Snow, NetWorkSpaces, etc.",50663,David Bauer
+050785.html,[Rd] Bug in base::mean.default ? (PR#12984),50785,Henrik Bengtsson
+050793.html,[Rd] splitting strings efficiently,50793,Henrik Bengtsson
+050713.html,[Rd] tiny typo in NEWS,50713,Ben Bolker
+050679.html,"[Rd] New relations between S3, S4 classes (was:  Re:  '&quot;ts&quot; treated as a registered S3 class ...)",50679,John Chambers
+050695.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50695,John Chambers
+050700.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50700,John Chambers
+050762.html,[Rd] setIs() with coerce= and method selection,50762,John Chambers
+050798.html,[Rd] R --interactive and readline() creates infinite loop,50798,John Chambers
+050802.html,[Rd] R --interactive and readline() creates infinite loop,50802,John Chambers
+050637.html,[Rd] mk5check crashed on Windows,50637,Alex Chen
+050794.html,[Rd] R --interactive and readline() creates infinite loop,50794,Jon Clayden
+050803.html,[Rd] R --interactive and readline() creates infinite loop,50803,Jon Clayden
+050810.html,[Rd] R --interactive and readline() creates infinite loop,50810,Jon Clayden
+050635.html,[Rd]  rpart: ID3 or C4.5?,50635,Clusty
+050767.html,[Rd] Extract method for a new class,50767,"Coster, Albart"
+050776.html,[Rd] handling spaces in R invocation scripts,50776,Nathan Coulter
+050778.html,[Rd] handling spaces in R invocation scripts,50778,Nathan Coulter
+050630.html,[Rd] Moving to a new bug reporting system?,50630,Peter Dalgaard
+050683.html,[Rd] Different result with different order of binding (PR#12742),50683,Peter Dalgaard
+050739.html,[Rd] odesolve dynload example,50739,Peter Dalgaard
+050743.html,[Rd] aggregate() does not return POSIXct object correctly	(PR#12887),50743,Peter Dalgaard
+050773.html,[Rd] family=&quot;mono&quot; does not work (PR#12931),50773,Peter Dalgaard
+050788.html,[Rd] function can permanently modify calling function	via	substitute?,50788,Peter Dalgaard
+050799.html,[Rd] R --interactive and readline() creates infinite loop,50799,Peter Dalgaard
+050801.html,[Rd] R --interactive and readline() creates infinite loop,50801,Peter Dalgaard
+050804.html,[Rd] R --interactive and readline() creates infinite loop,50804,Peter Dalgaard
+050815.html,[Rd] Bug? in some package installations when a Print is added in	memory.c,50815,Peter Dalgaard
+050829.html,[Rd] weird behavior of drop1() for polr models (MASS),50829,Peter Dalgaard
+050634.html,[Rd] the %ProgramFiles% variable,50634,Henrique Dallazuanna
+050703.html,"[Rd] should system.file(package=&quot;no such pkg&quot;, &quot;no such file&quot;) warn or abort?",50703,Bill Dunlap
+050707.html,[Rd] (PR#12770) format() under Windows giv wrong resuts with,50707,Bill Dunlap
+050708.html,[Rd] (PR#12770) format() under Windows giv wrong resuts w,50708,Bill Dunlap
+050824.html,[Rd] seg.fault from nlme::gnls() {was &quot;[R-sig-ME] GNLS Crash&quot;},50824,William Dunlap
+050826.html,[Rd] describe function in package Hmisc and function format.dates in chron (PR#13087),50826,Charles Dupont
+050718.html,[Rd] package config file for windows,50718,Christophe Dutang
+050722.html,[Rd] package config file for windows,50722,Christophe Dutang
+050639.html,[Rd] suggestion of new API function for embedded programming.,50639,EBo
+050641.html,[Rd] suggestion of new API function for embedded programming.,50641,EBo
+050643.html,[Rd] suggestion of new API function for embedded programming.,50643,EBo
+050646.html,[Rd] suggestion of new API function for embedded programming.,50646,EBo
+050654.html,[Rd] suggestion of new API function for embedded programming.,50654,EBo
+050656.html,[Rd] suggestion of new API function for embedded programming.,50656,EBo
+050665.html,[Rd] Rmpi on Linux (SuSE) with OpenMPI,50665,Dirk Eddelbuettel
+050783.html,[Rd] Dates in C api,50783,Dirk Eddelbuettel
+050732.html,[Rd] S4 coercion responsibility,50732,Seth Falcon
+050755.html,[Rd] S4 coercion responsibility,50755,Seth Falcon
+050756.html,[Rd] S4 coercion responsibility,50756,Seth Falcon
+050757.html,[Rd] S4 coercion responsibility,50757,Seth Falcon
+050674.html,[Rd] Problem with UTF-8 text in the Rcmdr package,50674,John Fox
+050680.html,[Rd] Problem with UTF-8 text in the Rcmdr package,50680,John Fox
+050686.html,[Rd] Problem with UTF-8 text in the Rcmdr package,50686,John Fox
+050698.html,[Rd] Addendum to wishlist bug report #10931 (factanal)	(PR#12754),50698,John Fox
+050828.html,[Rd] weird behavior of drop1() for polr models (MASS),50828,John Fox
+050832.html,[Rd] weird behavior of drop1() for polr models (MASS),50832,John Fox
+050821.html,[Rd] new TR about when MLE exist in GLM and what to do if not,50821,Charles Geyer
+050673.html,[Rd]  typo in cov()? var() fails on NA in R 2.7.2 but not R 2.6.1,50673,Simone Giannerini
+050725.html,[Rd] S4 coercion responsibility,50725,Paul Gilbert
+050744.html,[Rd] aggregate() does not return POSIXct object correctly	(PR#12887),50744,Gabor Grothendieck
+050782.html,[Rd] Dates in C api,50782,Gabor Grothendieck
+050791.html,[Rd] splitting strings efficiently,50791,Gabor Grothendieck
+050729.html,[Rd] Using R from Java,50729,Lars Hansen
+050655.html,[Rd] suggestion of new API function for embedded programming.,50655,Jeffrey Horner
+050825.html,"[Rd] Rterm.exe, windows event loop running in multiple threads?",50825,Kurt Hornik
+050786.html,[Rd] Fwd: Profiling on Multicore and Parallel Systems,50786,Imanpreet
+050681.html,[Rd] Problem with UTF-8 text in the Rcmdr package,50681,Jaro.Lajovic
+050789.html,[Rd] splitting strings efficiently,50789,Mark Kimpel
+050790.html,[Rd] splitting strings efficiently,50790,Mark Kimpel
+050633.html,[Rd] the %ProgramFiles% variable,50633,Kjell Konis
+050647.html,[Rd] calculating means per group,50647,Kjell Konis
+050758.html,"[Rd] Rterm.exe, windows event loop running in multiple threads?",50758,Michael Lawrence
+050760.html,"[Rd] Rterm.exe, windows event loop running in multiple threads?",50760,Michael Lawrence
+050822.html,"[Rd] Rterm.exe, windows event loop running in multiple threads?",50822,Michael Lawrence
+050750.html,[Rd] Dates in C api,50750,"Lee, Philip (IT)"
+050754.html,[Rd] Dates in C api,50754,"Lee, Philip (IT)"
+050781.html,[Rd] Dates in C api,50781,"Lee, Philip (IT)"
+050711.html,[Rd] win-builder offline on Sept. 13,50711,Uwe Ligges
+050741.html,[Rd] question in value-based color in image(),50741,Uwe Ligges
+050738.html,[Rd] question in value-based color in image(),50738,M.
+050653.html,[Rd] Request for consideration of small change to R documentation file names,50653,Don MacQueen
+050649.html,[Rd] PDFs on R-devel ...,50649,Martin Maechler
+050717.html,[Rd] .. var() fails on NA in R 2.7.2 but not R 2.6.1,50717,Martin Maechler
+050740.html,[Rd] WRONG mailing list - Re: question in value-based color in	image(),50740,Martin Maechler
+050816.html,[Rd] seg.fault from nlme::gnls() {was &quot;[R-sig-ME] GNLS Crash&quot;},50816,Martin Maechler
+050817.html,[Rd] Error in R-Intro document (PR#13079),50817,Martin Maechler
+050818.html,"[Rd] On modes, types and R documentation",50818,Martin Maechler
+050819.html,[Rd] Outdated dependencies and install.packages(),50819,Martin Maechler
+050830.html,[Rd] Planned mailing list &quot;timeout&quot; of several hours,50830,Martin Maechler
+050764.html,[Rd] indexing by character with identical names,50764,Jake Michaelson
+050766.html,[Rd] indexing by character with identical names,50766,Jake Michaelson
+050724.html,[Rd] Using R from Java,50724,Martin Morgan
+050770.html,[Rd] Extract method for a new class,50770,Martin Morgan
+050795.html,[Rd] C++ &amp; R:  Displaying a lattice graphic using D Com,50795,Noel Mulvihill
+050714.html,[Rd] tiny typo in NEWS,50714,Duncan Murdoch
+050719.html,[Rd] package config file for windows,50719,Duncan Murdoch
+050723.html,[Rd] package config file for windows,50723,Duncan Murdoch
+050727.html,[Rd] Including data in package for use by C functions,50727,Duncan Murdoch
+050730.html,[Rd] Cross-platform function availability,50730,Duncan Murdoch
+050734.html,[Rd] Cross-platform function availability,50734,Duncan Murdoch
+050736.html,[Rd] Typo in cut.Rd,50736,Duncan Murdoch
+050752.html,[Rd] Dates in C api,50752,Duncan Murdoch
+050759.html,"[Rd] Rterm.exe, windows event loop running in multiple threads?",50759,Duncan Murdoch
+050772.html,[Rd] readRegistry function (PR#12937),50772,Duncan Murdoch
+050774.html,[Rd] family=&quot;mono&quot; does not work (PR#12931),50774,Duncan Murdoch
+050775.html,[Rd] family=&quot;mono&quot; does not work (PR#12931),50775,Duncan Murdoch
+050806.html,[Rd] Bug while loading Package &quot;tcltk&quot; with R-2.7.2 (PR#13016),50806,Duncan Murdoch
+050666.html,[Rd] Problem installing Biobase on Solaris,50666,Paulo Nuin
+050670.html,[Rd] Problem installing Biobase on Solaris,50670,Paulo Nuin
+050671.html,[Rd] Problem installing Biobase on Solaris,50671,Paulo Nuin
+050677.html,[Rd] Problem installing Biobase on Solaris,50677,Paulo Nuin
+050645.html,[Rd] calculating means per group,50645,"ONKELINX, Thierry"
+050827.html,[Rd]  weird behavior of drop1() for polr models (MASS),50827,Jeroen Ooms
+050831.html,[Rd] weird behavior of drop1() for polr models (MASS),50831,Jeroen Ooms
+050659.html,"[Rd] lapply(NULL, ...) returns empty list",50659,Vadim Organovich
+050702.html,[Rd] Defining an alias for a generic function and callNextMethod() strange behaviour,50702,Herve Pages
+050797.html,[Rd] help text in read.table,50797,Henrik Parn
+050745.html,[Rd] odesolve dynload example,50745,Thomas Petzoldt
+050657.html,"[Rd] Erlang-style message-passing in R: Rmpi, Snow, NetWorkSpaces,	etc.",50657,Andrew Piskorski
+050660.html,"[Rd] Erlang-style message-passing in R: Rmpi, Snow,	NetWorkSpaces, etc.",50660,Andrew Piskorski
+050672.html,[Rd] typo in cov()?  var() fails on NA in R 2.7.2 but not R 2.6.1,50672,Andrew Piskorski
+050777.html,[Rd] R spec file change for building on CentOS 5.2 (PR#12939),50777,Martyn Plummer
+050780.html,[Rd] handling spaces in R invocation scripts,50780,Martyn Plummer
+050809.html,[Rd] Bug? in some package installations when a Print is added in	memory.c,50809,subramanian R
+050811.html,[Rd] Bug? in some package installations when a Print is added in	memory.c,50811,subramanian R
+050644.html,[Rd]  calculating means per group,50644,RFTW
+050737.html,[Rd] odesolve dynload example,50737,"Redding, Matthew"
+050747.html,[Rd] odesolve dynload example,50747,"Redding, Matthew"
+050748.html,[Rd] odesolve dynload example,50748,"Redding, Matthew"
+050749.html,[Rd] odesolve dynload example,50749,"Redding, Matthew"
+050627.html,[Rd] scan after seek in text files (PR#12640),50627,Prof Brian Ripley
+050628.html,[Rd] (PR#12628) Second X11 call with invalid display crashes R after first X11 call.,50628,Prof Brian Ripley
+050632.html,[Rd] installation problem on Window XP (PR#12658),50632,Prof Brian Ripley
+050648.html,[Rd] calculating means per group,50648,Prof Brian Ripley
+050667.html,[Rd] Problem installing Biobase on Solaris,50667,Prof Brian Ripley
+050676.html,[Rd] Problem installing Biobase on Solaris,50676,Prof Brian Ripley
+050678.html,[Rd] Problem with UTF-8 text in the Rcmdr package,50678,Prof Brian Ripley
+050685.html,[Rd] Problem with UTF-8 text in the Rcmdr package,50685,Prof Brian Ripley
+050765.html,[Rd] indexing by character with identical names,50765,Barry Rowlingson
+050669.html,[Rd] Passing method to returns() /fSeries (PR#12713),50669,Jeff Ryan
+050753.html,[Rd] Dates in C api,50753,Jeff Ryan
+050720.html,[Rd] Using R from Java,50720,Marzio Sala
+050751.html,[Rd] Dates in C api,50751,Oleg Sklyar
+050638.html,[Rd] ugly plots with xlim/ylim exceeding data range (changed since	R2.6.1),50638,"Sklyar, Oleg (London)"
+050650.html,"[Rd] &quot;incorrect&quot; ticks in plot(with xlim/ylim) and matplot in R2.7.2, R2.8.0",50650,"Sklyar, Oleg (London)"
+050652.html,[Rd] patch for graphics/R/plot.R that fixes incorrect tick positions,50652,"Sklyar, Oleg (London)"
+050692.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50692,"Sklyar, Oleg (London)"
+050696.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50696,"Sklyar, Oleg (London)"
+050697.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50697,"Sklyar, Oleg (London)"
+050699.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50699,"Sklyar, Oleg (London)"
+050701.html,[Rd] 'xtfrm' performance (influences 'order' performance) in R devel,50701,"Sklyar, Oleg (London)"
+050779.html,[Rd] Extract method for a new class,50779,"Sklyar, Oleg (London)"
+050731.html,[Rd] Cross-platform function availability,50731,Greg Snow
+050640.html,[Rd] suggestion of new API function for embedded programming.,50640,Luke Tierney
+050642.html,[Rd] suggestion of new API function for embedded programming.,50642,Luke Tierney
+050792.html,[Rd] function can permanently modify calling function	via substitute?,50792,Luke Tierney
+050808.html,[Rd] function can permanently modify calling function	via substitute?,50808,Luke Tierney
+050726.html,[Rd] Including data in package for use by C functions,50726,Ernest Turro
+050651.html,[Rd] suggestion of new API function for embedded programming.,50651,Simon Urbanek
+050787.html,[Rd] function can permanently modify calling function via	substitute?,50787,Perry de Valpine
+050721.html,[Rd] Using R from Java,50721,Tobias Verbeke
+050735.html,[Rd] Typo in cut.Rd,50735,Stephen Weigand
+050693.html,[Rd] legend does not reset xpd (PR#12756),50693,mark_difford at Yahoo.co.uk
+050636.html,[Rd] rpart: ID3 or C4.5?,50636,Achim Zeileis
+050812.html,[Rd] confusing documentation (PR#13077),50812,dannychia at berkeley.edu
+050834.html,[Rd] anova.glm needs y = TRUE in glm() (PR#13098),50834,Sebastian.Wastl.Meyer at campus.lmu.de
+050689.html,"[Rd] package &quot;signal&quot;, function &quot;filter&quot; (PR#12752)",50689,jschenck at cisco.com
+050823.html,[Rd] describe function in package Hmisc and function format.dates	in chron (PR#13087),50823,kemphillips at comcast.net
+050768.html,[Rd] R spec file change for building on CentOS 5.2 (PR#12939),50768,agajania at cs.newpaltz.edu
+050631.html,[Rd] installation problem on Window XP (PR#12658),50631,plleung at cuhk.edu.hk
+050784.html,[Rd] Bug in base::mean.default ? (PR#12984),50784,han at enfor.dk
+050746.html,[Rd] odesolve dynload example,50746,Setzer.Woodrow at epamail.epa.gov
+050715.html,[Rd] write.dcf does not quote as Debian would like it to (PR#12816),50715,blundellc at gmail.com
+050682.html,[Rd] Different result with different order of binding (PR#12742),50682,kyunseop.bae at gmail.com
+050688.html,[Rd] (PR#12742) Different result with different order of binding,50688,kyunseop.bae at gmail.com
+050771.html,[Rd] readRegistry function (PR#12937),50771,zivan.karaman at gmail.com
+050796.html,[Rd] Rounding error for high-precision numeric values (PR#13010),50796,hacking at gringer.org
+050661.html,[Rd] rgui.exe memory used (PR#12697),50661,cedric.carpentier at halbis.com
+050769.html,[Rd] family=&quot;mono&quot; does not work (PR#12931),50769,jaanvajakas at hot.ee
+050664.html,[Rd] Rmpi on Linux (SuSE) with OpenMPI,50664,giuseppe1.milicia at hsbcib.com
+050814.html,[Rd] Error in R-Intro document (PR#13079),50814,davidhedin at mac.com
+050813.html,[Rd] RWeka can't evaluate classifier on new data (PR#13076),50813,binye at med.wayne.edu
+050629.html,[Rd] Moving to a new bug reporting system?,50629,Rory.WINSTON at rbs.com
+050805.html,[Rd] Bug while loading Package &quot;tcltk&quot; with R-2.7.2 (PR#13016),50805,cyril.alegret at st.com
+050716.html,[Rd] write.dcf does not quote as Debian would like it to	(PR#12816),50716,maechler at stat.math.ethz.ch
+050807.html,"[Rd] bug in plot.acf, ci.type= &quot;ma&quot; (PR#13071)",50807,meermeyer at statistik.uni-wuppertal.de
+050684.html,[Rd] (PR#12742) Different result with different order of,50684,ripley at stats.ox.ac.uk
+050687.html,[Rd] (PR#12742) Different result with different order of,50687,ripley at stats.ox.ac.uk
+050690.html,"[Rd] package &quot;signal&quot;, function &quot;filter&quot; (PR#12752)",50690,ripley at stats.ox.ac.uk
+050705.html,[Rd] (PR#12770) format() under Windows giv wrong resuts with,50705,ripley at stats.ox.ac.uk
+050706.html,[Rd] (PR#12770) format() under Windows giv wrong resuts with,50706,ripley at stats.ox.ac.uk
+050709.html,[Rd] (PR#12770) format() under Windows giv wrong resuts with,50709,ripley at stats.ox.ac.uk
+050763.html,[Rd] documentation improvement request: add search (PR#12905),50763,rmh at temple.edu
+050704.html,[Rd] format() under Windows giv wrong resuts with posix data	(PR#12770),50704,pego.enrico at tiscali.it
+050668.html,[Rd] Passing method to returns() /fSeries (PR#12713),50668,rbali at ufmg.br
+050694.html,[Rd] Addendum to wishlist bug report #10931 (factanal) (PR#12754),50694,ulrich.keller at uni.lu
+050820.html,[Rd] Label justification (axis) (PR#13085),50820,martin.bader at unibas.ch
+050662.html,"[Rd] lapply(NULL, ...) returns empty list",50662,hadley wickham
+050691.html,"[Rd] package &quot;signal&quot;, function &quot;filter&quot; (PR#12752)",50691,hadley wickham
+050710.html,[Rd] Bug in cut.Dates with single date and day breaks,50710,hadley wickham
+050728.html,[Rd] Cross-platform function availability,50728,hadley wickham
+050733.html,[Rd] Cross-platform function availability,50733,hadley wickham
+050800.html,[Rd] R --interactive and readline() creates infinite loop,50800,hadley wickham
+050742.html,[Rd] aggregate() does not return POSIXct object correctly (PR#12887),50742,rene.locher at zhaw.ch

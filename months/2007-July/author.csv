@@ -1,0 +1,281 @@
+link,Subject,id,author
+046423.html,[Rd] X11() dies in remote background,46423,Vincent Carey 525-2265
+046427.html,[Rd] X11() dies in remote background,46427,Vincent Carey 525-2265
+046400.html,[Rd] possible bug R CMD check: No space(s) allowed after	\VignetteDepends{},46400,Ferdinand Alimadhi
+046375.html,[Rd] Unable to build with working iconv support on Solaris9/x86,46375,Lucas Barbuto
+046380.html,[Rd] Unable to build with working iconv support on Solaris9/x86,46380,Lucas Barbuto
+046244.html,[Rd] Forthcoming change in the API of the Matrix package,46244,Douglas Bates
+046247.html,[Rd] [OT] help in setting up a doxygen configuration file,46247,Douglas Bates
+046448.html,"[Rd] Changes in the MEMSS package (data sets from Pinheiro and	Bates, 2000, without the groupedData classes)",46448,Douglas Bates
+046450.html,"[Rd] Changes in the MEMSS package (data sets from Pinheiro and	Bates, 2000, without the groupedData classes)",46450,Douglas Bates
+046235.html,[Rd] File lock mechanisms in R,46235,Henrik Bengtsson
+046268.html,[Rd] Type on ?heatmap,46268,Henrik Bengtsson
+046452.html,[Rd] dict package: dictionary data structure for R,46452,Henrik Bengtsson
+046446.html,[Rd] postscript bug? (PR#9803),46446,Simon Blomberg
+046292.html,[Rd] sweep sanity checking?,46292,Ben Bolker
+046408.html,[Rd] trivial typo in ?crimtab,46408,Ben Bolker
+046468.html,[Rd] anova tables in survreg (PR#9806),46468,Ben Bolker
+046505.html,[Rd] behavior of L-BFGS-B with trivial function triggers bug in	stats4::mle,46505,Ben Bolker
+046500.html,[Rd] behavior of L-BFGS-B with trivial function triggers bug in	stats4::mle,46500,Ben Bolker
+046469.html,[Rd] codetools really optional for R CMD check?,46469,Ross Boylan
+046473.html,[Rd] Using R_MakeExternalPtr,46473,Ross Boylan
+046428.html,[Rd] X11() dies in remote background,46428,Benilton Carvalho
+046406.html,[Rd] S4 and Namespaces problems {was &quot;error message from lmer&quot;},46406,John Chambers
+046504.html,"[Rd] R2.6 bug in arithmetics of S4 classes inherited from 'array', or intended behavior?",46504,John Chambers
+046259.html,[Rd] problem with findFun call from embedded R,46259,Joe Conway
+046273.html,[Rd] problem with findFun call from embedded R,46273,Joe Conway
+046274.html,[Rd] problem with findFun call from embedded R,46274,Joe Conway
+046275.html,[Rd] problem with findFun call from embedded R,46275,Joe Conway
+046494.html,[Rd] developing a package: increase the number of functions,46494,"Coster, Albart"
+046420.html,[Rd] unable to load shared library: undefined symbol,46420,Ctagz
+046420.html,[Rd] unable to load shared library: undefined symbol,46420,Ctagz
+046239.html,"[Rd] R 2.5.1 - ?factor examples, details",46239,Peter Dalgaard
+046265.html,[Rd] data messed up by read.table ? (PR#9779),46265,Peter Dalgaard
+046289.html,[Rd] Problem with {,46289,Peter Dalgaard
+046321.html,[Rd] [[.data frame and row names,46321,Peter Dalgaard
+046355.html,[Rd] error in trunc function (PR#9782),46355,Peter Dalgaard
+046372.html,[Rd] substitute and expression,46372,Peter Dalgaard
+046386.html,[Rd] Field initialization order bug?,46386,Peter Dalgaard
+046389.html,[Rd] substitute and expression,46389,Peter Dalgaard
+046405.html,[Rd] substitute and expression (Peter Dalgaard),46405,Peter Dalgaard
+046422.html,[Rd] Bug in dev.print ? (PR#9801),46422,Peter Dalgaard
+046437.html,[Rd] postscript bug? (PR#9803),46437,Peter Dalgaard
+046264.html,[Rd] data messed up by read.table ? (PR#9779),46264,Vladimir Dergachev
+046258.html,[Rd] [R] reinforce library to re-load,46258,"Doran, Harold"
+046263.html,[Rd] data messed up by read.table ? (PR#9779),46263,Bill Dunlap
+046401.html,[Rd] (PR#9796) write.dcf/read.dcf cycle converts missing entry,46401,Bill Dunlap
+046432.html,[Rd] dict package: dictionary data structure for R,46432,Bill Dunlap
+046482.html,"[Rd] sequence(c(2, 0, 3)) produces surprising results, would like output length to be sum(input) (PR#9811)",46482,Bill Dunlap
+046485.html,[Rd] Rd2dvi (PR#9812),46485,Bill Dunlap
+046471.html,[Rd] codetools really optional for R CMD check?,46471,Dirk Eddelbuettel
+046260.html,[Rd] problem with findFun call from embedded R,46260,Byron Ellis
+046276.html,[Rd] Hook for running a function before evaluation,46276,Byron Ellis
+046278.html,[Rd] Hook for running a function before evaluation,46278,Byron Ellis
+046281.html,[Rd] R graphics device for flash apps,46281,Byron Ellis
+046233.html,[Rd] boxplot and bxp do not respect xlim by default	(PR#9754),46233,S Ellison
+046367.html,[Rd] formula(CO2),46367,S Ellison
+046306.html,[Rd] Getting param names of primitives,46306,Seth Falcon
+046376.html,[Rd] S4 coerce,46376,Seth Falcon
+046426.html,[Rd] X11() dies in remote background,46426,Seth Falcon
+046429.html,[Rd] dict package: dictionary data structure for R,46429,Seth Falcon
+046431.html,[Rd] dict package: dictionary data structure for R,46431,Seth Falcon
+046443.html,[Rd] dict package: dictionary data structure for R,46443,Seth Falcon
+046444.html,[Rd] dict package: dictionary data structure for R,46444,Seth Falcon
+046463.html,[Rd] Using R_MakeExternalPtr,46463,Seth Falcon
+046398.html,[Rd] S4 and Namespaces problems {was &quot;error message from lmer&quot;},46398,Robert Gentleman
+046325.html,"[Rd] In creating a Windows binary package (zip), how do I make the installation configurable",46325,Paul Gilbert
+046364.html,[Rd] S4 coerce,46364,Paul Gilbert
+046387.html,[Rd] S4 coerce,46387,Paul Gilbert
+046396.html,[Rd] S4 coerce,46396,Paul Gilbert
+046458.html,[Rd] [R] aggregate.ts,46458,Paul Gilbert
+046508.html,[Rd] developing a package: increase the number of functions,46508,Gregor Gorjanc
+046509.html,[Rd] developing a package: increase the number of functions,46509,Vincent Goulet
+046332.html,[Rd] (no subject),46332,Gorjanc Gregor
+046271.html,[Rd] Hook for running a function before evaluation,46271,Philippe Grosjean
+046277.html,[Rd] Hook for running a function before evaluation,46277,Philippe Grosjean
+046254.html,[Rd] minor flaw in integrate(),46254,Gabor Grothendieck
+046285.html,[Rd] Problem with {,46285,Gabor Grothendieck
+046293.html,[Rd] Problem with {,46293,Gabor Grothendieck
+046307.html,[Rd] Getting param names of primitives,46307,Gabor Grothendieck
+046310.html,[Rd] Getting param names of primitives,46310,Gabor Grothendieck
+046328.html,"[Rd] In creating a Windows binary package (zip),	how do I make the installation configurable",46328,Gabor Grothendieck
+046339.html,[Rd] parse(text=...) and the srcfile attribute,46339,Gabor Grothendieck
+046343.html,[Rd] Suggestion to extend aggregate() to return multiple and/or	named values,46343,Gabor Grothendieck
+046345.html,[Rd] Suggestion to extend aggregate() to return multiple and/or	named values,46345,Gabor Grothendieck
+046347.html,[Rd] row names and identical,46347,Gabor Grothendieck
+046350.html,[Rd] row names and identical,46350,Gabor Grothendieck
+046356.html,[Rd] formula(CO2),46356,Gabor Grothendieck
+046359.html,[Rd] formula(CO2),46359,Gabor Grothendieck
+046361.html,[Rd] formula(CO2),46361,Gabor Grothendieck
+046363.html,[Rd] formula(CO2),46363,Gabor Grothendieck
+046366.html,[Rd] formula(CO2),46366,Gabor Grothendieck
+046373.html,[Rd] substitute and expression,46373,Gabor Grothendieck
+046407.html,[Rd] package NULL not found,46407,Gabor Grothendieck
+046409.html,[Rd] package NULL not found,46409,Gabor Grothendieck
+046412.html,[Rd] package NULL not found,46412,Gabor Grothendieck
+046414.html,[Rd] package NULL not found,46414,Gabor Grothendieck
+046430.html,[Rd] dict package: dictionary data structure for R,46430,Gabor Grothendieck
+046449.html,"[Rd] Changes in the MEMSS package (data sets from Pinheiro and	Bates, 2000, without the groupedData classes)",46449,Gabor Grothendieck
+046451.html,"[Rd] Changes in the MEMSS package (data sets from Pinheiro and	Bates, 2000, without the groupedData classes)",46451,Gabor Grothendieck
+046460.html,[Rd] [R] aggregate.ts,46460,Gabor Grothendieck
+046297.html,[Rd] How to preserve data across function calls in a library package,46297,Saptarshi Guha
+046298.html,[Rd] [R] How to preserve data across function calls in a	library package,46298,Saptarshi Guha
+046303.html,[Rd] [R] How to preserve data across function calls in a	library package,46303,Saptarshi Guha
+046476.html,[Rd] [R] aggregate.ts,46476,Jeffrey J. Hallman
+046320.html,[Rd] sweep sanity checking?,46320,Robin Hankin
+046488.html,"[Rd] (PR#9811) sequence(c(2, 0, 3)) produces surprising results,",46488,Robin Hankin
+046294.html,[Rd] cleanup and Makevars,46294,Kasper Daniel Hansen
+046312.html,[Rd] cleanup and Makevars,46312,Kasper Daniel Hansen
+046357.html,[Rd] formula(CO2),46357, (Ted Harding)
+046358.html,[Rd] formula(CO2),46358, (Ted Harding)
+046362.html,[Rd] formula(CO2),46362, (Ted Harding)
+046365.html,[Rd] formula(CO2),46365, (Ted Harding)
+046261.html,[Rd] problem with findFun call from embedded R,46261,Jeffrey Horner
+046280.html,[Rd] R graphics device for flash apps,46280,Jeffrey Horner
+046416.html,[Rd] possible bug R CMD check: No space(s) allowed	after	\VignetteDepends{},46416,Kurt Hornik
+046313.html,[Rd] cleanup and Makevars,46313,Duncan Temple Lang
+046439.html,[Rd] dict package: dictionary data structure for R,46439,Duncan Temple Lang
+046342.html,[Rd] Suggestion to extend aggregate() to return multiple and/or	named values,46342,Mike Lawrence
+046344.html,[Rd] Suggestion to extend aggregate() to return multiple and/or named values,46344,Mike Lawrence
+046330.html,[Rd] cleanup and Makevars,46330,Hin-Tak Leung
+046464.html,[Rd] Using R_MakeExternalPtr,46464,Hin-Tak Leung
+046501.html,[Rd] Using R_MakeExternalPtr,46501,Hin-Tak Leung
+046424.html,[Rd] triax.points() from package plotrix,46424,Uwe Ligges
+046433.html,[Rd] Windows builder: Package X did not pass R CMD check,46433,Uwe Ligges
+046287.html,[Rd] packages using UTF-8 encoding,46287,Sebastian P. Luque
+046290.html,[Rd] packages using UTF-8 encoding,46290,Sebastian P. Luque
+046241.html,[Rd] minor flaw in integrate(),46241,Martin Maechler
+046251.html,[Rd] minor flaw in integrate(),46251,Martin Maechler
+046304.html,[Rd] Getting param names of primitives,46304,Martin Maechler
+046391.html,[Rd] Field initialization order bug?,46391,Martin Maechler
+046397.html,[Rd] S4 and Namespaces problems {was &quot;error message from lmer&quot;},46397,Martin Maechler
+046447.html,"[Rd] CHAR(STRING_ELT( - OK but CHAR(asChar(STRING_ELT( - not,	why?",46447,Martin Maechler
+046453.html,[Rd] dict package: dictionary data structure for R,46453,Martin Maechler
+046245.html,[Rd] termplot - changes in defaults,46245,John Maindonald
+046246.html,[Rd] termplot - changes in defaults,46246,John Maindonald
+046403.html,[Rd] substitute and expression (Peter Dalgaard),46403,John Maindonald
+046231.html,[Rd] saving objects with embedded environments,46231,"McGehee, Robert"
+046243.html,[Rd] How to get the names of the classes exported by a specific package.,46243,Martin Morgan
+046234.html,[Rd] R CMD build with mingw and msys (PR#9766),46234,Duncan Murdoch
+046237.html,[Rd] minor flaw in integrate(),46237,Duncan Murdoch
+046250.html,[Rd] update() problem (was: saving objects with embedded	environments),46250,Duncan Murdoch
+046252.html,[Rd] minor flaw in integrate(),46252,Duncan Murdoch
+046308.html,[Rd] Getting param names of primitives,46308,Duncan Murdoch
+046329.html,"[Rd] In creating a Windows binary package (zip), how do I make the installation configurable",46329,Duncan Murdoch
+046335.html,[Rd] Generics in base with no ...,46335,Duncan Murdoch
+046341.html,[Rd] parse(text=...) and the srcfile attribute,46341,Duncan Murdoch
+046353.html,[Rd] error in trunc function (PR#9782),46353,Duncan Murdoch
+046383.html,[Rd] Field initialization order bug?,46383,Duncan Murdoch
+046410.html,[Rd] package NULL not found,46410,Duncan Murdoch
+046411.html,[Rd] trivial typo in ?crimtab,46411,Duncan Murdoch
+046413.html,[Rd] package NULL not found,46413,Duncan Murdoch
+046511.html,[Rd] Typo in barplot.Rd,46511,Duncan Murdoch
+046315.html,[Rd] [[.data frame and row names,46315,Herve Pages
+046334.html,[Rd] Generics in base with no ...,46334,Herve Pages
+046336.html,[Rd] Generics in base with no ...,46336,Herve Pages
+046337.html,[Rd] seq_along() doesn't use _my_ length,46337,Herve Pages
+046236.html,[Rd] File lock mechanisms in R,46236,Fran&#231;ois Pinard
+046238.html,"[Rd] R 2.5.1 - ?factor examples, details",46238,Fran&#231;ois Pinard
+046445.html,[Rd] R 2.5.1 - typo in ?'::',46445,Fran&#231;ois Pinard
+046419.html,[Rd] triax.points() from package plotrix,46419,Andreas Plank
+046314.html,[Rd] sweep sanity checking?,46314,Tony Plate
+046299.html,[Rd] BLAS / LAPACK version information from within R-session?,46299,Jason Riedy
+046228.html,[Rd] termplot with uniform y-limits,46228,Prof Brian Ripley
+046232.html,[Rd] boxplot and bxp do not respect xlim by default (PR#9754),46232,Prof Brian Ripley
+046240.html,[Rd] File lock mechanisms in R,46240,Prof Brian Ripley
+046253.html,[Rd] minor flaw in integrate(),46253,Prof Brian Ripley
+046256.html,[Rd] reinforce library to re-load,46256,Prof Brian Ripley
+046272.html,[Rd] Shapiro Test P Value Incorrect? (PR#9768),46272,Prof Brian Ripley
+046288.html,[Rd] packages using UTF-8 encoding,46288,Prof Brian Ripley
+046295.html,[Rd] BLAS / LAPACK version information from within R-session?,46295,Prof Brian Ripley
+046301.html,[Rd] Getting param names of primitives,46301,Prof Brian Ripley
+046305.html,[Rd] Getting param names of primitives,46305,Prof Brian Ripley
+046309.html,[Rd] Getting param names of primitives,46309,Prof Brian Ripley
+046311.html,[Rd] cleanup and Makevars,46311,Prof Brian Ripley
+046316.html,[Rd] [[.data frame and row names,46316,Prof Brian Ripley
+046322.html,[Rd] cleanup and Makevars,46322,Prof Brian Ripley
+046323.html,[Rd] cleanup and Makevars,46323,Prof Brian Ripley
+046327.html,"[Rd] In creating a Windows binary package (zip), how do I make the installation configurable",46327,Prof Brian Ripley
+046331.html,[Rd] cleanup and Makevars,46331,Prof Brian Ripley
+046351.html,[Rd] Progress report on 64-bit builds under Windows,46351,Prof Brian Ripley
+046370.html,[Rd] Problem building R with Sun Studio Compiler,46370,Prof Brian Ripley
+046381.html,[Rd] Error while fitting Partial Proportional Odds model using vglm,46381,Prof Brian Ripley
+046384.html,[Rd] Field initialization order bug?,46384,Prof Brian Ripley
+046385.html,[Rd] Problem building R with Sun Studio Compiler,46385,Prof Brian Ripley
+046402.html,[Rd] S4 and Namespaces problems {was &quot;error message from lmer&quot;},46402,Prof Brian Ripley
+046404.html,[Rd] (PR#9796) write.dcf/read.dcf cycle converts missing entry,46404,Prof Brian Ripley
+046415.html,[Rd] package NULL not found,46415,Prof Brian Ripley
+046418.html,[Rd] unable to load shared library: undefined symbol,46418,Prof Brian Ripley
+046425.html,[Rd] X11() dies in remote background,46425,Prof Brian Ripley
+046435.html,"[Rd] R2.6 bug in arithmetics of S4 classes inherited from 'array', or intended behavior?",46435,Prof Brian Ripley
+046441.html,"[Rd] CHAR(STRING_ELT( - OK but CHAR(asChar(STRING_ELT( - not, why?",46441,Prof Brian Ripley
+046474.html,[Rd] loess prediction algorithm,46474,Prof Brian Ripley
+046495.html,[Rd] developing a package: increase the number of functions,46495,Prof Brian Ripley
+046226.html,[Rd] termplot with uniform y-limits,46226,Prof Brian D Ripley
+046377.html,[Rd] Unable to build with working iconv support on Solaris9/x86,46377,Professor Brian Ripley
+046399.html,[Rd] Saving R graphics as various file types.,46399,Barry Rowlingson
+046249.html,[Rd] minor flaw in integrate(),46249,Peter Ruckdeschel
+046286.html,[Rd] BLAS / LAPACK version information from within R-session?,46286,Peter Ruckdeschel
+046338.html,[Rd] parse(text=...) and the srcfile attribute,46338,Deepayan Sarkar
+046340.html,[Rd] parse(text=...) and the srcfile attribute,46340,Deepayan Sarkar
+046371.html,[Rd] substitute and expression,46371,Deepayan Sarkar
+046374.html,[Rd] substitute and expression,46374,Deepayan Sarkar
+046269.html,[Rd] Shapiro Test P Value Incorrect? (PR#9768),46269,Petr Savicky
+046317.html,[Rd] sweep sanity checking?,46317,Petr Savicky
+046319.html,[Rd] sweep sanity checking?,46319,Petr Savicky
+046346.html,[Rd] sweep sanity checking?,46346,Petr Savicky
+046455.html,[Rd] sweep sanity checking?,46455,Petr Savicky
+046487.html,[Rd] sweep sanity checking?,46487,Petr Savicky
+046255.html,[Rd] reinforce library to re-load,46255,Weiwei Shi
+046360.html,[Rd] formula(CO2),46360,Gavin Simpson
+046382.html,[Rd] Error while fitting Partial Proportional Odds model	using	vglm,46382,Gavin Simpson
+046248.html,[Rd] 'inline' package update,46248,Oleg Sklyar
+046284.html,"[Rd] 'inline' package supports Fortran, .C calls etc",46284,Oleg Sklyar
+046326.html,"[Rd] In creating a Windows binary package (zip), how do I make the installation configurable",46326,Oleg Sklyar
+046434.html,"[Rd] R2.6 bug in arithmetics of S4 classes inherited from 'array',	or	intended behavior?",46434,Oleg Sklyar
+046438.html,"[Rd] R2.6 bug in arithmetics of S4 classes inherited	from	'array', or	intended behavior?",46438,Oleg Sklyar
+046440.html,"[Rd] CHAR(STRING_ELT( - OK but CHAR(asChar(STRING_ELT( - not, why?",46440,Oleg Sklyar
+046442.html,"[Rd] CHAR(STRING_ELT( - OK but CHAR(asChar(STRING_ELT( - not,	why?",46442,Oleg Sklyar
+046503.html,"[Rd] R2.6 bug in arithmetics of S4 classes inherited	from	'array', or intended behavior?",46503,Oleg Sklyar
+046267.html,[Rd] cor() and cor.test() (PR#9781),46267,Greg Snow
+046477.html,[Rd] loess prediction algorithm,46477,Greg Snow
+046475.html,[Rd]  loess prediction algorithm,46475,Benjamin Tyner
+046369.html,[Rd] How to disable R's C stack checking,46369,Simon Urbanek
+046462.html,[Rd] Using R_MakeExternalPtr,46462,Simon Urbanek
+046466.html,[Rd] Using R_MakeExternalPtr,46466,Simon Urbanek
+046479.html,[Rd] SQL server service pack 2 prob? (PR#9810),46479,Simon Urbanek
+046510.html,[Rd] Typo in barplot.Rd,46510,Stephen Weigand
+046270.html,[Rd] How to disable R's C stack checking,46270,Ev Whin
+046378.html,[Rd] Field initialization order bug?,46378,Daniel Wilhelm
+046394.html,[Rd] Field initialization order bug?,46394,Daniel Wilhelm
+046470.html,"[Rd] glm(...,quasi(link=&quot;logit&quot;)) problem?",46470,Simon Wood
+046388.html,[Rd] formula(CO2),46388,Kevin Wright
+046379.html,[Rd] Error while fitting Partial Proportional Odds model using vglm,46379,Rizwan Younis
+046368.html,[Rd] Problem building R with Sun Studio Compiler,46368,Len Zaifman
+046392.html,[Rd] Problem building R with Sun Studio Compiler,46392,Len Zaifman
+046393.html,[Rd] Problem building R with Sun Studio Compiler on SLES 9 SP3,46393,Len Zaifman
+046459.html,[Rd] [R] aggregate.ts,46459,Achim Zeileis
+046461.html,[Rd] Using R_MakeExternalPtr,46461,Jonathan Zhou
+046465.html,[Rd] Using R_MakeExternalPtr,46465,Jonathan Zhou
+046467.html,[Rd] Using R_MakeExternalPtr,46467,Jonathan Zhou
+046282.html,[Rd] Minor bug in lillie.test from nortest package (PR#9784),46282,dsterling at abac.com
+046262.html,[Rd] data messed up by read.table ? (PR#9779),46262,100700.3013 at compuserve.com
+046225.html,[Rd] termplot with uniform y-limits,46225,Bill.Venables at csiro.au
+046227.html,[Rd] termplot with uniform y-limits,46227,Bill.Venables at csiro.au
+046229.html,[Rd] termplot with uniform y-limits,46229,Bill.Venables at csiro.au
+046279.html,[Rd] rbind.data.frame: bug?,46279,Mark.Bravington at csiro.au
+046242.html,[Rd] How to get the names of the classes exported by a specific	package.,46242,ernesto
+046266.html,[Rd] cor() and cor.test() (PR#9781),46266,kristle.krichbaum at gmail.com
+046454.html,[Rd] Accuracy of qt for df=1 (PR#9804),46454,mwelinder at gmail.com
+046318.html,[Rd] Fextremes - Error in if (xi &gt; 0.5) (PR#9789),46318,software at iangregory.com
+046390.html,[Rd] write.dcf/read.dcf cycle converts missing entry to &quot;NA&quot;	(PR#9796),46390,bill at insightful.com
+046481.html,"[Rd] sequence(c(2, 0, 3)) produces surprising results,	would like output length to be sum(input) (PR#9811)",46481,bill at insightful.com
+046483.html,"[Rd] sequence(c(2, 0, 3)) produces surprising results,	would (PR#9813)",46483,bill at insightful.com
+046502.html,"[Rd] (PR#9811) sequence(c(2, 0, 3)) produces surprising results,",46502,bill at insightful.com
+046352.html,[Rd] error in trunc function (PR#9782),46352,focus17 at libero.it
+046300.html,[Rd] Getting param names of primitives,46300,miguel manese
+046302.html,[Rd] Getting param names of primitives,46302,miguel manese
+046348.html,[Rd] row names and identical,46348,miguel manese
+046349.html,[Rd] row names and identical,46349,miguel manese
+046296.html,[Rd] Plot dies with memory not mapped (segfault) (PR#9785),46296,cbaenzig at mines.edu
+046472.html,[Rd] loess prediction algorithm,46472,apjaworski at mmm.com
+046333.html,[Rd] Presentation and packaging policy,46333,pingou
+046257.html,[Rd] editing pasted text from parameter list through rcompletion	crashes R in Windows (PR#9775),46257,mwtoews at sfu.ca
+046457.html,[Rd] anova tables in survreg (PR#9806),46457,a.manners at sib.uq.edu.au
+046456.html,[Rd] Accuracy of qt for df=1 (PR#9804),46456,maechler at stat.math.ethz.ch
+046490.html,"[Rd] (PR#9811) sequence(c(2, 0, 3)) produces surprising results,",46490,maechler at stat.math.ethz.ch
+046283.html,[Rd] Minor bug in lillie.test from nortest package (PR#9784),46283,ligges at statistik.uni-dortmund.de
+046230.html,[Rd] boxplot and bxp do not respect xlim by default (PR#9754),46230,ripley at stats.ox.ac.uk
+046354.html,[Rd] error in trunc function (PR#9782),46354,ripley at stats.ox.ac.uk
+046395.html,[Rd] (PR#9796) write.dcf/read.dcf cycle converts missing entry,46395,ripley at stats.ox.ac.uk
+046480.html,[Rd] (PR#9810) Problem with careless user of RODBC (was  SQL,46480,ripley at stats.ox.ac.uk
+046486.html,"[Rd] (PR#9811) sequence(c(2, 0, 3)) produces surprising results,",46486,ripley at stats.ox.ac.uk
+046489.html,[Rd] Rd2dvi (PR#9812),46489,ripley at stats.ox.ac.uk
+046507.html,[Rd] POSIXct Formating Error (PR#9819),46507,ripley at stats.ox.ac.uk
+046291.html,[Rd] Planet R - a weblog aggregator for statistical computing,46291,elw at stderr.org
+046324.html,"[Rd] In creating a Windows binary package (zip),	how do I make the installation configurable",46324,rick.jones at sungard.com
+046478.html,[Rd] SQL server service pack 2 prob? (PR#9810),46478,jeff.lindon at thelearninginstitute.net
+046506.html,[Rd] POSIXct Formating Error (PR#9819),46506,josh.quigley at tibra.com.au
+046421.html,[Rd] Bug in dev.print ? (PR#9801),46421,Dietrich.Trenkler at uni-osnabrueck.de
+046436.html,[Rd] postscript bug? (PR#9803),46436,s.blomberg1 at uq.edu.au
+046484.html,[Rd] Rd2dvi (PR#9812),46484,larryh at zebra.us.udel.edu

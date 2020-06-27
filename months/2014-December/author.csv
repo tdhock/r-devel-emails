@@ -1,0 +1,121 @@
+link,Subject,id,author
+070217.html,[Rd] Bundling system dependencies in binary packages,70217,Louis Aslett
+070221.html,[Rd] Bundling system dependencies in binary packages,70221,Louis Aslett
+070236.html,[Rd] install.packages deletes PACKAGES file in local repo,70236,Gabriel Becker
+070237.html,[Rd] R CMD check --as-cran and (a)spell checking,70237,Henrik Bengtsson
+070253.html,[Rd] R on the Cydia Store,70253,Henrik Bengtsson
+070274.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70274,Henrik Bengtsson
+070277.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70277,Henrik Bengtsson
+070300.html,[Rd] Making iconv portable?,70300,Milan Bouchet-Valat
+070271.html,[Rd] Fwd: No source view when using gdb,70271,Pierrick Bruneau
+070273.html,[Rd] Fwd: No source view when using gdb,70273,Pierrick Bruneau
+070307.html,[Rd] segfault when trying to allocate a large vector,70307,Pierrick Bruneau
+070309.html,[Rd] segfault when trying to allocate a large vector,70309,Pierrick Bruneau
+070312.html,[Rd] Unexplained difference between results of dppsv and dpotri	LAPACK routines,70312,Pierrick Bruneau
+070314.html,[Rd] Unexplained difference between results of dppsv and dpotri LAPACK routines,70314,Pierrick Bruneau
+070299.html,[Rd] Building R on Windows: mkdir of Rtools creates directories with read-only permissions [WEIRD],70299,C
+070222.html,[Rd] we need an exists/get hybrid,70222,Winston Chang
+070225.html,[Rd] \U with more than 4 digits returns the wrong character,70225,Richard Cotton
+070228.html,[Rd] \U with more than 4 digits returns the wrong character,70228,Richard Cotton
+070241.html,[Rd] CRAN packages mis-using \donttest : falsy,70241,G&#225;bor Cs&#225;rdi
+070243.html,[Rd] CRAN packages mis-using \donttest : falsy,70243,G&#225;bor Cs&#225;rdi
+070245.html,[Rd] CRAN packages mis-using \donttest : falsy,70245,G&#225;bor Cs&#225;rdi
+070218.html,[Rd] Bundling system dependencies in binary packages,70218,Dirk Eddelbuettel
+070270.html,[Rd] package.skeleton leads to R CMD check aborting,70270,Dirk Eddelbuettel
+070323.html,[Rd] how useful could be a fast and embedded database for the R community?,70323,Dirk Eddelbuettel
+070332.html,[Rd] call r function in c++ application,70332,Dirk Eddelbuettel
+070251.html,[Rd] R on the Cydia Store,70251,Apps Embedded
+070262.html,[Rd] R on the Cydia Store,70262,Apps Embedded
+070267.html,[Rd] R on the Cydia Store,70267,Apps Embedded
+070232.html,[Rd] install.packages deletes PACKAGES file in local repo,70232,Renaud Gaujoux
+070239.html,[Rd] install.packages deletes PACKAGES file in local repo,70239,Renaud Gaujoux
+070294.html,[Rd] Making iconv portable?,70294,Spencer Graves
+070297.html,[Rd] Making iconv portable?,70297,Spencer Graves
+070318.html,[Rd] CRAN and ggplot2 geom and stat extensions,70318,Gabor Grothendieck
+070316.html,[Rd] CRAN and ggplot2 geom and stat extensions,70316,Frank Harrell
+070220.html,[Rd] we need an exists/get hybrid,70220,Peter Haverty
+070223.html,[Rd] we need an exists/get hybrid,70223,Peter Haverty
+070295.html,[Rd] Making iconv portable?,70295,Kurt Hornik
+070328.html,[Rd] how useful could be a fast and embedded database for the R community?,70328,Joan Iglesias
+070302.html,[Rd] vapply definition question,70302,Mick Jordan
+070305.html,[Rd] vapply definition question,70305,Mick Jordan
+070280.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70280,Jan Kim
+070285.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70285,Jan Kim
+070288.html,[Rd] Significant memory leak when using XML on Windows,70288,Duncan Temple Lang
+070216.html,[Rd] Feature request: mixing `...` (three dots) with other formal arguments in S4 methods,70216,Michael Lawrence
+070315.html,[Rd] loadNamespace and versionChecking and the	otherpackage::otherfun syntax,70315,Geoff Lee
+070286.html,[Rd] R build failure under gcc 4.9's link time optimization,70286,Hin-Tak Leung
+070319.html,"[Rd] bug fix for R,	and speed gain (was Re: R build failure under gcc 4.9's link time	optimization)",70319,Hin-Tak Leung
+070227.html,[Rd] \U with more than 4 digits returns the wrong character,70227,Mark van der Loo
+070229.html,[Rd] \U with more than 4 digits returns the wrong character,70229,Mark van der Loo
+070224.html,[Rd] we need an exists/get hybrid,70224,"Lorenz, David"
+070269.html,[Rd] R CMD check --as-cran and (a)spell checking,70269,Martin Maechler
+070301.html,[Rd] Making iconv portable?,70301,Martin Maechler
+070278.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding	when parse():ing code?,70278,Bj&#248;rn-Helge Mevik
+070283.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding	when parse():ing code?,70283,Bj&#248;rn-Helge Mevik
+070308.html,[Rd] segfault when trying to allocate a large vector,70308,Karl Millar
+070303.html,[Rd] vapply definition question,70303,Martin Morgan
+070230.html,[Rd] \U with more than 4 digits returns the wrong character,70230,Duncan Murdoch
+070231.html,[Rd] \U with more than 4 digits returns the wrong character,70231,Duncan Murdoch
+070234.html,[Rd] Use of tools:::httpdPort in a package for CRAN.,70234,Duncan Murdoch
+070242.html,[Rd] CRAN packages mis-using \donttest : falsy,70242,Duncan Murdoch
+070244.html,[Rd] CRAN packages mis-using \donttest : falsy,70244,Duncan Murdoch
+070246.html,[Rd] CRAN packages mis-using \donttest : falsy,70246,Duncan Murdoch
+070248.html,[Rd] UTF8 markdown vignette,70248,Duncan Murdoch
+070250.html,[Rd] UTF8 markdown vignette,70250,Duncan Murdoch
+070254.html,[Rd] UTF8 markdown vignette,70254,Duncan Murdoch
+070256.html,[Rd] R on the Cydia Store,70256,Duncan Murdoch
+070258.html,[Rd] R on the Cydia Store,70258,Duncan Murdoch
+070260.html,[Rd] UTF8 markdown vignette,70260,Duncan Murdoch
+070268.html,[Rd] UTF8 markdown vignette,70268,Duncan Murdoch
+070275.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70275,Duncan Murdoch
+070279.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70279,Duncan Murdoch
+070281.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70281,Duncan Murdoch
+070310.html,[Rd] UTF8 markdown vignette,70310,Duncan Murdoch
+070331.html,[Rd] call r function in c++ application,70331,Duncan Murdoch
+070334.html,[Rd] Unexpected behavior of debug() in step-wise mode,70334,Duncan Murdoch
+070240.html,[Rd] does parLapplyLB do load-balancing?,70240,Ei-ji Nakama
+070304.html,[Rd]  vapply definition question,70304,Radford Neal
+070247.html,[Rd] UTF8 markdown vignette,70247,"ONKELINX, Thierry"
+070249.html,[Rd] UTF8 markdown vignette,70249,"ONKELINX, Thierry"
+070259.html,[Rd] UTF8 markdown vignette,70259,"ONKELINX, Thierry"
+070265.html,[Rd] UTF8 markdown vignette,70265,"ONKELINX, Thierry"
+070311.html,[Rd] UTF8 markdown vignette,70311,"ONKELINX, Thierry"
+070287.html,[Rd] Significant memory leak when using XML on Windows,70287,Jeroen Ooms
+070289.html,[Rd] Significant memory leak when using XML on Windows,70289,Jeroen Ooms
+070238.html,[Rd] does parLapplyLB do load-balancing?,70238,Chris Paciorek
+070266.html,[Rd] R on the Cydia Store,70266,Brian G. Peterson
+070272.html,[Rd] Fwd: No source view when using gdb,70272,Martyn Plummer
+070215.html,[Rd] Using FPP preprocessor for Fortran Code,70215,Prof Brian Ripley
+070219.html,[Rd] Bundling system dependencies in binary packages,70219,Prof Brian Ripley
+070284.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70284,Barry Rowlingson
+070327.html,[Rd] how useful could be a fast and embedded database for the R	community?,70327,Barry Rowlingson
+070257.html,[Rd] R on the Cydia Store,70257,Marc Schwartz
+070261.html,[Rd] R on the Cydia Store,70261,Marc Schwartz
+070263.html,[Rd] R on the Cydia Store,70263,Marc Schwartz
+070226.html,[Rd] we need an exists/get hybrid,70226,Sven E. Templer
+070233.html,[Rd] Use of tools:::httpdPort in a package for CRAN.,70233,Sven E. Templer
+070276.html,[Rd] Significant memory leak when using XML on Windows,70276,Janko Thyson
+070290.html,[Rd] Significant memory leak when using XML on Windows,70290,Janko Thyson
+070292.html,[Rd] Significant memory leak when using XML on Windows,70292,Janko Thyson
+070291.html,[Rd] Significant memory leak when using XML on Windows,70291,Janko Thyson
+070293.html,[Rd] Significant memory leak when using XML on Windows,70293,Janko Thyson
+070296.html,[Rd] Making iconv portable?,70296,Simon Urbanek
+070298.html,[Rd] Making iconv portable?,70298,Simon Urbanek
+070333.html,[Rd] Unexpected behavior of debug() in step-wise mode,70333,Levi Waldron
+070282.html,[Rd] SUGGESTION: Force install.packages() to use ASCII encoding when parse():ing code?,70282,Hadley Wickham
+070235.html,[Rd] Use of tools:::httpdPort in a package for CRAN.,70235,Yihui Xie
+070252.html,[Rd] UTF8 markdown vignette,70252,Yihui Xie
+070255.html,[Rd] UTF8 markdown vignette,70255,Yihui Xie
+070264.html,[Rd] UTF8 markdown vignette,70264,Yihui Xie
+070306.html,[Rd] UTF8 markdown vignette,70306,Yihui Xie
+070317.html,[Rd] CRAN and ggplot2 geom and stat extensions,70317,Ista Zahn
+070313.html,[Rd] Unexplained difference between results of dppsv and dpotri	LAPACK routines,70313,peter dalgaard
+070329.html,[Rd] Inconsistent Parse Behavior,70329,brodie gaslam
+070320.html,[Rd] how useful could be a fast and embedded database for the R community?,70320,joanv
+070322.html,[Rd] how useful could be a fast and embedded database for the R community?,70322,joanv
+070324.html,[Rd] how useful could be a fast and embedded database for the R community?,70324,joanv
+070325.html,[Rd] how useful could be a fast and embedded database for the R community?,70325,joanv
+070326.html,[Rd] how useful could be a fast and embedded database for the R community?,70326,joanv
+070330.html,[Rd] call r function in c++ application,70330,blesson thomas
+070321.html,[Rd] how useful could be a fast and embedded database for the R	community?,70321,elijah wright

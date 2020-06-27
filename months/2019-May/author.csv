@@ -1,0 +1,198 @@
+link,Subject,id,author
+077886.html,[Rd] Converting non-32-bit integers from python to R to use bit64: reticulate,77886,Juan Telleria Ruiz de Aguirre
+077896.html,[Rd]  Converting non-32-bit integers from python to R to use bit64: reticulate,77896,Juan Telleria Ruiz de Aguirre
+077768.html,[Rd] [R] approx with NAs --&gt; new argument 'na.rm=TRUE' ?!,77768,Robert Almgren
+077775.html,[Rd] [R] approx with NAs --&gt; new argument 'na.rm=TRUE' ?!,77775,Robert Almgren
+077894.html,[Rd] stopifnot,77894,Suharto Anggono Suharto Anggono
+077770.html,[Rd] ALTREP: Design concept of alternative string,77770,Gabriel Becker
+077795.html,[Rd] ALTREP: Bug reports,77795,Gabriel Becker
+077796.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77796,Gabriel Becker
+077801.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77801,Gabriel Becker
+077802.html,[Rd] ALTREP: Bug reports,77802,Gabriel Becker
+077803.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77803,Gabriel Becker
+077805.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77805,Gabriel Becker
+077811.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77811,Gabriel Becker
+077887.html,[Rd]  Converting non-32-bit integers from python to R to use bit64: reticulate,77887,Gabriel Becker
+077736.html,[Rd] Staged installation fail on some file systems,77736,Henrik Bengtsson
+077757.html,[Rd] Staged installation fail on some file systems,77757,Henrik Bengtsson
+077781.html,[Rd] Staged installation fail on some file systems,77781,Henrik Bengtsson
+077831.html,[Rd] WISH: Built-in R session-specific universally unique identifier (UUID),77831,Henrik Bengtsson
+077900.html,[Rd] use of buffers in sprintf and snprintf,77900,Henrik Bengtsson
+077740.html,[Rd] read.table() fails with https in R 3.6 but not in R 3.5,77740,Stephen Berman
+077750.html,[Rd] read.table() fails with https in R 3.6 but not in R 3.5,77750,Stephen Berman
+077749.html,[Rd] R problems with lapack with gfortran,77749,Janne Blomqvist
+077737.html,[Rd] Staged installation fail on some file systems,77737,Ben Bolker
+077752.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77752,Ben Bolker
+077853.html,[Rd] writing Unicode text to the Windows clipboard,77853,Jennifer Bryan
+077856.html,[Rd] writing Unicode text to the Windows clipboard,77856,Jennifer Bryan
+077864.html,[Rd] \dots used improperly in ?Rprof examples,77864,Michael Chirico
+077866.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77866,Michael Chirico
+077868.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77868,Michael Chirico
+077880.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77880,Michael Chirico
+077884.html,[Rd] Why is R in Japanese (only in Mac terminal)?,77884,Michael Chirico
+077867.html,[Rd] &quot;if&quot; function in pure R?,77867,Alexandre Courtiol
+077871.html,[Rd] &quot;if&quot; function in pure R?,77871,Alexandre Courtiol
+077909.html,[Rd] Possible bug in formatC,77909,Randy Cragun
+077710.html,[Rd] [External] Re:  Background R session on Unix and SIGINT,77710,G&#225;bor Cs&#225;rdi
+077713.html,[Rd] [External] Re:  Background R session on Unix and SIGINT,77713,G&#225;bor Cs&#225;rdi
+077779.html,[Rd] read.table() fails with https in R 3.6 but not in R 3.5,77779,G&#225;bor Cs&#225;rdi
+077902.html,[Rd] use of buffers in sprintf and snprintf,77902,G&#225;bor Cs&#225;rdi
+077709.html,[Rd] mccollect with NULL in R 3.6,77709,Gergely Dar&#243;czi
+077727.html,[Rd] mccollect with NULL in R 3.6,77727,Gergely Dar&#243;czi
+077731.html,[Rd] mccollect with NULL in R 3.6,77731,Gergely Dar&#243;czi
+077792.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77792,William Dunlap
+077832.html,[Rd] WISH: Built-in R session-specific universally unique identifier (UUID),77832,William Dunlap
+077838.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77838,William Dunlap
+077841.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77841,William Dunlap
+077746.html,[Rd] Porting R example datasets to GNU Octave,77746,Dirk Eddelbuettel
+077761.html,[Rd] openblas,77761,Dirk Eddelbuettel
+077788.html,[Rd] Pcre install,77788,Dirk Eddelbuettel
+077720.html,[Rd] R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77720,Florian Gerber
+077789.html,[Rd] Pcre install,77789,Adi Gherman
+077813.html,[Rd] Barplot &amp; Boxplot: lim and horizontal,77813,Colin Gillespie
+077858.html,[Rd] HTTPS warning on developer.r-project.org,77858,Colin Gillespie
+077807.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77807,Jan Gorecki
+077893.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77893,Jan Gorecki
+077743.html,[Rd] Bug in function boxplot's axis labeling,77743,Ulrike Gr&#246;mping
+077882.html,[Rd] Wrong IEEE reference in documentation for the Round function,77882,Kyle Hamilton
+077732.html,[Rd] R problems with lapack with gfortran,77732,Berend Hasselman
+077910.html,[Rd] Patch suggestion for stats:::summary.stl,77910,Aksel Anker Henriksen
+077839.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77839,Lionel Henry
+077847.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77847,Lionel Henry
+077891.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77891,Toby Hocking
+077897.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77897,Toby Hocking
+077903.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77903,Toby Hocking
+077883.html,[Rd]  Wrong IEEE reference in documentation for the Round function,77883,Kurt Hornik
+077741.html,[Rd] Incorrect date range in austres example dataset?,77741,Andrew Janke
+077742.html,[Rd] Porting R example datasets to GNU Octave,77742,Andrew Janke
+077790.html,[Rd] Porting R example datasets to GNU Octave,77790,Andrew Janke
+077888.html,[Rd] Making a package CITATION file from BibTeX,77888,Dr Gregory Jefferis
+077892.html,[Rd] Making a package CITATION file from BibTeX,77892,Dr Gregory Jefferis
+077870.html,[Rd] &quot;if&quot; function in pure R?,77870,King Jiefei
+077717.html,[Rd] mccollect with NULL in R 3.6,77717,Tomas Kalibera
+077723.html,[Rd] R problems with lapack with gfortran,77723,Tomas Kalibera
+077729.html,[Rd] mccollect with NULL in R 3.6,77729,Tomas Kalibera
+077744.html,[Rd] R problems with lapack with gfortran,77744,Tomas Kalibera
+077748.html,[Rd] R problems with lapack with gfortran,77748,Tomas Kalibera
+077755.html,[Rd]  Strange error messages from parallel::mcparallel family under 3.6.0,77755,Tomas Kalibera
+077756.html,[Rd] Staged installation fail on some file systems,77756,Tomas Kalibera
+077767.html,[Rd] Staged installation fail on some file systems,77767,Tomas Kalibera
+077778.html,[Rd] read.table() fails with https in R 3.6 but not in R 3.5,77778,Tomas Kalibera
+077827.html,[Rd] Race condition on parallel package's mcexit and rmChild,77827,Tomas Kalibera
+077860.html,[Rd] Possible bug when finding shared libraries during staged installation,77860,Tomas Kalibera
+077872.html,[Rd] Possible bug when finding shared libraries during staged installation,77872,Tomas Kalibera
+077738.html,[Rd] R problems with lapack with gfortran,77738,Steve Kargl
+077739.html,[Rd] R problems with lapack with gfortran,77739,Steve Kargl
+077776.html,[Rd] R problems with lapack with gfortran,77776,Steve Kargl
+077817.html,[Rd] most robust way to call R API functions from a secondary thread,77817,Andreas Kersting
+077842.html,[Rd] most robust way to call R API functions from a secondary thread,77842,Andreas Kersting
+077843.html,[Rd] [External] most robust way to call R API functions from a secondary thread,77843,Andreas Kersting
+077845.html,[Rd] make running on.exit expr uninterruptible,77845,Andreas Kersting
+077777.html,[Rd] R problems with lapack with gfortran,77777,Thomas Koenig
+077901.html,[Rd] [patch] add sanity checks to quantile(),77901,Scott Kostyshak
+077728.html,[Rd] Strange error messages from parallel::mcparallel family under 3.6.0,77728,Pavel Krivitsky
+077784.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77784,Pavel Krivitsky
+077816.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77816,Pavel Krivitsky
+077819.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77819,Pavel Krivitsky
+077809.html,[Rd] Give update.formula() an option not to simplify or reorder the result -- request for comments,77809,Pavel N. Krivitsky
+077730.html,[Rd] R problems with lapack with gfortran,77730,Thomas K&#246;nig
+077734.html,[Rd] R problems with lapack with gfortran,77734,Thomas K&#246;nig
+077735.html,[Rd] R problems with lapack with gfortran,77735,Thomas K&#246;nig
+077759.html,[Rd] openblas,77759,Peter Langfelder
+077760.html,[Rd] openblas,77760,Peter Langfelder
+077765.html,[Rd] openblas,77765,Peter Langfelder
+077715.html,[Rd] Inno Setup 6.0.2 fails before creating exe file on Windows (R-3.6.0),77715,Martin Maechler
+077747.html,"[Rd] Error in glm(..., family=quasi(..., variance=list(...)))",77747,Martin Maechler
+077763.html,[Rd] [R] approx with NAs --&gt; new argument 'na.rm=TRUE' ?!,77763,Martin Maechler
+077773.html,[Rd] [R] approx with NAs --&gt; new argument 'na.rm=TRUE' ?!,77773,Martin Maechler
+077791.html,[Rd] Bug in function boxplot's axis labeling,77791,Martin Maechler
+077810.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77810,Martin Maechler
+077812.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77812,Martin Maechler
+077836.html,[Rd] anyNA() performance on vectors of POSIXct,77836,Martin Maechler
+077837.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77837,Martin Maechler
+077844.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77844,Martin Maechler
+077846.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77846,Martin Maechler
+077852.html,[Rd] HTTPS warning on developer.r-project.org,77852,Martin Maechler
+077857.html,[Rd] Typo/bug in R-3.6.0/src/scripts/config ?,77857,Martin Maechler
+077859.html,[Rd] Possible bug when finding shared libraries during staged installation,77859,Martin Maechler
+077876.html,[Rd] writing Unicode text to the Windows clipboard,77876,Martin Maechler
+077878.html,[Rd] bug in rbind?,77878,Martin Maechler
+077874.html,[Rd]  Give update.formula() an option not to simplify or reorder the result -- request for comments,77874,Thomas Mailund
+077849.html,[Rd] HTTPS warning on developer.r-project.org,77849,Paul Menzel
+077724.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77724,Duncan Murdoch
+077726.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77726,Duncan Murdoch
+077714.html,[Rd] Inno Setup 6.0.2 fails before creating exe file on Windows (R-3.6.0),77714,Jeroen Ooms
+077865.html,[Rd] writing Unicode text to the Windows clipboard,77865,Jeroen Ooms
+077804.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77804,"Pages, Herve"
+077806.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77806,"Pages, Herve"
+077898.html,[Rd] R pkg install should fail for unsuccessful DLL copy on windows?,77898,"Pages, Herve"
+077753.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77753,Thomas Petzoldt
+077782.html,[Rd] change R_LIBS_USER default location,77782,Matsievskiy S.V.
+077834.html,[Rd] Patch to replace &quot;his&quot; in Writing R Extensions,77834,Ma&#235;lle SALMON
+077824.html,[Rd]  Give update.formula() an option not to simplify or reorder the result -- request for comments,77824,Danny Smith
+077711.html,[Rd] anyNA() performance on vectors of POSIXct,77711,Harvey Smith
+077840.html,[Rd] anyNA() performance on vectors of POSIXct,77840,Harvey Smith
+077721.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77721,Serguei Sokol
+077722.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77722,Serguei Sokol
+077754.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77754,Serguei Sokol
+077808.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77808,Abby Spurdle
+077815.html,[Rd] print.&lt;strorageMode&gt;() not called when autoprinting,77815,Abby Spurdle
+077821.html,[Rd]  Give update.formula() an option not to simplify or reorder the result -- request for comments,77821,Abby Spurdle
+077863.html,[Rd]  Give update.formula() an option not to simplify or reorder the result -- request for comments,77863,Abby Spurdle
+077822.html,[Rd] most robust way to call R API functions from a secondary thread,77822,Stepan
+077875.html,[Rd] &quot;if&quot; function in pure R?,77875,Stepan
+077745.html,[Rd] read.table() fails with https in R 3.6 but not in R 3.5,77745,Ralf Stubner
+077764.html,[Rd] openblas,77764,Ralf Stubner
+077772.html,[Rd]  [External] Re:  ALTREP: Design concept of alternative string,77772,"Tierney, Luke"
+077794.html,[Rd] [External]  ALTREP: Bug reports,77794,"Tierney, Luke"
+077830.html,[Rd] [External] most robust way to call R API functions from a secondary thread,77830,"Tierney, Luke"
+077835.html,[Rd] [External]  Patch to replace &quot;his&quot; in Writing R Extensions,77835,"Tierney, Luke"
+077848.html,[Rd] [External]  make running on.exit expr uninterruptible,77848,"Tierney, Luke"
+077851.html,[Rd] [External] Re: print.&lt;strorageMode&gt;() not called when autoprinting,77851,"Tierney, Luke"
+077762.html,[Rd] openblas,77762,I&#241;aki Ucar
+077766.html,[Rd] openblas,77766,I&#241;aki Ucar
+077783.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77783,I&#241;aki Ucar
+077785.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77785,I&#241;aki Ucar
+077818.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77818,I&#241;aki Ucar
+077820.html,[Rd] [R-pkg-devel] Three-argument S3method declaration does not seem to affect dispatching from inside the package.,77820,I&#241;aki Ucar
+077890.html,[Rd] Making a package CITATION file from BibTeX,77890,I&#241;aki Ucar
+077833.html,[Rd] anyNA() performance on vectors of POSIXct,77833,Joshua Ulrich
+077869.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77869,Joshua Ulrich
+077879.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77879,Joshua Ulrich
+077881.html,[Rd] rbind has confusing result for custom sub-class (possible bug?),77881,Joshua Ulrich
+077712.html,[Rd] [External] Re:  Background R session on Unix and SIGINT,77712,Simon Urbanek
+077787.html,[Rd] Pcre install,77787,Simon Urbanek
+077826.html,[Rd] most robust way to call R API functions from a secondary thread,77826,Simon Urbanek
+077829.html,[Rd] Race condition on parallel package's mcexit and rmChild,77829,Simon Urbanek
+077850.html,[Rd] HTTPS warning on developer.r-project.org,77850,Simon Urbanek
+077861.html,[Rd] Possible bug when finding shared libraries during staged installation,77861,Simon Urbanek
+077899.html,[Rd] use of buffers in sprintf and snprintf,77899,Simon Urbanek
+077751.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77751,Ravi Varadhan
+077797.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77797,Hadley Wickham
+077854.html,[Rd] Typo/bug in R-3.6.0/src/scripts/config ?,77854,Paul Wikramaratna
+077855.html,[Rd] Possible bug when finding shared libraries during staged installation,77855,Kara Woo
+077862.html,[Rd] Possible bug when finding shared libraries during staged installation,77862,Kara Woo
+077774.html,[Rd] Should requireNamespace(quietly = TRUE) suppress messages about overwritten S3 methods?,77774,Yihui Xie
+077823.html,[Rd] Race condition on parallel package's mcexit and rmChild,77823,Sun Yijiang
+077825.html,[Rd] Race condition on parallel package's mcexit and rmChild,77825,Sun Yijiang
+077828.html,[Rd] Race condition on parallel package's mcexit and rmChild,77828,Sun Yijiang
+077889.html,[Rd] Making a package CITATION file from BibTeX,77889,Achim Zeileis
+077716.html,"[Rd]  [FORGED] src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77716,peter dalgaard
+077725.html,[Rd]  R optim(method=&quot;L-BFGS-B&quot;): unexpected behavior when working with parent environments,77725,peter dalgaard
+077733.html,[Rd] R problems with lapack with gfortran,77733,peter dalgaard
+077877.html,[Rd]  [R] Increasing number of observations worsen the regression model,77877,peter dalgaard
+077758.html,[Rd] openblas,77758,robin hankin
+077798.html,"[Rd] nrow(rbind(character(), character())) returns 2 (as documented but very unintuitive, IMHO)",77798,robin hankin
+077873.html,[Rd] coerce SEXP type to C++ matrix class and back,77873,kklot
+077718.html,"[Rd]  [FORGED] src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77718,irederik m at iii at g oii oib at  at et
+077719.html,"[Rd]  [FORGED] src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77719,irederik m at iii at g oii oib at  at et
+077786.html,[Rd] Pcre install,77786,yueli
+077885.html,[Rd] use of buffers in sprintf and snprintf,77885,jing hua zhao
+077895.html,[Rd] use of buffers in sprintf and snprintf,77895,jing hua zhao
+077769.html,[Rd] ALTREP: Design concept of alternative string,77769,&#20171;&#38750;&#29579;
+077771.html,[Rd] ALTREP: Design concept of alternative string,77771,&#20171;&#38750;&#29579;
+077780.html,[Rd]  [External] Re:  ALTREP: Design concept of alternative string,77780,&#20171;&#38750;&#29579;
+077793.html,[Rd] ALTREP: Bug reports,77793,&#20171;&#38750;&#29579;
+077799.html,[Rd] ALTREP: Bug reports,77799,&#20171;&#38750;&#29579;
+077800.html,[Rd] ALTREP: Bug reports,77800,&#20171;&#38750;&#29579;
+077814.html,[Rd] ALTREP: Bug reports,77814,&#20171;&#38750;&#29579;

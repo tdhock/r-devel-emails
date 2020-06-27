@@ -1,0 +1,202 @@
+link,Subject,id,author
+062838.html,[Rd] makeNamespace and rdyncall,62838,Daniel Adler
+062764.html,[Rd] RcppArmadillo compilation error: R CMD SHLIB returns	status 1,62764,Douglas Bates
+062919.html,[Rd] Cholesky update/downdate,62919,Douglas Bates
+062882.html,"[Rd] rgeos on Linux requires GEOS 3.2.3, not 3.3.1",62882,Dan Bebber
+062887.html,"[Rd] rgeos on Linux requires GEOS 3.2.3, not 3.3.1",62887,Dan Bebber
+062757.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62757,Gabriel Becker
+062916.html,[Rd] Crashing R with readline(),62916,Henrik Bengtsson
+062866.html,[Rd] Possible bug in edit(x) for editing matrices [tested on a Mac],62866,Hans-J&#246;rg Bibiko
+062869.html,[Rd] Possible bug in edit(x) for editing matrices [tested on a	Mac],62869,Hans-J&#246;rg Bibiko
+062822.html,[Rd] Undocumented functions,62822,Ben Bolker
+062767.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62767,Gordon Brown
+062740.html,[Rd] Vignette using parallel's makeCluster function has trouble building on Windows 7,62740,Rich Calaway
+062742.html,[Rd] Vignette using parallel's makeCluster function has trouble building on Windows 7,62742,Rich Calaway
+062781.html,[Rd] Proper use of suppressPackageStartupMessages in package	building,62781,Scott Chamberlain
+062763.html,[Rd] Possible bug in 'new()' for Reference Classes,62763,John Chambers
+062844.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62844,John Chambers
+062849.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62849,John Chambers
+062861.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62861,John Chambers
+062904.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62904,John Chambers
+062870.html,[Rd] Speed issue when writing to RGui console from tcl/tk GUI,62870,Richard Cotton
+062915.html,[Rd] Cholesky update/downdate,62915,Yves Deville
+062921.html,[Rd] Cholesky update/downdate,62921,Yves Deville
+062863.html,[Rd] secure password token management method in R,62863,Dirk Eddelbuettel
+062732.html,[Rd] HDF5 compound data types and h5r/hdf5 R packages,62732,Bernd Fischer
+062840.html,[Rd] R package BibTex entries: looking for a more general	solution,62840,Michael Friendly
+062871.html,[Rd] R package BibTex entries: looking for a more general	solution,62871,Michael Friendly
+062865.html,[Rd] R package BibTex entries: looking for a more general	solution,62865,Renaud Gaujoux
+062872.html,[Rd] R package BibTex entries: looking for a more general	solution,62872,Renaud Gaujoux
+062859.html,[Rd] secure password token management method in R,62859,Paul Gilbert
+062922.html,[Rd] CRAN link broken,62922,Paul Gilbert
+062824.html,[Rd] Undocumented functions,62824,Sarah Goslee
+062850.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62850,Spencer Graves
+062854.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62854,Spencer Graves
+062903.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62903,Spencer Graves
+062726.html,[Rd] Standardizing included packages,62726,Gabor Grothendieck
+062923.html,[Rd] CRAN link broken,62923,Gabor Grothendieck
+062792.html,[Rd] problems with iconv,62792,Kasper Daniel Hansen
+062800.html,[Rd] bug in sum() on integer vector,62800, (Ted Harding)
+062782.html,[Rd] clusterSetRNGStream() question,62782,J. R. M. Hosking
+062804.html,[Rd] termplot &amp; predict.lm. some details about calculating predicted values with &quot;other variables set at the mean&quot;,62804,Paul Johnson
+062805.html,[Rd] termplot &amp; predict.lm. some details about calculating predicted values with &quot;other variables set at the mean&quot;,62805,Paul Johnson
+062756.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62756,Rainer M Krug
+062852.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62852,Michael Lawrence
+062909.html,[Rd] external pointers,62909,Patrick Leyshock
+062749.html,[Rd] warning for inefficiently compressed datasets,62749,Uwe Ligges
+062752.html,[Rd] Unable to collate and parse R files with R CMD check,62752,Uwe Ligges
+062783.html,[Rd] Problems in building a DLL in 64-bit Windows,62783,Uwe Ligges
+062785.html,[Rd] Problems in building a DLL in 64-bit Windows,62785,Uwe Ligges
+062787.html,[Rd] Detecting typo in function argument,62787,Uwe Ligges
+062791.html,[Rd] problems with iconv,62791,Uwe Ligges
+062812.html,[Rd] bug in sum() on integer vector,62812,Uwe Ligges
+062814.html,[Rd] bug in sum() on integer vector,62814,Uwe Ligges
+062827.html,[Rd] DESCRIPTION Suggests entry help,62827,Uwe Ligges
+062855.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62855,Uwe Ligges
+062875.html,[Rd] Issues with building package with C src on windows [R CMD INSTALL ignoring makefile],62875,Uwe Ligges
+062885.html,[Rd] Why is the 64bit Windows version of package RSVGTipsDevice not available on CRAN?,62885,Uwe Ligges
+062895.html,[Rd] adding packages R 2.14.0,62895,Uwe Ligges
+062864.html,[Rd] rowsum,62864,Thomas Lumley
+062733.html,[Rd] fix type explanation in plot.default,62733,Manuel L&#243;pez-Ib&#225;&#241;ez
+062821.html,[Rd] bug in sum() on integer vector,62821,Martin Maechler
+062835.html,[Rd] R CMD check fails to warn about undocumented classes and methods,62835,Martin Maechler
+062836.html,[Rd] Undocumented functions,62836,Martin Maechler
+062868.html,[Rd] Saving nothing with save(),62868,Martin Maechler
+062886.html,[Rd] Saving nothing with save(),62886,Martin Maechler
+062925.html,[Rd] CRAN link broken,62925,Martin Maechler
+062926.html,[Rd] CRAN link broken -- Swiss &quot;backup&quot;,62926,Martin Maechler
+062755.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62755,Joris Meys
+062762.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62762,Joris Meys
+062769.html,[Rd] object type changes after being used as an argument in	.Internal(paste(...)),62769,Joris Meys
+062823.html,[Rd] Undocumented functions,62823,Joris Meys
+062889.html,[Rd] Small inconsistency in help page unique - duplicated doesn't	return indices.,62889,Joris Meys
+062773.html,[Rd] Reference class finalize() fails with 'attempt to apply	non-function',62773,Martin Morgan
+062799.html,[Rd] Rcpp too good to be true?,62799,Martin Morgan
+062830.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62830,Martin Morgan
+062831.html,[Rd] R CMD check fails to warn about undocumented classes and	methods,62831,Martin Morgan
+062832.html,[Rd] R CMD check fails to warn about undocumented classes and methods,62832,Martin Morgan
+062841.html,[Rd] R CMD check fails to warn about undocumented classes and methods,62841,Martin Morgan
+062842.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62842,Martin Morgan
+062847.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62847,Martin Morgan
+062890.html,[Rd] S4 NAMESPACE method imports and exports do not include (promoted?) generics,62890,Martin Morgan
+062899.html,[Rd] Debugging namespace problems,62899,Martin Morgan
+062900.html,[Rd] Debugging namespace problems,62900,Martin Morgan
+062902.html,[Rd] Debugging namespace problems,62902,Martin Morgan
+062905.html,[Rd] Initializing a large data structure to be accessed strictly within a shared C library,62905,James Muller
+062906.html,[Rd] Initializing a large data structure to be accessed strictly within a shared C library,62906,James Muller
+062908.html,[Rd] Initializing a large data structure to be accessed strictly within a shared C library,62908,James Muller
+062731.html,[Rd] 1.6x speedup for requal() function (in R/src/main/unique.c),62731,Duncan Murdoch
+062737.html,[Rd] class extension and documentation,62737,Duncan Murdoch
+062747.html,[Rd] RcppArmadillo compilation error: R CMD SHLIB returns status 1,62747,Duncan Murdoch
+062775.html,[Rd] bug in sum() on integer vector,62775,Duncan Murdoch
+062777.html,[Rd] bug in sum() on integer vector,62777,Duncan Murdoch
+062806.html,[Rd] bug in sum() on integer vector,62806,Duncan Murdoch
+062848.html,[Rd] last message -- I've answered my own question,62848,Duncan Murdoch
+062851.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62851,Duncan Murdoch
+062856.html,[Rd] last message -- I've answered my own question,62856,Duncan Murdoch
+062857.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62857,Duncan Murdoch
+062907.html,[Rd] Initializing a large data structure to be accessed strictly within a shared C library,62907,Duncan Murdoch
+062918.html,[Rd] Crashing R with readline(),62918,Duncan Murdoch
+062920.html,[Rd] Crashing R with readline(),62920,Duncan Murdoch
+062778.html,[Rd] Graphics device hook to manipulate plotmath,62778,Paul Murrell
+062786.html,[Rd] Detecting typo in function argument,62786,John C Nash
+062808.html,[Rd] bug in sum() on integer vector,62808,John C Nash
+062813.html,[Rd] bug in sum() on integer vector,62813,John C Nash
+062853.html,[Rd] latest Rtools missing &quot;inconsolita.sty&quot;,62853,Vladislav Navel
+062730.html,[Rd] 1.6x speedup for requal() function (in R/src/main/unique.c),62730,Herv&#233; Pag&#232;s
+062748.html,[Rd] warning for inefficiently compressed datasets,62748,Herv&#233; Pag&#232;s
+062753.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62753,Herv&#233; Pag&#232;s
+062765.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62765,Herv&#233; Pag&#232;s
+062771.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62771,Herv&#233; Pag&#232;s
+062774.html,[Rd] bug in sum() on integer vector,62774,Herv&#233; Pag&#232;s
+062776.html,[Rd] bug in sum() on integer vector,62776,Herv&#233; Pag&#232;s
+062794.html,[Rd] bug in sum() on integer vector,62794,Herv&#233; Pag&#232;s
+062795.html,[Rd] warning for inefficiently compressed datasets,62795,Herv&#233; Pag&#232;s
+062802.html,[Rd] bug in sum() on integer vector,62802,Herv&#233; Pag&#232;s
+062818.html,[Rd] bug in sum() on integer vector,62818,Herv&#233; Pag&#232;s
+062829.html,[Rd] bug in sum() on integer vector,62829,Herv&#233; Pag&#232;s
+062729.html,[Rd] HDF5 compound data types and h5r/hdf5 R packages,62729,Brian G. Peterson
+062743.html,[Rd] unserialize and eager execution,62743,Tyler Pirtle
+062745.html,[Rd] unserialize and eager execution,62745,Tyler Pirtle
+062880.html,[Rd] Why is the 64bit Windows version of package RSVGTipsDevice not available on CRAN?,62880,Tony Plate
+062797.html,[Rd] Rcpp too good to be true?,62797,Jeffrey Pollock
+062803.html,[Rd] Rcpp too good to be true?,62803,Jeffrey Pollock
+062728.html,[Rd] HDF5 compound data types and h5r/hdf5 R packages,62728,Jeremy Reeve
+062744.html,[Rd] unserialize and eager execution,62744,Prof Brian Ripley
+062780.html,[Rd] Problems in building a DLL in 64-bit Windows,62780,Prof Brian Ripley
+062789.html,[Rd] problems with iconv,62789,Prof Brian Ripley
+062867.html,[Rd] Possible bug in edit(x) for editing matrices [tested on a Mac],62867,Prof Brian Ripley
+062877.html,[Rd] Issues with building package with C src on windows [R CMD INSTALL ignoring makefile],62877,Prof Brian Ripley
+062883.html,"[Rd] rgeos on Linux requires GEOS 3.2.3, not 3.3.1",62883,Prof Brian Ripley
+062894.html,[Rd] attach 'name' argument ignored with a file?,62894,Prof Brian Ripley
+062924.html,[Rd] CRAN link broken,62924,Prof Brian Ripley
+062892.html,[Rd] attach 'name' argument ignored with a file?,62892,Xavier Robin
+062759.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62759,"Roebuck,Paul L"
+062770.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62770,"Roebuck,Paul L"
+062826.html,[Rd] DESCRIPTION Suggests entry help,62826,"Roebuck,Paul L"
+062788.html,[Rd] problems with iconv,62788,RogerP
+062790.html,[Rd] problems with iconv,62790,RogerP
+062796.html,[Rd] problems with iconv,62796,RogerP
+062807.html,[Rd] problems with iconv,62807,RogerP
+062811.html,[Rd] problems with iconv,62811,RogerP
+062825.html,[Rd] problems with iconv,62825,RogerP
+062893.html,[Rd] adding packages R 2.14.0,62893,RogerP
+062754.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62754,Barry Rowlingson
+062761.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62761,Barry Rowlingson
+062817.html,[Rd] secure password token management method in R,62817,Barry Rowlingson
+062858.html,[Rd] Saving nothing with save(),62858,Barry Rowlingson
+062860.html,[Rd] secure password token management method in R,62860,Barry Rowlingson
+062888.html,[Rd] Saving nothing with save(),62888,Barry Rowlingson
+062750.html,[Rd] Unable to collate and parse R files with R CMD check,62750,Sumukh Sathnur
+062772.html,[Rd] Unable to collate and parse R files with R CMD check,62772,Sumukh Sathnur
+062834.html,[Rd] Undocumented functions,62834,David Scott
+062873.html,[Rd] Issues with building package with C src on windows [R CMD	INSTALL ignoring makefile],62873,Jonathan Shore
+062820.html,[Rd] Undocumented functions,62820,Nicola Sturaro Sommacal
+062837.html,[Rd] Undocumented functions,62837,Nicola Sturaro Sommacal
+062734.html,[Rd] serialize/unserialize vector improvement,62734,Michael Spiegel
+062798.html,[Rd] bug in sum() on integer vector,62798,Murray Stokely
+062741.html,[Rd] Vignette using parallel's makeCluster function has trouble building on Windows 7,62741,Dan Tenenbaum
+062793.html,[Rd] paste0 bug in install.packages() - leopard installer?,62793,Dan Tenenbaum
+062828.html,[Rd] error starting R-devel with --arch ppc -- &quot;an unusual circumstance has arisen&quot;,62828,Dan Tenenbaum
+062878.html,[Rd] error starting R-devel with --arch ppc -- &quot;an unusual circumstance has arisen&quot;,62878,Dan Tenenbaum
+062917.html,[Rd] Reference class finalize() fails with 'attempt to apply	non-function',62917,Dan Tenenbaum
+062735.html,[Rd] class extension and documentation,62735,Terry Therneau
+062736.html,[Rd] PS to prior note,62736,Terry Therneau
+062739.html,[Rd] class extension and documentation,62739,Terry Therneau
+062845.html,[Rd] Rd error message,62845,Terry Therneau
+062846.html,[Rd] last message -- I've answered my own question,62846,Terry Therneau
+062758.html,[Rd] Possible bug in 'new()' for Reference Classes,62758,Janko Thyson
+062891.html,[Rd] Chi-squared test p-value based on simulation.,62891,Rolf Turner
+062801.html,[Rd] problems with iconv,62801,Joshua Ulrich
+062809.html,[Rd] problems with iconv,62809,Joshua Ulrich
+062833.html,[Rd] error starting R-devel with --arch ppc -- &quot;an unusual	circumstance has arisen&quot;,62833,Simon Urbanek
+062862.html,[Rd] secure password token management method in R,62862,Simon Urbanek
+062874.html,[Rd] Saving nothing with save(),62874,Simon Urbanek
+062876.html,[Rd] Issues with building package with C src on windows [R CMD	INSTALL ignoring makefile],62876,Simon Urbanek
+062879.html,[Rd] error starting R-devel with --arch ppc -- &quot;an unusual	circumstance has arisen&quot;,62879,Simon Urbanek
+062910.html,[Rd] external pointers,62910,Simon Urbanek
+062912.html,[Rd] Subsetting a data frame vs. subsetting the columns,62912,Simon Urbanek
+062746.html,[Rd] RcppArmadillo compilation error: R CMD SHLIB returns status 1,62746,Paul Viefers
+062766.html,[Rd] RcppArmadillo compilation error: R CMD SHLIB returns	status 1,62766,Paul Viefers
+062816.html,[Rd] secure password token management method in R,62816,Ni Wang
+062751.html,[Rd] Graphics device hook to manipulate plotmath,62751,Zack Weinberg
+062768.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62768,Hadley Wickham
+062839.html,[Rd] makeNamespace and rdyncall,62839,Hadley Wickham
+062896.html,[Rd] Debugging namespace problems,62896,Hadley Wickham
+062897.html,[Rd] Debugging namespace problems,62897,Hadley Wickham
+062898.html,[Rd] Debugging namespace problems,62898,Hadley Wickham
+062901.html,[Rd] Debugging namespace problems,62901,Hadley Wickham
+062911.html,[Rd] Subsetting a data frame vs. subsetting the columns,62911,Hadley Wickham
+062914.html,[Rd] Subsetting a data frame vs. subsetting the columns,62914,Hadley Wickham
+062913.html,[Rd] Subsetting a data frame vs. subsetting the columns,62913,Joshua Wiley
+062843.html,[Rd] R package BibTex entries: looking for a more general	solution,62843,Achim Zeileis
+062727.html,[Rd] Standardizing included packages,62727,peter dalgaard
+062760.html,"[Rd] bug in rank(), order(), is.unsorted() on character vector",62760,peter dalgaard
+062810.html,[Rd] bug in sum() on integer vector,62810,peter dalgaard
+062815.html,[Rd] problems with iconv,62815,peter dalgaard
+062819.html,[Rd] bug in sum() on integer vector,62819,peter dalgaard
+062884.html,[Rd] Speed issue when writing to RGui console from tcl/tk GUI,62884,peter dalgaard
+062779.html,[Rd] Problems in building a DLL in 64-bit Windows,62779,ruipbarradas at sapo.pt
+062784.html,[Rd] Problems in building a DLL in 64-bit Windows,62784,ruipbarradas at sapo.pt
+062881.html,[Rd]  graphics device event handling,62881,sgerber
+062738.html,[Rd] serialize/unserialize vector improvement,62738,luke-tierney at uiowa.edu

@@ -1,0 +1,350 @@
+link,Subject,id,author
+036414.html,[Rd] extending &quot;list&quot; in S4: loss of element names,36414,Vincent Carey 525-2265
+036369.html,[Rd] IAWK  iAsiaWorks,36369,Lucille Abel
+036516.html,[Rd] Legend to a heatmap,36516,Vasundhara Akkineni
+036416.html,[Rd] saving PDF with multiple diagrams results in crash (PR#8569),36416,Alexander.Holzbach at ifr.uni-karlsruhe.de
+036409.html,[Rd] Troubles with Fortran and C (was with the function rmultinom.c of the R's Random Number Generator),36409,Sophie Ancelet
+036412.html,[Rd] Troubles with the function rmultinom.c of the R's Random Number Generator,36412,Sophie Ancelet
+036477.html,[Rd]  ATLAS threaded 64 bit Opteron build for R: need -fPIC,36477,Amit Aronovitch
+036488.html,[Rd] ATLAS threaded 64 bit Opteron build for R: need -fPIC,36488,Amit Aronovitch
+036546.html,[Rd] Error message while installing quatreg in ox s (PR#8616),36546,ArresrSpam at bellsouth.net
+036438.html,[Rd] R 2.2.1 installation trouble on SGI/Sun (PR#8575),36438,Atro.Tossavainen at helsinki.fi
+036421.html,[Rd] [R] R compile on AIX 5.2,36421,Matthew Beason
+036476.html,[Rd] R CMD build: &quot;Subdirectory 'R' contains invalid file names&quot;,36476,Henrik Bengtsson
+036479.html,[Rd] R CMD build: &quot;Subdirectory 'R' contains invalid file names&quot;,36479,Henrik Bengtsson
+036503.html,[Rd] MinGW and the ld bug,36503,Henrik Bengtsson
+036509.html,[Rd] MinGW and the ld bug,36509,Henrik Bengtsson
+036544.html,[Rd] file.info() on WinXP/NTFS &gt; 2Gb,36544,Henrik Bengtsson
+036548.html,[Rd] file.info() on WinXP/NTFS &gt; 2Gb,36548,Henrik Bengtsson
+036396.html,[Rd] a generic 'attach'?,36396,Bill.Venables at csiro.au
+036399.html,[Rd] a generic 'attach'?,36399,Bill.Venables at csiro.au
+036492.html,[Rd] Arguments of 'transform',36492,Bill.Venables at csiro.au
+036497.html,[Rd] Arguments of 'transform',36497,Bill.Venables at csiro.au
+036338.html,[Rd] an unpleasant interaction of environments and generic functions,36338,Ross Boylan
+036339.html,[Rd] an unpleasant interaction of environments and generic	functions,36339,Ross Boylan
+036428.html,[Rd] S4 documentation,36428,Ross Boylan
+036581.html,[Rd] profiling C code,36581,Ross Boylan
+036426.html,[Rd] match gets confused by S4 objects,36426,John Chambers
+036579.html,[Rd] changes in r-devel for S3/S4 objects,36579,John Chambers
+036381.html,[Rd] pbinom with size argument 0 (PR#8560),36381,Peter Dalgaard
+036408.html,[Rd] pbinom with size argument 0 (PR#8560),36408,Peter Dalgaard
+036398.html,[Rd] a generic 'attach'?,36398,Peter Dalgaard
+036481.html,[Rd] ?bquote,36481,Peter Dalgaard
+036486.html,[Rd] Accuracy of dnorm (PR#8586),36486,Peter Dalgaard
+036494.html,[Rd] Arguments of 'transform',36494,Peter Dalgaard
+036608.html,[Rd] PR#6614,36608,Peter Dalgaard
+036676.html,[Rd] PR#6614,36676,Peter Dalgaard
+036370.html,[Rd] Interfacing C-code (gets and printf) under WINDOWS (Visual C++),36370,Renard Didier
+036673.html,[Rd] PR#6614,36673,Bill Dunlap
+036565.html,[Rd] R CMD config --cppflags buglet,36565,Dirk Eddelbuettel
+036570.html,[Rd] R CMD config --cppflags buglet,36570,Dirk Eddelbuettel
+036573.html,[Rd] R CMD config --cppflags buglet,36573,Dirk Eddelbuettel
+036576.html,[Rd] R CMD config --cppflags buglet,36576,Dirk Eddelbuettel
+036578.html,[Rd] R CMD config --cppflags buglet,36578,Dirk Eddelbuettel
+036661.html,"[Rd] Rcpp, best method for linking to",36661,Dirk Eddelbuettel
+036666.html,[Rd] R-Project build system: DESTDIR support,36666,Dirk Eddelbuettel
+036668.html,"[Rd] Rcpp, best method for linking to",36668,Dirk Eddelbuettel
+036393.html,[Rd] pbinom with size argument 0 (PR#8560),36393,P Ehlers
+036356.html,[Rd] The install.R and R_PROFILE.R files,36356,Seth Falcon
+036367.html,[Rd] The install.R and R_PROFILE.R files,36367,Seth Falcon
+036384.html,"[Rd] SaveImage, LazyLoad,	S4 and all that {was &quot;install.R ... files&quot;}",36384,Seth Falcon
+036415.html,[Rd] The install.R and R_PROFILE.R files,36415,Seth Falcon
+036418.html,[Rd] match gets confused by S4 objects,36418,Seth Falcon
+036425.html,[Rd] match gets confused by S4 objects,36425,Seth Falcon
+036429.html,[Rd] NAMESPACE Q: does import as exist?,36429,Seth Falcon
+036432.html,[Rd] NAMESPACE Q: does import as exist?,36432,Seth Falcon
+036433.html,[Rd] Improve error message for bad NAMESPACE file?,36433,Seth Falcon
+036435.html,[Rd] Improve error message for bad NAMESPACE file?,36435,Seth Falcon
+036449.html,[Rd] NAMESPACE Q: does import as exist?,36449,Seth Falcon
+036450.html,[Rd] NAMESPACE Q: does import as exist?,36450,Seth Falcon
+036453.html,[Rd] How to change names when importing with a NAMESPACE (was:	NAMESPACE Q: does import as exist?),36453,Seth Falcon
+036456.html,[Rd] Using .onUnload() to unload compiled code,36456,Seth Falcon
+036460.html,"[Rd] Another NAMESPACE question, imports and S4",36460,Seth Falcon
+036470.html,[Rd] NAMESPACE Q: does import as exist?,36470,Seth Falcon
+036471.html,[Rd] How to change names when importing with a NAMESPACE,36471,Seth Falcon
+036512.html,[Rd] S4 classes and methods with optional arguments,36512,Seth Falcon
+036515.html,[Rd] S4 classes and methods with optional arguments,36515,Seth Falcon
+036389.html,[Rd] Rprintf loop status does not print under windows,36389,Andrew Finley
+036533.html,[Rd] Calling R functions from C and setting function's formal list	values,36533,Andrew Finley
+036657.html,"[Rd] Rcpp, best method for linking to",36657,Andrew Finley
+036663.html,[Rd] R-Project build system: DESTDIR support,36663,Claudio Fontana
+036669.html,[Rd] R-Project build system: DESTDIR support,36669,Claudio Fontana
+036685.html,[Rd] R-Project build system: DESTDIR support,36685,Claudio Fontana
+036394.html,[Rd] Using the lazy data mechanism,36394,John Fox
+036496.html,[Rd] Arguments of 'transform',36496,John Fox
+036498.html,[Rd] Arguments of 'transform',36498,John Fox
+036386.html,[Rd] javascript device for R,36386,Romain Francois
+036436.html,[Rd] NAMESPACE Q: does import as exist?,36436,Romain Francois
+036649.html,[Rd] Links to non-vignette documentation,36649,Romain Francois
+036387.html,[Rd] Citation of R packages,36387,Friedrich.Leisch at tuwien.ac.at
+036388.html,[Rd] What about a bib file,36388,Friedrich.Leisch at tuwien.ac.at
+036490.html,[Rd] Citation of R packages,36490,Friedrich.Leisch at tuwien.ac.at
+036560.html,[Rd] Bug in Sweave? -- scoping problem? (PR#8615),36560,Friedrich.Leisch at tuwien.ac.at
+036656.html,"[Rd] Rcpp, best method for linking to",36656,Andrew Garbutt
+036659.html,"[Rd] Rcpp, best method for linking to",36659,Andrew Garbutt
+036686.html,[Rd] Rcpp -&gt; RcppTemplate package with L-GPL,36686,Andrew Garbutt
+036347.html,"[Rd] akima 0.4-5, interpp() bug = COMMON block problem",36347,Albrecht Gebhardt
+036348.html,"[Rd] akima 0.4-5, interpp() bug = COMMON block problem",36348,Albrecht Gebhardt
+036350.html,[Rd] Word boundaries and gregexpr in R 2.2.1 (PR#8547),36350,Robert Gentleman
+036383.html,"[Rd] SaveImage, LazyLoad, S4 and all that {was &quot;install.R ... files&quot;}",36383,Robert Gentleman
+036351.html,[Rd] package introductions,36351,Paul Gilbert
+036541.html,[Rd] Could heatmap default to scale=&quot;none&quot; ?,36541,Earl F. Glynn
+036553.html,"[Rd] Computing means, variances and sums",36553,Spencer Graves
+036539.html,[Rd] Unable to configure R 2.2.1 on Solaris 5.10 x86_64,36539,Aric Gregson
+036474.html,[Rd] ?bquote,36474,Gabor Grothendieck
+036493.html,[Rd] ?bquote,36493,Gabor Grothendieck
+036605.html,[Rd] PR#6614,36605,Gabor Grothendieck
+036642.html,[Rd] Links to non-vignette documentation,36642,Gabor Grothendieck
+036678.html,[Rd] Request for showWarnings parameter for write.table,36678,Gabor Grothendieck
+036454.html,[Rd] Rf_protect in Rinternals.h,36454,Hans-Peter
+036528.html,[Rd] Rf_errorcall - translate to Pascal,36528,Hans-Peter
+036530.html,[Rd] Rf_errorcall - translate to Pascal,36530,Hans-Peter
+036534.html,[Rd] Rf_errorcall - translate to Pascal,36534,Hans-Peter
+036536.html,[Rd] Rf_errorcall - translate to Pascal,36536,Hans-Peter
+036602.html,[Rd] translating eventloop.h,36602,Hans-Peter
+036526.html,[Rd] Not working with intel macs (PR#8608),36526,Kasper Daniel Hansen
+036380.html,[Rd] pbinom with size argument 0 (PR#8560),36380, (Ted Harding)
+036382.html,[Rd] pbinom with size argument 0 (PR#8560),36382, (Ted Harding)
+036411.html,[Rd] pbinom with size argument 0 (PR#8560),36411, (Ted Harding)
+036501.html,[Rd] floor and ceiling can't handle more than 15 decimal pla,36501, (Ted Harding)
+036618.html,[Rd] Utilizing the internet module,36618,Jeffrey Horner
+036636.html,[Rd] Utilizing the internet module,36636,Jeffrey Horner
+036653.html,[Rd] Utilizing the internet module,36653,Jeffrey Horner
+036441.html,"[Rd] chron library: format.times, parse.format and h:m (PR#8507)",36441,Kurt Hornik
+036478.html,[Rd] R CMD build: &quot;Subdirectory 'R' contains invalid file names&quot;,36478,Kurt Hornik
+036508.html,[Rd] addmargins,36508,J. Hosking
+036517.html,[Rd] S3 generics without NS and cleanEx(),36517,Torsten Hothorn
+036518.html,[Rd] conflicting S4 generics,36518,Torsten Hothorn
+036520.html,[Rd] S3 generics without NS and cleanEx(),36520,Torsten Hothorn
+036522.html,[Rd] S3 generics without NS and cleanEx(),36522,Torsten Hothorn
+036587.html,[Rd] profiling C code,36587,Torsten Hothorn
+036598.html,[Rd] profiling C code,36598,Torsten Hothorn
+036674.html,[Rd] PR#6614,36674,David Hugh-Jones
+036677.html,[Rd] Request for showWarnings parameter for write.table,36677,Leif Kirschenbaum
+036341.html,[Rd] window()   problem (PR#8545),36341,KjetilBrinchmannHalvorsen at gmail.com
+036342.html,[Rd] recover() (PR#8546),36342,KjetilBrinchmannHalvorsen at gmail.com
+036583.html,[Rd] simple C function segfaults,36583,Bernd Kriegstein
+036585.html,[Rd] simple C function segfaults,36585,Bernd Kriegstein
+036594.html,[Rd] simple C function segfaults,36594,Bernd Kriegstein
+036531.html,[Rd] Rf_errorcall - translate to Pascal,36531,Rainer M Krug
+036374.html,[Rd] Interfacing C-code (gets and printf) under WINDOWS (Visual C++),36374,Hin-Tak Leung
+036377.html,[Rd] [R] readline detection problems,36377,Hin-Tak Leung
+036379.html,[Rd] [R] readline detection problems,36379,Hin-Tak Leung
+036413.html,[Rd] Troubles with the function rmultinom.c of the R's Random Number Generator,36413,Hin-Tak Leung
+036589.html,[Rd] invalid graphics state using dev.print (fwd),36589,Hin-Tak Leung
+036652.html,[Rd] Links to non-vignette documentation,36652,Hin-Tak Leung
+036670.html,[Rd] R-Project build system: DESTDIR support,36670,Hin-Tak Leung
+036671.html,"[Rd] method dispatch and in-place modification? - unclass, RemoveClass, getDataPart, method dispatch",36671,Hin-Tak Leung
+036684.html,[Rd] R-Project build system: DESTDIR support,36684,Hin-Tak Leung
+036511.html,[Rd] S4 classes and methods with optional arguments,36511,Josef Leydold
+036361.html,[Rd] Retrieving an unevaluated argument,36361,"Liaw, Andy"
+036366.html,[Rd] crossvalidation in svm regression in e1071 gives incorre ct results (PR#8554),36366,"Liaw, Andy"
+036391.html,[Rd] Rprintf loop status does not print under windows,36391,"Liaw, Andy"
+036582.html,[Rd] profiling C code,36582,"Liaw, Andy"
+036345.html,[Rd] an unpleasant interaction of environments and generic	functions,36345,Uwe Ligges
+036465.html,[Rd] Question on help system under windows,36465,Uwe Ligges
+036499.html,[Rd] heatmap.2 in gplots (PR#8587),36499,Uwe Ligges
+036591.html,[Rd] profiling C code,36591,Thomas Lumley
+036615.html,[Rd] Spurious output white line in R script (PR#8631),36615,Thomas Lumley
+036621.html,[Rd] Spurious output white line in R script (PR#8631),36621,Thomas Lumley
+036452.html,[Rd] Using .onUnload() to unload compiled code,36452,James MacDonald
+036372.html,"[Rd] SaveImage, LazyLoad,	S4 and all that {was &quot;install.R ... files&quot;}",36372,Martin Maechler
+036424.html,[Rd] match gets confused by S4 objects,36424,Martin Maechler
+036427.html,[Rd] match gets confused by S4 objects,36427,Martin Maechler
+036489.html,[Rd] invalid graphics state using dev.print (fwd),36489,Martin Maechler
+036475.html,[Rd] Citation of R packages,36475,John Maindonald
+036491.html,[Rd] Citation of R packages,36491,John Maindonald
+036431.html,[Rd] NAMESPACE Q: does import as exist?,36431,Mark.Bravington at csiro.au
+036407.html,[Rd] e1071: using svm with sparse matrices (PR#8527),36407,David Meyer
+036514.html,[Rd] S4 classes and methods with optional arguments,36514,Martin Morgan
+036340.html,[Rd] [R] Help! What does this R command mean?,36340,Duncan Murdoch
+036390.html,[Rd] Rprintf loop status does not print under windows,36390,Duncan Murdoch
+036430.html,[Rd] NAMESPACE Q: does import as exist?,36430,Duncan Murdoch
+036445.html,[Rd] NAMESPACE Q: does import as exist?,36445,Duncan Murdoch
+036446.html,[Rd] NAMESPACE Q: does import as exist?,36446,Duncan Murdoch
+036451.html,[Rd] NAMESPACE Q: does import as exist?,36451,Duncan Murdoch
+036469.html,"[Rd] R, Rcmdr crash on WinXP PRO laptop (PR#8583)",36469,Duncan Murdoch
+036507.html,[Rd] Typo in polygon.Rd (PR#8605),36507,Duncan Murdoch
+036529.html,[Rd] Rf_errorcall - translate to Pascal,36529,Duncan Murdoch
+036542.html,[Rd] Floating point control (was: [R] Variance for Vector of Constants is STILL Not Zero),36542,Duncan Murdoch
+036557.html,"[Rd] Computing means, variances and sums",36557,Duncan Murdoch
+036563.html,[Rd] Matrix / SparseM conflict (PR#8618),36563,Duncan Murdoch
+036600.html,"[Rd] Computing means, variances and sums",36600,Duncan Murdoch
+036622.html,[Rd] Links to non-vignette documentation,36622,Duncan Murdoch
+036627.html,[Rd] rnorm returning NA's (PR#8635),36627,Duncan Murdoch
+036634.html,[Rd] Links to non-vignette documentation,36634,Duncan Murdoch
+036640.html,[Rd] Links to non-vignette documentation,36640,Duncan Murdoch
+036647.html,[Rd] Links to non-vignette documentation,36647,Duncan Murdoch
+036648.html,[Rd] Minor Typo in image.Rd,36648,Duncan Murdoch
+036650.html,[Rd] Links to non-vignette documentation,36650,Duncan Murdoch
+036654.html,[Rd] Links to non-vignette documentation,36654,Duncan Murdoch
+036655.html,[Rd] Links to non-vignette documentation,36655,Duncan Murdoch
+036558.html,[Rd] invalid graphics state using dev.print (fwd),36558,Paul Murrell
+036376.html,[Rd] [R] readline detection problems,36376,Benjamin Otto
+036466.html,[Rd] [R] readline detection problems,36466,Benjamin Otto
+036357.html,[Rd] Rd files with unknown sections,36357,Herve Pages
+036359.html,[Rd] Rd files with unknown sections,36359,Herve Pages
+036614.html,[Rd] Problem during &quot;make&quot; with the devel version R-2.3.0 under Sun	OS,36614,Simon Penel
+036644.html,[Rd] Problem during &quot;make&quot; with the devel version R-2.3.0 under Sun OS,36644,Simon Penel
+036401.html,[Rd] a generic 'attach'?,36401,Roger Peng
+036462.html,[Rd] corruption of data with serialize(ascii=TRUE),36462,Roger D. Peng
+036467.html,[Rd] corruption of data with serialize(ascii=TRUE),36467,Roger D. Peng
+036612.html,[Rd] Minor typo in optim.Rd (in details section),36612,"Pfaff, Bernhard Dr."
+036607.html,[Rd] Spurious output white line in R script (PR#8631),36607,Fran&#231;ois Pinard
+036623.html,[Rd] Tiny documentation error for ?options (PR#8633),36623,Fran&#231;ois Pinard
+036637.html,[Rd] Spurious output white line in R script (PR#8631),36637,Fran&#231;ois Pinard
+036638.html,[Rd] Spurious output white line in R script (PR#8631),36638,Fran&#231;ois Pinard
+036442.html,[Rd] R 2.2.1 installation trouble on SGI/Sun (PR#8575),36442,Brian D Ripley
+036346.html,[Rd] The install.R and R_PROFILE.R files,36346,Prof Brian Ripley
+036353.html,[Rd] Cutting up a k-D space (no subject),36353,Prof Brian Ripley
+036358.html,[Rd] Rd files with unknown sections,36358,Prof Brian Ripley
+036363.html,[Rd] The install.R and R_PROFILE.R files,36363,Prof Brian Ripley
+036364.html,[Rd] [R] readline detection problems,36364,Prof Brian Ripley
+036371.html,[Rd] Interfacing C-code (gets and printf) under WINDOWS (Visual C++),36371,Prof Brian Ripley
+036373.html,"[Rd] SaveImage, LazyLoad,	S4 and all that {was &quot;install.R ... files&quot;}",36373,Prof Brian Ripley
+036378.html,[Rd] [R] readline detection problems,36378,Prof Brian Ripley
+036397.html,[Rd] Using the lazy data mechanism,36397,Prof Brian Ripley
+036400.html,[Rd] a generic 'attach'?,36400,Prof Brian Ripley
+036402.html,"[Rd] SaveImage, LazyLoad, S4 and all that {was &quot;install.R ... files&quot;}",36402,Prof Brian Ripley
+036403.html,[Rd] The install.R and R_PROFILE.R files,36403,Prof Brian Ripley
+036410.html,[Rd] pbinom with size argument 0 (PR#8560),36410,Prof Brian Ripley
+036419.html,[Rd] match gets confused by S4 objects,36419,Prof Brian Ripley
+036422.html,"[Rd] Problems in d-p-q-r functions (was PR#8528, but unrelated)",36422,Prof Brian Ripley
+036434.html,[Rd] Improve error message for bad NAMESPACE file?,36434,Prof Brian Ripley
+036448.html,[Rd] R 2.2.1 installation trouble on SGI/Sun (PR#8575),36448,Prof Brian Ripley
+036457.html,[Rd] Using .onUnload() to unload compiled code,36457,Prof Brian Ripley
+036458.html,[Rd] How to change names when importing with a NAMESPACE (was: NAMESPACE Q: does import as exist?),36458,Prof Brian Ripley
+036459.html,[Rd] Rf_protect in Rinternals.h,36459,Prof Brian Ripley
+036463.html,[Rd] corruption of data with serialize(ascii=TRUE),36463,Prof Brian Ripley
+036480.html,[Rd] ATLAS threaded 64 bit Opteron build for R: need -fPIC,36480,Prof Brian Ripley
+036482.html,[Rd] R CMD build: &quot;Subdirectory 'R' contains invalid file names&quot;,36482,Prof Brian Ripley
+036484.html,[Rd] Accuracy of dnorm (PR#8586),36484,Prof Brian Ripley
+036505.html,[Rd] MinGW and the ld bug,36505,Prof Brian Ripley
+036510.html,[Rd] addmargins,36510,Prof Brian Ripley
+036513.html,[Rd] S4 classes and methods with optional arguments,36513,Prof Brian Ripley
+036519.html,[Rd] S3 generics without NS and cleanEx(),36519,Prof Brian Ripley
+036521.html,[Rd] S3 generics without NS and cleanEx(),36521,Prof Brian Ripley
+036524.html,[Rd] [R] repeated measurements and lme,36524,Prof Brian Ripley
+036532.html,[Rd] Rf_errorcall - translate to Pascal,36532,Prof Brian Ripley
+036535.html,[Rd] Rf_errorcall - translate to Pascal,36535,Prof Brian Ripley
+036540.html,[Rd] Rf_errorcall - translate to Pascal,36540,Prof Brian Ripley
+036543.html,[Rd] Floating point control (was: [R] Variance for Vector of Constants is STILL Not Zero),36543,Prof Brian Ripley
+036547.html,[Rd] file.info() on WinXP/NTFS &gt; 2Gb,36547,Prof Brian Ripley
+036549.html,"[Rd] Computing means, variances and sums",36549,Prof Brian Ripley
+036555.html,"[Rd] Computing means, variances and sums",36555,Prof Brian Ripley
+036556.html,"[Rd] Computing means, variances and sums",36556,Prof Brian Ripley
+036559.html,[Rd] invalid graphics state using dev.print (fwd),36559,Prof Brian Ripley
+036561.html,[Rd] invalid graphics state using dev.print (fwd),36561,Prof Brian Ripley
+036566.html,[Rd] Matrix / SparseM conflict (PR#8618),36566,Prof Brian Ripley
+036567.html,[Rd] R CMD config --cppflags buglet,36567,Prof Brian Ripley
+036572.html,[Rd] R CMD config --cppflags buglet,36572,Prof Brian Ripley
+036574.html,[Rd] R CMD config --cppflags buglet,36574,Prof Brian Ripley
+036588.html,[Rd] profiling C code,36588,Prof Brian Ripley
+036590.html,[Rd] invalid graphics state using dev.print (fwd),36590,Prof Brian Ripley
+036592.html,[Rd] profiling C code,36592,Prof Brian Ripley
+036597.html,"[Rd] Computing means, variances and sums",36597,Prof Brian Ripley
+036599.html,[Rd] profiling C code,36599,Prof Brian Ripley
+036601.html,"[Rd] Computing means, variances and sums",36601,Prof Brian Ripley
+036610.html,[Rd] Spurious output white line in R script (PR#8631),36610,Prof Brian Ripley
+036611.html,[Rd] Tiny documentation error for ?options (PR#8633),36611,Prof Brian Ripley
+036613.html,[Rd] Minor typo in optim.Rd (in details section),36613,Prof Brian Ripley
+036616.html,[Rd] Spurious output white line in R script (PR#8631),36616,Prof Brian Ripley
+036624.html,[Rd] Utilizing the internet module,36624,Prof Brian Ripley
+036626.html,[Rd] Links to non-vignette documentation,36626,Prof Brian Ripley
+036629.html,[Rd] Links to non-vignette documentation,36629,Prof Brian Ripley
+036630.html,[Rd] Problem during &quot;make&quot; with the devel version R-2.3.0 under Sun OS,36630,Prof Brian Ripley
+036633.html,[Rd] Links to non-vignette documentation,36633,Prof Brian Ripley
+036643.html,[Rd] Utilizing the internet module,36643,Prof Brian Ripley
+036645.html,[Rd] Utilizing the internet module,36645,Prof Brian Ripley
+036665.html,"[Rd] Rcpp, best method for linking to",36665,Prof Brian Ripley
+036681.html,"[Rd] Typos in writeLines.Rd, readLines.Rd, and data.matrix.Rd",36681,Prof Brian Ripley
+036682.html,[Rd] trouble with R CMD SHLIB on winXP,36682,Prof Brian Ripley
+036596.html,[Rd] simple C function segfaults,36596,Prof Brian D Ripley
+036461.html,[Rd]  invalid graphics state using dev.print (fwd),36461,Paul Roebuck
+036577.html,[Rd] invalid graphics state using dev.print (fwd),36577,Paul Roebuck
+036580.html,[Rd] [REQ] Add Title Argument for Interactive Devices,36580,Paul Roebuck
+036586.html,[Rd] simple C function segfaults,36586,Paul Roebuck
+036646.html,[Rd] Minor Typo in image.Rd,36646,Paul Roebuck
+036485.html,[Rd] Accuracy of dnorm (PR#8586),36485,Barry Rowlingson
+036658.html,"[Rd] Rcpp, best method for linking to",36658,Dominick Samperi
+036660.html,"[Rd] Rcpp, best method for linking to",36660,Dominick Samperi
+036667.html,[Rd] Rcpp -&gt; RcppTemplate package with L-GPL,36667,Dominick Samperi
+036406.html,[Rd] javascript device for R,36406,Tom Short
+036404.html,[Rd] pbinom with size argument 0 (PR#8560),36404,Uffe H&#248;gsbro Thygesen
+036455.html,[Rd] NAMESPACE Q: does import as exist?,36455,Luke Tierney
+036437.html,[Rd] R 2.2.1 installation trouble on SGI/Sun,36437,Atro Tossavainen
+036440.html,[Rd] R 2.2.1 installation trouble on SGI/Sun (PR#8575),36440,Atro Tossavainen
+036447.html,[Rd] R 2.2.1 installation trouble on SGI/Sun (PR#8575),36447,Atro Tossavainen
+036464.html,[Rd] Question on help system under windows,36464,Berwin A Turlach
+036584.html,[Rd] simple C function segfaults,36584,Berwin A Turlach
+036639.html,[Rd] Links to non-vignette documentation,36639,Berwin A Turlach
+036662.html,[Rd] Links to non-vignette documentation,36662,Berwin A Turlach
+036664.html,[Rd] Links to non-vignette documentation,36664,Berwin A Turlach
+036417.html,[Rd] saving PDF with multiple diagrams results in crash	(PR#8569),36417,Simon Urbanek
+036420.html,[Rd] invalid graphics state using dev.print,36420,Simon Urbanek
+036568.html,[Rd] R CMD config --cppflags buglet,36568,Simon Urbanek
+036571.html,[Rd] R CMD config --cppflags buglet,36571,Simon Urbanek
+036575.html,[Rd] R CMD config --cppflags buglet,36575,Simon Urbanek
+036593.html,[Rd] profiling C code,36593,Simon Urbanek
+036595.html,[Rd] simple C function segfaults,36595,Simon Urbanek
+036606.html,[Rd] Spurious output white line in R script (PR#8631),36606,Simon Urbanek
+036619.html,[Rd] Spurious output white line in R script (PR#8631),36619,Simon Urbanek
+036487.html,[Rd] Accuracy of dnorm (PR#8586),36487,Marco VEZZOLI
+036504.html,[Rd] heatmap.2 in gplots (PR#8587),36504,"Warnes, Gregory R"
+036680.html,"[Rd] Typos in writeLines.Rd, readLines.Rd, and data.matrix.Rd",36680,Stephen D. Weigand
+036537.html,[Rd] Could heatmap default to scale=&quot;none&quot; ?,36537,Kevin Wright
+036443.html,[Rd] identify() bug (PR#8576),36443,arsenije at ist.utl.pt
+036500.html,[Rd] floor and ceiling can't handle more than 15 decimal places	(PR#8590),36500,benphalan at gmail.com
+036550.html,[Rd] Bug in Sweave? -- scoping problem? (PR#8615),36550,berwin at maths.uwa.edu.au
+036683.html,[Rd] Workspace Browser - No Refresh of Deleted Objects (PR#8647),36683,bibiko at eva.mpg.de
+036472.html,[Rd] make: Target `all' not remade because of errors. (PR#8585),36472,cadet at odd.bio.sunysb.edu
+036368.html,[Rd] achieved.alpha calculated wrong in wilcox.test (PR#8557),36368,charlie at stat.umn.edu
+036495.html,[Rd] heatmap.2 in gplots (PR#8587),36495,dasnicht at mac.com
+036604.html,[Rd] PR#6614,36604,davidhughjones at gmail.com
+036562.html,[Rd] Matrix / SparseM conflict (PR#8618),36562,dpleydel at univ-fcomte.fr
+036525.html,[Rd] Not working with intel macs (PR#8608),36525,drego.student at manhattan.edu
+036392.html,[Rd] pbinom with size argument 0 (PR#8560),36392,ehlers at math.ucalgary.ca
+036631.html,[Rd] Wishlist: browser and traceback should trim callstack when	printing (PR#8638),36631,h.wickham at gmail.com
+036385.html,[Rd] script window fails to load script (PR#8564),36385,helen.mills at yale.edu
+036352.html,[Rd] (no subject),36352,stefano iacus
+036354.html,[Rd] (no subject),36354,stefano iacus
+036355.html,[Rd] Cutting up a k-D space (no subject),36355,stefano iacus
+036527.html,[Rd] Not working with intel macs (PR#8608),36527,stefano iacus
+036552.html,[Rd] Error message while installing quatreg in ox s (PR#8616),36552,stefano iacus
+036620.html,[Rd] rnorm returning NA's (PR#8635),36620,jjmcnutt at gmail.com
+036523.html,[Rd] [R] repeated measurements and lme,36523,jonvaz at stud.ibg.uit.no
+036569.html,[Rd] Matrix / SparseM conflict (PR#8618),36569,roger koenker
+036538.html,[Rd] Heatmap documentation (scale argument) (PR#8614),36538,kwright68 at gmail.com
+036423.html,"[Rd] Problems in d-p-q-r functions (was PR#8528, but unrelated)",36423,maechler at stat.math.ethz.ch
+036483.html,[Rd] Accuracy of dnorm (PR#8586),36483,marco.vezzoli at st.com
+036675.html,[Rd] readline and/or lme crashes R (PR#8646),36675,mmorales at williams.edu
+036545.html,[Rd] Bug in Sweave? -- scoping problem? (PR#8615),36545,murdoch at stats.uwo.ca
+036551.html,[Rd] Bug in Sweave? -- scoping problem? (PR#8615),36551,murdoch at stats.uwo.ca
+036365.html,[Rd] crossvalidation in svm regression in e1071 gives incorrect	results (PR#8554),36365,no228 at cam.ac.uk
+036395.html,[Rd] pbinom with size argument 0 (PR#8560),36395,p.dalgaard at biostat.ku.dk
+036468.html,"[Rd] R, Rcmdr crash on WinXP PRO laptop (PR#8583)",36468,parker at quartz.gly.fsu.edu
+036603.html,[Rd] Spurious output white line in R script (PR#8631),36603,pinard at progiciels-bpi.ca
+036609.html,[Rd] Tiny documentation error for ?options (PR#8633),36609,pinard at progiciels-bpi.ca
+036672.html,[Rd] Egold earn $ while surfing,36672,Neil Getpaid program
+036344.html,[Rd] recover() (PR#8546),36344,ripley at stats.ox.ac.uk
+036349.html,[Rd] window()   problem (PR#8545),36349,ripley at stats.ox.ac.uk
+036439.html,[Rd] R 2.2.1 installation trouble on SGI/Sun (PR#8575),36439,ripley at stats.ox.ac.uk
+036444.html,[Rd] identify() bug (PR#8576),36444,ripley at stats.ox.ac.uk
+036473.html,[Rd] make: Target `all' not remade because of errors. (PR#8585),36473,ripley at stats.ox.ac.uk
+036564.html,[Rd] Matrix / SparseM conflict (PR#8618),36564,ripley at stats.ox.ac.uk
+036625.html,[Rd] rnorm returning NA's (PR#8635),36625,ripley at stats.ox.ac.uk
+036679.html,[Rd] trouble with R CMD SHLIB on winXP,36679,j. signorovitch
+036343.html,[Rd] Word boundaries and gregexpr in R 2.2.1 (PR#8547),36343,stgries at linguistics.ucsb.edu
+036502.html,[Rd] floor and ceiling can't handle more than 15 decimal pla	(PR#8591),36502,ted.harding at nessie.mcc.ac.uk
+036375.html,[Rd] pbinom with size argument 0 (PR#8560),36375,uht at dfu.min.dk
+036405.html,[Rd] pbinom with size argument 0 (PR#8560),36405,uht at dfu.min.dk
+036506.html,[Rd] Typo in polygon.Rd (PR#8605),36506,vincent.goulet at act.ulaval.ca
+036360.html,[Rd] Retrieving an unevaluated argument,36360,hadley wickham
+036362.html,[Rd] Converting an unevaluted list to list of unevaluted elements,36362,hadley wickham
+036554.html,"[Rd] Computing means, variances and sums",36554,hadley wickham
+036617.html,[Rd] Links to non-vignette documentation,36617,hadley wickham
+036628.html,[Rd] Links to non-vignette documentation,36628,hadley wickham
+036632.html,[Rd] Links to non-vignette documentation,36632,hadley wickham
+036635.html,[Rd] Links to non-vignette documentation,36635,hadley wickham
+036641.html,[Rd] Links to non-vignette documentation,36641,hadley wickham
+036651.html,[Rd] Links to non-vignette documentation,36651,hadley wickham

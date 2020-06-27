@@ -1,0 +1,144 @@
+link,Subject,id,author
+024697.html,POSIX formats have problems with NA (PR#1732),24697,Jens Oehlschlägel
+024780.html,sub() and gsub() (PR#1826),24780,Jerome Asselin
+024716.html,Bug list summary (automatic post),24716,Peter Dalgaard BSA
+024720.html,compilation breaks with gnome support on hp-ux 11.00 (PR#1757),24720,Peter Dalgaard BSA
+024731.html,PS to incorrect URL (PR#1766),24731,Peter Dalgaard BSA
+024742.html,dyn.load tcl/tk (PR#1774),24742,Peter Dalgaard BSA
+024758.html,R crashes when using &quot;xyplot&quot; (PR#1801),24758,Peter Dalgaard BSA
+024790.html,src/nmath/pgeom.c (PR#1834),24790,Peter Dalgaard BSA
+024726.html,portable snprintf implementation,24726,RenE J.V. Bertin
+024727.html,compilation breaks with gnome support on hp-ux 11.00 (PR#1757),24727,RenE J.V. Bertin
+024734.html,portable snprintf implementation,24734,RenE J.V. Bertin
+024735.html,history patch (was Re: portable snprintf implementation),24735,RenE J.V. Bertin
+024747.html,portable snprintf implementation,24747,RenE J.V. Bertin
+024712.html,integrate() (PR#1755),24712,Bill.Venables@cmis.csiro.au
+024764.html,Fault in anova.glm (PR#1807),24764,Bill.Venables@cmis.csiro.au
+024683.html,SetGeneric and formula interfaces,24683,John Chambers
+024687.html,Changes to the methods package,24687,John Chambers
+024816.html,Optim() returns wrong maximum,24816,Ole Christensen
+024767.html,R-devel Mac OSX build wierdness...,24767,Byron Ellis
+024743.html,"Sweave problem with recursive call, Add.",24743,Friedrich.Leisch@ci.tuwien.ac.at
+024770.html,incorrect URL (PR#1764),24770,Friedrich.Leisch@ci.tuwien.ac.at
+024721.html,compilation breaks with gnome support on hp-ux 11.00 (PR#1757),24721,"Gansser, Martin"
+024807.html,printed copies of &quot;An Introduction to R&quot;,24807,Brian Gough
+024769.html,R-devel Mac OSX build wierdness...,24769,Kurt Hornik
+024797.html,Random.Rd,24797,Kurt Hornik
+024801.html,Random.Rd,24801,Kurt Hornik
+024781.html,[R] Free Software Application for UNIX/Linux and Microsoft Windows,24781,Shawn Hornsby
+024679.html,SetGeneric and formula interfaces,24679,Torsten Hothorn
+024772.html,Date arithmetic fails (PR#1819),24772,Stefano Iacus
+024681.html,problem with qq( ) (PR#1729),24681,Jarno.Tuimala@Helsinki.Fi
+024688.html,R windows FAQ (PR#1733),24688,Kevin.Wright@pioneer.com
+024762.html,Reading Data.,24762,Jason C. Leach
+024776.html,bug in R-1.5.1 for Mac OS X installer (PR#1825),24776,Jan de Leeuw
+024760.html,R crashes when using &quot;xyplot&quot; (PR#1801),24760,"Liaw, Andy"
+024792.html,Random.Rd,24792,Uwe Ligges
+024803.html,Random.Rd,24803,Uwe Ligges
+024722.html,compilation breaks with gnome support on hp-ux 11.00 (PR#1757),24722,Thomas Lumley
+024728.html,compilation breaks with gnome support on hp-ux 11.00 (PR#1757),24728,Thomas Lumley
+024745.html,Minor bug in dlnorm (PR#1781),24745,Thomas Lumley
+024773.html,Date arithmetic fails (PR#1819),24773,Thomas Lumley
+024774.html,Date arithmetic fails (PR#1819),24774,Thomas Lumley
+024779.html,sub() and gsub() (PR#1826),24779,Thomas Lumley
+024805.html,diagonals of tensors,24805,Thomas Lumley
+024732.html,portable snprintf implementation,24732,Martin Maechler
+024800.html,Random.Rd,24800,Martin Maechler
+024678.html,Assignment operators (was [R] modifying a vector),24678,Mark.Bravington@csiro.au
+024806.html,read.table bug (PR#1809),24806,Martin.Schlather@uni-bayreuth.de
+024817.html,Optim() returns wrong maximum,24817,Martin.Schlather@uni-bayreuth.de
+024794.html,R 1.5.1 (Windows) crashes on plotting density(rnorm(1000)) (PR#1837),24794,Mike.Prager@noaa.gov
+024715.html,integrate() (PR#1755),24715,Duncan Murdoch
+024739.html,bug(?) in R FAQ - Should I run R from within Emacs? (PR#1772),24739,Duncan Murdoch
+024786.html,Platforms with MSB (Most Significant Byte),24786,Duncan Murdoch
+024799.html,R 1.5.1 (Windows) crashes on plotting density(rnorm(1000)) (PR#1837),24799,Duncan Murdoch
+024717.html,integrate() (PR#1755),24717,Travis Porco
+024771.html,Date arithmetic fails (PR#1819),24771,RML27@cornell.edu
+024705.html,nlme: failed augPred with NA in an unused column (PR#1745),24705,Prof Brian D Ripley
+024738.html,bug(?) in R FAQ - Should I run R from within Emacs? (PR#1772),24738,A.J. Rossini
+024740.html,bug(?) in R FAQ - Should I run R from within Emacs? (PR#1772),24740,A.J. Rossini
+024763.html,Reading Data.,24763,A.J. Rossini
+024814.html,"R Code for X-Tab with Row/Col Proportions, Expected Vals and Tests",24814,Marc Schwartz
+024813.html,"R Code for X-Tab with Row/Col Proportions, Expected Vals and Tests",24813,Marc Schwartz
+024737.html,bug(?) in R FAQ - Should I run R from within Emacs? (PR#1772),24737,Tim.Harrold@csiro.au
+024733.html,bug in all.equal.character (PR#1767),24733,a296180@agate.fmr.com
+024730.html,incorrect URL (PR#1764),24730,adrian@asteridia.maths.uwa.edu.au
+024729.html,PS to incorrect URL (PR#1766),24729,adrian@asteridia.maths.uwa.edu.au
+024693.html,complex numbers in library function (PR#1737),24693,alex.deckmyn@oma.be
+024761.html,R crashes when using &quot;xyplot&quot; (PR#1801),24761,andy_liaw@merck.com
+024713.html,integrate() (PR#1755),24713,apjaworski@mmm.com
+024756.html,R crashes when using &quot;xyplot&quot; (PR#1801),24756,carsten.dormann@web.de
+024709.html,lattice default aspect fails for some data sets (PR#1744),24709,deepayansarkar@yahoo.com
+024723.html,problem with qq( ) (PR#1729),24723,deepayansarkar@yahoo.com
+024701.html,groupedData constructor from a function (PR#1741),24701,dieter.menne@menne-biomed.de
+024702.html,lattice default aspect fails for some data sets (PR#1744),24702,dieter.menne@menne-biomed.de
+024703.html,nlme: failed augPred with NA in an unused column (PR#1745),24703,dieter.menne@menne-biomed.de
+024706.html,nlme: failed augPred with NA in an unused column (PR#1745),24706,dieter.menne@menne-biomed.de
+024690.html,R windows FAQ (PR#1733),24690,dmurdoch@pair.com
+024691.html,rw1051 binary dist missing dyn.load documentation (PR#1719),24691,dmurdoch@pair.com
+024714.html,integrate() (PR#1754),24714,dmurdoch@pair.com
+024815.html,quantile()  bug (PR#1852),24815,frohne@mtaonline.net
+024725.html,svd() very slow for wide matrix X but not for t(X) (PR#1761),24725,gregory_r_warnes@groton.pfizer.com
+024784.html,R config failure on solaris (PR#1829),24784,gsivrao@hotmail.com
+024724.html,as.character.octmode() and format.octmode() (PR#1759),24724,hb@maths.lth.se
+024810.html,[R] bug in unsplit()? (PR#1844),24810,hedderik@cmu.edu
+024812.html,[R] bug in unsplit()? (PR#1846),24812,hedderik@cmu.edu
+024707.html,Exception created in RGUI.exe (PR#1748),24707,james.holtman@convergys.com
+024768.html,Late Make Problem with Readline (PR#1673),24768,jerfox@stanford.edu
+024777.html,sub() and gsub() (PR#1826),24777,jerome@hivnet.ubc.ca
+024755.html,methods: representation gives &quot;unused arguments&quot; on failure (PR#1799),24755,jmc@research.bell-labs.com
+024741.html,dyn.load tcl/tk (PR#1774),24741,joeckel@mpch-mainz.mpg.de
+024750.html,EPS file generation (PR#1797),24750,k_r_patterson@cec.eu.int
+024699.html,R windows FAQ (PR#1733),24699,kevin.wright@pioneer.com
+024775.html,bug in R-1.5.1 for Mac OS X installer (PR#1825),24775,kkuroda@crl.ucsd.edu
+024759.html,R crashes when using &quot;xyplot&quot; (PR#1801),24759,ligges@statistik.uni-dortmund.de
+024736.html,bug in all.equal.character (PR#1767),24736,maechler@stat.math.ethz.ch
+024802.html,predict() still not yet &quot;safe&quot;.. (PR#1840),24802,maechler@stat.math.ethz.ch
+024749.html,methods: representation gives &quot;unused arguments&quot; on failure (PR#1796),24749,markus.jantti@iki.fi
+024719.html,compilation breaks with gnome support on hp-ux 11.00 (PR#1757),24719,mgansser@rand.de
+024686.html,Majordomo results: A  WinXP patch,24686,mj2@lists.biostat.wustl.edu
+024766.html,read.table bug (PR#1809),24766,mmcstephen@cogstate.com
+024694.html,R windows FAQ (PR#1733),24694,murdoch@stats.uwo.ca
+024695.html,complex numbers in library function (PR#1737),24695,murdoch@stats.uwo.ca
+024744.html,Minor bug in dlnorm (PR#1781),24744,murdoch@stats.uwo.ca
+024684.html,POSIX formats have problems with NA (PR#1732),24684,oehl_list@gmx.de
+024696.html,wrong measurements on as.character(NA) (PR#1739),24696,oehl_list@gmx.de
+024808.html,[R] bug in unsplit()? (PR#1843),24808,p.dalgaard@biostat.ku.dk
+024811.html,[R] bug in unsplit()? (PR#1845),24811,p.dalgaard@biostat.ku.dk
+024819.html,Unable to install new package using local zip file (PR#1854),24819,rangrej@cheo.on.ca
+024676.html,rw1051 binary dist missing dyn.load documentation (PR#1719),24676,ripley@stats.ox.ac.uk
+024677.html,rw1051 binary dist missing dyn.load documentation (PR#1719),24677,ripley@stats.ox.ac.uk
+024680.html,Assignment operators (was [R] modifying a vector),24680,ripley@stats.ox.ac.uk
+024682.html,problem with qq( ) (PR#1729),24682,ripley@stats.ox.ac.uk
+024685.html,POSIX formats have problems with NA (PR#1732),24685,ripley@stats.ox.ac.uk
+024689.html,R windows FAQ (PR#1733),24689,ripley@stats.ox.ac.uk
+024692.html,R windows FAQ (PR#1733),24692,ripley@stats.ox.ac.uk
+024698.html,POSIX formats have problems with NA (PR#1732),24698,ripley@stats.ox.ac.uk
+024700.html,[R] interfacing R and c++,24700,ripley@stats.ox.ac.uk
+024704.html,wrong measurements on as.character(NA) (PR#1739),24704,ripley@stats.ox.ac.uk
+024708.html,Exception created in RGUI.exe (PR#1748),24708,ripley@stats.ox.ac.uk
+024746.html,portable snprintf implementation,24746,ripley@stats.ox.ac.uk
+024751.html,EPS file generation (PR#1797),24751,ripley@stats.ox.ac.uk
+024752.html,[R] Minor GUI Issues,24752,ripley@stats.ox.ac.uk
+024757.html,R crashes when using &quot;xyplot&quot; (PR#1801),24757,ripley@stats.ox.ac.uk
+024765.html,Fault in anova.glm (PR#1807),24765,ripley@stats.ox.ac.uk
+024778.html,sub() and gsub() (PR#1826),24778,ripley@stats.ox.ac.uk
+024787.html,Platforms with MSB (Most Significant Byte),24787,ripley@stats.ox.ac.uk
+024788.html,Platforms with MSB (Most Significant Byte),24788,ripley@stats.ox.ac.uk
+024791.html,src/nmath/pgeom.c (PR#1834),24791,ripley@stats.ox.ac.uk
+024793.html,Random.Rd,24793,ripley@stats.ox.ac.uk
+024796.html,src/nmath/pgeom.c (PR#1834),24796,ripley@stats.ox.ac.uk
+024798.html,plotting density(rnorm(1000)) crashed once (PR#1837),24798,ripley@stats.ox.ac.uk
+024804.html,Random.Rd,24804,ripley@stats.ox.ac.uk
+024809.html,[R] bug in unsplit()? (PR#1843),24809,ripley@stats.ox.ac.uk
+024820.html,Unable to install new package using local zip file (PR#1854),24820,ripley@stats.ox.ac.uk
+024782.html,[R] Free Software Application for UNIX/Linux and Microsoft Windows (PR#1827),24782,shawnhornsby@netzero.net
+024710.html,integrate() (PR#1754),24710,tcporco@mathepi.com
+024711.html,integrate() (PR#1755),24711,tcporco@mathepi.com
+024718.html,integrate() (PR#1754),24718,tcporco@mathepi.com
+024789.html,src/nmath/pgeom.c (PR#1834),24789,terra@diku.dk
+024795.html,src/nmath/pgeom.c (PR#1834),24795,terra@diku.dk
+024748.html,bug in SHLIB (PR#1795),24748,thomas.gsponer@epfl.ch
+024783.html,Guessing o.s. during installation,24783,virgil@uv.es
+024785.html,Platforms with MSB (Most Significant Byte),24785,virgil@uv.es
+024818.html,Platforms with MSB (Most Significant Byte),24818,virgil@uv.es

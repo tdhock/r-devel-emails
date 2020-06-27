@@ -1,0 +1,124 @@
+link,Subject,id,author
+017887.html,make docs,17887,Peter Dalgaard BSA
+017889.html,Error in parse,17889,Peter Dalgaard BSA
+017891.html,R-beta: More glm bugs,17891,Peter Dalgaard BSA
+017894.html,More on tapply and factors,17894,Peter Dalgaard BSA
+017912.html,pow_ii,17912,Peter Dalgaard BSA
+017923.html,"R, LANG, and LC_....",17923,Peter Dalgaard BSA
+017924.html,"R, LANG, and LC_....",17924,Peter Dalgaard BSA
+017926.html,ctest miscellania,17926,Peter Dalgaard BSA
+017928.html,&quot;precise description&quot; in output of prompt(),17928,Peter Dalgaard BSA
+017932.html,Default device instead of ``No graphics device is active'',17932,Peter Dalgaard BSA
+017946.html,a -nographics option to R,17946,Peter Dalgaard BSA
+017956.html,data.frame(...) not constructing &quot;1:n&quot; row.names [diff.  S &lt;--&gt; R],17956,Peter Dalgaard BSA
+017960.html,"Packages for RedHat 4.2, Debian 1.3",17960,Peter Dalgaard BSA
+017962.html,"Packages for RedHat 4.2, Debian 1.3",17962,Peter Dalgaard BSA
+017965.html,"Packages for RedHat 4.2, Debian 1.3",17965,Peter Dalgaard BSA
+017967.html,as.numeric(&lt;factor&gt;) [Difference R/S],17967,Peter Dalgaard BSA
+017971.html,.h files,17971,Peter Dalgaard BSA
+017974.html,as.numeric(&lt;factor&gt;) [Difference R/S],17974,Peter Dalgaard BSA
+017978.html,.h files,17978,Peter Dalgaard BSA
+017988.html,hist: rel.freqs,17988,Peter Dalgaard BSA
+017990.html,non-standard HTML? [Re: netscape to become freely redistributable],17990,Peter Dalgaard BSA
+018000.html,New design for R html help pages,18000,Peter Dalgaard BSA
+018003.html,Summary of mails concerning R help system,18003,Peter Dalgaard BSA
+017882.html,is .Dyn.libs saved in .Rdata?,17882,Douglas Bates
+017892.html,tapply and factors in R-0.61,17892,Douglas Bates
+017893.html,More on tapply and factors,17893,Douglas Bates
+017899.html,private libraries,17899,Douglas Bates
+017900.html,match.arg(),17900,Douglas Bates
+017902.html,private libraries,17902,Douglas Bates
+017927.html,&quot;precise description&quot; in output of prompt(),17927,Douglas Bates
+017930.html,Symbolic derivation,17930,Douglas Bates
+017940.html,debugging dynamically loaded code,17940,Douglas Bates
+017943.html,$CRAN/src/contrib/devel,17943,Douglas Bates
+017945.html,a -nographics option to R,17945,Douglas Bates
+017948.html,ESS-mode and X-emacs problem,17948,Douglas Bates
+017949.html,"Packages for RedHat 4.2, Debian 1.3",17949,Douglas Bates
+017950.html,ESS-mode and X-emacs problem,17950,Douglas Bates
+017951.html,mtp2R.pl,17951,Douglas Bates
+017961.html,"Packages for RedHat 4.2, Debian 1.3",17961,Douglas Bates
+017968.html,prlab,17968,Douglas Bates
+017977.html,alloc,17977,Douglas Bates
+017983.html,netscape to become freely redistributable,17983,Douglas Bates
+017989.html,non-standard HTML? [Re: netscape to become freely redistributable],17989,Douglas Bates
+017993.html,Copyrights for R contributed libraries,17993,Douglas Bates
+017963.html,matplot,17963,Ben Bolker
+017919.html,R/S Difference - split,17919,Robert Gentleman
+017925.html,split(.) woes,17925,Robert Gentleman
+017929.html,matrix multiply,17929,Robert Gentleman
+017998.html,New design for R html help pages,17998,Robert Gentleman
+017886.html,make docs,17886,Paul Gilbert
+017888.html,Error in parse,17888,Paul Gilbert
+017897.html,private libraries,17897,Paul Gilbert
+017898.html,pow_ii,17898,Paul Gilbert
+017901.html,private libraries,17901,Paul Gilbert
+017938.html,DSE alpha,17938,Paul Gilbert
+017941.html,$CRAN/src/contrib/devel,17941,Paul Gilbert
+017944.html,$CRAN/src/contrib/devel,17944,Paul Gilbert
+017970.html,.h files,17970,Paul Gilbert
+017975.html,.h files,17975,Paul Gilbert
+017976.html,alloc,17976,Paul Gilbert
+017995.html,library.dynam,17995,Paul Gilbert
+017997.html,New design for R html help pages,17997,Paul Gilbert
+017999.html,New design for R html help pages,17999,Paul Gilbert
+018001.html,New design for R html help pages,18001,Paul Gilbert
+017905.html,unary !,17905,Kurt Hornik
+017915.html,pow_ii,17915,Kurt Hornik
+017916.html,English compatibility library,17916,Kurt Hornik
+017922.html,development snapshot of Design package,17922,Kurt Hornik
+017957.html,data.frame(...) not constructing &quot;1:n&quot; row.names [diff.  S &lt;--&gt; R],17957,Kurt Hornik
+017973.html,as.numeric(&lt;factor&gt;) [Difference R/S],17973,Kurt Hornik
+017981.html,R feature request:  stop(..) should print its caller call,17981,Kurt Hornik
+017903.html,IEEE 754 Style Arithmetic,17903,Ross Ihaka
+017904.html,Error in parse,17904,Ross Ihaka
+017984.html,netscape to become freely redistributable,17984,Ross Ihaka
+017987.html,hist: rel.freqs,17987,Philippe Lambert
+017908.html,tabular environment for Rd files,17908,Friedrich Leisch
+017936.html,New features in Rd format,17936,Friedrich Leisch
+017939.html,debugging dynamically loaded code,17939,Friedrich Leisch
+017942.html,$CRAN/src/contrib/devel,17942,Friedrich Leisch
+017947.html,"Packages for RedHat 4.2, Debian 1.3",17947,Friedrich Leisch
+017952.html,debugging dynamically loaded code,17952,Friedrich Leisch
+017992.html,non-standard HTML? [Re: netscape to become freely redistributable],17992,Friedrich Leisch
+017994.html,New design for R html help pages,17994,Friedrich Leisch
+018002.html,Summary of mails concerning R help system,18002,Friedrich Leisch
+017885.html,English compatibility library,17885,Thomas Lumley
+017896.html,split(.) woes + &quot;very cheap&quot; fix,17896,Thomas Lumley
+017917.html,pow_ii,17917,Thomas Lumley
+017933.html,Default device instead of ``No graphics device is active'',17933,Thomas Lumley
+017979.html,alloc,17979,Thomas Lumley
+017883.html,unary !,17883,Martin Maechler
+017884.html,as.numeric changes?,17884,Martin Maechler
+017890.html,R-beta: More glm bugs,17890,Martin Maechler
+017895.html,split(.) woes + &quot;very cheap&quot; fix,17895,Martin Maechler
+017906.html,IEEE 754 Style Arithmetic,17906,Martin Maechler
+017907.html,Two more R/S differences,17907,Martin Maechler
+017909.html,"hist(.) -- S compatibility : [a,b) versus (a,b]  and ....",17909,Martin Maechler
+017911.html,pow_ii,17911,Martin Maechler
+017913.html,Segfault from seq(.),17913,Martin Maechler
+017914.html,R-beta: sequences -- asReal(.) ?,17914,Martin Maechler
+017920.html,"R, LANG, and LC_....",17920,Martin Maechler
+017921.html,&quot;X segfault&quot; with   lty = '01',17921,Martin Maechler
+017931.html,Default device instead of ``No graphics device is active'',17931,Martin Maechler
+017934.html,par2(..) ? -- only used in library(mva)..,17934,Martin Maechler
+017935.html,funny axis ranges;  GPretty(.) vs.  pretty(.) and all that...,17935,Martin Maechler
+017937.html,system.file(..) :  Any reason why it should not work with wildcards?,17937,Martin Maechler
+017953.html,ESS-mode and X-emacs problem  &quot;-noreadline&quot; solution,17953,Martin Maechler
+017955.html,data.frame(...) not constructing &quot;1:n&quot; row.names [diff.  S &lt;--&gt; R],17955,Martin Maechler
+017966.html,as.numeric(&lt;factor&gt;) [Difference R/S],17966,Martin Maechler
+017972.html,R (off-topic): How to make mail-archives searchable?,17972,Martin Maechler
+017980.html,R feature request:  stop(..) should print its caller call,17980,Martin Maechler
+017982.html,Re^2: R feature request:  stop(..) should print its caller call,17982,Martin Maechler
+017985.html,S-Plus graphs to LaTeX picture commands,17985,Martin Maechler
+017986.html,non-standard HTML? [Re: netscape to become freely redistributable],17986,Martin Maechler
+017991.html,hist: rel.freqs  --&gt; pre-release version of hist(.),17991,Martin Maechler
+017996.html,Factor variables are not vectors...,17996,Martin Maechler
+017954.html,"Packages for RedHat 4.2, Debian 1.3",17954,Martyn Plummer
+018004.html,Summary of mails concerning R help system,18004,Luke Tierney
+017958.html,"Packages for RedHat 4.2, Debian 1.3",17958,Gregory R. Warnes
+017959.html,"Packages for RedHat 4.2, Debian 1.3",17959,Gregory R. Warnes
+017964.html,"Packages for RedHat 4.2, Debian 1.3",17964,Gregory R. Warnes
+017910.html,R/S difference (data frames),17910,Andreas Weingessel
+017918.html,R/S Difference - split,17918,Andreas Weingessel
+017969.html,prlab,17969,Andreas Weingessel

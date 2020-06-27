@@ -1,0 +1,823 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+  <HEAD>
+     <title>The R-devel 1997-August Archive by Author</title>
+     <META NAME="robots" CONTENT="noindex,follow">
+     <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  </HEAD>
+  <BODY BGCOLOR="#ffffff">
+      <a name="start"></A>
+      <h1>1997-August Archives by Author</h1>
+      <ul>
+         <li> <b>Messages sorted by:</b>
+	        <a href="thread.html#start">[ thread ]</a>
+		<a href="subject.html#start">[ subject ]</a>
+		
+		<a href="date.html#start">[ date ]</a>
+
+	     <li><b><a href="http://www.stat.math.ethz.ch/mailman/listinfo/r-devel">More info on this list...
+                    </a></b></li>
+      </ul>
+      <p><b>Starting:</b> <i>Fri Aug  1 12:54:36 1997</i><br>
+         <b>Ending:</b> <i>Sun Aug 31 21:11:54 1997</i><br>
+         <b>Messages:</b> 194<p>
+     <ul>
+
+<LI><A HREF="017389.html">R-alpha: .RData zapped by system shutdown
+</A><A NAME="17389">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017390.html">R-alpha: One-row frames don't work
+</A><A NAME="17390">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017401.html">R-alpha: scale()
+</A><A NAME="17401">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017404.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17404">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017409.html">R-alpha: Version 0.50-a1 patches
+</A><A NAME="17409">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017413.html">R-alpha: Environment strangeness
+</A><A NAME="17413">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017420.html">R-alpha: R 0.50.a2 shortest segfault ...
+</A><A NAME="17420">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017421.html">R-alpha: Re: R 0.50.a2 - unlist() still broken
+</A><A NAME="17421">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017428.html">R-alpha: expressions in graphs
+</A><A NAME="17428">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017445.html">R-alpha: frame tools
+</A><A NAME="17445">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017459.html">R-alpha: R 0.50.a3: title( .. adj= x)  AND  mtext( .. adj= x)
+</A><A NAME="17459">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017469.html">R-alpha: .Options$digits do not (always) work.
+</A><A NAME="17469">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017476.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17476">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017486.html">R-alpha: Re: R-beta: Bug or feature?  [+ better histograms]
+</A><A NAME="17486">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017487.html">R-alpha: Re: R-beta: .C and dyn.load for Windows
+</A><A NAME="17487">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017505.html">R-alpha: libf2c as a shared library
+</A><A NAME="17505">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017506.html">R-alpha: axes &amp; plot boundary
+</A><A NAME="17506">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017517.html">R-alpha: new class for chisquare tests?
+</A><A NAME="17517">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017518.html">R-alpha: ECDFs
+</A><A NAME="17518">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017519.html">R-alpha: another ctest question
+</A><A NAME="17519">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017525.html">R-alpha: axes &amp; plot boundary
+</A><A NAME="17525">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017540.html">R-alpha: apply()
+</A><A NAME="17540">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017542.html">R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ )
+</A><A NAME="17542">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017554.html">R-alpha: R documentation problems
+</A><A NAME="17554">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017577.html">R-alpha: ?bug in [.data.frame
+</A><A NAME="17577">&nbsp;</A>
+<I>Peter Dalgaard BSA
+</I>
+<LI><A HREF="017498.html">R-alpha: The Template Numerical Toolkit and R
+</A><A NAME="17498">&nbsp;</A>
+<I>Douglas Bates
+</I>
+<LI><A HREF="017478.html">R-alpha: Compiling 0.49 on IRIX6.1
+</A><A NAME="17478">&nbsp;</A>
+<I>Dr X Cai
+</I>
+<LI><A HREF="017415.html">R-alpha: Environment strangeness
+</A><A NAME="17415">&nbsp;</A>
+<I>Robert Gentleman
+</I>
+<LI><A HREF="017435.html">R-alpha:  unlist(..) forever..
+</A><A NAME="17435">&nbsp;</A>
+<I>Robert Gentleman
+</I>
+<LI><A HREF="017460.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17460">&nbsp;</A>
+<I>Robert Gentleman
+</I>
+<LI><A HREF="017474.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17474">&nbsp;</A>
+<I>Robert Gentleman
+</I>
+<LI><A HREF="017541.html">R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ )
+</A><A NAME="17541">&nbsp;</A>
+<I>Robert Gentleman
+</I>
+<LI><A HREF="017565.html">R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?
+</A><A NAME="17565">&nbsp;</A>
+<I>Robert Gentleman
+</I>
+<LI><A HREF="017453.html">R-alpha: Matrix Class
+</A><A NAME="17453">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017458.html">R-alpha: error.handler
+</A><A NAME="17458">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017472.html">R-alpha: update on patching
+</A><A NAME="17472">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017510.html">R-alpha: f2c
+</A><A NAME="17510">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017535.html">R-alpha: RHOME
+</A><A NAME="17535">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017558.html">R-alpha: HTML help
+</A><A NAME="17558">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017562.html">R-alpha: Re: missing' BB functions
+</A><A NAME="17562">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017572.html">R-alpha: pow_ii
+</A><A NAME="17572">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017574.html">R-alpha: HTML help
+</A><A NAME="17574">&nbsp;</A>
+<I>Paul Gilbert
+</I>
+<LI><A HREF="017384.html">R-alpha: Bugs in R-0.50-a1.
+</A><A NAME="17384">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017386.html">R-alpha: R 0.50.a1 bug in do_title()
+</A><A NAME="17386">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017385.html">R-alpha: R 0.50.a1 graphics
+</A><A NAME="17385">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017387.html">R-alpha: R-beta: RPM package for R
+</A><A NAME="17387">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017393.html">R-alpha: `axes' argument for barplot()
+</A><A NAME="17393">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017397.html">R-alpha: ports ...
+</A><A NAME="17397">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017392.html">R-alpha: pow_dd
+</A><A NAME="17392">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017396.html">R-alpha: scale()
+</A><A NAME="17396">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017394.html">R-alpha: sd2rd version 0.1-5
+</A><A NAME="17394">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017395.html">R-alpha: ???
+</A><A NAME="17395">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017398.html">R-alpha: Re: your mail
+</A><A NAME="17398">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017412.html">R-alpha: Environment strangeness
+</A><A NAME="17412">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017417.html">R-alpha: R 0.50.a2
+</A><A NAME="17417">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017419.html">R-alpha: R 0.50.a2 shortest segfault ...
+</A><A NAME="17419">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017418.html">R-alpha: R color problem
+</A><A NAME="17418">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017416.html">R-alpha: Version 0.50-a1 patches
+</A><A NAME="17416">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017436.html">R-alpha: R 0.50.a3:  adj?
+</A><A NAME="17436">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017437.html">R-alpha: CFLAGS in config.site
+</A><A NAME="17437">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017438.html">R-alpha: R 0.50.a3 family.lm()
+</A><A NAME="17438">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017442.html">R-alpha: frame tools
+</A><A NAME="17442">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017439.html">R-alpha: R 0.50.a3 problem with `make tests'
+</A><A NAME="17439">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017441.html">R-alpha: R 0.50.a3:  patch for man/palette
+</A><A NAME="17441">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017443.html">R-alpha: R 0.50.a3 minor remark
+</A><A NAME="17443">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017444.html">R-alpha: Second patch for 0.50-a1
+</A><A NAME="17444">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017440.html">R-alpha: R 0.50.a3  tapply patch
+</A><A NAME="17440">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017462.html">R-alpha: another minor problem
+</A><A NAME="17462">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017463.html">R-alpha: frame tools
+</A><A NAME="17463">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017465.html">R-alpha: 'Matrix' &amp; 'matrix' Class
+</A><A NAME="17465">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017466.html">R-alpha: plotting empirical distribution function -- plot.step
+</A><A NAME="17466">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017467.html">R-alpha: 'Matrix' &amp; 'matrix' Class
+</A><A NAME="17467">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017485.html">R-alpha: Re: R-beta: Bug or feature?  [+ better histograms]
+</A><A NAME="17485">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017489.html">R-alpha: ECDFs
+</A><A NAME="17489">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017491.html">R-alpha: A few bugs in R-0.50-a3.
+</A><A NAME="17491">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017513.html">R-alpha: new class for chisquare tests?
+</A><A NAME="17513">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017512.html">R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch
+</A><A NAME="17512">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017511.html">R-alpha: ECDFs
+</A><A NAME="17511">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017514.html">R-alpha: Mutivariate Analysis
+</A><A NAME="17514">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017515.html">R-alpha: a question on terminology
+</A><A NAME="17515">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017516.html">R-alpha: another ctest question
+</A><A NAME="17516">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017529.html">R-alpha: libf2c as a shared library
+</A><A NAME="17529">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017528.html">R-alpha: names for .RData
+</A><A NAME="17528">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017530.html">R-alpha: apply()
+</A><A NAME="17530">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017534.html">R-alpha: a question on terminology
+</A><A NAME="17534">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017544.html">R-alpha: barplot()
+</A><A NAME="17544">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017545.html">R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ )
+</A><A NAME="17545">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017546.html">R-alpha: Re:  .Options$digits do not (always) work
+</A><A NAME="17546">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017547.html">R-alpha: R documentation boilerplates
+</A><A NAME="17547">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017548.html">R-alpha: apply()
+</A><A NAME="17548">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017549.html">R-alpha: tapply() strangeness
+</A><A NAME="17549">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017552.html">R-alpha: R documentation problems
+</A><A NAME="17552">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017553.html">R-alpha: Differences R/S
+</A><A NAME="17553">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017555.html">R-alpha: `missing' BB functions
+</A><A NAME="17555">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017557.html">R-alpha: R FAQ
+</A><A NAME="17557">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017566.html">R-alpha: Re:  barplot
+</A><A NAME="17566">&nbsp;</A>
+<I>Kurt Hornik
+</I>
+<LI><A HREF="017405.html">R-alpha: pow_dd
+</A><A NAME="17405">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017406.html">R-alpha: Re: pow_dd &amp; pow_di [was f2clib.c  etc..] --  yes, please !
+</A><A NAME="17406">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017408.html">R-alpha: Version 0.50-a1 patches
+</A><A NAME="17408">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017425.html">R-alpha: Colors
+</A><A NAME="17425">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017429.html">R-alpha: expressions in graphs
+</A><A NAME="17429">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017430.html">R-alpha: Second patch for 0.50-a1
+</A><A NAME="17430">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017434.html">R-alpha: Second patch for 0.50-a1:   cut(.) fails .. -- PATCH (?!)
+</A><A NAME="17434">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017447.html">R-alpha: eigen
+</A><A NAME="17447">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017448.html">R-alpha: Matrix Class
+</A><A NAME="17448">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017461.html">R-alpha: R 0.50.a3: title( .. adj= x)  AND  mtext( .. adj= x)
+</A><A NAME="17461">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017473.html">R-alpha: frame tools
+</A><A NAME="17473">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017482.html">R-alpha: autoload  -- cool!
+</A><A NAME="17482">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017502.html">R-alpha: thoughts on batch and fortran
+</A><A NAME="17502">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017504.html">R-alpha: libf2c as a shared library
+</A><A NAME="17504">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017520.html">R-alpha: axes &amp; plot boundary
+</A><A NAME="17520">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017523.html">R-alpha: class for chisquare tests; Thoughts on print &amp; summary
+</A><A NAME="17523">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017526.html">R-alpha: a question on terminology
+</A><A NAME="17526">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017570.html">R-alpha: Proposal for a new R doc source format
+</A><A NAME="17570">&nbsp;</A>
+<I>Ross Ihaka
+</I>
+<LI><A HREF="017568.html">R-alpha: Proposal for a new R doc source format
+</A><A NAME="17568">&nbsp;</A>
+<I>Friedrich Leisch
+</I>
+<LI><A HREF="017571.html">R-alpha: Proposal for a new R doc source format
+</A><A NAME="17571">&nbsp;</A>
+<I>Friedrich Leisch
+</I>
+<LI><A HREF="017501.html">R-alpha: thoughts on batch and fortran
+</A><A NAME="17501">&nbsp;</A>
+<I>Jim Lindsey
+</I>
+<LI><A HREF="017531.html">R-alpha: eigen
+</A><A NAME="17531">&nbsp;</A>
+<I>Jim Lindsey
+</I>
+<LI><A HREF="017550.html">R-alpha: eigen and batch
+</A><A NAME="17550">&nbsp;</A>
+<I>Jim Lindsey
+</I>
+<LI><A HREF="017488.html">R-alpha: A few bugs in R-0.50-a3.
+</A><A NAME="17488">&nbsp;</A>
+<I>Patrick Lindsey
+</I>
+<LI><A HREF="017407.html">R-alpha: f2c compatibility
+</A><A NAME="17407">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017423.html">R-alpha: browser()
+</A><A NAME="17423">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017427.html">R-alpha: expressions in graphs
+</A><A NAME="17427">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017446.html">R-alpha: eigen
+</A><A NAME="17446">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017449.html">R-alpha: Matrix Class
+</A><A NAME="17449">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017455.html">R-alpha: 'Matrix' &amp; 'matrix' Class
+</A><A NAME="17455">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017456.html">R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch
+</A><A NAME="17456">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017470.html">R-alpha: Matrix: I surrender
+</A><A NAME="17470">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017479.html">R-alpha: library()
+</A><A NAME="17479">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017480.html">R-alpha: autoload again
+</A><A NAME="17480">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017484.html">R-alpha: (minor?) S-R inconsistency:  NULL =~= list()  -- useful is.ALL function
+</A><A NAME="17484">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017490.html">R-alpha: ECDFs
+</A><A NAME="17490">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017492.html">R-alpha: tapply
+</A><A NAME="17492">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017496.html">R-alpha: R-0.50-a3: [logical, drop = FALSE] -- bug in R (and S-plus)
+</A><A NAME="17496">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017497.html">R-alpha: R-0.50-a3(+) Method despatching bug ?
+</A><A NAME="17497">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017499.html">R-alpha: names for .RData
+</A><A NAME="17499">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017509.html">R-alpha: thoughts on batch and fortran
+</A><A NAME="17509">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017537.html">R-alpha: apply()
+</A><A NAME="17537">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017538.html">R-alpha: eigen
+</A><A NAME="17538">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017539.html">R-alpha: terms
+</A><A NAME="17539">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017543.html">R-alpha: plots and batch mode
+</A><A NAME="17543">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017561.html">R-alpha: tapply() strangeness
+</A><A NAME="17561">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017563.html">R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?
+</A><A NAME="17563">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017564.html">R-alpha: eigen and batch
+</A><A NAME="17564">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017573.html">R-alpha: Re: pow_ii
+</A><A NAME="17573">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017576.html">R-alpha: ?bug in [.data.frame
+</A><A NAME="17576">&nbsp;</A>
+<I>Thomas Lumley
+</I>
+<LI><A HREF="017388.html">R-alpha: Re: ?&quot;+&quot;; ALIAS(Arithmetic)
+</A><A NAME="17388">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017391.html">R-alpha: 0.50-a1 -- &quot;more lost comments&quot;
+</A><A NAME="17391">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017399.html">R-alpha: scale()
+</A><A NAME="17399">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017400.html">R-alpha: Re: pow_dd &amp; pow_di [was f2clib.c  etc..] --  yes, please !
+</A><A NAME="17400">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017402.html">R-alpha: Excuse the German post to R-devel...
+</A><A NAME="17402">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017403.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17403">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017410.html">R-alpha: Version 0.50-a1 patches -- New and old bugs..
+</A><A NAME="17410">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017411.html">R-alpha: R-0.50-a{1|2} : Yet another shortest SEGFAULT  --- + PATCH
+</A><A NAME="17411">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017414.html">R-alpha: Environment strangeness
+</A><A NAME="17414">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017422.html">R-alpha: R color problem  (col=0 is wrong; col=1 S incompatible)
+</A><A NAME="17422">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017426.html">R-alpha: Colors -- Comment: yes, great !!
+</A><A NAME="17426">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017431.html">R-alpha: Second patch for 0.50-a1:   cut(.) fails ..
+</A><A NAME="17431">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017432.html">R-alpha:  unlist(..) forever..
+</A><A NAME="17432">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017433.html">R-alpha: Second patch for 0.50-a1:   cut(.) fails .. -- PATCH (?!)
+</A><A NAME="17433">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017450.html">R-alpha: 'Matrix' &amp; 'matrix' Class
+</A><A NAME="17450">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017451.html">R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch
+</A><A NAME="17451">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017452.html">R-alpha: R 0.50.a3: title( .. adj= x)  AND  mtext( .. adj= x)
+</A><A NAME="17452">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017454.html">R-alpha: yet another remaining buglet
+</A><A NAME="17454">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017457.html">R-alpha: attach( &lt;data.frame&gt; , pos = 1) -- does not work.   detach(., save=..)
+</A><A NAME="17457">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017464.html">R-alpha: plotting empirical distribution function -- plot.step
+</A><A NAME="17464">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017468.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17468">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017471.html">R-alpha: Re: R-beta: compiling R-5.0 on IRIX6.1
+</A><A NAME="17471">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017477.html">R-alpha: Re: R-beta:  R-0.49 on IRIX6.1 does not compile
+</A><A NAME="17477">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017481.html">R-alpha: autoload  -- cool!
+</A><A NAME="17481">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017483.html">R-alpha: (minor?) S-R inconsistency:  NULL =~= list()  -- useful is.ALL function
+</A><A NAME="17483">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017493.html">R-alpha:  tapply patch -- Thomas version?
+</A><A NAME="17493">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017494.html">R-alpha: R-0.50-a3(+) Method despatching bug ?
+</A><A NAME="17494">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017495.html">R-alpha: R-0.50-a3: [logical, drop = FALSE] -- bug in R (and S-plus)
+</A><A NAME="17495">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017500.html">R-alpha:  [logical, drop = FALSE] -- my silliness ..
+</A><A NAME="17500">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017503.html">R-alpha: thoughts on batch (stop on error)
+</A><A NAME="17503">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017521.html">R-alpha: options [--no-*-file] AND --dont-stop-on-error-if-batch
+</A><A NAME="17521">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017522.html">R-alpha: class for chisquare tests; Thoughts on print &amp; summary
+</A><A NAME="17522">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017524.html">R-alpha: a question on terminology
+</A><A NAME="17524">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017527.html">R-alpha: a question on terminology
+</A><A NAME="17527">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017532.html">R-alpha: eigen
+</A><A NAME="17532">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017533.html">R-alpha: Re: Extensions .R and .Rd (in base/funs/ and base/man/ )
+</A><A NAME="17533">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017556.html">R-alpha: batch   q(save = 'no')
+</A><A NAME="17556">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017559.html">R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?
+</A><A NAME="17559">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017567.html">R-alpha: (minor?) S/R inconsistency:  mode(unclass(terms(...)))
+</A><A NAME="17567">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017575.html">SUMMARY: R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl
+</A><A NAME="17575">&nbsp;</A>
+<I>Martin Maechler
+</I>
+<LI><A HREF="017507.html">R-alpha: libf2c as a shared library
+</A><A NAME="17507">&nbsp;</A>
+<I>Martyn Plummer
+</I>
+<LI><A HREF="017536.html">R-alpha: apply()
+</A><A NAME="17536">&nbsp;</A>
+<I>Martyn Plummer
+</I>
+<LI><A HREF="017551.html">R-alpha: ts problems
+</A><A NAME="17551">&nbsp;</A>
+<I>Martyn Plummer
+</I>
+<LI><A HREF="017569.html">R-alpha: Proposal for a new R doc source format
+</A><A NAME="17569">&nbsp;</A>
+<I>Martyn Plummer
+</I>
+<LI><A HREF="017560.html">R-alpha: Can we &quot;require&quot;  1) GNU make,  2) Perl  -- for help &quot;compiling&quot;?
+</A><A NAME="17560">&nbsp;</A>
+<I>Anthony Rossini
+</I>
+<LI><A HREF="017424.html">R-alpha: Re: R-beta: ?faq example of scoping
+</A><A NAME="17424">&nbsp;</A>
+<I>Luke Tierney
+</I>
+<LI><A HREF="017508.html">R-alpha: thoughts on batch and fortran
+</A><A NAME="17508">&nbsp;</A>
+<I>Luke Tierney
+</I>
+<LI><A HREF="017475.html">R-alpha: .Options$digits  do not (always) work.
+</A><A NAME="17475">&nbsp;</A>
+<I>Bill Venables
+</I>
+    </ul>
+    <p>
+      <a name="end"><b>Last message date:</b></a> 
+       <i>Sun Aug 31 21:11:54 1997</i><br>
+    <b>Archived on:</b> <i>Wed Nov 27 19:06:57 2002</i>
+    <p>
+   <ul>
+         <li> <b>Messages sorted by:</b>
+	        <a href="thread.html#start">[ thread ]</a>
+		<a href="subject.html#start">[ subject ]</a>
+		
+		<a href="date.html#start">[ date ]</a>
+	     <li><b><a href="http://www.stat.math.ethz.ch/mailman/listinfo/r-devel">More info on this list...
+                    </a></b></li>
+     </ul>
+     <p>
+     <hr>
+     <i>This archive was generated by
+     Pipermail 0.05 (Mailman edition).</i>
+  </BODY>
+</HTML>
+

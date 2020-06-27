@@ -1,0 +1,80 @@
+link,Subject,id,author
+019735.html,No subject,19735,Eli Ateljevich
+019691.html,Macro-like for-loops,19691,Peter Dalgaard BSA
+019696.html,bitmap copies of plots,19696,Peter Dalgaard BSA
+019699.html,bitmap copies of plots,19699,Peter Dalgaard BSA
+019701.html,Bug list summary (automatic post),19701,Peter Dalgaard BSA
+019706.html,dimnames and subscripting (PR#293),19706,Peter Dalgaard BSA
+019712.html,Compilation problem with R,19712,Peter Dalgaard BSA
+019714.html,[R] main/character.c (et.al): dangerous AllocBuffer(),19714,Peter Dalgaard BSA
+019715.html,formatReal()-bug (or Is there anybody out there w/o IEEE754?),19715,Peter Dalgaard BSA
+019719.html,IEEE_754 logic,19719,Peter Dalgaard BSA
+019726.html,Bug list summary (automatic post),19726,Peter Dalgaard BSA
+019734.html,"source(,echo=T) doesn't echo comments (PR#296)",19734,Peter Dalgaard BSA
+019739.html,gc_inhibit_torture definition twice?,19739,Peter Dalgaard BSA
+019744.html,dodgy list operation (PR#298),19744,Peter Dalgaard BSA
+019750.html,Plotting bug in R (PR#300),19750,Peter Dalgaard BSA
+019756.html,Wrong text() adjustment with (math)expression and &quot;\n&quot; (PR#299),19756,Peter Dalgaard BSA
+019763.html,read.table problem on Linux/Alpha (seg faults caused by isspace(R_EOF)) (PR#303),19763,Peter Dalgaard BSA
+019736.html,none,19736,Douglas Bates
+019751.html,Plotting bug in R (PR#300),19751,Douglas Bates
+019765.html,diag,19765,Robert Gentleman
+019731.html,require - warn.conflicts,19731,Paul Gilbert
+019752.html,install.packages() update.packages(),19752,Paul Gilbert
+019713.html,formatReal()-bug (or Is there anybody out there w/o IEEE754?),19713,Thomas Hoffmann
+019718.html,IEEE_754 logic,19718,Thomas Hoffmann
+019722.html,IEEE_754 logic,19722,Thomas Hoffmann
+019737.html,gc_inhibit_torture definition twice?,19737,Thomas Hoffmann
+019705.html,Check script (PR#292),19705,Kurt Hornik
+019721.html,IEEE_754 logic,19721,Kurt Hornik
+019727.html,Sun's make &quot;almost&quot; works,19727,Kurt Hornik
+019729.html,IEEE_754 logic,19729,Kurt Hornik
+019704.html,dimnames and subscripting (PR#293),19704,J.C.Rougier@durham.ac.uk
+019743.html,dodgy list operation (PR#298),19743,J.C.Rougier@durham.ac.uk
+019757.html,expand.grid() (PR#301),19757,J.C.Rougier@durham.ac.uk
+019717.html,[R] Regression on non linear model,19717,Thomas Lumley
+019694.html,bitmap copies of plots,19694,Martin Maechler
+019707.html,[R] ts package on CRAN ?,19707,Martin Maechler
+019723.html,Sun's make &quot;almost&quot; works,19723,Martin Maechler
+019747.html,[R] par(uin),19747,Martin Maechler
+019709.html,msvrt.dll (was R-0.65.1 for WinNT/9X),19709,Guido Masarotto
+019755.html,Creating gif files using R,19755,Guido Masarotto
+019693.html,New Version of R Server,19693,Erich Neuwirth
+019766.html,bugs in scan() (PR#304),19766,Ray.Brownrigg@mcs.vuw.ac.nz
+019692.html,bitmap copies of plots,19692,Prof Brian Ripley
+019745.html,"Your Message Sent on Fri, 22 Oct 1999 13:19:12 -0700",19745,Prof Brian Ripley
+019754.html,Creating gif files using R,19754,Prof Brian Ripley
+019695.html,bitmap copies of plots,19695,Prof Brian D Ripley
+019697.html,bitmap copies of plots,19697,Prof Brian D Ripley
+019700.html,gs5.xx (was bitmap copies of plots),19700,Prof Brian D Ripley
+019710.html,msvrt.dll (was R-0.65.1 for WinNT/9X),19710,Prof Brian D Ripley
+019761.html,modreg buggy: uninitialized variable in sinerp.f (PR#302),19761,Prof Brian D Ripley
+019764.html,diag,19764,Prof Brian D Ripley
+019698.html,bitmap copies of plots,19698,A.J. Rossini
+019724.html,error in split?,19724,A.J. Rossini
+019725.html,error in split...,19725,A.J. Rossini
+019759.html,expand.grid() (PR#301),19759,Jonathan Rougier
+019740.html,[R] GARCH models available,19740,Karl M. Syring
+019738.html,GARCH models available,19738,Adrian Trapletti
+019742.html,[Fwd: [R] GARCH models available],19742,Adrian Trapletti
+019748.html,Rdefines.h,19748,Berwin Turlach
+019716.html,[R] Regression on non linear model,19716,Bill Venables
+019753.html,Creating gif files using R,19753,Dennis Wolf
+019711.html,Compilation problem with R,19711,Stelios Zimeras
+019720.html,R-suggestion,19720,Stelios Zimeras
+022914.html,[Rd] Win a Palm Pilot!!!                         26204,22914,daan6354@acmemail.net
+022866.html,[Rd] Win a Palm Pilot for visiting our website!!!!                         24621,22866,lopi8954@moscowoffice.com
+019708.html,floor(NaN) problem fixed in massdist.c (PR#291),19708,maechler@stat.math.ethz.ch
+019728.html,error in split... (R 0.65.1) -- and patch (PR#294),19728,maechler@stat.math.ethz.ch
+019733.html,"source(,echo=T) doesn't echo comments (PR#296)",19733,maechler@stat.math.ethz.ch
+019746.html,Wrong text() adjustment with (math)expression and &quot;\n&quot; (PR#299),19746,maechler@stat.math.ethz.ch
+019758.html,expand.grid() (PR#301),19758,maechler@stat.math.ethz.ch
+022899.html,[Rd] Win a Palm Pilot!!                         26606,22899,mark7853@flashmail.com
+019702.html,floor(NaN) problem fixed in massdist.c (PR#291),19702,ntakebay@bio.indiana.edu
+019762.html,read.table problem on Linux/Alpha (seg faults caused by isspace(R_EOF)) (PR#303),19762,ntakebay@bio.indiana.edu
+019703.html,Check script (PR#292),19703,plummer@iarc.fr
+019749.html,Plotting bug in R (PR#300),19749,sret1@cam.ac.uk
+019760.html,modreg buggy: uninitialized variable in sinerp.f (PR#302),19760,thoffman@zappa.sax.de
+019730.html,free heap &lt; 0 (PR#295),19730,thomas@biostat.washington.edu
+019732.html,"source(,echo=T) doesn't echo comments (PR#296)",19732,thomas@biostat.washington.edu
+019741.html,"explicit weights=NULL fails in glm,lm (PR#297)",19741,thomas@biostat.washington.edu

@@ -1,0 +1,247 @@
+link,Subject,id,author
+061671.html,[Rd] example package for devel newcomers,61671,Alexandre Aguiar
+061519.html,[Rd] Creating package Vignette,61519,Nipesh Bajaj
+061544.html,[Rd] Fwd: Understanding R's &quot;Environment&quot; concept,61544,Nipesh Bajaj
+061562.html,[Rd] Performance of .C and .Call functions vs. native R code,61562,Douglas Bates
+061564.html,[Rd] Performance of .C and .Call functions vs. native R code,61564,Douglas Bates
+061520.html,[Rd] Performance of .C and .Call functions vs. native R code,61520,Gabriel Becker
+061616.html,[Rd] Best practices for writing R functions,61616,Gabriel Becker
+061637.html,[Rd] Best practices for writing R functions (really copying),61637,Henrik Bengtsson
+061668.html,[Rd] Front ends handling help.search() results?,61668,Henrik Bengtsson
+061620.html,[Rd] default par,61620,Berry Boessenkool
+061479.html,[Rd] apparent typo in heatmap docs: bump?,61479,Ben Bolker
+061523.html,[Rd] Creating package Vignette,61523,Ben Bolker
+061630.html,[Rd] plot.function documentation/export?,61630,Ben Bolker
+061635.html,[Rd] plot.function documentation/export?,61635,Ben Bolker
+061644.html,[Rd] plot.function documentation/export?,61644,Ben Bolker
+061584.html,[Rd] Randomness not due to seed,61584,Martyn Byng
+061438.html,[Rd] speeding up perception,61438,Timoth&#233;e Carayol
+061657.html,[Rd] R DDD fortran,61657,Daniel Cegie&#322;ka
+061430.html,[Rd] Ref Classes: bug with using '.self' within initialize	methods?,61430,John Chambers
+061606.html,"[Rd] Same class name, different package",61606,John Chambers
+061627.html,"[Rd] Same class name, different package",61627,John Chambers
+061638.html,"[Rd] Same class name, different package",61638,John Chambers
+061669.html,[Rd] Reference classes: assignments to fields,61669,John Chambers
+061461.html,[Rd] Syntactically valid names,61461,Davor Cubranic
+061464.html,[Rd] Syntactically valid names,61464,Davor Cubranic
+061545.html,[Rd] Fwd: Understanding R's &quot;Environment&quot; concept,61545,Davor Cubranic
+061649.html,[Rd] Best practices for writing R functions,61649,Davor Cubranic
+061425.html,[Rd] AS Algorithms,61425,Mohit Dayal
+061444.html,[Rd] [datatable-help]  speeding up perception,61444,Matthew Dowle
+061452.html,[Rd] [datatable-help]  speeding up perception,61452,Matthew Dowle
+061470.html,[Rd] [datatable-help]  speeding up perception,61470,Matthew Dowle
+061491.html,[Rd] Suggestions for R-devel / R-help digest format,61491,Matthew Dowle
+061504.html,[Rd] [datatable-help]  speeding up perception,61504,Matthew Dowle
+061501.html,[Rd] [datatable-help]  speeding up perception,61501,Matthew Dowle
+061505.html,[Rd] [datatable-help]  speeding up perception,61505,Matthew Dowle
+061556.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61556,Matthew Dowle
+061561.html,[Rd] Manipulating single-precision (float) arrays in	.Callfunctions,61561,Matthew Dowle
+061577.html,[Rd] Manipulating single-precision (float) arrays in	.Callfunctions,61577,Matthew Dowle
+061547.html,"[Rd] filter(x,	method=&quot;recursive&quot;) when there are NA's in x messes up",61547,William Dunlap
+061573.html,[Rd] Randomness not due to seed,61573,William Dunlap
+061515.html,[Rd] save.image compression_level argument,61515,Andreas Eckner
+061582.html,[Rd] Randomness not due to seed,61582,Dirk Eddelbuettel
+061595.html,[Rd] Randomness not due to seed,61595,Dirk Eddelbuettel
+061664.html,[Rd] R checks links broken,61664,Dirk Eddelbuettel
+061512.html,[Rd] Tiny typo in help.Rd,61512,Peter Ehlers
+061424.html,[Rd] Unexpected email address change - again...,61424,S Ellison
+061528.html,[Rd] Suggestions for R-devel / R-help digest format,61528,Robert M. Flight
+061586.html,[Rd] testing a Windows custom installer,61586,John Fox
+061594.html,[Rd] testing a Windows custom installer,61594,John Fox
+061663.html,[Rd] Front ends handling help.search() results?,61663,Thomas Friedrichsmeier
+061667.html,[Rd] Front ends handling help.search() results?,61667,Thomas Friedrichsmeier
+061587.html,[Rd] Randomness not due to seed,61587,Paul Gilbert
+061617.html,[Rd] Best practices for writing R functions,61617,Paul Gilbert
+061655.html,[Rd] R DDD fortran,61655,Paul Gilbert
+061442.html,[Rd] Circumventing code/documentation mismatches ('R CMD check'),61442,Johannes Graumann
+061496.html,[Rd] sort infelicity,61496,Spencer Graves
+061499.html,[Rd] sort infelicity,61499,Spencer Graves
+061614.html,[Rd] Best practices for writing R functions,61614,Spencer Graves
+061536.html,[Rd] NAMESPACE,61536,Gabor Grothendieck
+061538.html,[Rd] NAMESPACE,61538,Gabor Grothendieck
+061473.html,[Rd] Recent and upcoming changes to R-devel,61473,Kasper Daniel Hansen
+061476.html,[Rd] Recent and upcoming changes to R-devel,61476,Kasper Daniel Hansen
+061440.html,[Rd] speeding up perception,61440,Tim Hesterberg
+061516.html,[Rd] image adds lines,61516,Robert J. Hijmans
+061484.html,[Rd] Vignette pdfs missing from zip file after Rcmd build --binary	call,61484,Eli Holmes
+061492.html,[Rd] Vignette pdfs missing from zip file after Rcmd build --binary call,61492,Eli Holmes
+061524.html,[Rd] Creating package Vignette,61524,Melissa Jane Hubisz
+061609.html,[Rd] Problem with creating default NAMESPACE on FreeBSD,61609,Rainer Hurling
+061619.html,[Rd] Problem with creating default NAMESPACE on FreeBSD,61619,Rainer Hurling
+061633.html,[Rd] Randomness not due to seed,61633,Paul Johnson
+061636.html,[Rd] CRAN mirror size mushrooming; consider archiving some?,61636,Paul Johnson
+061578.html,[Rd] apply() returning a list?,61578,David A. Johnston
+061599.html,[Rd] apply() returning a list?,61599,David A. Johnston
+061593.html,[Rd] Compiling R-2.13.1 with MKL in windows 7 64bit,61593,WADA Kazuya
+061572.html,[Rd] Improved Nelder-Mead algorithm - a potential replacement for optim's Nelder-Mead,61572,Kellner
+061493.html,[Rd] invalid body argument for function,61493,Michael Lawrence
+061480.html,[Rd] Recent and upcoming changes to R-devel,61480,Steve Lianoglou
+061487.html,[Rd] Suggestions for R-devel / R-help digest format,61487,Steve Lianoglou
+061507.html,[Rd] [linux] connection never times out,61507,Uwe Ligges
+061529.html,[Rd] fuzzy c-means algorithm in e1071,61529,Uwe Ligges
+061535.html,[Rd] Confusing inheritance problem,61535,Uwe Ligges
+061540.html,[Rd] image adds lines,61540,Uwe Ligges
+061605.html,[Rd] requiring NAMESPACE re-installation marked as old.packages?,61605,Uwe Ligges
+061634.html,[Rd] plot.function documentation/export?,61634,Uwe Ligges
+061642.html,[Rd] CRAN mirror size mushrooming; consider archiving some?,61642,Uwe Ligges
+061643.html,[Rd] plot.function documentation/export?,61643,Uwe Ligges
+061555.html,[Rd] (no subject),61555,Martin Maechler
+061603.html,[Rd] short documentation suggestion for &quot;by&quot; --- reference simplify2array and ave,61603,Martin Maechler
+061604.html,[Rd] heatmap documentation typo,61604,Martin Maechler
+061628.html,"[Rd] Same class name, different package",61628,Martin Maechler
+061518.html,[Rd] Performance of .C and .Call functions vs. native R code,61518,Alireza Mahani
+061521.html,[Rd] Performance of .C and .Call functions vs. native R code,61521,Alireza Mahani
+061541.html,[Rd] Manipulating single-precision (float) arrays in .Call functions,61541,Alireza Mahani
+061549.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61549,Alireza Mahani
+061551.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61551,Alireza Mahani
+061563.html,[Rd] Measuring and comparing .C and .Call overhead,61563,Alireza Mahani
+061567.html,[Rd] Performance of .C and .Call functions vs. native R code,61567,Alireza Mahani
+061613.html,[Rd] Best practices for writing R functions,61613,Alireza Mahani
+061622.html,[Rd] Best practices for writing R functions,61622,Alireza Mahani
+061579.html,[Rd] Randomness not due to seed,61579,Mike Marchywka
+061436.html,[Rd] Recent and upcoming changes to R-devel,61436,Martin Morgan
+061554.html,[Rd] requiring NAMESPACE re-installation marked as old.packages?,61554,Martin Morgan
+061608.html,[Rd] reg.finalizer and connection gc -- which runs when (and why)?,61608,Martin Morgan
+061426.html,[Rd] AS Algorithms,61426,Duncan Murdoch
+061446.html,[Rd] Recent and upcoming changes to R-devel,61446,Duncan Murdoch
+061448.html,[Rd] Recent and upcoming changes to R-devel,61448,Duncan Murdoch
+061449.html,[Rd] Recent and upcoming changes to R-devel,61449,Duncan Murdoch
+061454.html,[Rd] Recent and upcoming changes to R-devel,61454,Duncan Murdoch
+061471.html,[Rd] Recent and upcoming changes to R-devel,61471,Duncan Murdoch
+061475.html,[Rd] Recent and upcoming changes to R-devel,61475,Duncan Murdoch
+061483.html,[Rd] Recent and upcoming changes to R-devel,61483,Duncan Murdoch
+061513.html,[Rd] Tiny typo in help.Rd,61513,Duncan Murdoch
+061537.html,[Rd] NAMESPACE,61537,Duncan Murdoch
+061543.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61543,Duncan Murdoch
+061560.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61560,Duncan Murdoch
+061580.html,[Rd] Randomness not due to seed,61580,Duncan Murdoch
+061583.html,[Rd] Randomness not due to seed,61583,Duncan Murdoch
+061585.html,[Rd] Randomness not due to seed,61585,Duncan Murdoch
+061589.html,[Rd] testing a Windows custom installer,61589,Duncan Murdoch
+061596.html,[Rd] Compiling R-2.13.1 with MKL in windows 7 64bit,61596,Duncan Murdoch
+061645.html,[Rd] R result objects as lists,61645,Duncan Murdoch
+061658.html,[Rd] R DDD fortran,61658,Duncan Murdoch
+061659.html,[Rd] Front ends handling help.search() results?,61659,Duncan Murdoch
+061666.html,[Rd] Front ends handling help.search() results?,61666,Duncan Murdoch
+061428.html,"[Rd] R-devel Digest, Vol 101, Issue 2",61428,John C Nash
+061631.html,[Rd] Best practices for writing R functions (really copying),61631,Radford Neal
+061508.html,[Rd] [linux] connection never times out,61508,Jeroen Ooms
+061581.html,[Rd] Randomness not due to seed,61581,Jeroen Ooms
+061624.html,[Rd] RApache error on RHEL/CentOS,61624,Jeroen Ooms
+061656.html,[Rd] [foreign] read.spss 'measure' attribute,61656,Jeroen Ooms
+061490.html,[Rd] Recent and upcoming changes to R-devel,61490,Herv&#233; Pag&#232;s
+061534.html,[Rd] R CMD check --force-multiarch does not install all the archs for testing,61534,Herv&#233; Pag&#232;s
+061568.html,[Rd] Confusing inheritance problem,61568,Herv&#233; Pag&#232;s
+061530.html,[Rd] NULL names for POSIXlt objects,61530,Roger D. Peng
+061488.html,[Rd] Suggestions for R-devel / R-help digest format,61488,Brian G. Peterson
+061588.html,[Rd] testing a Windows custom installer,61588,Brian G. Peterson
+061650.html,[Rd] Best practices for writing R functions,61650,Brian G. Peterson
+061600.html,[Rd] Saving data into a text or CSV file using foreach/doSNOW,61600,Krystian Radlak
+061626.html,[Rd] Saving data into a text or CSV file using foreach/doSNOW,61626,Krystian Radlak
+061607.html,[Rd] --max-vsize,61607,Christophe Rhodes
+061640.html,[Rd] --max-vsize,61640,Christophe Rhodes
+061654.html,[Rd] R CMD CHECK doens't run configure when testing install?	(Revised),61654,Alexander James Rickett
+061435.html,[Rd] Recent and upcoming changes to R-devel,61435,Prof Brian Ripley
+061437.html,[Rd] Recent and upcoming changes to R-devel,61437,Prof Brian Ripley
+061497.html,[Rd] sort infelicity,61497,Prof Brian Ripley
+061511.html,[Rd] save.image compression_level argument,61511,Prof Brian Ripley
+061522.html,[Rd] Creating package Vignette,61522,Prof Brian Ripley
+061525.html,[Rd] Creating package Vignette,61525,Prof Brian Ripley
+061539.html,[Rd] NAMESPACE,61539,Prof Brian Ripley
+061548.html,[Rd] [R] Problem compiling in extra/xdr,61548,Prof Brian Ripley
+061552.html,[Rd] [R] Problem compiling in extra/xdr,61552,Prof Brian Ripley
+061553.html,[Rd] Manipulating single-precision (float) arrays in .Call functions,61553,Prof Brian Ripley
+061557.html,[Rd] Welcome Uwe Ligges to R-core,61557,Prof Brian Ripley
+061576.html,[Rd] [R] Problem compiling in extra/xdr,61576,Prof Brian Ripley
+061598.html,[Rd] Compiling R-2.13.1 with MKL in windows 7 64bit,61598,Prof Brian Ripley
+061601.html,[Rd] apply() returning a list?,61601,Prof Brian Ripley
+061602.html,[Rd] [R] Problem compiling in extra/xdr,61602,Prof Brian Ripley
+061610.html,[Rd] Problem with creating default NAMESPACE on FreeBSD,61610,Prof Brian Ripley
+061611.html,[Rd] Problem with creating default NAMESPACE on FreeBSD,61611,Prof Brian Ripley
+061623.html,[Rd] Start-up messages when Importing from a package,61623,Prof Brian Ripley
+061639.html,[Rd] --max-vsize,61639,Prof Brian Ripley
+061653.html,[Rd] R CMD CHECK doens't run configure when testing install?,61653,Prof Brian Ripley
+061661.html,[Rd] package encoding warning,61661,Prof Brian Ripley
+061592.html,[Rd] The C function getQ0 returns a non-positive covariance matrix	and	causes errors in arima(),61592,Raphael Rossignol
+061517.html,[Rd] Performance of .C and .Call functions vs. native R code,61517,Jeff Ryan
+061648.html,[Rd] CRAN mirror size mushrooming; consider archiving some?,61648,Jeffrey Ryan
+061486.html,[Rd] Suggestions for R-devel / R-help digest format,61486,Saravanan
+061489.html,[Rd] Suggestions for R-devel / R-help digest format,61489,Saravanan
+061533.html,[Rd] Suggestions for R-devel / R-help digest format,61533,Saravanan
+061558.html,[Rd] Welcome Uwe Ligges to R-core,61558,Marc Schwartz
+061632.html,[Rd] Best practices for writing R functions (really copying),61632,Matt Shotwell
+061532.html,[Rd] Suggestions for R-devel / R-help digest format,61532,David Smith
+061527.html,[Rd] fuzzy c-means algorithm in e1071,61527,Tim Smyth
+061546.html,[Rd] Fwd: Understanding R's &quot;Environment&quot; concept,61546,Greg Snow
+061646.html,[Rd] default par,61646,Greg Snow
+061432.html,[Rd] speeding up perception,61432,Robert Stojnic
+061531.html,[Rd] Confusing inheritance problem,61531,Terry Therneau
+061542.html,[Rd] Confusing inheritance problem,61542,Terry Therneau
+061569.html,[Rd] Confusing inheritance problem,61569,"Therneau, Terry M., Ph.D."
+061641.html,[Rd] R result objects as lists,61641,Thorsten
+061651.html,[Rd] R result objects as lists,61651,Thorsten
+061570.html,[Rd] hanging spaces prior to linebreak from cat(),61570,"Tim Triche, Jr."
+061431.html,[Rd] speeding up perception,61431,Simon Urbanek
+061433.html,[Rd] speeding up perception,61433,Simon Urbanek
+061439.html,[Rd] speeding up perception,61439,Simon Urbanek
+061453.html,[Rd] Recent and upcoming changes to R-devel,61453,Simon Urbanek
+061455.html,[Rd] [datatable-help]  speeding up perception,61455,Simon Urbanek
+061466.html,[Rd] [datatable-help]  speeding up perception,61466,Simon Urbanek
+061474.html,[Rd] [datatable-help]  speeding up perception,61474,Simon Urbanek
+061478.html,[Rd] Recent and upcoming changes to R-devel,61478,Simon Urbanek
+061485.html,[Rd] Vignette pdfs missing from zip file after Rcmd build	--binary call,61485,Simon Urbanek
+061500.html,[Rd] [datatable-help]  speeding up perception,61500,Simon Urbanek
+061506.html,[Rd] [datatable-help]  speeding up perception,61506,Simon Urbanek
+061509.html,[Rd] [linux] connection never times out,61509,Simon Urbanek
+061510.html,[Rd] [linux] connection never times out,61510,Simon Urbanek
+061550.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61550,Simon Urbanek
+061559.html,[Rd] Manipulating single-precision (float) arrays in .Call	functions,61559,Simon Urbanek
+061565.html,[Rd] Tesla GPUs [Was: Manipulating single-precision (float) arrays	in .Call functions],61565,Simon Urbanek
+061566.html,[Rd] Measuring and comparing .C and .Call overhead,61566,Simon Urbanek
+061575.html,[Rd] hanging spaces prior to linebreak from cat(),61575,Simon Urbanek
+061597.html,[Rd] Compiling R-2.13.1 with MKL in windows 7 64bit,61597,Simon Urbanek
+061615.html,[Rd] Best practices for writing R functions,61615,Simon Urbanek
+061625.html,[Rd] RApache error on RHEL/CentOS,61625,Simon Urbanek
+061574.html,[Rd] Improved Nelder-Mead algorithm - a potential replacement for optim's Nelder-Mead,61574,Ravi Varadhan
+061445.html,[Rd] Recent and upcoming changes to R-devel,61445,Tobias Verbeke
+061447.html,[Rd] Recent and upcoming changes to R-devel,61447,Tobias Verbeke
+061451.html,[Rd] Recent and upcoming changes to R-devel,61451,Tobias Verbeke
+061450.html,[Rd] Recent and upcoming changes to R-devel,61450,Stephan Wahlbrink
+061468.html,[Rd] Recent and upcoming changes to R-devel,61468,Stephan Wahlbrink
+061456.html,[Rd] Syntactically valid names,61456,Hadley Wickham
+061459.html,[Rd] Syntactically valid names,61459,Hadley Wickham
+061462.html,[Rd] Syntactically valid names,61462,Hadley Wickham
+061467.html,[Rd] Syntactically valid names,61467,Hadley Wickham
+061472.html,[Rd] Syntactically valid names,61472,Hadley Wickham
+061618.html,[Rd] Best practices for writing R functions,61618,Hadley Wickham
+061647.html,[Rd] CRAN mirror size mushrooming; consider archiving some?,61647,Hadley Wickham
+061465.html,[Rd] [datatable-help]  speeding up perception,61465,David Winsemius
+061590.html,[Rd] apply() returning a list?,61590,David Winsemius
+061665.html,[Rd] R checks links broken,61665,David Winsemius
+061621.html,[Rd] Start-up messages when Importing from a package,61621,Mauricio Zambrano-Bigiarini
+061629.html,[Rd] Start-up messages when Importing from a package,61629,Mauricio Zambrano-Bigiarini
+061514.html,[Rd] Performance of .C and .Call functions vs. native R code,61514,asmahani
+061660.html,[Rd] package encoding warning,61660,baptiste auguie
+061662.html,[Rd] package encoding warning,61662,baptiste auguie
+061441.html,[Rd] Recent and upcoming changes to R-devel,61441,Mark.Bravington at csiro.au
+061481.html,[Rd] Recent and upcoming changes to R-devel,61481,Mark.Bravington at csiro.au
+061482.html,[Rd] Developing with Namespaces (was: Recent and upcoming changes to R-devel),61482,Mark.Bravington at csiro.au
+061427.html,[Rd] AS Algorithms,61427,peter dalgaard
+061443.html,[Rd] Circumventing code/documentation mismatches ('R CMD check'),61443,peter dalgaard
+061463.html,[Rd] Syntactically valid names,61463,peter dalgaard
+061469.html,[Rd] Syntactically valid names,61469,peter dalgaard
+061494.html,[Rd] invalid body argument for function,61494,peter dalgaard
+061498.html,[Rd] sort infelicity,61498,peter dalgaard
+061591.html,[Rd] Randomness not due to seed,61591,peter dalgaard
+061503.html,[Rd] save.image compression_level argument,61503,andreas at eckner.com
+061502.html,[Rd] [linux] connection never times out,61502,jeroen00ms
+061571.html,[Rd] Randomness not due to seed,61571,jeroen00ms
+061460.html,[Rd] Syntactically valid names,61460,steven mosher
+061526.html,[Rd] Creating package Vignette,61526,steven mosher
+061457.html,[Rd] [datatable-help]  speeding up perception,61457,luke-tierney at uiowa.edu
+061458.html,[Rd] [datatable-help]  speeding up perception,61458,luke-tierney at uiowa.edu
+061477.html,[Rd] [datatable-help]  speeding up perception,61477,luke-tierney at uiowa.edu
+061612.html,[Rd] reg.finalizer and connection gc -- which runs when (and why)?,61612,luke-tierney at uiowa.edu
+061429.html,[Rd] speeding up perception,61429,ivo welch
+061434.html,[Rd] speeding up perception,61434,ivo welch
+061495.html,[Rd] short documentation suggestion for &quot;by&quot; --- reference simplify2array and ave,61495,ivo welch

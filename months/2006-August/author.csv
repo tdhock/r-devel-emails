@@ -1,0 +1,446 @@
+link,Subject,id,author
+038967.html,[Rd] S3 fonctions for object of S4 class,38967,Franck Arnaud
+042388.html,[Rd] Speed of runif() on different Operating Systems,42388,Martin Becker
+042435.html,[Rd] Speed of runif() on different Operating Systems,42435,Martin Becker
+042440.html,[Rd] Speed of runif() on different Operating Systems,42440,Martin Becker
+042442.html,[Rd] Speed of runif() on different Operating Systems,42442,Martin Becker
+038846.html,[Rd] In memory caching algorithm,38846,Henrik Bengtsson
+038858.html,[Rd] Data frames and row names,38858,Henrik Bengtsson
+038861.html,[Rd] Data frames and row names,38861,Henrik Bengtsson
+038906.html,[Rd] sort changes datatype of operand,38906,Henrik Bengtsson
+038925.html,"[Rd] Suggestion: seek(..., rw=&quot;last&quot;) instead of seek(..., rw=&quot;&quot;)",38925,Henrik Bengtsson
+042459.html,[Rd] S4 Methods dispatch,42459,Henrik Bengtsson
+042464.html,[Rd] S4 Methods dispatch,42464,Henrik Bengtsson
+042476.html,[Rd] Wish: keep names in mapply() result,42476,Charles C. Berry
+042384.html,[Rd] S4 classes and objects -- fixed structure? No...,42384,J &#246; rg Beyer
+042389.html,[Rd] S4 classes and objects -- fixed structure? No...,42389,J &#246; rg Beyer
+038702.html,[Rd] Artefacts in (screen viewed) PDF output,38702,Roger Bivand
+038728.html,[Rd] Artefacts in (screen viewed) PDF output,38728,Roger Bivand
+042441.html,[Rd] Inaccuracy in seq() (PR#9189),42441,Roger Bivand
+042492.html,[Rd] S4 changes - sp fails,42492,Roger Bivand
+038902.html,[Rd] sort changes datatype of operand (PR#9121),38902,"Brahm, David"
+038962.html,[Rd] Strict seq: a recommendation,38962,"Brahm, David"
+038774.html,[Rd] proposal for lower.tri and upper.tri value argument,38774,Patrick Burns
+038782.html,[Rd] proposal for lower.tri and upper.tri value argument,38782,Patrick Burns
+038811.html,[Rd] S4 object type (Was: S4 object type available for testing),38811,John Chambers
+038930.html,[Rd] S4 'object is not subsettable' in prototype,38930,John Chambers
+038939.html,[Rd] S4 'object is not subsettable' in prototype,38939,John Chambers
+038959.html,[Rd] [R] Successive subsets from a vector?,38959,John Chambers
+039003.html,[Rd] &quot;+&quot; for character method...,39003,John Chambers
+042448.html,[Rd] S4 Methods dispatch,42448,John Chambers
+042460.html,[Rd] S4 Methods dispatch,42460,John Chambers
+042463.html,[Rd] S4 Methods dispatch,42463,John Chambers
+038699.html,[Rd] R | vnc | X11 fonts,38699,Evan Cooch
+038701.html,[Rd] compiling R | multi-Opteron | BLAS source,38701,Evan Cooch
+038749.html,[Rd] Check for interrupts,38749,Gabor Csardi
+038864.html,[Rd] how to include a windows dll in a package,38864,Gabor Csardi
+038866.html,[Rd] how to include a windows dll in a package,38866,Gabor Csardi
+038868.html,[Rd] how to include a windows dll in a package,38868,Gabor Csardi
+038891.html,[Rd] how to include a windows dll in a package,38891,Gabor Csardi
+038813.html,[Rd] solving nonlinear equations,38813,HAKAN DEMIRTAS
+038833.html,[Rd] uniroot arguments (PR#9140),38833,Peter Dalgaard
+038944.html,[Rd] Set Repositories problem in R2.4.0,38944,Peter Dalgaard
+038823.html,[Rd] sort() generic? [Re: Suspicious behaviour of sort on	POSIXct ..],38823,"Dannenberg, Alex"
+038723.html,[Rd] building windows packages under	wine/linux	and	cross-compiling.,38723,Sean Davis
+038698.html,[Rd] Install R-patched_2006-07-13 on i386-pc-solaris2.10 with	Sun Studio 11,38698,Latchezar Dimitrov
+039007.html,[Rd] &quot;+&quot; for character method...,39007,Latchezar Dimitrov
+039014.html,[Rd] &quot;+&quot; for character method...,39014,Latchezar Dimitrov
+039016.html,[Rd] &quot;+&quot; for character method...,39016,Latchezar Dimitrov
+038964.html,[Rd] Strict seq: a recommendation,38964,Bill Dunlap
+039001.html,[Rd] &quot;+&quot; for character method...,39001,Bill Dunlap
+038785.html,[Rd] Customized Makefiles (C++ and R),38785,Dirk Eddelbuettel
+038872.html,[Rd] Using TCP/IP sockets in R,38872,Dirk Eddelbuettel
+042447.html,[Rd]  &quot;Enhances&quot;  (Was: 'CanMakeUseOf' field),42447,Dirk Eddelbuettel
+039019.html,[Rd] power analysis for sample size calculations,39019,Marjo en Edwin
+038693.html,[Rd] Structure of the object: list() and attr(),38693,Seth Falcon
+038724.html,[Rd] C Entry Points,38724,Seth Falcon
+038761.html,[Rd] building windows packages under wine/linux	and	cross-compiling.,38761,Seth Falcon
+038799.html,[Rd] StringFromInteger made private in r38652,38799,Seth Falcon
+038802.html,[Rd] [R] C Entry Points,38802,Seth Falcon
+038812.html,[Rd] StringFromInteger made private in r38652,38812,Seth Falcon
+038821.html,[Rd] unique.default() drops names (PR#9130),38821,Seth Falcon
+038847.html,[Rd] bypassing SET_DIM checking,38847,Seth Falcon
+038919.html,[Rd] Pb with contrib.url() (PR#9131),38919,Seth Falcon
+038920.html,[Rd] S4 'object is not subsettable' in prototype,38920,Seth Falcon
+038927.html,[Rd] How to let 'R CMD check' see local libraries,38927,Seth Falcon
+038936.html,[Rd] S4 'object is not subsettable' in prototype,38936,Seth Falcon
+042397.html,[Rd] PATCH: Add fields argument to installed.packages and	available.packages,42397,Seth Falcon
+042409.html,[Rd] PATCH: Add fields argument to installed.packages and	available.packages,42409,Seth Falcon
+042416.html,[Rd] 'CanMakeUseOf' field,42416,Seth Falcon
+042420.html,[Rd] 'CanMakeUseOf' field,42420,Seth Falcon
+042449.html,[Rd] 'CanMakeUseOf' field,42449,Seth Falcon
+042452.html,[Rd] &quot;Enhances&quot;,42452,Seth Falcon
+042454.html,[Rd] Duplicated definition of helper in available.packages,42454,Seth Falcon
+042462.html,[Rd] S4 Methods dispatch,42462,Seth Falcon
+042467.html,[Rd] S4 Methods dispatch,42467,Seth Falcon
+042486.html,[Rd] 'CanMakeUseOf' field,42486,Seth Falcon
+038767.html,[Rd] How to prepare/submit packages with external dependency?,38767,Andrew Finley
+038770.html,[Rd] How to prepare/submit packages with external dependency?,38770,Andrew Finley
+038914.html,[Rd] not a typo in list.Rd,38914,Romain Francois
+038968.html,[Rd] S3 fonctions for object of S4 class,38968,Parlamis Franklin
+038995.html,[Rd] S4 methods for &quot;+&quot;,38995,Parlamis Franklin
+038848.html,[Rd] configure on mac,38848,Robert Gentleman
+038938.html,[Rd] S4 'object is not subsettable' in prototype,38938,Robert Gentleman
+042396.html,[Rd] [R] Bug/problem reporting: Possible to modify posting guide FAQ?,42396,Robert Gentleman
+038824.html,[Rd] S4 Classes,38824,Daniel Gerlanc
+042406.html,[Rd] PATCH: Add fields argument to	installed.packages	and	available.packages,42406,Paul Gilbert
+042418.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42418,Paul Gilbert
+042421.html,[Rd] 'CanMakeUseOf' field,42421,Paul Gilbert
+042424.html,[Rd] 'CanMakeUseOf' field,42424,Paul Gilbert
+042457.html,[Rd] 'CanMakeUseOf' field,42457,Paul Gilbert
+042466.html,[Rd] 'CanMakeUseOf' field,42466,Paul Gilbert
+038816.html,[Rd] unique.default() drops names (PR#9130),38816,Gregor Gorjanc
+038825.html,[Rd] unique.default() drops names (PR#9130),38825,Gregor Gorjanc
+038886.html,[Rd] Error in options(...) : invalid continue parameter,38886,Gregor Gorjanc
+038904.html,[Rd] Small typo in list.Rd,38904,Gregor Gorjanc
+038909.html,[Rd] Small typo in list.Rd,38909,Gregor Gorjanc
+038934.html,[Rd] Wishlist: add mapply to lapply,38934,Gregor Gorjanc
+038935.html,[Rd] Byte size in human readable format,38935,Gregor Gorjanc
+038950.html,[Rd] Small &quot;typo&quot; in R/src/library/grDevices/man/postscript.Rd,38950,Gregor Gorjanc
+042473.html,[Rd] make test-Specific?,42473,Gregor Gorjanc
+042475.html,[Rd] Wish: keep names in mapply() result,42475,Gregor Gorjanc
+042491.html,[Rd] Wish: keep names in mapply() result,42491,Gregor Gorjanc
+038746.html,[Rd] building windows packages under wine/linux and	cross-compiling.,38746,Vincent Goulet
+038820.html,[Rd] solving nonlinear equations,38820,Spencer Graves
+038692.html,[Rd] Structure of the object: list() and attr(),38692,Gorjanc Gregor
+038789.html,[Rd] Documentation for S3 generics,38789,Gorjanc Gregor
+038791.html,[Rd] Documentation for S3 generics,38791,Gorjanc Gregor
+038795.html,[Rd] Documentation for S3 generics,38795,Gorjanc Gregor
+038797.html,[Rd] Typo in R-exts.texi and suggestion for tests,38797,Gorjanc Gregor
+038884.html,[Rd] Using TCP/IP sockets in R,38884,Philippe Grosjean
+038695.html,[Rd] Structure of the object: list() and attr(),38695,Gabor Grothendieck
+038742.html,[Rd] seq improperly increments dates (PR#9120),38742,Gabor Grothendieck
+038743.html,[Rd] Rigroup external package ready to go but no incoming at	ftp site,38743,Gabor Grothendieck
+038745.html,[Rd] Rigroup external package ready to go but no incoming at	ftp site,38745,Gabor Grothendieck
+038750.html,[Rd] seq improperly increments dates (PR#9120),38750,Gabor Grothendieck
+038757.html,[Rd] how to test packages under platforms we don't have?,38757,Gabor Grothendieck
+038781.html,[Rd] proposal for lower.tri and upper.tri value argument,38781,Gabor Grothendieck
+038786.html,[Rd] Can't make sort generic in quantile (S3),38786,Gabor Grothendieck
+038792.html,[Rd] Documentation for S3 generics,38792,Gabor Grothendieck
+038800.html,[Rd] Documentation for S3 generics,38800,Gabor Grothendieck
+038818.html,[Rd] wishlist: attribute &quot;na.omit&quot; added to data.frame from	model.frame.default (PR#9134),38818,Gabor Grothendieck
+038822.html,[Rd] BOD causes error in 2.4.0,38822,Gabor Grothendieck
+038913.html,[Rd] not a typo in list.Rd,38913,Gabor Grothendieck
+038941.html,[Rd] R svn log problem,38941,Gabor Grothendieck
+038958.html,[Rd] Strict seq: a recommendation,38958,Gabor Grothendieck
+038963.html,[Rd] [R] Successive subsets from a vector?,38963,Gabor Grothendieck
+038971.html,[Rd] reshape scaling with large numbers of times/rows,38971,Gabor Grothendieck
+038977.html,[Rd] reshape scaling with large numbers of times/rows,38977,Gabor Grothendieck
+038980.html,[Rd] reshape scaling with large numbers of times/rows,38980,Gabor Grothendieck
+039004.html,[Rd] &quot;+&quot; for character method...,39004,Gabor Grothendieck
+039006.html,[Rd] &quot;+&quot; for character method...,39006,Gabor Grothendieck
+042385.html,[Rd] S4 classes and objects -- fixed structure? No...,42385,Gabor Grothendieck
+042391.html,[Rd] [Bioc-devel] Sweave windows style path (was Re: texmf	error on 7 packages on devel winXP build nodes),42391,Gabor Grothendieck
+042393.html,[Rd] Affiliation Reporting Standards. was: Re: reshape scaling	with large numbers of times/rows,42393,Gabor Grothendieck
+042405.html,[Rd] vector S4 classes,42405,Gabor Grothendieck
+042412.html,[Rd] PATCH: Add fields argument to installed.packages and	available.packages,42412,Gabor Grothendieck
+042413.html,[Rd] Capturing warnings with capture.output,42413,Gabor Grothendieck
+042470.html,[Rd] Suggestion for read.table(),42470,Gabor Grothendieck
+039010.html,[Rd] r2dtable,39010,Kjetil Halvorsen
+038760.html,[Rd] seq improperly increments dates (PR#9120),38760,Kjetil Brinchmann Halvorsen
+038814.html,[Rd] solving nonlinear equations,38814,Kjetil Brinchmann Halvorsen
+038850.html,[Rd] buglet in hjelp(&quot;[&lt;-&quot;),38850,Kjetil Brinchmann Halvorsen
+038898.html,[Rd] rownames() problem with 0-extent arrays (PR#9136),38898,Kjetil Brinchmann Halvorsen
+038899.html,[Rd] buglet in hjelp(&quot;[&lt;-&quot;),38899,Kjetil Brinchmann Halvorsen
+038707.html,[Rd] data() statement in functions,38707,Robin Hankin
+038949.html,[Rd] [R] big numbers,38949,Robin Hankin
+038987.html,[Rd] S4 methods for &quot;+&quot;,38987,Robin Hankin
+042400.html,[Rd] S4 methods for &quot;+&quot;,42400,Robin Hankin
+042402.html,[Rd] vector S4 classes,42402,Robin Hankin
+042404.html,[Rd] vector S4 classes,42404,Robin Hankin
+042451.html,[Rd] setMethod() and log(),42451,Robin Hankin
+038727.html,[Rd] C++ in an R package,38727,Kasper Daniel Hansen
+038929.html,[Rd] How to let 'R CMD check' see local libraries,38929,Kasper Daniel Hansen
+042398.html,[Rd] writeChar,42398,Kasper Daniel Hansen
+038696.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for so,38696,Kevin B. Hendricks
+038704.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations	specifically for so,38704,Kevin B. Hendricks
+038740.html,[Rd] Rigroup external package ready to go but no incoming at ftp	site,38740,Kevin B. Hendricks
+038741.html,[Rd] Rigroup external package ready to go but no incoming at	ftp site,38741,Kevin B. Hendricks
+038744.html,[Rd] Rigroup external package ready to go but no incoming at	ftp site,38744,Kevin B. Hendricks
+038753.html,[Rd] Rigroup external package ready to go but no incoming at	ftp site,38753,Kevin B. Hendricks
+038755.html,[Rd] how to test packages under platforms we don't have?,38755,Kevin B. Hendricks
+038910.html,[Rd] Small typo in list.Rd,38910,Kevin B. Hendricks
+038892.html,[Rd] Using TCP/IP sockets in R,38892,Jeffrey Horner
+038994.html,[Rd] Command line length limits in R,38994,Jeffrey Horner
+042489.html,[Rd] stop R mainloop without calling exit(1),42489,Jeffrey Horner
+042433.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42433,Kurt Hornik
+042434.html,[Rd] 'CanMakeUseOf' field,42434,Kurt Hornik
+042472.html,[Rd] Suggestion for read.table(),42472,Wolfgang Huber
+038912.html,[Rd] How to use R and add-on packages as library in C/C++,38912,Pai-Hsien Hung
+038931.html,[Rd] How to use R and add-on packages as library in C/C++,38931,Pai-Hsien Hung
+042392.html,[Rd] Affiliation Reporting Standards. was: Re: reshape scaling with	large numbers of times/rows,42392,David Kane
+042481.html,[Rd] stop R mainloop without calling exit(1),42481,Thomas Kelder
+042487.html,[Rd] stop R mainloop without calling exit(1),42487,Thomas Kelder
+038689.html,[Rd] Choropleths maps of the USA states (PR#9111),38689,Chris Lawrence
+042383.html,[Rd] [Bioc-devel] Sweave windows style path (was Re: texmf error on 7 packages on devel winXP build nodes),42383,Friedrich Leisch
+038691.html,[Rd] building windows packages under wine/linux and	cross-compiling.,38691,Hin-Tak Leung
+038697.html,[Rd] R | vnc | X11 fonts,38697,Hin-Tak Leung
+038711.html,[Rd] building windows packages under wine/linux and	cross-compiling.,38711,Hin-Tak Leung
+038716.html,[Rd] building windows packages under wine/linux and	cross-compiling.,38716,Hin-Tak Leung
+038721.html,[Rd] building windows packages under wine/linux	and	cross-compiling.,38721,Hin-Tak Leung
+038852.html,[Rd] bypassing SET_DIM checking,38852,Hin-Tak Leung
+038908.html,[Rd] Small typo in list.Rd,38908,Hin-Tak Leung
+038953.html,[Rd] [R] big numbers,38953,Hin-Tak Leung
+038966.html,[Rd] UPDATE: Fwd: Memory...,38966,Hin-Tak Leung
+038982.html,[Rd] Huge matrices in .Call,38982,Hin-Tak Leung
+038984.html,[Rd] OT: authorship and contacts for releasing packages (Re: reshape scaling with large numbers of times/rows),38984,Hin-Tak Leung
+038996.html,[Rd] OT: authorship and contacts for releasing packages (Re: reshape scaling with large numbers of times/rows),38996,Hin-Tak Leung
+038839.html,[Rd] Small problem building a package containing .f90 source on	Windows,38839,Jeffrey Lewis
+042484.html,[Rd] Interface for package supplied random number generator,42484,Josef Leydold
+038720.html,[Rd] building windows packages under wine/linux	and	cross-compiling.,38720,Uwe Ligges
+038738.html,[Rd] Request to Windows NT4 users,38738,Uwe Ligges
+038758.html,[Rd] how to test packages under platforms we don't have?,38758,Uwe Ligges
+038778.html,[Rd] dev.copy(),38778,Uwe Ligges
+038805.html,[Rd] Customized Makefiles (C++ and R),38805,Uwe Ligges
+038867.html,[Rd] how to include a windows dll in a package,38867,Uwe Ligges
+038879.html,[Rd] List 'sssitalk' closed to public posts,38879,NIU Sociology Listserver
+038714.html,[Rd] C Entry Points,38714,Thomas Lumley
+038718.html,[Rd] R-2.3.1 on AIX 5.3 installation.,38718,Thomas Lumley
+038756.html,[Rd] how to test packages under platforms we don't have?,38756,Thomas Lumley
+038948.html,[Rd] [R] Successive subsets from a vector?,38948,Thomas Lumley
+038955.html,[Rd] Strict seq: a recommendation,38955,Thomas Lumley
+038983.html,[Rd] Huge matrices in .Call,38983,Thomas Lumley
+039012.html,[Rd] &quot;+&quot; for character method...,39012,Thomas Lumley
+038926.html,[Rd] How to let 'R CMD check' see local libraries,38926,Sebastian P. Luque
+038928.html,[Rd] How to let 'R CMD check' see local libraries,38928,Sebastian P. Luque
+038748.html,[Rd] seq improperly increments dates (PR#9120),38748,Martin Maechler
+038754.html,[Rd] Patch to allow negative argument in head() and tail(),38754,Martin Maechler
+038790.html,[Rd] Documentation for S3 generics,38790,Martin Maechler
+038830.html,[Rd] BOD causes error in 2.4.0,38830,Martin Maechler
+038911.html,[Rd] not a typo in list.Rd,38911,Martin Maechler
+038916.html,[Rd] S4 'object is not subsettable' in prototype,38916,Martin Maechler
+038921.html,[Rd] S4 'object is not subsettable' in prototype,38921,Martin Maechler
+038933.html,[Rd] S4 'object is not subsettable' in prototype,38933,Martin Maechler
+038973.html,[Rd] reshape scaling with large numbers of times/rows,38973,Martin Maechler
+038989.html,[Rd] S4 methods for &quot;+&quot;,38989,Martin Maechler
+038991.html,[Rd] &quot;+&quot; for character method...,38991,Martin Maechler
+038998.html,[Rd] &quot;+&quot; for character method...,38998,Martin Maechler
+042401.html,[Rd] PATCH: Add fields argument to installed.packages and	available.packages,42401,Martin Maechler
+042403.html,[Rd] vector S4 classes,42403,Martin Maechler
+042407.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42407,Martin Maechler
+042432.html,[Rd] 'CanMakeUseOf' field,42432,Martin Maechler
+042477.html,[Rd] 'CanMakeUseOf' field,42477,Martin Maechler
+038717.html,[Rd] R-2.3.1 on AIX 5.3 installation.,38717,kamil Marcinkowski
+038737.html,[Rd] seq improperly increments dates (PR#9120),38737,"McGehee, Robert"
+038922.html,[Rd] 32- / 64-bit R query,38922,"McGehee, Robert"
+042411.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42411,"McGehee, Robert"
+042395.html,[Rd] Bug/problem reporting: Possible to modify posting guide FAQ?,42395,Steven McKinney
+038725.html,[Rd] C++ in an R package,38725,Selwyn-Lloyd McPherson
+038726.html,[Rd] C++ in an R package,38726,Selwyn-Lloyd McPherson
+038783.html,[Rd] Customized Makefiles (C++ and R),38783,Selwyn-Lloyd McPherson
+038794.html,[Rd] Customized Makefiles (C++ and R),38794,Selwyn-Lloyd McPherson
+042390.html,[Rd] Adding OPeNDAP to the ncdf package on windows,42390,Roy Mendelssohn
+038828.html,[Rd] S4 Classes,38828,Martin Morgan
+038896.html,[Rd] S4 creation where= problems,38896,Martin Morgan
+038903.html,[Rd] S4 'object is not subsettable' in prototype,38903,Martin Morgan
+039009.html,[Rd] [Bioc-devel] Sweave windows style path (was Re: texmf error on 7 packages on devel winXP build nodes),39009,Martin Morgan
+042455.html,[Rd] setMethod() and log(),42455,Martin Morgan
+038687.html,[Rd] Bug in title() crashes R (PR#9115),38687,Duncan Murdoch
+038688.html,[Rd] Bug in title() crashes R (PR#9115),38688,Duncan Murdoch
+038713.html,[Rd] allocating character string of given size for .C,38713,Duncan Murdoch
+038722.html,[Rd] building windows packages under wine/linux	and	cross-compiling.,38722,Duncan Murdoch
+038730.html,[Rd] Request to Windows NT4 users,38730,Duncan Murdoch
+038733.html,[Rd] seq improperly increments dates (PR#9120),38733,Duncan Murdoch
+038734.html,[Rd] sort changes datatype of operand (PR#9121),38734,Duncan Murdoch
+038751.html,[Rd] seq improperly increments dates (PR#9120),38751,Duncan Murdoch
+038752.html,[Rd] [R] Problem with installing R under Windows,38752,Duncan Murdoch
+038838.html,[Rd] MiKTeX 2.5,38838,Duncan Murdoch
+038993.html,[Rd] &quot;+&quot; for character method...,38993,Duncan Murdoch
+039000.html,[Rd] &quot;+&quot; for character method...,39000,Duncan Murdoch
+039002.html,[Rd] &quot;+&quot; for character method...,39002,Duncan Murdoch
+039005.html,[Rd] &quot;+&quot; for character method...,39005,Duncan Murdoch
+039013.html,[Rd] &quot;+&quot; for character method...,39013,Duncan Murdoch
+039017.html,[Rd] &quot;+&quot; for character method...,39017,Duncan Murdoch
+042415.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42415,Duncan Murdoch
+042417.html,[Rd] 'CanMakeUseOf' field,42417,Duncan Murdoch
+042419.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42419,Duncan Murdoch
+042422.html,[Rd] 'CanMakeUseOf' field,42422,Duncan Murdoch
+042425.html,[Rd] 'CanMakeUseOf' field,42425,Duncan Murdoch
+042437.html,[Rd] 'CanMakeUseOf' field,42437,Duncan Murdoch
+042438.html,[Rd] Speed of runif() on different Operating Systems,42438,Duncan Murdoch
+042445.html,[Rd] Speed of runif() on different Operating Systems,42445,Duncan Murdoch
+042450.html,[Rd] 'CanMakeUseOf' field,42450,Duncan Murdoch
+042458.html,[Rd] 'CanMakeUseOf' field,42458,Duncan Murdoch
+042465.html,[Rd] S4 Methods dispatch,42465,Duncan Murdoch
+042469.html,[Rd] 'CanMakeUseOf' field,42469,Duncan Murdoch
+042478.html,[Rd] 'CanMakeUseOf' field,42478,Duncan Murdoch
+038703.html,[Rd] Artefacts in (screen viewed) PDF output,38703,Paul Murrell
+038773.html,[Rd] fonts in postscript device,38773,Erich Neuwirth
+038878.html,[Rd] Date and time problems,38878,Erich Neuwirth
+042480.html,[Rd] R-Project logo in SVG format,42480,Lars D. Nood&#233;n
+038836.html,[Rd] download.packages() ignores too recent packages,38836,Herve Pages
+038709.html,[Rd] allocating character string of given size for .C,38709,Tamas K Papp
+042387.html,[Rd] S4 classes and objects -- fixed structure? No...,42387,Roger D. Peng
+042408.html,[Rd] 'CanMakeUseOf' field  [was &quot;.. Add 'fields' argument ..],42408,"Pfaff, Bernhard Dr."
+038961.html,[Rd] Strict seq: a recommendation,38961,Tony Plate
+038735.html,[Rd] seq improperly increments dates (PR#9120),38735,"Ponzio, Stephen [CIB-LAVA]"
+038736.html,[Rd] sort changes datatype of operand (PR#9121),38736,"Ponzio, Stephen [CIB-LAVA]"
+038712.html,[Rd] C Entry Points,38712,Qsabound
+038715.html,[Rd] C Entry Points,38715,Qsabound
+038893.html,[Rd] rownames() problem with 0-extent arrays (PR#9136),38893,"Raubertas, Richard"
+038700.html,[Rd] compiling R | multi-Opteron | BLAS source,38700,Prof Brian Ripley
+038706.html,[Rd] AIX linking,38706,Prof Brian Ripley
+038708.html,[Rd] data() statement in functions,38708,Prof Brian Ripley
+038710.html,[Rd] allocating character string of given size for .C,38710,Prof Brian Ripley
+038739.html,[Rd] R-2.3.1 on AIX 5.3 installation.,38739,Prof Brian Ripley
+038772.html,[Rd] How to prepare/submit packages with external dependency?,38772,Prof Brian Ripley
+038777.html,"[Rd] residuals.glm for glm(..., y = FALSE)",38777,Prof Brian Ripley
+038780.html,[Rd] proposal for lower.tri and upper.tri value argument,38780,Prof Brian Ripley
+038788.html,[Rd] Can't make sort generic in quantile (S3),38788,Prof Brian Ripley
+038806.html,[Rd] StringFromInteger made private in r38652,38806,Prof Brian Ripley
+038807.html,[Rd] Can't make sort generic in quantile (S3),38807,Prof Brian Ripley
+038809.html,[Rd] Pb with contrib.url() (PR#9131),38809,Prof Brian Ripley
+038810.html,[Rd] unique.default() drops names (PR#9130),38810,Prof Brian Ripley
+038834.html,[Rd] uniroot arguments (PR#9140),38834,Prof Brian Ripley
+038840.html,[Rd] Small problem building a package containing .f90 source on Windows,38840,Prof Brian Ripley
+038845.html,[Rd] configure on mac,38845,Prof Brian Ripley
+038849.html,[Rd] bypassing SET_DIM checking,38849,Prof Brian Ripley
+038851.html,[Rd] buglet in hjelp(&quot;[&lt;-&quot;),38851,Prof Brian Ripley
+038859.html,[Rd] configure on mac,38859,Prof Brian Ripley
+038860.html,[Rd] Data frames and row names,38860,Prof Brian Ripley
+038862.html,[Rd] MS installer version of R for Windows,38862,Prof Brian Ripley
+038865.html,[Rd] how to include a windows dll in a package,38865,Prof Brian Ripley
+038880.html,[Rd] Date and time problems,38880,Prof Brian Ripley
+038881.html,[Rd] graphics documentation omission (PR#9149),38881,Prof Brian Ripley
+038887.html,[Rd] rownames() problem with 0-extent arrays (PR#9136),38887,Prof Brian Ripley
+038888.html,[Rd] configure on mac,38888,Prof Brian Ripley
+038895.html,[Rd] Abnormal behavior of log function (PR#9155),38895,Prof Brian Ripley
+038900.html,[Rd] Error in options(...) : invalid continue parameter,38900,Prof Brian Ripley
+038905.html,[Rd] sort changes datatype of operand,38905,Prof Brian Ripley
+038907.html,[Rd] sort changes datatype of operand,38907,Prof Brian Ripley
+038917.html,[Rd] How to use R and add-on packages as library in C/C++,38917,Prof Brian Ripley
+038923.html,[Rd] 32- / 64-bit R query,38923,Prof Brian Ripley
+038932.html,[Rd] How to use R and add-on packages as library in C/C++,38932,Prof Brian Ripley
+038937.html,[Rd] S4 'object is not subsettable' in prototype,38937,Prof Brian Ripley
+038940.html,[Rd] S4 'object is not subsettable' in prototype,38940,Prof Brian Ripley
+038943.html,[Rd] Set Repositories problem in R2.4.0,38943,Prof Brian Ripley
+038951.html,[Rd] [R] Successive subsets from a vector?,38951,Prof Brian Ripley
+038960.html,[Rd] Strict seq: a recommendation,38960,Prof Brian Ripley
+038974.html,[Rd] reshape scaling with large numbers of times/rows,38974,Prof Brian Ripley
+038975.html,[Rd] reshape scaling with large numbers of times/rows,38975,Prof Brian Ripley
+038978.html,[Rd] reshape scaling with large numbers of times/rows,38978,Prof Brian Ripley
+038985.html,[Rd] Command line length limits in R,38985,Prof Brian Ripley
+038986.html,[Rd] The cost of method dispatch,38986,Prof Brian Ripley
+038988.html,[Rd] S4 methods for &quot;+&quot;,38988,Prof Brian Ripley
+038997.html,[Rd] Command line length limits in R,38997,Prof Brian Ripley
+038999.html,[Rd] &quot;+&quot; for character method...,38999,Prof Brian Ripley
+039011.html,[Rd] r2dtable,39011,Prof Brian Ripley
+042386.html,[Rd] [Bioc-devel] Sweave windows style path (was Re: texmf error on 7 packages on devel winXP build nodes),42386,Prof Brian Ripley
+042399.html,[Rd] writeChar,42399,Prof Brian Ripley
+042423.html,[Rd] Speed of runif() on different Operating Systems,42423,Prof Brian Ripley
+042436.html,[Rd] Speed of runif() on different Operating Systems,42436,Prof Brian Ripley
+042443.html,[Rd] Inaccuracy in seq() (PR#9189),42443,Prof Brian Ripley
+042456.html,[Rd] Installation error (PR#9190),42456,Prof Brian Ripley
+042461.html,[Rd] S4 Methods dispatch,42461,Prof Brian Ripley
+042471.html,[Rd] Suggestion for read.table(),42471,Prof Brian Ripley
+042479.html,[Rd] Suggestion for read.table(),42479,Prof Brian Ripley
+042482.html,[Rd] stop R mainloop without calling exit(1),42482,Prof Brian Ripley
+038835.html,[Rd] SystemRequirements (was  DESCRIPTION and PACKAGES files ),38835,Allen S. Rout
+038890.html,[Rd] how to include a windows dll in a package,38890,Allen S. Rout
+038915.html,[Rd] not a typo in list.Rd,38915,Allen S. Rout
+039015.html,[Rd] &quot;+&quot; for character method...,39015,Allen S. Rout
+038883.html,[Rd] Using TCP/IP sockets in R,38883,Barry Rowlingson
+042488.html,[Rd] R-Project logo in SVG format,42488,Barry Rowlingson
+038768.html,[Rd] How to prepare/submit packages with external dependency?,38768,Dominick Samperi
+038954.html,[Rd] Strict seq: a recommendation,38954,Dominick Samperi
+038956.html,[Rd] Strict seq: a recommendation,38956,Dominick Samperi
+038981.html,[Rd] Huge matrices in .Call,38981,Dominick Samperi
+038942.html,[Rd] Set Repositories problem in R2.4.0,38942,Keith Satterley
+038870.html,[Rd] Using TCP/IP sockets in R,38870,Mark Schultz
+038957.html,[Rd] Memory...,38957,Sender
+038965.html,[Rd] UPDATE: Fwd: Memory...,38965,Sender
+038970.html,[Rd] reshape scaling with large numbers of times/rows,38970,Mitch Skinner
+038976.html,[Rd] reshape scaling with large numbers of times/rows,38976,Mitch Skinner
+038979.html,[Rd] reshape scaling with large numbers of times/rows,38979,Mitch Skinner
+038992.html,[Rd] OT: authorship and contacts for releasing packages	(Re:	reshape scaling with large numbers of times/rows),38992,Mitch Skinner
+038972.html,[Rd] reshape scaling with large numbers of times/rows,38972,Mitchell Skinner
+038705.html,[Rd] read.table with more cols than headers,38705,Gordon Smyth
+038827.html,[Rd] S4 Classes,38827,Gordon Smyth
+038871.html,[Rd] Using TCP/IP sockets in R,38871,Greg Snow
+038924.html,[Rd] 32- / 64-bit R query,38924,Luke Tierney
+038843.html,[Rd] (no subject),38843,Tony
+038719.html,[Rd] C Entry Points,38719,Simon Urbanek
+038747.html,[Rd] Rigroup external package ready to go but no incoming at	ftp site,38747,Simon Urbanek
+038766.html,[Rd] Double free or memory corruption problem (PR#9125),38766,Simon Urbanek
+038769.html,[Rd] How to prepare/submit packages with external dependency?,38769,Simon Urbanek
+038803.html,[Rd] Pb with contrib.url() (PR#9131),38803,Simon Urbanek
+038897.html,[Rd] configure on mac,38897,Simon Urbanek
+038918.html,[Rd] Pb with contrib.url() (PR#9131),38918,Simon Urbanek
+038775.html,[Rd] dev.copy(),38775,V&#237;ctor Llorens Vilella
+038801.html,[Rd] [R] C Entry Points,38801,Gregory Wall
+038863.html,[Rd] Shortcuts for help functions,38863,Yan Wong
+038729.html,[Rd] Argument names for rgb() only applied for alpha given (PR#9118),38729,stefan.albrecht at allianz.com
+038990.html,[Rd] extensions link to libpthread cause R coredumps when	dyn.load('xxx.so'),38990,assiss
+038787.html,[Rd] unique.default() drops names (PR#9130),38787,Gregor.Gorjanc at bfro.uni-lj.si
+038817.html,[Rd] Wishlist: multiple classes in \method{}{} (Rd markup) (PR#9135),38817,gregor.gorjanc at bfro.uni-lj.si
+042474.html,[Rd] Summary() fails after use of na.action=&quot;na.exclude&quot; in lm()	(PR#9191),42474,gregor.gorjanc at bfro.uni-lj.si
+038856.html,[Rd] plot with Julian date (PR#9145),38856,cspark at ces.clemson.edu
+042439.html,[Rd] Inaccuracy in seq() (PR#9189),42439,kellymj1 at cf.ac.uk
+038731.html,[Rd] seq improperly increments dates (PR#9120),38731,stephen.ponzio at citigroup.com
+038732.html,[Rd] sort changes datatype of operand (PR#9121),38732,stephen.ponzio at citigroup.com
+039020.html,[Rd] behest,39020,costume
+039018.html,[Rd] balance (PR#9178),39018,bullseyeberlin at earthlink.net
+039022.html,[Rd] dec (PR#9181),39022,calamusdeluxe at earthlink.net
+039021.html,[Rd] carpenter (PR#9180),39021,dicksondisturbance at earthlink.net
+038793.html,[Rd] Pb with contrib.url() (PR#9131),38793,hpages at fhcrc.org
+042394.html,[Rd] [WARNING: VIRUS REMOVED]Mail System Error - Returned Mail &gt;&gt; Message Rejected: Unauthorized File(s) (Exec) &lt;&lt;,42394,InternetGateway1 at firmenich.com
+042453.html,[Rd] Installation error (PR#9190),42453,lenon at fstrf-wi.org
+038894.html,[Rd] Abnormal behavior of log function (PR#9155),38894,bayes.gene at gmail.com
+038853.html,[Rd] configure on mac,38853,stefano iacus
+038857.html,[Rd] configure on mac,38857,stefano iacus
+038885.html,[Rd] fSeries - garchFit (PR#9153),38885,r at iangregory.com
+038771.html,[Rd] R::Rdconv Rdconv() does not close input file handle (PR#9126),38771,bill at insightful.com
+038844.html,[Rd] configure on mac,38844,roger koenker
+038854.html,[Rd] configure on mac,38854,roger koenker
+038855.html,[Rd] configure on mac,38855,roger koenker
+038874.html,[Rd] configure on mac,38874,roger koenker
+038901.html,[Rd] configure on mac,38901,roger koenker
+038796.html,[Rd] error: Broken pipe  cat ${in} (PR#9132),38796,asgoyal at lehman.com
+038831.html,[Rd] uniroot arguments (PR#9139),38831,trish at maigret.psy.ohio-state.edu
+038832.html,[Rd] uniroot arguments (PR#9140),38832,trish at maigret.psy.ohio-state.edu
+038784.html,[Rd] Can't make sort generic in quantile (S3),38784,miguel manese
+038798.html,[Rd] Can't make sort generic in quantile (S3),38798,miguel manese
+038842.html,[Rd] bypassing SET_DIM checking,38842,miguel manese
+038815.html,[Rd] wishlist: attribute &quot;na.omit&quot; added to data.frame from	model.frame.default (PR#9134),38815,hayfietj at mcmaster.ca
+038826.html,[Rd] rownames() problem with 0-extent arrays (PR#9136),38826,richard_raubertas at merck.com
+038837.html,[Rd] MiKTeX 2.5,38837,apjaworski at mmm.com
+038875.html,[Rd] graphics documentation omission (PR#9148),38875,mschwartz at mn.rr.com
+038877.html,[Rd] graphics documentation omission (PR#9149),38877,mschwartz at mn.rr.com
+038759.html,[Rd] 2.3.1 install bug (PR#9123),38759,jim at mshri.on.ca
+038969.html,[Rd] call to pt: Warning message: full precision was not achieved	in 'pnt' (PR#9171),38969,FromeEL at ornl.gov
+038945.html,[Rd] saving history through menu in R 2.4.0dev (PR#9168),38945,petr.pikal at precheza.cz
+038946.html,[Rd] (Fwd) saving history through menu in R 2.4.0dev follow-up	(PR#9169),38946,petr.pikal at precheza.cz
+039008.html,[Rd] Thai locale not working on Mac OSX (PR#9175),39008,hutcha.s at psu.ac.th
+042485.html,[Rd] R crashes in Mac OS 10.4 when Find is used (PR#9192),42485,msf17 at psu.edu
+042427.html,[Rd] rgamma gives zeros. (PR#9184),42427,pxi at stat.cmu.edu
+042429.html,[Rd] 'CanMakeUseOf' field,42429,friedrich.leisch at stat.uni-muenchen.de
+042430.html,[Rd] 'CanMakeUseOf' field,42430,friedrich.leisch at stat.uni-muenchen.de
+042444.html,[Rd] 'CanMakeUseOf' field,42444,friedrich.leisch at stat.uni-muenchen.de
+042446.html,[Rd] 'CanMakeUseOf' field,42446,friedrich.leisch at stat.uni-muenchen.de
+042483.html,[Rd] R-Project logo in SVG format,42483,friedrich.leisch at stat.uni-muenchen.de
+038804.html,[Rd] error: Broken pipe  cat ${in} (PR#9132),38804,ligges at statistik.uni-dortmund.de
+038762.html,[Rd] 2.3.1 install bug (PR#9123),38762,ripley at stats.ox.ac.uk
+038765.html,[Rd] Double free or memory corruption problem (PR#9125),38765,ripley at stats.ox.ac.uk
+038779.html,[Rd] R::Rdconv Rdconv() does not close input file handle	(PR#9126),38779,ripley at stats.ox.ac.uk
+038808.html,[Rd] error: Broken pipe  cat ${in} (PR#9132),38808,ripley at stats.ox.ac.uk
+038819.html,[Rd] (PR#9134) wishlist: attribute &quot;na.omit&quot; added to data.frame,38819,ripley at stats.ox.ac.uk
+038882.html,[Rd] plot with Julian date (PR#9145),38882,ripley at stats.ox.ac.uk
+038889.html,[Rd] rownames() problem with 0-extent arrays (PR#9136),38889,ripley at stats.ox.ac.uk
+038947.html,[Rd] saving history through menu in R 2.4.0dev (PR#9168),38947,ripley at stats.ox.ac.uk
+042428.html,[Rd] list and pairlist in &quot;Writing R Extensions&quot; (PR#9185),42428,ripley at stats.ox.ac.uk
+042431.html,[Rd] rgamma gives zeros. (PR#9184),42431,ripley at stats.ox.ac.uk
+038869.html,[Rd] axis documentation (PR#9147),38869,rmh at temple.edu
+038873.html,[Rd] graphics documentation omission (PR#9148),38873,rmh at temple.edu
+038876.html,[Rd] graphics documentation omission (PR#9149),38876,rmh at temple.edu
+038694.html,[Rd] Any interest in &quot;merge&quot; and &quot;by&quot; implementations specifically for so,38694,tshort
+042426.html,[Rd] list and pairlist in &quot;Writing R Extensions&quot; (PR#9185),42426,gah4 at u.washington.edu
+042468.html,[Rd] Suggestion for read.table(),42468,gilescrane at verizon.net
+042414.html,[Rd] arguments to boxplot( ) not passed to bxp() (PR#9183),42414,sego at vt.edu
+038776.html,[Rd] read.table produces extra rows when file contains extra	columns on (PR#9128),38776,smyth at wehi.EDU.AU
+038952.html,[Rd] [R] Successive subsets from a vector?,38952,hadley wickham
+042410.html,[Rd] Capturing warnings with capture.output,42410,hadley wickham
+042490.html,[Rd] R-Project logo in SVG format,42490,hadley wickham
+038763.html,"[Rd] residuals.glm for glm(..., y = FALSE) (PR#9124)",38763,Achim.Zeileis at wu-wien.ac.at
+038764.html,[Rd] Double free or memory corruption problem (PR#9125),38764,clwang at yahoo-inc.com
+038829.html,[Rd] R's built-in Script Editor Bug (PR#9137),38829,yu_cai99 at yahoo.com
+038841.html,[Rd] From Mr Dennis (PR#9141),38841,dens0009 at yahoo.com.hk

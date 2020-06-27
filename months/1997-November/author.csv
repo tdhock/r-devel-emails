@@ -1,0 +1,85 @@
+link,Subject,id,author
+017722.html,"R-alpha: expression(..) objects -- c(ex1, ex2) `fails'",17722,Peter Dalgaard BSA
+017739.html,R-alpha: text outside plots,17739,Peter Dalgaard BSA
+017749.html,R-alpha: help files of base package,17749,Peter Dalgaard BSA
+017757.html,R-alpha: help files of base package,17757,Peter Dalgaard BSA
+017758.html,R-alpha: batch,17758,Peter Dalgaard BSA
+017768.html,R-alpha: S-R -- quite a dangerous incompatibility...,17768,Peter Dalgaard BSA
+017769.html,R-alpha: Re: R-beta: installing new packages in window95 version of R,17769,Peter Dalgaard BSA
+017773.html,R-alpha: nlm and gradients,17773,Peter Dalgaard BSA
+017782.html,R-alpha: Re: R-beta: Latin-1 characters (and &quot;=-=&quot; footer and MIME...),17782,Peter Dalgaard BSA
+017784.html,R-alpha:  Latin-1 characters (3),17784,Peter Dalgaard BSA
+017786.html,R-alpha:  Latin-1 characters (3),17786,Peter Dalgaard BSA
+017792.html,R-alpha:  Latin-1 characters / Locale etc.,17792,Peter Dalgaard BSA
+017799.html,R-alpha: batch,17799,Peter Dalgaard BSA
+017800.html,R-alpha: Problems with dimnames and names,17800,Peter Dalgaard BSA
+017727.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17727,Douglas Bates
+017730.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17730,Douglas Bates
+017771.html,R-alpha: nlm and gradients,17771,Douglas Bates
+017778.html,R-alpha: Reading a data.dump format,17778,Douglas Bates
+017804.html,R-alpha: documentation for nlm,17804,Douglas Bates
+017724.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17724,Paul Gilbert
+017725.html,R-alpha: l2c libraries,17725,Paul Gilbert
+017731.html,R-alpha: Re: Separation of Program &amp; Doc ...,17731,Paul Gilbert
+017733.html,R-alpha: compatibility functions,17733,Paul Gilbert
+017742.html,R-alpha: Re: R/R-minus incompatibility [ an old one ],17742,Paul Gilbert
+017743.html,R-alpha: loop speed,17743,Paul Gilbert
+017761.html,R-alpha: help files of base package,17761,Paul Gilbert
+017763.html,R-alpha: help files of base package,17763,Paul Gilbert
+017772.html,R-alpha: nlm,17772,Paul Gilbert
+017775.html,R-alpha: random number generator,17775,Paul Gilbert
+017777.html,R-alpha: random number generator,17777,Paul Gilbert
+017729.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17729,Kurt Hornik
+017740.html,R-alpha: text outside plots,17740,Ross Ihaka
+017744.html,R-alpha: loop speed,17744,Ross Ihaka
+017785.html,R-alpha:  Latin-1 characters (3),17785,Ross Ihaka
+017794.html,R-alpha:  Latin-1 characters / Locale etc.,17794,Ross Ihaka
+017795.html,R-alpha: RData in batch,17795,Ross Ihaka
+017803.html,R-alpha: &quot;...&quot; arg.matching [was 'Problems with dimnames and names'],17803,Ross Ihaka
+017755.html,R-alpha: Optimize,17755,Philippe Lambert
+017788.html,R-alpha: RData in batch,17788,Philippe Lambert
+017746.html,R-alpha: christmas wish (partial support for single),17746,Friedrich Leisch
+017747.html,R-alpha: help files of base package,17747,Friedrich Leisch
+017750.html,R-alpha: help files of base package,17750,Friedrich Leisch
+017762.html,R-alpha: help files of base package,17762,Friedrich Leisch
+017764.html,R-alpha: help files of base package,17764,Friedrich Leisch
+017790.html,R-alpha: RData in batch,17790,Friedrich Leisch
+017738.html,R-alpha: text outside plots,17738,Jim Lindsey
+017751.html,R-alpha: glm,17751,Jim Lindsey
+017752.html,R-alpha: NextMethod,17752,Jim Lindsey
+017753.html,R-alpha: batch,17753,Jim Lindsey
+017759.html,R-alpha: glm cont.,17759,Jim Lindsey
+017760.html,R-alpha: batch,17760,Jim Lindsey
+017765.html,R-alpha: Design and Hmisc,17765,Jim Lindsey
+017770.html,R-alpha: Student t functions,17770,Jim Lindsey
+017791.html,R-alpha: batch,17791,Jim Lindsey
+017797.html,R-alpha: batch,17797,Jim Lindsey
+017754.html,R-alpha: Bug in postscript command with boxplots.,17754,Patrick Lindsey
+017745.html,R-alpha: loop speed,17745,Thomas Lumley
+017793.html,R-alpha: RData in batch,17793,Thomas Lumley
+017721.html,"R-alpha: expression(..) objects -- c(ex1, ex2) `fails'",17721,Martin Maechler
+017723.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17723,Martin Maechler
+017726.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17726,Martin Maechler
+017728.html,R-alpha: Re: Separation of Program &amp; Doc ...,17728,Martin Maechler
+017734.html,R-alpha: &quot;invisible&quot; (yet again): a more problematic bug[let],17734,Martin Maechler
+017736.html,R-alpha: &quot;invisible&quot; : R_INVISIBLE .. -- repeat{} gives BOMB,17736,Martin Maechler
+017741.html,R-alpha: Re: R/R-minus incompatibility [ an old one ],17741,Martin Maechler
+017748.html,R-alpha: help files of base package,17748,Martin Maechler
+017756.html,R-alpha: batch -- no problem with make and proper Makefile,17756,Martin Maechler
+017766.html,"R-alpha: more bugs with names/dims, etc.:",17766,Martin Maechler
+017767.html,R-alpha: S-R -- quite a dangerous incompatibility...,17767,Martin Maechler
+017774.html,R-alpha: nlm and gradients,17774,Martin Maechler
+017776.html,R-alpha: random number generator,17776,Martin Maechler
+017779.html,R-alpha: Reading a data.dump format,17779,Martin Maechler
+017780.html,R-alpha: random number generator -- S-plus's,17780,Martin Maechler
+017781.html,R-alpha: Re: R-beta: Latin-1 characters (and &quot;=-=&quot; footer and MIME...),17781,Martin Maechler
+017783.html,R-alpha:  Latin-1 characters (3),17783,Martin Maechler
+017787.html,R-alpha:  Latin-1 characters / Locale etc.,17787,Martin Maechler
+017789.html,R-alpha: RData in batch,17789,Martin Maechler
+017796.html,R-alpha:  Latin-1 characters / Locale etc.,17796,Martin Maechler
+017802.html,R-alpha: &quot;...&quot; arg.matching [was 'Problems with dimnames and names'],17802,Martin Maechler
+017735.html,R-alpha: &quot;invisible&quot; (yet again): a more problematic bug[let],17735,Martyn Plummer
+017737.html,R-alpha: &quot;invisible&quot; : R_INVISIBLE .. -- repeat{} gives BOMB,17737,Martyn Plummer
+017798.html,R-alpha: Problems with dimnames and names,17798,Martyn Plummer
+017801.html,R-alpha: Problems with dimnames and names,17801,Martyn Plummer
+017732.html,R-alpha: Re: Separation of Program &amp; Doc;  REQUIRING Perl5 [was: New Version],17732,Luke Tierney

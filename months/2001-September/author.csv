@@ -1,0 +1,103 @@
+link,Subject,id,author
+023126.html,[Rd] RE: [R] GUI support from R,23126,Peter Dalgaard BSA
+023131.html,[Rd] R-1.3.0-1.3.1.diff does not patch correctly,23131,Peter Dalgaard BSA
+023132.html,[Rd] R-1.3.0-1.3.1.diff does not patch correctly,23132,Peter Dalgaard BSA
+023135.html,[Rd] Imitation is the sincerest form of flattery,23135,Peter Dalgaard BSA
+023147.html,[Rd] Bug list summary (automatic post),23147,Peter Dalgaard BSA
+023159.html,[Rd] [R] bad R.css link in &quot;packages.html&quot; (PR#1090),23159,Peter Dalgaard BSA
+023191.html,[Rd] lab does not work (PR#1094),23191,Peter Dalgaard BSA
+023194.html,[Rd] Bizarre clipping with abline and points (PR#1095),23194,Peter Dalgaard BSA
+023199.html,[Rd] Bug list summary (automatic post),23199,Peter Dalgaard BSA
+023219.html,[Rd] tiny typo in help page for connection,23219,Peter Dalgaard BSA
+023161.html,[Rd] feature request: comment character in read.table?,23161,Ben Bolker
+023169.html,[Rd] feature request: comment character in read.table?,23169,Ben Bolker
+023177.html,[Rd] feature request: comment character in read.table?,23177,Ben Bolker
+023197.html,[Rd] file permissions check,23197,Ben Bolker
+023174.html,[Rd] SV4 on R?,23174,John Chambers
+023186.html,[Rd] Using closures in libraries,23186,Saikat DebRoy
+023206.html,[Rd] R-devel Digest V1 #314,23206,R-devel Digest
+023157.html,[Rd] Debian Woody r-base depends on blas2 (PR#1089),23157,Dirk Eddelbuettel
+023122.html,[Rd] RE: [R] GUI support from R,23122,Byron Ellis
+023127.html,[Rd] RE: [R] GUI support from R,23127,Byron Ellis
+023128.html,[Rd] RE: [R] GUI support from R,23128,Byron Ellis
+023160.html,[Rd] ... in generic/specific methods,23160,Paul Gilbert
+023207.html,[Rd] col=0,23207,Paul Gilbert
+023216.html,[Rd] problems with new checks in R-devel,23216,Paul Gilbert
+023118.html,[Rd] RFC: type conversion in read.table,23118,Kurt Hornik
+023117.html,[Rd] RFC: type conversion in read.table,23117,Kurt Hornik
+023139.html,[Rd] RFC: d/p/q/rgamma,23139,Kurt Hornik
+023140.html,"[Rd] Re: [R] Bug in ftable?? (Was: Two-way tables of data, etc)",23140,Kurt Hornik
+023143.html,[Rd] Re: &quot;table&quot; class requirements (was .. Bug in ftable....),23143,Kurt Hornik
+023153.html,[Rd] Re: [R] Why does substr&lt;- truncate and not replace...,23153,Kurt Hornik
+023222.html,[Rd] problems with new checks in R-devel,23222,Kurt Hornik
+023193.html,[Rd] Bizarre clipping with abline and points (PR#1095),23193,J.C.Rougier@durham.ac.uk
+023170.html,[Rd] SV4 on R?,23170,Frank E Harrell Jr
+023179.html,[Rd] SV4 on R?,23179,Frank E Harrell Jr
+023173.html,[Rd] feature request: comment character in read.table?,23173,Peter Kleiweg
+023130.html,[Rd] R-1.3.0-1.3.1.diff does not patch correctly,23130,Wilhelm B. Kloke
+023137.html,[Rd] spam on R lists --&gt; refuse mail??,23137,Wilhelm B. Kloke
+023145.html,[Rd] RFC: package pixmap,23145,Friedrich Leisch
+023121.html,[Rd] RE: [R] GUI support from R,23121,Nicholas Lewin-Koh
+023218.html,[Rd] tiny typo in help page for connection,23218,"Liaw, Andy"
+023166.html,[Rd] sum overflow (PR#1091),23166,Uwe Ligges
+023146.html,[Rd] RFC: d/p/q/rgamma,23146,Thomas Lumley
+023136.html,[Rd] spam on R lists --&gt; refuse mail??,23136,Martin Maechler
+023142.html,[Rd] Re: &quot;table&quot; class requirements (was .. Bug in ftable....),23142,Martin Maechler
+023181.html,[Rd] sum overflow (PR#1091),23181,Martin Maechler
+023192.html,[Rd] Re: AIC &amp; logLik for glm,23192,Martin Maechler
+023209.html,[Rd] Accidental digest sent to R-devel,23209,Martin Maechler
+023214.html,[Rd] Problem with merge() (PR#1102),23214,Martin Maechler
+023119.html,[Rd] RFC: type conversion in read.table,23119,Prof Brian Ripley
+023133.html,[Rd] R-1.3.0-1.3.1.diff does not patch correctly,23133,Prof Brian Ripley
+023138.html,[Rd] RFC: d/p/q/rgamma,23138,Prof Brian Ripley
+023141.html,[Rd] RFC: d/p/q/rgamma,23141,Prof Brian Ripley
+023154.html,[Rd] Re: [R] Why does substr&lt;- truncate and not replace...,23154,Prof Brian Ripley
+023164.html,[Rd] sum overflow (PR#1091),23164,Prof Brian Ripley
+023167.html,[Rd] sum overflow (PR#1091),23167,Prof Brian Ripley
+023217.html,[Rd] problems with new checks in R-devel,23217,Prof Brian Ripley
+023123.html,[Rd] RE: [R] GUI support from R,23123,Prof Brian D Ripley
+023152.html,[Rd] t.test (PR#1086),23152,Prof Brian D Ripley
+023162.html,[Rd] feature request: comment character in read.table?,23162,Prof Brian D Ripley
+023171.html,[Rd] SV4 on R?,23171,Prof Brian D Ripley
+023175.html,[Rd] feature request: comment character in read.table?,23175,Prof Brian D Ripley
+023208.html,[Rd] col=0,23208,Prof Brian D Ripley
+023124.html,[Rd] RE: [R] GUI support from R,23124,A.J. Rossini
+023129.html,[Rd] RE: [R] GUI support from R,23129,A.J. Rossini
+023165.html,[Rd] sum overflow (PR#1091),23165,Bill Simpson
+023168.html,[Rd] sum overflow (PR#1091),23168,Bill Simpson
+023172.html,[Rd] sum overflow (PR#1091),23172,David Smith
+023134.html,[Rd] RE: [R] GUI support from R,23134,Luke Tierney
+023178.html,[Rd] SV4 on R?,23178,Luke Tierney
+023187.html,[Rd] Using closures in libraries,23187,Luke Tierney
+023120.html,[Rd] RE: [R] GUI support from R,23120,"Warnes, Gregory R"
+023176.html,FW: [Rd] sum overflow (PR#1091),23176,"Warnes, Gregory R"
+023180.html,[Rd] rowsum dimnames (PR#1092),23180,brahm@alum.mit.edu
+023198.html,[Rd] R 1.3.1 fails 'make check' on arm in the Bessel example (PR#1097),23198,edd@debian.org
+023200.html,[Rd] (PR#1089) Can be closed,23200,edd@debian.org
+023182.html,[Rd] Solution to (well known) problem with Rdconv.pm on Sun Solaris (PR#1093),23182,hb@maths.lth.se
+023201.html,[Rd] Trailing &quot;/&quot; makes file.exists() return FALSE (PR#1098),23201,hb@maths.lth.se
+023203.html,[Rd] Trailing &quot;/&quot; makes file.exists() return FALSE (PR#1098),23203,hb@maths.lth.se
+023220.html,[Rd] savehistory: Suggestions to a \seealso{} (PR#1104),23220,hb@maths.lth.se
+023195.html,[Rd] missing() (PR#1096),23195,hosking@watson.ibm.com
+023158.html,[Rd] [R] bad R.css link in &quot;packages.html&quot; (PR#1090),23158,jasont@indigoindustrial.co.nz
+023125.html,[Rd] Install problems R 1.3.1 on HP-UX (PR#1084),23125,kleiweg@let.rug.nl
+023144.html,[Rd] file.copy() problems on WinNT (PR#1085),23144,ligges@amadeus.statistik.uni-dortmund.de
+023149.html,[Rd] file.copy() problems on WinNT (PR#1085),23149,ligges@amadeus.statistik.uni-dortmund.de
+023212.html,"[Rd] ugly in plotmath: frac(1, sqrt(...)) (PR#1101)",23212,ligges@statistik.uni-dortmund.de
+023213.html,[Rd] Problem with merge() (PR#1102),23213,macq@llnl.gov
+023205.html,"[Rd] cor.test(x,x) sometimes produce NaN (PR#1099)",23205,maechler@stat.math.ethz.ch
+023150.html,[Rd] t.test (PR#1086),23150,menstav@hotmail.com
+023151.html,[Rd] anova in model simplification in glm (PR#1087),23151,menstav@hotmail.com
+023156.html,[Rd] Debian Woody r-base depends on blas2 (PR#1089),23156,michael_odonnell@acm.org
+023210.html,[Rd] Bug in model.matrix.default (was: [R] predict incosistency ?) (PR#1100),23210,murdoch@stats.uwo.ca
+023190.html,[Rd] lab does not work (PR#1094),23190,puetsch@bigfoot.de
+023155.html,[Rd] barplot forces xpd=TRUE (PR#1088),23155,pwhiting@whitings.org
+023215.html,[Rd] Slow output/no break key (PR#1103),23215,richmond@saintmarys.edu
+023148.html,[Rd] file.copy() problems on WinNT (PR#1085),23148,ripley@stats.ox.ac.uk
+023189.html,[Rd] rowsum dimnames (PR#1092),23189,ripley@stats.ox.ac.uk
+023196.html,[Rd] missing() (PR#1096),23196,ripley@stats.ox.ac.uk
+023202.html,[Rd] Trailing &quot;/&quot; makes file.exists() return FALSE (PR#1098),23202,ripley@stats.ox.ac.uk
+023204.html,[Rd] Trailing &quot;/&quot; makes file.exists() return FALSE (PR#1098),23204,ripley@stats.ox.ac.uk
+023211.html,[Rd] Bug in model.matrix.default (PR#1100),23211,ripley@stats.ox.ac.uk
+023221.html,[Rd] savehistory: Suggestions to a \seealso{} (PR#1104),23221,ripley@stats.ox.ac.uk
+023163.html,[Rd] sum overflow (PR#1091),23163,wsi@gcal.ac.uk

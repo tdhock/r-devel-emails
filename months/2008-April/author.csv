@@ -1,0 +1,518 @@
+link,Subject,id,author
+049058.html,[Rd] StructTS,49058,Ivaha C (AT)
+049028.html,[Rd] Windows problem related to using shortPathName for Sweave	style file,49028,Patrick Aboyoun
+049029.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49029,Patrick Aboyoun
+049036.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49036,Patrick Aboyoun
+049044.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49044,Patrick Aboyoun
+048981.html,[Rd] manual 'Writing R Extensions': bug in example,48981,Simon Anders
+048927.html,[Rd] R CMD check should check date in description,48927,"Antonio, Fabio Di Narzo"
+048934.html,[Rd] R CMD check should check date in description,48934,"Antonio, Fabio Di Narzo"
+048967.html,[Rd] Adding a Matrix Exponentiation Operator,48967,"Antonio, Fabio Di Narzo"
+049189.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of	interest?,49189,"Antonio, Fabio Di Narzo"
+048922.html,[Rd] R CMD check should check date in description,48922,Douglas Bates
+049391.html,[Rd] Read/write file locking mechanism using SQL?,49391,Henrik Bengtsson
+049402.html,"[Rd] New version of X11, png and jpeg",49402,Maarten Blaauw
+049091.html,[Rd] &amp;&amp; and ||,49091,Simon Blomberg
+048935.html,[Rd] suggested minor patch for optim.R,48935,Ben Bolker
+048962.html,[Rd] suggested minor patch for optim.R,48962,Ben Bolker
+049085.html,[Rd] promptFunctions() to handle multiple names,49085,Daniel Saban&#233;s Bov&#233;
+049118.html,[Rd] promptFunctions() to handle multiple names,49118,Daniel Saban&#233;s Bov&#233;
+049330.html,[Rd] RFC:  What should ?foo do?,49330,Patrick Burns
+049031.html,[Rd] coerce methods and inheritance,49031,John Chambers
+049043.html,[Rd] coerce methods and inheritance,49043,John Chambers
+049073.html,[Rd] coerce methods and inheritance,49073,John Chambers
+049079.html,[Rd] R 2.7 package.skeleton,49079,John Chambers
+049080.html,[Rd] R 2.7 package.skeleton,49080,John Chambers
+049081.html,[Rd] R 2.7 package.skeleton,49081,John Chambers
+049100.html,[Rd] promptFunctions() to handle multiple names,49100,John Chambers
+049107.html,[Rd] promptFunctions() to handle multiple names,49107,John Chambers
+049131.html,"[Rd] Pb with validObject(..., complete=TRUE)",49131,John Chambers
+049331.html,[Rd] S4 default for coercing,49331,John Chambers
+049021.html,[Rd] Using Rtools in Unix environment,49021,Kyeongmi Cheon
+049153.html,[Rd] R-extension in unix system -- help to locate header files,49153,Kyeongmi Cheon
+049160.html,[Rd] R-extension in unix system -- help to locate header files,49160,Kyeongmi Cheon
+049363.html,[Rd] reproducible segmentation fault caused by textConnection(),49363,Tony Chiang
+049052.html,[Rd] StructTS,49052,Christian_Ivaha
+049337.html,"[Rd] R 2.7.0, match() and strings containing \0 - bug?",49337,Jon Clayden
+049338.html,"[Rd] R 2.7.0, match() and strings containing \0 - bug?",49338,Jon Clayden
+049340.html,"[Rd] R 2.7.0, match() and strings containing \0 - bug?",49340,Jon Clayden
+049012.html,[Rd] Call R from C#,49012,Richard Cotton
+048900.html,[Rd] by &quot;infelicity&quot;,48900,Peter Dalgaard
+048939.html,[Rd] tests Rin and Rout,48939,Peter Dalgaard
+049033.html,[Rd] autocompletion problem,49033,Peter Dalgaard
+049096.html,[Rd] Doing the right amount of copy for large data frames.,49096,Peter Dalgaard
+049140.html,[Rd] segments() with zero-length arguments (PR#11192),49140,Peter Dalgaard
+049199.html,[Rd] 2.7.0 RC (2008-04-19 r45391) package.skeleton	LazyLoad	incorrect,49199,Peter Dalgaard
+049200.html,[Rd] AddComment (gram.y),49200,Peter Dalgaard
+049205.html,[Rd] Fortran underscore problem persists on Linux x86/64	(PR#11206),49205,Peter Dalgaard
+049297.html,[Rd] RFC:  What should ?foo do?,49297,Peter Dalgaard
+049320.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed fix!) (PR#11281),49320,Peter Dalgaard
+049334.html,[Rd] R_DEFAULT_DEVICE (PR#11294),49334,Peter Dalgaard
+048991.html,"[Rd] Overriding axis formatting with custom Axis method,	Axis.numeric etc",48991,Henrique Dallazuanna
+049174.html,[Rd] AddComment (gram.y),49174,Peter Danenberg
+049191.html,[Rd] AddComment (gram.y),49191,Peter Danenberg
+049221.html,[Rd] AddComment (gram.y),49221,Peter Danenberg
+049222.html,[Rd] AddComment (gram.y),49222,Peter Danenberg
+049268.html,[Rd] cbind speed.,49268,Charles Danko
+049069.html,[Rd] HOW TO AVOID LOOPS,49069,Dan Davison
+049071.html,[Rd] HOW TO AVOID LOOPS,49071,Dan Davison
+049315.html,[Rd] returning vectors of unknown size from C (with .C),49315,Ramon Diaz-Uriarte
+049322.html,[Rd] returning vectors of unknown size from C (with .C),49322,Ramon Diaz-Uriarte
+049324.html,[Rd] returning vectors of unknown size from C (with .C),49324,Ramon Diaz-Uriarte
+049122.html,[Rd] including additional packages in Recommended,49122,Sundar Dorai-Raj
+049125.html,[Rd] including additional packages in Recommended,49125,Sundar Dorai-Raj
+049371.html,[Rd] R code for weighted Deming regression?,49371,"Du, Hongyan"
+049111.html,[Rd] HOW TO AVOID LOOPS,49111,Bill Dunlap
+049150.html,[Rd] Couldn't (and shouldn't) is.unsorted() be faster?,49150,Bill Dunlap
+049175.html,[Rd] nondigits in R_FILEVERSION mess up Windows build,49175,Bill Dunlap
+049187.html,[Rd] nondigits in R_FILEVERSION mess up Windows build,49187,Bill Dunlap
+049232.html,"[Rd] prod(0, 1:1000) ;  0 * Inf  etc",49232,Bill Dunlap
+049259.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49259,Bill Dunlap
+049368.html,[Rd] reproducible segmentation fault caused by textConnection(),49368,Bill Dunlap
+049382.html,[Rd] non-digits in svnversion output mess up windows build if USE_SVNVERSION=yes (PR#11339),49382,Bill Dunlap
+049385.html,[Rd] reproducible segmentation fault caused by textConnection(),49385,Bill Dunlap
+048928.html,[Rd] R CMD check should check date in description,48928,Dirk Eddelbuettel
+048937.html,[Rd] R CMD check should check date in description,48937,Dirk Eddelbuettel
+048985.html,[Rd] [R] How to improve the &quot;OPTIM&quot; results,48985,Dirk Eddelbuettel
+049015.html,[Rd] Rmpi 0.5-6 : error spawning process,49015,Dirk Eddelbuettel
+049165.html,[Rd] naive question regarding running parallel C code from R,49165,Dirk Eddelbuettel
+049194.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of	interest?,49194,Dirk Eddelbuettel
+049209.html,[Rd] Java-&gt;R functions (or possibly C++ -&gt; R),49209,Dirk Eddelbuettel
+049295.html,[Rd] r won't start: &quot;r: symbol lookup error: r: undefined	symbol:	R_Visible&quot; (PR#11265),49295,Dirk Eddelbuettel
+049002.html,[Rd] (no subject),49002,Byron Ellis
+049345.html,"[Rd] R 2.7.0, match() and strings containing \0 - bug?",49345,Seth Falcon
+048904.html,[Rd] g++ 4.3  warning: deprecated conversion from string constant to &#8216;char*&#8217;,48904,Andrew Finley
+048909.html,[Rd] g++ 4.3  warning: deprecated conversion  from string constant to &#8216;char*&#8217;3DIn-Reply-To: &lt;47F4EE2E.6090407 at msu.edu&gt;,48909,Andrew Finley
+049162.html,[Rd]  problem customizing CXXFLAGS in Windows,49162,Ian Fiske
+049168.html,[Rd] problem customizing CXXFLAGS in Windows,49168,Ian Fiske
+049178.html,[Rd] package building problem under Windows Vista,49178,John Fox
+049181.html,[Rd] package building problem under Windows Vista,49181,John Fox
+049185.html,[Rd] package building problem under Windows Vista,49185,John Fox
+049312.html,[Rd] RFC: What should ?foo do?,49312,John Fox
+048938.html,[Rd] tests Rin and Rout,48938,Christophe Genolini
+048942.html,[Rd] package.skeleton.S4,48942,Christophe Genolini
+048944.html,[Rd] tests Rin and Rout,48944,Christophe Genolini
+048949.html,[Rd] package.skeleton.S4,48949,Christophe Genolini
+048951.html,[Rd] package.skeleton.S4,48951,Christophe Genolini
+048960.html,[Rd] package.skeleton.S4,48960,Christophe Genolini
+048929.html,[Rd] R CMD check should check date in description,48929,Robert Gentleman
+048933.html,[Rd] R CMD check should check date in description,48933,Robert Gentleman
+049298.html,[Rd] RFC:  What should ?foo do?,49298,Robert Gentleman
+049309.html,[Rd] RFC:  What should ?foo do?,49309,Robert Gentleman
+048956.html,[Rd] R CMD check should check date in description,48956,Paul Gilbert
+049264.html,[Rd] S4 default for coercing,49264,Paul Gilbert
+049148.html,[Rd] [rd] sage &lt;--&gt; r integration,49148,Rob Goedman
+049006.html,[Rd] Some memory questions: data.frame and lists.,49006,Gopi Goswami
+049095.html,[Rd] Doing the right amount of copy for large data frames.,49095,Gopi Goswami
+049114.html,[Rd] Doing the right amount of copy for large data frames.,49114,Gopi Goswami
+048963.html,[Rd] How to create a function calling two functions with unknown number of parameters?,48963,Vincent Goulet
+049017.html,[Rd] Adding a Matrix Exponentiation Operator,49017,Vincent Goulet
+049067.html,[Rd] HOW TO AVOID LOOPS,49067,Vincent Goulet
+049314.html,[Rd] r won't start: &quot;r: symbol lookup error: r: undefined	symbol: R_Visible&quot; (PR#11265),49314,Vincent Goulet
+048932.html,[Rd] R CMD check should check date in description,48932,Spencer Graves
+048984.html,[Rd] [R] How to improve the &quot;OPTIM&quot; results,48984,Spencer Graves
+048988.html,[Rd] [R] How to improve the &quot;OPTIM&quot; results,48988,Spencer Graves
+048903.html,[Rd] .shp,48903,Renata Grigorio
+048892.html,[Rd] callCC in 2.7.0,48892,Gabor Grothendieck
+048918.html,[Rd] __FILE__ for R,48918,Gabor Grothendieck
+048924.html,[Rd] R CMD check should check date in description,48924,Gabor Grothendieck
+048987.html,[Rd] [R] How to improve the &quot;OPTIM&quot; results,48987,Gabor Grothendieck
+048993.html,"[Rd] Overriding axis formatting with custom Axis method,	Axis.numeric etc",48993,Gabor Grothendieck
+049180.html,[Rd] package building problem under Windows Vista,49180,Gabor Grothendieck
+049182.html,[Rd] Progress window on updating,49182,Gabor Grothendieck
+049183.html,[Rd] Progress window on updating,49183,Gabor Grothendieck
+049206.html,[Rd] package building problem under Windows Vista,49206,Gabor Grothendieck
+049242.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0 RC,49242,Gabor Grothendieck
+049246.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0 RC,49246,Gabor Grothendieck
+049254.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0 RC,49254,Gabor Grothendieck
+049257.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49257,Gabor Grothendieck
+049366.html,[Rd] help text for xlim,49366,Gabor Grothendieck
+049376.html,[Rd] build packages with vignettes in Windows,49376,Gabor Grothendieck
+049384.html,[Rd] build packages with vignettes in Windows,49384,Gabor Grothendieck
+049396.html,[Rd] apply and monthly time series (PR#11352),49396,Gabor Grothendieck
+049397.html,[Rd] build packages with vignettes in Windows,49397,Gabor Grothendieck
+048895.html,[Rd] &quot;[&lt;-&quot; plus drop-type extra argument,48895,Robin Hankin
+049234.html,"[Rd] prod(0, 1:1000) ;  0 * Inf  etc",49234,Robin Hankin
+049141.html,[Rd] [rd] sage &lt;--&gt; r integration,49141,Mike Hansen
+049144.html,[Rd] Suggestion: add a warning in the help-file of unique(),49144, (Ted Harding)
+049326.html,[Rd] returning vectors of unknown size from C (with .C),49326,David Henderson
+049270.html,[Rd] HTML help solveLP(linprog) (PR#11250),49270,Arne Henningsen
+049226.html,[Rd] &quot;sub-optimal&quot; message from R CMD INSTALL,49226,Joerg van den Hoff
+049390.html,[Rd] weighted nonlinear fits: `nls' and `eval',49390,Joerg van den Hoff
+048906.html,[Rd] g++ 4.3  warning: deprecated conversion from string constant to &#8216;char*&#8217; 3DIn-Reply-To: &lt;47F4EE2E.6090407 at msu.edu&gt;,48906,Kurt Hornik
+048921.html,[Rd] R CMD check should check date in description,48921,Kurt Hornik
+048925.html,[Rd] R CMD check should check date in description,48925,Kurt Hornik
+048986.html,[Rd] [R] How to improve the &quot;OPTIM&quot; results,48986,Kurt Hornik
+049047.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49047,Kurt Hornik
+049325.html,[Rd] median methods,49325,Rob Hyndman
+049329.html,[Rd] median methods,49329,Rob Hyndman
+049223.html,[Rd]  Creation of Dialog boxes,49223,Ingrida
+048893.html,[Rd] callCC in 2.7.0,48893,Dr. Ferdinand Jamitzky
+049084.html,[Rd] &amp;&amp; and ||,49084,Yuan Jian
+049113.html,[Rd] &amp;&amp; and ||,49113,Yuan Jian
+049133.html,[Rd] matrix,49133,Yuan Jian
+049135.html,[Rd] matrix,49135,Yuan Jian
+049201.html,[Rd] Fortran underscore problem persists on Linux x86/64	(PR#11206),49201,Thibaut Jombart
+049203.html,[Rd] Fortran underscore problem persists on Linux x86/64	(PR#11206),49203,Thibaut Jombart
+049208.html,[Rd] Fortran underscore problem persists on Linux x86/64	(PR#11206),49208,Thibaut Jombart
+049041.html,[Rd] make check problems,49041,William Knebel
+049188.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of	interest?,49188,Duncan Temple Lang
+049215.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of interest?,49215,Duncan Temple Lang
+048943.html,[Rd] Odd tcltk and Rattle interference on MS/Windows,48943,Michael Lawrence
+049170.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of	interest?,49170,Michael Lawrence
+049173.html,[Rd] Pb with package::foo(x) &lt;- value,49173,Michael Lawrence
+049198.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of	interest?,49198,Michael Lawrence
+049220.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and of	interest?,49220,Michael Lawrence
+049404.html,"[Rd] New version of X11, png and jpeg",49404,Michael Lawrence
+048945.html,[Rd] tests Rin and Rout,48945,Uwe Ligges
+048947.html,[Rd] package.skeleton.S4,48947,Uwe Ligges
+048950.html,[Rd] package.skeleton.S4,48950,Uwe Ligges
+048971.html,[Rd] package.skeleton.S4,48971,Uwe Ligges
+048972.html,[Rd] Random seed not reset when starting R (PR#11089),48972,Uwe Ligges
+048973.html,[Rd] How to create a function calling two functions with unknown number of parameters?,48973,Uwe Ligges
+049013.html,[Rd] &quot;\0&quot; gives no warning &quot;unknown escape sequence&quot; (PR#11107),49013,Uwe Ligges
+049070.html,[Rd] Notifications for R-2.7.0 beta check results for Windows	binary packages,49070,Uwe Ligges
+049361.html,[Rd] Some compiling problems,49361,Uwe Ligges
+049347.html,[Rd] method dispatch conflict?,49347,Sebastian P. Luque
+048946.html,[Rd] package.skeleton.S4,48946,Martin Maechler
+048955.html,[Rd] optim: why is REPORT not used in SANN?,48955,Martin Maechler
+048957.html,[Rd] suggested minor patch for optim.R,48957,Martin Maechler
+048966.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48966,Martin Maechler
+048969.html,[Rd] Adding a Matrix Exponentiation Operator,48969,Martin Maechler
+048975.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48975,Martin Maechler
+049018.html,[Rd] Adding a Matrix Exponentiation Operator,49018,Martin Maechler
+049019.html,[Rd] Adding a Matrix Exponentiation Operator,49019,Martin Maechler
+049136.html,[Rd] matrix,49136,Martin Maechler
+049196.html,[Rd] AddComment (gram.y),49196,Martin Maechler
+049224.html,"[Rd] prod(0, 1:1000) ;  0 * Inf  etc",49224,Martin Maechler
+049247.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0 RC,49247,Martin Maechler
+049252.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49252,Martin Maechler
+049260.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49260,Martin Maechler
+049278.html,[Rd] S4 default for coercing,49278,Martin Maechler
+049386.html,[Rd] RFC: What should ?foo do?,49386,Martin Maechler
+049280.html,"[Rd] R-devel Digest, Vol 62, Issue 24",49280,John Maindonald
+049281.html,"[Rd] R-devel Digest, Vol 62, Issue 24",49281,John Maindonald
+049101.html,[Rd] NAs and Infinitely Large POSIXct Objects,49101,"McGehee, Robert"
+049282.html,[Rd] poly() can exceed degree k - 1 for k distinct points	(PR#11251),49282,Steven McKinney
+049057.html,[Rd] StructTS,49057,Roy Mendelssohn
+049273.html,[Rd] R-gui and chinese character,49273,Dieter Menne
+049369.html,[Rd] build packages with vignettes in Windows,49369,Michael
+049380.html,[Rd] build packages with vignettes in Windows,49380,Michael
+049392.html,[Rd] build packages with vignettes in Windows,49392,Michael
+048919.html,[Rd] Just-in-time compiler for R,48919,Stephen Milborrow
+049104.html,[Rd] HOW TO AVOID LOOPS,49104,Stephen Milborrow
+048897.html,[Rd] &quot;[&lt;-&quot; plus drop-type extra argument,48897,Martin Morgan
+048907.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48907,Martin Morgan
+048958.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48958,Martin Morgan
+048964.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48964,Martin Morgan
+048977.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48977,Martin Morgan
+049075.html,[Rd] HOW TO AVOID LOOPS,49075,Martin Morgan
+049099.html,[Rd] Doing the right amount of copy for large data frames.,49099,Martin Morgan
+049197.html,[Rd] 2.7.0 RC (2008-04-19 r45391) package.skeleton LazyLoad	incorrect,49197,Martin Morgan
+049145.html,[Rd] LinkingTo for 2 packages,49145,Iago Mosqueira
+048959.html,[Rd] package.skeleton.S4,48959,Duncan Murdoch
+048968.html,[Rd] package.skeleton.S4,48968,Duncan Murdoch
+049014.html,[Rd] &quot;\0&quot; gives no warning &quot;unknown escape sequence&quot; (PR#11107),49014,Duncan Murdoch
+049022.html,[Rd] Using Rtools in Unix environment,49022,Duncan Murdoch
+049034.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49034,Duncan Murdoch
+049039.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49039,Duncan Murdoch
+049045.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49045,Duncan Murdoch
+049053.html,[Rd] StructTS,49053,Duncan Murdoch
+049106.html,[Rd] clean-up actions after non-local exits,49106,Duncan Murdoch
+049110.html,[Rd] clean-up actions after non-local exits,49110,Duncan Murdoch
+049134.html,[Rd] matrix,49134,Duncan Murdoch
+049177.html,[Rd] AddComment (gram.y),49177,Duncan Murdoch
+049195.html,[Rd] AddComment (gram.y),49195,Duncan Murdoch
+049210.html,[Rd] package building problem under Windows Vista,49210,Duncan Murdoch
+049216.html,[Rd] package building problem under Windows Vista,49216,Duncan Murdoch
+049219.html,[Rd] package building problem under Windows Vista,49219,Duncan Murdoch
+049230.html,[Rd] AddComment (gram.y),49230,Duncan Murdoch
+049239.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in 2.7.0	RC,49239,Duncan Murdoch
+049244.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in 2.7.0	RC,49244,Duncan Murdoch
+049253.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in 2.7.0	RC,49253,Duncan Murdoch
+049256.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49256,Duncan Murdoch
+049258.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in 2.7.0 RC,49258,Duncan Murdoch
+049279.html,[Rd] RFC:  What should ?foo do?,49279,Duncan Murdoch
+049294.html,[Rd] RFC:  What should ?foo do?,49294,Duncan Murdoch
+049302.html,[Rd] RFC: What should ?foo do?,49302,Duncan Murdoch
+049304.html,[Rd] RFC:  What should ?foo do?,49304,Duncan Murdoch
+049306.html,[Rd] RFC:  What should ?foo do?,49306,Duncan Murdoch
+049316.html,[Rd] returning vectors of unknown size from C (with .C),49316,Duncan Murdoch
+049328.html,[Rd] RFC: What should ?foo do?,49328,Duncan Murdoch
+049348.html,[Rd] R-Forge SVN repositories: R CMD build/check error on Windows machines,49348,Duncan Murdoch
+049367.html,[Rd] help text for xlim,49367,Duncan Murdoch
+049374.html,[Rd] build packages with vignettes in Windows,49374,Duncan Murdoch
+049377.html,[Rd] build packages with vignettes in Windows,49377,Duncan Murdoch
+049378.html,[Rd] non-digits in svnversion output mess up windows build if USE_SVNVERSION=yes (PR#11339),49378,Duncan Murdoch
+049381.html,[Rd] build packages with vignettes in Windows,49381,Duncan Murdoch
+049387.html,[Rd] RFC: What should ?foo do?,49387,Duncan Murdoch
+049399.html,[Rd] build packages with vignettes in Windows,49399,Duncan Murdoch
+049401.html,[Rd] build packages with vignettes in Windows,49401,Duncan Murdoch
+049089.html,[Rd] &amp;&amp; and |,49089,Jared O'Connell
+049344.html,[Rd] Take marginality into account in factor.scope,49344,"ONKELINX, Thierry"
+049105.html,[Rd] clean-up actions after non-local exits,49105,Vadim Organovich
+049108.html,[Rd] clean-up actions after non-local exits,49108,Vadim Organovich
+049124.html,[Rd] clean-up actions after non-local exits,49124,Vadim Organovich
+049129.html,[Rd] C++ complains abouct Rprintf signature,49129,Vadim Organovich
+049158.html,[Rd] configure can't find dgemm in MKL10,49158,Christopher Paciorek
+049231.html,[Rd] configure can't find dgemm in MKL10,49231,Christopher Paciorek
+049027.html,[Rd] coerce methods and inheritance,49027,Herve Pages
+049030.html,[Rd] autocompletion problem,49030,Herve Pages
+049035.html,[Rd] autocompletion problem,49035,Herve Pages
+049037.html,[Rd] coerce methods and inheritance,49037,Herve Pages
+049120.html,"[Rd] Pb with validObject(..., complete=TRUE)",49120,Herve Pages
+049132.html,"[Rd] Pb with validObject(..., complete=TRUE)",49132,Herve Pages
+049149.html,[Rd] Couldn't (and shouldn't) is.unsorted() be faster?,49149,Herve Pages
+049152.html,[Rd] Couldn't (and shouldn't) is.unsorted() be faster?,49152,Herve Pages
+049171.html,[Rd] Couldn't (and shouldn't) is.unsorted() be faster?,49171,Herve Pages
+049172.html,[Rd] Pb with package::foo(x) &lt;- value,49172,Herve Pages
+049352.html,"[Rd] R 2.7.0, match() and strings containing \0 - bug?",49352,Herve Pages
+049365.html,[Rd] help text for xlim,49365,Henrik Parn
+049362.html,[Rd] reproducible segmentation fault caused by textConnection(),49362,Gregoire Pau
+049394.html,[Rd] reproducible segmentation fault caused by textConnection(),49394,Gregoire Pau
+048884.html,[Rd] Compile dll in Windows XP,48884,"Pavlidis, Polykarpos"
+048996.html,[Rd] problem with Rmpi 0.5-5 and openmpi,48996,Peter Pearman
+049062.html,[Rd] problem with Rmpi 0.5-5 and openmpi,49062,Peter Pearman
+048912.html,[Rd] Extractor function for standard deviation.,48912,Roger D. Peng
+048926.html,[Rd] R CMD check should check date in description,48926,Roger D. Peng
+048931.html,[Rd] R CMD check should check date in description,48931,Roger D. Peng
+048999.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48999,Roger D. Peng
+048941.html,[Rd] suggested minor patch for optim.R,48941,Thomas Petzoldt
+048980.html,[Rd] optim: why is REPORT not used in SANN?,48980,Thomas Petzoldt
+049003.html,[Rd] optim: why is REPORT not used in SANN?,49003,Thomas Petzoldt
+049127.html,[Rd] getNativeSymbolInfo fails with Fortran symbol.,49127,Thomas Petzoldt
+049212.html,[Rd] Fortran underscore problem persists on Linux x86/64	(PR#11206),49212,Thomas Petzoldt
+048902.html,[Rd] R-uthreads?,48902,Andrew Piskorski
+049001.html,[Rd] R_SHARE_DIR not defined for use in tests/Makefile running	under Windows,49001,Tony Plate
+049061.html,[Rd] R_SHARE_DIR not defined for use in tests/Makefile running under Windows,49061,Tony Plate
+049097.html,[Rd] Doing the right amount of copy for large data frames.,49097,Tony Plate
+049126.html,[Rd] obstacles to using vectors with attributes,49126,Jim Regetz
+048982.html,[Rd] Matrix multiplication in a C code,48982,Mathieu Ribatet
+049083.html,[Rd] Matrix multiplication in a C code,49083,Mathieu Ribatet
+049088.html,[Rd] &amp;&amp; and ||,49088,Mathieu Ribatet
+049090.html,"[Rd] Incorrect @INC: Rcmd SHLIB error under Windows (2.6.2, 44383) (PR#11161)",49090,Mathieu Ribatet
+049218.html,[Rd] Extending R formulas,49218,Mathieu Ribatet
+049225.html,"[Rd] prod(0, 1:1000) ;  0 * Inf  etc",49225,Mathieu Ribatet
+049235.html,"[Rd] prod(0, 1:1000) ;  0 * Inf  etc",49235,Mathieu Ribatet
+049292.html,[Rd] r won't start: &quot;r: symbol lookup error: r: undefined symbol: R_Visible&quot; (PR#11265),49292,Mathieu Ribatet
+048885.html,[Rd] Call R from C#,48885,Prof Brian Ripley
+048905.html,[Rd] g++ 4.3  warning: deprecated conversion from string constant to &#8216;char*&#8217;,48905,Prof Brian Ripley
+048908.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48908,Prof Brian Ripley
+048954.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48954,Prof Brian Ripley
+048961.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48961,Prof Brian Ripley
+048970.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,48970,Prof Brian Ripley
+048974.html,[Rd] package.skeleton.S4,48974,Prof Brian Ripley
+048979.html,[Rd] Odd tcltk and Rattle interference on MS/Windows,48979,Prof Brian Ripley
+048983.html,[Rd] Matrix multiplication in a C code,48983,Prof Brian Ripley
+048992.html,"[Rd] Overriding axis formatting with custom Axis method, Axis.numeric etc",48992,Prof Brian Ripley
+048995.html,[Rd] &quot;R CMD check&quot; leaving object files.,48995,Prof Brian Ripley
+048998.html,"[Rd] Overriding axis formatting with custom Axis method, Axis.numeric etc",48998,Prof Brian Ripley
+049000.html,[Rd] X11 image problem in R-2.8.0 Under development / R-2.7,49000,Prof Brian Ripley
+049011.html,[Rd] problem with Rmpi 0.5-5 and openmpi,49011,Prof Brian Ripley
+049038.html,[Rd] getNativeSymbolInfo fails with Fortran symbol.,49038,Prof Brian Ripley
+049046.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49046,Prof Brian Ripley
+049048.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49048,Prof Brian Ripley
+049055.html,[Rd] make check fails if called with --without-recommended-packages,49055,Prof Brian Ripley
+049056.html,[Rd] R_SHARE_DIR not defined for use in tests/Makefile running under Windows,49056,Prof Brian Ripley
+049066.html,[Rd] 2.7.0 beta (rev 45263) failing 'make vignettes',49066,Prof Brian Ripley
+049076.html,[Rd] Windows problem related to using shortPathName for Sweave style file,49076,Prof Brian Ripley
+049116.html,[Rd] option(expressions) and --max-ppsize,49116,Prof Brian Ripley
+049119.html,[Rd] Doing the right amount of copy for large data frames.,49119,Prof Brian Ripley
+049123.html,[Rd] including additional packages in Recommended,49123,Prof Brian Ripley
+049130.html,[Rd] C++ complains abouct Rprintf signature,49130,Prof Brian Ripley
+049142.html,[Rd] segments() with zero-length arguments (PR#11192),49142,Prof Brian Ripley
+049151.html,[Rd] Couldn't (and shouldn't) is.unsorted() be faster?,49151,Prof Brian Ripley
+049154.html,[Rd] R-extension in unix system -- help to locate header files,49154,Prof Brian Ripley
+049155.html,[Rd] Couldn't (and shouldn't) is.unsorted() be faster?,49155,Prof Brian Ripley
+049159.html,[Rd] configure can't find dgemm in MKL10,49159,Prof Brian Ripley
+049166.html,[Rd] R-extension in unix system -- help to locate header files,49166,Prof Brian Ripley
+049167.html,[Rd] problem customizing CXXFLAGS in Windows,49167,Prof Brian Ripley
+049176.html,[Rd] Pb with package::foo(x) &lt;- value,49176,Prof Brian Ripley
+049179.html,[Rd] package building problem under Windows Vista,49179,Prof Brian Ripley
+049186.html,[Rd] Progress window on updating,49186,Prof Brian Ripley
+049202.html,[Rd] Fortran underscore problem persists on Linux x86/64 (PR#11206),49202,Prof Brian Ripley
+049204.html,[Rd] Fortran underscore problem persists on Linux x86/64 (PR#11206),49204,Prof Brian Ripley
+049213.html,[Rd] Fortran underscore problem persists on Linux x86/64 (PR#11206),49213,Prof Brian Ripley
+049214.html,[Rd] package building problem under Windows Vista,49214,Prof Brian Ripley
+049217.html,[Rd] package building problem under Windows Vista,49217,Prof Brian Ripley
+049228.html,[Rd] R-2.7.0 RC (2008-04-20 r45403) fails fullcheck,49228,Prof Brian Ripley
+049269.html,[Rd] cbind speed.,49269,Prof Brian Ripley
+049274.html,[Rd] R-gui and chinese character,49274,Prof Brian Ripley
+049276.html,[Rd] Calling R functions with multiple arguments from C,49276,Prof Brian Ripley
+049285.html,[Rd] RFC: What should ?foo do?,49285,Prof Brian Ripley
+049313.html,[Rd] RFC: What should ?foo do?,49313,Prof Brian Ripley
+049319.html,[Rd] Misuse of get(getOption(&quot;device&quot;))() in packages,49319,Prof Brian Ripley
+049323.html,[Rd] returning vectors of unknown size from C (with .C),49323,Prof Brian Ripley
+049327.html,[Rd] median methods,49327,Prof Brian Ripley
+049339.html,"[Rd] R 2.7.0, match() and strings containing \0 - bug?",49339,Prof Brian Ripley
+049350.html,[Rd] R-Forge SVN repositories: R CMD build/check error on Windows machines,49350,Prof Brian Ripley
+049357.html,[Rd] R-Forge SVN repositories: R CMD build/check error on Windows machines,49357,Prof Brian Ripley
+049373.html,[Rd] build packages with vignettes in Windows,49373,Prof Brian Ripley
+049388.html,[Rd] RFC: What should ?foo do?,49388,Prof Brian Ripley
+048978.html,"[Rd] Hardly worth a bug report, but ...",48978,Andrew Robinson
+049275.html,[Rd] Calling R functions with multiple arguments from C,49275,"Rossouw, Ruan (RF)"
+048994.html,[Rd] &quot;R CMD check&quot; leaving object files.,48994,Barry Rowlingson
+049032.html,[Rd] autocompletion problem,49032,Deepayan Sarkar
+049050.html,[Rd] autocompletion problem,49050,Deepayan Sarkar
+049311.html,[Rd] RFC: What should ?foo do?,49311,Deepayan Sarkar
+049351.html,[Rd] R-Forge SVN repositories: R CMD build/check error on	Windows machines,49351,Deepayan Sarkar
+049010.html,[Rd] Rmpi 0.5-6 : error spawning process,49010,Markus Schmidberger
+049283.html,[Rd] RFC:  What should ?foo do?,49283,Marc Schwartz
+049307.html,[Rd] RFC:  What should ?foo do?,49307,Marc Schwartz
+049310.html,[Rd] RFC: What should ?foo do?,49310,Marc Schwartz
+049115.html,[Rd] NEWS file,49115,David Scott
+049262.html,[Rd] Problem with graphic exhibition in Java using JRI,49262,Alzennyr Silva
+049064.html,[Rd] 2.7.0 beta (rev 45263) failing 'make vignettes',49064,Gavin Simpson
+049068.html,[Rd] 2.7.0 beta (rev 45263) failing 'make vignettes',49068,Gavin Simpson
+048896.html,[Rd] &quot;[&lt;-&quot; plus drop-type extra argument,48896,"Sklyar, Oleg (MI London)"
+048990.html,"[Rd] Overriding axis formatting with custom Axis method,	Axis.numeric etc",48990,"Sklyar, Oleg (MI London)"
+048997.html,"[Rd] Overriding axis formatting with custom Axis method, Axis.numeric etc",48997,"Sklyar, Oleg (MI London)"
+049040.html,"[Rd] ISOdate/ISOdatetime performance suggestions, other date/time    questions",49040,"Sklyar, Oleg (MI London)"
+049042.html,"[Rd] ISOdate/ISOdatetime performance suggestions,	other date/time    questions",49042,"Sklyar, Oleg (MI London)"
+049236.html,[Rd] S3 method despatch (changed between 2.6.2 and 2.7.0 RC?),49236,"Sklyar, Oleg (MI London)"
+049238.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in 2.7.0	RC,49238,"Sklyar, Oleg (MI London)"
+049240.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0	RC,49240,"Sklyar, Oleg (MI London)"
+049241.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0	RC,49241,"Sklyar, Oleg (MI London)"
+049243.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0 RC,49243,"Sklyar, Oleg (MI London)"
+049245.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0	RC,49245,"Sklyar, Oleg (MI London)"
+049248.html,[Rd] graphics::Axis loosing S3/S4 class attributes of 'x' in	2.7.0	RC,49248,"Sklyar, Oleg (MI London)"
+049250.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49250,"Sklyar, Oleg (MI London)"
+049255.html,[Rd] plot(x) in 2.7.0 (with y=NULL) proposed code correction,49255,"Sklyar, Oleg (MI London)"
+049364.html,[Rd] reproducible segmentation fault caused by textConnection(),49364,"Sklyar, Oleg (MI London)"
+049098.html,[Rd] HOW TO AVOID LOOPS,49098,Greg Snow
+049156.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained and	of	interest?,49156,Soeren Sonnenburg
+049193.html,[Rd] swig 1.3.35 &amp; R - is the R wrapper still maintained	and	of	interest?,49193,Soeren Sonnenburg
+049286.html,[Rd] Bug in R 2.7 for over long lines,49286,Soeren Sonnenburg
+049287.html,[Rd] Bug in R 2.7 for over long lines,49287,Soeren Sonnenburg
+049121.html,[Rd] Sage &lt;--&gt; R integration,49121,William Stein
+049169.html,[Rd] [rd] sage &lt;--&gt; r integration,49169,William Stein
+049054.html,[Rd] make check fails if called with --without-recommended-packages,49054,Detlef Steuer
+049143.html,[Rd] Suggestion: add a warning in the help-file of unique(),49143,Matthieu Stigler
+049063.html,[Rd] StructTS,49063,David Stoffer
+049346.html,[Rd] R-Forge SVN repositories: R CMD build/check error on Windows	machines,49346,Stefan Theussl
+049355.html,[Rd] R-Forge SVN repositories: R CMD build/check error on Windows machines,49355,Stefan Theussl
+049356.html,[Rd] R-Forge SVN repositories: R CMD build/check error on Windows machines,49356,Stefan Theussl
+048891.html,[Rd] callCC in 2.7.0,48891,Luke Tierney
+048898.html,[Rd] callCC in 2.7.0,48898,Luke Tierney
+049023.html,[Rd] problem with Rmpi 0.5-5 and openmpi,49023,Luke Tierney
+049025.html,[Rd] R-uthreads?,49025,Luke Tierney
+049112.html,[Rd] clean-up actions after non-local exits,49112,Luke Tierney
+049184.html,[Rd] Pb with package::foo(x) &lt;- value,49184,Luke Tierney
+049233.html,"[Rd] prod(0, 1:1000) ;  0 * Inf  etc",49233,Berwin A Turlach
+048910.html,[Rd] Extractor function for standard deviation.,48910,Rolf Turner
+049109.html,[Rd] HOW TO AVOID LOOPS,49109,Simon Urbanek
+049163.html,[Rd] R-extension in unix system -- help to locate header files,49163,Simon Urbanek
+049164.html,[Rd] naive question regarding running parallel C code from R,49164,Simon Urbanek
+049277.html,[Rd] (PR#11240),49277,Simon Urbanek
+049303.html,[Rd] RFC:  What should ?foo do?,49303,Simon Urbanek
+049349.html,[Rd] OSX R GUI visual interface tweak (PR#11318),49349,Simon Urbanek
+049400.html,[Rd] build packages with vignettes in Windows,49400,Simon Urbanek
+049403.html,[Rd] build packages with vignettes in Windows,49403,Simon Urbanek
+049060.html,[Rd] Adding a Matrix Exponentiation Operator,49060,Ravi Varadhan
+048899.html,[Rd] by &quot;infelicity&quot;,48899,Tobias Verbeke
+048901.html,[Rd] by,48901,Tobias Verbeke
+048940.html,[Rd] tests Rin and Rout,48940,Tobias Verbeke
+048948.html,[Rd] tests Rin and Rout,48948,Tobias Verbeke
+049103.html,[Rd] option(expressions) and --max-ppsize,49103,Tobias Verbeke
+048915.html,[Rd] How to tell R where to look for libgcc,48915,Mike Waldron
+048976.html,[Rd] Odd tcltk and Rattle interference on MS/Windows,48976,Graham Williams
+048965.html,[Rd] Adding a Matrix Exponentiation Operator,48965,Rory Winston
+049007.html,[Rd] Adding a Matrix Exponentiation Operator,49007,Rory Winston
+049008.html,[Rd] Adding a Matrix Exponentiation Operator,49008,Rory Winston
+049009.html,[Rd] Adding a Matrix Exponentiation Operator,49009,Rory Winston
+049249.html,[Rd]  question about p-value implementation,49249,Vincent Wolowski
+048952.html,[Rd] How to create a function calling two functions with unknown number of parameters?,48952,ZT2008
+049389.html,[Rd] [PATCH] Typo in 'help' documentation,49389,Roger D. Peng [audrey]
+048894.html,[Rd] &quot;by&quot; speed improvement (PR#11064),48894,simon.debernard at altrabio.com
+049137.html,[Rd] package.skeleton() creates corrupted Rd file (PR#11191),49137,pent at aparamon.msk.ru
+049005.html,"[Rd] R-2.6.2 Solaris 11  build, install,	and check failures (PR#11093)",49005,f.middleton at apogeect.com
+049237.html,"[Rd] Seqfault, Address 0, track X11() (PR#11231)",49237,liqun.xing at basf.com
+049266.html,"[Rd] Seqfault, Address 0, track X11() (PR#11231)",49266,liqun.xing at basf.com
+049321.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed fix!)	(PR#11284),49321,p.dalgaard at biostat.ku.dk
+049004.html,[Rd] &quot;\0&quot; gives no warning &quot;unknown escape sequence&quot; (PR#11107),49004,volkmar.klatt at bnv-bamberg.de
+049207.html,[Rd] Java-&gt;R functions (or possibly C++ -&gt; R),49207,esmail bonakdarian
+049211.html,[Rd] Java-&gt;R functions (or possibly C++ -&gt; R),49211,esmail bonakdarian
+049289.html,[Rd] r for windows gui front-end error (PR#11257),49289,job75 at business.kaist.ac.kr
+049296.html,[Rd] r won't start: &quot;r: symbol lookup error: r: undefined	symbol: (PR#11274),49296,edd at debian.org
+049372.html,[Rd] R code for weighted Deming regression? (PR#11334),49372,HDu at enh.org
+049353.html,[Rd] X11 window title setting in X11() Device (PR#11325),49353,julien.barnier at ens-lsh.fr
+049360.html,[Rd] X11 window title setting in X11() Device (PR#11325),49360,julien.barnier at ens-lsh.fr
+049026.html,[Rd] getNativeSymbolInfo fails with Fortran symbol.,49026,Setzer.Woodrow at epamail.epa.gov
+049092.html,"[Rd] Incorrect @INC: Rcmd SHLIB error under Windows (2.6.2,	44383) (PR#11165)",49092,mathieu.ribatet at epfl.ch
+049293.html,[Rd] r won't start: &quot;r: symbol lookup error: r: undefined	symbol: (PR#11273),49293,mathieu.ribatet at epfl.ch
+049128.html,[Rd] methods::is problem in R 2.7.0 &amp; R 2.8.0 devel,49128,ml-it-r-devel at epigenomics.com
+049117.html,[Rd] Small memory leak in plot on OS X (PR#11170),49117,abergeron at gmail.com
+049370.html,[Rd] crash in Mac.app (PR#11334),49370,alexcozzi at gmail.com
+049317.html,[Rd] remarks on function pnbeta (PR#11277),49317,ali.baharev at gmail.com
+049271.html,[Rd] HTML help for R (PR#11253),49271,belhassen.kaabi at gmail.com
+049263.html,"[Rd] Seqfault, Address 0, track X11() (PR#11231)",49263,brechbuehler at gmail.com
+049332.html,[Rd] View functionhas problems going beyond 65536 rows (PR#11291),49332,jholtman at gmail.com
+049341.html,[Rd] (PR#11291) View functionhas problems going beyond 65536	rows *using the scrollbar*,49341,jholtman at gmail.com
+049342.html,[Rd] Small Visual Bug in R GUI Package Installer (PR#11317),49342,nelson.ana at gmail.com
+049343.html,[Rd] OSX R GUI visual interface tweak (PR#11318),49343,nelson.ana at gmail.com
+048953.html,[Rd] Random seed not reset when starting R (PR#11089),48953,pmelsted at gmail.com
+049020.html,[Rd] Adding a Matrix Exponentiation Operator,49020,rory.winston at gmail.com
+049291.html,[Rd] R crashes while running a positive checked script (PR#11264),49291,virtualreal at gmail.com
+049288.html,[Rd] r won't start: &quot;r: symbol lookup error: r: undefined symbol:	R_Visible&quot; (PR#11265),49288,jakobstoeger at gmx.de
+049359.html,[Rd] inquiry - failed to start R-2.7.0 (Window) (PR#11329),49359,kmma at ha.org.hk
+049087.html,[Rd] Bug in ci.plot(HH Package) (PR#11163),49087,nakajima at hokkaido-iri.go.jp
+049016.html,[Rd] library(forecast) (PR#11111),49016,kirjeet at hotmail.com
+049290.html,[Rd] CircStats Bug? (PR#11266),49290,rmark at infomagic.net
+049102.html,[Rd] unix.time() scoping problem (PR#11169),49102,bill at insightful.com
+049375.html,[Rd] non-digits in svnversion output mess up windows build if	USE_SVNVERSION=yes (PR#11339),49375,bill at insightful.com
+049383.html,[Rd] non-digits in svnversion output mess up windows build if	(PR#11341),49383,bill at insightful.com
+048916.html,[Rd] cannot increase memory size to 4Gb (PR#11087),48916,n.henriquez at ion.ucl.ac.uk
+049146.html,[Rd]  calculating multiregression for the given data,49146,man4ish
+049065.html,[Rd] HOW TO AVOID LOOPS,49065,carlos martinez
+049074.html,[Rd] HOW TO AVOID LOOPS,49074,carlos martinez
+048989.html,[Rd] Matrix multiplication in a C code,48989,mel
+049227.html,[Rd] R-2.7.0 RC (2008-04-20 r45403) fails fullcheck,49227,apjaworski at mmm.com
+049229.html,[Rd] R-2.7.0 RC (2008-04-20 r45403) fails fullcheck,49229,apjaworski at mmm.com
+049318.html,[Rd] Bug in R 2.7 for over long lines (crasher+proposed fix!)	(PR#11281),49318,bugreports at nn7.de
+049059.html,[Rd] Documentation: pls add xref from &quot;sum&quot; to &quot;rowSums&quot; (PR#11145),49059,mike.prager at noaa.gov
+049157.html,[Rd] [rd] sage &lt;--&gt; r integration,49157,Friedrich.Leisch at r-project.org
+049267.html,[Rd] HTML help solveLP(linprog) (PR#11250),49267,Ludek.Salom at rsj.cz
+049333.html,[Rd] R_DEFAULT_DEVICE (PR#11294),49333,p.c.j.kleiweg at rug.nl
+049086.html,"[Rd] Incorrect @INC: Rcmd SHLIB error under Windows (2.6.2,	44383) (PR#11161)",49086,wolpert at stat.duke.edu
+049051.html,[Rd]   Re: library(forecast) (PR#11111),49051,ligges at statistik.tu-dortmund.de
+049094.html,[Rd] Bug in ci.plot(HH Package) (PR#11163),49094,ligges at statistik.tu-dortmund.de
+048917.html,[Rd] cannot increase memory size to 4Gb (PR#11087),48917,ripley at stats.ox.ac.uk
+049024.html,[Rd] &quot;\0&quot; gives no warning &quot;unknown escape sequence&quot; (PR#11117),49024,ripley at stats.ox.ac.uk
+049093.html,[Rd] (PR#11161) Incorrect @INC: Rcmd SHLIB error under Windows,49093,ripley at stats.ox.ac.uk
+049139.html,[Rd] segments() with zero-length arguments (PR#11192),49139,ripley at stats.ox.ac.uk
+049272.html,[Rd] (PR#11231) [Solaris 9 segfault when closiing X11()],49272,ripley at stats.ox.ac.uk
+049335.html,[Rd] R_DEFAULT_DEVICE (PR#11294),49335,ripley at stats.ox.ac.uk
+049336.html,[Rd] (PR#11291) View functionhas problems going beyond 65536,49336,ripley at stats.ox.ac.uk
+049354.html,[Rd] X11 window title setting in X11() Device (PR#11325),49354,ripley at stats.ox.ac.uk
+049379.html,[Rd] non-digits in svnversion output mess up windows build if	(PR#11340),49379,murdoch at stats.uwo.ca
+049138.html,[Rd] segments() with zero-length arguments (PR#11192),49138,rmh at temple.edu
+049147.html,[Rd] Bug in ci.plot(HH Package) (PR#11163),49147,rmh at temple.edu
+049395.html,[Rd] Quotation marks (PR#11353),49395,mitchell.wachtel at ttuhsc.edu
+049190.html,[Rd] Fortran underscore problem persists on Linux x86/64 (PR#11206),49190,thomas.petzoldt at tu-dresden.de
+049161.html,[Rd] naive question regarding running parallel C code from R,49161,tyler
+049192.html,[Rd] naive question regarding running parallel C code from R,49192,tyler
+049077.html,[Rd] R 2.7 package.skeleton,49077,cgenolin at u-paris10.fr
+049078.html,[Rd] R2.7 package.skeleton II,49078,cgenolin at u-paris10.fr
+049082.html,[Rd] R 2.7 package.skeleton,49082,cgenolin at u-paris10.fr
+048883.html,[Rd] Call R from C#,48883,guox at ucalgary.ca
+049251.html,[Rd] Bug in poly() (PR#11243),49251,russell-lenth at uiowa.edu
+049265.html,[Rd] poly() can exceed degree k - 1 for k distinct points (PR#11251),49265,russell-lenth at uiowa.edu
+049049.html,[Rd] inconsistency within within( ) (PR#11131),49049,jritter at umn.edu
+049261.html,[Rd] (PR#11240),49261,Christophe.GIRAUD at unice.fr
+049393.html,[Rd] apply and monthly time series (PR#11352),49393,stephen.mcintyre at utoronto.ca
+048911.html,[Rd] wishlist - annoying print behaviour (PR#11082),48911,tony.dixon at watc.wa.gov.au
+048913.html,[Rd] __FILE__ for R,48913,hadley wickham
+048914.html,[Rd] __FILE__ for R,48914,hadley wickham
+048920.html,[Rd] R CMD check should check date in description,48920,hadley wickham
+048923.html,[Rd] R CMD check should check date in description,48923,hadley wickham
+048930.html,[Rd] R CMD check should check date in description,48930,hadley wickham
+048936.html,[Rd] R CMD check should check date in description,48936,hadley wickham
+049072.html,[Rd] HOW TO AVOID LOOPS,49072,hadley wickham
+049284.html,[Rd] RFC: What should ?foo do?,49284,hadley wickham
+049299.html,[Rd] RFC: What should ?foo do?,49299,hadley wickham
+049300.html,[Rd] RFC: What should ?foo do?,49300,hadley wickham
+049301.html,[Rd] RFC: What should ?foo do?,49301,hadley wickham
+049305.html,[Rd] RFC: What should ?foo do?,49305,hadley wickham
+049308.html,[Rd] RFC: What should ?foo do?,49308,hadley wickham
+049398.html,[Rd] Quotation marks (PR#11353),49398,hadley wickham
+049358.html,[Rd] Some compiling problems,49358,jing hua zhao

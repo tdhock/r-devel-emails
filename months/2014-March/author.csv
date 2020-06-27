@@ -1,0 +1,271 @@
+link,Subject,id,author
+068464.html,[Rd] [GSoC student proposal] Implementation of Modified Weibull-G Family Distribution in R,68464,Dr M Aleem
+068483.html,[Rd] A question about multiple(?) out of order ReleaseObject,68483,Gabriel Becker
+068487.html,[Rd] A question about multiple(?) out of order ReleaseObject,68487,Gabriel Becker
+068671.html,[Rd] Conflicting definitions for function redefined as S4	generics,68671,Gabriel Becker
+068679.html,[Rd] internal string comparison (Scollate),68679,Gabriel Becker
+068500.html,[Rd] AIX 7.1 and R build problems,68500,Mike Beddo
+068524.html,[Rd] Problems building package vignette: Sweave requires multiple passes to build document.,68524,Skye Bender-deMoll
+068589.html,[Rd] [RFC] A case for freezing CRAN,68589,Roger Bivand
+068669.html,[Rd] Conflicting definitions for function redefined as S4 generics,68669,Ulrich Bodenhofer
+068674.html,[Rd] Conflicting definitions for function redefined as S4	generics,68674,Ulrich Bodenhofer
+068687.html,[Rd] Conflicting definitions for function redefined as S4	generics,68687,Ulrich Bodenhofer
+068560.html,[Rd] [RFC] A case for freezing CRAN,68560,Carl Boettiger
+068601.html,[Rd] The case for freezing CRAN,68601,Carl Boettiger
+068446.html,[Rd] trivial typo in src/library/base/man/timezone.Rd,68446,Ben Bolker
+068448.html,"[Rd] reference classes, LAZY_DUPLICATE_OK, and external pointers",68448,Ben Bolker
+068450.html,"[Rd] reference classes, LAZY_DUPLICATE_OK, and external pointers",68450,Ben Bolker
+068474.html,[Rd] [GSoC student proposal] Implementation of Modified	Weibull-G Family Distribution in R,68474,Ben Bolker
+068507.html,[Rd] 2 versions of same library loaded,68507,Ross Boylan
+068509.html,[Rd] 2 versions of same library loaded,68509,Ross Boylan
+068514.html,[Rd] 2 versions of same library loaded,68514,Ross Boylan
+068515.html,[Rd] 2 versions of same library loaded,68515,Ross Boylan
+068516.html,[Rd] 2 versions of same library loaded,68516,Ross Boylan
+068531.html,[Rd] Does R ever move objecsts in memory?,68531,Ross Boylan
+068577.html,[Rd] modifying data in a package,68577,Ross Boylan
+068584.html,[Rd] modifying data in a package [a solution],68584,Ross Boylan
+068699.html,[Rd] Error: C stack usage is too close to the limit,68699,Florian Burkart
+068605.html,[Rd] [RFC] A case for freezing CRAN,68605,Ted Byers
+068608.html,[Rd] [RFC] A case for freezing CRAN,68608,Ted Byers
+068609.html,[Rd] [RFC] A case for freezing CRAN,68609,Ted Byers
+068611.html,[Rd] [RFC] A case for freezing CRAN,68611,Ted Byers
+068677.html,[Rd] Conflicting definitions for function redefined as S4	generics,68677,John Chambers
+068690.html,[Rd] Conflicting definitions for function redefined as S4	generics,68690,John Chambers
+068659.html,[Rd] Timezone warnings on package install in R-alpha,68659,Jon Clayden
+068594.html,[Rd] The case for freezing CRAN,68594,Kevin Coombes
+068652.html,[Rd] A rep_each function,68652,Richard Cotton
+068503.html,[Rd] Maintainer NOTE in R CMD Check,68503,G&#225;bor Cs&#225;rdi
+068617.html,[Rd] [RFC] A case for freezing CRAN,68617,G&#225;bor Cs&#225;rdi
+068619.html,[Rd] [RFC] A case for freezing CRAN,68619,G&#225;bor Cs&#225;rdi
+068633.html,[Rd] The case for freezing CRAN,68633,G&#225;bor Cs&#225;rdi
+068636.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68636,G&#225;bor Cs&#225;rdi
+068640.html,[Rd] Fwd: [RFC] A case for freezing CRAN,68640,G&#225;bor Cs&#225;rdi
+068642.html,[Rd] Fwd: [RFC] A case for freezing CRAN,68642,G&#225;bor Cs&#225;rdi
+068644.html,[Rd] Fwd: [RFC] A case for freezing CRAN,68644,G&#225;bor Cs&#225;rdi
+068646.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68646,G&#225;bor Cs&#225;rdi
+068661.html,[Rd] [RFC] A case for freezing CRAN,68661,G&#225;bor Cs&#225;rdi
+068454.html,[Rd] Admin manual bug: packages installed on OS X,68454,Davor Cubranic
+068513.html,[Rd] 2 versions of same library loaded,68513,William Dunlap
+068618.html,[Rd] [RFC] A case for freezing CRAN,68618,William Dunlap
+068501.html,[Rd] Bundling vendor library inside a package,68501,Dirk Eddelbuettel
+068512.html,[Rd] Fwd: C code and DLL file in the package,68512,Dirk Eddelbuettel
+068530.html,[Rd] How to convert time_t to R date object,68530,Dirk Eddelbuettel
+068537.html,[Rd] How to convert time_t to R date object,68537,Dirk Eddelbuettel
+068538.html,[Rd] How to convert time_t to R date object,68538,Dirk Eddelbuettel
+068554.html,[Rd] [RFC] A case for freezing CRAN,68554,Dirk Eddelbuettel
+068595.html,[Rd] The case for freezing CRAN,68595,Dirk Eddelbuettel
+068634.html,[Rd] The case for freezing CRAN,68634,Dirk Eddelbuettel
+068650.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68650,Dirk Eddelbuettel
+068678.html,[Rd] internal string comparison (Scollate),68678,Dirk Eddelbuettel
+068692.html,[Rd] internal string comparison (Scollate),68692,Dirk Eddelbuettel
+068704.html,[Rd] CXX_STD and configure.ac in packages,68704,Dirk Eddelbuettel
+068495.html,[Rd] Maintainer NOTE in R CMD Check,68495,S Ellison
+068590.html,[Rd] [RFC] A case for freezing CRAN,68590,S Ellison
+068654.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68654,Bennet Fauber
+068466.html,[Rd] [PATCH] Code coverage support proof of concept,68466,Karl Forner
+068494.html,[Rd] [PATCH] Code coverage support proof of concept,68494,Karl Forner
+068638.html,[Rd] Fwd:  [RFC] A case for freezing CRAN,68638,Karl Forner
+068641.html,[Rd] Fwd: [RFC] A case for freezing CRAN,68641,Karl Forner
+068643.html,[Rd] Fwd: [RFC] A case for freezing CRAN,68643,Karl Forner
+068549.html,[Rd] Writing R Extensions: clarification/modification request,68549,Thell Fowler
+068571.html,[Rd] [RFC] A case for freezing CRAN,68571,Romain Francois
+068706.html,[Rd] CXX_STD and configure.ac in packages,68706,Romain Francois
+068676.html,[Rd] internal string comparison (Scollate),68676,Romain Fran&#231;ois
+068683.html,[Rd] internal string comparison (Scollate),68683,Romain Fran&#231;ois
+068710.html,[Rd] CXX_STD and configure.ac in packages,68710,Romain Fran&#231;ois
+068712.html,[Rd] internal string comparison (Scollate),68712,Romain Fran&#231;ois
+068459.html,[Rd] forking a CRAN project,68459,Michael Friendly
+068477.html,[Rd] version numbers for CRAN submissions that give warnings/notes,68477,Michael Friendly
+068504.html,[Rd] Maintainer NOTE in R CMD Check,68504,Philippe GROSJEAN
+068632.html,[Rd] [RFC] A case for freezing CRAN,68632,Philippe GROSJEAN
+068635.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68635,Philippe GROSJEAN
+068647.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68647,Philippe GROSJEAN
+068688.html,[Rd] Proxy settings not honoured anymore,68688,Renaud Gaujoux
+068689.html,[Rd] Proxy settings not honoured anymore,68689,Renaud Gaujoux
+068645.html,[Rd] &quot;ERROR: installing package indices failed&quot; message when	building my package?,68645,Paul Geeleher
+068662.html,[Rd] &quot;ERROR: installing package indices failed&quot; message when building my package?,68662,Paul Geeleher
+068664.html,[Rd] &quot;ERROR: installing package indices failed&quot; message when building my package?,68664,Paul Geeleher
+068665.html,[Rd] &quot;ERROR: installing package indices failed&quot; message when building my package?,68665,Paul Geeleher
+068564.html,[Rd] Memcheck: Invalid  read of size 4,68564,Christophe Genolini
+068597.html,[Rd] Memcheck: Invalid  read of size 4,68597,Christophe Genolini
+068615.html,[Rd] Memcheck: error in a switch using getGraphicsEvent,68615,Christophe Genolini
+068630.html,[Rd] Memcheck: error in a switch using getGraphicsEvent,68630,Christophe Genolini
+068587.html,[Rd] Time format in parameters,68587,Cathy Lee Gierke
+068666.html,[Rd] Varying results of package checks due to random seed,68666,Paul Gilbert
+068681.html,"[Rd] NOTE when detecting mismatch in output, and codes for NOTEs, WARNINGs and ERRORs",68681,Paul Gilbert
+068558.html,[Rd] [RFC] A case for freezing CRAN,68558,Spencer Graves
+068626.html,[Rd] [RFC] A case for freezing CRAN,68626,Philippe Grosjean
+068482.html,[Rd] A question about multiple(?) out of order ReleaseObject,68482,Saptarshi Guha
+068484.html,[Rd] A question about multiple(?) out of order ReleaseObject,68484,Saptarshi Guha
+068485.html,[Rd] Repost: (apologies for HTML post) A question about multiple(?) out of order ReleaseObject,68485,Saptarshi Guha
+068486.html,[Rd] Many apologies: last post: A question about multiple(?) out of	order ReleaseObject,68486,Saptarshi Guha
+068489.html,[Rd] A question about multiple(?) out of order ReleaseObject,68489,Saptarshi Guha
+068526.html,[Rd] Conditional jump or move depends on uninitialised value(s),68526,Jarrod Hadfield
+068542.html,[Rd] valgrind and C++,68542,Jarrod Hadfield
+068547.html,[Rd] valgrind and C++,68547,Jarrod Hadfield
+068553.html,[Rd] [RFC] A case for freezing CRAN,68553,Kasper Daniel Hansen
+068550.html,[Rd] [RFC] A case for freezing CRAN,68550,Frank Harrell
+068492.html,[Rd] Regarding: stat.math.ethz.ch mailing list memberships reminder,68492,Sachko Honda
+068572.html,[Rd] possible bug: graphics::image seems to ignore getOption(&quot;preferRaster&quot;),68572,Dr Gregory Jefferis
+068556.html,[Rd] [RFC] A case for freezing CRAN,68556,Geoff Jentry
+068675.html,[Rd] The case for freezing CRAN,68675,Geoff Jentry
+068462.html,[Rd] [PATCH] suggestions for R-lang manual,68462,Scott Kostyshak
+068585.html,[Rd] [RFC] A case for freezing CRAN,68585,Rainer M Krug
+068586.html,[Rd] [RFC] A case for freezing CRAN,68586,Rainer M Krug
+068624.html,[Rd] [RFC] A case for freezing CRAN,68624,Rainer M Krug
+068625.html,[Rd] [RFC] A case for freezing CRAN,68625,Rainer M Krug
+068628.html,[Rd] Docker versus Vagrant for reproducability - was: The case for	freezing CRAN,68628,Rainer M Krug
+068629.html,[Rd] [RFC] A case for freezing CRAN,68629,Rainer M Krug
+068637.html,[Rd] Docker versus Vagrant for reproducability - was: The case	for freezing CRAN,68637,Rainer M Krug
+068656.html,[Rd] Docker versus Vagrant for reproducability - was: The case	for freezing CRAN,68656,Rainer M Krug
+068657.html,[Rd] Docker versus Vagrant for reproducability - was: The case	for freezing CRAN,68657,Rainer M Krug
+068695.html,[Rd] creating namespaces outside packages,68695,Rainer M Krug
+068697.html,[Rd] SOLVED: creating namespaces outside packages,68697,Rainer M Krug
+068653.html,[Rd] Makevars clean target not in action?,68653,Randy Lai
+068701.html,[Rd] Error: C stack usage is too close to the limit,68701,Randy Lai
+068499.html,[Rd] Bundling vendor library inside a package,68499,John Laing
+068670.html,[Rd] Conflicting definitions for function redefined as S4	generics,68670,Michael Lawrence
+068672.html,[Rd] Conflicting definitions for function redefined as S4	generics,68672,Michael Lawrence
+068498.html,"[Rd] 2 bugs in R's grDevices, and fixes.",68498,Hin-Tak Leung
+068497.html,[Rd] Maintainer NOTE in R CMD Check,68497,Uwe Ligges
+068613.html,[Rd] [RFC] A case for freezing CRAN,68613,Uwe Ligges
+068545.html,[Rd] internal copying in R (soon to be released R-3.1.0,68545,Thomas Lumley
+068452.html,[Rd] [PATCH] suggestions for R-lang manual,68452,Martin Maechler
+068658.html,[Rd] [RFC] A case for freezing CRAN,68658,Martin Maechler
+068660.html,[Rd] &quot;ERROR: installing package indices failed&quot; message	when	building my package?,68660,Martin Maechler
+068663.html,[Rd] &quot;ERROR: installing package indices failed&quot; message when building my package?,68663,Martin Maechler
+068667.html,[Rd] &quot;ERROR: installing package indices failed&quot; message when building my package?,68667,Martin Maechler
+068517.html,[Rd] R-3.0.3 tar file not on Sources page,68517,Steven McKinney
+068506.html,[Rd] ddFindVar,68506,Peter Meilstrup
+068581.html,[Rd] [RFC] A case for freezing CRAN,68581,Karl Millar
+068600.html,[Rd] The case for freezing CRAN,68600,Karl Millar
+068467.html,[Rd] Sweave provides a misleading error when vignette engine not fully specified,68467,Martin Morgan
+068703.html,[Rd] CXX_STD and configure.ac in packages,68703,Martin Morgan
+068711.html,[Rd] CXX_STD and configure.ac in packages,68711,Martin Morgan
+068468.html,[Rd] Sweave provides a misleading error when vignette engine not fully specified,68468,Duncan Murdoch
+068478.html,[Rd] Create dataframe in C from table and return to R,68478,Duncan Murdoch
+068480.html,[Rd] version numbers for CRAN submissions that give	warnings/notes,68480,Duncan Murdoch
+068511.html,[Rd] Fwd: C code and DLL file in the package,68511,Duncan Murdoch
+068525.html,[Rd] Problems building package vignette: Sweave requires multiple passes to build document.,68525,Duncan Murdoch
+068532.html,[Rd] Does R ever move objecsts in memory?,68532,Duncan Murdoch
+068552.html,[Rd] [RFC] A case for freezing CRAN,68552,Duncan Murdoch
+068588.html,[Rd] [RFC] A case for freezing CRAN,68588,Duncan Murdoch
+068616.html,[Rd] Memcheck: error in a switch using getGraphicsEvent,68616,Duncan Murdoch
+068673.html,[Rd] Conflicting definitions for function redefined as S4	generics,68673,Duncan Murdoch
+068694.html,[Rd] internal string comparison (Scollate),68694,Duncan Murdoch
+068696.html,[Rd] creating namespaces outside packages,68696,Duncan Murdoch
+068708.html,[Rd] rgl question,68708,Duncan Murdoch
+068714.html,[Rd] rgl question,68714,Duncan Murdoch
+068520.html,[Rd] Detect a terminated pipe,68520,Kirill M&#252;ller
+068522.html,[Rd] Detect a terminated pipe,68522,Kirill M&#252;ller
+068535.html,[Rd] Deep copy of factor levels?,68535,Kirill M&#252;ller
+068649.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68649,Kirill M&#252;ller
+068668.html,"[Rd] NOTE when detecting mismatch in output, and codes for NOTEs, WARNINGs and ERRORs",68668,Kirill M&#252;ller
+068476.html,[Rd] Create dataframe in C from table and return to R,68476,Sandip Nandi
+068534.html,[Rd] How to convert time_t to R date object,68534,Sandip Nandi
+068651.html,[Rd] Varying results of package checks due to random seed,68651,Radford Neal
+068680.html,"[Rd] R-devel Digest, Vol 133, Issue 23",68680,Radford Neal
+068451.html,[Rd] internal copying in R (soon to be released R-3.1.0,68451,Jens Oehlschl&#228;gel
+068456.html,[Rd] internal copying in R (soon to be released R-3.1.0,68456,Jens Oehlschl&#228;gel
+068596.html,[Rd] [RFC] A case for freezing CRAN,68596,Jari Oksanen
+068623.html,[Rd] [RFC] A case for freezing CRAN,68623,Jari Oksanen
+068627.html,[Rd] [RFC] A case for freezing CRAN,68627,Jari Oksanen
+068445.html,[Rd] How to use R script inside javascript?,68445,Jeroen Ooms
+068548.html,[Rd] [RFC] A case for freezing CRAN,68548,Jeroen Ooms
+068557.html,[Rd] [RFC] A case for freezing CRAN,68557,Jeroen Ooms
+068561.html,[Rd] [RFC] A case for freezing CRAN,68561,Jeroen Ooms
+068563.html,[Rd] [RFC] A case for freezing CRAN,68563,Jeroen Ooms
+068567.html,[Rd] [RFC] A case for freezing CRAN,68567,Jeroen Ooms
+068579.html,[Rd] [RFC] A case for freezing CRAN,68579,Jeroen Ooms
+068606.html,[Rd] [RFC] A case for freezing CRAN,68606,Jeroen Ooms
+068470.html,[Rd] Constructor/extractor.,68470,Herv&#233; Pag&#232;s
+068562.html,[Rd] [RFC] A case for freezing CRAN,68562,Herv&#233; Pag&#232;s
+068570.html,[Rd] [RFC] A case for freezing CRAN,68570,Herv&#233; Pag&#232;s
+068603.html,[Rd] [RFC] A case for freezing CRAN,68603,Herv&#233; Pag&#232;s
+068612.html,[Rd] [RFC] A case for freezing CRAN,68612,Herv&#233; Pag&#232;s
+068614.html,[Rd] [RFC] A case for freezing CRAN,68614,Herv&#233; Pag&#232;s
+068655.html,[Rd] A rep_each function,68655,Herv&#233; Pag&#232;s
+068682.html,[Rd] [Bioc-devel] Conflicting definitions for function redefined as S4 generics,68682,Herv&#233; Pag&#232;s
+068686.html,"[Rd] R-devel Digest, Vol 133, Issue 23",68686,Herv&#233; Pag&#232;s
+068691.html,[Rd] [Bioc-devel] Conflicting definitions for function redefined as S4 generics,68691,Herv&#233; Pag&#232;s
+068505.html,[Rd] Maintainer NOTE in R CMD Check,68505,Edzer Pebesma
+068546.html,[Rd] valgrind and C++,68546,Martyn Plummer
+068707.html,[Rd] CXX_STD and configure.ac in packages,68707,Martyn Plummer
+068709.html,[Rd] CXX_STD and configure.ac in packages,68709,Martyn Plummer
+068447.html,[Rd] trivial typo in src/library/base/man/timezone.Rd,68447,Prof Brian Ripley
+068473.html,[Rd] 'parallel' package changes '.Random.seed',68473,Prof Brian Ripley
+068479.html,[Rd] makepredictcall,68479,Prof Brian Ripley
+068481.html,[Rd] version numbers for CRAN submissions that give	warnings/notes,68481,Prof Brian Ripley
+068527.html,[Rd] Conditional jump or move depends on uninitialised value(s),68527,Prof Brian Ripley
+068536.html,[Rd] Deep copy of factor levels?,68536,Prof Brian Ripley
+068540.html,[Rd] How to convert time_t to R date object,68540,Prof Brian Ripley
+068685.html,"[Rd] R-devel Digest, Vol 133, Issue 23",68685,Prof Brian Ripley
+068700.html,[Rd] Error: C stack usage is too close to the limit,68700,Prof Brian Ripley
+068460.html,[Rd] Constructor/extractor.,68460,Barry Rowlingson
+068705.html,[Rd] rgl question,68705,Dominick Samperi
+068713.html,[Rd] rgl question,68713,Dominick Samperi
+068528.html,[Rd] allocation error and high CPU usage from kworker and migration: memory fragmentation?,68528,James Sams
+068602.html,[Rd] The case for freezing CRAN,68602,Marc Schwartz
+068604.html,[Rd] The case for freezing CRAN,68604,Marc Schwartz
+068639.html,[Rd] [RFC] A case for freezing CRAN,68639,Tom Short
+068573.html,[Rd] [RFC] A case for freezing CRAN,68573,Gavin Simpson
+068574.html,[Rd] [RFC] A case for freezing CRAN,68574,Gavin Simpson
+068576.html,[Rd] [RFC] A case for freezing CRAN,68576,Gavin Simpson
+068648.html,[Rd] Docker versus Vagrant for reproducability - was: The case for freezing CRAN,68648,Nathaniel Smith
+068599.html,[Rd] The case for freezing CRAN,68599,Greg Snow
+068496.html,[Rd] Maintainer NOTE in R CMD Check,68496,Michael Sumner
+068544.html,[Rd] CRAN rejects package because of write statement in Fortran,68544,Marian Talbert
+068566.html,[Rd] [RFC] A case for freezing CRAN,68566,Dan Tenenbaum
+068583.html,[Rd] [RFC] A case for freezing CRAN,68583,Dan Tenenbaum
+068622.html,[Rd] [RFC] A case for freezing CRAN,68622,Dan Tenenbaum
+068469.html,[Rd] forking a CRAN project,68469,"Therneau, Terry M., Ph.D."
+068475.html,[Rd] makepredictcall,68475,"Therneau, Terry M., Ph.D."
+068491.html,[Rd] R makepredictcall,68491,"Therneau, Terry M., Ph.D."
+068591.html,[Rd] The case for freezing CRAN,68591,"Therneau, Terry M., Ph.D."
+068593.html,[Rd] The case for freezing CRAN,68593,"Therneau, Terry M., Ph.D."
+068631.html,[Rd] The case for freezing CRAN,68631,"Therneau, Terry M., Ph.D."
+068607.html,[Rd] [RFC] A case for freezing CRAN,68607,"Tim Triche, Jr."
+068610.html,[Rd] [RFC] A case for freezing CRAN,68610,"Tim Triche, Jr."
+068620.html,[Rd] [RFC] A case for freezing CRAN,68620,"Tim Triche, Jr."
+068621.html,[Rd] [RFC] A case for freezing CRAN,68621,"Tim Triche, Jr."
+068458.html,[Rd] Constructor/extractor.,68458,Rolf Turner
+068493.html,[Rd] Regarding: stat.math.ethz.ch mailing list memberships	reminder,68493,Joshua Ulrich
+068551.html,[Rd] [RFC] A case for freezing CRAN,68551,Joshua Ulrich
+068559.html,[Rd] [RFC] A case for freezing CRAN,68559,Joshua Ulrich
+068565.html,[Rd] [RFC] A case for freezing CRAN,68565,Joshua Ulrich
+068569.html,[Rd] [RFC] A case for freezing CRAN,68569,Joshua Ulrich
+068449.html,"[Rd] reference classes, LAZY_DUPLICATE_OK, and external pointers",68449,Simon Urbanek
+068453.html,[Rd] internal copying in R (soon to be released R-3.1.0,68453,Simon Urbanek
+068455.html,[Rd] Admin manual bug: packages installed on OS X,68455,Simon Urbanek
+068457.html,[Rd] internal copying in R (soon to be released R-3.1.0,68457,Simon Urbanek
+068488.html,[Rd] A question about multiple(?) out of order ReleaseObject,68488,Simon Urbanek
+068508.html,[Rd] 2 versions of same library loaded,68508,Simon Urbanek
+068521.html,[Rd] Detect a terminated pipe,68521,Simon Urbanek
+068523.html,[Rd] Detect a terminated pipe,68523,Simon Urbanek
+068543.html,[Rd] R-devel 3.2.0 MAC OS,68543,Simon Urbanek
+068702.html,[Rd] Error: C stack usage is too close to the limit,68702,Simon Urbanek
+068541.html,[Rd] R-devel 3.2.0 MAC OS,68541,Axel Urbiz
+068693.html,[Rd] internal string comparison (Scollate),68693,Kevin Ushey
+068529.html,[Rd] How to convert time_t to R date object,68529,Bill Wang
+068533.html,[Rd] How to convert time_t to R date object,68533,Bill Wang
+068539.html,[Rd] How to convert time_t to R date object,68539,Bill Wang
+068463.html,[Rd] How to import S3 method,68463,"Wang, Zhu"
+068465.html,[Rd] How to import S3 method,68465,Michael Weylandt
+068575.html,[Rd] [RFC] A case for freezing CRAN,68575,Michael Weylandt
+068578.html,[Rd] [RFC] A case for freezing CRAN,68578,Michael Weylandt
+068580.html,[Rd] [RFC] A case for freezing CRAN,68580,Michael Weylandt
+068592.html,[Rd] The case for freezing CRAN,68592,Michael Weylandt
+068502.html,[Rd] Maintainer NOTE in R CMD Check,68502,Hadley Wickham
+068555.html,[Rd] [RFC] A case for freezing CRAN,68555,Hadley Wickham
+068471.html,[Rd] 'parallel' package changes '.Random.seed',68471,Henric Winell
+068472.html,[Rd] 'parallel' package changes '.Random.seed',68472,Henric Winell
+068490.html,[Rd] 'parallel' package changes '.Random.seed',68490,Henric Winell
+068582.html,[Rd] [RFC] A case for freezing CRAN,68582,David Winsemius
+068461.html,[Rd] forking a CRAN project,68461,peter dalgaard
+068519.html,[Rd] R-3.0.3 tar file not on Sources page,68519,peter dalgaard
+068568.html,[Rd] Memcheck: Invalid  read of size 4,68568,peter dalgaard
+068598.html,[Rd] Memcheck: Invalid  read of size 4,68598,peter dalgaard
+068684.html,"[Rd] R-devel Digest, Vol 133, Issue 23",68684,peter dalgaard
+068698.html,[Rd] savePlot() under Windows,68698,lschreier
+068510.html,[Rd] Fwd: C code and DLL file in the package,68510,binbin lu
+068518.html,[Rd] Fwd: C code and DLL file in the package,68518,binbin lu

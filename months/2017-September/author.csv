@@ -1,0 +1,138 @@
+link,Subject,id,author
+074967.html,[Rd] Duncan's retirement: who's taking over Rtools?,74967,Avraham Adler
+074968.html,[Rd] Duncan's retirement: who's taking over Rtools?,74968,Avraham Adler
+074927.html,[Rd] NEWS item about PR#17284,74927,Suharto Anggono Suharto Anggono
+074974.html,[Rd] Unexpected behaviour with download.packages on Windows,74974,Rui Barradas
+074848.html,[Rd] side-effect of calling functions via `::`,74848,Simon Barthelm&#233;
+074859.html,[Rd] BUG: HMTL-based help.search() on vignettes may generate error (with PATCH),74859,Henrik Bengtsson
+074895.html,[Rd] File listing on windows shows hidden files,74895,Jean-S&#233;bastien Bevilacqua
+074921.html,[Rd] Bug: Issues on Windows with SFN disabled,74921,Zach Bjornson
+074891.html,[Rd] Default repositories in WIndows,74891,Rich Calaway
+074846.html,[Rd] Natural vs National in R signon banner?,74846,Peter Dalgaard
+074889.html,"[Rd] file.copy(from=Directory, to=File) oddity",74889,William Dunlap
+074894.html,"[Rd] file.copy(from=Directory, to=File) oddity",74894,William Dunlap
+074865.html,[Rd] Missing y label,74865,Dirk Eddelbuettel
+074869.html,[Rd] Missing y label,74869,Dirk Eddelbuettel
+074884.html,[Rd] Suggestion: Create On-Disk Dataframes,74884,Dirk Eddelbuettel
+074933.html,[Rd] R and Visual Studio,74933,Dirk Eddelbuettel
+074934.html,[Rd] R and Visual Studio,74934,Dirk Eddelbuettel
+074937.html,[Rd] what do you think about write.table(... qmethod = &quot;excel&quot;)?,74937,Dirk Eddelbuettel
+074857.html,[Rd] side-effect of calling functions via `::`,74857,S Ellison
+074861.html,[Rd] Wayback and related questions (was: RE: I have corrected a dead link ...),74861,S Ellison
+074903.html,[Rd] vcov and survival,74903,"Fox, John"
+074910.html,[Rd] vcov and survival,74910,"Fox, John"
+074911.html,[Rd] vcov and survival,74911,"Fox, John"
+074845.html,[Rd] patch: automatically adjust width option when terminal is resized,74845,Ralf Goertz
+074858.html,[Rd] patch: automatically adjust width option when terminal is resized,74858,Ralf Goertz
+074867.html,[Rd] patch: automatically adjust width option when terminal is resized,74867,Ralf Goertz
+074971.html,[Rd] Duncan's retirement: who's taking over Rtools?,74971,Spencer Graves
+074957.html,[Rd] possible bug in R CMD Rd2pdf,74957,Kasper Daniel Hansen
+074962.html,[Rd] possible bug in R CMD Rd2pdf,74962,Kasper Daniel Hansen
+074849.html,[Rd] side-effect of calling functions via `::`,74849,Lionel Henry
+074855.html,[Rd] side-effect of calling functions via `::`,74855,Lionel Henry
+074931.html,[Rd] issue with promises for time parameter of rep(),74931,Lionel Henry
+074935.html,[Rd] what do you think about write.table(... qmethod = &quot;excel&quot;)?,74935,Paul Johnson
+074941.html,[Rd] what do you think about write.table(... qmethod = &quot;excel&quot;)?,74941,Paul Johnson
+074883.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74883,Tomas Kalibera
+074886.html,[Rd] strange behaviour read.table and clipboard,74886,Tomas Kalibera
+074888.html,[Rd] Change of variable address due to GC,74888,Tomas Kalibera
+074943.html,[Rd] unpackPkgZip: &quot;unable to move temporary installation&quot; due to antivirus,74943,Tomas Kalibera
+074945.html,[Rd] calling R API functions after engine shutdown,74945,Tomas Kalibera
+074920.html,[Rd] specifying name in the error message &quot;promise already under evaluation&quot;,74920,Scott Kostyshak
+074922.html,[Rd] R-devel r73293 and the testthat package,74922,Will Landau
+074923.html,[Rd] FW: CRAN check errors: drake 4.1.0 on r-devel-linux-x86_64-debian-clang,74923,Will Landau
+074948.html,[Rd] S4 method implementation for S3 class,74948,Michael Lawrence
+074950.html,[Rd] S4 method implementation for S3 class,74950,Michael Lawrence
+074856.html,[Rd] I have corrected a dead link in the treering documentation,74856,Thomas Levine
+074868.html,[Rd] Wayback and related questions (was: RE: I have corrected a	dead link ...),74868,Thomas Levine
+074897.html,[Rd] CRAN incoming checks / winbuilder on demand results for R-devel,74897,Uwe Ligges
+074847.html,[Rd] Natural vs National in R signon banner?,74847,Mark van der Loo
+074916.html,[Rd] R Configuration Variable: Maximum Memory Allocation per R	Instance,74916,Mark van der Loo
+074872.html,[Rd] readLines() segfaults on large file &amp; question on how to work	around,74872,Jennifer Lyon
+074874.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74874,Jennifer Lyon
+074879.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74879,Jennifer Lyon
+074842.html,[Rd] I have corrected a dead link in the treering documentation,74842,Martin Maechler
+074843.html,[Rd] Missing y label,74843,Martin Maechler
+074844.html,[Rd] Natural vs National in R signon banner?,74844,Martin Maechler
+074850.html,[Rd] side-effect of calling functions via `::`,74850,Martin Maechler
+074851.html,[Rd] side-effect of calling functions via `::`,74851,Martin Maechler
+074875.html,[Rd] I have corrected a dead link in the treering documentation,74875,Martin Maechler
+074892.html,"[Rd] file.copy(from=Directory, to=File) oddity",74892,Martin Maechler
+074893.html,[Rd] Bug: dput/deparse with named character vector inside list,74893,Martin Maechler
+074906.html,[Rd] vcov and survival,74906,Martin Maechler
+074907.html,[Rd] vcov and survival,74907,Martin Maechler
+074928.html,[Rd] NEWS item about PR#17284,74928,Martin Maechler
+074929.html,[Rd] NEWS item about PR#17284,74929,Martin Maechler
+074964.html,[Rd] logic ops with zero-extent raw vectors,74964,Martin Maechler
+074841.html,[Rd] Natural vs National in R signon banner?,74841,Paul McQuesten
+074953.html,[Rd] S4 method implementation for S3 class,74953,Joris Meys
+074965.html,[Rd] Duncan's retirement: who's taking over Rtools?,74965,Joris Meys
+074840.html,[Rd] Natural vs National in R signon banner?,74840,Duncan Murdoch
+074925.html,[Rd] R-devel r73293 and the testthat package,74925,Duncan Murdoch
+074939.html,[Rd] what do you think about write.table(... qmethod = &quot;excel&quot;)?,74939,Duncan Murdoch
+074959.html,[Rd] possible bug in R CMD Rd2pdf,74959,Duncan Murdoch
+074963.html,[Rd] possible bug in R CMD Rd2pdf,74963,Duncan Murdoch
+074975.html,[Rd] Unexpected behaviour with download.packages on Windows,74975,Duncan Murdoch
+074913.html,[Rd] y label for X11 graphics,74913,Paul Murrell
+074870.html,[Rd] Please avoid direct use of NAMED and SET_NAMED macros,74870,Radford Neal
+074914.html,[Rd] Bug in order function,74914,Karl Nordstr&#246;m
+074970.html,[Rd] Duncan's retirement: who's taking over Rtools?,74970,Moshe Olshansky
+074973.html,[Rd] Unexpected behaviour with download.packages on Windows,74973,Hong Ooi
+074878.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74878,Jeroen Ooms
+074918.html,[Rd] R Configuration Variable: Maximum Memory Allocation per R	Instance,74918,Jeroen Ooms
+074919.html,[Rd] R-devel object header changes that require reinstalling	packages,74919,Jeroen Ooms
+074946.html,"[Rd] R CMD build errors if files cannot be moved,	even if they are in Rbuildignore",74946,Hugh Parsonage
+074908.html,[Rd] special latin1 do not print as glyphs in current devel on windows,74908,Patrick Perry
+074900.html,[Rd] establishing a Code of Conduct for R,74900,Brian G. Peterson
+074969.html,[Rd] Duncan's retirement: who's taking over Rtools?,74969,Martyn Plummer
+074905.html,[Rd] special latin1 do not print as glyphs in current devel on windows,74905,Daniel Possenriede
+074890.html,[Rd] Bug: dput/deparse with named character vector inside list,74890,Neal Richardson
+074940.html,[Rd] R and Visual Studio,74940,Brian Ripley
+074955.html,[Rd] Incorrect Import by Data for CSV File,74955,Prof Brian Ripley
+074951.html,[Rd] Help to create bugzilla account,74951,Dmitriy Selivanov
+074966.html,[Rd] Duncan's retirement: who's taking over Rtools?,74966,David Smith
+074944.html,[Rd] calling R API functions after engine shutdown,74944,Lukas Stadler
+074961.html,[Rd] logic ops with zero-extent raw vectors,74961,Lukas Stadler
+074954.html,[Rd] Incorrect Import by Data for CSV File,74954,Dario Strbenac
+074877.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74877,"Suzen, Mehmet"
+074882.html,[Rd] Suggestion: Create On-Disk Dataframes,74882,"Suzen, Mehmet"
+074899.html,[Rd] establishing a Code of Conduct for R,74899,"Suzen, Mehmet"
+074904.html,[Rd] establishing a Code of Conduct for R,74904,"Suzen, Mehmet"
+074881.html,[Rd] Suggestion: Create On-Disk Dataframes,74881,Juan Telleria
+074915.html,[Rd] R Configuration Variable: Maximum Memory Allocation per R	Instance,74915,Juan Telleria
+074917.html,[Rd] R Configuration Variable: Maximum Memory Allocation per R	Instance,74917,Juan Telleria
+074926.html,[Rd] R Configuration Variable: Maximum Memory Allocation per R	Instance,74926,Juan Telleria
+074972.html,[Rd] Duncan's retirement: who's taking over Rtools?,74972,Juan Telleria
+074976.html,[Rd] Duncan's retirement: who's taking over Rtools?,74976,Juan Telleria
+074863.html,[Rd] Missing y label,74863,"Therneau, Terry M., Ph.D."
+074866.html,[Rd] Missing y label,74866,"Therneau, Terry M., Ph.D."
+074901.html,[Rd] y label for X11 graphics,74901,"Therneau, Terry M., Ph.D."
+074902.html,[Rd] vcov and survival,74902,"Therneau, Terry M., Ph.D."
+074909.html,[Rd] vcov and survival,74909,"Therneau, Terry M., Ph.D."
+074912.html,[Rd] vcov and survival,74912,"Therneau, Terry M., Ph.D."
+074960.html,[Rd] y label for X11 graphics (solved),74960,"Therneau, Terry M., Ph.D."
+074898.html,[Rd] unpackPkgZip: &quot;unable to move temporary installation&quot; due to	antivirus,74898,Mike Toews
+074854.html,[Rd] side-effect of calling functions via `::`,74854,Simon Urbanek
+074853.html,[Rd] side-effect of calling functions via `::`,74853,Simon Urbanek
+074930.html,[Rd] issue with promises for time parameter of rep(),74930,Homer White
+074864.html,[Rd] Natural vs National in R signon banner?,74864,David Winsemius
+074942.html,[Rd] what do you think about write.table(... qmethod = &quot;excel&quot;)?,74942,David Winsemius
+074873.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74873,Ista Zahn
+074938.html,[Rd] what do you think about write.table(... qmethod = &quot;excel&quot;)?,74938,Ista Zahn
+074924.html,[Rd] R-devel r73293 and the testthat package,74924,peter dalgaard
+074956.html,[Rd] Incorrect Import by Data for CSV File,74956,peter dalgaard
+074958.html,[Rd] possible bug in R CMD Rd2pdf,74958,peter dalgaard
+074880.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74880,rhelp at eoos.dds.nl
+074885.html,[Rd] Suggestion: Create On-Disk Dataframes; SparkR,74885,frederik at ofb.net
+074887.html,[Rd] Change of variable address due to GC,74887,lille stor
+074932.html,[Rd] R and Visual Studio,74932,lille stor
+074852.html,[Rd] patch: automatically adjust width option when terminal is resized,74852,luke-tierney at uiowa.edu
+074860.html,[Rd] Please avoid direct use of NAMED and SET_NAMED macros,74860,luke-tierney at uiowa.edu
+074862.html,[Rd] patch: automatically adjust width option when terminal is resized,74862,luke-tierney at uiowa.edu
+074871.html,[Rd] Please avoid direct use of NAMED and SET_NAMED macros,74871,luke-tierney at uiowa.edu
+074896.html,[Rd] R-devel object header changes that require reinstalling	packages,74896,luke-tierney at uiowa.edu
+074936.html,[Rd] issue with promises for time parameter of rep(),74936,luke-tierney at uiowa.edu
+074876.html,[Rd] readLines() segfaults on large file &amp; question on how to work around,74876,I&#241;aki &#218;car
+074947.html,[Rd] S4 method implementation for S3 class,74947,I&#241;aki &#218;car
+074949.html,[Rd] S4 method implementation for S3 class,74949,I&#241;aki &#218;car
+074952.html,[Rd] S4 method implementation for S3 class,74952,I&#241;aki &#218;car

@@ -1,0 +1,164 @@
+link,Subject,id,author
+024357.html,[Rd] converting #sec to POSIX* format,24357,Peter Dalgaard BSA
+024366.html,[Rd] Rversion.h,24366,Peter Dalgaard BSA
+024372.html,[Rd] Behaviour of environment(foo)&lt;- (PR#1509),24372,Peter Dalgaard BSA
+024382.html,[Rd] compiling on Solaris 7 (PR#1520),24382,Peter Dalgaard BSA
+024384.html,[Rd] Bug list summary (automatic post),24384,Peter Dalgaard BSA
+024467.html,[Rd] Bug list summary (automatic post),24467,Peter Dalgaard BSA
+024470.html,[Rd] I() fails on objects of class POSIXct (PR#1587),24470,Peter Dalgaard BSA
+024484.html,CRAN links,24484,Peter Dalgaard BSA
+024492.html,hitting ^C breaks readline history (PR#1606),24492,Peter Dalgaard BSA
+024406.html,[Rd] nls (PR#1533),24406,Douglas Bates
+024409.html,[Rd] nls (PR#1533),24409,Douglas Bates
+024483.html,CRAN links,24483,Douglas Bates
+024407.html,[Rd] nls (PR#1533),24407,Ben Bolker
+024504.html,(PR#1608) merge.data.frame can coerce character vectors to factor in some circumstances (PR#1608),24504,David Brahm
+024481.html,Pressing TAB,24481,Gorazd Brumen
+024404.html,[Rd] Questions about S4 style methods and generics,24404,John Chambers
+024415.html,[Rd] Questions about S4 style methods and generics,24415,John Chambers
+024494.html,signature match in setMethod (PR#1592),24494,John Chambers
+024506.html,warning message for setAs when using class AsIs,24506,John Chambers
+024397.html,[Rd] Questions about S4 style methods and generics,24397,Saikat DebRoy
+024414.html,[Rd] Questions about S4 style methods and generics,24414,Saikat DebRoy
+024418.html,[Rd] copy or save  of plots (PR#1507),24418,Drew.Tyre@csiro.au
+024447.html,[Rd] PCRE in development code?,24447,Byron Ellis
+024453.html,[Rd] PCRE in development code?,24453,Byron Ellis
+024457.html,[Rd] PCRE in development code?,24457,Byron Ellis
+024345.html,[Rd] To interested parties.,24345,Elvie6761q57@dolfijn.nl
+024482.html,CRAN links,24482,Paul Gilbert
+024346.html,[Rd] configure script fails on comment in tkConfig.sh (PR#1500),24346,Kurt Hornik
+024347.html,[Rd] maketitle.pl for Perl 4.004,24347,Kurt Hornik
+024367.html,[Rd] Rversion.h,24367,Kurt Hornik
+024368.html,[Rd] Rversion.h,24368,Kurt Hornik
+024477.html,R CMD check fails if Depends field includes a package with a `.' in it (PR#1591),24477,Kurt Hornik
+024474.html,Bug in pexp (PR#1590),24474,Torsten Hothorn
+024493.html,hitting ^C breaks readline history (PR#1606),24493,Cyril Humbert
+024428.html,[Rd] Quartz device for Darwin R (MacOS X),24428,Stefano Iacus
+024371.html,[Rd] Behaviour of environment(foo)&lt;- (PR#1509),24371,J.C.Rougier@durham.ac.uk
+024445.html,[Rd] Re: [R] NaN/NA and sprintf double format (PR#1561),24445,J.C.Rougier@durham.ac.uk
+024502.html,(PR#1608) merge.data.frame can coerce character vectors to factor in some circumstances (PR#1608),24502,David James
+024464.html,[Rd] Suggested change in merge.data.frame,24464,David Kane  &lt;David Kane
+024471.html,package names with `.' cause problems in the Depends field,24471,David Kane  &lt;David Kane
+024505.html,warning message for setAs when using class AsIs,24505,David Kane  &lt;David Kane
+024343.html,[Rd] maketitle.pl for Perl 4.004,24343,Peter Kleiweg
+024344.html,[Rd] configure script fails on comment in tkConfig.sh (PR#1500),24344,Peter Kleiweg
+024349.html,[Rd] configure script fails on comment in tkConfig.sh (PR#1500),24349,Peter Kleiweg
+024350.html,[Rd] maketitle.pl for Perl 4.004,24350,Peter Kleiweg
+024353.html,[Rd] maketitle.pl for Perl 4.004,24353,Peter Kleiweg
+024400.html,[Rd] Re: embedded R resolving wrong symbols,24400,Duncan Temple Lang
+024422.html,[Rd] Rmpi,24422,Jan de Leeuw
+024417.html,[Rd] read.table (PR#1535),24417,Nicholas Lewin-Koh
+024359.html,[Rd] tseries package segmentation fault (PR#1497),24359,Gang Liang
+024391.html,[Rd] tseries package segmentation fault (PR#1497),24391,Gang Liang
+024480.html,[R] expressions as axis labels,24480,Uwe Ligges
+024376.html,[Rd] merge (PR#1510),24376,Thomas Lumley
+024388.html,[Rd] Behaviour of environment(foo)&lt;- (PR#1509),24388,Thomas Lumley
+024389.html,[Rd] names(unlist(...)) may construct corrupt strings (PR#1524),24389,Thomas Lumley
+024456.html,[Rd] Re: [R] options()$warn==2 and try() (PR#1570),24456,Thomas Lumley
+024496.html,masking,24496,Thomas Lumley
+024430.html,[Rd] RE: cut.dendrogram (PR#1552),24430,M.GRUM@CGIAR.ORG
+024442.html,[Rd] (PR#1558),24442,Mark.Bravington@csiro.au
+024444.html,[Rd] (PR#1556),24444,Mark.Bravington@csiro.au
+024440.html,[Rd] Financial strategies,24440,Minette3557n14@webinfo.fi
+024393.html,[Rd] Generic/method consistency in print and summary,24393,Duncan Murdoch
+024497.html,[R] expressions as axis labels,24497,Paul Murrell
+024487.html,Platform-specific: simple assignments in Rprofile cause core dump (PR#1604),24487,NEFTH@pacbell.net
+024486.html,"When dev.list() is NULL, dev.control() causes core dump (PR#1605)",24486,NEFTH@pacbell.net
+024485.html,CRAN links,24485,Erich Neuwirth
+024383.html,[Rd] compiling on Solaris 7 (PR#1520),24383,C Pelton
+024364.html,[Rd] R-GNOME (PR#1503),24364,Martyn Plummer
+024446.html,[Rd] R-1.5.0 on NetBSD (PR#1565),24446,Ray.Brownrigg@mcs.vuw.ac.nz
+024448.html,[Rd] Re: R-1.5.0 on NetBSD (PR#1566),24448,Ray.Brownrigg@mcs.vuw.ac.nz
+024385.html,[Rd] compiling on Solaris 7 (PR#1520),24385,Prof Brian D Ripley
+024449.html,[Rd] PCRE in development code?,24449,Prof Brian D Ripley
+024351.html,[Rd] maketitle.pl for Perl 4.004,24351,A.J. Rossini
+024355.html,[Rd] maketitle.pl for Perl 4.004,24355,A.J. Rossini
+024443.html,[Rd] (PR#1558),24443,A.J. Rossini
+024373.html,[Rd] Behaviour of environment(foo)&lt;- (PR#1509),24373,Jonathan Rougier
+024386.html,[Rd] Behaviour of environment(foo)&lt;- (PR#1509),24386,Jonathan Rougier
+024433.html,[Rd] R/S-Plus incompatibility in segments(),24433,Deepayan Sarkar
+024379.html,[Rd] subscript problem with function qr.X (PR#1519),24379,Sonia.Leach@uchsc.edu
+024495.html,masking,24495,Clayton Springer
+024374.html,[Rd] Behaviour of environment(foo)&lt;- (PR#1509),24374,Luke Tierney
+024434.html,[Rd] changes to prepare for name space support,24434,Luke Tierney
+024378.html,[Rd] tseries package segmentation fault (PR#1497),24378,Adrian Trapletti
+024395.html,[Rd] tseries package segmentation fault (PR#1497),24395,Adrian Trapletti
+024360.html,[Rd] Problems with embedded R for v1.5.0,24360,"Warnes, Gregory R"
+024396.html,[Rd] embedded R regexec returning nonsense,24396,"Warnes, Gregory R"
+024399.html,[Rd] embedded R resolving wrong symbols,24399,"Warnes, Gregory R"
+024410.html,[Rd] Fixed: embedded R resolving wrong symbols,24410,"Warnes, Gregory R"
+024498.html,merge.data.frame can coerce character vectors to factor in some circumstances (PR#1608),24498,a296180@agate.fmr.com
+024500.html,typo in Introduction to R on dataframes (PR#1609),24500,a296180@agate.fmr.com
+024461.html,[Rd] is.na&lt;- coerces character vectors to be factors within dataframes (PR#1577),24461,a296180@mica.fmr.com
+024463.html,(PR#1577) [Rd] is.na&lt;- coerces character vectors to be factors,24463,a296180@mica.fmr.com
+024466.html,[Rd] No documentation for class AsIs (PR#1582),24466,a296180@mica.fmr.com
+024469.html,[Rd] I() fails on objects of class POSIXct (PR#1587),24469,a296180@mica.fmr.com
+024475.html,R CMD check fails if Depends field includes a package with a `.' in it (PR#1591),24475,a296180@mica.fmr.com
+024352.html,[Rd] configure error: Maybe change CFLAGS or FFLAGS? (PR#1501),24352,ale@ini.phys.ethz.ch
+024408.html,[Rd] nls (PR#1533),24408,bates@stat.wisc.edu
+024426.html,[Rd] prettyNum inserts leading commas (PR#1548),24426,brahm@alum.mit.edu
+024427.html,[Rd] Problem with Refman.pdf (PR#1550),24427,carne006@umn.edu
+024380.html,[Rd] compiling on Solaris 7 (PR#1520),24380,cjpelton@ucdavis.edu
+024507.html,se.contrast: matrix contrast.obj doesn't work as documented (PR#1613),24507,cmascott@att.net
+024432.html,"[Rd] R-admin docs, Installing packages (PR#1554)",24432,david.firth@nuffield.ox.ac.uk
+024458.html,[Rd] Use of 'any' in 3.2.1 if ... else example is incorrect  R-lang.pdf (PR#1575),24458,dciemo@excite.com
+024465.html,[Rd] R bug in cluster package (PR#1580),24465,dhitchco@stat.ufl.edu
+024369.html,[Rd] copy or save to metafile from graphics device shrinks plots (PR#1507),24369,drew.tyre@csiro.au
+024472.html,Bug in pexp (PR#1590),24472,dtrenkler@nts6.oec.uni-osnabrueck.de
+024411.html,[Rd] read.table (PR#1535),24411,ebura@gwu.edu
+024375.html,[Rd] merge (PR#1510),24375,elff@rumms.uni-mannheim.de
+024381.html,[Rd] Accessing C code for 'optim' (PR#1521),24381,gb@stat.umu.se
+024361.html,[Rd] R-GNOME (PR#1503),24361,gonin@genethon.fr
+024491.html,hitting ^C breaks readline history (PR#1606),24491,humbertc@univ-mlv.fr
+024478.html,menu printing fails for windows graphics device (PR#1601),24478,jlongmate@coh.org
+024356.html,[Rd] converting #sec to POSIX* format,24356,lsjensen
+024363.html,[Rd] pictex (PR#1505),24363,luchini@ehess.cnrs-mrs.fr
+024425.html,"[Rd] {round,trunc}.POSIXt and daylight savings time (PR#1543)",24425,macq@llnl.gov
+024420.html,[Rd] predict.*bSpline() bugs extrapolating for deriv &gt;= 1 (PR#1473),24420,maechler@stat.math.ethz.ch
+024429.html,[Rd] prettyNum inserts leading commas (PR#1548),24429,maechler@stat.math.ethz.ch
+024431.html,[Rd] RE: cut.dendrogram (PR#1552),24431,maechler@stat.math.ethz.ch
+024439.html,[Rd] RE: cut.dendrogram (PR#1552),24439,maechler@stat.math.ethz.ch
+024468.html,[Rd] R bug in cluster package (PR#1580),24468,maechler@stat.math.ethz.ch
+024473.html,Bug in pexp (PR#1590),24473,maechler@stat.math.ethz.ch
+024509.html,Documentation Bugs (PR#1618),24509,maechler@stat.math.ethz.ch
+024510.html,typo in Introduction to R on dataframes (PR#1609),24510,maechler@stat.math.ethz.ch
+024435.html,"[Rd] lib.fixup, .GlobalEnv, and R1.5.0 (PR#1556)",24435,mark.bravington@csiro.au
+024436.html,[Rd] wishlist: I miss Frame 0 (PR#1557),24436,mark.bravington@csiro.au
+024437.html,[Rd] language: bug or feature: vector-subscript of list (PR#1558),24437,mark.bravington@csiro.au
+024387.html,[Rd] names(unlist(...)) may construct corrupt strings (PR#1524),24387,oehl_list@gmx.de
+024451.html,[Rd] type.convert() does not treat &quot;NA&quot; as ordinary string as intended from version 1.5 (PR#1567),24451,oehl_list@gmx.de
+024454.html,[Rd] pbinom gotcha (PR#1569),24454,p.dalgaard@biostat.ku.dk
+024421.html,"[Rd] vector(NA, 3) (PR#1541)",24421,pgilbert@bank-banque-canada.ca
+024508.html,Documentation Bugs (PR#1618),24508,presnell@stat.ufl.edu
+024348.html,[Rd] maketitle.pl for Perl 4.004,24348,ripley@stats.ox.ac.uk
+024354.html,[Rd] configure error: Maybe change CFLAGS or FFLAGS? (PR#1501),24354,ripley@stats.ox.ac.uk
+024358.html,[Rd] converting #sec to POSIX* format,24358,ripley@stats.ox.ac.uk
+024362.html,[Rd] R-GNOME (PR#1503),24362,ripley@stats.ox.ac.uk
+024365.html,[Rd] Rversion.h,24365,ripley@stats.ox.ac.uk
+024370.html,[Rd] copy or save  of plots (PR#1507),24370,ripley@stats.ox.ac.uk
+024377.html,[Rd] merge (PR#1510),24377,ripley@stats.ox.ac.uk
+024390.html,[Rd] names(unlist(...)) may construct corrupt strings (PR#1524),24390,ripley@stats.ox.ac.uk
+024392.html,[Rd] tseries package segmentation fault (PR#1497),24392,ripley@stats.ox.ac.uk
+024394.html,[Rd] Generic/method consistency in print and summary,24394,ripley@stats.ox.ac.uk
+024398.html,[Rd] [.data.frame handles drop inconsistently (PR#1530),24398,ripley@stats.ox.ac.uk
+024402.html,[Rd] nls (PR#1532),24402,ripley@stats.ox.ac.uk
+024405.html,[Rd] nls (PR#1533),24405,ripley@stats.ox.ac.uk
+024412.html,[Rd] Fixed: embedded R resolving wrong symbols,24412,ripley@stats.ox.ac.uk
+024413.html,[Rd] read.table (PR#1535),24413,ripley@stats.ox.ac.uk
+024419.html,[Rd] read.table (PR#1535),24419,ripley@stats.ox.ac.uk
+024423.html,"[Rd] vector(NA, 3) (PR#1541)",24423,ripley@stats.ox.ac.uk
+024424.html,"[Rd] vector(NA, 3) (PR#1541)",24424,ripley@stats.ox.ac.uk
+024438.html,(PR#1558) [Rd] language: bug or feature: vector-subscript of,24438,ripley@stats.ox.ac.uk
+024441.html,[Rd] Problem with Refman.pdf (PR#1550),24441,ripley@stats.ox.ac.uk
+024450.html,[Rd] Re: R-1.5.0 on NetBSD (PR#1566),24450,ripley@stats.ox.ac.uk
+024452.html,[Rd] type.convert() does not treat &quot;NA&quot; as ordinary string as (PR#1568),24452,ripley@stats.ox.ac.uk
+024459.html,[Rd] Use of 'any' in 3.2.1 if ... else example is incorrect (PR#1576),24459,ripley@stats.ox.ac.uk
+024462.html,(PR#1577) [Rd] is.na&lt;- coerces character vectors to be factors,24462,ripley@stats.ox.ac.uk
+024479.html,menu printing fails for windows graphics device (PR#1601),24479,ripley@stats.ox.ac.uk
+024489.html,"(PR#1605)When dev.list() is NULL, dev.control() causes core dump",24489,ripley@stats.ox.ac.uk
+024490.html,(PR#1604) Re: Platform-specific: simple assignments in Rprofile,24490,ripley@stats.ox.ac.uk
+024403.html,[Rd] nls (PR#1533),24403,scs10@st-and.ac.uk
+024401.html,[Rd] nls (PR#1532),24401,scs10@st-andrews.ac.uk
+024476.html,signature match in setMethod (PR#1592),24476,tkeitt@ms.cc.sunysb.edu
+024416.html,[Rd] rbind.data.frame converts logical to factor (PR#1536),24416,tlumley@u.washington.edu
+024455.html,[Rd] Re: [R] options()$warn==2 and try() (PR#1570),24455,tlumley@u.washington.edu

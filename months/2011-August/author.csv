@@ -1,0 +1,243 @@
+link,Subject,id,author
+061675.html,[Rd] example package for devel newcomers,61675,Alexandre Aguiar
+061688.html,[Rd] example package for devel newcomers,61688,Alexandre Aguiar
+061699.html,[Rd] example package for devel newcomers,61699,Alexandre Aguiar
+061677.html,[Rd] 'data.frame' method for base::rep(),61677,Liviu Andronic
+061690.html,[Rd] 'data.frame' method for base::rep(),61690,Liviu Andronic
+061727.html,[Rd] adding examples of stop and break to function.Rd and Control.Rd,61727,Timothy Bates
+061728.html,[Rd] \example for replace.Rd,61728,Timothy Bates
+061778.html,[Rd] Rd for write.table {utils}: Be explicit about the default	separator,61778,Timothy Bates
+061784.html,[Rd] &quot;\examples&quot; section for &quot;base/man/replace.Rd&quot;,61784,Timothy Bates
+061876.html,[Rd] Out-of-date manual or small bug in R CMD check?,61876,Gabriel Becker
+061879.html,[Rd] Out-of-date manual or small bug in R CMD check?,61879,Gabriel Becker
+061875.html,[Rd] http://cran.r-project.org/src/base/NEWS.html points to R	v2.13.0,61875,Henrik Bengtsson
+061901.html,[Rd] Problem exporting table with many columns to dbf,61901,Roger Bivand
+061785.html,[Rd] trivial typo in R administration manual,61785,Ben Bolker
+061861.html,[Rd] read.table segfaults,61861,Ben Bolker
+061831.html,[Rd] Licensing Issue with JRI,61831,Lokkju Brennr
+061847.html,[Rd] Licensing Issue with JRI,61847,Lokkju Brennr
+061855.html,[Rd] read.table segfaults,61855,G&#246;ran Brostr&#246;m
+061856.html,[Rd] read.table segfaults,61856,G&#246;ran Brostr&#246;m
+061857.html,[Rd] read.table segfaults,61857,G&#246;ran Brostr&#246;m
+061863.html,[Rd] read.table segfaults,61863,G&#246;ran Brostr&#246;m
+061864.html,[Rd] read.table segfaults,61864,G&#246;ran Brostr&#246;m
+061766.html,[Rd] Combining levels of factors,61766,BXC (Bendix Carstensen)
+061720.html,[Rd] initFields() method no longer coerces arguments in R-devel,61720,John Chambers
+061716.html,[Rd] [R] RPMs needed to compile R using the tar.gz file,61716,Pierre-Yves Chibon
+061791.html,[Rd] License question,61791,Pierre-Yves Chibon
+061714.html,[Rd] initFields() method no longer coerces arguments in R-devel,61714,Jon Clayden
+061722.html,[Rd] initFields() method no longer coerces arguments in R-devel,61722,Jon Clayden
+061761.html,[Rd] DMTCP: checkpoint-restart for R,61761,Gene Cooperman
+061707.html,[Rd] Graphical option to update.packages in development version (build of the 2011-07-31 r56569) for Windows not working properly,61707,Mark Difford
+061833.html,[Rd] Graphical option to update.packages in development version (build of the 2011-07-31 r56569) for Windows not working properly,61833,Mark Difford
+061899.html,[Rd] Possible to read R_StringHash from a package?,61899,Matthew Dowle
+061898.html,[Rd] Out-of-date manual or small bug in R CMD check?,61898,William Dunlap
+061713.html,[Rd] slightly speeding up readChar(),61713,Dirk Eddelbuettel
+061754.html,[Rd] build 32-bit R on x86_64?,61754,Dirk Eddelbuettel
+061756.html,[Rd] build 32-bit R on x86_64?,61756,Dirk Eddelbuettel
+061805.html,[Rd] Referencing 'inst' directory in installed package,61805,Dirk Eddelbuettel
+061873.html,[Rd] R-loadable dll with minGW-compiled linked library,61873,Dirk Eddelbuettel
+061692.html,[Rd] Front ends handling help.search() results?,61692,Thomas Friedrichsmeier
+061700.html,[Rd] Front ends handling help.search() results?,61700,Thomas Friedrichsmeier
+061834.html,[Rd] CRAN packages maintained by you,61834,Michael Friendly
+061676.html,[Rd] example package for devel newcomers,61676,Daniel Fuka
+061681.html,[Rd] example package for devel newcomers,61681,Daniel Fuka
+061797.html,[Rd] R cmd check and multicore foreach loop,61797,Renaud Gaujoux
+061800.html,[Rd] R cmd check and multicore foreach loop,61800,Renaud Gaujoux
+061801.html,[Rd] R cmd check and multicore foreach loop,61801,Renaud Gaujoux
+061807.html,[Rd] R cmd check and multicore foreach loop,61807,Renaud Gaujoux
+061809.html,[Rd] getNativeSymbolInfo(&quot;user_unif_rand&quot;) returns different results on windows and linux,61809,Renaud Gaujoux
+061837.html,[Rd] getNativeSymbolInfo(&quot;user_unif_rand&quot;) returns different results on windows and linux,61837,Renaud Gaujoux
+061838.html,[Rd] getNativeSymbolInfo(&quot;user_unif_rand&quot;) returns different results on windows and linux,61838,Renaud Gaujoux
+061773.html,[Rd] cbind with different vector lengths,61773,Geophagus
+061888.html,[Rd] Problems with r-help,61888,Gabor Grothendieck
+061889.html,[Rd] Problems with r-help,61889,Gabor Grothendieck
+061744.html,[Rd] NAMESPACE imports,61744,Kasper Daniel Hansen
+061803.html,[Rd] Referencing 'inst' directory in installed package,61803,Kasper Daniel Hansen
+061732.html,[Rd] all.equal doesn't work for POSIXlt objects,61732,Kurt Hornik
+061763.html,[Rd] Referencing non-CRAN extension from CRAN package,61763,Kurt Hornik
+061762.html,[Rd] Referencing non-CRAN extension from CRAN package,61762,Tim Jurka
+061731.html,[Rd] R-admin.html fixes (for cairo support in windoze),61731,Hiroyuki Kawakatsu
+061723.html,[Rd] Usage of options() for user defined options,61723,Rainer M Krug
+061691.html,[Rd] one way to solve bad looking density plots in postscript,61691,Michael Lachmann
+061693.html,[Rd] one way to solve bad looking density plots in postscript,61693,Michael Lachmann
+061705.html,[Rd] one way to solve bad looking density plots in postscript,61705,Michael Lachmann
+061710.html,[Rd] slightly speeding up readChar(),61710,Michael Lachmann
+061712.html,[Rd] slightly speeding up readChar(),61712,Michael Lachmann
+061717.html,[Rd] slightly speeding up readChar(),61717,Michael Lachmann
+061776.html,"[Rd] gsub(&quot;\\&quot;, &quot;\\\\&quot;, &quot;C:\Program Files\R&quot;)",61776,Michael Lachmann
+061794.html,[Rd] fitted valued should mention predict,61794,Michael Lachmann
+061798.html,[Rd] An example of very slow computation,61798,Michael Lachmann
+061814.html,[Rd] An example of very slow computation,61814,Michael Lachmann
+061815.html,[Rd] An example of very slow computation,61815,Michael Lachmann
+061827.html,[Rd] An example of very slow computation,61827,Michael Lachmann
+061812.html,[Rd] getNativeSymbolInfo(&quot;user_unif_rand&quot;) returns different results on windows and linux,61812,Duncan Temple Lang
+061758.html,[Rd] Win7 x64 &quot;device not ready&quot; error when DLLpath passed to	dyn.load,61758,Michael Lawrence
+061764.html,[Rd] relist.list broken for skeletons with empty elements,61764,Michael Lawrence
+061767.html,[Rd] autogenerated namespaces not initialized correctly,61767,Michael Lawrence
+061860.html,[Rd] S3 methods in default namespace,61860,Michael Lawrence
+061706.html,[Rd] R check mis-identifying Illumina data file format as	executable and other thoughts.,61706,Hin-Tak Leung
+061872.html,[Rd] R-loadable dll with minGW-compiled linked library,61872,Ilana Lichtenstein
+061741.html,[Rd] X11.options().,61741,Uwe Ligges
+061749.html,[Rd] X11.options().,61749,Uwe Ligges
+061775.html,"[Rd] gsub(&quot;\\&quot;, &quot;\\\\&quot;, &quot;C:\Program Files\R&quot;)",61775,Uwe Ligges
+061792.html,[Rd] windows directory structure,61792,Uwe Ligges
+061793.html,[Rd] trivial typo in R administration manual,61793,Uwe Ligges
+061832.html,[Rd] Graphical option to update.packages in development version (build of the 2011-07-31 r56569) for Windows not working properly,61832,Uwe Ligges
+061835.html,[Rd] problems with connections when applied in tryCatch,61835,Uwe Ligges
+061866.html,[Rd] S3 methods in default namespace,61866,Uwe Ligges
+061868.html,[Rd] S3 methods in default namespace,61868,Uwe Ligges
+061870.html,[Rd] S3 methods in default namespace,61870,Uwe Ligges
+061880.html,[Rd] http://cran.r-project.org/src/base/NEWS.html points to R v2.13.0,61880,Uwe Ligges
+061892.html,"[Rd] sysdata.rda, namespaces and package dependencies",61892,Uwe Ligges
+061895.html,"[Rd] sysdata.rda, namespaces and package dependencies",61895,Uwe Ligges
+061770.html,[Rd] .C and .Call: convolve example not working,61770,Thomas Lumley
+061694.html,[Rd] 'data.frame' method for base::rep(),61694,Martin Maechler
+061733.html,[Rd] X11.options().,61733,Martin Maechler
+061743.html,[Rd] X11.options().,61743,Martin Maechler
+061851.html,[Rd] matrix bands,61851,Martin Maechler
+061854.html,[Rd] matrix bands,61854,Martin Maechler
+061874.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61874,Alireza Mahani
+061884.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61884,Alireza Mahani
+061799.html,[Rd] Referencing 'inst' directory in installed package,61799,Jonathan Malmaud
+061724.html,[Rd] e1071 ver 1.5-27 and older - SVM bug report,61724,Pawe&#322; Matykiewicz
+061725.html,[Rd]  e1071 ver 1.5-27 and older - SVM bug report,61725,David Meyer
+061729.html,[Rd] all.equal doesn't work for POSIXlt objects,61729,Joris Meys
+061752.html,[Rd] build 32-bit R on x86_64?,61752,Joris Meys
+061820.html,[Rd] problems with connections when applied in tryCatch,61820,Joris Meys
+061836.html,[Rd] problems with connections when applied in tryCatch,61836,Joris Meys
+061842.html,[Rd] Implementing a &quot;plugin&quot; paradigm with R methods,61842,Martin Morgan
+061853.html,[Rd] methods() not listing some S3 plot methods...?,61853,Martin Morgan
+061670.html,[Rd] Front ends handling help.search() results?,61670,Duncan Murdoch
+061672.html,[Rd] example package for devel newcomers,61672,Duncan Murdoch
+061673.html,[Rd] Front ends handling help.search() results?,61673,Duncan Murdoch
+061679.html,[Rd] update.default: fall back on model.frame in case that the data frame is not in the parent environment,61679,Duncan Murdoch
+061680.html,[Rd] update.default: fall back on model.frame in case that the data frame is not in the parent environment,61680,Duncan Murdoch
+061685.html,[Rd] update.default: fall back on model.frame in case that the data frame is not in the parent environment,61685,Duncan Murdoch
+061695.html,[Rd] Front ends handling help.search() results?,61695,Duncan Murdoch
+061696.html,[Rd] Front ends handling help.search() results?,61696,Duncan Murdoch
+061701.html,[Rd] Front ends handling help.search() results?,61701,Duncan Murdoch
+061703.html,[Rd] Front ends handling help.search() results?,61703,Duncan Murdoch
+061709.html,[Rd] How to seed the R random number generator in C (standalone) with an instance of .Random.seed,61709,Duncan Murdoch
+061736.html,[Rd] Overwriting imported function in another package,61736,Duncan Murdoch
+061738.html,[Rd] Overwriting imported function in another package,61738,Duncan Murdoch
+061759.html,[Rd] Win7 x64 &quot;device not ready&quot; error when DLLpath passed to dyn.load,61759,Duncan Murdoch
+061777.html,"[Rd] gsub(&quot;\\&quot;, &quot;\\\\&quot;, &quot;C:\Program Files\R&quot;)",61777,Duncan Murdoch
+061779.html,[Rd] Rd for write.table {utils}: Be explicit about the default separator,61779,Duncan Murdoch
+061830.html,[Rd] License question,61830,Duncan Murdoch
+061871.html,[Rd] S3 methods in default namespace,61871,Duncan Murdoch
+061877.html,[Rd] Out-of-date manual or small bug in R CMD check?,61877,Duncan Murdoch
+061891.html,"[Rd] sysdata.rda, namespaces and package dependencies",61891,Duncan Murdoch
+061896.html,[Rd] Non-GPL C (or R) inside of a package,61896,Duncan Murdoch
+061902.html,"[Rd] sysdata.rda, namespaces and package dependencies",61902,Duncan Murdoch
+061796.html,[Rd] An example of very slow computation,61796,John C Nash
+061780.html,[Rd] Latent flaw in SEXPREC definition,61780,Radford Neal
+061782.html,[Rd] Latent flaw in SEXPREC definition,61782,Radford Neal
+061783.html,[Rd] Improved version of Rprofmem,61783,Radford Neal
+061751.html,[Rd] build 32-bit R on x86_64?,61751,Vinh Nguyen
+061753.html,[Rd] build 32-bit R on x86_64?,61753,Vinh Nguyen
+061760.html,[Rd] build 32-bit R on x86_64?,61760,Vinh Nguyen
+061735.html,[Rd] Overwriting imported function in another package,61735,Jeroen Ooms
+061737.html,[Rd] Overwriting imported function in another package,61737,Jeroen Ooms
+061686.html,[Rd] png() broken in R-devel,61686,Herv&#233; Pag&#232;s
+061806.html,[Rd] R cmd check and multicore foreach loop,61806,Brian G. Peterson
+061840.html,[Rd] google fusiontables,61840,RKoenker
+061816.html,[Rd] Use logical expresion on ff object,61816,Krystian Radlak
+061818.html,[Rd] Use logical expresion on ff object,61818,Krystian Radlak
+061828.html,[Rd] Use logical expresion on ff object,61828,Krystian Radlak
+061689.html,[Rd] NAMESPACE problems,61689,Prof Brian Ripley
+061715.html,[Rd] [R] RPMs needed to compile R using the tar.gz file,61715,Prof Brian Ripley
+061747.html,[Rd] Making rmath.dll (or equivalent),61747,Prof Brian Ripley
+061768.html,[Rd] autogenerated namespaces not initialized correctly,61768,Prof Brian Ripley
+061897.html,[Rd] Non-GPL C (or R) inside of a package,61897,Prof Brian Ripley
+061719.html,[Rd] slightly speeding up readChar(),61719,Jeffrey Ryan
+061893.html,[Rd] Non-GPL C (or R) inside of a package,61893,Jeffrey Ryan
+061907.html,[Rd] Non-GPL C (or R) inside of a package,61907,Jeffrey Ryan
+061909.html,[Rd] Non-GPL C (or R) inside of a package,61909,Jeffrey Ryan
+061817.html,[Rd] Use logical expresion on ff object,61817,&#321;ukasz R&#281;c&#322;awowicz
+061819.html,[Rd] Use logical expresion on ff object,61819,&#321;ukasz R&#281;c&#322;awowicz
+061821.html,[Rd] Use logical expresion on ff object,61821,&#321;ukasz R&#281;c&#322;awowicz
+061822.html,[Rd] Use logical expresion on ff object,61822,&#321;ukasz R&#281;c&#322;awowicz
+061829.html,[Rd] Use logical expresion on ff object,61829,&#321;ukasz R&#281;c&#322;awowicz
+061787.html,[Rd] windows directory structure,61787,Uwe Schmitt
+061788.html,[Rd] License question,61788,Uwe Schmitt
+061790.html,[Rd] License question,61790,Uwe Schmitt
+061804.html,[Rd] Referencing 'inst' directory in installed package,61804,Marc Schwartz
+061858.html,[Rd] read.table segfaults,61858,Scott
+061849.html,[Rd] matrix bands,61849,Jeremy David Silver
+061852.html,[Rd] matrix bands,61852,Jeremy David Silver
+061850.html,[Rd] methods() not listing some S3 plot methods...?,61850,Gavin Simpson
+061862.html,[Rd] methods() not listing some S3 plot methods...?,61862,Gavin Simpson
+061859.html,[Rd] Problem in calling R functions from Matlab,61859,Vandita Srivastava
+061808.html,[Rd] Referencing 'inst' directory in installed package,61808,Mehmet Suzen
+061678.html,[Rd] update.default: fall back on model.frame in case that the data	frame is not in the parent environment,61678,"Thaler, Thorn, LAUSANNE,	Applied Mathematics"
+061684.html,[Rd] update.default: fall back on model.frame in case that the	data frame is not in the parent environment,61684,"Thaler, Thorn, LAUSANNE,	Applied Mathematics"
+061823.html,[Rd] Bug: argument 'lib.loc' not passed on appropriately in	'library()'?,61823,Janko Thyson
+061824.html,[Rd] Fwd: Bug: argument 'lib.loc' not passed on appropriately in	'library()'?,61824,Janko Thyson
+061839.html,[Rd] Increase transparency: suggestion on how to avoid namespaces and/or unnecessary overwrites of existing functions,61839,Janko Thyson
+061841.html,[Rd] Implementing a &quot;plugin&quot; paradigm with R methods,61841,Janko Thyson
+061843.html,[Rd] Implementing a &quot;plugin&quot; paradigm with R methods,61843,Janko Thyson
+061844.html,[Rd] Bug in 'setRefClass()' regarding how args in '...' are passed to 'setClass()'?,61844,Janko Thyson
+061845.html,[Rd] Implementing a &quot;plugin&quot; paradigm with R methods,61845,Janko Thyson
+061802.html,[Rd] R cmd check and multicore foreach loop,61802,"Tim Triche, Jr."
+061730.html,[Rd] Xll.options().,61730,Rolf Turner
+061734.html,[Rd] X11.options().,61734,Rolf Turner
+061745.html,[Rd] X11.options().,61745,Rolf Turner
+061750.html,[Rd] X11.options().,61750,Rolf Turner
+061683.html,[Rd] example package for devel newcomers,61683,Simon Urbanek
+061697.html,[Rd] example package for devel newcomers,61697,Simon Urbanek
+061702.html,[Rd] example package for devel newcomers,61702,Simon Urbanek
+061711.html,[Rd] slightly speeding up readChar(),61711,Simon Urbanek
+061718.html,[Rd] initFields() method no longer coerces arguments in R-devel,61718,Simon Urbanek
+061721.html,[Rd] Tesla GPUs,61721,Simon Urbanek
+061739.html,[Rd] OpenCL [Was: Tesla GPUs],61739,Simon Urbanek
+061755.html,[Rd] build 32-bit R on x86_64?,61755,Simon Urbanek
+061757.html,[Rd] build 32-bit R on x86_64?,61757,Simon Urbanek
+061846.html,[Rd] Licensing Issue with JRI,61846,Simon Urbanek
+061848.html,[Rd] Licensing Issue with JRI,61848,Simon Urbanek
+061878.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61878,Simon Urbanek
+061903.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61903,Simon Urbanek
+061904.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61904,Simon Urbanek
+061912.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61912,Simon Urbanek
+061882.html,[Rd] Problem exporting table with many columns to dbf,61882,Nacho Uve
+061811.html,[Rd] An example of very slow computation,61811,Ravi Varadhan
+061813.html,[Rd] An example of very slow computation,61813,Ravi Varadhan
+061826.html,[Rd] An example of very slow computation,61826,Ravi Varadhan
+061726.html,[Rd] Tesla GPUs,61726,Tobias Verbeke
+061765.html,[Rd] CRAN Service Notification - Downtime TODAY 13:00 - 13:30,61765,Maria Weiler
+061674.html,[Rd] [R] Save generic plot to file (before rendering to device),61674,Hadley Wickham
+061786.html,"[Rd] sysdata.rda, namespaces and package dependencies",61786,Hadley Wickham
+061867.html,[Rd] S3 methods in default namespace,61867,Hadley Wickham
+061869.html,[Rd] S3 methods in default namespace,61869,Hadley Wickham
+061885.html,"[Rd] sysdata.rda, namespaces and package dependencies",61885,Hadley Wickham
+061887.html,"[Rd] sysdata.rda, namespaces and package dependencies",61887,Hadley Wickham
+061894.html,"[Rd] sysdata.rda, namespaces and package dependencies",61894,Hadley Wickham
+061900.html,"[Rd] sysdata.rda, namespaces and package dependencies",61900,Hadley Wickham
+061905.html,"[Rd] sysdata.rda, namespaces and package dependencies",61905,Hadley Wickham
+061748.html,[Rd] Overwriting imported function in another package,61748,Joshua Wiley
+061682.html,[Rd] 'data.frame' method for base::rep(),61682,David Winsemius
+061698.html,[Rd] 'data.frame' method for base::rep(),61698,David Winsemius
+061740.html,[Rd] Adressing Problems: R with Fortran and OpenMP,61740,Lars Wi&#223;ler
+061769.html,[Rd] .C and .Call: convolve example not working,61769,Lars Wi&#223;ler
+061771.html,[Rd] .C and .Call: convolve example not working,61771,Lars Wi&#223;ler
+061789.html,[Rd] License question,61789,Kevin Wright
+061795.html,[Rd] customize the stylesheet R.css for a package?,61795,Yihui Xie
+061886.html,"[Rd] sysdata.rda, namespaces and package dependencies",61886,Yihui Xie
+061704.html,[Rd] one way to solve bad looking density plots in postscript,61704,baptiste auguie
+061746.html,[Rd] Overwriting imported function in another package,61746,Mark.Bravington at csiro.au
+061781.html,[Rd] Latent flaw in SEXPREC definition,61781,peter dalgaard
+061825.html,[Rd] An example of very slow computation,61825,peter dalgaard
+061881.html,[Rd] http://cran.r-project.org/src/base/NEWS.html points to R	v2.13.0,61881,peter dalgaard
+061687.html,[Rd] NAMESPACE problems,61687,robin hankin
+061865.html,[Rd] Rd2pdf and Rd2dvi don't find texi2dvi,61865,kryberg
+061772.html,"[Rd] gsub(&quot;\\&quot;, &quot;\\\\&quot;, &quot;C:\Program Files\R&quot;)",61772,mafia88
+061906.html,[Rd] Non-GPL C (or R) inside of a package,61906,oliver
+061908.html,[Rd] Non-GPL C (or R) inside of a package,61908,oliver
+061890.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61890,pawelm
+061910.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61910,pawelm
+061911.html,[Rd] How to safely using OpenMP pragma inside a .C() function?,61911,pawelm
+061708.html,[Rd] How to seed the R random number generator in C (standalone) with an instance of .Random.seed,61708,oliver ratmann
+061742.html,[Rd] Making rmath.dll (or equivalent),61742,sgomori
+061883.html,[Rd] unexpected behavior of callNextMethod() when passing arguments in methods to generic function,61883,henrik at singmann.org
+061810.html,[Rd] An example of very slow computation,61810,cberry at tajo.ucsd.edu
+061774.html,[Rd] bookmarks with PDF(),61774,jing hua zhao

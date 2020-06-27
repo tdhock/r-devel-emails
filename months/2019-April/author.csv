@@ -1,0 +1,136 @@
+link,Subject,id,author
+077697.html,[Rd] Inno Setup 6.0.2 fails before creating exe file on Windows (R-3.6.0),77697,Avraham Adler
+077658.html,[Rd] Managing Search Path Conflicts in R 3.6.0: Lazy Method Attachment into Search Path,77658,Juan Telleria Ruiz de Aguirre
+077587.html,[Rd] stopifnot -- eval(*) inside for(),77587,Suharto Anggono Suharto Anggono
+077645.html,[Rd] stopifnot,77645,Suharto Anggono Suharto Anggono
+077632.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77632,Henrik Bengtsson
+077590.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77590,Ben Bolker
+077654.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77654,Ben Bolker
+077651.html,[Rd] R CMD check does not report redundant '...' argument described in Rd File,77651,Georgi Boshnakov
+077615.html,[Rd] R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77615,Tom&#225;&#353; Bo&#345;il
+077621.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77621,Tom&#225;&#353; Bo&#345;il
+077627.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77627,Tom&#225;&#353; Bo&#345;il
+077628.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77628,Tom&#225;&#353; Bo&#345;il
+077630.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77630,Tom&#225;&#353; Bo&#345;il
+077634.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77634,Travers Ching
+077636.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77636,Travers Ching
+077702.html,[Rd] Background R session on Unix and SIGINT,77702,G&#225;bor Cs&#225;rdi
+077704.html,[Rd] Background R session on Unix and SIGINT,77704,G&#225;bor Cs&#225;rdi
+077707.html,[Rd] Background R session on Unix and SIGINT,77707,G&#225;bor Cs&#225;rdi
+077690.html,[Rd] R 3.6.0 is released,77690,Peter Dalgaard
+077583.html,[Rd] [Bug 17546] extend readtable with a hook for column type detection,77583,Kurt Van Dijck
+077644.html,[Rd] [r-devel] integrate over an infinite region produces wrong results depending on scaling,77644,William Dunlap
+077597.html,[Rd] Deep Replicable Bug With AMD Threadripper MultiCore,77597,Dirk Eddelbuettel
+077610.html,[Rd] R 3.6.0 &quot;alpha&quot; binaries,77610,Dirk Eddelbuettel
+077689.html,"[Rd] A bug in file.copy(), deletes file contents",77689,Pasi Haapakorva
+077649.html,[Rd] Feature request: make file.exists interruptable,77649,Christopher Hammill
+077652.html,[Rd] Feature request: make file.exists interruptable,77652,Christopher Hammill
+077581.html,[Rd] New grDevices::hcl.colors(),77581,David Hugh-Jones
+077612.html,[Rd] ActiveTCL has non open-source license,77612,Vassil Kakaradov
+077575.html,[Rd] topenv of emptyenv,77575,Tomas Kalibera
+077579.html,[Rd] Use of C++ in Packages,77579,Tomas Kalibera
+077598.html,[Rd] Deep Replicable Bug With AMD Threadripper MultiCore,77598,Tomas Kalibera
+077614.html,[Rd] Parsing code with newlines,77614,Tomas Kalibera
+077616.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77616,Tomas Kalibera
+077618.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77618,Tomas Kalibera
+077625.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77625,Tomas Kalibera
+077626.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77626,Tomas Kalibera
+077629.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77629,Tomas Kalibera
+077646.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77646,Tomas Kalibera
+077648.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77648,Tomas Kalibera
+077673.html,[Rd] R prompt updates are not validated,77673,Tomas Kalibera
+077680.html,[Rd] Use of C++ in Packages,77680,Tomas Kalibera
+077681.html,[Rd] Questions/suggestions about new staged installation,77681,Tomas Kalibera
+077683.html,[Rd] Questions/suggestions about new staged installation,77683,Tomas Kalibera
+077684.html,[Rd] update.package() asking even when asked to not ask,77684,Tomas Kalibera
+077685.html,[Rd]  configure script issue with -flto with recent gcc and system ar/ranlib,77685,Tomas Kalibera
+077691.html,[Rd]  configure script issue with -flto with recent gcc and system ar/ranlib,77691,Tomas Kalibera
+077643.html,[Rd] [r-devel] integrate over an infinite region produces wrong results depending on scaling,77643,Andre&#239; V. Kostyrka
+077670.html,[Rd] configure script issue with -flto with recent gcc and system ar/ranlib,77670,Thomas K&#246;nig
+077679.html,[Rd] R problems with lapack with gfortran,77679,Thomas K&#246;nig
+077686.html,[Rd]  configure script issue with -flto with recent gcc and system ar/ranlib,77686,Thomas K&#246;nig
+077574.html,[Rd] stopifnot -- eval(*) inside for(),77574,Martin Maechler
+077577.html,[Rd] stopifnot,77577,Martin Maechler
+077578.html,[Rd] [External] Re:  stopifnot -- eval(*) inside for(),77578,Martin Maechler
+077588.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77588,Martin Maechler
+077593.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77593,Martin Maechler
+077594.html,[Rd] subscripting a terms object,77594,Martin Maechler
+077606.html,[Rd] [EXTERNAL] Re: Re:  all.equal failure,77606,Martin Maechler
+077607.html,[Rd] [EXTERNAL] Re: Re:  all.equal failure,77607,Martin Maechler
+077655.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77655,Martin Maechler
+077698.html,[Rd] Suspect error in windows version of 3.60,77698,Martin Maechler
+077678.html,[Rd] Use of C++ in Packages,77678,Hugh Marera
+077671.html,[Rd] Use of C++ in Packages,77671,John Mount
+077601.html,[Rd] all.equal failure,77601,Duncan Murdoch
+077603.html,[Rd] [EXTERNAL] Re:  all.equal failure,77603,Duncan Murdoch
+077605.html,[Rd] [EXTERNAL] Re: Re:  all.equal failure,77605,Duncan Murdoch
+077608.html,[Rd] [EXTERNAL] Re: Re: all.equal failure,77608,Duncan Murdoch
+077620.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77620,Duncan Murdoch
+077623.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77623,Duncan Murdoch
+077663.html,[Rd]  R-devel (rev 76409) fails 'make check': non-generic function 'isSymmetric' given to findMethods(),77663,Duncan Murdoch
+077694.html,[Rd] Suspect error in windows version of 3.60,77694,Duncan Murdoch
+077695.html,[Rd] Suspect error in windows version of 3.60,77695,Duncan Murdoch
+077667.html,"[Rd]  [FORGED]  src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77667,Paul Murrell
+077706.html,"[Rd]  [FORGED] src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77706,Paul Murrell
+077617.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77617,Jeroen Ooms
+077622.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77622,Jeroen Ooms
+077661.html,[Rd] update.package() asking even when asked to not ask,77661,"Pages, Herve"
+077665.html,[Rd]  R CMD check does not report redundant '...' argument described in Rd File,77665,"Pages, Herve"
+077677.html,[Rd] Questions/suggestions about new staged installation,77677,"Pages, Herve"
+077682.html,[Rd] Questions/suggestions about new staged installation,77682,"Pages, Herve"
+077687.html,[Rd] update.package() asking even when asked to not ask,77687,"Pages, Herve"
+077675.html,[Rd] Bug in &quot;stats4&quot; package - &quot;confint&quot; method,77675,Stefano de Pretis
+077611.html,[Rd] patch to improve matrix conformability error message,77611,Joshua N Pritikin
+077672.html,[Rd] improve matrix conformability error message,77672,Joshua N Pritikin
+077700.html,[Rd] patch to improve matrix conformability error message,77700,Joshua N Pritikin
+077650.html,[Rd] Feature request: make file.exists interruptable,77650,Prof Brian Ripley
+077584.html,[Rd] New grDevices::hcl.colors(),77584,Abs Spurdle
+077585.html,[Rd] New grDevices::hcl.colors(),77585,Abs Spurdle
+077653.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77653,Saren Tasciyan
+077656.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77656,Saren Tasciyan
+077592.html,[Rd] subscripting a terms object,77592,"Therneau, Terry M., Ph.D."
+077599.html,[Rd] all.equal failure,77599,"Therneau, Terry M., Ph.D."
+077600.html,[Rd] [.terms issue,77600,"Therneau, Terry M., Ph.D."
+077602.html,[Rd] [EXTERNAL] Re:  all.equal failure,77602,"Therneau, Terry M., Ph.D."
+077604.html,[Rd] [EXTERNAL] Re: Re:  all.equal failure,77604,"Therneau, Terry M., Ph.D."
+077609.html,[Rd] all.equal failure and [.terms,77609,"Therneau, Terry M., Ph.D."
+077576.html,[Rd] [External] Re:  stopifnot -- eval(*) inside for(),77576,"Tierney, Luke"
+077591.html,[Rd] [External]  Status of R_unif_index,77591,"Tierney, Luke"
+077708.html,[Rd] [External] Re:  Background R session on Unix and SIGINT,77708,"Tierney, Luke"
+077595.html,[Rd] Parsing code with newlines,77595,Mikhail Titov
+077624.html,[Rd] Parsing code with newlines,77624,Mikhail Titov
+077662.html,[Rd] R-devel (rev 76409) fails 'make check': non-generic function 'isSymmetric' given to findMethods(),77662,Benjamin Tyner
+077664.html,[Rd]  R-devel (rev 76409) fails 'make check': non-generic function 'isSymmetric' given to findMethods(),77664,Benjamin Tyner
+077666.html,[Rd]  R-devel (rev 76409) fails 'make check': non-generic function 'isSymmetric' given to findMethods(),77666,Benjamin Tyner
+077633.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77633,I&#241;aki Ucar
+077635.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77635,I&#241;aki Ucar
+077639.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77639,I&#241;aki Ucar
+077641.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77641,I&#241;aki Ucar
+077647.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77647,I&#241;aki Ucar
+077638.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77638,Simon Urbanek
+077640.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77640,Simon Urbanek
+077642.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77642,Simon Urbanek
+077703.html,[Rd] Background R session on Unix and SIGINT,77703,Simon Urbanek
+077705.html,[Rd] Background R session on Unix and SIGINT,77705,Simon Urbanek
+077637.html,"[Rd] SUGGESTION: Settings to disable forked processing in R, e.g. parallel::mclapply()",77637,Kevin Ushey
+077589.html,[Rd] Proposal for a new feauture on summary applied to numeric class,77589,IAGO GIN&#201; V&#193;ZQUEZ
+077659.html,[Rd] R prompt updates are not validated,77659,Jack Wasey
+077693.html,[Rd] Suspect error in windows version of 3.60,77693,Len Weil
+077692.html,"[Rd] Error in glm(..., family=quasi(..., variance=list(...)))",77692,"Wollschlaeger, Daniel"
+077619.html,[Rd]  R 3.5.3 and 3.6.0 alpha Windows bug: UTF-8 characters in code are simplified to wrong ones,77619,Yihui Xie
+077580.html,[Rd] New grDevices::hcl.colors(),77580,Achim Zeileis
+077582.html,[Rd] New grDevices::hcl.colors(),77582,Achim Zeileis
+077586.html,[Rd] New grDevices::hcl.colors(),77586,Achim Zeileis
+077613.html,[Rd] ActiveTCL has non open-source license,77613,peter dalgaard
+077631.html,[Rd] Parsing code with newlines,77631,peter dalgaard
+077657.html,[Rd] Bug in the &quot;reformulate&quot; function in stats package,77657,peter dalgaard
+077669.html,"[Rd]  [FORGED]  src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77669,peter dalgaard
+077674.html,"[Rd]  [FORGED]  src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77674,peter dalgaard
+077676.html,[Rd] Bug in &quot;stats4&quot; package - &quot;confint&quot; method,77676,peter dalgaard
+077696.html,"[Rd]  [FORGED]  src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77696,peter dalgaard
+077660.html,"[Rd] src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77660,irederik m at iii at g oii oib at  at et
+077668.html,"[Rd]  [FORGED]  src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77668,irederik m at iii at g oii oib at  at et
+077688.html,"[Rd]  [FORGED]  src/modules/X11/devX11.c, can we remove &quot;#if BUG&quot; yet",77688,irederik m at iii at g oii oib at  at et
+077699.html,[Rd] patch to improve matrix conformability error message,77699,irederik m at iii at g oii oib at  at et
+077701.html,[Rd] patch to improve matrix conformability error message,77701,irederik m at iii at g oii oib at  at et
+077596.html,[Rd] Deep Replicable Bug With AMD Threadripper MultiCore,77596,ivo welch

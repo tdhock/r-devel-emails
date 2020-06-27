@@ -1,0 +1,364 @@
+link,Subject,id,author
+034348.html,[Rd] .Call and Segmentation Fault,34348,Ricardo Luiz Andrade Abrantes
+034349.html,[Rd] .Call and Segmentation Fault,34349,Ricardo Luiz Andrade Abrantes
+034373.html,[Rd] .Call and Segmentation Fault,34373,Ricardo Luiz Andrade Abrantes
+034379.html,[Rd] .Call and Segmentation Fault,34379,Ricardo Luiz Andrade Abrantes
+034429.html,[Rd] .Call and Segmentation Fault,34429,Ricardo Luiz Andrade Abrantes
+034432.html,[Rd]  .Call and Segmentation Fault,34432,Ricardo Luiz Andrade Abrantes
+034433.html,[Rd] .Call and Segmentation Fault,34433,Ricardo Luiz Andrade Abrantes
+034406.html,[Rd] Rserve seem to be working but it doesn't,34406,Joel Arrais
+034182.html,[Rd] Reading a repeated fixed format,34182,Douglas Bates
+034186.html,[Rd] include C functions from nmath in my own C functions,34186,Douglas Bates
+034276.html,[Rd] An lgrind definition for the S language,34276,Douglas Bates
+034280.html,[Rd] Questions about calls and formulas,34280,Douglas Bates
+034189.html,[Rd] Handling warning messages,34189,Henrik Bengtsson
+034191.html,[Rd] parse():ing a unclosed string,34191,Henrik Bengtsson
+034197.html,[Rd] parse():ing a unclosed string,34197,Henrik Bengtsson
+034292.html,[Rd] Fetching Warning Messages,34292,Henrik Bengtsson
+034341.html,[Rd] Memory leakage/violation?,34341,Henrik Bengtsson
+034358.html,[Rd] Memory leakage/violation?,34358,Henrik Bengtsson
+034361.html,[Rd] Memory leakage/violation?,34361,Henrik Bengtsson
+034362.html,[Rd] Memory leakage/violation?,34362,Henrik Bengtsson
+034244.html,[Rd] Different gcc versions,34244,G&#246;ran Brostr&#246;m
+034336.html,[Rd] Fortran (Was: Re: [R] linux compile options (64-bit)),34336,G&#246;ran Brostr&#246;m
+034386.html,[Rd] xerbla called from BLAS routine (PR#8100),34386,G&#246;ran Brostr&#246;m
+034391.html,[Rd] xerbla called from BLAS routine (PR#8100),34391,G&#246;ran Brostr&#246;m
+034396.html,[Rd] BLAS and ATLAS,34396,G&#246;ran Brostr&#246;m
+034404.html,[Rd] BLAS and ATLAS,34404,G&#246;ran Brostr&#246;m
+034445.html,[Rd] generic function argument list problem,34445,G&#246;ran Brostr&#246;m
+034351.html,[Rd] wchar and wstring.,34351,James Bullard
+034411.html,[Rd] Question about SET_LENGTH,34411,James Bullard
+034423.html,[Rd] wchar and wstring. (followup question),34423,James Bullard
+034241.html,[Rd] minor typo in Writing R Extensions,34241,Patrick Burns
+034315.html,[Rd] Typo(s) in proc.time.Rd and comment about ?proc.time	(PR#8091),34315,Patrick Burns
+034162.html,[Rd] S4 generating function,34162,John Chambers
+034168.html,[Rd] S4 setClass with prototypes &quot; issues&quot; (PR#8053),34168,John Chambers
+034169.html,[Rd] S4 generating function,34169,John Chambers
+034236.html,[Rd] Registering S3 class from external package,34236,John Chambers
+034111.html,[Rd] Follow-Up: R on FC4,34111,Peter Dalgaard
+034121.html,[Rd] Follow-Up: R on FC4,34121,Peter Dalgaard
+034132.html,[Rd] valgrind complains about regex.c (PR#8043),34132,Peter Dalgaard
+034215.html,[Rd] quirky behavior from rbinom (PR#8071),34215,Peter Dalgaard
+034235.html,[Rd] kendall tau correlation test for ties: Potential error	(PR#8076),34235,Peter Dalgaard
+034369.html,[Rd] bug in L-BFGS-B? (PR#8099),34369,Peter Dalgaard
+034378.html,[Rd] Coding standards (was Re:  bug in L-BFGS-B? (PR#8099)),34378,Peter Dalgaard
+034416.html,[Rd] test for readline installation fails if installation	location non-standard (PR#8104),34416,Peter Dalgaard
+034434.html,[Rd] .Call and Segmentation Fault,34434,Peter Dalgaard
+034461.html,[Rd] update.packages forces Tcl/Tk interface despite ask=TRUE	if the DISPLAY environment variable is set (PR#8115),34461,Peter Dalgaard
+034463.html,[Rd] Build Portland Group Compiler,34463,Peter Dalgaard
+034122.html,[Rd] possibility of R/Maxima linking,34122,Robert Dodier
+034135.html,[Rd] call fortran in R,34135,Sebastien Durand
+034133.html,[Rd] call fortran in R,34133,S&#233;bastien Durand
+034138.html,[Rd] call fortran in R,34138,S&#233;bastien Durand
+034139.html,[Rd] call fortran in R,34139,S&#233;bastien Durand
+034143.html,[Rd] call fortran in R,34143,S&#233;bastien Durand
+034144.html,[Rd] call fortran in R,34144,S&#233;bastien Durand
+034147.html,[Rd] call fortran in R,34147,S&#233;bastien Durand
+034149.html,[Rd] call fortran in R,34149,S&#233;bastien Durand
+034150.html,[Rd] call fortran in R,34150,S&#233;bastien Durand
+034170.html,[Rd] call fortran in R,34170,S&#233;bastien Durand
+034173.html,[Rd] call fortran in R,34173,S&#233;bastien Durand
+034246.html,[Rd] Different gcc versions,34246,Dirk Eddelbuettel
+034325.html,[Rd] Typo(s) in proc.time.Rd and comment	about	?proc.time	(PR#8092),34325,P Ehlers
+034350.html,[Rd] .Call and Segmentation Fault,34350,Byron Ellis
+034446.html,[Rd] Fwd: segfault,34446,Byron Ellis
+034261.html,[Rd] Example in pdf() help file (PR#8083),34261,Erik.Jorgensen at agrsci.dk
+034245.html,[Rd] Questions on &quot;\&quot; vs &quot;/&quot; on Windows,34245,Seth Falcon
+034249.html,[Rd] Questions on &quot;\&quot; vs &quot;/&quot; on Windows,34249,Seth Falcon
+034104.html,[Rd] Testing for English locale,34104,John Fox
+034258.html,[Rd] Internationalization questions,34258,John Fox
+034265.html,[Rd] Internationalization questions,34265,John Fox
+034270.html,[Rd] Internationalization questions,34270,John Fox
+034322.html,[Rd] TCITex and R,34322,John Fox
+034400.html,[Rd] Additional Books on R for Web Site Listing,34400,Friedrich.Leisch at tuwien.ac.at
+034118.html,[Rd] valgrind complains about regex.c (PR#8043),34118,Charles Geyer
+034120.html,[Rd] valgrind complains about regex.c (PR#8043),34120,Charles Geyer
+034130.html,[Rd] valgrind complains about regex.c (PR#8043),34130,Charles Geyer
+034152.html,[Rd] valgrind complains about regex.c (PR#8043),34152,Charles Geyer
+034257.html,[Rd] bizarre signif stars in Sweave latex,34257,Charles Geyer
+034284.html,[Rd] bizarre signif stars in Sweave latex,34284,Charles Geyer
+034242.html,[Rd] SciViews-R v8.7 and Rcmdr v1.0-2 (PR#8079),34242,Philippe Grosjean
+034107.html,[Rd] fifo on Windows,34107,Gabor Grothendieck
+034112.html,[Rd] fifo on Windows,34112,Gabor Grothendieck
+034207.html,[Rd] problem using model.frame(),34207,Gabor Grothendieck
+034209.html,[Rd] problem using model.frame(),34209,Gabor Grothendieck
+034230.html,[Rd] problem using model.frame(),34230,Gabor Grothendieck
+034247.html,[Rd] Questions on &quot;\&quot; vs &quot;/&quot; on Windows,34247,Gabor Grothendieck
+034282.html,[Rd] Questions about calls and formulas,34282,Gabor Grothendieck
+034288.html,[Rd] Functions with the same name: best practices,34288,Gabor Grothendieck
+034299.html,[Rd] do.call(): no need for quote {was .. Questions about	calls..},34299,Gabor Grothendieck
+034301.html,[Rd] Which TEX for Wiindows,34301,Gabor Grothendieck
+034319.html,[Rd] Typo(s) in proc.time.Rd and comment about ?proc.time	(PR#8092),34319,Gabor Grothendieck
+034347.html,[Rd] RFC: &quot;loop connections&quot;,34347,Gabor Grothendieck
+034372.html,[Rd] RFC: &quot;loop connections&quot;,34372,Gabor Grothendieck
+034100.html,[Rd] R_BATCHSAVE setting in config.site,34100,Douglas Grove
+034174.html,[Rd] Tests of gcc-4.0.1,34174,Kjetil Brinchmann Halvorsen
+034440.html,[Rd] generic function argument list problem,34440,Robin Hankin
+034218.html,[Rd] MacOS specific framework install problem,34218,Cyrus Harmon
+034227.html,[Rd] PATCH to Makefile.in w/ Makeconf LIBR variable update to allow	builds within R to find Framework,34227,Cyrus Harmon
+034401.html,[Rd] Compile warning in unique.c,34401,"Harris, Michael (NIH/NCI) [E]"
+034359.html,[Rd] RFC: &quot;loop connections&quot;,34359,David Hinds
+034145.html,[Rd] call fortran in R,34145,Jeffrey Horner
+034455.html,[Rd] .Call and Segmentation Fault,34455,"Huntsinger, Reid"
+034334.html,[Rd] histogram method for S4 class.,34334,Ernesto Jardim
+034459.html,"[Rd] R --gui doesn't work, but R --help says it does",34459,Robert King
+034418.html,[Rd] test for readline installation fails if installation location non-standard (PR#8104),34418,David Kreil
+034308.html,[Rd] compile R with Portland Group compiler,34308,Jennifer Lai
+034313.html,[Rd] compile R with Portland Group compiler,34313,Jennifer Lai
+034427.html,[Rd] compile R with Portland Group compiler,34427,Jennifer Lai
+034462.html,[Rd] Build Portland Group Compiler,34462,Jennifer Lai
+034464.html,[Rd] Build Portland Group Compiler,34464,Jennifer Lai
+034304.html,[Rd] About R variable references,34304,Duncan Temple Lang
+034302.html,[Rd] IPC,34302,Duncan Temple Lang
+034303.html,[Rd] IPC,34303,Duncan Temple Lang
+034124.html,[Rd] tree/graph data structure APIs?,34124,Uwe Ligges
+034356.html,[Rd] Memory leakage/violation?,34356,Uwe Ligges
+034435.html,[Rd] 64 bit R for Windows,34435,Milton Lopez
+034108.html,[Rd] Follow-Up: R on FC4,34108,Thomas Lumley
+034219.html,[Rd] bug? (PR#8074),34219,Thomas Lumley
+034222.html,[Rd] bug? (PR#8074),34222,Thomas Lumley
+034344.html,[Rd] Memory leakage/violation?,34344,Thomas Lumley
+034403.html,[Rd] Compile warning in unique.c,34403,Thomas Lumley
+034436.html,[Rd] .Call and Segmentation Fault,34436,Thomas Lumley
+034277.html,[Rd] An lgrind definition for the S language,34277,Marc Schwartz (via MN)
+034342.html,[Rd] Free-form to fixed-form Fortran,34342,Don MacQueen
+034102.html,[Rd] Most accurate timing?,34102,Martin Maechler
+034158.html,[Rd] R CMD check failing to warn when it should,34158,Martin Maechler
+034159.html,[Rd] object.size() bug?,34159,Martin Maechler
+034228.html,[Rd] problem using model.frame(),34228,Martin Maechler
+034295.html,[Rd] do.call(): no need for quote {was .. Questions about calls..},34295,Martin Maechler
+034305.html,[Rd] weigths in boxplot,34305,Martin Maechler
+034335.html,[Rd] histogram method for S4 class.,34335,Martin Maechler
+034360.html,[Rd] RFC: &quot;loop connections&quot;,34360,Martin Maechler
+034441.html,[Rd] generic function argument list problem,34441,Martin Maechler
+034443.html,[Rd] generic function argument list problem,34443,Martin Maechler
+034448.html,[Rd] Why should package.skeleton() fail R CMD check?,34448,Martin Maechler
+034449.html,[Rd] Why should package.skeleton() fail R CMD check?,34449,Martin Maechler
+034289.html,[Rd] TCITex and R,34289,Mark.Bravington at csiro.au
+034442.html,[Rd] pos option to function 'library',34442,Mark.Bravington at csiro.au
+034224.html,[Rd] About R variable references,34224,Markku Mielityinen
+034220.html,[Rd] bug? (PR#8074),34220,Paul Mosquin
+034101.html,[Rd] Most accurate timing?,34101,Duncan Murdoch
+034103.html,[Rd] Most accurate timing?,34103,Duncan Murdoch
+034110.html,[Rd] fifo on Windows,34110,Duncan Murdoch
+034115.html,[Rd] valgrind complains about regex.c (PR#8043),34115,Duncan Murdoch
+034140.html,[Rd] call fortran in R,34140,Duncan Murdoch
+034141.html,[Rd] call fortran in R,34141,Duncan Murdoch
+034161.html,[Rd] object.size() bug?,34161,Duncan Murdoch
+034250.html,[Rd] missing sh.exe file when running &quot;R CMD INSTALL test&quot;	(PR#8068),34250,Duncan Murdoch
+034286.html,[Rd] Questions about calls and formulas,34286,Duncan Murdoch
+034296.html,[Rd] Functions with the same name: best practices,34296,Duncan Murdoch
+034297.html,[Rd] TCITex and R,34297,Duncan Murdoch
+034330.html,[Rd] doesn't recognise ~ (PR#8096),34330,Duncan Murdoch
+034437.html,[Rd] 64 bit R for Windows,34437,Duncan Murdoch
+034323.html,[Rd] Model forecasts with new factor levels - predict.warn,34323,Prof J C Nash
+034254.html,[Rd] weigths in boxplot,34254,Erich Neuwirth
+034278.html,[Rd] boxplot.formula and questions about calls and formulas,34278,Erich Neuwirth
+034279.html,[Rd] Questions about calls and formulas,34279,Erich Neuwirth
+034281.html,[Rd] Questions about calls and formulas,34281,Erich Neuwirth
+034283.html,[Rd] Questions about calls and formulas,34283,Erich Neuwirth
+034333.html,[Rd] weigths in boxplot,34333,Erich Neuwirth
+034156.html,[Rd] call fortran in R,34156,Bill Northcott
+034252.html,[Rd] IPC,34252,Sean O'Riordain
+034253.html,[Rd] IPC,34253,Sean O'Riordain
+034231.html,[Rd] problem using model.frame(),34231,Jari Oksanen
+034444.html,[Rd] generic function argument list problem,34444,Jari Oksanen
+034447.html,[Rd] Why should package.skeleton() fail R CMD check?,34447,Jari Oksanen
+034451.html,[Rd] Why should package.skeleton() fail R CMD check?,34451,Jari Oksanen
+034405.html,[Rd] floating point control on windows,34405,Chris Paulse
+034409.html,[Rd] floating point control on windows,34409,Chris Paulse
+034422.html,[Rd] efficiency of sample() with prob.,34422,Bo Peng
+034426.html,[Rd] efficiency of sample() with prob.,34426,Bo Peng
+034160.html,[Rd] object.size() bug?,34160,Roger D. Peng
+034123.html,[Rd] tree/graph data structure APIs?,34123,Andrew Piskorski
+034128.html,[Rd] [AV-Repaired]Xhazzensgg,34128,Procedure
+034114.html,[Rd] valgrind complains about regex.c (PR#8043),34114,Prof Brian Ripley
+034117.html,[Rd] valgrind complains about regex.c (PR#8043),34117,Prof Brian Ripley
+034142.html,[Rd] call fortran in R,34142,Prof Brian Ripley
+034146.html,[Rd] call fortran in R,34146,Prof Brian Ripley
+034163.html,[Rd] object.size() bug?,34163,Prof Brian Ripley
+034171.html,[Rd] Tests of gcc-4.0.1,34171,Prof Brian Ripley
+034175.html,[Rd] Tests of gcc-4.0.1,34175,Prof Brian Ripley
+034179.html,[Rd] gfortran and BLAS on AMD64 Linux,34179,Prof Brian Ripley
+034183.html,[Rd] Reading a repeated fixed format,34183,Prof Brian Ripley
+034196.html,[Rd] documentation for eval() typo,34196,Prof Brian Ripley
+034195.html,[Rd] parse():ing a unclosed string,34195,Prof Brian Ripley
+034204.html,[Rd] Patches (was Re:  documentation for eval() typo),34204,Prof Brian Ripley
+034225.html,[Rd] About R variable references,34225,Prof Brian Ripley
+034248.html,[Rd] Questions on &quot;\&quot; vs &quot;/&quot; on Windows,34248,Prof Brian Ripley
+034259.html,[Rd] bizarre signif stars in Sweave latex,34259,Prof Brian Ripley
+034260.html,[Rd] Internationalization questions,34260,Prof Brian Ripley
+034264.html,[Rd] Implementing a single-precision class with raw,34264,Prof Brian Ripley
+034268.html,[Rd] Internationalization questions,34268,Prof Brian Ripley
+034269.html,[Rd] is.numeric (PR#8067),34269,Prof Brian Ripley
+034273.html,[Rd] Fetching Warning Messages,34273,Prof Brian Ripley
+034275.html,[Rd] Package tests: best practices,34275,Prof Brian Ripley
+034291.html,[Rd] Functions with the same name: best practices,34291,Prof Brian Ripley
+034300.html,[Rd] Which TEX for Wiindows,34300,Prof Brian Ripley
+034310.html,[Rd] compile R with Portland Group compiler,34310,Prof Brian Ripley
+034326.html,[Rd] Implementing a single-precision class with raw (now	integer),34326,Prof Brian Ripley
+034327.html,[Rd] compile R with Portland Group compiler,34327,Prof Brian Ripley
+034337.html,[Rd] Fortran (Was: Re: [R] linux compile options (64-bit)),34337,Prof Brian Ripley
+034340.html,[Rd] Functions with the same name: best practices,34340,Prof Brian Ripley
+034353.html,[Rd] RFC: &quot;loop connections&quot;,34353,Prof Brian Ripley
+034355.html,[Rd] Free-form to fixed-form Fortran,34355,Prof Brian Ripley
+034357.html,[Rd] Memory leakage/violation?,34357,Prof Brian Ripley
+034363.html,[Rd] wchar and wstring.,34363,Prof Brian Ripley
+034365.html,[Rd] Writing R-extensions,34365,Prof Brian Ripley
+034367.html,[Rd] Writing R-extensions,34367,Prof Brian Ripley
+034368.html,[Rd] bug in L-BFGS-B? (PR#8099),34368,Prof Brian Ripley
+034370.html,[Rd] bug in L-BFGS-B? (PR#8099),34370,Prof Brian Ripley
+034374.html,[Rd] .Call and Segmentation Fault,34374,Prof Brian Ripley
+034380.html,[Rd] robustness of install.packages/update.packages (was Re: bug in L-BFGS-B? (PR#8099)),34380,Prof Brian Ripley
+034385.html,[Rd] Fwd: segfault,34385,Prof Brian Ripley
+034387.html,[Rd] xerbla called from BLAS routine (PR#8100),34387,Prof Brian Ripley
+034388.html,[Rd] robustness of install.packages/update.packages (was Re: bug in L-BFGS-B? (PR#8099)),34388,Prof Brian Ripley
+034393.html,[Rd] xerbla called from BLAS routine (PR#8100),34393,Prof Brian Ripley
+034394.html,[Rd] FW: RServe initialization problem,34394,Prof Brian Ripley
+034398.html,[Rd] BLAS and ATLAS,34398,Prof Brian Ripley
+034402.html,[Rd] Compile warning in unique.c,34402,Prof Brian Ripley
+034408.html,[Rd] floating point control on windows,34408,Prof Brian Ripley
+034412.html,[Rd] efficiency of sample() with prob.,34412,Prof Brian Ripley
+034414.html,[Rd] Question about SET_LENGTH,34414,Prof Brian Ripley
+034425.html,[Rd] wchar and wstring. (followup question),34425,Prof Brian Ripley
+034428.html,[Rd] compile R with Portland Group compiler,34428,Prof Brian Ripley
+034439.html,[Rd] pf hangs with infinite arguments (PR#8110),34439,Prof Brian Ripley
+034450.html,[Rd] robustness of install.packages/update.packages,34450,Prof Brian Ripley
+034452.html,[Rd] So-called 'bug' reports PR#8102 and PR#8103,34452,Prof Brian Ripley
+034454.html,[Rd] So-called 'bug' reports PR#8102 and PR#8103,34454,Prof Brian Ripley
+034438.html,[Rd] pf hangs with infinite arguments (PR#8110),34438,Rob.Hyndman at buseco.monash.edu.au
+034410.html,[Rd] Problems setting and adding POSIX dates (PR#8103),34410,Robert.McGehee at geodecapital.com
+034134.html,[Rd] call fortran in R,34134,Paul Roebuck
+034136.html,[Rd] object.size() bug?,34136,Paul Roebuck
+034157.html,[Rd] S4 generating function,34157,Paul Roebuck
+034166.html,[Rd] S4 generating function,34166,Paul Roebuck
+034184.html,[Rd] Registering S3 class from external package,34184,Paul Roebuck
+034188.html,[Rd] Handling warning messages,34188,Paul Roebuck
+034190.html,[Rd] Handling warning messages,34190,Paul Roebuck
+034193.html,[Rd] documentation for eval() typo,34193,Paul Roebuck
+034203.html,[Rd] Patches (was Re:  documentation for eval() typo),34203,Paul Roebuck
+034125.html,[Rd] tree/graph data structure APIs?,34125,A.J. Rossini
+034129.html,[Rd] R CMD check failing to warn when it should,34129,Deepayan Sarkar
+034332.html,[Rd] histogram method for S4 class.,34332,Deepayan Sarkar
+034407.html,[Rd] Fwd: segfault,34407,Deepayan Sarkar
+034381.html,[Rd] Additional Books on R for Web Site Listing,34381,Marc Schwartz
+034263.html,[Rd] [Virus Check],34263,SecuriQ at hondabr.com.br
+034187.html,[Rd] Handling warning messages,34187,Nikhil Shah
+034272.html,[Rd] Fetching Warning Messages,34272,Nikhil Shah
+034290.html,[Rd] Fetching Warning Messages,34290,Nikhil Shah
+034251.html,[Rd] IPC,34251,Nigel Sim
+034256.html,[Rd] IPC,34256,Nigel Sim
+034106.html,[Rd] Follow-Up: R on FC4,34106,Gavin Simpson
+034109.html,[Rd] Follow-Up: R on FC4,34109,Gavin Simpson
+034126.html,[Rd] deparse(substitute(x)) and S3 methods,34126,Gavin Simpson
+034127.html,[Rd] deparse(substitute(x)) and S3 methods,34127,Gavin Simpson
+034206.html,[Rd] problem using model.frame(),34206,Gavin Simpson
+034208.html,[Rd] problem using model.frame(),34208,Gavin Simpson
+034210.html,[Rd] problem using model.frame(),34210,Gavin Simpson
+034229.html,[Rd] problem using model.frame(),34229,Gavin Simpson
+034232.html,[Rd] problem using model.frame(),34232,Gavin Simpson
+034233.html,[Rd] problem using model.frame(),34233,Gavin Simpson
+034239.html,[Rd] problem using model.frame(),34239,Gavin Simpson
+034243.html,[Rd] Implementing a single-precision class with raw,34243,Colin A. Smith
+034324.html,[Rd] Implementing a single-precision class with raw (now	integer),34324,Colin A. Smith
+034364.html,[Rd] Writing R-extensions,34364,Berwin A Turlach
+034375.html,[Rd] robustness of install.packages/update.packages (was Re: bug in	L-BFGS-B? (PR#8099)),34375,Berwin A Turlach
+034376.html,[Rd] Coding standards (was Re:  bug in L-BFGS-B? (PR#8099)),34376,Berwin A Turlach
+034392.html,[Rd] robustness of install.packages/update.packages (was Re: bug in L-BFGS-B? (PR#8099)),34392,Berwin A Turlach
+034395.html,[Rd] robustness of install.packages/update.packages (was Re: bug in L-BFGS-B? (PR#8099)),34395,Berwin A Turlach
+034105.html,[Rd] Testing for English locale,34105,Simon Urbanek
+034151.html,[Rd] call fortran in R,34151,Simon Urbanek
+034321.html,[Rd] extra parentheses cause death of kernel (PR#8094),34321,Simon Urbanek
+034343.html,[Rd] Free-form to fixed-form Fortran,34343,Simon Urbanek
+034397.html,[Rd] RServe initialization problem,34397,Simon Urbanek
+034399.html,[Rd] FW: RServe initialization problem,34399,Simon Urbanek
+034457.html,[Rd] Email failure for forwards from r-bugs@cran.r-project.org to	r-de	vel,34457,"Warnes, Gregory R"
+034458.html,[Rd] R CMD check example problem (PR#8113),34458,"Warnes, Gregory R"
+034153.html,[Rd] Documentation bug in libPaths.Rd (PR#8050),34153,Weigand.Stephen at mayo.edu
+034312.html,[Rd] Typo(s) in proc.time.Rd and comment about ?proc.time (PR#8091),34312,Weigand.Stephen at mayo.edu
+034137.html,[Rd] call fortran in R,34137,Ales Ziberna
+034298.html,[Rd] Which TEX for Wiindows,34298,Ales Ziberna
+034354.html,[Rd] Free-form to fixed-form Fortran,34354,Ales Ziberna
+034178.html,[Rd] bug found in predict.locfit in locfit package (PR#8057),34178,apipatta at colorado.edu
+034216.html,[Rd] small typo in &quot;An Introduction to R&quot;,34216,apjaworski at mmm.com
+034212.html,[Rd] yaxs in bxp() (PR#8072),34212,arnima at u.washington.edu
+034213.html,[Rd] pch=NA in bxp.Rd (PR#8073),34213,arnima at u.washington.edu
+034221.html,[Rd] bug? (PR#8074),34221,berwin at maths.uwa.edu.au
+034366.html,[Rd] bug in L-BFGS-B? (PR#8099),34366,berwin at maths.uwa.edu.au
+034345.html,[Rd] Relatives (PR#8098),34345,blue123silver at netscape.net
+034417.html,[Rd] test for readline installation fails if installation	(PR#8105),34417,boku at kreil.org
+034328.html,[Rd] Typo(s) in proc.time.Rd and comment about ?proc.time	(PR#8092),34328,roger bos
+034113.html,[Rd] valgrind complains about regex.c (PR#8043),34113,charlie at stat.umn.edu
+034119.html,[Rd] valgrind complains about regex.c (PR#8043),34119,charlie at stat.umn.edu
+034131.html,[Rd] valgrind complains about regex.c (PR#8043),34131,charlie at stat.umn.edu
+034226.html,[Rd] marcia,34226,ralph covington
+034211.html,[Rd] quirky behavior from rbinom (PR#8071),34211,cpaulse at aecom.yu.edu
+034148.html,[Rd] add1.lm and add1.glm not handling weights and offsets properly	(PR#8049),34148,d.firth at warwick.ac.uk
+034176.html,[Rd] Invalid Page fault in R.dll in mouse click (PR#8055),34176,ddutta9 at sify.com
+034285.html,[Rd] RFC: &quot;loop connections&quot;,34285,dhinds at sonic.net
+034318.html,[Rd] Typo(s) in proc.time.Rd and comment about	?proc.time	(PR#8092),34318,dhinds at sonic.net
+034346.html,[Rd] RFC: &quot;loop connections&quot;,34346,dhinds at sonic.net
+034352.html,[Rd] RFC: &quot;loop connections&quot;,34352,dhinds at sonic.net
+034371.html,[Rd] RFC: &quot;loop connections&quot;,34371,dhinds at sonic.net
+034413.html,[Rd] floating point control on windows,34413,dhinds at sonic.net
+034430.html,[Rd] RFC: &quot;loop connections&quot;,34430,dhinds at sonic.net
+034234.html,[Rd] kendall tau correlation test for ties: Potential error	(PR#8076),34234,dkoschuetzki at gmx.de
+034317.html,[Rd] kendall tau correlation test for ties: Potential error	(PR#8076),34317,dkoschuetzki at gmx.de
+034309.html,[Rd] Extended-Warranty for your vehicle r-bugs (PR#8088),34309,exclude-me at client-2bsmsend.com
+034311.html,[Rd] Auto coverage too high r-bugs? Take a look (PR#8090),34311,exclude-me at client-2bsmsend.com
+034377.html,[Rd] xerbla called from BLAS routine (PR#8100),34377,gb at stat.umu.se
+034198.html,[Rd] Shutdown by to much data (PR#8065),34198,gemachtenest at gmx.de
+034223.html,[Rd] adelaide,34223,ignacio gerundo
+034167.html,[Rd] S4 setClass with prototypes &quot; issues&quot; (PR#8053),34167,gunter.berton at gene.com
+034240.html,[Rd] SciViews-R v8.7 and Rcmdr v1.0-2 (PR#8079),34240,haydin at karaelmas.edu.tr
+034154.html,[Rd] call fortran in R,34154,stefano iacus
+034172.html,[Rd] call fortran in R,34172,stefano iacus
+034384.html,[Rd] Fwd: segfault,34384,stefano iacus
+034431.html,[Rd] Fwd: segfault,34431,stefano iacus
+034181.html,[Rd] Job Offer (PR#8059),34181,info at jobsearch-monster.com
+034267.html,[Rd] doc - matrix multiplication (PR#8069),34267,jcperry at jcperry.com
+034192.html,[Rd] make check-all fails (PR#8063),34192,jed at jkaplan.info
+034164.html,"[Rd] unable to start pdf, postscript devices (PR#8052)",34164,jmf at atmosinfo.com
+034389.html,[Rd] RServe initialization problem,34389,joelarrais
+034390.html,[Rd] FW: RServe initialization problem,34390,joelarrais
+034306.html,[Rd] NAs by integer overflow in Spearman's test p-value (PR#8087),34306,jtk at cmp.uea.ac.uk
+034237.html,[Rd] PS driver crashes when no permissions (PR#8078),34237,jussi.jousimo at ktl.fi
+034200.html,[Rd] png and resolution (PR#8066),34200,kkrueger at einthal.de
+034271.html,[Rd] Copy and paste with X11 (PR#8085),34271,kwang-youn-kim at uiowa.edu
+034331.html,[Rd] doesn't recognise ~ (PR#8096),34331,ligges at statistik.uni-dortmund.de
+034185.html,[Rd] include C functions from nmath in my own C functions,34185,yyan liu
+034329.html,[Rd] doesn't recognise ~ (PR#8096),34329,lvr at curame.com
+034453.html,[Rd] Old times (PR#8111),34453,mailerndr at trademe.co.nz
+034180.html,[Rd] qpois minor bug (PR#8058),34180,mikael at amazon.com
+034116.html,[Rd] valgrind complains about regex.c (PR#8043),34116,murdoch at stats.uwo.ca
+034177.html,[Rd] Invalid Page fault in R.dll in mouse click (PR#8055),34177,murdoch at stats.uwo.ca
+034202.html,[Rd] Shutdown by to much data (PR#8065),34202,murdoch at stats.uwo.ca
+034456.html,[Rd] Bug in copying of S4 objects (PR#8112),34456,murdoch at stats.uwo.ca
+034217.html,[Rd] bug? (PR#8074),34217,pmosquin at hotmail.com
+034415.html,[Rd] test for readline installation fails if installation location	non-standard (PR#8104),34415,rbug05 at kreil.org
+034419.html,[Rd] Core dump during lazy loading of &quot;survival&quot; at installation	time (PR#8106),34419,rbug05 at kreil.org
+034421.html,[Rd] &quot;finite&quot; vs &quot;R_FINITE&quot; in colors.c (PR#8108),34421,rbug05 at kreil.org
+034155.html,[Rd] (PR#8049) add1.lm and add1.glm not handling weights and,34155,ripley at stats.ox.ac.uk
+034165.html,"[Rd] unable to start pdf, postscript devices (PR#8052)",34165,ripley at stats.ox.ac.uk
+034194.html,[Rd] make check-all fails (PR#8063),34194,ripley at stats.ox.ac.uk
+034199.html,[Rd] Shutdown by to much data (PR#8065),34199,ripley at stats.ox.ac.uk
+034201.html,[Rd] png and resolution (PR#8066),34201,ripley at stats.ox.ac.uk
+034214.html,[Rd] quirky behavior from rbinom (PR#8071),34214,ripley at stats.ox.ac.uk
+034238.html,[Rd] PS driver crashes when no permissions (PR#8078),34238,ripley at stats.ox.ac.uk
+034262.html,[Rd] Example in pdf() help file (PR#8083),34262,ripley at stats.ox.ac.uk
+034307.html,[Rd] (PR#8087) NAs by integer overflow in Spearman's test	p-value,34307,ripley at stats.ox.ac.uk
+034314.html,[Rd] Typo(s) in proc.time.Rd and comment about ?proc.time	(PR#8092),34314,ripley at stats.ox.ac.uk
+034382.html,[Rd] xerbla called from BLAS routine (PR#8100),34382,ripley at stats.ox.ac.uk
+034383.html,[Rd] xerbla called from BLAS routine (PR#8100),34383,ripley at stats.ox.ac.uk
+034424.html,[Rd] &quot;finite&quot; vs &quot;R_FINITE&quot; in colors.c (PR#8108),34424,ripley at stats.ox.ac.uk
+034460.html,[Rd] update.packages forces Tcl/Tk interface despite ask=TRUE if	the DISPLAY environment variable is set (PR#8115),34460,robert.king at newcastle.edu.au
+034320.html,[Rd] extra parentheses cause death of kernel (PR#8094),34320,rowe at psych.ucsb.edu
+034420.html,[Rd] test for readline installation fails if installation	location (PR#8107),34420,rpeng at jhsph.edu
+034255.html,[Rd] segmentation fault in R-patched-2005-08-21 (PR#8081),34255,savicky at cs.cas.cz
+034266.html,[Rd] is.numeric (PR#8067),34266,toedling at ebi.ac.uk
+034205.html,[Rd] missing sh.exe file when running &quot;R CMD INSTALL test&quot; (PR#8068),34205,u9126801 at stat.nctu.edu.tw
+034274.html,[Rd] Package tests: best practices,34274,hadley wickham
+034287.html,[Rd] Functions with the same name: best practices,34287,hadley wickham
+034339.html,[Rd] Functions with the same name: best practices,34339,hadley wickham
+034316.html,[Rd] Relatives (PR#8093),34316,zonalconsultant at netscape.net
+034338.html,[Rd] Free-form to fixed-form Fortran,34338,Ale&#353; &#381;iberna

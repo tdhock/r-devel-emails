@@ -1,0 +1,143 @@
+link,Subject,id,author
+075758.html,[Rd] Typo in src/extra/tzone/registryTZ.c,75758,Korpela Mikko (MML)
+075689.html,[Rd] 64-bit integer type warning on windows,75689,Juan Telleria Ruiz de Aguirre
+075761.html,[Rd] R Lapack &#8211; why a subset?,75761,Juan Telleria Ruiz de Aguirre
+075681.html,[Rd] Inappropriate parens fix for Logic.Rd,75681,Suharto Anggono Suharto Anggono
+075721.html,[Rd] Inappropriate parens fix for Logic.Rd,75721,Suharto Anggono Suharto Anggono
+075744.html,[Rd] Function 'factor' issues,75744,Suharto Anggono Suharto Anggono
+075781.html,[Rd] Nice names in deparse,75781,Suharto Anggono Suharto Anggono
+075756.html,[Rd] R Lapack &#8211; why a subset?,75756,Baptiste Auguie
+075674.html,[Rd] [Bug report] Chinese characters are not handled correctly in Rterm for Windows,75674,Azure
+075740.html,[Rd] aggregate() naming -- bug or feature,75740,Rui Barradas
+075676.html,[Rd] parallel:::newPSOCKnode(): background worker fails immediately if socket on master is not set up in time (BUG?),75676,Henrik Bengtsson
+075677.html,[Rd]  parallel:::newPSOCKnode(): background worker fails immediately if socket on master is not set up in time (BUG?),75677,Henrik Bengtsson
+075678.html,[Rd]  parallel:::newPSOCKnode(): background worker fails immediately if socket on master is not set up in time (BUG?),75678,Henrik Bengtsson
+075682.html,[Rd]  parallel:::newPSOCKnode(): background worker fails immediately if socket on master is not set up in time (BUG?),75682,Henrik Bengtsson
+075697.html,[Rd] clusterApply arguments,75697,Henrik Bengtsson
+075702.html,[Rd] clusterApply arguments,75702,Henrik Bengtsson
+075726.html,[Rd] BUG: tools::pskill() returns incorrect values or non-initated garbage values [PATCH],75726,Henrik Bengtsson
+075733.html,[Rd] WISH: Sys.setlocale() to return value invisibly,75733,Henrik Bengtsson
+075734.html,"[Rd] sink(con, type = &quot;message&quot;): what is the reason why 'message' sinks cannot be stacked?",75734,Henrik Bengtsson
+075783.html,[Rd] Base R examples that write to current working directory,75783,Henrik Bengtsson
+075718.html,[Rd] cat(fill=N),75718,"Berry, Charles"
+075665.html,[Rd] backquotes and term.labels,75665,Ben Bolker
+075667.html,[Rd] Fwd: Re: [EXTERNAL] Re: backquotes and term.labels,75667,Ben Bolker
+075669.html,[Rd] Fwd: Re: [EXTERNAL] Re: backquotes and term.labels,75669,Ben Bolker
+075673.html,[Rd] [EXTERNAL] Re:  Fwd: Re: Re: backquotes and term.labels,75673,Ben Bolker
+075729.html,[Rd] trivial typo in man/pretty.Rd,75729,Ben Bolker
+075696.html,[Rd] punctuation in utils::cite(),75696,Georgi Boshnakov
+075764.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75764,Winston Chang
+075710.html,[Rd] Discrepancy: R sum() VS C or Fortran sum,75710,Pierre Chausse
+075717.html,[Rd] Discrepancy: R sum() VS C or Fortran sum,75717,Pierre Chausse
+075647.html,[Rd] scale.default gives an incorrect error message when is.numeric() fails on a dgeMatrix,75647,Michael Chirico
+075658.html,"[Rd] model.frame strips class as promised, but fails to strip OBJECT in C",75658,Michael Chirico
+075688.html,[Rd] 64-bit integer type warning on windows,75688,Christophe DUTANG
+075732.html,[Rd] R 3.5.0 scheduled for April 23,75732,Peter Dalgaard
+075759.html,[Rd] R Lapack &#8211; why a subset?,75759,Peter Dalgaard
+075711.html,[Rd] Discrepancy: R sum() VS C or Fortran sum,75711,Steven Dirkse
+075663.html,[Rd] backquotes and term.labels,75663,William Dunlap
+075679.html,[Rd] importing namespaces from base packages,75679,Adrian Du&#537;a
+075684.html,[Rd] importing namespaces from base packages,75684,Adrian Du&#537;a
+075690.html,[Rd] 64-bit integer type warning on windows,75690,Dirk Eddelbuettel
+075692.html,[Rd] truncation/rounding bug with write.csv,75692,Dirk Eddelbuettel
+075738.html,[Rd] inappropriate warning in latticeExtra,75738,Richard M. Heiberger
+075652.html,[Rd] install.packages doesn't produce warnings unless qualified with utils::,75652,David Hugh-Jones
+075655.html,[Rd] Fwd: install.packages doesn't produce warnings unless qualified with utils::,75655,David Hugh-Jones
+075704.html,[Rd] speeding up R compilation,75704,David Hugh-Jones
+075714.html,[Rd] cat(fill=N),75714,David Hugh-Jones
+075716.html,[Rd] cat(fill=N),75716,David Hugh-Jones
+075685.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75685,Tomas Kalibera
+075703.html,[Rd] clusterApply arguments,75703,Tomas Kalibera
+075719.html,[Rd] Discrepancy: R sum() VS C or Fortran sum,75719,Tomas Kalibera
+075720.html,[Rd] clusterApply arguments,75720,Tomas Kalibera
+075730.html,[Rd]  BUG: tools::pskill() returns incorrect values or non-initated garbage values [PATCH],75730,Tomas Kalibera
+075736.html,"[Rd] Inconsistency, may be bug in read.delim ?",75736,Tomas Kalibera
+075767.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75767,Tomas Kalibera
+075769.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75769,Tomas Kalibera
+075770.html,[Rd] Typo in src/extra/tzone/registryTZ.c,75770,Tomas Kalibera
+075774.html,[Rd] Possible `substr` bug in UTF-8 Corner Case,75774,Tomas Kalibera
+075775.html,[Rd] as.pairlist does not convert call objects,75775,Tomas Kalibera
+075642.html,[Rd] [parallel] fixes load balancing of parLapplyLB,75642,Christian Krause
+075755.html,[Rd] Workflow for translations?,75755,Michael Lawrence
+075754.html,[Rd] Suggesting patch to link DOIs against secure resolver,75754,Katrin Leinweber
+075762.html,[Rd] Suggesting patch to link DOIs against secure resolver,75762,Katrin Leinweber
+075671.html,[Rd] CRAN incoming services and winbuilder down Mar 9-10,75671,Uwe Ligges
+075782.html,[Rd] Base R examples that write to current working directory,75782,Uwe Ligges
+075705.html,[Rd] Apparent bug in behavior of formulas with '-' operator for lm,75705,Mark van der Loo
+075707.html,[Rd]  Apparent bug in behavior of formulas with '-' operator for lm,75707,Mark van der Loo
+075709.html,[Rd]  Apparent bug in behavior of formulas with '-' operator for lm,75709,Mark van der Loo
+075723.html,[Rd] `@&lt;-` modify its argument when slot is externalptr,75723,Jialin Ma
+075727.html,[Rd] `@&lt;-` modify its argument when slot is externalptr,75727,Jialin Ma
+075772.html,[Rd] as.pairlist does not convert call objects,75772,Jialin Ma
+075646.html,[Rd] scale.default gives an incorrect error message when is.numeric() fails on a dgeMatrix,75646,Martin Maechler
+075657.html,[Rd] Unclosed parenthesis in grep.Rd,75657,Martin Maechler
+075668.html,[Rd] Fwd: Re: [EXTERNAL] Re: backquotes and term.labels,75668,Martin Maechler
+075672.html,[Rd] Bug report - duplicate row names with as.data.frame(),75672,Martin Maechler
+075683.html,[Rd] importing namespaces from base packages,75683,Martin Maechler
+075686.html,[Rd] importing namespaces from base packages,75686,Martin Maechler
+075722.html,[Rd] Inappropriate parens fix for Logic.Rd,75722,Martin Maechler
+075731.html,[Rd] trivial typo in man/pretty.Rd,75731,Martin Maechler
+075737.html,[Rd] [R-pkg-devel] Warning: rBind is deprecated,75737,Martin Maechler
+075749.html,[Rd] Function 'factor' issues,75749,Martin Maechler
+075757.html,[Rd] Suggesting patch to link DOIs against secure resolver,75757,Martin Maechler
+075675.html,[Rd] reshape function: allow split argument to include perl,75675,Edward McNeil
+075660.html,"[Rd] model.frame strips class as promised, but fails to strip OBJECT in C",75660,Joris Meys
+075693.html,[Rd] truncation/rounding bug with write.csv,75693,Joris Meys
+075699.html,[Rd] truncation/rounding bug with write.csv,75699,Joris Meys
+075706.html,[Rd]  Apparent bug in behavior of formulas with '-' operator for lm,75706,Joris Meys
+075708.html,[Rd]  Apparent bug in behavior of formulas with '-' operator for lm,75708,Joris Meys
+075745.html,[Rd] Possible bug: file.exists() always returns TRUE for prn.us.txt,75745,Joris Meys
+075747.html,[Rd]  Possible bug: file.exists() always returns TRUE for prn.us.txt,75747,Joris Meys
+075748.html,[Rd]  Possible bug: file.exists() always returns TRUE for prn.us.txt,75748,Joris Meys
+075691.html,[Rd] truncation/rounding bug with write.csv,75691,Gregory Michaelson
+075695.html,[Rd] truncation/rounding bug with write.csv,75695,Gregory Michaelson
+075701.html,[Rd] truncation/rounding bug with write.csv,75701,Gregory Michaelson
+075654.html,[Rd] install.packages doesn't produce warnings unless qualified with utils::,75654,Duncan Murdoch
+075661.html,[Rd] Unclosed parenthesis in grep.Rd,75661,Duncan Murdoch
+075746.html,[Rd]  Possible bug: file.exists() always returns TRUE for prn.us.txt,75746,Duncan Murdoch
+075780.html,[Rd] Base R examples that write to current working directory,75780,Duncan Murdoch
+075741.html,[Rd] Integrate erros on certain functions,75741,John Muschelli
+075751.html,[Rd] Integrate erros on certain functions,75751,John P. Nolan
+075760.html,[Rd] R Lapack &#8211; why a subset?,75760,Keith O'Hara
+075687.html,[Rd] importing namespaces from base packages,75687,Jari Oksanen
+075656.html,[Rd] Unclosed parenthesis in grep.Rd,75656,Hugh Parsonage
+075735.html,[Rd] Proposal to reduce check times by skipping GitHub pulls and issues URL checks,75735,Hugh Parsonage
+075649.html,[Rd] Makevars CXX_STD variable ignored when no *.cpp files in src/,75649,Rados&#322;aw Piliszek
+075645.html,[Rd] Bug report - duplicate row names with as.data.frame(),75645,Martyn Plummer
+075650.html,[Rd]  Makevars CXX_STD variable ignored when no *.cpp files in src/,75650,Martyn Plummer
+075651.html,[Rd]  Makevars CXX_STD variable ignored when no *.cpp files in src/,75651,Martyn Plummer
+075739.html,[Rd] aggregate() naming -- bug or feature,75739,Randall Pruim
+075743.html,[Rd] aggregate() naming -- bug or feature,75743,Randall Pruim
+075752.html,"[Rd] R-devel Digest, Vol 181, Issue 22",75752,Randall Pruim
+075644.html,[Rd] Bug report - duplicate row names with as.data.frame(),75644,Ron
+075659.html,[Rd] Unclosed parenthesis in grep.Rd,75659,Etienne Sanchez
+075694.html,[Rd] clusterApply arguments,75694,Florian Schwendinger
+075715.html,[Rd] cat(fill=N),75715,Serguei Sokol
+075725.html,[Rd] `@&lt;-` modify its argument when slot is externalptr,75725,Lukas Stadler
+075728.html,"[Rd] Inconsistency, may be bug in read.delim ?",75728,Detlef Steuer
+075753.html,[Rd] Workflow for translations?,75753,Detlef Steuer
+075662.html,[Rd] backquotes and term.labels,75662,"Therneau, Terry M., Ph.D."
+075664.html,[Rd] backquotes and term.labels,75664,"Therneau, Terry M., Ph.D."
+075666.html,[Rd] Fwd: Re: [EXTERNAL] Re:  backquotes and term.labels,75666,"Therneau, Terry M., Ph.D."
+075670.html,[Rd] [EXTERNAL] Re:  Fwd: Re: Re: backquotes and term.labels,75670,"Therneau, Terry M., Ph.D."
+075648.html,[Rd] Repeated use of dyn.load().,75648,Rolf Turner
+075653.html,[Rd] install.packages doesn't produce warnings unless qualified with utils::,75653,Joshua Ulrich
+075779.html,[Rd] Base R examples that write to current working directory,75779,Hadley Wickham
+075643.html,[Rd] Small program embedding R crashes in 64 bits,75643,William
+075698.html,[Rd] truncation/rounding bug with write.csv,75698,Ista Zahn
+075742.html,[Rd] aggregate() naming -- bug or feature,75742,Ista Zahn
+075773.html,[Rd] Possible `substr` bug in UTF-8 Corner Case,75773,brodie gaslam
+075776.html,[Rd] Possible `substr` bug in UTF-8 Corner Case,75776,brodie gaslam
+075700.html,[Rd] clusterApply arguments,75700,FlorianSchwendinger at gmx.at
+075750.html,[Rd] aggregate() naming -- bug or feature,75750,lmo
+075680.html,[Rd]  parallel:::newPSOCKnode(): background worker fails immediately if socket on master is not set up in time (BUG?),75680,luke-tierney at uiowa.edu
+075712.html,[Rd] Discrepancy: R sum() VS C or Fortran sum,75712,luke-tierney at uiowa.edu
+075713.html,[Rd]  parallel:::newPSOCKnode(): background worker fails immediately if socket on master is not set up in time (BUG?),75713,luke-tierney at uiowa.edu
+075724.html,[Rd] `@&lt;-` modify its argument when slot is externalptr,75724,luke-tierney at uiowa.edu
+075765.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75765,luke-tierney at uiowa.edu
+075771.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75771,luke-tierney at uiowa.edu
+075777.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75777,luke-tierney at uiowa.edu
+075778.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75778,luke-tierney at uiowa.edu
+075763.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75763,I&#241;aki &#218;car
+075766.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75766,I&#241;aki &#218;car
+075768.html,[Rd] Objects not gc'ed due to caching (?) in R's S3 dispatch mechanism,75768,I&#241;aki &#218;car

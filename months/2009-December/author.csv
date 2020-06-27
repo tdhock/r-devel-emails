@@ -1,0 +1,353 @@
+link,Subject,id,author
+056091.html,[Rd] split.data.frame,56091,Felix Andrews
+056142.html,[Rd] proposal for new axis.Date/axis.POSIXct,56142,Felix Andrews
+056175.html,[Rd] A package for visualizing R syntax,56175,Felix Andrews
+055968.html,[Rd] options(width=100) ignored on start-up: bug or feature?,55968,Liviu Andronic
+055970.html,[Rd] options(width=100) ignored on start-up: bug or feature?,55970,Liviu Andronic
+056140.html,[Rd] checking Rd cross-references ... WARNING,56140,Liviu Andronic
+056143.html,[Rd] checking Rd cross-references ... WARNING,56143,Liviu Andronic
+056029.html,[Rd] Which packages in R use C++?,56029,Whit Armstrong
+055980.html,[Rd] extraction of sub-matrix by name,55980,Yurii Aulchenko
+055953.html,[Rd] request to make --enable-prebuilt-html the default build on	linux,55953,Jonathan Baron
+056130.html,[Rd] Vectorized switch,56130,Gabriel Becker
+056134.html,[Rd] Vectorized switch,56134,Gabriel Becker
+056079.html,[Rd] RFC: lchoose() vs lfactorial() etc,56079,Martin Becker
+055983.html,[Rd] x[c()] &lt;- value sets the mode to mode(value),55983,Henrik Bengtsson
+056172.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56172,Henrik Bengtsson
+056211.html,[Rd] Should file.access(as.character(NA)) return -1 (now 0)?,56211,Henrik Bengtsson
+055997.html,[Rd] split() is slow on data.frame (PR#14123),55997,Charles C. Berry
+056071.html,[Rd] New version weighted mean differs from the old one	(PR#14142),56071,Charles C. Berry
+055976.html,[Rd] lower.tail option in pnorm,55976,Ben Bolker
+056084.html,[Rd] silly SVN question,56084,Ben Bolker
+056087.html,[Rd] silly SVN question,56087,Ben Bolker
+056089.html,[Rd] silly SVN question,56089,Ben Bolker
+055921.html,[Rd] group generics,55921,Ross Boylan
+055923.html,[Rd] group generics,55923,Ross Boylan
+056122.html,[Rd] ?setGeneric garbled (PR#14153),56122,Ross Boylan
+056031.html,[Rd] binary string conversion to a vector (PR#14120),56031,Franc Brglez
+055922.html,[Rd] group generics,55922,John Chambers
+056093.html,[Rd] S4 dispatch and S3 &quot;connection&quot; objects,56093,John Chambers
+055878.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55878,Jean Couteau
+055898.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55898,Jean Couteau
+055908.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55908,Jean Couteau
+055900.html,[Rd] read.csv confused by newline characters in header	(PR#14103),55900,Peter Dalgaard
+055963.html,[Rd] PR#14099,55963,Peter Dalgaard
+055972.html,[Rd] Crash with Unicode and sub (PR#14114),55972,Peter Dalgaard
+055993.html,[Rd] reshape() makes R run out of memory (PR#14121),55993,Peter Dalgaard
+056013.html,[Rd] Antwort: Re:  Crash with Unicode and sub (PR#14114),56013,Peter Dalgaard
+056038.html,[Rd] `mgp[1:3]' are of differing sign (PR#14130),56038,Peter Dalgaard
+056049.html,[Rd] R CMD check may not detect a code/documentation mismatch,56049,Peter Dalgaard
+056056.html,[Rd] R CMD check may not detect a code/documentation mismatch,56056,Peter Dalgaard
+056092.html,[Rd] split.data.frame,56092,Peter Dalgaard
+056107.html,[Rd] R CMD check may not detect a code/documentation mismatch,56107,Peter Dalgaard
+056146.html,[Rd] a little bug for the function 'sprintf' (PR#14161),56146,Peter Dalgaard
+056153.html,[Rd] sort yields different results on OS X (PR#14163),56153,Peter Dalgaard
+056205.html,[Rd] Outage in Copenhagen tomorrow,56205,Peter Dalgaard
+056200.html,[Rd] Calling Fortran90 code from R,56200,Hartwig Deneke
+056203.html,[Rd] Calling Fortran90 code from R,56203,Hartwig Deneke
+056115.html,[Rd] split.data.frame,56115,Matthew Dowle
+056210.html,[Rd] Bug query (PR#14173),56210,Edward.Gracely at DrexelMed.edu
+055979.html,[Rd] lower.tail option in pnorm,55979,William Dunlap
+055984.html,[Rd] x[c()] &lt;- value sets the mode to mode(value),55984,William Dunlap
+055996.html,[Rd] split() is slow on data.frame (PR#14123),55996,William Dunlap
+056131.html,[Rd] Vectorized switch,56131,William Dunlap
+056021.html,[Rd] Which packages in R use C++?,56021,Dirk Eddelbuettel
+056051.html,[Rd] O(N log N) Kendall Tau,56051,Dirk Eddelbuettel
+056189.html,[Rd] simplifying number of R installations on disk,56189,Dirk Eddelbuettel
+056037.html,[Rd] `mgp[1:3]' are of differing sign (PR#14130),56037,Peter Ehlers
+056041.html,[Rd] `mgp[1:3]' are of differing sign (PR#14130),56041,Peter Ehlers
+056183.html,[Rd] bug in princomp example (PR#14167),56183,Peter Ehlers
+056215.html,[Rd] readCitationFile encoding,56215,Jens Elkner
+056221.html,[Rd] readCitationFile encoding,56221,Jens Elkner
+055946.html,"[Rd] Error in namespaceExport(ns, exports) :",55946,Seth Falcon
+055948.html,[Rd] tm and e1071 question,55948,Ingo Feinerer
+055880.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55880,Romain Francois
+055907.html,[Rd] combine UserDefinedDatabase and regular environments,55907,Romain Francois
+055914.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55914,Romain Francois
+055938.html,[Rd] raster support in graphics devices,55938,Romain Francois
+055952.html,[Rd] raster support in graphics devices,55952,Romain Francois
+055958.html,[Rd] raster support in graphics devices,55958,Romain Francois
+055959.html,[Rd] raster support in graphics devices,55959,Romain Francois
+055962.html,[Rd] raster support in graphics devices,55962,Romain Francois
+056074.html,[Rd] S4 dispatch and S3 &quot;connection&quot; objects,56074,Romain Francois
+056076.html,[Rd] split.data.frame,56076,Romain Francois
+056090.html,[Rd] silly SVN question,56090,Romain Francois
+056094.html,[Rd] split.data.frame,56094,Romain Francois
+056095.html,[Rd] S4 dispatch and S3 &quot;connection&quot; objects,56095,Romain Francois
+056100.html,[Rd] Redirect standard output (PR#14148),56100,Romain Francois
+055957.html,[Rd] raster support in graphics devices,55957,Laurent Gautier
+056201.html,[Rd] Calling Fortran90 code from R,56201,Simone Giannerini
+056204.html,[Rd] Calling Fortran90 code from R,56204,Simone Giannerini
+055932.html,[Rd] raster support in graphics devices,55932,Gabor Grothendieck
+055934.html,[Rd] raster support in graphics devices,55934,Gabor Grothendieck
+055935.html,[Rd] raster support in graphics devices,55935,Gabor Grothendieck
+055937.html,[Rd] raster support in graphics devices,55937,Gabor Grothendieck
+055939.html,[Rd] raster support in graphics devices,55939,Gabor Grothendieck
+056147.html,[Rd] cut.POSIXt problem with breaks= &quot;quarter&quot; (PR#14162),56147,Gabor Grothendieck
+056174.html,[Rd] A package for visualizing R syntax,56174,Gabor Grothendieck
+056176.html,[Rd] A package for visualizing R syntax,56176,Gabor Grothendieck
+056180.html,[Rd] Locating code that is outside of functions in R scripts,56180,Gabor Grothendieck
+056184.html,[Rd] simplifying number of R installations on disk,56184,Gabor Grothendieck
+056188.html,[Rd] simplifying number of R installations on disk,56188,Gabor Grothendieck
+056190.html,[Rd] simplifying number of R installations on disk,56190,Gabor Grothendieck
+056185.html,[Rd] Problem compiling R library on FC4 ( conflicting declaration	in Rinterface.h and stdint.h),56185,Saptarshi Guha
+056192.html,[Rd] Problem compiling R library on FC4 ( conflicting	declaration in Rinterface.h and stdint.h),56192,Saptarshi Guha
+056223.html,[Rd] Benefit of treating NA and NaN differently for numerics,56223,Saptarshi Guha
+056068.html,[Rd] Rd cross-references ... WARNING in R-2.10.*,56068,RICHARD M. HEIBERGER
+055912.html,[Rd] S4 and head() problems,55912,Robin Hankin
+056077.html,[Rd] RFC: lchoose() vs lfactorial() etc,56077,Robin Hankin
+056080.html,[Rd] RFC: lchoose() vs lfactorial() etc,56080,Robin Hankin
+056069.html,[Rd] dumpMethod/getMethod on methods in packages,56069,Kasper Daniel Hansen
+056085.html,[Rd] silly SVN question,56085,Kasper Daniel Hansen
+056149.html,[Rd] a little bug for the function 'sprintf' (PR#14161),56149, (Ted Harding)
+056224.html,[Rd] Benefit of treating NA and NaN differently for numerics,56224, (Ted Harding)
+056054.html,[Rd] R CMD check may not detect a code/documentation mismatch,56054,Kurt Hornik
+056194.html,[Rd] Locating code that is outside of functions in R scripts,56194,Wolfgang Huber
+056030.html,[Rd] R on Windows crashes when using certain characters in	strings in data frames (PR#14125),56030,Karl Ove Hufthammer
+055886.html,[Rd] p-generalized normal distribution,55886,Steve Kalke
+056009.html,[Rd] expression paste broken in r-devel?,56009,Hiroyuki Kawakatsu
+056012.html,[Rd] expression paste broken in r-devel?,56012,Hiroyuki Kawakatsu
+055918.html,[Rd] question about differences in behavior with NA subscripts in	matrix vs. data.frame,55918,Mark Kimpel
+056162.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56162,Mark Kimpel
+055974.html,[Rd] lower.tail option in pnorm,55974,Ken Knoblauch
+055977.html,[Rd] lower.tail option in pnorm,55977,Ken Knoblauch
+055906.html,[Rd] combine UserDefinedDatabase and regular environments,55906,Michael Lawrence
+055942.html,[Rd] combine UserDefinedDatabase and regular environments,55942,Michael Lawrence
+056083.html,[Rd] S4 dispatch and S3 &quot;connection&quot; objects,56083,Michael Lawrence
+056106.html,[Rd] Flexclust barchart issue when mcol=NULL,56106,Friedrich Leisch
+055903.html,[Rd] raster support in graphics devices,55903,Nicholas Lewin-Koh
+055941.html,[Rd] boxplot: auto sizing for ylim variable,55941,Uwe Ligges
+056052.html,[Rd] O(N log N) Kendall Tau,56052,Uwe Ligges
+056218.html,[Rd] creating R package-perl,56218,Uwe Ligges
+056219.html,[Rd] Bug query (PR#14173),56219,Uwe Ligges
+056170.html,[Rd] A package for visualizing R syntax,56170,Sylvain Loiseau
+056196.html,[Rd] A package for visualizing R syntax,56196,Sylvain Loiseau
+056129.html,[Rd] Vectorized switch,56129,Stavros Macrakis
+056132.html,[Rd] Vectorized switch,56132,Stavros Macrakis
+056158.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56158,Stavros Macrakis
+056166.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56166,Stavros Macrakis
+056171.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56171,Stavros Macrakis
+056214.html,[Rd] how do I join two lists of the same type ?,56214,Stavros Macrakis
+055879.html,[Rd] raster support in graphics devices,55879,Martin Maechler
+055915.html,[Rd] S4 and head() problems,55915,Martin Maechler
+055928.html,[Rd] Tabs in R source code,55928,Martin Maechler
+055988.html,[Rd] V&#225;lasz: Re: tm and e1071 question,55988,Martin Maechler
+056043.html,[Rd] How to organized code in the R/ directory of a package?,56043,Martin Maechler
+056075.html,[Rd] RFC: lchoose() vs lfactorial() etc,56075,Martin Maechler
+056081.html,[Rd] RFC: lchoose() vs lfactorial() etc,56081,Martin Maechler
+056116.html,[Rd] segfault in glm.fit (PR#14154),56116,Martin Maechler
+056119.html,[Rd] RFC: lchoose() vs lfactorial() etc,56119,Martin Maechler
+056120.html,[Rd] ?setGeneric garbled (PR#14153),56120,Martin Maechler
+056139.html,"[Rd] choose(n,k) when n is almost integer",56139,Martin Maechler
+055876.html,[Rd] raster support in graphics devices,55876,Charlotte Maia
+055890.html,[Rd] raster support in graphics devices,55890,Charlotte Maia
+055894.html,[Rd]  re: documentation omission in Extract.Rd?,55894,Charlotte Maia
+055943.html,[Rd] Task View for Marketing,55943,Charlotte Maia
+055956.html,[Rd] Task View for Marketing,55956,Charlotte Maia
+056186.html,[Rd] simplifying number of R installations on disk,56186,Charlotte Maia
+056206.html,[Rd] UML Class and Object Diagrams in R,56206,Charlotte Maia
+056212.html,[Rd] UML Class and Object Diagrams in R,56212,Charlotte Maia
+056213.html,[Rd] how do I join two lists of the same type ?,56213,Steve Mew
+055919.html,[Rd] group generics,55919,Martin Morgan
+056168.html,[Rd] how to catch useDynLib errors? Rgraphviz,56168,Martin Morgan
+055884.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55884,Duncan Murdoch
+055949.html,[Rd] error in help.search (PR#14113),55949,Duncan Murdoch
+055954.html,[Rd] request to make --enable-prebuilt-html the default build on	linux,55954,Duncan Murdoch
+055990.html,[Rd] binary string conversion to a vector (PR#14120),55990,Duncan Murdoch
+056010.html,[Rd] expression paste broken in r-devel?,56010,Duncan Murdoch
+056035.html,[Rd] R on Windows crashes when using certain characters in	strings in data frames (PR#14125),56035,Duncan Murdoch
+056046.html,[Rd] Missing html help files with R 2.10.0 (PR#14134),56046,Duncan Murdoch
+056058.html,[Rd] R on Windows crashes when using certain characters in strings in data frames (PR#14125),56058,Duncan Murdoch
+056103.html,[Rd] Redirect standard output (PR#14148),56103,Duncan Murdoch
+056114.html,[Rd] Wrong links in help help files? (PR#14155),56114,Duncan Murdoch
+056121.html,[Rd] Wrong links in help help files? (PR#14155),56121,Duncan Murdoch
+056141.html,[Rd] checking Rd cross-references ... WARNING,56141,Duncan Murdoch
+056179.html,[Rd] Locating code that is outside of functions in R scripts,56179,Duncan Murdoch
+056225.html,[Rd] Benefit of treating NA and NaN differently for numerics,56225,Duncan Murdoch
+055992.html,[Rd] choose.files() latent highlighting in console,55992,Daniel Murphy
+055874.html,[Rd] raster support in graphics devices,55874,Paul Murrell
+055889.html,[Rd] raster support in graphics devices,55889,Paul Murrell
+055964.html,[Rd] raster support in graphics devices,55964,Paul Murrell
+055965.html,[Rd] raster support in graphics devices,55965,Paul Murrell
+056053.html,[Rd] raster support in graphics devices,56053,Paul Murrell
+056104.html,[Rd] [R] R CMD check when package directory is symlinked,56104,Prof. John C Nash
+056169.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56169,Sean O'Riordain
+056124.html,[Rd] silly SVN question,56124,Roger Peng
+055929.html,[Rd] tm and e1071 question,55929,Jeszenszky Peter
+055971.html,[Rd] V&#225;lasz: Re: tm and e1071 question,55971,Jeszenszky Peter
+055875.html,[Rd] documentation omission in Extract.Rd?,55875,Tony Plate
+055981.html,[Rd] extraction of sub-matrix by name,55981,Tony Plate
+056044.html,[Rd] binary string conversion to a vector (PR#14120),56044,Tony Plate
+056195.html,[Rd] as.Date function yields inconsistent results (PR#14166),56195,Tony Plate
+055913.html,[Rd] ./configure warning (PR#14104),55913,Prof Brian Ripley
+055930.html,[Rd] (PR#14103) read.csv confused by newline characters in header,55930,Prof Brian Ripley
+055975.html,[Rd] lower.tail option in pnorm,55975,Prof Brian Ripley
+055989.html,[Rd] binary string conversion to a vector (PR#14120),55989,Prof Brian Ripley
+055991.html,[Rd] Recent TeX changes and R/package manuals,55991,Prof Brian Ripley
+056001.html,[Rd] Crash with Unicode and sub (PR#14114),56001,Prof Brian Ripley
+056003.html,[Rd] Recent TeX changes and R/package manuals,56003,Prof Brian Ripley
+056011.html,[Rd] Antwort: Re:  Crash with Unicode and sub (PR#14114),56011,Prof Brian Ripley
+056055.html,[Rd] Calendar week ISO (PR#14132),56055,Prof Brian Ripley
+056086.html,[Rd] Antwort: Re: R on Windows crashes when using certain,56086,Prof Brian Ripley
+056088.html,[Rd] silly SVN question,56088,Prof Brian Ripley
+056101.html,[Rd] Redirect standard output (PR#14148),56101,Prof Brian Ripley
+056102.html,[Rd] Flexclust barchart issue when mcol=NULL (PR#14150),56102,Prof Brian Ripley
+056118.html,[Rd] segfault in glm.fit (PR#14154),56118,Prof Brian Ripley
+056152.html,[Rd] sort yields different results on OS X (PR#14163),56152,Prof Brian Ripley
+056155.html,[Rd] sort yields different results on OS X (PR#14163),56155,Prof Brian Ripley
+056163.html,[Rd] cut.POSIXt problem with breaks= &quot;quarter&quot; (PR#14162),56163,Prof Brian Ripley
+056191.html,[Rd] Problem compiling R library on FC4 ( conflicting declaration in Rinterface.h and stdint.h),56191,Prof Brian Ripley
+056207.html,[Rd] different behaviour of NAs under valgrind (PR#14171),56207,Prof Brian Ripley
+056216.html,[Rd] readCitationFile encoding,56216,Prof Brian Ripley
+056014.html,[Rd] Recent TeX changes and R/package manuals,56014,Peter Ruckdeschel
+056161.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56161,Jeff Ryan
+056173.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56173,Jeff Ryan
+056156.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56156,Dominick Samperi
+056160.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56160,Dominick Samperi
+056167.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56167,Dominick Samperi
+056181.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56181,Dominick Samperi
+056048.html,[Rd] R CMD check may not detect a code/documentation mismatch,56048,Petr Savicky
+056063.html,[Rd] R CMD check may not detect a code/documentation mismatch,56063,Petr Savicky
+056072.html,[Rd] Accuracy (PR#14139),56072,Petr Savicky
+056078.html,[Rd] RFC: lchoose() vs lfactorial() etc,56078,Petr Savicky
+056123.html,[Rd] RFC: lchoose() vs lfactorial() etc,56123,Petr Savicky
+056154.html,"[Rd] choose(n,k) when n is almost integer",56154,Petr Savicky
+056157.html,"[Rd] choose(n,k) when n is almost integer",56157,Petr Savicky
+056177.html,"[Rd] choose(n,k) when n is almost integer",56177,Petr Savicky
+056217.html,[Rd] seq.int broken (seq as well) (PR#14169),56217,Petr Savicky
+055924.html,"[Rd] Error in namespaceExport(ns, exports) :",55924,David Scherrer
+056187.html,[Rd] Problem compiling R library on FC4 ( conflicting	declaration	in Rinterface.h and stdint.h),56187,Marc Schwartz
+056193.html,[Rd] Problem compiling R library on FC4 ( conflicting declaration in Rinterface.h and stdint.h),56193,Marc Schwartz
+056028.html,[Rd] How to organized code in the R/ directory of a package?,56028,David Scott
+055927.html,[Rd] Tabs in R source code,55927,Sharpie
+056050.html,[Rd] O(N log N) Kendall Tau,56050,David Simcha
+055904.html,[Rd] boxplot: auto sizing for ylim variable,55904,Greg Snow
+056165.html,[Rd] sort yields different results on OS X (PR#14163),56165,Jeffrey M Sullivan
+055883.html,[Rd] raster support in graphics devices,55883,Simon Urbanek
+055892.html,[Rd] PROTECT and OCaml GC.,55892,Simon Urbanek
+055901.html,[Rd] Bug in R evaluating a huge instruction (PR#14096),55901,Simon Urbanek
+055902.html,[Rd] Macintosh R.app crashing (PR#14100),55902,Simon Urbanek
+055955.html,[Rd] raster support in graphics devices,55955,Simon Urbanek
+055960.html,[Rd] raster support in graphics devices,55960,Simon Urbanek
+056047.html,[Rd] Missing html help files with R 2.10.0 (PR#14134),56047,Simon Urbanek
+056070.html,[Rd] as.data.frame requires a lot of memory (PR#14140),56070,Simon Urbanek
+056105.html,[Rd] R GUI editor window - help field does not return the	help	topic (PR#14146),56105,Simon Urbanek
+056222.html,[Rd] readCitationFile encoding,56222,Simon Urbanek
+055978.html,[Rd] lower.tail option in pnorm,55978,Ravi Varadhan
+055950.html,[Rd] raster support in graphics devices,55950,Tobias Verbeke
+056023.html,[Rd] How to organized code in the R/ directory of a package?,56023,Tobias Verbeke
+056159.html,[Rd] Rcpp: Clarifying the meaning of GPL?,56159,Yihui Xie
+055885.html,[Rd] [R] How to quit unwanted execution immediately?,55885,Peng Yu
+055905.html,[Rd] [R] go back a block of code in history,55905,Peng Yu
+055926.html,[Rd] Tabs in R source code,55926,Peng Yu
+055998.html,[Rd] split() is slow on data.frame (PR#14123),55998,Peng Yu
+056000.html,[Rd] split() is slow on data.frame (PR#14123),56000,Peng Yu
+056018.html,[Rd] Which version of findInterval is used?,56018,Peng Yu
+056019.html,[Rd] Request to add section number to the bookmarks of R pdf	documents,56019,Peng Yu
+056020.html,[Rd] Which packages in R use C++?,56020,Peng Yu
+056022.html,[Rd] How to organized code in the R/ directory of a package?,56022,Peng Yu
+056025.html,[Rd] How to organized code in the R/ directory of a package?,56025,Peng Yu
+055877.html,[Rd] PROTECT and OCaml GC.,55877,Guillaume Yziquel
+055881.html,[Rd] PROTECT and OCaml GC.,55881,Guillaume Yziquel
+055882.html,[Rd] PROTECT and OCaml GC.,55882,Guillaume Yziquel
+055891.html,[Rd] PROTECT and OCaml GC.,55891,Guillaume Yziquel
+055893.html,[Rd] PROTECT and OCaml GC.,55893,Guillaume Yziquel
+055944.html,[Rd] Task View for Marketing,55944,Achim Zeileis
+056060.html,[Rd] ar.ols(): negative determinant problem,56060,Achim Zeileis
+056045.html,[Rd] binary string conversion to a vector (PR#14120),56045,tplate at acm.org
+055887.html,[Rd] raster support in graphics devices,55887,baptiste auguie
+055920.html,[Rd] raster support in graphics devices,55920,baptiste auguie
+055933.html,[Rd] raster support in graphics devices,55933,baptiste auguie
+055951.html,[Rd] raster support in graphics devices,55951,baptiste auguie
+055966.html,[Rd] raster support in graphics devices,55966,baptiste auguie
+055967.html,[Rd] raster support in graphics devices,55967,baptiste auguie
+055982.html,[Rd] lty parameter not respected by pdf device,55982,baptiste auguie
+056062.html,[Rd] raster support in graphics devices,56062,baptiste auguie
+056117.html,[Rd] incorrect linetype with pdf device (PR#14128),56117,baptiste auguie
+056135.html,[Rd] incorrect linetype with pdf device (PR#14128),56135,baptiste auguie
+056112.html,[Rd] Wrong links in help help files? (PR#14155),56112,henrik.parn at bio.ntnu.no
+055909.html,[Rd] dchisq tail accuracy (PR#14105),55909,Jerry.Lewis at biogenidec.com
+056057.html,[Rd] qpois errors for degenerate distribution (PR#14135),56057,Jerry.Lewis at biogenidec.com
+055910.html,[Rd] dchisq tail accuracy (PR#14105),55910,jerry.lewis at biogenidec.com
+056039.html,[Rd] `mgp[1:3]' are of differing sign (PR#14130),56039,p.dalgaard at biostat.ku.dk
+056111.html,[Rd] ?setGeneric garbled (PR#14153),56111,ross at biostat.ucsf.edu
+056138.html,[Rd] ?setGeneric garbled (PR#14153),56138,ross at biostat.ucsf.edu
+055896.html,[Rd] Macintosh R.app crashing (PR#14100),55896,abstewart2 at bsu.edu
+056073.html,[Rd] Accuracy (PR#14139),56073,savicky at cs.cas.cz
+056148.html,[Rd] a little bug for the function 'sprintf' (PR#14161),56148,savicky at cs.cas.cz
+056098.html,[Rd] Redirect standard output (PR#14148),56098,joemsong at cs.nmsu.edu
+056026.html,[Rd] Which packages in R use C++?,56026,cstrato
+056067.html,[Rd] New version weighted mean differs from the old one (PR#14142),56067,huh420 at dreamwiz.com
+055899.html,[Rd] read.csv confused by newline characters in header (PR#14103),55899,g.russell at eos-solutions.com
+055969.html,[Rd] Crash with Unicode and sub (PR#14114),55969,g.russell at eos-solutions.com
+055994.html,[Rd] Antwort: Re:  Crash with Unicode and sub (PR#14114),55994,g.russell at eos-solutions.com
+056006.html,[Rd] Antwort: Re:  Crash with Unicode and sub (PR#14114),56006,g.russell at eos-solutions.com
+056007.html,[Rd] Antwort: Re:  Crash with Unicode and sub (PR#14114),56007,g.russell at eos-solutions.com
+056016.html,[Rd] Antwort: Re: Antwort: Re: Crash with Unicode and sub (PR#14114),56016,g.russell at eos-solutions.com
+056017.html,[Rd] Antwort: Re: Antwort: Re: Crash with Unicode and sub (PR#14126),56017,g.russell at eos-solutions.com
+056082.html,[Rd] Antwort: Re: R on Windows crashes when using certain (PR#14143),56082,g.russell at eos-solutions.com
+055947.html,[Rd] error in help.search (PR#14113),55947,dgrove at fhcrc.org
+056198.html,[Rd] bug in rep.unit method for grid arithmetic ? (PR#14170),56198,gunter.berton at gene.com
+055985.html,[Rd] reshape() makes R run out of memory (PR#14121),55985,abelikoff at gmail.com
+056144.html,[Rd] a little bug for the function 'sprintf' (PR#14161),56144,baoliqin at gmail.com
+056032.html,[Rd] incorrect linetype with pdf device (PR#14128),56032,baptiste.auguie at gmail.com
+056033.html,[Rd] incorrect linetype with quartz device (PR#14129),56033,baptiste.auguie at gmail.com
+056099.html,[Rd] Flexclust barchart issue when mcol=NULL (PR#14150),56099,christopher.a.hane at gmail.com
+055917.html,[Rd] documentation of intersect() on string vector and num vector	and on duplicated elements (PR#14107),55917,pengyu.ut at gmail.com
+055925.html,[Rd] Error read.table()'s help page and put the distinction between	(PR#14109),55925,pengyu.ut at gmail.com
+055995.html,[Rd] split() is slow on data.frame (PR#14123),55995,pengyu.ut at gmail.com
+056004.html,[Rd] switch() called with just the EXPR argument causes R to hang	(PR#14124),56004,sgiannerini at gmail.com
+055911.html,[Rd] ./configure warning (PR#14104),55911,thoralf.dassler at gmail.com
+056182.html,[Rd] bug in princomp example (PR#14167),56182,twoutopias at gmail.com
+056036.html,[Rd] Calendar week ISO (PR#14132),56036,samandrew at gmx.ch
+056197.html,[Rd] R CMD SHLIB on Mac OS X fails when the default tempdir() is	used (PR#14168),56197,osklyar at gmx.com
+056202.html,[Rd] seq.int broken (seq as well) (PR#14169),56202,oehl_list at gmx.de
+056145.html,[Rd] cut.POSIXt problem with breaks= &quot;quarter&quot; (PR#14162),56145,shmunde at googlemail.com
+056005.html,[Rd] R on Windows crashes when using certain characters in strings	in data frames (PR#14125),56005,karl at huftis.org
+056034.html,[Rd] `mgp[1:3]' are of differing sign (PR#14130),56034,cornell.p.gonschior at iem.fh-friedberg.de
+055897.html,[Rd] boxplot: auto sizing for ylim variable,55897,violet lock
+055888.html,[Rd] barplot: auto sizing for ylim variable,55888,violet lock
+055916.html,[Rd] boxplot: auto sizing for ylim variable,55916,violet lock
+056209.html,[Rd] creating R package-perl,56209,karina lopez
+056064.html,[Rd] Accuracy (PR#14139),56064,bersch at lycos.com
+056199.html,[Rd] different behaviour of NAs under valgrind (PR#14171),56199,schlather at math.uni-goettingen.de
+056178.html,[Rd] Locating code that is outside of functions in R scripts,56178,gheine at mathnmaps.com
+056097.html,[Rd] apparently incorrect p-values from 2-sided Kolmogorov-Smirnov	test (PR#14145),56097,allwrigh at maths.ox.ac.uk
+056128.html,[Rd] apparently incorrect p-values from 2-sided	Kolmogorov-Smirnov (PR#14157),56128,allwrigh at maths.ox.ac.uk
+056113.html,[Rd] segfault in glm.fit (PR#14154),56113,adrian at maths.uwa.edu.au
+055945.html,[Rd] Typo in help(Special) (PR#14111),55945,chris.jackson at mrc-bsu.cam.ac.uk
+056220.html,[Rd] configure R-2.10.1 =&gt; &quot;Error: MPlayer will not compile without	(PR#14175),56220,Red.Dawn at nc.rr.com
+055986.html,[Rd] binary string conversion to a vector (PR#14120),55986,brglez at ncsu.edu
+056108.html,[Rd] R GUI editor window - help field does not return the	help	topic (PR#14146),56108,simon.urbanek at r-project.org
+056151.html,[Rd] sort yields different results on OS X (PR#14163),56151,jeffreys at rand.org
+056065.html,[Rd] Online help for text() wrong for 'pos' argument. (PR#14136),56065,mg10 at sanger.ac.uk
+056208.html,[Rd] UML Class and Object Diagrams in R,56208,spencerg
+055973.html,[Rd] Crash with Unicode and sub (PR#14114),55973,maechler at stat.math.ethz.ch
+056008.html,[Rd] switch() called with just the EXPR argument causes R to	hang (PR#14124),56008,maechler at stat.math.ethz.ch
+056061.html,[Rd] qpois errors for degenerate distribution (PR#14135),56061,maechler at stat.math.ethz.ch
+056125.html,[Rd] ?setGeneric garbled (PR#14153),56125,maechler at stat.math.ethz.ch
+056136.html,[Rd] ?setGeneric garbled (PR#14153),56136,maechler at stat.math.ethz.ch
+055931.html,[Rd] (PR#14103) read.csv confused by newline characters in,55931,ripley at stats.ox.ac.uk
+056002.html,[Rd] Crash with Unicode and sub (PR#14114),56002,ripley at stats.ox.ac.uk
+056059.html,[Rd] R on Windows crashes when using certain characters in	strings (PR#14137),56059,murdoch at stats.uwo.ca
+056137.html,[Rd] ?setGeneric garbled (PR#14153),56137,murdoch at stats.uwo.ca
+056066.html,[Rd] as.data.frame requires a lot of memory (PR#14140),56066,rfalke at tzi.de
+056109.html,[Rd] apparently incorrect p-values from 2-sided Kolmogorov-Smirnov test (PR#14145),56109,tlumley at u.washington.edu
+056110.html,[Rd] apparently incorrect p-values from 2-sided	Kolmogorov-Smirnov (PR#14151),56110,tlumley at u.washington.edu
+056126.html,[Rd] apparently incorrect p-values from 2-sided Kolmogorov-Smirnov test (PR#14145),56126,tlumley at u.washington.edu
+056127.html,[Rd] apparently incorrect p-values from 2-sided	Kolmogorov-Smirnov (PR#14158),56127,tlumley at u.washington.edu
+056133.html,[Rd] Vectorized switch,56133,tlumley at u.washington.edu
+056042.html,[Rd] `mgp[1:3]' are of differing sign (PR#14130),56042,ehlers at ucalgary.ca
+055987.html,[Rd] umlaut in path name (PR#14119),55987,karl.schilling at uni-bonn.de
+056040.html,[Rd] Missing html help files with R 2.10.0 (PR#14134),56040,johann.kraus at uni-ulm.de
+055895.html,[Rd] Data viewer window not drawn properly with Compiz (PR#14099),55895,ulrich.keller at uni.lu
+055961.html,[Rd] PR#14099,55961,ulrich.keller at uni.lu
+056164.html,[Rd] as.Date function yields inconsistent results (PR#14166),56164,diverses at univecom.ch
+056015.html,[Rd] Using predict on a model with NA as a level (PR#14127),56015,tomas.larsson at usaa.com
+055936.html,[Rd] raster support in graphics devices,55936,hadley wickham
+055940.html,[Rd] raster support in graphics devices,55940,hadley wickham
+055999.html,[Rd] reshape() makes R run out of memory (PR#14121),55999,hadley wickham
+056024.html,[Rd] How to organized code in the R/ directory of a package?,56024,hadley wickham
+056027.html,[Rd] How to organized code in the R/ directory of a package?,56027,hadley wickham
+056150.html,[Rd] a little bug for the function 'sprintf' (PR#14161),56150,hadley wickham
+056096.html,[Rd] R GUI editor window - help field does not return the	help	topic (PR#14146),56096,y_alperovych at yahoo.fr

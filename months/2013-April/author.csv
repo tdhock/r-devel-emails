@@ -1,0 +1,287 @@
+link,Subject,id,author
+066421.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66421,Prof J C Nash (U30A)
+066520.html,"[Rd] Subset of a 'table' divided by a 'table' is a 'table',	but printed by 'print.default'",66520,Suharto Anggono Suharto Anggono
+066309.html,[Rd] La_svd compiler error,66309,"Antczak, Philipp"
+066314.html,[Rd] La_svd compiler error,66314,"Antczak, Philipp"
+066315.html,[Rd] La_svd compiler error,66315,"Antczak, Philipp"
+066496.html,[Rd] extracting tables from web pages?,66496,Rui Barradas
+066248.html,[Rd] missing exported methods when compiling vignettes in R	3.0.0 RC,66248,Henrik Bengtsson
+066267.html,[Rd] R CMD check --outdir=path gives unknown option '--outdir',66267,Henrik Bengtsson
+066269.html,[Rd] R 3.0.0: wrong MD5 checksums for Windows?,66269,Henrik Bengtsson
+066271.html,[Rd] R 3.0.0: wrong MD5 checksums for Windows?,66271,Henrik Bengtsson
+066277.html,[Rd] parallel: Race-condition concern regarding graphics devices in a multi-thread environment,66277,Henrik Bengtsson
+066279.html,[Rd] parallel: Race-condition concern regarding graphics devices in a multi-thread environment,66279,Henrik Bengtsson
+066318.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,66318,Henrik Bengtsson
+066406.html,[Rd] Publishing my Package on CRAN,66406,Henrik Bengtsson
+066425.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66425,Henrik Bengtsson
+066439.html,[Rd] vignettes: problems with PDF compaction,66439,Henrik Bengtsson
+066257.html,[Rd] R-package preparation --as-cran behaving unexpectedly,66257,Stefan Boehringer
+066289.html,[Rd] [R] Question on Stopword Removal from a Cyrillic (Bulgarian)Text,66289,Milan Bouchet-Valat
+066346.html,[Rd] Hosting Omegahat package on CRAN?,66346,Milan Bouchet-Valat
+066454.html,[Rd] as.name and namespaces,66454,Patrick Burns
+066457.html,[Rd] as.name and namespaces,66457,Patrick Burns
+066468.html,[Rd] as.name and namespaces,66468,Patrick Burns
+066263.html,[Rd] Redefining quote() with reference classes (was: Ref	classes initFields has incorrect environment?),66263,John Chambers
+066388.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66388,Kevin Coombes
+066390.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66390,Kevin Coombes
+066401.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66401,Kevin Coombes
+066408.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66408,Kevin Coombes
+066429.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66429,Kevin Coombes
+066486.html,[Rd] Error Message while creation Package,66486,Crish..
+066487.html,[Rd] Error Message while Package creation,66487,Crish..
+066491.html,[Rd] Error Message while Package creation,66491,Crish..
+066353.html,[Rd] POSIXt oddness at end of 1969,66353,William Dunlap
+066478.html,[Rd] as.name and namespaces,66478,William Dunlap
+066479.html,[Rd] multiple issues with is.unsorted(),66479,William Dunlap
+066325.html,[Rd] Empty package skeleton,66325,Dirk Eddelbuettel
+066376.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66376,Dirk Eddelbuettel
+066495.html,[Rd] extracting tables from web pages?,66495,Dirk Eddelbuettel
+066306.html,[Rd] parallel::mclapply does not return try-error objects with	mc.preschedule=TRUE,66306,Karl Forner
+066451.html,[Rd] parallel::mclapply does not return try-error objects with	mc.preschedule=TRUE,66451,Karl Forner
+066328.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66328,John Fox
+066334.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66334,John Fox
+066339.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66339,John Fox
+066510.html,[Rd] RFC: R_data_class as part of the C-API,66510,Thomas Friedrichsmeier
+066419.html,[Rd] vignettes: problems with PDF compaction,66419,Michael Friendly
+066424.html,[Rd] vignettes: problems with PDF compaction,66424,Michael Friendly
+066437.html,[Rd] vignettes: problems with PDF compaction,66437,Michael Friendly
+066449.html,[Rd] vignettes: problems with PDF compaction,66449,Michael Friendly
+066268.html,[Rd] R 3.0.0: wrong MD5 checksums for Windows?,66268,Tal Galili
+066280.html,[Rd] loadNamespace tries to load an optional dependency from a	required dependency,66280,Renaud Gaujoux
+066323.html,[Rd] Empty package skeleton,66323,Renaud Gaujoux
+066326.html,[Rd] Empty package skeleton,66326,Renaud Gaujoux
+066492.html,[Rd] lsfit: Error in formatting error message,66492,Renaud Gaujoux
+066516.html,[Rd] lsfit: Error in formatting error message,66516,Renaud Gaujoux
+066499.html,[Rd] RFC: R_data_class as part of the C-API,66499,Laurent Gautier
+066358.html,[Rd] how to control the environment of a formula,66358,Thomas Alexander Gerds
+066369.html,[Rd] how to control the environment of a formula,66369,Thomas Alexander Gerds
+066386.html,[Rd] how to control the environment of a formula,66386,Thomas Alexander Gerds
+066413.html,[Rd] how to control the environment of a formula,66413,Thomas Alexander Gerds
+066274.html,[Rd] Changing HTTP proxy configurations at run time,66274,Moritz Gerstung
+066256.html,[Rd] R-3.0.0  reg-tests-3.R / survival,66256,Paul Gilbert
+066260.html,[Rd] R-package preparation --as-cran behaving unexpectedly,66260,Paul Gilbert
+066262.html,[Rd] R-3.0.0  reg-tests-3.R / survival,66262,Paul Gilbert
+066338.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66338,Paul Gilbert
+066517.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66517,Paul Gilbert
+066281.html,[Rd] Fwd: Process substitution and read.table/scan,66281,Elena Grassi
+066411.html,[Rd] Publishing my Package on CRAN,66411,Spencer Graves
+066494.html,[Rd] extracting tables from web pages?,66494,Spencer Graves
+066498.html,[Rd] extracting tables from web pages?,66498,Spencer Graves
+066261.html,[Rd] Documentation error in subsitute,66261,Gabor Grothendieck
+066391.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66391,Gabor Grothendieck
+066394.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66394,Gabor Grothendieck
+066397.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66397,Gabor Grothendieck
+066402.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66402,Gabor Grothendieck
+066403.html,[Rd] how to control the environment of a formula,66403,Gabor Grothendieck
+066405.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66405,Gabor Grothendieck
+066410.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66410,Gabor Grothendieck
+066415.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66415,Gabor Grothendieck
+066417.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66417,Gabor Grothendieck
+066422.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66422,Gabor Grothendieck
+066423.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66423,Gabor Grothendieck
+066427.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66427,Gabor Grothendieck
+066436.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66436,Gabor Grothendieck
+066497.html,[Rd] Lubuntu 13.04 raring ringtail: Problems installing pnmath_0.0-4,66497,Kjetil Halvorsen
+066507.html,[Rd] Lubuntu 13.04 raring ringtail: Problems installing	pnmath_0.0-4,66507,Kjetil Halvorsen
+066317.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,66317,Kasper Daniel Hansen
+066463.html,[Rd] Problem with S3 method dispatch and NAMESPACE,66463,Frank Harrell
+066471.html,[Rd] Solved and Question: Problem with S3 method dispatch and	NAMESPACE,66471,Frank Harrell
+066473.html,[Rd] Solved and Question: Problem with S3 method dispatch and NAMESPACE,66473,Frank Harrell
+066488.html,[Rd] Error Message while Package creation,66488,Berend Hasselman
+066412.html,[Rd] Withdrawal of package Rigroup-0.84.0 from CRAN,66412,Kevin Hendricks
+066329.html,[Rd] R 3.0.0 memory use,66329,Tim Hesterberg
+066332.html,[Rd] R 3.0.0 memory use,66332,Tim Hesterberg
+066356.html,[Rd] Patch proposal for R style consistency (concerning deparse.c),66356,Paul Johnson
+066372.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66372,Paul Johnson
+066290.html,[Rd] savePlot() under Windows,66290,Kanell17
+066303.html,[Rd] [R] Question on Stopword Removal from a Cyrillic	(Bulgarian)Text,66303,Ventseslav Kozarev
+066441.html,[Rd] Line breaks in rd files,66441,Knut Krueger
+066354.html,[Rd] stack imbalance in max.col for non-real matrices,66354,Michael Lawrence
+066240.html,[Rd] R/Sweave/cairo/freetype bug fix.,66240,Hin-Tak Leung
+066253.html,[Rd] new window cairo bundle Re: R/Sweave/cairo/freetype bug fix.,66253,Hin-Tak Leung
+066299.html,[Rd] savePlot() under Windows,66299,Uwe Ligges
+066301.html,[Rd] savePlot() under Windows,66301,Uwe Ligges
+066395.html,[Rd] Publishing my Package on CRAN,66395,Uwe Ligges
+066420.html,[Rd] vignettes: problems with PDF compaction,66420,Uwe Ligges
+066438.html,[Rd] vignettes: problems with PDF compaction,66438,Uwe Ligges
+066443.html,[Rd] Line breaks in rd files,66443,Uwe Ligges
+066444.html,[Rd] Help: Where can I find the code for 'C_Cdqrls'?,66444,Uwe Ligges
+066509.html,[Rd] dyn.load inside a package in R &gt;= 3.0,66509,Uwe Ligges
+066515.html,[Rd] lsfit: Error in formatting error message,66515,Uwe Ligges
+066512.html,[Rd] cause 'invalid permissions',66512,Maxpar Lin
+066327.html,[Rd] Empty package skeleton,66327,Martin Maechler
+066466.html,[Rd] about the 'length' arg of vector(),66466,Martin Maechler
+066467.html,[Rd] multiple issues with is.unsorted(),66467,Martin Maechler
+066475.html,[Rd] multiple issues with is.unsorted(),66475,Martin Maechler
+066370.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66370,Jos&#233; Matos
+066363.html,[Rd] Rebuild package on R 3.0.0 without source code?,66363,"McGehee, Robert"
+066374.html,[Rd] Rebuild package on R 3.0.0 without source code?,66374,"McGehee, Robert"
+066490.html,[Rd] dyn.load inside a package in R &gt;= 3.0,66490,Adrian Mejia
+066302.html,"[Rd] windows compile R from source,	where do I put the Tcl directory?",66302,Andre Mikulec
+066304.html,[Rd] Trying to make DEBUG=T a debug version of R,66304,Andre Mikulec
+066320.html,"[Rd]  windows compile R from source, where do I put the Tcl directory?",66320,Andre Mikulec
+066321.html,[Rd]  Trying to make DEBUG=T a debug version of R,66321,Andre Mikulec
+066322.html,[Rd] Compile R with a BLAS.dll and LAPACK.dll on windows?,66322,Andre Mikulec
+066335.html,"[Rd] windows compile R from source, where do I put the Tcl directory?",66335,Andre Mikulec
+066247.html,[Rd] missing exported methods when compiling vignettes in R 3.0.0 RC,66247,Richard D. Morey
+066252.html,[Rd] missing exported methods when compiling vignettes in R 3.0.0 RC,66252,Richard D. Morey
+066249.html,[Rd] missing exported methods when compiling vignettes in R 3.0.0 RC,66249,Martin Morgan
+066297.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66297,Martin Morgan
+066331.html,[Rd] R 3.0.0 memory use,66331,Martin Morgan
+066362.html,[Rd] Suppress specific warnings,66362,Martin Morgan
+066380.html,[Rd] stack imbalance in max.col for non-real matrices,66380,Martin Morgan
+066503.html,[Rd] Speeding up build-from-source,66503,Martin Morgan
+066244.html,[Rd] Timing of SET_VECTOR_ELT,66244,Duncan Murdoch
+066258.html,[Rd] R-package preparation --as-cran behaving unexpectedly,66258,Duncan Murdoch
+066266.html,[Rd] Non-vignette sweave file in package,66266,Duncan Murdoch
+066270.html,[Rd] R 3.0.0: wrong MD5 checksums for Windows?,66270,Duncan Murdoch
+066283.html,[Rd] savePlot() under Windows,66283,Duncan Murdoch
+066293.html,[Rd] Issue with Control-Z in a text file on Windows - readLines() appears to truncate,66293,Duncan Murdoch
+066294.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66294,Duncan Murdoch
+066296.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66296,Duncan Murdoch
+066307.html,[Rd] Trying to make DEBUG=T a debug version of R,66307,Duncan Murdoch
+066310.html,[Rd] La_svd compiler error,66310,Duncan Murdoch
+066319.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,66319,Duncan Murdoch
+066324.html,"[Rd] windows compile R from source,	where do I put the Tcl directory?",66324,Duncan Murdoch
+066336.html,"[Rd] windows compile R from source,	where do I put the Tcl directory?",66336,Duncan Murdoch
+066341.html,[Rd] R package with Java source code,66341,Duncan Murdoch
+066360.html,[Rd] how to control the environment of a formula,66360,Duncan Murdoch
+066361.html,[Rd] Suppress specific warnings,66361,Duncan Murdoch
+066365.html,[Rd] Rebuild package on R 3.0.0 without source code?,66365,Duncan Murdoch
+066381.html,[Rd] how to control the environment of a formula,66381,Duncan Murdoch
+066382.html,[Rd] how to control the environment of a formula,66382,Duncan Murdoch
+066389.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66389,Duncan Murdoch
+066392.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66392,Duncan Murdoch
+066396.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66396,Duncan Murdoch
+066399.html,[Rd] how to control the environment of a formula,66399,Duncan Murdoch
+066400.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66400,Duncan Murdoch
+066404.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66404,Duncan Murdoch
+066407.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66407,Duncan Murdoch
+066430.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66430,Duncan Murdoch
+066432.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66432,Duncan Murdoch
+066448.html,[Rd] Line breaks in rd files,66448,Duncan Murdoch
+066456.html,"[Rd] httpd error with and help_type = 'html', package = NULL",66456,Duncan Murdoch
+066459.html,[Rd] as.name and namespaces,66459,Duncan Murdoch
+066485.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66485,Duncan Murdoch
+066518.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66518,Duncan Murdoch
+066521.html,"[Rd] Subset of a 'table' divided by a 'table' is a 'table', but printed by 'print.default'",66521,Duncan Murdoch
+066525.html,"[Rd] Subset of a 'table' divided by a 'table' is a 'table', but printed by 'print.default'",66525,Duncan Murdoch
+066526.html,"[Rd] Subset of a 'table' divided by a 'table' is a 'table', but printed by 'print.default'",66526,Duncan Murdoch
+066442.html,"[Rd] httpd error with and help_type = 'html', package = NULL",66442,Michael Nelson
+066284.html,[Rd] Fwd: R unzip method gives filenames as character,66284,Sean O'Riordain
+066291.html,[Rd] Issue with Control-Z in a text file on Windows - readLines() appears to truncate,66291,Sean O'Riordain
+066265.html,[Rd] Non-vignette sweave file in package,66265,"ONKELINX, Thierry"
+066275.html,[Rd] Non-vignette sweave file in package,66275,"ONKELINX, Thierry"
+066460.html,[Rd] about the 'length' arg of vector(),66460,Herv&#233; Pag&#232;s
+066462.html,"[Rd] is.vector(as.vector(x, m), m) not always TRUE",66462,Herv&#233; Pag&#232;s
+066464.html,[Rd] multiple issues with is.unsorted(),66464,Herv&#233; Pag&#232;s
+066474.html,[Rd] about the 'length' arg of vector(),66474,Herv&#233; Pag&#232;s
+066476.html,[Rd] multiple issues with is.unsorted(),66476,Herv&#233; Pag&#232;s
+066481.html,[Rd] multiple issues with is.unsorted(),66481,Herv&#233; Pag&#232;s
+066482.html,[Rd] multiple issues with is.unsorted(),66482,Herv&#233; Pag&#232;s
+066483.html,"[Rd] is.vector(as.vector(x, m), m) not always TRUE",66483,Herv&#233; Pag&#232;s
+066484.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66484,Herv&#233; Pag&#232;s
+066489.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66489,Herv&#233; Pag&#232;s
+066276.html,[Rd] R 3.0 in newsticker of German computer magazine c't,66276,Thomas Petzoldt
+066368.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66368,Thomas Petzoldt
+066383.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66383,Thomas Petzoldt
+066398.html,[Rd] Linux distribution with gcc 4.8 and AddressSanitizer -- solved,66398,Thomas Petzoldt
+066273.html,[Rd] R 3.0.0: wrong MD5 checksums for Windows?,66273,Prof Brian Ripley
+066285.html,[Rd] Fwd: R unzip method gives filenames as character,66285,Prof Brian Ripley
+066305.html,"[Rd] windows compile R from source,	where do I put the Tcl directory?",66305,Prof Brian Ripley
+066308.html,[Rd] Trying to make DEBUG=T a debug version of R,66308,Prof Brian Ripley
+066312.html,[Rd] La_svd compiler error,66312,Prof Brian Ripley
+066313.html,[Rd] La_svd compiler error,66313,Prof Brian Ripley
+066333.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66333,Prof Brian Ripley
+066337.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66337,Prof Brian Ripley
+066342.html,[Rd] R package with Java source code,66342,Prof Brian Ripley
+066343.html,[Rd] package file permissions problem R 3.0.0/Windows OS,66343,Prof Brian Ripley
+066349.html,[Rd] support for POSIXct classes in image.default axes,66349,Prof Brian Ripley
+066366.html,[Rd] Rebuild package on R 3.0.0 without source code?,66366,Prof Brian Ripley
+066373.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66373,Prof Brian Ripley
+066377.html,[Rd] stack imbalance in max.col for non-real matrices,66377,Prof Brian Ripley
+066385.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66385,Prof Brian Ripley
+066445.html,[Rd] Help: Where can I find the code for 'C_Cdqrls'?,66445,Prof Brian Ripley
+066446.html,"[Rd] httpd error with and help_type = 'html', package = NULL",66446,Prof Brian Ripley
+066447.html,[Rd] parallel::mclapply does not return try-error objects with mc.preschedule=TRUE,66447,Prof Brian Ripley
+066500.html,[Rd] Lubuntu 13.04 raring ringtail: Problems installing	pnmath_0.0-4,66500,Prof Brian Ripley
+066513.html,[Rd] cause 'invalid permissions',66513,Prof Brian Ripley
+066514.html,[Rd] Loss of identified points,66514,Prof Brian Ripley
+066371.html,[Rd] Suppress specific warnings,66371,Brian Lee Yung Rowe
+066367.html,[Rd] R CMD INSTALL fail deletes earlier versions,66367,Barry Rowlingson
+066524.html,"[Rd] Subset of a 'table' divided by a 'table' is a 'table', but printed by 'print.default'",66524,Barry Rowlingson
+066364.html,[Rd] Rebuild package on R 3.0.0 without source code?,66364,Marc Schwartz
+066359.html,[Rd] Suppress specific warnings,66359,Felix Sch&#246;nbrodt
+066501.html,[Rd] Speeding up build-from-source,66501,Adam Seering
+066506.html,[Rd] Speeding up build-from-source,66506,Adam Seering
+066311.html,[Rd] support for POSIXct classes in image.default axes,66311,Michael Sumner
+066352.html,[Rd] support for POSIXct classes in image.default axes,66352,Michael Sumner
+066519.html,[Rd] trace with reference class,66519,Kohske Takahashi
+066316.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,66316,Dan Tenenbaum
+066493.html,[Rd] &quot;Failed to locate the 'texi2pdf' output file&quot;,66493,Dan Tenenbaum
+066242.html,[Rd] Timing of SET_VECTOR_ELT,66242,Terry Therneau
+066245.html,[Rd] Timing of SET_VECTOR_ELT,66245,Terry Therneau
+066511.html,[Rd] Loss of identified points,66511,Terry Therneau
+066379.html,[Rd] how to control the environment of a formula,66379,"Therneau, Terry M., Ph.D."
+066384.html,[Rd] how to control the environment of a formula,66384,"Therneau, Terry M., Ph.D."
+066340.html,[Rd] R package with Java source code,66340,Adrian Trapletti
+066344.html,[Rd] R package with Java source code,66344,Adrian Trapletti
+066347.html,[Rd] R package with Java source code,66347,Adrian Trapletti
+066241.html,[Rd] R/Sweave/cairo/freetype bug fix.,66241,Simon Urbanek
+066243.html,[Rd] Timing of SET_VECTOR_ELT,66243,Simon Urbanek
+066246.html,[Rd] Timing of SET_VECTOR_ELT,66246,Simon Urbanek
+066278.html,[Rd] parallel: Race-condition concern regarding graphics	devices in a multi-thread environment,66278,Simon Urbanek
+066287.html,[Rd] question re: error message --- package error:	&quot;functionName&quot; not resolved from current namespace,66287,Simon Urbanek
+066345.html,[Rd] R package with Java source code,66345,Simon Urbanek
+066348.html,[Rd] R package with Java source code,66348,Simon Urbanek
+066387.html,[Rd] Linux distribution with gcc 4.8  and AddressSanitizer ?,66387,Simon Urbanek
+066433.html,[Rd] Converting an environment to a list: mget vs. as.list,66433,Simon Urbanek
+066452.html,[Rd] Verbose output from R CMD check,66452,Simon Urbanek
+066461.html,[Rd] Verbose output from R CMD check,66461,Simon Urbanek
+066508.html,[Rd] Speeding up build-from-source,66508,Simon Urbanek
+066254.html,[Rd] [R] Rpy2 and Mac OS X 10.8.3,66254,Michael Weylandt
+066255.html,[Rd] Documentation error in subsitute,66255,Hadley Wickham
+066264.html,[Rd] Subtle bug in write.csv,66264,Hadley Wickham
+066393.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66393,Hadley Wickham
+066409.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66409,Hadley Wickham
+066414.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66414,Hadley Wickham
+066416.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66416,Hadley Wickham
+066418.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66418,Hadley Wickham
+066426.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66426,Hadley Wickham
+066431.html,[Rd] Converting an environment to a list: mget vs. as.list,66431,Hadley Wickham
+066434.html,[Rd] Converting an environment to a list: mget vs. as.list,66434,Hadley Wickham
+066435.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66435,Hadley Wickham
+066470.html,[Rd] as.name and namespaces,66470,Hadley Wickham
+066250.html,[Rd] missing exported methods when compiling vignettes in R	3.0.0 RC,66250,Yihui Xie
+066282.html,[Rd] savePlot() under Windows,66282,Yihui Xie
+066292.html,[Rd] localeToCharset() returns NA for the Hong Kong locale,66292,Yihui Xie
+066375.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66375,Yihui Xie
+066286.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66286,brian avants
+066288.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66288,brian avants
+066295.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66295,brian avants
+066298.html,[Rd] question re: error message --- package error: &quot;functionName&quot; not resolved from current namespace,66298,brian avants
+066523.html,[Rd] performance issue with as.Date,66523,Paul.Ryan at csiro.au
+066259.html,[Rd] R-3.0.0  reg-tests-3.R / survival,66259,peter dalgaard
+066272.html,[Rd] R 3.0.0: wrong MD5 checksums for Windows?,66272,peter dalgaard
+066351.html,[Rd] New code in R-devel: Rao score test for glm.,66351,peter dalgaard
+066355.html,[Rd] POSIXt oddness at end of 1969,66355,peter dalgaard
+066357.html,[Rd] Patch proposal for R style consistency (concerning	deparse.c),66357,peter dalgaard
+066455.html,[Rd] as.name and namespaces,66455,peter dalgaard
+066458.html,[Rd] as.name and namespaces,66458,peter dalgaard
+066465.html,"[Rd] is.vector(as.vector(x, m), m) not always TRUE",66465,peter dalgaard
+066469.html,[Rd] as.name and namespaces,66469,peter dalgaard
+066472.html,[Rd] Solved and Question: Problem with S3 method dispatch and	NAMESPACE,66472,peter dalgaard
+066477.html,"[Rd] is.vector(as.vector(x, m), m) not always TRUE",66477,peter dalgaard
+066504.html,[Rd] Verbose output from R CMD check,66504,peter dalgaard
+066450.html,[Rd] Verbose output from R CMD check,66450,dpleydell
+066453.html,[Rd] Verbose output from R CMD check,66453,dpleydell
+066480.html,[Rd] Verbose output from R CMD check,66480,dpleydell
+066502.html,[Rd] Verbose output from R CMD check,66502,dpleydell
+066522.html,[Rd] Verbose output from R CMD check,66522,dpleydell
+066378.html,[Rd] Publishing my Package on CRAN,66378,liuyipei
+066428.html,"[Rd] R 3.0, Rtools3.0,l Windows7 64-bit, and permission agony",66428,steven mosher
+066300.html,[Rd] savePlot() under Windows,66300,Wayne.W.Jones at shell.com
+066330.html,[Rd] R 3.0.0 memory use,66330,luke-tierney at uiowa.edu
+066505.html,[Rd] Lubuntu 13.04 raring ringtail: Problems installing pnmath_0.0-4,66505,luke-tierney at uiowa.edu
+066350.html,[Rd] New code in R-devel: Rao score test for glm.,66350,yhu30
+066440.html,[Rd] Help: Where can I find the code for 'C_Cdqrls'?,66440,&#36213;&#33258;&#24378;

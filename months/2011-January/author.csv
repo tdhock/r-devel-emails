@@ -1,0 +1,216 @@
+link,Subject,id,author
+059728.html,[Rd] generating HTML help pages,59728,016750
+059662.html,[Rd] Possible bug in Spearman correlation with	use=&quot;pairwise.complete.obs&quot;,59662,Simon Anders
+059711.html,"[Rd] aggregate(as.formula(&quot;some formula&quot;), data,	function) error when called from in a function",59711,Paul Bailey
+059727.html,[Rd] help with S4 objects: trying to use a &quot;link-glm&quot; as a class in	an object definition,59727,Paul Bailey
+059653.html,[Rd] Calling C++ from R,59653,Douglas Bates
+059628.html,[Rd] R vs. C now rather: how to ease package checking,59628,Claudia Beleites
+059630.html,[Rd] R vs. C,59630,Claudia Beleites
+059645.html,[Rd] plotmath indices: suggested addition to help file,59645,Claudia Beleites
+059659.html,[Rd] plotmath indices: suggested addition to help file,59659,Claudia Beleites
+059719.html,[Rd] Google Summer of Code 2011,59719,Claudia Beleites
+059746.html,[Rd] data.frame(A=X): Prepend &quot;A.&quot; also for single-column X:s [WISH],59746,Henrik Bengtsson
+059747.html,[Rd] str() on raster objects fails for certain dimensions,59747,Henrik Bengtsson
+059537.html,[Rd] key-value mapping in C inside R?,59537,Matteo Bertini
+059558.html,[Rd] trivial typo in R language definition manual,59558,Ben Bolker
+059691.html,[Rd] normality and equal variance testing,59691,Ben Bolker
+059735.html,[Rd] trojan at current development version?,59735,Ben Bolker
+059577.html,[Rd] overfilled signature lines in documentation shell for methods,59577,Georgi Boshnakov
+059591.html,[Rd] Access R Help Content From R,59591,Georgi Boshnakov
+059613.html,[Rd] R vs. C,59613,Patrick Burns
+059629.html,[Rd] R vs. C,59629,Patrick Burns
+059631.html,[Rd] R vs. C,59631,Patrick Burns
+059737.html,[Rd] ReferenceClasses examples {method},59737,Marc Carpentier
+059740.html,[Rd] Re : ReferenceClasses examples {method},59740,Marc Carpentier
+059693.html,[Rd] news.Rd format,59693,Benilton Carvalho
+059738.html,[Rd] ReferenceClasses examples {method},59738,John Chambers
+059721.html,"[Rd] use of depends, suggests, etc",59721,Kevin R. Coombes
+059736.html,"[Rd] use of depends, suggests, etc",59736,Kevin R. Coombes
+059689.html,[Rd] &quot;+&quot; operator on characters revisited,59689,Davor Cubranic
+059688.html,[Rd] match function causing bad performance when using	tablefunction on factors with multibyte characters on Windows,59688,Matthew Dowle
+059704.html,[Rd] match function causing bad performance when	usingtablefunction on factors with multibyte characters on Windows,59704,Matthew Dowle
+059708.html,[Rd] match function causing bad performance when using tablefunction on factors with multibyte characters on Windows,59708,Matthew Dowle
+059559.html,"[Rd] formula(model.frame(y~.^2,	data=d)) does not return formula from terms attribute of the	model.frame",59559,William Dunlap
+059597.html,[Rd] why is class externalptr considered recursive?,59597,William Dunlap
+059642.html,[Rd] buglet in weighted.residuals(mlmObject),59642,William Dunlap
+059643.html,"[Rd] formula(model.frame(y~.^2,	data=d)) does not return formula from terms attribute of the	model.frame",59643,William Dunlap
+059609.html,[Rd] RPostgreSQL 0.1.7 for Windows 64 causes R.2.12.1	Win64	crash,59609,Dirk Eddelbuettel
+059615.html,[Rd] R vs. C,59615,Dirk Eddelbuettel
+059654.html,[Rd] [Rcpp-devel]  Calling C++ from R,59654,Dirk Eddelbuettel
+059665.html,[Rd] [Rcpp-devel]  Calling C++ from R,59665,Dirk Eddelbuettel
+059716.html,[Rd] Dealing with R list objects in C/C++,59716,Dirk Eddelbuettel
+059655.html,[Rd] plotmath indices: suggested addition to help file,59655,Peter Ehlers
+059696.html,[Rd] dendrogram plot does not draw long labels ?,59696,Karl Forner
+059702.html,[Rd] dendrogram plot does not draw long labels ?,59702,Karl Forner
+059730.html,[Rd] Possible bug in cut.dendrogram when there are only 2 leaves in the tree ?,59730,Karl Forner
+059542.html,[Rd] scoping/non-standard evaluation issue,59542,John Fox
+059543.html,[Rd] scoping/non-standard evaluation issue,59543,John Fox
+059548.html,[Rd] scoping/non-standard evaluation issue,59548,John Fox
+059549.html,[Rd] scoping/non-standard evaluation issue,59549,John Fox
+059552.html,[Rd] scoping/non-standard evaluation issue,59552,John Fox
+059578.html,[Rd] as.environment.list provides inconsistent results under torture,59578,Romain Francois
+059676.html,[Rd] feature request: additional hook in plot.new(),59676,Thomas Friedrichsmeier
+059695.html,[Rd] Missing argument vs. empty argument,59695,Renaud Gaujoux
+059698.html,[Rd] Missing argument vs. empty argument,59698,Renaud Gaujoux
+059544.html,[Rd] R CMD check bug or misfeature,59544,Charles Geyer
+059622.html,[Rd] R vs. C,59622,Paul Gilbert
+059617.html,[Rd] R vs. C,59617,Spencer Graves
+059620.html,[Rd] R vs. C,59620,Spencer Graves
+059624.html,[Rd] R vs. C,59624,Spencer Graves
+059626.html,[Rd] R vs. C,59626,Spencer Graves
+059637.html,[Rd] R vs. C now rather: how to ease package checking,59637,Spencer Graves
+059673.html,[Rd] &quot;+&quot; operator on characters revisited,59673,Spencer Graves
+059674.html,[Rd] &quot;+&quot; operator on characters revisited,59674,Spencer Graves
+059681.html,[Rd] &quot;+&quot; operator on characters revisited,59681,Spencer Graves
+059546.html,[Rd] scoping/non-standard evaluation issue,59546,Gabor Grothendieck
+059667.html,[Rd] &quot;+&quot; operator on characters revisited,59667,Gabor Grothendieck
+059669.html,[Rd] &quot;+&quot; operator on characters revisited,59669,Gabor Grothendieck
+059690.html,[Rd] &quot;+&quot; operator on characters revisited,59690,Gabor Grothendieck
+059712.html,"[Rd] aggregate(as.formula(&quot;some formula&quot;), data, function) error when called from in a function",59712,Gabor Grothendieck
+059606.html,[Rd] RPostgreSQL 0.1.7 for Windows 64 causes R.2.12.1 Win64 crash,59606,Xiaobo Gu
+059607.html,[Rd] RPostgreSQL 0.1.7 for Windows 64 causes R.2.12.1 Win64	crash,59607,Xiaobo Gu
+059634.html,[Rd] RPostgreSQL 0.1.7 for Windows 64 causes R.2.12.1 Win64	crash,59634,Xiaobo Gu
+059739.html,[Rd] RPostgreSQL 0.1.7 for Windows 64 causes R.2.12.1 Win64	crash,59739,Xiaobo Gu
+059701.html,[Rd] NA printing,59701,Robin Hankin
+059685.html,"[Rd] setGeneric for residuals, etc",59685,Kasper Daniel Hansen
+059616.html,[Rd] R vs. C,59616,David Henderson
+059638.html,[Rd] R vs. C,59638,David Henderson
+059646.html,"[Rd] setGeneric for residuals, etc",59646,Johann Hibschman
+059684.html,"[Rd] setGeneric for residuals, etc",59684,Johann Hibschman
+059554.html,[Rd] Minimum of an ordered factor,59554,Kurt Hornik
+059571.html,[Rd] Minimum of an ordered factor,59571,Kurt Hornik
+059574.html,"[Rd] print.citation, small bug?",59574,Kurt Hornik
+059650.html,[Rd] match function causing bad performance when using table	function on factors with multibyte characters on Windows,59650,Karl Ove Hufthammer
+059652.html,[Rd] table on numeric vector with exclude argument containing value	missing from vector causes warning + &quot;NaN&quot; levels incorrectly	removed from factors,59652,Karl Ove Hufthammer
+059700.html,[Rd] match function causing bad performance when using	tablefunction on factors with multibyte characters on Windows,59700,Karl Ove Hufthammer
+059709.html,[Rd] match function causing bad performance when using	tablefunction on factors with multibyte characters on Windows,59709,Karl Ove Hufthammer
+059710.html,[Rd] match function causing bad performance when using	tablefunction on factors with multibyte characters on Windows,59710,Karl Ove Hufthammer
+059594.html,[Rd] Commenting conventions,59594,Erik Iverson
+059632.html,[Rd] format scientific + plotmath potential bug,59632,Philip Johnson
+059539.html,"[Rd] \VignetteKeywords{}, for KEYWORDS or for free-tagging?",59539,Elliot Todd Kleiman
+059553.html,"[Rd] \VignetteKeywords{}, for KEYWORDS or for free-tagging?",59553,Elliot Todd Kleiman
+059555.html,[Rd] scoping/non-standard evaluation issue,59555,Kenn Konstabel
+059603.html,[Rd] How to point R toward Ghostscript on a Windows XP system,59603,Jeremy Koster
+059573.html,"[Rd] print.citation, small bug?",59573,Nicholas Lewin-Koh
+059611.html,[Rd] R vs. C,59611,Patrick Leyshock
+059600.html,[Rd] matrix multiplication speed R,59600,Uwe Ligges
+059683.html,[Rd] &quot;Simulate&quot; package namespace at development stage,59683,Uwe Ligges
+059733.html,[Rd] trojan at current development version?,59733,Uwe Ligges
+059540.html,[Rd] C code hanging and printing everything at the end,59540,Robert Lowe
+059538.html,"[Rd] RFC: sapply() limitation from vector to matrix,	but not further",59538,Martin Maechler
+059550.html,[Rd] Minimum of an ordered factor,59550,Martin Maechler
+059564.html,[Rd] Minimum of an ordered factor,59564,Martin Maechler
+059569.html,[Rd] Minimum of an ordered factor,59569,Martin Maechler
+059648.html,[Rd] plotmath indices: suggested addition to help file,59648,Martin Maechler
+059656.html,[Rd] plotmath indices: suggested addition to help file,59656,Martin Maechler
+059741.html,[Rd] help with S4 objects: trying to use a &quot;link-glm&quot; as a	class in	an object definition,59741,Martin Maechler
+059743.html,[Rd] patch dendrogram.R from stats [was: Re: dendrogram plot does not draw long labels ?],59743,Martin Maechler
+059731.html,[Rd] trojan at current development version?,59731,Andreas Mayr
+059561.html,[Rd] Indexing request,59561,Steven McKinney
+059726.html,"[Rd] use of depends, suggests, etc",59726,Steven McKinney
+059682.html,[Rd] Possible bug in R parser,59682,Olaf Mersmann
+059599.html,[Rd] matrix multiplication speed R,59599,Joris Meys
+059687.html,"[Rd] setGeneric for residuals, etc",59687,Martin Morgan
+059717.html,[Rd] Dealing with R list objects in C/C++,59717,Martin Morgan
+059723.html,[Rd] Dealing with R list objects in C/C++,59723,Martin Morgan
+059734.html,[Rd] help with S4 objects: trying to use a &quot;link-glm&quot; as a class in	an object definition,59734,Martin Morgan
+059562.html,[Rd] Indexing request,59562,Duncan Murdoch
+059566.html,[Rd] Indexing request,59566,Duncan Murdoch
+059583.html,[Rd] as.environment.list provides inconsistent results under torture,59583,Duncan Murdoch
+059614.html,[Rd] R vs. C,59614,Duncan Murdoch
+059633.html,[Rd] format scientific + plotmath potential bug,59633,Duncan Murdoch
+059675.html,[Rd] &quot;+&quot; operator on characters revisited,59675,Duncan Murdoch
+059742.html,"[Rd] use of depends, suggests, etc",59742,Duncan Murdoch
+059705.html,[Rd] Regression in error handling with R &gt;= 2.12,59705,Herv&#233; Pag&#232;s
+059670.html,[Rd] feature request: additional hook in plot.new(),59670,Tony Plate
+059536.html,[Rd] Want non-ASCII characters in data package,59536,Prof Brian Ripley
+059563.html,[Rd] Indexing request,59563,Prof Brian Ripley
+059568.html,[Rd] Indexing request,59568,Prof Brian Ripley
+059570.html,[Rd] steps for problems compiling a package,59570,Prof Brian Ripley
+059575.html,[Rd] Issues from GNU tar &gt;= 1.24,59575,Prof Brian Ripley
+059590.html,[Rd] Fw: problem reported in 00check.log-package not found-cont.,59590,Prof Brian Ripley
+059605.html,[Rd] How to point R toward Ghostscript on a Windows XP system,59605,Prof Brian Ripley
+059612.html,[Rd] RPostgreSQL 0.1.7 for Windows 64 causes R.2.12.1 Win64 crash,59612,Prof Brian Ripley
+059636.html,[Rd] format scientific + plotmath potential bug,59636,Prof Brian Ripley
+059639.html,[Rd] naresid.exclude query,59639,Prof Brian Ripley
+059641.html,"[Rd] formula(model.frame(y~.^2, data=d)) does not return formula from terms attribute of the model.frame",59641,Prof Brian Ripley
+059644.html,[Rd] buglet in weighted.residuals(mlmObject),59644,Prof Brian Ripley
+059658.html,[Rd] Windows script editor and locale,59658,Prof Brian Ripley
+059694.html,[Rd] Possible bug in R parser,59694,Prof Brian Ripley
+059697.html,[Rd] Missing argument vs. empty argument,59697,Prof Brian Ripley
+059720.html,[Rd] Minor typo in influence.measures.Rd ?,59720,Prof Brian Ripley
+059724.html,"[Rd] use of depends, suggests, etc",59724,Prof Brian Ripley
+059729.html,[Rd] generating HTML help pages,59729,Prof Brian Ripley
+059744.html,[Rd] Clipping (was Re: patch dendrogram.R from stats [was: Re: dendrogram plot does not draw long labels ?]),59744,Prof Brian Ripley
+059748.html,[Rd] Warning: you may need to use R-patched with recent R distros,59748,Prof Brian Ripley
+059750.html,[Rd] Warning: you may need to use R-patched with recent R distros,59750,Prof Brian Ripley
+059587.html,[Rd] Access R Help Content From R,59587,"Roebuck,Paul L"
+059618.html,[Rd] R vs. C,59618,Barry Rowlingson
+059666.html,[Rd] &quot;+&quot; operator on characters revisited,59666,Vitalie S.
+059668.html,[Rd] &quot;+&quot; operator on characters revisited,59668,Vitalie S.
+059680.html,[Rd] &quot;+&quot; operator on characters revisited,59680,Vitalie S.
+059579.html,[Rd] [Rcpp-devel] Loading a package using Rcpp Modules results in memory corruption,59579,Dominick Samperi
+059619.html,[Rd] R vs. C,59619,Dominick Samperi
+059621.html,[Rd] R vs. C,59621,Dominick Samperi
+059625.html,[Rd] R vs. C,59625,Dominick Samperi
+059627.html,[Rd] R vs. C,59627,Dominick Samperi
+059635.html,[Rd] R vs. C now rather: how to ease package checking,59635,Dominick Samperi
+059703.html,[Rd] NA printing,59703,Marc Schwartz
+059718.html,[Rd] Minor typo in influence.measures.Rd ?,59718,Gavin Simpson
+059692.html,[Rd] normality and equal variance testing,59692,Greg Snow
+059686.html,[Rd] normality and equal variance testing,59686,Karthi Subramanian
+059661.html,[Rd] [Rcpp-devel]  Calling C++ from R,59661,Xiaochun Sun
+059547.html,[Rd] Minimum of an ordered factor,59547,"Thaler, Thorn, LAUSANNE,	Applied Mathematics"
+059557.html,[Rd] Minimum of an ordered factor,59557,"Thaler, Thorn, LAUSANNE,	Applied Mathematics"
+059565.html,[Rd] Minimum of an ordered factor,59565,"Thaler, Thorn, LAUSANNE,	Applied Mathematics"
+059663.html,[Rd] news.Rd format,59663,Terry Therneau
+059664.html,[Rd] news.Rd format -- further info,59664,Terry Therneau
+059640.html,[Rd] Possible bug in stats::arima (arima.c),59640,Janko Thyson
+059649.html,"[Rd] setGeneric for residuals, etc",59649,Janko Thyson
+059678.html,[Rd] &quot;Simulate&quot; package namespace at development stage,59678,Janko Thyson
+059713.html,[Rd] Error handling with frozen RCurl function calls +	Identification of frozen R processes,59713,Janko Thyson
+059714.html,[Rd] Error handling with frozen RCurl function calls +	Identification of frozen R processes,59714,Janko Thyson
+059541.html,[Rd] C code hanging and printing everything at the end,59541,Simon Urbanek
+059580.html,[Rd] as.environment.list provides inconsistent results under	torture,59580,Simon Urbanek
+059582.html,[Rd] as.environment.list provides inconsistent results under	torture,59582,Simon Urbanek
+059610.html,[Rd] isoreg memory leak?,59610,Simon Urbanek
+059677.html,[Rd] Windows script editor and locale,59677,Simon Urbanek
+059679.html,[Rd] feature request: additional hook in plot.new(),59679,Simon Urbanek
+059706.html,[Rd] match function causing bad performance when using	tablefunction on factors with multibyte characters on Windows,59706,Simon Urbanek
+059699.html,[Rd] dendrogram plot does not draw long labels ?,59699,Tobias Verbeke
+059707.html,[Rd] patch dendrogram.R from stats [was: Re: dendrogram plot does not draw long labels ?],59707,Tobias Verbeke
+059745.html,[Rd] Clipping (was Re: patch dendrogram.R from stats [was: Re: dendrogram plot does not draw long labels ?]),59745,Tobias Verbeke
+059595.html,[Rd] Access R Help Content From R,59595,Hadley Wickham
+059647.html,[Rd] [OT] DSC?,59647,Hadley Wickham
+059671.html,[Rd] &quot;+&quot; operator on characters revisited,59671,Hadley Wickham
+059560.html,[Rd] Indexing request,59560,David Winsemius
+059601.html,[Rd] naresid.exclude query,59601,Simon Wood
+059608.html,[Rd] isoreg memory leak?,59608,Simon Wotherspoon
+059660.html,[Rd] libRblas.so: undefined reference to `xerbla_' ?,59660,Andre Zege
+059715.html,[Rd] Dealing with R list objects in C/C++,59715,Wayne.Zhang at barclayscapital.com
+059722.html,[Rd] Dealing with R list objects in C/C++,59722,Wayne.Zhang at barclayscapital.com
+059545.html,[Rd] scoping/non-standard evaluation issue,59545,peter dalgaard
+059551.html,[Rd] scoping/non-standard evaluation issue,59551,peter dalgaard
+059556.html,[Rd] scoping/non-standard evaluation issue,59556,peter dalgaard
+059585.html,[Rd] as.environment.list provides inconsistent results under	torture,59585,peter dalgaard
+059657.html,[Rd] Windows script editor and locale,59657,peter dalgaard
+059672.html,[Rd] &quot;+&quot; operator on characters revisited,59672,peter dalgaard
+059732.html,[Rd] trojan at current development version?,59732,peter dalgaard
+059567.html,[Rd] steps for problems compiling a package,59567,egc
+059572.html,[Rd] steps for problems compiling a package,59572,egc
+059576.html,[Rd] possible bug with log of complex zero,59576,Richard.Cotton at hsl.gov.uk
+059651.html,[Rd] Calling C++ from R,59651,mtck1982
+059598.html,[Rd] matrix multiplication speed R,59598,oyvfos
+059602.html,[Rd] matrix multiplication speed R,59602,oyvfos
+059593.html,[Rd] Commenting conventions,59593,dhinds at sonic.net
+059604.html,[Rd] Commenting conventions,59604,dhinds at sonic.net
+059725.html,"[Rd] use of depends, suggests, etc",59725,Ken.Williams at thomsonreuters.com
+059749.html,[Rd] Warning: you may need to use R-patched with recent R distros,59749,Ken.Williams at thomsonreuters.com
+059581.html,[Rd] as.environment.list provides inconsistent results under torture,59581,luke-tierney at uiowa.edu
+059584.html,[Rd] as.environment.list provides inconsistent results under torture,59584,luke-tierney at uiowa.edu
+059586.html,[Rd] as.environment.list provides inconsistent results under torture,59586,luke-tierney at uiowa.edu
+059596.html,[Rd] as.environment.list provides inconsistent results under torture,59596,luke-tierney at uiowa.edu
+059623.html,[Rd] isoreg memory leak?,59623,luke-tierney at uiowa.edu
+059588.html,[Rd] problem reported in 00check.log-package not found,59588,carol white
+059589.html,[Rd] Fw:  problem reported in 00check.log-package not found-cont.,59589,carol white
+059592.html,[Rd] Fw: problem reported in 00check.log-package not found-cont.,59592,carol white
