@@ -2,6 +2,26 @@ Analysis of R-devel, the R core developers email list
 
 https://stat.ethz.ch/pipermail/r-devel/
 
+And R project SVN repo cloned to https://github.com/wch/r-source
+
+** 30 June 2020
+
+[[file:slides.tex]] makes [[file:slides.pdf]] for useR 2020 introduction of
+Luke Tierney and Martin Maechler.
+
+[[file:monthly_code.R]] makes 
+
+[[file:monthly_code_Luke_Tierney.png]]
+
+[[file:monthly_code_Martin_Maechler.png]]
+
+from csv data files produced in [[file:r-source-commits.R]] (git log) and
+[[file:analyze.R]] (r-devel archive).
+
+also [[file:r-svn-commits-all-convert.R]] analyzes svn log, which has a
+few hundred more commits than git log for some reason. why? are some
+commits (e.g. r5) from svn repo impossible to translate into git repo?
+
 ** 27 June 2020
 
 [[file:download.R]] grabs monthly email summary web pages.

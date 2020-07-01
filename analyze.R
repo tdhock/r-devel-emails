@@ -6,10 +6,11 @@ message.dt <- data.table(csv=Sys.glob("months/*/author.csv"))[, {
 
 author.funs <- list(
   "Luke Tierney"=function(author)grepl("uke", author) & grepl("ier|stat.uiowa", author),
-  "Toby Hocking"=function(author)grepl("Hocking", author),
-  "Hadley Wickham"=function(author)grepl("h(?:adley)?.wickham", author, ignore.case=TRUE),
-  "Matt Dowle"=function(author)grepl("Dowle", author),
-  "Brian Ripley"=function(author)grepl("ipley", author),
+  ## "Tomas Kalibera"=function(author)grepl("alibera", author),
+  ## "Toby Hocking"=function(author)grepl("Hocking", author),
+  ## "Hadley Wickham"=function(author)grepl("h(?:adley)?.wickham", author, ignore.case=TRUE),
+  ## "Matt Dowle"=function(author)grepl("Dowle", author),
+  ## "Brian Ripley"=function(author)grepl("ipley", author),
   "Martin Maechler"=function(author)grepl("maechler", author, ignore.case=TRUE))
 message.dt[, Author := NA_character_]
 for(a in names(author.funs)){
@@ -60,6 +61,8 @@ ggplot()+
   theme_bw()+
   theme(panel.spacing=grid::unit(0, "lines"))+
   facet_grid(Author ~ ., scales="free", space="free")
+
+fwrite(Author.month.dt, "monthly_emails.csv")
 
 lab.vec <- paste0(c(1997, seq(2000, 2020, by=5)), "-04")
 breaks.vec <- as.POSIXct(strptime(paste0(lab.vec, "-01"), "%Y-%m-%d"))
