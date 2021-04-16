@@ -1,8 +1,10 @@
 Analysis of R-devel, the R core developers email list
 
-https://stat.ethz.ch/pipermail/r-devel/
+Presented during useR 2020 to introduce Martin and Luke, [[https://www.youtube.com/watch?v=X_eDHNVceCU][video]]!
 
-And R project SVN repo cloned to https://github.com/wch/r-source
+Data sources
+- Emails https://stat.ethz.ch/pipermail/r-devel/
+- R project SVN repo cloned to https://github.com/wch/r-source
 
 ** 30 June 2020
 
