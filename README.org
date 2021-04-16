@@ -1,4 +1,4 @@
-Analysis of R-devel, the R core developers email list
+Analysis of R core emails and commits
 
 Presented during useR 2020 to introduce Martin and Luke, [[https://www.youtube.com/watch?v=X_eDHNVceCU][video]]!
 
